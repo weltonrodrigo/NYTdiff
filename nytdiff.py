@@ -20,7 +20,7 @@ from selenium import webdriver
 
 import feedparser
 
-TIMEZONE = 'Europe/Brussels'
+TIMEZONE = 'America/Sao_Paulo'
 LOCAL_TZ = timezone(TIMEZONE)
 MAX_RETRIES = 10
 RETRY_DELAY = 3
@@ -381,7 +381,7 @@ class RSSParser(BaseParser):
 
     def entry_to_dict(self, article):
         article_dict = dict()
-        article_dict['article_id'] = article.id.split(' ')[0]
+        article_dict['article_id'] = article.link
         article_dict['url'] = article.link
         article_dict['title'] = article.title
         article_dict['abstract'] = self.strip_html(article.description)
@@ -434,22 +434,22 @@ class RSSParser(BaseParser):
                     url = data['url']
                     if row['url'] != data['url']:
                         if self.show_diff(row['url'], data['url']):
-                            tweet_text = "Modification d'URL"
+                            tweet_text = "Mofidicação da URL"
                             self.tweet(tweet_text, data['article_id'], url,
                                        'article_id')
                     if row['title'] != data['title']:
                         if self.show_diff(row['title'], data['title']):
-                            tweet_text = "Modification du Titre"
+                            tweet_text = "Modificação do Título"
                             self.tweet(tweet_text, data['article_id'], url,
                                        'article_id')
                     if row['abstract'] != data['abstract']:
                         if self.show_diff(row['abstract'], data['abstract']):
-                            tweet_text = "Modification de la Description"
+                            tweet_text = "Modificação da Descrição"
                             self.tweet(tweet_text, data['article_id'], url,
                                        'article_id')
                     if row['author'] != data['author']:
                         if self.show_diff(row['author'], data['author']):
-                            tweet_text = "Modification de l'auteur"
+                            tweet_text = "Modificação do autor"
                             self.tweet(tweet_text, data['article_id'], url,
                                        'article_id')
 
@@ -484,9 +484,12 @@ class RSSParser(BaseParser):
 
 def main():
     # logging
-    logging.basicConfig(filename=LOG_FOLDER + 'titlediff.log',
-                        format='%(asctime)s %(name)13s %(levelname)8s: ' +
-                        '%(message)s',
+    # logging.basicConfig(filename=LOG_FOLDER + 'titlediff.log',
+    #                     format='%(asctime)s %(name)13s %(levelname)8s: ' +
+    #                     '%(message)s',
+    #                     level=logging.INFO)
+    logging.basicConfig(format='%(asctime)s %(name)13s %(levelname)8s: ' +
+                               '%(message)s',
                         level=logging.INFO)
     logging.getLogger("requests").setLevel(logging.WARNING)
     logging.info('Starting script')
