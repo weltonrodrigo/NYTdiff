@@ -379,13 +379,19 @@ class RSSParser(BaseParser):
         self.articles_table = self.db['rss_ids']
         self.versions_table = self.db['rss_versions']
 
+    def get_value(self, article: feedparser.FeedParserDict, field: str) -> str:
+        if hasattr(article, field):
+            return getattr(article, field)
+        else:
+            return ''
+
     def entry_to_dict(self, article):
         article_dict = dict()
-        article_dict['article_id'] = article.link
-        article_dict['url'] = article.link
-        article_dict['title'] = article.title
-        article_dict['abstract'] = self.strip_html(article.description)
-        article_dict['author'] = article.author
+        article_dict['article_id'] = self.get_value(article, 'link')
+        article_dict['url'] = self.get_value(article, 'link')
+        article_dict['title'] = self.get_value(article, 'title')
+        article_dict['abstract'] = self.strip_html(self.get_value(article, 'description'))
+        article_dict['author'] = self.get_value(article, 'author')
         # article_dict['illustration'] = article.media_content[0]['url']
         # article_dict['illustartion_size'] = article.media_content[0]['filesize']
         od = collections.OrderedDict(sorted(article_dict.items()))
