@@ -136,27 +136,30 @@ class BaseParser(object):
         return tweet_id
 
     def tweet(self, text, article_id, url, column='id'):
-        images = list()
-        image = self.media_upload('./output/' + self.filename + '.png')
-        logging.info('Media ready with ids: %s', image)
-        images.append(image)
-        logging.info('Text to tweet: %s', text)
-        logging.info('Article id: %s', article_id)
-        reply_to = self.get_prev_tweet(article_id, column)
-        if reply_to is None:
-            logging.info('Tweeting url: %s', url)
-            tweet = self.tweet_text(url)
-            # if TESTING, give a random id based on time
-            reply_to = tweet.id if not TESTING else time.time()
-        logging.info('Replying to: %s', reply_to)
-        tweet = self.tweet_with_media(text, images, reply_to)
-        if TESTING :
-            # if TESTING, give a random id based on time
-            tweet_id = time.time()
-        else:
-            tweet_id = tweet.id
-        logging.info('Id to store: %s', tweet_id)
-        self.update_tweet_db(article_id, tweet_id, column)
+        try:
+            images = list()
+            image = self.media_upload('./output/' + self.filename + '.png')
+            logging.info('Media ready with ids: %s', image)
+            images.append(image)
+            logging.info('Text to tweet: %s', text)
+            logging.info('Article id: %s', article_id)
+            reply_to = self.get_prev_tweet(article_id, column)
+            if reply_to is None:
+                logging.info('Tweeting url: %s', url)
+                tweet = self.tweet_text(url)
+                # if TESTING, give a random id based on time
+                reply_to = tweet.id if not TESTING else time.time()
+            logging.info('Replying to: %s', reply_to)
+            tweet = self.tweet_with_media(text, images, reply_to)
+            if TESTING :
+                # if TESTING, give a random id based on time
+                tweet_id = time.time()
+            else:
+                tweet_id = tweet.id
+            logging.info('Id to store: %s', tweet_id)
+            self.update_tweet_db(article_id, tweet_id, column)
+        except BaseException as e:
+            logging.exception('Error tweeting for article_id:\n%s' % str(e))
         return
 
     def get_page(self, url, header=None, payload=None):
