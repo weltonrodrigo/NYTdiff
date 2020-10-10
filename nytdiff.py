@@ -375,7 +375,7 @@ class NYTParser(BaseParser):
 class RSSParser(BaseParser):
     def __init__(self, api, rss_url):
         BaseParser.__init__(self, api)
-        self.urls = [rss_url]
+        self.urls = rss_url
         self.articles_table = self.db['rss_ids']
         self.versions_table = self.db['rss_versions']
 
@@ -478,13 +478,17 @@ class RSSParser(BaseParser):
         return True
 
     def parse_rss(self):
-        r = feedparser.parse(self.urls[0])
-        if r is None:
-            logging.warning('Empty response RSS')
-            return
-        else:
-            logging.info('Parsing %s', r.feed.title)
-        loop = self.loop_entries(r.entries)
+        entries = []
+        for url in self.urls:
+            r = feedparser.parse(url)
+            if r is None:
+                logging.warning('Empty response RSS')
+                return
+            else:
+                logging.info('Parsing %s', r.feed.title)
+                entries.extend(r.entries)
+
+        loop = self.loop_entries(entries)
         if loop:
             self.remove_old('article_id')
 
@@ -515,9 +519,9 @@ def main():
         #nyt_api_key = os.environ['NYT_API_KEY']
         #nyt = NYTParser(nyt_api, nyt_api_key)
         rss_url = os.environ['RSS_URL']
-        for url in rss_url.split(','):
-            rss = RSSParser(twitter_api, url)
-            rss.parse_rss()
+        urls = rss_url.split(',')
+        rss = RSSParser(twitter_api, urls)
+        rss.parse_rss()
         logging.debug('Finished RSS')
     except:
         logging.exception('RSS')
