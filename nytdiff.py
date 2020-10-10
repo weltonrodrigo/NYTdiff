@@ -158,7 +158,7 @@ class BaseParser(object):
                 tweet_id = tweet.id
             logging.info('Id to store: %s', tweet_id)
             self.update_tweet_db(article_id, tweet_id, column)
-        except BaseException as e:
+        except Exception as e:
             logging.exception('Error tweeting for article_id:\n%s' % str(e))
         return
 
