@@ -1,10 +1,28 @@
-2020-10-10 19:21:07,440          root     INFO: Starting script
-2020-10-10 19:21:08,477          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-10 19:21:09,327          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-10 19:21:10,174          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-10 19:21:11,252          root     INFO: Parsing G1
-2020-10-10 19:21:12,035          root     INFO: Parsing OGlobo
-2020-10-10 19:21:12,453          root     INFO: Parsing R7 - Brasil
-2020-10-10 19:21:14,462          root     INFO: New article tracked: https://oglobo.globo.com/economia/inauguracao-de-loja-da-havan-gera-aglomeracao-em-belem-24687293
-2020-10-10 19:21:14,660          root     INFO: Removed https://oglobo.globo.com/esportes/bruno-soares-mate-pavic-sao-superados-por-atuais-campeoes-na-final-de-roland-garros-24687174
-2020-10-10 19:21:14,660          root     INFO: Finished script
+2020-10-10 19:27:13,910          root     INFO: Starting script
+2020-10-10 19:27:14,968          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-10 19:27:15,832          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-10 19:27:16,685          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-10 19:27:17,797          root     INFO: Parsing G1
+2020-10-10 19:27:18,561          root     INFO: Parsing OGlobo
+2020-10-10 19:27:18,985          root     INFO: Parsing R7 - Brasil
+2020-10-10 19:27:20,903          root     INFO: Ultraleve caiu sobre a cerca de uma casa em Loches, sem causar nenhuma vítima adicional, enquanto a aeronave veio ao solo numa região desabitada. <ins>Bombeiros trabalham próximos ao local onde um ultraleve caiu em Loches, no centro da França AFP</ins> Cinco pessoas morreram neste sábado (10) na colisão de um ultraleve e um avião de pequeno porte em Loches, região central da França, informou a prefeitura do departamento de Indre-et-Loire. Um pequeno ULM (ultraleve) transportando duas pessoas e um avião turístico do tipo DA40, com três pessoas a bordo, se chocaram, por volta das 17h pelo horário local (12h pelo horário de Brasília). "O ultraleve caiu sobre a cerca de uma casa em Loches, sem causar nenhuma vítima adicional, enquanto a aeronave veio ao solo numa região desabitada, a várias centenas de metros dali", disse à AFP Nadia Seghier, secretária-geral da prefeitura de Indre-et-Loire. "As cinco pessoas envolvidas no acidente estão mortas. O pequeno ULM caiu na rue Aristide Briand, (a menos de dois quilômetros do centro de Loches,) e o avião turístico acabou caindo na região de Haut Jarry, perto da periferia da cidade, não muito longe da torre de água ", completou. Cerca de cinquenta bombeiros foram enviados para o local, além de trinta policiais que se encarregaram de estabelecer desvios nas estradas da região. Agentes dos serviços de emergência aeronáutica de Lyon foram mobilizados, inicialmente, para localizar o avião, que foi encontrado rapidamente, com a ajuda de um helicóptero, especificou a prefeitura. As identidades das vítimas e as causas do acidente ainda são desconhecidas. Uma investigação foi aberta pela polícia de Loches.
+2020-10-10 19:27:23,421          root     INFO: Media ready with ids: 1315011059451940866
+2020-10-10 19:27:23,421          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-10 19:27:23,421          root     INFO: Article id: https://g1.globo.com/mundo/noticia/2020/10/10/acidente-entre-aviao-e-ultraleve-deixa-cinco-mortos-na-franca.ghtml
+2020-10-10 19:27:23,425          root     INFO: Tweeting url: https://g1.globo.com/mundo/noticia/2020/10/10/acidente-entre-aviao-e-ultraleve-deixa-cinco-mortos-na-franca.ghtml
+2020-10-10 19:27:23,743          root     INFO: Replying to: 1315011062215868416
+2020-10-10 19:27:24,104          root     INFO: Id to store: 1315011063348420612
+2020-10-10 19:27:24,376          root     INFO: New article tracked: https://oglobo.globo.com/esportes/caso-carol-solberg-ministerio-publico-pede-explicacoes-cbv-cita-17-na-selecao-masculina-em-2018-1-24687294
+2020-10-10 19:27:24,386          root     INFO: New article tracked: https://oglobo.globo.com/mundo/trump-faz-na-casa-branca-seu-primeiro-comicio-desde-que-saiu-do-hospital-1-24687226
+2020-10-10 19:27:24,393          root     INFO: New article tracked: https://oglobo.globo.com/rio/falso-medico-que-provocou-amputacao-da-perna-de-paciente-preso-em-valenca-24687289
+2020-10-10 19:27:24,405          root     INFO: RIO - O governador em exercício do Rio de Janeiro, Cláudio Castro, testou positivo para a Covid-19 neste sábado. Cláudio Castro soube do resultado do exame neste sábado. Ele apresentou sintomas de gripe e coriza, além de dores de cabeça, mas passa bem e está de repouso em sua casa, <del>no condomínio Península,</del> na Barra da Tijuca. Seu antecessor no cargo, Wilson Witzel, também contraiu o coronavírus em abril. À época, Witzel também não desenvolveu quadro grave e não precisou ser hospitalizado.
+2020-10-10 19:27:26,325          root     INFO: Media ready with ids: 1315011072382959616
+2020-10-10 19:27:26,326          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-10 19:27:26,326          root     INFO: Article id: https://oglobo.globo.com/rio/governador-em-exercicio-do-rio-claudio-castro-testa-positivo-para-covid-19-24687276
+2020-10-10 19:27:26,333          root     INFO: Tweeting url: https://oglobo.globo.com/rio/governador-em-exercicio-do-rio-claudio-castro-testa-positivo-para-covid-19-24687276
+2020-10-10 19:27:26,587          root     INFO: Replying to: 1315011074228465664
+2020-10-10 19:27:26,881          root     INFO: Id to store: 1315011075289550848
+2020-10-10 19:27:27,086          root     INFO: Removed https://oglobo.globo.com/mundo/no-gramado-da-casa-branca-trump-faz-primeiro-comicio-desde-que-saiu-do-hospital-24687226
+2020-10-10 19:27:27,088          root     INFO: Removed https://oglobo.globo.com/rio/contagio-de-covid-19-em-escolas-acende-alerta-sobre-protocolo-da-rede-publica-24687186
+2020-10-10 19:27:27,090          root     INFO: Removed https://oglobo.globo.com/rio/falso-medico-que-provocou-amputacao-de-perna-de-paciente-preso-em-valenca-24687289
+2020-10-10 19:27:27,091          root     INFO: Finished script
