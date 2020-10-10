@@ -1,55 +1,11 @@
-2020-10-10 18:57:04,898          root     INFO: Starting script
-2020-10-10 18:57:05,930          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-10 18:57:06,785          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-10 18:57:07,625          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-10 18:57:08,546          root     INFO: Parsing G1
-2020-10-10 18:57:09,319          root     INFO: Parsing OGlobo
-2020-10-10 18:57:10,982          root     INFO: New article tracked: https://g1.globo.com/mundo/noticia/2020/10/10/trump-retoma-campanha-com-1o-evento-publico-desde-o-diagnostico-de-covid-19.ghtml
-2020-10-10 18:57:10,992          root     INFO: New article tracked: https://g1.globo.com/sp/santos-regiao/noticia/2020/10/10/homem-se-entrega-a-policia-apos-matar-ex-namorada-e-companheiro-dela-a-tiros-no-litoral-de-sp.ghtml
-2020-10-10 18:57:11,000          root     INFO: New article tracked: https://g1.globo.com/al/alagoas/noticia/2020/10/10/corpo-de-bombeiros-registra-oito-ocorrencias-de-fogo-em-vegetacao-em-diferentes-pontos-de-alagoas.ghtml
-2020-10-10 18:57:11,007          root     INFO: New article tracked: https://g1.globo.com/sp/vale-do-paraiba-regiao/festa-da-padroeira/2020/noticia/2020/10/10/veja-fotos-do-7dia-da-novena-na-basilica-de-aparecida.ghtml
-2020-10-10 18:57:11,015          root     INFO: New article tracked: https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2020/10/10/falta-de-internet-e-telefone-revolta-moradores-da-vila-moraes-em-mogi-das-cruzes.ghtml
-2020-10-10 18:57:11,022          root     INFO: New article tracked: https://g1.globo.com/ba/bahia/noticia/2020/10/10/prefeitura-de-ilheus-libera-reabertura-de-cinema-e-clubes-a-partir-deste-sabado-10.ghtml
-2020-10-10 18:57:11,029          root     INFO: New article tracked: https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/10/rj-registra-19284-mortes-e-283407-casos-confirmados-de-covid-19.ghtml
-2020-10-10 18:57:11,036          root     INFO: New article tracked: https://g1.globo.com/sp/santos-regiao/edicao/2020/10/10/videos-jornal-da-tribuna-1-edicao-de-sabado-10-de-outubro.ghtml
-2020-10-10 18:57:11,042          root     INFO: New article tracked: https://g1.globo.com/sc/santa-catarina/noticia/2020/10/10/vc-viu-mulher-descobre-cobra-embrulhada-junto-com-o-brocolis-raio-mata-homem-e-as-mais-lidas-do-g1-sc.ghtml
-2020-10-10 18:57:11,052          root     INFO: New article tracked: https://g1.globo.com/go/goias/noticia/2020/10/10/chuva-ajuda-a-acabar-com-focos-de-incendio-na-chapada-dos-veadeiros-mas-risco-de-fogo-ainda-e-critico-diz-bombeiros.ghtml
-2020-10-10 18:57:11,060          root     INFO: New article tracked: https://g1.globo.com/pi/piaui/noticia/2020/10/10/santo-antonio-de-lisboa-a-capital-do-caju-usa-o-fruto-para-produzir-cajuina-doces-e-ate-pizza.ghtml
-2020-10-10 18:57:11,072          root     INFO: New article tracked: https://g1.globo.com/ro/rondonia/noticia/2020/10/10/bicho-preguica-de-8-kg-e-resgatado-em-portao-de-casa-apos-ser-acuado-por-caes-em-ro.ghtml
-2020-10-10 18:57:11,081          root     INFO: New article tracked: https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2020/10/10/relogios-oriundos-do-paraguai-sao-apreendidos-durante-abordagem-da-policia-rodoviaria-na-sp-270.ghtml
-2020-10-10 18:57:11,221          root     INFO: Fique por dentro do que abre e fecha no feriado <del>de Nossa Senhora Aparecida</del> <ins>desta segunda-feira (12)</ins> em Petrolina
-2020-10-10 18:57:13,115          root     INFO: Media ready with ids: 1315003467392520194
-2020-10-10 18:57:13,116          root     INFO: Text to tweet: Modificação do Título
-2020-10-10 18:57:13,116          root     INFO: Article id: https://g1.globo.com/pe/petrolina-regiao/noticia/2020/10/10/fique-por-dentro-do-que-abre-e-fecha-no-feriado-de-nossa-senhora-aparecida-em-petrolina.ghtml
-2020-10-10 18:57:13,119          root     INFO: Tweeting url: https://g1.globo.com/pe/petrolina-regiao/noticia/2020/10/10/fique-por-dentro-do-que-abre-e-fecha-no-feriado-de-nossa-senhora-aparecida-em-petrolina.ghtml
-2020-10-10 18:57:13,340          root     INFO: Replying to: 1315003469078691844
-2020-10-10 18:57:13,641          root     INFO: Id to store: 1315003470039130113
-2020-10-10 18:57:13,679          root     INFO: New article tracked: https://oglobo.globo.com/mundo/trump-faz-primeiro-comicio-desde-sair-do-hospital-no-gramado-da-casa-branca-24687226
-2020-10-10 18:57:13,687          root     INFO: New article tracked: https://oglobo.globo.com/rio/envolvido-em-tentativa-de-homicidio-contra-policial-preso-com-15kg-de-cocaina-24687230
-2020-10-10 18:57:13,696          root     INFO: New article tracked: https://oglobo.globo.com/mundo/resistencia-de-judeus-ortodoxos-em-seguir-restricoes-pode-ter-influenciado-alta-de-casos-da-covid-19-em-nova-york-24687220
-2020-10-10 18:57:13,706          root     INFO: New article tracked: https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-mais-de-150-mil-mortes-por-covid-19-24687031
-2020-10-10 18:57:13,714          root     INFO: New article tracked: https://oglobo.globo.com/economia/marcas-de-luxo-investem-no-comercio-digital-para-fisgar-brasileiros-que-nao-podem-viajar-para-comprar-24687097
-2020-10-10 18:57:13,721          root     INFO: New article tracked: https://oglobo.globo.com/esportes/bruno-soares-mate-pavic-sao-superados-por-atuais-campeoes-na-final-de-roland-garros-24687174
-2020-10-10 18:57:13,729          root     INFO: New article tracked: https://oglobo.globo.com/brasil/eleicoes-2020/populacao-aponta-jornalismo-profissional-como-fonte-mais-confiavel-para-se-informar-sobre-eleicao-diz-datafolha-24687195
-2020-10-10 18:57:13,737          root     INFO: New article tracked: https://oglobo.globo.com/rio/contagio-de-covid-19-em-escolas-acende-alerta-sobre-protocolo-da-rede-publica-24687186
-2020-10-10 18:57:13,744          root     INFO: New article tracked: https://oglobo.globo.com/brasil/eleicoes-2020/justica-tira-do-ar-propaganda-de-candidata-em-mt-por-excesso-de-tempo-de-bolsonaro-24687167
-2020-10-10 18:57:13,753          root     INFO: New article tracked: https://oglobo.globo.com/sociedade/governo-da-bahia-decreta-estado-de-emergencia-em-73-municipios-atingidos-por-incendios-24687161
-2020-10-10 18:57:13,759          root     INFO: Removed https://g1.globo.com/rj/regiao-serrana/noticia/2020/10/10/suspeito-de-tentar-matar-policial-militar-em-petropolis-e-preso-em-paty-do-alferes-no-rj.ghtml
-2020-10-10 18:57:13,761          root     INFO: Removed https://g1.globo.com/sp/mogi-das-cruzes-suzano/edicao/2020/10/10/videos-diario-tv-1-edicao-de-sabado-10-de-outubro.ghtml
-2020-10-10 18:57:13,764          root     INFO: Removed https://g1.globo.com/se/sergipe/noticia/2020/10/10/ciclista-fica-ferido-apos-se-envolver-em-acidente-com-micro-onibus-na-br-101-em-maruim.ghtml
-2020-10-10 18:57:13,767          root     INFO: Removed https://g1.globo.com/pr/parana/edicao/2020/10/10/videos-meio-dia-parana-de-sabado-10-de-outubro.ghtml
-2020-10-10 18:57:13,770          root     INFO: Removed https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/10/10/assaltantes-usam-falso-anuncio-de-transporte-de-carga-para-tentar-roubar-caminhao-em-piracicaba.ghtml
-2020-10-10 18:57:13,772          root     INFO: Removed https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2020/10/10/quatro-mortes-por-coronavirus-sao-registradas-em-barra-mansa.ghtml
-2020-10-10 18:57:13,775          root     INFO: Removed https://g1.globo.com/sc/santa-catarina/noticia/2020/10/10/policia-de-sc-apreende-mais-de-tres-toneladas-de-maconha-em-24-horas.ghtml
-2020-10-10 18:57:13,777          root     INFO: Removed https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/10/procurado-em-lista-do-ministerio-da-justica-suspeito-de-explodir-agencia-bancaria-e-distribuir-armas-e-preso-em-sumare.ghtml
-2020-10-10 18:57:13,779          root     INFO: Removed https://g1.globo.com/to/tocantins/noticia/2020/10/10/morador-encontra-jiboia-em-rua-na-regiao-sul-de-palmas-veja-o-video.ghtml
-2020-10-10 18:57:13,782          root     INFO: Removed https://g1.globo.com/am/amazonas/noticia/2020/10/10/enquete-vai-dar-nome-a-polo-de-tecnologia-no-antigo-hotel-cassina-em-manaus.ghtml
-2020-10-10 18:57:13,784          root     INFO: Removed https://g1.globo.com/sc/santa-catarina/noticia/2020/10/10/setor-do-turismo-de-sc-faz-adequacoes-para-receber-visitantes-no-feriadao-durante-pandemia.ghtml
-2020-10-10 18:57:13,786          root     INFO: Removed https://g1.globo.com/pa/santarem-regiao/noticia/2020/10/10/unidade-para-diagnostico-e-tratamento-de-malaria-e-implantada-na-aldeia-tawana-em-oriximina.ghtml
-2020-10-10 18:57:13,788          root     INFO: Removed https://g1.globo.com/ba/bahia/noticia/2020/10/10/motorista-perde-controle-da-direcao-do-carro-e-bate-em-modulo-da-pm-em-feira-de-santana.ghtml
-2020-10-10 18:57:13,790          root     INFO: Removed https://g1.globo.com/sp/sao-carlos-regiao/noticia/2020/10/10/araraquara-registra-mais-68-casos-de-covid-19-e-soma-4877-pessoas-infectadas-segundo-boletim.ghtml
-2020-10-10 18:57:13,792          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/10/curso-online-de-planejamento-e-controle-financeiro-na-empresa-recebe-inscricoes-em-sorocaba.ghtml
-2020-10-10 18:57:13,794          root     INFO: Removed https://g1.globo.com/ac/acre/noticia/2020/10/10/incendio-destroi-parcialmente-casa-de-madeira-em-rio-branco.ghtml
-2020-10-10 18:57:13,796          root     INFO: Removed https://g1.globo.com/es/espirito-santo/noticia/2020/10/10/homem-armado-invade-barbearia-no-es-mata-cliente-que-cortava-cabelo-e-fere-barbeiro.ghtml
-2020-10-10 18:57:13,799          root     INFO: Removed https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/10/claudio-castro-testa-positivo-para-covid-19.ghtml
-2020-10-10 18:57:13,800          root     INFO: Finished script
+2020-10-10 19:12:12,352          root     INFO: Starting script
+2020-10-10 19:12:13,453          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-10 19:12:14,306          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-10 19:12:15,154          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-10 19:12:16,080          root     INFO: Parsing G1
+2020-10-10 19:12:17,863          root     INFO: Parsing OGlobo
+2020-10-10 19:12:19,858          root     INFO: New article tracked: https://oglobo.globo.com/mundo/no-gramado-da-casa-branca-trump-faz-primeiro-comicio-desde-que-saiu-do-hospital-24687226
+2020-10-10 19:12:19,867          root     INFO: New article tracked: https://oglobo.globo.com/rio/governador-em-exercicio-do-rio-claudio-castro-testa-positivo-para-covid-19-24687276
+2020-10-10 19:12:19,923          root     INFO: Removed https://oglobo.globo.com/mundo/trump-faz-primeiro-comicio-desde-sair-do-hospital-no-gramado-da-casa-branca-24687226
+2020-10-10 19:12:19,926          root     INFO: Removed https://oglobo.globo.com/sociedade/governo-da-bahia-decreta-estado-de-emergencia-em-73-municipios-atingidos-por-incendios-24687161
+2020-10-10 19:12:19,927          root     INFO: Finished script
