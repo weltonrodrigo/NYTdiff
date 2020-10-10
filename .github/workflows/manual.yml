@@ -13,7 +13,7 @@ jobs:
     - name: Cache
       uses: actions/cache@v2.1.2
       with:
-        path: .venv/
+        path: ./venv
         key: venv
     - name: Cache 2
       uses: actions/cache@v2.1.2
