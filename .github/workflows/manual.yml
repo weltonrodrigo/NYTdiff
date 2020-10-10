@@ -28,6 +28,8 @@ jobs:
       run: |-
         envsubst < run_diff.sh > run.sh
         bash run.sh | tee log.txt
+    - name: LOG
+      run: cat log.txt
     - name: Save log
       uses: actions/upload-artifact@v2.1.4
       with:
