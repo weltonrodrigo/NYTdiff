@@ -13,7 +13,7 @@ jobs:
     - name: Cache
       uses: actions/cache@v2.1.2
       with:
-        path: ./phantom*
+        path: ./phantom* .venv/
         key: phant
     - name: Fetch latest data
       env:
