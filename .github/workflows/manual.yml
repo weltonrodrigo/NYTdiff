@@ -3,7 +3,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '6,26,46 * * * *'
+    - cron:  '0 25-35 0 ? * * *'
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -11,7 +11,7 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: Fetch latest data
-      env: 
+      env:
         TESTING: ${{ secrets.TESTING}}
         NYT_TWITTER_CONSUMER_KEY: ${{ secrets.NYT_TWITTER_CONSUMER_KEY}}
         NYT_TWITTER_CONSUMER_SECRET: ${{ secrets.NYT_TWITTER_CONSUMER_SECRET}}
