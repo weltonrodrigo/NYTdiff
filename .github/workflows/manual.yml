@@ -1,5 +1,9 @@
 name: Scrape latest data
-on: [push]
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '6,26,46 * * * *'
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -27,5 +31,3 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
-    - name: Setup tmate session
-      uses: mxschmitt/action-tmate@v3
