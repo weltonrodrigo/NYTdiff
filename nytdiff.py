@@ -510,7 +510,7 @@ def main():
         #nyt = NYTParser(nyt_api, nyt_api_key)
         rss_url = os.environ['RSS_URL']
         for url in rss_url.split(','):
-            rss = RSSParser(twitter_api, rss_url)
+            rss = RSSParser(twitter_api, url)
             rss.parse_rss()
         logging.debug('Finished RSS')
     except:
