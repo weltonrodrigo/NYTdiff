@@ -13,13 +13,10 @@ jobs:
     - name: Cache
       uses: actions/cache@v2.1.2
       with:
-        path: ./venv
+        path: 
+          ./venv
+          ./pha*
         key: venv
-    - name: Cache 2
-      uses: actions/cache@v2.1.2
-      with:
-        path: ./pha*
-        key: phan
     - name: Fetch latest data
       env:
         TESTING: ${{ secrets.TESTING}}
