@@ -11,12 +11,12 @@ wget -c https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-linux-x8
 
 tar jxf phantom.tar.bz
 
-sudo apt install python3-venv
+sudo apt -qq install python3-venv
 
 python3 -m venv venv
 
 source venv/bin/activate
 
-python3 -m pip install -r requirements.txt
+python3 -m pip install -q -r requirements.txt
 
 python3 nytdiff.py
