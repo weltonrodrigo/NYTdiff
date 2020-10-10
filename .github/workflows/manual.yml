@@ -10,6 +10,10 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
+    - name: Cache
+      uses: actions/cache@v2.1.2
+      with:
+        path: ./phantom*
     - name: Fetch latest data
       env:
         TESTING: ${{ secrets.TESTING}}
