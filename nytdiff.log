@@ -1,63 +1,15 @@
-2020-10-11 14:24:02,365          root     INFO: Starting script
-2020-10-11 14:24:03,443          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-11 14:24:04,300          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-11 14:24:05,156          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-11 14:24:06,106          root     INFO: Parsing G1
-2020-10-11 14:24:07,275          root     INFO: Parsing OGlobo
-2020-10-11 14:24:07,721          root     INFO: Parsing R7 - Brasil
-2020-10-11 14:24:07,782          root     INFO: Quem não gosta de <del>cachorro</del> <ins>cachorro?</ins>
-2020-10-11 14:24:09,647          root     INFO: Media ready with ids: 1315297138075672578
-2020-10-11 14:24:09,647          root     INFO: Text to tweet: Modificação do Título
-2020-10-11 14:24:09,647          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2020/10/quem-nao-gosta-de-cachorro.shtml
-2020-10-11 14:24:09,651          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2020/10/quem-nao-gosta-de-cachorro.shtml
-2020-10-11 14:24:09,947          root     INFO: Replying to: 1315297139929632768
-2020-10-11 14:24:10,233          root     INFO: Id to store: 1315297140923666435
-2020-10-11 14:24:12,389          root     INFO: New article tracked: https://g1.globo.com/sp/itapetininga-regiao/noticia/2020/10/11/tatui-registra-uma-morte-por-coronavirus-neste-domingo.ghtml
-2020-10-11 14:24:12,396          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/noticia/2020/10/11/numero-de-pessoas-que-estao-na-fila-da-adocao-e-nove-vezes-maior-que-o-de-criancas-disponiveis-na-pb.ghtml
-2020-10-11 14:24:12,403          root     INFO: New article tracked: https://g1.globo.com/pe/pernambuco/noticia/2020/10/11/pm-monta-esquemas-de-seguranca-com-153-policiais-para-jogos-do-santa-cruz-e-do-sport-no-recife.ghtml
-2020-10-11 14:24:12,412          root     INFO: New article tracked: https://g1.globo.com/pr/campos-gerais-sul/noticia/2020/10/11/pacote-com-celulares-serras-carregadores-e-fones-de-ouvido-e-apreendido-na-penitenciaria-de-ponta-grossa.ghtml
-2020-10-11 14:24:12,420          root     INFO: New article tracked: https://g1.globo.com/am/amazonas/noticia/2020/10/11/bolsa-universidade-encerra-prazo-para-inscricoes-na-terca-feira-13.ghtml
-2020-10-11 14:24:12,433          root     INFO: New article tracked: https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2020/10/11/comercio-e-servicos-industria-agropecuaria-e-transportes-alavancam-o-desenvolvimento-e-ajudam-ms-a-superar-a-pandemia.ghtml
-2020-10-11 14:24:12,441          root     INFO: New article tracked: https://g1.globo.com/ro/rondonia/noticia/2020/10/11/previsao-do-tempo-em-rondonia-segunda-feira-12-de-outubro-de-2020.ghtml
-2020-10-11 14:24:12,449          root     INFO: New article tracked: https://g1.globo.com/sp/bauru-marilia/noticia/2020/10/11/mais-6-caminhoes-pipas-reforcam-o-abastecimento-de-agua-em-bairros-de-bauru.ghtml
-2020-10-11 14:24:12,463          root     INFO: New article tracked: https://g1.globo.com/ce/ceara/noticia/2020/10/11/adolescente-de-15-anos-e-morta-a-tiros-as-margens-de-rio-em-sobral-no-interior-do-ceara.ghtml
-2020-10-11 14:24:12,471          root     INFO: New article tracked: https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2020/10/11/numero-de-novas-franquias-aumenta-durante-a-quarentena-em-rio-preto.ghtml
-2020-10-11 14:24:12,479          root     INFO: New article tracked: https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2020/10/11/helicoptero-de-pequeno-porte-cai-em-assentamento-rural-em-rosana.ghtml
-2020-10-11 14:24:12,487          root     INFO: New article tracked: https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/10/11/upa-juncao-abre-edital-para-147-vagas-em-rio-grande-veja-a-lista-dos-cargos.ghtml
-2020-10-11 14:24:12,496          root     INFO: New article tracked: https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/11/grupo-e-detido-por-rinha-de-galo-em-jaguariuna-e-recebe-multa-de-r-27-milhoes-diz-policia.ghtml
-2020-10-11 14:24:12,505          root     INFO: New article tracked: https://g1.globo.com/mt/mato-grosso/noticia/2020/10/11/governador-de-mt-e-ministro-da-justica-devem-visitar-vitimas-de-acidente-com-helicoptero-da-forca-nacional-no-pantanal.ghtml
-2020-10-11 14:24:12,513          root     INFO: New article tracked: https://g1.globo.com/rr/roraima/noticia/2020/10/11/policial-a-paisana-reage-e-atira-em-suspeito-de-tentativa-de-assalto-na-zona-oeste-de-boa-vista.ghtml
-2020-10-11 14:24:12,522          root     INFO: New article tracked: https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2020/10/11/tres-sao-presos-com-arma-municoes-e-drogas-em-jacarei.ghtml
-2020-10-11 14:24:12,531          root     INFO: New article tracked: https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/11/campeonato-virtual-de-robotica-sera-promovido-em-sorocaba.ghtml
-2020-10-11 14:24:12,541          root     INFO: New article tracked: https://g1.globo.com/sp/sao-carlos-regiao/noticia/2020/10/11/assaltantes-roubam-carro-de-cabeleireiro-em-sao-carlos.ghtml
-2020-10-11 14:24:12,661          root     INFO: À tarde e à noite também haverá chuva. Temperatura máxima não passa dos 29ºC. Céu nublado e chuva rápida neste domingo em Belo Horizonte Alex Araújo/G1 Choveu rapidamente na manhã deste domingo (11) em Belo Horizonte. De acordo com o Instituto Nacional de Meteorologia (inmet), o céu na capital mineira está nublado e encoberto. A mínima registrada foi de 16ºC e a máxima não passa dos 29°C. Ainda segundo o Inmet, por causa da chuva, a umidade relativa do ar fica em torno de 95%. <ins>Choveu rapidamente na manhã deste domingo em Belo Horizonte Alex Araújo/G1</ins> Deve chover rapidamente também à tarde e à noite. O pôr do sol será às 17h57. Veja a previsão completa do tempo. <del>Choveu rapidamente na manhã deste domingo em</del> <ins>Defesa Civil de BH alerta para pancadas de chuva Defesa Civil de Belo Horizonte/Divulgação Defesa Civil A Defesa Civil de</ins> Belo Horizonte <del>Alex Araújo/G1</del> <ins>alerta para a possibilidade de chuva (até 20 mm) com raios e rajadas de ventos ocasionais em torno de 45 km/h até as 8h de segunda-feira (12). Recomendações durante a chuva Redobre a atenção. Evite áreas de inundação e não trafegue em ruas sujeitas a alagamentos e próximos aos córregos e ribeirões no momento de forte chuva; Não atravesse ruas alagadas ou deixe crianças brincando na enxurrada e nas águas dos córregos; Não se abrigue nem estacione veículos debaixo de árvores; Atenção especial em áreas de encostas e morros; Jamais se aproxime de cabos elétricos rompidos. Ligue imediatamente para a Cemig (116) ou Defesa Civil (199); Se você observar o aparecimento de fendas, depressões no terreno, rachaduras nas paredes das casas e o surgimento de minas d’água avise imediatamente a Defesa Civil (199); Em caso de raios: não permaneça em áreas abertas e altas, não use equipamentos elétricos.</ins>
-2020-10-11 14:24:15,107          root     INFO: Media ready with ids: 1315297159244394496
-2020-10-11 14:24:15,108          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-11 14:24:15,108          root     INFO: Article id: https://g1.globo.com/mg/minas-gerais/noticia/2020/10/11/belo-horizonte-tem-chuva-rapida-na-manha-deste-domingo.ghtml
-2020-10-11 14:24:15,113          root     INFO: Tweeting url: https://g1.globo.com/mg/minas-gerais/noticia/2020/10/11/belo-horizonte-tem-chuva-rapida-na-manha-deste-domingo.ghtml
-2020-10-11 14:24:15,338          root     INFO: Replying to: 1315297162566270978
-2020-10-11 14:24:15,655          root     INFO: Id to store: 1315297163539251201
-2020-10-11 14:24:15,729          root     INFO: New article tracked: https://oglobo.globo.com/esportes/formula-1-hamilton-vence-gp-de-eifel-iguala-recorde-de-91-vitorias-de-schumacher-24687811
-2020-10-11 14:24:15,738          root     INFO: New article tracked: https://oglobo.globo.com/analitico/esquerda-rachada-dribles-no-tema-da-corrupcao-marcam-primeiras-entrevistas-24687814
-2020-10-11 14:24:15,959          root     INFO: Removed https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2020/10/11/romeiro-e-morto-atropelado-na-via-dutra-em-pindamonhangaba.ghtml
-2020-10-11 14:24:15,962          root     INFO: Removed https://g1.globo.com/mg/grande-minas/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-confira-a-agenda-de-fon-fon-pmb.ghtml
-2020-10-11 14:24:15,964          root     INFO: Removed https://g1.globo.com/mg/minas-gerais/noticia/2020/10/11/acidente-na-br-040-deixa-um-morto-e-tres-feridos.ghtml
-2020-10-11 14:24:15,967          root     INFO: Removed https://g1.globo.com/ma/maranhao/noticia/2020/10/11/tj-abre-primeiro-curso-online-preparatorio-para-adocao-no-maranhao.ghtml
-2020-10-11 14:24:15,970          root     INFO: Removed https://g1.globo.com/mg/grande-minas/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-confira-a-agenda-de-humberto-souto-cidadania.ghtml
-2020-10-11 14:24:15,973          root     INFO: Removed https://oglobo.globo.com/brasil/eleicoes-2020/eleicao-em-natal-apoiado-por-dois-ministros-atual-prefeito-da-capital-potiguar-lidera-24687754
-2020-10-11 14:24:15,976          root     INFO: Removed https://g1.globo.com/rn/rio-grande-do-norte/noticia/2020/10/11/producao-de-uvas-ganha-espaco-e-ate-linhas-de-credito-no-sertao-potiguar.ghtml
-2020-10-11 14:24:15,980          root     INFO: Removed https://g1.globo.com/mg/grande-minas/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-confira-a-agenda-de-leninha-pt.ghtml
-2020-10-11 14:24:15,982          root     INFO: Removed https://g1.globo.com/rr/roraima/noticia/2020/10/11/ufrr-oferta-15-vagas-para-mestrado-em-geografia.ghtml
-2020-10-11 14:24:15,985          root     INFO: Removed https://epoca.globo.com/guilherme-amado/gripe-espanhola-tambem-teve-sua-cloroquina-mostram-historiadoras-em-livro-24683812
-2020-10-11 14:24:15,988          root     INFO: Removed https://g1.globo.com/mg/grande-minas/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-confira-a-agenda-de-doutor-emerson-pv.ghtml
-2020-10-11 14:24:15,990          root     INFO: Removed https://g1.globo.com/to/tocantins/noticia/2020/10/11/comunicador-nogueira-junior-morre-aos-52-anos-apos-passar-mal.ghtml
-2020-10-11 14:24:15,993          root     INFO: Removed https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2020/10/11/homem-morre-no-hr-apos-ser-atingido-por-varios-tiros-em-portao-de-residencia.ghtml
-2020-10-11 14:24:15,996          root     INFO: Removed https://g1.globo.com/mg/zona-da-mata/noticia/2020/10/11/programa-da-ufjf-orienta-pacientes-de-avc-em-juiz-de-fora.ghtml
-2020-10-11 14:24:15,999          root     INFO: Removed https://g1.globo.com/mg/grande-minas/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-confira-a-agenda-de-ruy-muniz-pp.ghtml
-2020-10-11 14:24:16,002          root     INFO: Removed https://g1.globo.com/ba/bahia/noticia/2020/10/11/homem-e-morto-a-tiros-e-outro-fica-ferido-no-bairro-de-periperi-em-salvador.ghtml
-2020-10-11 14:24:16,005          root     INFO: Removed https://g1.globo.com/sc/santa-catarina/techsc/noticia/2020/10/11/empresas-de-sc-usam-tecnologia-e-criatividade-retomar-o-turismo-na-pandemia.ghtml
-2020-10-11 14:24:16,008          root     INFO: Removed https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2020/10/11/pericles-canta-pupila-de-vitor-kley-e-anavitoria.ghtml
-2020-10-11 14:24:16,010          root     INFO: Removed https://g1.globo.com/politica/noticia/2020/10/11/chefe-do-centro-de-combate-a-incendios-do-ibama-deixa-cargo-um-mes-depois-de-nomeado.ghtml
-2020-10-11 14:24:16,012          root     INFO: Removed https://g1.globo.com/rr/roraima/noticia/2020/10/11/roraima-registra-52637-casos-de-infectados-pelo-coronavirus.ghtml
-2020-10-11 14:24:16,014          root     INFO: Removed https://g1.globo.com/ma/maranhao/noticia/2020/10/11/voce-viu-reinfeccao-por-covid-19-sementes-misteriosas-violencia-domestica-e-outras-noticias-da-semana-no-g1-ma.ghtml
-2020-10-11 14:24:16,016          root     INFO: Finished script
+2020-10-11 14:30:34,923          root     INFO: Starting script
+2020-10-11 14:30:36,149          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-11 14:30:37,006          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-11 14:30:37,856          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-11 14:30:38,795          root     INFO: Parsing G1
+2020-10-11 14:30:39,721          root     INFO: Parsing OGlobo
+2020-10-11 14:30:40,158          root     INFO: Parsing R7 - Brasil
+2020-10-11 14:30:42,580          root     INFO: Lewis Hamilton chegou ao ápice dos seus 13 ano de carreira na Fórmula-1 ao vencer o GP de Eifel neste domingo. O piloto da Mercedes igualou o recorde de de 91 vitórias Michael Schumacher, em uma corrida que também o catapultou para mais perto do sétimo campeonato mundial.Enquanto o britânico triunfava em Nuerburgring, o circuito alemão onde o grande Schumacher venceu cinco vezes pela Ferrari, seu companheiro de equipe Valtteri Bottas sofreu um <del>grande</del> golpe em suas <ins>últimas</ins> esperanças de <del>título com</del> <ins>título. O finlandês largou na pole mas precisou sair da pista na volta 17, se tornando</ins> o primeiro <del>abandono</del> <ins>piloto</ins> da <del>temporada.Hamilton,</del> <ins>Mercedes a abandonar uma corrida em 2020.Hamilton,</ins> que comemora sua sétima vitória na temporada, está agora 69 pontos à frente do finlandês na classificação, faltando seis rodadas para o fim.Max Versteppen, da Red Bull, terminou em segundo e conquistou um ponto bônus pela volta mais rápida, com o australiano Daniel Ricciardo em terceiro pela Renault em seu primeiro pódio desde 2018, quando estava na Red Bull.
+2020-10-11 14:30:44,911          root     INFO: Media ready with ids: 1315298795408814081
+2020-10-11 14:30:44,912          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-11 14:30:44,912          root     INFO: Article id: https://oglobo.globo.com/esportes/formula-1-hamilton-vence-gp-de-eifel-iguala-recorde-de-91-vitorias-de-schumacher-24687811
+2020-10-11 14:30:44,915          root     INFO: Tweeting url: https://oglobo.globo.com/esportes/formula-1-hamilton-vence-gp-de-eifel-iguala-recorde-de-91-vitorias-de-schumacher-24687811
+2020-10-11 14:30:45,237          root     INFO: Replying to: 1315298797896052737
+2020-10-11 14:30:45,566          root     INFO: Id to store: 1315298798848139264
+2020-10-11 14:30:45,827          root     INFO: Finished script
