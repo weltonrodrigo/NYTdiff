@@ -1,19 +1,55 @@
-2020-10-11 11:27:59,854          root     INFO: Starting script
-2020-10-11 11:28:00,911          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-11 11:28:01,774          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-11 11:28:02,633          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-11 11:28:03,717          root     INFO: Parsing G1
-2020-10-11 11:28:04,663          root     INFO: Parsing OGlobo
-2020-10-11 11:28:05,090          root     INFO: Parsing R7 - Brasil
-2020-10-11 11:28:07,019          root     INFO: New article tracked: https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2020/10/11/seca-prejudica-plantio-de-soja-no-parana.ghtml
-2020-10-11 11:28:07,027          root     INFO: New article tracked: https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2020/10/11/cultivo-de-soja-atrasa-em-mt-por-falta-de-chuva.ghtml
-2020-10-11 11:28:07,040          root     INFO: Cruzamento tem sinalização, mas não há barreira física para impedir a passagem quando o trem se aproxima. Vítimas estavam indo para uma cerimônia budista. 11 de outubro - Ônibus e trem colidem em região próxima à estação ferroviária Khlong Kwaeng Klan, na província de Chachoengsao, a leste da capital tailandesa, Bangkok. <del>Dailynews/Reuters</del> <ins>Mladen Antonov / AFP</ins> Um ônibus e um trem colidiram neste domingo (11) na Tailândia. Ao menos 20 pessoas morreram e outras 30 ficaram feridas, segundo autoridades. A informação é da agência Reuters. O acidente ocorreu às 8h05 (hora local) perto da estação ferroviária Khlong Kwaeng Klan, que fica a 63 km a leste de Bangkok. O ônibus transportava cerca de 60 pessoas que estavam indo para uma cerimônia budista em um templo na região. O acidente ocorreu quando o ônibus tentou cruzar a ferrovia. O veículo foi atingido por um trem de carga. O ônibus virou e ficou de lado. A parte superior foi arrancada. Destroços e metais ficaram espalhados pela área. O trem permaneceu sobre os trilhos. 11 de outubro - Os investigadores trabalham com os destroços de um ônibus que capotou após ser atingido por um trem perto da estação ferroviária Khlong Kwaeng Klan, na província de Chachoengsao, a leste da capital tailandesa, Bangkok. Mladen Antonov / AFP Maitree Tritilanon, governador da província de Chachoengsao, onde ocorreu o acidente, disse que o cruzamento tem sinalização e um alarme, mas não há barreira física para bloquear o tráfego quando um trem está chegando. Ele afirmou que a província vai instalar redutores de velocidade, barreiras, e irá cortar árvores perto da passagem para melhorar a visibilidade. "Que este caso sirva de lição para fazermos melhorias em locais de risco para que tais acidentes não ocorram novamente", disse Maitree em um comunicado. As estradas da Tailândia estão entre as mais mortais do mundo, de acordo com a Organização Mundial da Saúde. Houve poucas melhorias, apesar das campanhas de segurança ao longo dos anos. <ins>11 de outubro - Ônibus e trem colidem em região próxima à estação ferroviária Khlong Kwaeng Klan, na província de Chachoengsao, a leste da capital tailandesa, Bangkok. Dailynews/Reuters</ins>
-2020-10-11 11:28:09,697          root     INFO: Media ready with ids: 1315252845248237570
-2020-10-11 11:28:09,698          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-11 11:28:09,698          root     INFO: Article id: https://g1.globo.com/mundo/noticia/2020/10/11/trem-atinge-onibus-na-tailandia-e-deixa-mortos-e-feridos.ghtml
-2020-10-11 11:28:09,701          root     INFO: Tweeting url: https://g1.globo.com/mundo/noticia/2020/10/11/trem-atinge-onibus-na-tailandia-e-deixa-mortos-e-feridos.ghtml
-2020-10-11 11:28:09,998          root     INFO: Replying to: 1315252848301670400
-2020-10-11 11:28:10,315          root     INFO: Id to store: 1315252849262166016
-2020-10-11 11:28:10,786          root     INFO: Removed https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-veja-agenda-dos-candidatos-a-prefeito-de-piracicaba-neste-domingo-11.ghtml
-2020-10-11 11:28:10,788          root     INFO: Removed https://g1.globo.com/to/tocantins/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-palmas-neste-domingo-11.ghtml
-2020-10-11 11:28:10,789          root     INFO: Finished script
+2020-10-11 11:47:03,037          root     INFO: Starting script
+2020-10-11 11:47:04,083          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-11 11:47:04,933          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-11 11:47:05,789          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-11 11:47:06,974          root     INFO: Parsing G1
+2020-10-11 11:47:08,671          root     INFO: Parsing OGlobo
+2020-10-11 11:47:09,053          root     INFO: Parsing R7 - Brasil
+2020-10-11 11:47:10,980          root     INFO: New article tracked: https://g1.globo.com/pa/santarem-regiao/noticia/2020/10/11/mais-10-casos-de-covid-19-sao-confirmados-em-santarem-nas-ultimas-24h.ghtml
+2020-10-11 11:47:10,987          root     INFO: New article tracked: https://g1.globo.com/sc/santa-catarina/noticia/2020/10/11/previsao-do-tempo-em-sc-domingo-tera-de-predominio-de-sol.ghtml
+2020-10-11 11:47:10,994          root     INFO: New article tracked: https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/10/11/comercio-espera-crescimento-de-73percent-em-vendas-para-o-dia-das-criancas-em-piracicaba-diz-cdl.ghtml
+2020-10-11 11:47:11,001          root     INFO: New article tracked: https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2020/10/11/safra-de-umbu-caja-cresce-mais-de-60percent-no-sertao-de-alagoas.ghtml
+2020-10-11 11:47:11,009          root     INFO: New article tracked: https://g1.globo.com/ma/maranhao/eleicoes/2020/noticia/2020/10/11/veja-a-agenda-dos-candidatos-a-prefeitura-de-sao-luis-neste-domingo-11.ghtml
+2020-10-11 11:47:11,016          root     INFO: New article tracked: https://g1.globo.com/pi/piaui/noticia/2020/10/11/eleicoes-2020-confira-a-agenda-dos-candidatos-a-prefeito-de-teresina-neste-domingo-11.ghtml
+2020-10-11 11:47:11,023          root     INFO: New article tracked: https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2020/10/11/produtores-de-goias-adotam-medidas-para-refrescar-gado-em-meio-ao-calor-intenso.ghtml
+2020-10-11 11:47:11,030          root     INFO: New article tracked: https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/edicao/2020/10/11/videos-nosso-campo-deste-domingo-11-de-outubro.ghtml
+2020-10-11 11:47:11,038          root     INFO: New article tracked: https://g1.globo.com/ap/amapa/ao-vivo/cirio-de-nazare-2020-em-macapa.ghtml
+2020-10-11 11:47:11,046          root     INFO: New article tracked: https://g1.globo.com/sp/itapetininga-regiao/noticia/2020/10/11/ipem-orienta-sobre-importancia-de-verificar-seguranca-de-brinquedos.ghtml
+2020-10-11 11:47:11,054          root     INFO: New article tracked: https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/11/apos-criacao-de-deic-policia-civil-de-campinas-aguarda-reforma-de-predio-para-agrupar-delegacias-especializadas.ghtml
+2020-10-11 11:47:11,063          root     INFO: New article tracked: https://g1.globo.com/sp/bauru-marilia/noticia/2020/10/11/caso-mariana-bazza-acao-social-criada-apos-morte-de-universitaria-em-bariri-arrecada-800-brinquedos.ghtml
+2020-10-11 11:47:11,071          root     INFO: New article tracked: https://g1.globo.com/ba/bahia/edicao/2020/10/11/videos-bahia-rural-de-domingo-11-de-outubro.ghtml
+2020-10-11 11:47:11,080          root     INFO: New article tracked: https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2020/10/11/alto-consumo-e-estiagem-refletem-em-represa-de-votuporanga-que-abastece-25percent-da-cidade-veja-antes-e-depois.ghtml
+2020-10-11 11:47:11,089          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/noticia/2020/10/11/jovens-que-chegaram-a-campina-grande-para-cursar-graduacao-relatam-gratidao-e-amor-a-cidade.ghtml
+2020-10-11 11:47:11,099          root     INFO: New article tracked: https://g1.globo.com/economia/noticia/2020/10/11/com-fim-do-auxilio-emergencial-a-vista-crise-provocada-pela-pandemia-se-arrasta-e-trabalhadores-seguem-sem-perspectivas.ghtml
+2020-10-11 11:47:11,106          root     INFO: New article tracked: https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2020/10/11/producao-brasileira-de-graos-deve-atingir-novo-recorde-na-safra-202021.ghtml
+2020-10-11 11:47:11,113          root     INFO: New article tracked: https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/11/portal-dos-procurados-divulga-cartaz-pedindo-informacoes-sobre-morte-de-candidato-a-vereador-morto-a-tiros-no-rj.ghtml
+2020-10-11 11:47:11,121          root     INFO: New article tracked: https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/11/familia-faz-campanha-na-web-para-encontrar-fusca-furtado-no-interior-de-sp-ele-tem-uma-historia.ghtml
+2020-10-11 11:47:11,163          root     INFO: Publicação do Senar traz dicas de manejo e alimentação dos animais. <ins>Saiba mais sobre a nutrição de cavalos</ins> Neste domingo (11), o Globo Rural respondeu a dúvida de um criador de equinos sobre a alimentação correta para uma potra de 9 meses e também para uma égua. Para ajudar ele e outros produtores rurais, o Serviço Nacional de Aprendizagem Rural (Senar) tem uma publicação sobre o tema. Para fazer o download dela, clique aqui.
+2020-10-11 11:47:13,050          root     INFO: Media ready with ids: 1315257641849978880
+2020-10-11 11:47:13,050          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-11 11:47:13,051          root     INFO: Article id: https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2020/10/11/saiba-mais-sobre-a-nutricao-de-cavalos.ghtml
+2020-10-11 11:47:13,055          root     INFO: Tweeting url: https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2020/10/11/saiba-mais-sobre-a-nutricao-de-cavalos.ghtml
+2020-10-11 11:47:13,288          root     INFO: Replying to: 1315257643645186050
+2020-10-11 11:47:13,576          root     INFO: Id to store: 1315257644559536128
+2020-10-11 11:47:13,740          root     INFO: New article tracked: https://oglobo.globo.com/rio/protocolos-rigidos-garantem-retomada-do-turismo-24681527
+2020-10-11 11:47:13,933          root     INFO: Removed https://g1.globo.com/rr/roraima/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-veja-a-agenda-dos-candidatos-a-prefeitura-de-boa-vista-neste-domingo-11.ghtml
+2020-10-11 11:47:13,935          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2020/10/11/calor-beneficia-producao-de-tilapias.ghtml
+2020-10-11 11:47:13,937          root     INFO: Removed https://g1.globo.com/pr/parana/noticia/2020/10/11/bandas-do-parana-fazem-covers-para-arrecadar-recursos-para-familias-carentes-durante-a-pandemia.ghtml
+2020-10-11 11:47:13,942          root     INFO: Removed https://g1.globo.com/ro/rondonia/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-veja-a-agenda-dos-candidatos-a-prefeito-de-porto-velho-neste-domingo-11.ghtml
+2020-10-11 11:47:13,945          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2020/10/11/compostagem-e-alternativa-para-produzir-de-maneira-sustentavel.ghtml
+2020-10-11 11:47:13,947          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2020/10/11/receita-nosso-campo-aprenda-a-fazer-fatias-hungaras.ghtml
+2020-10-11 11:47:13,949          root     INFO: Removed https://g1.globo.com/pr/parana/caminhos-do-campo/noticia/2020/10/11/conheca-produtos-paranaenses-que-sao-referencias-locais-e-buscam-selo-de-reconhecimento.ghtml
+2020-10-11 11:47:13,952          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2020/10/11/agricultores-relatam-bons-resultados-com-o-uso-da-proteina-hidrolisada.ghtml
+2020-10-11 11:47:13,955          root     INFO: Removed https://g1.globo.com/go/goias/edicao/2020/10/11/videos-jornal-do-campo-de-domingo-11-de-outubro-de-2020.ghtml
+2020-10-11 11:47:13,957          root     INFO: Removed https://g1.globo.com/mundo/noticia/2020/10/11/os-calculos-que-preveem-mais-115-milhoes-de-pessoas-na-miseria-no-mundo-enquanto-fortuna-de-bilionarios-cresceu-27.ghtml
+2020-10-11 11:47:13,960          root     INFO: Removed https://g1.globo.com/educacao/volta-as-aulas/noticia/2020/10/11/projeto-nao-desista-do-seu-futuro-alerta-para-indices-de-evasao-escolar-no-brasil-apos-a-pandemia.ghtml
+2020-10-11 11:47:13,962          root     INFO: Removed https://g1.globo.com/pe/pernambuco/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-agenda-dos-candidatos-a-prefeito-do-recife-neste-domingo-11.ghtml
+2020-10-11 11:47:13,963          root     INFO: Removed https://g1.globo.com/al/alagoas/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-maceio-neste-domingo-11.ghtml
+2020-10-11 11:47:13,965          root     INFO: Removed https://g1.globo.com/mg/minas-gerais/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-veja-a-agenda-dos-candidatos-a-prefeito-de-belo-horizonte-neste-domingo-11.ghtml
+2020-10-11 11:47:13,967          root     INFO: Removed https://g1.globo.com/pa/para/edicao/2020/10/11/videos-liberal-comunidade-deste-domingo-11-de-outubro.ghtml
+2020-10-11 11:47:13,970          root     INFO: Removed https://g1.globo.com/to/tocantins/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-araguaina-neste-domingo-11.ghtml
+2020-10-11 11:47:13,972          root     INFO: Removed https://epoca.globo.com/guilherme-amado/governo-bolsonaro-volta-tentar-aprovar-homeschooling-24686733
+2020-10-11 11:47:13,974          root     INFO: Removed https://g1.globo.com/to/tocantins/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-gurupi-neste-domingo-11.ghtml
+2020-10-11 11:47:13,976          root     INFO: Removed https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/11/rio-deve-ter-tempo-estavel-e-sem-previsao-de-chuva-para-este-domingo.ghtml
+2020-10-11 11:47:13,977          root     INFO: Removed https://g1.globo.com/pr/parana/caminhos-do-campo/receitas-paranaenses/noticia/2020/10/11/veja-como-preparar-bolo-de-pamonha-com-crocante-de-pinhao-do-concurso-de-receitas-do-caminhos-do-campo.ghtml
+2020-10-11 11:47:13,979          root     INFO: Finished script
