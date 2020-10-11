@@ -1,12 +1,38 @@
-2020-10-11 09:58:25,020          root     INFO: Starting script
-2020-10-11 09:58:26,151          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-11 09:58:26,998          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-11 09:58:27,850          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-11 09:58:28,796          root     INFO: Parsing G1
-2020-10-11 09:58:30,390          root     INFO: Parsing OGlobo
-2020-10-11 09:58:30,784          root     INFO: Parsing R7 - Brasil
-2020-10-11 09:58:33,147          root     INFO: New article tracked: https://epoca.globo.com/guilherme-amado/sport-lidera-vasco-vice-no-ranking-de-dividas-com-uniao-24686765
-2020-10-11 09:58:33,158          root     INFO: New article tracked: https://epoca.globo.com/guilherme-amado/governo-bolsonaro-volta-tentar-aprovar-homeschooling-24686733
-2020-10-11 09:58:33,362          root     INFO: Removed https://oglobo.globo.com/rio/bairros/o-pianista-joao-carlos-assis-brasil-agora-mora-em-niteroi-onde-dara-aulas-no-conservatorio-1-24687344
-2020-10-11 09:58:33,364          root     INFO: Removed https://oglobo.globo.com/esportes/artigo-condenacao-por-estupro-nao-pode-ficar-fora-do-debate-na-volta-de-robinho-ao-santos-24687725
-2020-10-11 09:58:33,365          root     INFO: Finished script
+2020-10-11 10:24:03,721          root     INFO: Starting script
+2020-10-11 10:24:04,764          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-11 10:24:05,603          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-11 10:24:06,446          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-11 10:24:07,385          root     INFO: Parsing G1
+2020-10-11 10:24:08,299          root     INFO: Parsing OGlobo
+2020-10-11 10:24:08,704          root     INFO: Parsing R7 - Brasil
+2020-10-11 10:24:10,528          root     INFO: New article tracked: https://g1.globo.com/go/goias/edicao/2020/10/11/videos-jornal-do-campo-de-domingo-11-de-outubro-de-2020.ghtml
+2020-10-11 10:24:10,536          root     INFO: New article tracked: https://g1.globo.com/ro/rondonia/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-veja-a-agenda-dos-candidatos-a-prefeito-de-porto-velho-neste-domingo-11.ghtml
+2020-10-11 10:24:10,544          root     INFO: New article tracked: https://g1.globo.com/educacao/volta-as-aulas/noticia/2020/10/11/projeto-nao-desista-do-seu-futuro-alerta-para-indices-de-evasao-escolar-no-brasil-apos-a-pandemia.ghtml
+2020-10-11 10:24:10,553          root     INFO: New article tracked: https://g1.globo.com/pr/parana/noticia/2020/10/11/bandas-do-parana-fazem-covers-para-arrecadar-recursos-para-familias-carentes-durante-a-pandemia.ghtml
+2020-10-11 10:24:10,562          root     INFO: New article tracked: https://g1.globo.com/al/alagoas/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-maceio-neste-domingo-11.ghtml
+2020-10-11 10:24:10,571          root     INFO: New article tracked: https://g1.globo.com/pe/pernambuco/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-agenda-dos-candidatos-a-prefeito-do-recife-neste-domingo-11.ghtml
+2020-10-11 10:24:10,579          root     INFO: New article tracked: https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-veja-agenda-dos-candidatos-a-prefeito-de-piracicaba-neste-domingo-11.ghtml
+2020-10-11 10:24:10,588          root     INFO: New article tracked: https://g1.globo.com/to/tocantins/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-palmas-neste-domingo-11.ghtml
+2020-10-11 10:24:10,602          root     INFO: New article tracked: https://g1.globo.com/ap/amapa/noticia/2020/10/11/cirio-de-nazare-como-e-o-dia-de-celebracoes-sem-a-procissao-da-maior-festa-religiosa-do-ap.ghtml
+2020-10-11 10:24:12,416          root     INFO: New article tracked: https://oglobo.globo.com/brasil/eleicoes-2020/eleicao-em-natal-apoiado-por-dois-ministros-atual-prefeito-da-capital-potiguar-lidera-24687754
+2020-10-11 10:24:12,434          root     INFO: New article tracked: https://epoca.globo.com/brasil/conheca-unico-bilionario-na-corrida-eleitoral-24686501
+2020-10-11 10:24:12,445          root     INFO: New article tracked: https://epoca.globo.com/guilherme-amado/gripe-espanhola-tambem-teve-sua-cloroquina-mostram-historiadoras-em-livro-24683812
+2020-10-11 10:24:12,462          root     INFO: New article tracked: https://epoca.globo.com/guilherme-amado/pazuello-escolhe-militar-para-reestruturar-ministerio-24686934
+2020-10-11 10:24:12,487          root     INFO: New article tracked: https://oglobo.globo.com/rio/bairros/espacos-de-recreacao-lazer-de-niteroi-sao-reabertos-no-mes-das-criancas-24686029
+2020-10-11 10:24:12,495          root     INFO: New article tracked: https://oglobo.globo.com/rio/bairros/dia-da-crianca-que-tal-ser-pizzaiolo-por-um-dia-24681257
+2020-10-11 10:24:12,636          root     INFO: Removed https://oglobo.globo.com/rio/bairros/a-moda-ousar-empreendedores-do-setor-revelam-que-os-levou-investir-em-plena-pandemia-24684075
+2020-10-11 10:24:12,638          root     INFO: Removed https://epoca.globo.com/guilherme-amado/jair-flavio-eduardo-nao-farao-campanha-para-carlos-bolsonaro-24686945
+2020-10-11 10:24:12,640          root     INFO: Removed https://g1.globo.com/jornal-nacional/noticia/2020/10/10/bombeiros-e-voluntarios-se-unem-no-combate-aos-incendios-na-chapada-diamantina.ghtml
+2020-10-11 10:24:12,642          root     INFO: Removed https://g1.globo.com/globonews/globonews-debate/playlist/videos-globonews-debate-analisa-a-corrida-eleitoral-nos-eua.ghtml
+2020-10-11 10:24:12,645          root     INFO: Removed https://g1.globo.com/pr/parana/ao-vivo/coronavirus-no-parana-veja-as-principais-noticias-sobre-a-pandemia.ghtml
+2020-10-11 10:24:12,647          root     INFO: Removed https://g1.globo.com/ro/rondonia/noticia/2020/10/10/rondonia-tem-333-novos-casos-de-covid-19-e-mais-4-obitos-da-doenca-incluindo-de-um-bebe.ghtml
+2020-10-11 10:24:12,650          root     INFO: Removed https://oglobo.globo.com/esportes/nba-quatro-anos-apos-virada-historica-lebron-james-tenta-evitar-empate-do-miami-heat-24687303
+2020-10-11 10:24:12,662          root     INFO: Removed https://oglobo.globo.com/gastronomia/vinhos-de-portugal/tudo-que-voce-precisa-saber-sobre-vinhos-de-portugal-2020-24679847
+2020-10-11 10:24:12,668          root     INFO: Removed https://oglobo.globo.com/celina/com-um-post-ela-fez-mulheres-denunciarem-violencia-sexual-no-egito-mas-agora-elas-precisam-voltar-atras-24685362
+2020-10-11 10:24:12,671          root     INFO: Removed https://g1.globo.com/jornal-nacional/noticia/2020/10/10/burocracia-atrasa-envio-de-brigadistas-para-combater-incendios-no-pantanal-e-na-amazonia.ghtml
+2020-10-11 10:24:12,675          root     INFO: Removed https://g1.globo.com/ce/ceara/edicao/2020/10/10/videos-cetv-2-edicao-de-sabado-10-de-outubro.ghtml
+2020-10-11 10:24:12,677          root     INFO: Removed https://g1.globo.com/jornal-nacional/noticia/2020/10/10/trump-retoma-campanha-eleitoral-sem-confirmar-se-esta-curado-da-covid.ghtml
+2020-10-11 10:24:12,680          root     INFO: Removed https://oglobo.globo.com/rio/bairros/niteroi-presente-comeca-na-regiao-oceanica-no-dia-22-com-150-agentes-24686143
+2020-10-11 10:24:12,682          root     INFO: Removed https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/10/santa-teresa-regiao-central-do-rio-tem-quarto-dia-seguido-de-tiroteio.ghtml
+2020-10-11 10:24:12,684          root     INFO: Removed https://g1.globo.com/to/tocantins/noticia/2020/10/10/carro-e-motos-sao-multados-por-estacionarem-em-vagas-reservadas-para-deficientes-e-idosos-no-hgp.ghtml
+2020-10-11 10:24:12,685          root     INFO: Finished script
