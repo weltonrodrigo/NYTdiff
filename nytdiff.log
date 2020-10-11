@@ -1,23 +1,12 @@
-2020-10-11 12:47:59,539          root     INFO: Starting script
-2020-10-11 12:48:00,577          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-11 12:48:01,447          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-11 12:48:02,304          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-11 12:48:03,248          root     INFO: Parsing G1
-2020-10-11 12:48:04,165          root     INFO: Parsing OGlobo
-2020-10-11 12:48:04,543          root     INFO: Parsing R7 - Brasil
-2020-10-11 12:48:06,462          root     INFO: New article tracked: https://g1.globo.com/sc/santa-catarina/techsc/noticia/2020/10/11/empresas-de-sc-usam-tecnologia-e-criatividade-retomar-o-turismo-na-pandemia.ghtml
-2020-10-11 12:48:06,472          root     INFO: New article tracked: https://g1.globo.com/rr/roraima/noticia/2020/10/11/roraima-registra-52637-casos-de-infectados-pelo-coronavirus.ghtml
-2020-10-11 12:48:06,481          root     INFO: New article tracked: https://g1.globo.com/ro/rondonia/rondonia-rural/noticia/2020/10/11/aprenda-a-fazer-um-file-ao-molho-de-vinho-tinto.ghtml
-2020-10-11 12:48:06,696          root     INFO: Os candidatos à Prefeitura de Teresina nas eleições de 2020 divulgaram suas agendas de campanha para este domingo (11). Candidatos à prefeitura de Teresina G1 PI Os candidatos à Prefeitura de Teresina nas eleições de 2020 divulgaram suas agendas de campanha para este domingo (11). A lista segue a ordem alfabética dos nomes registrados no Tribunal Superior Eleitoral (TSE) para aparecer na urna. Eleições 2020: conheça os planos de governo dos candidatos à prefeitura de Teresina Dr. Pessoa (MDB) 07h - Visita ao mercado do bairro São Joaquim 10h - Visita e almoço na Zona Rural 18h - Reunião no bairro Angelim 19h - Reunião no bairro Saci 20h - Reunião no bairro São Pedro Fábio Abreu (PL) O candidato não cumprirá agenda por ter testado positivo para Covid-19. Fábio Novo (PT) 8h – Café da manhã na Zona Rural 12h – Feijoada na Zona Norte 16h – Reunião no Povoado Cacimba Velha 18h – Lançamento da campanha de um candidato a vereador no bairro Morros 19h - Lançamento da campanha de um candidato a vereador no bairro Matinha Fábio Sérvio (PROS) A agenda do candidato não foi informada ao G1 Gervásio Santos (PSTU) 10h30 – Reunião com apoiadores na comunidade Alegria, Zona Sul Gessy Fonseca (PSC) Agenda pessoal Kleber Montezuma (PSDB) 9h- Reunião com vereador e amigos 10h- Reunião no Poty Velho 12h- Lançamento da campanha de uma candidata a vereadora 16h- Agenda interna Lourdes Melo (PCO) Rádio Calçada no mercado do Parque Piauí Lucineide Barros (PSOL) 10h - Organização e Preparação para Lançamento do Comitê de Campanha 18h - Reunião de Planejamento da Campanha Major Diego Melo (PATRIOTA) 9h às 11h – Visita ao Povoado Santa Teresa 15h – Reunião no bairro Acarape 17h – Reunião no bairro Torquato Neto Mário Rogério (CIDADANIA) <del>A agenda do candidato não foi informada</del> <ins>Manhã - atendimento no comitê Tarde - Visitas a bairros na Zona Norte e</ins> ao <del>G1</del> <ins>Lagoas do Norte Noite - Visitas e reuniões na Zona Sudeste</ins> Pedro Laurentino (UP) 8h30 - Tribuna Popular no mercado do Renascença 16h - Reunião da coordenação de campanha Simone Pereira (PSD) 07h - Movimento no Mercado do Dirceu 09h - Adesivaço no bairro Cidade Nova 11h - Reunião no bairro Comprida 17h - Partida de futebol Feminino na Usina Santana 19h - Reunião no Povoado Cajaíba 20h - Reunião no bairro HBB VÍDEOS: veja as notícias mais vistas do G1 Piauí
-2020-10-11 12:48:09,413          root     INFO: Media ready with ids: 1315272976678486016
-2020-10-11 12:48:09,413          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-11 12:48:09,414          root     INFO: Article id: https://g1.globo.com/pi/piaui/noticia/2020/10/11/eleicoes-2020-confira-a-agenda-dos-candidatos-a-prefeito-de-teresina-neste-domingo-11.ghtml
-2020-10-11 12:48:09,417          root     INFO: Tweeting url: https://g1.globo.com/pi/piaui/noticia/2020/10/11/eleicoes-2020-confira-a-agenda-dos-candidatos-a-prefeito-de-teresina-neste-domingo-11.ghtml
-2020-10-11 12:48:09,667          root     INFO: Replying to: 1315272979622789122
-2020-10-11 12:48:10,011          root     INFO: Id to store: 1315272980591710208
-2020-10-11 12:48:10,088          root     INFO: New article tracked: https://oglobo.globo.com/rio/menino-de-12-anos-morto-na-avenida-brasil-sera-enterrado-neste-domingo-no-cemiterio-de-inhauma-24687787
-2020-10-11 12:48:10,338          root     INFO: Removed https://oglobo.globo.com/rio/menino-de-12-anos-morto-na-avenida-brasil-sera-enterrado-neste-domingo-em-inhauma-24687787
-2020-10-11 12:48:10,340          root     INFO: Removed https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2020/10/11/alto-consumo-e-estiagem-refletem-em-represa-de-votuporanga-que-abastece-25percent-da-cidade-veja-antes-e-depois.ghtml
-2020-10-11 12:48:10,342          root     INFO: Removed https://g1.globo.com/economia/noticia/2020/10/11/com-fim-do-auxilio-emergencial-a-vista-crise-provocada-pela-pandemia-se-arrasta-e-trabalhadores-seguem-sem-perspectivas.ghtml
-2020-10-11 12:48:10,345          root     INFO: Removed https://g1.globo.com/pb/paraiba/noticia/2020/10/11/jovens-que-chegaram-a-campina-grande-para-cursar-graduacao-relatam-gratidao-e-amor-a-cidade.ghtml
-2020-10-11 12:48:10,346          root     INFO: Finished script
+2020-10-11 12:58:15,620          root     INFO: Starting script
+2020-10-11 12:58:16,659          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-11 12:58:17,526          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-11 12:58:18,379          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-11 12:58:19,320          root     INFO: Parsing G1
+2020-10-11 12:58:20,243          root     INFO: Parsing OGlobo
+2020-10-11 12:58:20,535          root     INFO: Parsing R7 - Brasil
+2020-10-11 12:58:22,522          root     INFO: New article tracked: https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2020/10/11/homem-morre-no-hr-apos-ser-atingido-por-varios-tiros-em-portao-de-residencia.ghtml
+2020-10-11 12:58:22,531          root     INFO: New article tracked: https://g1.globo.com/mg/minas-gerais/noticia/2020/10/11/acidente-na-br-040-deixa-um-morto-e-tres-feridos.ghtml
+2020-10-11 12:58:23,019          root     INFO: Removed https://g1.globo.com/ba/bahia/edicao/2020/10/11/videos-bahia-rural-de-domingo-11-de-outubro.ghtml
+2020-10-11 12:58:23,021          root     INFO: Removed https://g1.globo.com/sp/bauru-marilia/noticia/2020/10/11/caso-mariana-bazza-acao-social-criada-apos-morte-de-universitaria-em-bariri-arrecada-800-brinquedos.ghtml
+2020-10-11 12:58:23,021          root     INFO: Finished script
