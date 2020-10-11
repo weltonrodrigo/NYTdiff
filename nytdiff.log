@@ -1,21 +1,9 @@
-2020-10-11 01:51:55,717          root     INFO: Starting script
-2020-10-11 01:51:56,771          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-11 01:51:57,627          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-11 01:51:58,489          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-11 01:51:59,584          root     INFO: Parsing G1
-2020-10-11 01:52:00,507          root     INFO: Parsing OGlobo
-2020-10-11 01:52:00,780          root     INFO: Parsing R7 - Brasil
-2020-10-11 01:52:01,476          root     INFO: A deputada estadual Janaina Paschoal (PSL-SP) culpou o presidente Jair Bolsonaro por ter sancionado o projeto anticrime, cujo <del>artigo</del> <ins>trecho</ins> permitiu a soltura de André do Rap, um dos chefes do PCC, neste sábado (10). Leia mais (10/10/2020 - 21h34)
-2020-10-11 01:52:03,653          root     INFO: Media ready with ids: 1315107865850523648
-2020-10-11 01:52:03,654          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-11 01:52:03,655          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/janaina-culpa-bolsonaro-por-sancionar-lei-que-permitiu-soltura-de-chefe-do-pcc.shtml
-2020-10-11 01:52:03,659          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/janaina-culpa-bolsonaro-por-sancionar-lei-que-permitiu-soltura-de-chefe-do-pcc.shtml
-2020-10-11 01:52:03,912          root     INFO: Replying to: 1315107867683426304
-2020-10-11 01:52:04,193          root     INFO: Id to store: 1315107868648013824
-2020-10-11 01:52:05,473          root     INFO: New article tracked: https://g1.globo.com/mundo/noticia/2020/10/10/trump-nao-corre-mais-risco-de-transmitir-a-covid-19-diz-medico-da-casa-branca.ghtml
-2020-10-11 01:52:05,479          root     INFO: New article tracked: https://g1.globo.com/ap/amapa/noticia/2020/10/10/covid-19-ap-contabiliza-88-novos-casos-sao-725-obitos-e-493-mil-infectados.ghtml
-2020-10-11 01:52:05,486          root     INFO: New article tracked: https://g1.globo.com/jornal-nacional/noticia/2020/10/10/cinemas-reabrem-na-cidade-de-sao-paulo-com-protocolos-rigidos.ghtml
-2020-10-11 01:52:05,945          root     INFO: Removed https://g1.globo.com/sp/sao-carlos-regiao/noticia/2020/10/10/porto-ferreira-registra-mais-uma-morte-por-covid-19-e-soma-35-segundo-boletim.ghtml
-2020-10-11 01:52:05,947          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/edicao/2020/10/10/videos-tem-noticias-2-edicao-de-sorocaba-e-jundiai-de-sabado-10-de-outubro.ghtml
-2020-10-11 01:52:05,949          root     INFO: Removed https://g1.globo.com/se/sergipe/edicao/2020/10/10/videos-se2-deste-sabado-10-de-outubro.ghtml
-2020-10-11 01:52:05,950          root     INFO: Finished script
+2020-10-11 01:57:39,715          root     INFO: Starting script
+2020-10-11 01:57:40,759          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-11 01:57:41,595          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-11 01:57:42,445          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-11 01:57:43,521          root     INFO: Parsing G1
+2020-10-11 01:57:44,464          root     INFO: Parsing OGlobo
+2020-10-11 01:57:44,894          root     INFO: Parsing R7 - Brasil
+2020-10-11 01:57:47,021          root     INFO: Removed https://g1.globo.com/mundo/noticia/2020/10/10/trump-nao-corre-mais-risco-de-transmitir-a-covid-19-diz-medico-da-casa-branca.ghtml
+2020-10-11 01:57:47,022          root     INFO: Finished script
