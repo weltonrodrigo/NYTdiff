@@ -1,8 +1,32 @@
-2020-10-11 08:57:39,228          root     INFO: Starting script
-2020-10-11 08:57:40,280          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-11 08:57:41,118          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-11 08:57:41,976          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-11 08:57:43,046          root     INFO: Parsing G1
-2020-10-11 08:57:43,818          root     INFO: Parsing OGlobo
-2020-10-11 08:57:44,198          root     INFO: Parsing R7 - Brasil
-2020-10-11 08:57:46,354          root     INFO: Finished script
+2020-10-11 09:23:16,164          root     INFO: Starting script
+2020-10-11 09:23:17,266          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-11 09:23:18,091          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-11 09:23:18,918          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-11 09:23:20,253          root     INFO: Parsing G1
+2020-10-11 09:23:22,315          root     INFO: Parsing OGlobo
+2020-10-11 09:23:23,312          root     INFO: Parsing R7 - Brasil
+2020-10-11 09:23:24,876          root     INFO: New article tracked: https://g1.globo.com/sp/santos-regiao/noticia/2020/10/11/quem-vai-ser-o-primeiro-a-morrer-perguntou-atirador-antes-de-matar-homem-no-litoral-de-sp.ghtml
+2020-10-11 09:23:24,885          root     INFO: New article tracked: https://g1.globo.com/sp/santos-regiao/noticia/2020/10/11/amigo-flagra-assalto-enquanto-streamer-jogava-game-pela-webcam-e-salva-familia-no-litoral-de-sp-video.ghtml
+2020-10-11 09:23:24,896          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/noticia/2020/10/11/onibus-de-campina-grande-retomam-circulacao-aos-domingos-e-feriados.ghtml
+2020-10-11 09:23:24,906          root     INFO: New article tracked: https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2020/10/11/pe-na-estrada-e-budismo-no-coracao.ghtml
+2020-10-11 09:23:24,918          root     INFO: New article tracked: https://g1.globo.com/podcast/g1-ouviu/noticia/2020/10/11/g1-ouviu-110-romance-desapegado-a-historia-do-hit-que-revelou-japinha-do-conde-do-forro.ghtml
+2020-10-11 09:23:24,931          root     INFO: New article tracked: https://g1.globo.com/sp/campinas-regiao/eleicoes/2020/noticia/2020/10/11/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-campinas-neste-domingo-11.ghtml
+2020-10-11 09:23:24,943          root     INFO: New article tracked: https://g1.globo.com/am/amazonas/noticia/2020/10/11/veja-a-agenda-dos-candidatos-a-prefeitura-de-manaus-para-este-domingo-11.ghtml
+2020-10-11 09:23:25,179          root     INFO: New article tracked: https://oglobo.globo.com/gastronomia/vinhos-de-portugal/tudo-que-voce-precisa-saber-sobre-vinhos-de-portugal-2020-24679847
+2020-10-11 09:23:25,192          root     INFO: New article tracked: https://epoca.globo.com/guilherme-amado/jair-flavio-eduardo-nao-farao-campanha-para-carlos-bolsonaro-24686945
+2020-10-11 09:23:25,216          root     INFO: New article tracked: https://oglobo.globo.com/celina/com-um-post-ela-fez-mulheres-denunciarem-violencia-sexual-no-egito-mas-agora-elas-precisam-voltar-atras-24685362
+2020-10-11 09:23:25,230          root     INFO: New article tracked: https://oglobo.globo.com/rio/bairros/a-moda-ousar-empreendedores-do-setor-revelam-que-os-levou-investir-em-plena-pandemia-24684075
+2020-10-11 09:23:25,240          root     INFO: New article tracked: https://oglobo.globo.com/rio/bairros/niteroi-presente-comeca-na-regiao-oceanica-no-dia-22-com-150-agentes-24686143
+2020-10-11 09:23:25,354          root     INFO: Removed https://g1.globo.com/ba/bahia/noticia/2020/10/10/chapada-diamantina-tem-mais-um-dia-de-focos-de-incendio.ghtml
+2020-10-11 09:23:25,357          root     INFO: Removed https://oglobo.globo.com/cultura/evidencias-como-hit-sertanejo-virou-hino-informal-brasileiro-24687712
+2020-10-11 09:23:25,360          root     INFO: Removed https://g1.globo.com/to/tocantins/edicao/2020/10/10/videos-ja-2-edicao-to-de-sabado-10-de-outubro.ghtml
+2020-10-11 09:23:25,361          root     INFO: Removed https://g1.globo.com/pa/para/cirio-de-nazare/2020/noticia/2020/10/10/sabado-que-antecede-a-grande-procissao-do-cirio-tem-devotos-enchendo-as-ruas-de-belem.ghtml
+2020-10-11 09:23:25,363          root     INFO: Removed https://oglobo.globo.com/rioshow/de-volta-ao-palco-sucessos-de-elis-roda-de-samba-24687666
+2020-10-11 09:23:25,365          root     INFO: Removed https://oglobo.globo.com/economia/gratificacoes-beneficios-criam-supersalarios-que-superam-teto-salarial-de-servidores-24687424
+2020-10-11 09:23:25,367          root     INFO: Removed https://oglobo.globo.com/cultura/como-evidencias-classico-de-chitaozinho-xororo-virou-um-hit-que-atravessa-geracoes-24686863
+2020-10-11 09:23:25,369          root     INFO: Removed https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/10/coronavirus-sumare-confirma-mais-20-casos-e-total-aumenta-para-6296.ghtml
+2020-10-11 09:23:25,370          root     INFO: Removed https://g1.globo.com/pa/santarem-regiao/eleicoes/2020/noticia/2020/10/10/veja-como-foi-a-agenda-de-campanha-de-candidatos-a-prefeito-de-santarem-neste-sabado-9.ghtml
+2020-10-11 09:23:25,374          root     INFO: Removed https://g1.globo.com/pr/campos-gerais-sul/noticia/2020/10/10/motorista-morre-apos-tentar-cruzar-rodovia-e-ser-atingido-por-caminhao-em-teixeira-soares.ghtml
+2020-10-11 09:23:25,376          root     INFO: Removed https://oglobo.globo.com/cultura/evidencias-cancao-tem-estrutura-dos-orgasmos-multiplos-24687528
+2020-10-11 09:23:25,378          root     INFO: Removed https://g1.globo.com/mundo/noticia/2020/10/10/sem-mercosul-uniao-europeia-cai-nos-colo-dos-eua-diz-associacao-de-exportadores.ghtml
+2020-10-11 09:23:25,379          root     INFO: Finished script
