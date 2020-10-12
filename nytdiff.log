@@ -1,13 +1,54 @@
-2020-10-12 08:57:45,771          root     INFO: Starting script
-2020-10-12 08:57:46,843          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-12 08:57:47,722          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-12 08:57:48,573          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-12 08:57:49,680          root     INFO: Parsing G1
-2020-10-12 08:57:50,467          root     INFO: Parsing OGlobo
-2020-10-12 08:57:50,880          root     INFO: Parsing R7 - Brasil
-2020-10-12 08:57:53,401          root     INFO: New article tracked: https://g1.globo.com/mg/grande-minas/noticia/2020/10/12/homem-morre-apos-se-afogar-em-lagoa-em-montes-claros.ghtml
-2020-10-12 08:57:53,410          root     INFO: New article tracked: https://g1.globo.com/mg/minas-gerais/noticia/2020/10/12/imunoglobulina-humana-medicamento-para-doencas-inflamatorias-esta-em-falta-nas-farmacias-estaduais-de-minas.ghtml
-2020-10-12 08:57:54,001          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/fez-um-milagre-diz-menino-brasileiro-curado-por-beato-carlo-acutis.ghtml
-2020-10-12 08:57:54,003          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/misterio-dos-planetas-mostra-que-faltou-pouco-para-marte-ser-parecido-com-a-terra.ghtml
-2020-10-12 08:57:54,005          root     INFO: Removed https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/10/11/pm-recupera-carro-roubado-do-patio-de-cosmopolis-e-prende-rapaz-por-receptacao.ghtml
-2020-10-12 08:57:54,006          root     INFO: Finished script
+2020-10-12 09:24:17,364          root     INFO: Starting script
+2020-10-12 09:24:18,402          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-12 09:24:19,238          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-12 09:24:20,082          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-12 09:24:21,009          root     INFO: Parsing G1
+2020-10-12 09:24:22,871          root     INFO: Parsing OGlobo
+2020-10-12 09:24:23,268          root     INFO: Parsing R7 - Brasil
+2020-10-12 09:24:24,001          root     INFO: Ministros do STF criticam <del>Fux</del> <ins>Fux,</ins> mas desaprovam ato de Marco Aurélio de soltar chefe do PCC
+2020-10-12 09:24:25,791          root     INFO: Media ready with ids: 1315584096131854337
+2020-10-12 09:24:25,791          root     INFO: Text to tweet: Modificação do Título
+2020-10-12 09:24:25,791          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministros-do-stf-criticam-fux-mas-desaprovam-ato-de-marco-aurelio-de-soltar-chefe-do-pcc.shtml
+2020-10-12 09:24:25,795          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministros-do-stf-criticam-fux-mas-desaprovam-ato-de-marco-aurelio-de-soltar-chefe-do-pcc.shtml
+2020-10-12 09:24:26,035          root     INFO: Replying to: 1315584097809502208
+2020-10-12 09:24:26,306          root     INFO: Id to store: 1315584098728058885
+2020-10-12 09:24:27,872          root     INFO: New article tracked: https://g1.globo.com/sp/santos-regiao/noticia/2020/10/12/superatleta-se-recupera-totalmente-da-covid-19-e-vence-campeonato-apos-levantar-640-kg.ghtml
+2020-10-12 09:24:27,882          root     INFO: New article tracked: https://g1.globo.com/sp/santos-regiao/noticia/2020/10/12/menino-com-doenca-rara-volta-a-andar-ao-usar-canabidiol-dia-das-criancas-mais-feliz.ghtml
+2020-10-12 09:24:27,890          root     INFO: New article tracked: https://g1.globo.com/pr/parana/informacoes-adicionais-dos-telejornais/noticia/2020/10/12/rpc-veja-as-informacoes-adicionais-das-reportagens-do-dia-12102020.ghtml
+2020-10-12 09:24:27,899          root     INFO: New article tracked: https://g1.globo.com/al/alagoas/eleicoes/2020/noticia/2020/10/12/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-maceio-nesta-segunda-12.ghtml
+2020-10-12 09:24:27,907          root     INFO: New article tracked: https://g1.globo.com/ce/ceara/noticia/2020/10/12/dia-das-criancas-veja-fotos-da-infancia-dos-jornalistas-da-tv-verdes-mares.ghtml
+2020-10-12 09:24:27,915          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/la-vem-o-enem/2020/noticia/2020/10/12/podcast-la-vem-o-enem-2020-episodio-10-aborda-os-efeitos-dos-desastres-ambientais-no-brasil.ghtml
+2020-10-12 09:24:27,923          root     INFO: New article tracked: https://g1.globo.com/pop-arte/noticia/2020/10/12/o-clone-no-globoplay-relembre-historia-de-amor-de-jade-e-lucas-clonagem-e-choque-de-culturas.ghtml
+2020-10-12 09:24:27,934          root     INFO: New article tracked: https://g1.globo.com/pe/petrolina-regiao/noticia/2020/10/12/agencia-do-trabalho-de-petrolina-suspende-atendimentos-de-intermediacao-de-mao-de-obra-a-partir-de-terca-feira-13.ghtml
+2020-10-12 09:24:27,942          root     INFO: New article tracked: https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2020/10/12/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-campo-grande-nesta-segunda-feira-12.ghtml
+2020-10-12 09:24:27,950          root     INFO: New article tracked: https://g1.globo.com/pa/para/eleicoes/2020/noticia/2020/10/12/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-belem-nesta-segunda-feira-12.ghtml
+2020-10-12 09:24:27,958          root     INFO: New article tracked: https://g1.globo.com/ba/bahia/noticia/2020/10/12/simm-oferece-vagas-para-barman-analista-de-sistema-mecanico-de-rocadeira-e-outros-veja.ghtml
+2020-10-12 09:24:27,967          root     INFO: New article tracked: https://g1.globo.com/sp/campinas-regiao/eleicoes/2020/noticia/2020/10/12/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-campinas-nesta-segunda-feira-12.ghtml
+2020-10-12 09:24:27,975          root     INFO: New article tracked: https://g1.globo.com/ap/amapa/eleicoes/2020/noticia/2020/10/12/veja-a-agenda-dos-candidatos-a-prefeitura-de-macapa-para-esta-segunda-feira-12.ghtml
+2020-10-12 09:24:27,991          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/noticia/2020/10/12/inscricoes-em-concurso-da-prefeitura-de-mari-pb-terminam-nesta-segunda-feira.ghtml
+2020-10-12 09:24:28,000          root     INFO: New article tracked: https://g1.globo.com/pe/pernambuco/noticia/2020/10/12/governo-libera-parques-de-diversao-em-pernambuco-com-50percent-da-capacidade-veja-protocolo.ghtml
+2020-10-12 09:24:28,233          root     INFO: New article tracked: https://oglobo.globo.com/esportes/paulo-wanderley-fala-dos-bastidores-maldosos-da-eleicao-para-presidencia-do-cob-telefonema-de-nuzman-1-24684890
+2020-10-12 09:24:28,252          root     INFO: New article tracked: https://epoca.globo.com/guilherme-amado/fux-quer-tornar-audiencias-de-custodia-virtuais-em-algumas-cidades-24687015
+2020-10-12 09:24:28,269          root     INFO: New article tracked: https://oglobo.globo.com/rio/bairros/outubro-rosa-lives-exames-consultas-medicas-gratuitas-estao-na-programacao-1-24684263
+2020-10-12 09:24:28,280          root     INFO: New article tracked: https://oglobo.globo.com/rio/bairros/o-ano-nao-acabou-da-tempo-de-emagrecer-malhar-reformar-casa-estudar-24682705
+2020-10-12 09:24:28,436          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/tj-go-tranca-investigacao-sobre-padre-robson-acusado-de-fazer-negocios-milionarios-com-laranjas.ghtml
+2020-10-12 09:24:28,439          root     INFO: Removed https://oglobo.globo.com/sociedade/ondas-de-calor-tambem-podem-derreter-economia-do-brasil-alerta-cientista-24688334
+2020-10-12 09:24:28,442          root     INFO: Removed https://oglobo.globo.com/economia/dolar-alto-beneficia-exportadoras-mas-prejudica-planos-de-longo-prazo-1-24688183
+2020-10-12 09:24:28,444          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/nao-sei-se-vou-comer-amanha-veja-relatos-dos-brasileiros-que-passam-fome.ghtml
+2020-10-12 09:24:28,448          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/fabio-porchat-estreia-programa-e-revela-historia-inusitada-injecoes-de-botox-na-virilha.ghtml
+2020-10-12 09:24:28,451          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/escolinha-do-professor-raimundo-volta-inovando-nesta-temporada.ghtml
+2020-10-12 09:24:28,454          root     INFO: Removed https://g1.globo.com/ce/ceara/noticia/2020/10/11/fortaleza-teve-o-mes-de-setembro-mais-quente-dos-ultimos-59-anos.ghtml
+2020-10-12 09:24:28,457          root     INFO: Removed https://g1.globo.com/fato-ou-fake/noticia/2020/10/11/e-fake-que-russomanno-votou-contra-ficha-limpa.ghtml
+2020-10-12 09:24:28,460          root     INFO: Removed https://oglobo.globo.com/cultura/gregorio-duvivier-mais-dificil-fazer-piada-num-panorama-tao-absurdo-24666600
+2020-10-12 09:24:28,463          root     INFO: Removed https://g1.globo.com/ro/rondonia/noticia/2020/10/11/cinco-concursos-e-processos-seletivos-encerram-inscricoes-esta-semana-em-rondonia.ghtml
+2020-10-12 09:24:28,466          root     INFO: Removed https://g1.globo.com/ce/ceara/noticia/2020/10/11/discussao-na-avenida-beira-mar-leva-homem-em-situacao-de-rua-a-hospital-em-fortaleza.ghtml
+2020-10-12 09:24:28,470          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/drauzio-varella-explica-descoberta-do-virus-da-hepatite-c-pesquisa-vencedora-do-nobel-de-medicina.ghtml
+2020-10-12 09:24:28,473          root     INFO: Removed https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/10/11/policia-prende-suspeito-e-recupera-moto-furtada-que-circulava-sem-placa-em-limeira.ghtml
+2020-10-12 09:24:28,476          root     INFO: Removed https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/10/11/pesquisadores-apresentam-nova-especie-de-ancestral-de-mamiferos-que-viveu-ha-225-milhoes-de-anos-no-rs.ghtml
+2020-10-12 09:24:28,479          root     INFO: Removed https://g1.globo.com/mundo/noticia/2020/10/11/ex-presidente-da-bolivia-retira-candidatura-para-enfraquecer-partido-de-morales.ghtml
+2020-10-12 09:24:28,482          root     INFO: Removed https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/11/incendios-atingem-areas-de-mata-em-sumare-e-itapira.ghtml
+2020-10-12 09:24:28,484          root     INFO: Removed https://g1.globo.com/pop-arte/noticia/2020/10/11/carlinhos-brown-e-lexa-cantam-musica-de-campanha-contra-evasao-escolar.ghtml
+2020-10-12 09:24:28,487          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/mulheres-fantasticas-especial-do-dia-do-professores-homenageia-duas-educadoras.ghtml
+2020-10-12 09:24:28,490          root     INFO: Removed https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/10/11/taxista-e-morto-a-facadas-em-estrada-do-interior-de-montenegro.ghtml
+2020-10-12 09:24:28,492          root     INFO: Removed https://oglobo.globo.com/sociedade/queimadas-no-pantanal-cada-grupo-de-animais-reage-sente-impactos-de-forma-diferente-diz-biologa-24686973
+2020-10-12 09:24:28,493          root     INFO: Finished script
