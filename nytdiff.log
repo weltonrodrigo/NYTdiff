@@ -1,37 +1,13 @@
-2020-10-12 08:46:57,093          root     INFO: Starting script
-2020-10-12 08:46:58,137          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-12 08:46:59,015          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-12 08:46:59,876          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-12 08:47:00,994          root     INFO: Parsing G1
-2020-10-12 08:47:01,761          root     INFO: Parsing OGlobo
-2020-10-12 08:47:03,891          root     INFO: Parsing R7 - Brasil
-2020-10-12 08:47:06,148          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/musica/noticia/2020/10/12/veja-agenda-de-lives-de-dia-das-criancas-na-paraiba.ghtml
-2020-10-12 08:47:06,156          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/eleicoes/2020/noticia/2020/10/12/veja-agenda-dos-candidatos-a-prefeito-de-campina-grande-nesta-segunda-feira-12.ghtml
-2020-10-12 08:47:06,165          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/eleicoes/2020/noticia/2020/10/12/veja-agenda-dos-candidatos-a-prefeito-de-joao-pessoa-nesta-segunda-feira-12.ghtml
-2020-10-12 08:47:06,556          root     INFO: New article tracked: http://noticias.r7.com/brasil/empresas-juniores-movimentaram-mais-de-r-32-milhoes-em-2020-12102020
-2020-10-12 08:47:06,564          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-ter-decisao-derrubada-marco-aurelio-diz-agir-conforme-a-lei-11102020
-2020-10-12 08:47:06,573          root     INFO: New article tracked: http://noticias.r7.com/brasil/google-pode-levar-multa-por-nao-compartilhar-dados-sobre-marielle-11102020
-2020-10-12 08:47:06,581          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-tem-30-mil-criancas-acolhidas-e-5-mil-aptas-para-adocao-11102020
-2020-10-12 08:47:06,588          root     INFO: New article tracked: http://noticias.r7.com/brasil/chefe-da-area-de-combate-a-incendio-do-ibama-pede-demissao-11102020
-2020-10-12 08:47:06,596          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-paz-o-mais-novo-sonho-de-consumo-11102020
-2020-10-12 08:47:06,603          root     INFO: New article tracked: http://noticias.r7.com/brasil/salles-anuncia-que-fogo-na-chapada-dos-veadeiros-foi-controlado-11102020
-2020-10-12 08:47:06,610          root     INFO: New article tracked: http://noticias.r7.com/brasil/morte-de-engenheiro-negro-por-policial-no-rs-gera-indignacao-e-movimento-black-lives-matter-local-11102020
-2020-10-12 08:47:06,619          root     INFO: New article tracked: http://noticias.r7.com/brasil/no-guaruja-bolsonaro-passeia-na-praia-e-posa-ao-lado-de-apoiadores-11102020
-2020-10-12 08:47:06,626          root     INFO: New article tracked: http://noticias.r7.com/brasil/memes-funk-e-quizzes-a-primeira-eleicao-com-uso-do-tiktok-11102020
-2020-10-12 08:47:06,634          root     INFO: New article tracked: http://noticias.r7.com/brasil/renda-basica-economistas-dizem-que-so-a-ajuda-financeira-nao-basta-11102020
-2020-10-12 08:47:06,640          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-2020-redes-sociais-forcam-mudancas-em-partidos-politicos-11102020
-2020-10-12 08:47:06,704          root     INFO: Removed https://g1.globo.com/go/goias/noticia/2020/10/11/jovem-em-moto-aquatica-desaparece-no-lago-das-brisas-em-buriti-alegre.ghtml
-2020-10-12 08:47:06,706          root     INFO: Removed http://noticias.r7.com/brasil/maia-diz-que-camara-votara-pec-da-segunda-instancia-ate-dezembro-10102020
-2020-10-12 08:47:06,709          root     INFO: Removed http://noticias.r7.com/brasil/stf-forma-maioria-para-manter-veto-ao-trabalho-de-menor-de-16-anos-09102020
-2020-10-12 08:47:06,712          root     INFO: Removed http://noticias.r7.com/brasil/volto-rapido-e-to-apavorado-as-ultimas-mensagens-de-vitimas-da-covid-19-10102020
-2020-10-12 08:47:06,714          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/pandemia-muda-forma-de-homenagear-nossa-senhora-em-belem-e-aparecida.ghtml
-2020-10-12 08:47:06,717          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-promete-premio-de-r-3-milhoes-neste-sabado-10102020
-2020-10-12 08:47:06,719          root     INFO: Removed http://noticias.r7.com/brasil/garimpo-ilegal-continua-no-linhao-de-transmissao-de-belo-monte-10102020
-2020-10-12 08:47:06,721          root     INFO: Removed https://g1.globo.com/sp/santos-regiao/noticia/2020/10/11/comercios-academias-e-hoteis-passam-a-funcionar-com-horario-estendido-em-santos.ghtml
-2020-10-12 08:47:06,724          root     INFO: Removed http://noticias.r7.com/brasil/fotos/temperatura-recorde-fim-da-lava-jato-e-alta-de-trump-foram-destaque-10102020
-2020-10-12 08:47:06,726          root     INFO: Removed http://noticias.r7.com/brasil/gilmar-manda-para-justica-eleitoral-acao-penal-da-lava-jato-contra-baldy-09102020
-2020-10-12 08:47:06,729          root     INFO: Removed http://noticias.r7.com/brasil/nada-concreto-diz-tereza-cristina-sobre-presidencia-da-camara-09102020
-2020-10-12 08:47:06,731          root     INFO: Removed http://noticias.r7.com/brasil/brasil-e-escolhido-para-presidir-conselho-para-refugiados-da-onu-10102020
-2020-10-12 08:47:06,732          root     INFO: Removed http://noticias.r7.com/brasil/idec-da-dicas-para-pais-evitarem-problemas-ao-comprar-brinquedos-10102020
-2020-10-12 08:47:06,734          root     INFO: Removed http://noticias.r7.com/brasil/pl-expulsa-candidato-a-vereador-por-suastica-na-piscina-de-casa-em-sc-09102020
-2020-10-12 08:47:06,735          root     INFO: Finished script
+2020-10-12 08:57:45,771          root     INFO: Starting script
+2020-10-12 08:57:46,843          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-12 08:57:47,722          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-12 08:57:48,573          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-12 08:57:49,680          root     INFO: Parsing G1
+2020-10-12 08:57:50,467          root     INFO: Parsing OGlobo
+2020-10-12 08:57:50,880          root     INFO: Parsing R7 - Brasil
+2020-10-12 08:57:53,401          root     INFO: New article tracked: https://g1.globo.com/mg/grande-minas/noticia/2020/10/12/homem-morre-apos-se-afogar-em-lagoa-em-montes-claros.ghtml
+2020-10-12 08:57:53,410          root     INFO: New article tracked: https://g1.globo.com/mg/minas-gerais/noticia/2020/10/12/imunoglobulina-humana-medicamento-para-doencas-inflamatorias-esta-em-falta-nas-farmacias-estaduais-de-minas.ghtml
+2020-10-12 08:57:54,001          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/fez-um-milagre-diz-menino-brasileiro-curado-por-beato-carlo-acutis.ghtml
+2020-10-12 08:57:54,003          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/misterio-dos-planetas-mostra-que-faltou-pouco-para-marte-ser-parecido-com-a-terra.ghtml
+2020-10-12 08:57:54,005          root     INFO: Removed https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/10/11/pm-recupera-carro-roubado-do-patio-de-cosmopolis-e-prende-rapaz-por-receptacao.ghtml
+2020-10-12 08:57:54,006          root     INFO: Finished script
