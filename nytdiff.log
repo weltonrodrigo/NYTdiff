@@ -1,30 +1,13 @@
-2020-10-12 08:26:45,732          root     INFO: Starting script
-2020-10-12 08:26:46,919          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-12 08:26:47,770          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-12 08:26:48,634          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-12 08:26:49,438          root     INFO: Parsing G1
-2020-10-12 08:26:50,213          root     INFO: Parsing OGlobo
-2020-10-12 08:26:50,614          root     INFO: Parsing R7 - Brasil
-2020-10-12 08:26:52,865          root     INFO: New article tracked: https://g1.globo.com/mg/minas-gerais/concursos-e-emprego/noticia/2020/10/12/balcao-do-bdmg-veja-vagas-de-emprego-e-estagio-para-belo-horizonte-e-regiao-metropolitana.ghtml
-2020-10-12 08:26:52,873          root     INFO: New article tracked: https://g1.globo.com/go/goias/noticia/2020/10/12/esteticista-faz-micropigmentacao-de-graca-para-pacientes-que-perderam-a-sobrancelha-durante-tratamento-contra-o-cancer.ghtml
-2020-10-12 08:26:52,882          root     INFO: New article tracked: https://g1.globo.com/go/goias/noticia/2020/10/12/governo-prorroga-prazo-para-inscricao-do-auxilio-emergencial-da-cultura-em-goias-saiba-como-se-cadastrar.ghtml
-2020-10-12 08:26:52,890          root     INFO: New article tracked: https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/10/12/atividades-fisicas-para-gestantes-estao-com-inscricoes-abertas-em-porto-alegre-veja-como-participar.ghtml
-2020-10-12 08:26:52,900          root     INFO: New article tracked: https://g1.globo.com/sp/vale-do-paraiba-regiao/festa-da-padroeira/2020/noticia/2020/10/12/devotos-celebram-padroeira-do-brasil-na-basilica-de-aparecida-sp.ghtml
-2020-10-12 08:26:52,909          root     INFO: New article tracked: https://g1.globo.com/economia/blog/ana-flor/post/2020/10/12/governo-e-lideres-negociam-cancelar-recesso-de-janeiro-para-votar-projetos-no-congresso.ghtml
-2020-10-12 08:26:53,212          root     INFO: New article tracked: https://oglobo.globo.com/podcast/bolsonaro-tem-alguma-ingerencia-sobre-lava-jato-24688145
-2020-10-12 08:26:53,238          root     INFO: New article tracked: https://oglobo.globo.com/esportes/robinho-no-santos-lamentavel-define-coordenador-de-campanha-apoiada-pelo-clube-ha-dois-anos-24688231
-2020-10-12 08:26:53,264          root     INFO: New article tracked: https://oglobo.globo.com/esportes/schumacher-passa-bastao-hamilton-que-deve-continuar-sucesso-dentro-fora-das-pistas-24688060
-2020-10-12 08:26:53,274          root     INFO: New article tracked: https://oglobo.globo.com/ela/gente/conheca-dark-academia-nova-estetica-que-moda-entre-os-jovens-do-tiktok-24687842
-2020-10-12 08:26:53,291          root     INFO: New article tracked: https://oglobo.globo.com/sociedade/saude/jovens-lixam-os-dentes-em-desafio-no-tiktok-dentistas-alertam-sobre-perigo-para-saude-bucal-24686084
-2020-10-12 08:26:53,441          root     INFO: Removed https://g1.globo.com/politica/noticia/2020/10/11/maia-diz-acreditar-em-acordo-com-governo-para-avancar-reforma-tributaria-ainda-em-2020.ghtml
-2020-10-12 08:26:53,444          root     INFO: Removed https://oglobo.globo.com/brasil/eleicoes-2020/mourao-vira-cabo-eleitoral-grava-videos-com-200-candidatos-discurso-decorado-24688210
-2020-10-12 08:26:53,446          root     INFO: Removed https://oglobo.globo.com/cultura/casados-joana-jabace-bruno-mazzeo-contam-como-trabalhar-junto-quebramos-varios-paus-24681628
-2020-10-12 08:26:53,449          root     INFO: Removed https://oglobo.globo.com/brasil/eleicoes-2020/pele-do-prtb-mourao-vira-cabo-eleitoral-grava-videos-com-200-candidatos-discurso-decorado-24688190
-2020-10-12 08:26:53,451          root     INFO: Removed https://g1.globo.com/sp/sao-paulo/noticia/2020/10/11/quem-e-andre-do-rap-traficante-apontado-como-um-dos-chefes-de-faccao-paulista-que-esta-foragido-apos-ser-solto-pelo-stf.ghtml
-2020-10-12 08:26:53,453          root     INFO: Removed https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/10/11/policia-investiga-homem-suspeito-de-matar-o-pai-em-tres-passos.ghtml
-2020-10-12 08:26:53,456          root     INFO: Removed https://oglobo.globo.com/brasil/eleicoes-2020/partidos-distribuem-mais-verbas-para-candidatos-com-mandato-caciques-locais-24688239
-2020-10-12 08:26:53,458          root     INFO: Removed https://g1.globo.com/mg/centro-oeste/noticia/2020/10/11/patronato-sao-luiz-completa-78-anos-de-fundacao-em-formiga.ghtml
-2020-10-12 08:26:53,460          root     INFO: Removed https://g1.globo.com/fantastico/noticia/2020/10/11/depois-de-perder-o-pai-filha-decide-realizar-desejos-dele-anotados-por-anos-no-celular.ghtml
-2020-10-12 08:26:53,462          root     INFO: Removed https://g1.globo.com/pr/oeste-sudoeste/noticia/2020/10/11/bombeiros-buscam-adolescente-que-desapareceu-no-rio-piquiri-em-palotina.ghtml
-2020-10-12 08:26:53,465          root     INFO: Removed https://oglobo.globo.com/economia/dolar-eleva-preco-dos-importados-mas-nao-freia-onda-gourmet-no-consumo-24688186
-2020-10-12 08:26:53,465          root     INFO: Finished script
+2020-10-12 08:34:30,749          root     INFO: Starting script
+2020-10-12 08:34:31,793          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-12 08:34:32,648          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-12 08:34:33,520          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-12 08:34:34,678          root     INFO: Parsing G1
+2020-10-12 08:34:35,514          root     INFO: Parsing OGlobo
+2020-10-12 08:34:35,879          root     INFO: Parsing R7 - Brasil
+2020-10-12 08:34:37,980          root     INFO: New article tracked: https://g1.globo.com/mg/minas-gerais/eleicoes/2020/noticia/2020/10/12/eleicoes-2020-veja-a-agenda-dos-candidatos-a-prefeito-de-belo-horizonte-nesta-segunda-12.ghtml
+2020-10-12 08:34:37,987          root     INFO: New article tracked: https://g1.globo.com/pr/parana/noticia/2020/10/12/jovem-desempregada-monta-loja-na-garagem-de-casa-para-revender-produtos-artesanais-de-vizinhos-todo-mundo-sai-ganhando.ghtml
+2020-10-12 08:34:38,314          root     INFO: New article tracked: https://oglobo.globo.com/rioshow/dia-das-criancas-os-melhores-filmes-em-streaming-1-24685932
+2020-10-12 08:34:38,526          root     INFO: Removed https://g1.globo.com/pr/parana/economia/noticia/2020/10/11/pela-1a-vez-no-ano-mais-da-metade-das-empresas-tem-alta-nas-vendas-na-comparacao-com-2019-no-parana-aponta-boletim.ghtml
+2020-10-12 08:34:38,530          root     INFO: Removed https://oglobo.globo.com/cultura/joana-jabace-espectador-nao-quer-so-escapismo-na-tv-24681551
+2020-10-12 08:34:38,531          root     INFO: Finished script
