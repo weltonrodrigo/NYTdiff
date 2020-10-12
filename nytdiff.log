@@ -1,23 +1,8 @@
-2020-10-12 03:23:49,801          root     INFO: Starting script
-2020-10-12 03:23:50,861          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-12 03:23:51,715          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-12 03:23:52,585          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-12 03:23:53,377          root     INFO: Parsing G1
-2020-10-12 03:23:54,304          root     INFO: Parsing OGlobo
-2020-10-12 03:23:54,765          root     INFO: Parsing R7 - Brasil
-2020-10-12 03:23:57,058          root     INFO: New article tracked: https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2020/10/12/musicas-para-descobrir-em-casa-olhos-abertos-guarabyra-e-ze-rodrix-1972-com-elis-regina.ghtml
-2020-10-12 03:23:57,318          root     INFO: <del>Mergulhadores do Corpo</del> <ins>João Vitor Gomes,</ins> de <del>Bombeiros</del> <ins>22 anos, estava com amigos e parentes quando desapareceu no lago. Mergulhadores dos bombeiros</ins> fazem buscas pelo <del>jovem, mas, até a noite deste domingo (11), ele ainda não havia sido localizado.</del> <ins>jovem.</ins> Jovem em moto aquática desaparece no Lago das Brisas, em Buriti Alegre <del>Reprodução/TV Anhanguera Um jovem</del> <ins>Arquivo pessoal/João Vitor Gomes O policial penal João Vitor Gomes,</ins> de 22 <del>anos</del> <ins>anos,</ins> desapareceu enquanto pilotava uma moto aquática na <del>noite</del> <ins>tarde</ins> de sábado (10), no Lago das Brisas, em Buriti Alegre, na região sul de Goiás. <del>Até</del> <ins>Segundo os bombeiros, até</ins> a noite deste domingo (11), o jovem ainda não havia sido localizado. <ins>Segundo um familiar da vítima disse ao G1, João estava com amigos e familiares no lago, quando pegou a moto aquática e saiu, por volta de 16h. Pouco tempo depois, os amigos sentiram falta dele e foram atrás dele, mas só encontraram o veículo, à deriva. Jovem em moto aquática desaparece no Lago das Brisas, em Buriti Alegre Reprodução/TV Anhanguera</ins> As buscas pelo <del>desaparecido</del> <ins>jovem</ins> começaram por volta de 6h deste domingo, quando a equipe do Corpo de Bombeiros, com três mergulhadores, chegou ao local. Conforme a corporação, as buscas se estenderam até o fim do dia, mas não foi possível encontrar <del>o garoto. De acordo com os bombeiros, eles receberam informações sobre uma motonáutica à deriva no lago, na noite de sexta-feira, no entanto, a equipe de mergulho não realiza buscas durante à noite.</del> <ins>João Vitor.</ins> Segundo a corporação, os mergulhadores seguem nas buscas na segunda-feira (12). Jovem em moto aquática desaparece no Lago das Brisas, em Buriti Alegre Reprodução/TV Anhanguera Veja outras notícias da região no G1 Goiás.
-2020-10-12 03:23:59,817          root     INFO: Media ready with ids: 1315493389157240832
-2020-10-12 03:23:59,817          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-12 03:23:59,817          root     INFO: Article id: https://g1.globo.com/go/goias/noticia/2020/10/11/jovem-em-moto-aquatica-desaparece-no-lago-das-brisas-em-buriti-alegre.ghtml
-2020-10-12 03:23:59,824          root     INFO: Tweeting url: https://g1.globo.com/go/goias/noticia/2020/10/11/jovem-em-moto-aquatica-desaparece-no-lago-das-brisas-em-buriti-alegre.ghtml
-2020-10-12 03:24:00,096          root     INFO: Replying to: 1315493391937998848
-2020-10-12 03:24:00,385          root     INFO: Id to store: 1315493393003413505
-2020-10-12 03:24:00,497          root     INFO: New article tracked: https://oglobo.globo.com/esportes/analise-lebron-davis-brilham-lakers-repetem-receita-das-ultimas-decadas-para-conquistar-17-titulo-da-nba-24684729
-2020-10-12 03:24:00,556          root     INFO: New article tracked: https://oglobo.globo.com/opiniao/desastres-expoem-despreparo-do-governo-nas-acoes-de-defesa-civil-1-24687949
-2020-10-12 03:24:00,563          root     INFO: New article tracked: https://oglobo.globo.com/opiniao/loteamento-politico-so-produz-perdas-ineficiencia-estatal-1-24686008
-2020-10-12 03:24:00,716          root     INFO: Removed https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/11/de-acesso-a-dados-de-seguranca-a-ameacas-contra-funcionarios-pf-detalha-trafico-internacional-de-drogas-no-aeroporto-de-viracopos.ghtml
-2020-10-12 03:24:00,719          root     INFO: Removed https://oglobo.globo.com/sociedade/com-mortalidade-em-queda-brasil-tem-media-semanal-de-590-mortes-pela-covid-19-1-24688144
-2020-10-12 03:24:00,722          root     INFO: Removed https://oglobo.globo.com/esportes/nba-lebron-davis-brilham-lakers-repetem-receita-das-ultimas-decadas-para-conquistar-17-titulo-1-24684729
-2020-10-12 03:24:00,724          root     INFO: Removed https://oglobo.globo.com/brasil/maia-defende-congresso-diz-que-mp-deve-explicacoes-no-caso-do-traficante-andre-do-rap-1-24688151
-2020-10-12 03:24:00,725          root     INFO: Finished script
+2020-10-12 03:31:10,385          root     INFO: Starting script
+2020-10-12 03:31:11,426          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-12 03:31:12,292          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-12 03:31:13,150          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-12 03:31:14,137          root     INFO: Parsing G1
+2020-10-12 03:31:15,166          root     INFO: Parsing OGlobo
+2020-10-12 03:31:15,528          root     INFO: Parsing R7 - Brasil
+2020-10-12 03:31:18,357          root     INFO: Finished script
