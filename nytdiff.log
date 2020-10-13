@@ -1,12 +1,29 @@
-2020-10-13 03:57:42,000          root     INFO: Starting script
-2020-10-13 03:57:43,052          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-13 03:57:43,979          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-13 03:57:44,838          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-13 03:57:45,774          root     INFO: Parsing G1
-2020-10-13 03:57:46,553          root     INFO: Parsing OGlobo
-2020-10-13 03:57:46,815          root     INFO: Parsing R7 - Brasil
-2020-10-13 03:57:50,011          root     INFO: Removed http://noticias.r7.com/brasil/senador-wellington-fagundes-do-pl-tambem-esta-com-covid-19-12102020
-2020-10-13 03:57:50,014          root     INFO: Removed http://noticias.r7.com/brasil/senador-eduardo-braga-do-mdb-e-diagnosticado-com-covid-19-12102020
-2020-10-13 03:57:50,016          root     INFO: Removed http://noticias.r7.com/brasil/ministro-da-justica-se-posiciona-contra-soltura-de-andre-do-rap-12102020
-2020-10-13 03:57:50,018          root     INFO: Removed http://noticias.r7.com/brasil/videos/ministro-da-justica-se-posiciona-contra-soltura-de-traficante-andre-do-rap-12102020
-2020-10-13 03:57:50,019          root     INFO: Finished script
+2020-10-13 04:26:01,280          root     INFO: Starting script
+2020-10-13 04:26:02,337          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-13 04:26:03,192          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-13 04:26:04,052          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-13 04:26:05,004          root     INFO: Parsing G1
+2020-10-13 04:26:05,773          root     INFO: Parsing OGlobo
+2020-10-13 04:26:08,420          root     INFO: Parsing R7 - Brasil
+2020-10-13 04:26:11,105          root     INFO: New article tracked: https://g1.globo.com/mg/minas-gerais/noticia/2020/10/13/fogo-destroi-casa-e-deixa-moradores-desalojados-apos-explosao-em-aparelho-de-tv.ghtml
+2020-10-13 04:26:11,574          root     INFO: New article tracked: https://oglobo.globo.com/opiniao/desconstrucao-dos-conselhos-nacionais-risco-ao-meio-ambiente-a-vida-24682106
+2020-10-13 04:26:11,581          root     INFO: New article tracked: https://oglobo.globo.com/opiniao/o-padrinho-faz-curriculo-24685977
+2020-10-13 04:26:11,588          root     INFO: New article tracked: https://oglobo.globo.com/opiniao/desprezo-pela-historia-do-pais-24685998
+2020-10-13 04:26:11,594          root     INFO: New article tracked: https://oglobo.globo.com/opiniao/renda-basica-de-7-mil-24686110
+2020-10-13 04:26:11,618          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-soltura-de-andre-do-rap-moraes-diz-que-trafico-e-um-cancer-12102020
+2020-10-13 04:26:11,624          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-pede-que-andre-do-rap-seja-incluido-em-lista-da-interpol-12102020
+2020-10-13 04:26:11,631          root     INFO: New article tracked: http://noticias.r7.com/brasil/andre-do-rap-procuradores-negam-omissao-e-criticam-marco-aurelio-12102020
+2020-10-13 04:26:11,639          root     INFO: New article tracked: http://noticias.r7.com/brasil/weber-e-a-relatora-dos-processos-da-operacao-que-prendeu-andre-do-rap-12102020
+2020-10-13 04:26:11,648          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-registra-201-novas-mortes-por-covid-19-e-alcanca-150689-12102020
+2020-10-13 04:26:11,654          root     INFO: New article tracked: http://noticias.r7.com/brasil/alpinista-morre-ao-ficar-preso-em-canion-em-sc-resgate-durou-6-horas-12102020
+2020-10-13 04:26:11,661          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-vai-fiscalizar-realocacao-de-venezuelanos-pelo-exercito-12102020
+2020-10-13 04:26:11,670          root     INFO: New article tracked: http://noticias.r7.com/brasil/dia-das-criancas-geracao-conectada-ainda-gosta-de-brincar-de-bonecos-12102020
+2020-10-13 04:26:11,677          root     INFO: New article tracked: http://noticias.r7.com/brasil/maioria-no-stf-concorda-com-retorno-a-prisao-de-andre-do-rap-12102020
+2020-10-13 04:26:11,684          root     INFO: New article tracked: http://noticias.r7.com/brasil/mercado-se-frustra-com-bolsonaro-mas-ainda-mantem-apoio-12102020
+2020-10-13 04:26:11,691          root     INFO: New article tracked: http://noticias.r7.com/brasil/justica-lanca-curso-sobre-investigacao-em-feminicidio-12102020
+2020-10-13 04:26:11,788          root     INFO: Removed https://oglobo.globo.com/sociedade/com-203-mortes-em-24-horas-media-movel-do-pais-a-menor-desde-10-de-maio-diz-consorcio-1-24689053
+2020-10-13 04:26:11,791          root     INFO: Removed https://oglobo.globo.com/brasil/deputados-citam-soltura-de-andre-do-rap-para-pedir-reabertura-de-comissao-da-pec-da-segunda-instancia-24689031
+2020-10-13 04:26:11,792          root     INFO: Removed https://g1.globo.com/jornal-nacional/noticia/2020/10/12/calor-intenso-em-ms-tem-provocado-problemas-de-saude-na-populacao.ghtml
+2020-10-13 04:26:11,794          root     INFO: Removed https://oglobo.globo.com/brasil/ajufe-diz-que-judiciario-nao-tem-estrutura-para-cumprir-artigo-que-permitiu-soltura-de-traficante-24689052
+2020-10-13 04:26:11,796          root     INFO: Removed https://oglobo.globo.com/economia/negociacoes-para-acordo-de-taxacao-global-de-gigantes-digitais-avancam-mas-so-devem-ser-concluidas-em-2021-24689066
+2020-10-13 04:26:11,797          root     INFO: Finished script
