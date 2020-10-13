@@ -1,10 +1,18 @@
-2020-10-13 01:52:02,578          root     INFO: Starting script
-2020-10-13 01:52:03,606          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-13 01:52:04,445          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-13 01:52:05,288          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-13 01:52:06,228          root     INFO: Parsing G1
-2020-10-13 01:52:07,166          root     INFO: Parsing OGlobo
-2020-10-13 01:52:07,545          root     INFO: Parsing R7 - Brasil
-2020-10-13 01:52:10,114          root     INFO: New article tracked: https://g1.globo.com/jornal-nacional/noticia/2020/10/12/fux-estuda-levar-ao-plenario-do-stf-o-caso-do-traficante-andre-do-rap.ghtml
-2020-10-13 01:52:10,740          root     INFO: Removed https://g1.globo.com/pa/santarem-regiao/eleicoes/2020/noticia/2020/10/12/veja-como-foi-a-agenda-de-campanha-de-candidatos-a-prefeito-de-santarem-nesta-segunda-feira-12.ghtml
-2020-10-13 01:52:10,740          root     INFO: Finished script
+2020-10-13 01:57:38,374          root     INFO: Starting script
+2020-10-13 01:57:39,243          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-13 01:57:39,915          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-13 01:57:40,583          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-13 01:57:41,564          root     INFO: Parsing G1
+2020-10-13 01:57:42,360          root     INFO: Parsing OGlobo
+2020-10-13 01:57:42,600          root     INFO: Parsing R7 - Brasil
+2020-10-13 01:57:45,404          root     INFO: New article tracked: https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-de-segunda-feira-12-de-outubro.ghtml
+2020-10-13 01:57:45,506          root     INFO: Também houve sorteio de crianças para passar um dia de bombeiro na capital e interior. Ações celebraram o Dia das Crianças. Brinquedos foram entregues em bairros de Rio Branco e também no interior do estado Asscom/Bombeiros-AC Uma ação do Corpo de Bombeiros no Acre entregou 1,5 mil brinquedos a crianças carentes em todo o estado nesta segunda-feira (12), dia em se comemora o Dia das Crianças. Em Rio Branco, a ação ocorreu no Educandário Santa Margarida e bairros periféricos da cidade. A arrecadação de presentes foi feita durante a campanha "Faça uma Criança Feliz", que ocorreu na capital e interior. Na capital, os bairros visitados foram: Preventório, Aeroporto Velho, Boa União, Bairro da Paz e Sobral, doaram também para uma festividade do dia das crianças no Bairro São Francisco. Além de presentes, foram entregues também roupas, sapatos, sandálias e materiais escolares. Em nota, o coronel do Corpo de Bombeiros, Carlos Batista, disse que esta ação é uma forma de criar boas lembranças às crianças. “A coisa mais preciosa desse mundo é o sorriso no rosto de uma criança. Eu não tive essa oportunidade na vida e sou grato por poder proporcionar a essas crianças um momento único", disse. Crianças também passaram um dia no batalhão para conhecer a rotina dos bombeiros Asscom/Bombeiros Acre Dia de bombeiro Também na manhã desta segunda, <del>oito</del> <ins>16</ins> crianças sorteadas puderam vivenciar um dia de bombeiro. Um sorteio no último 10 na página oficial da corporação escolheu seis crianças para passar pela experiência em Rio Branco e mais <del>duas</del> <ins>dez</ins> em batalhões do interior do estado. Eles participaram do hasteamento do pavilhão nacional, conheceram os equipamentos operacionais, como a mangueira de incêndio, roupa de aproximação, capacetes, luvas, extintor de incêndio entre outros. Também fizeram um passeio no caminhão da corporação, conheceram os cães operacionais Cerys e Hunter, desceram na tirolesa e também tiveram direito ao banho neblinado.
+2020-10-13 01:57:47,951          root     INFO: Media ready with ids: 1315834084623618049
+2020-10-13 01:57:47,951          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-13 01:57:47,952          root     INFO: Article id: https://g1.globo.com/ac/acre/noticia/2020/10/12/bombeiros-entregam-15-mil-brinquedos-a-criancas-carentes-em-acao-no-acre.ghtml
+2020-10-13 01:57:47,956          root     INFO: Tweeting url: https://g1.globo.com/ac/acre/noticia/2020/10/12/bombeiros-entregam-15-mil-brinquedos-a-criancas-carentes-em-acao-no-acre.ghtml
+2020-10-13 01:57:48,116          root     INFO: Replying to: 1315834087081476096
+2020-10-13 01:57:48,386          root     INFO: Id to store: 1315834087878385666
+2020-10-13 01:57:49,008          root     INFO: Removed https://g1.globo.com/pa/para/playlist/videos-jornal-liberal-2-edicao-desta-segunda-feira-12-de-outubro.ghtml
+2020-10-13 01:57:49,011          root     INFO: Removed https://g1.globo.com/mt/mato-grosso/noticia/2020/10/12/vereador-morre-com-covid-em-general-carneiro-mt-aos-37-anos.ghtml
+2020-10-13 01:57:49,012          root     INFO: Finished script
