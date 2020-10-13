@@ -1,30 +1,20 @@
-2020-10-13 08:27:26,996          root     INFO: Starting script
-2020-10-13 08:27:28,045          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-13 08:27:28,900          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-13 08:27:29,757          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-13 08:27:30,709          root     INFO: Parsing G1
-2020-10-13 08:27:31,475          root     INFO: Parsing OGlobo
-2020-10-13 08:27:31,816          root     INFO: Parsing R7 - Brasil
-2020-10-13 08:27:34,532          root     INFO: New article tracked: https://g1.globo.com/go/goias/noticia/2020/10/13/apos-sete-meses-fechado-museu-casa-de-cora-coralina-reabre-nesta-terca-feira-na-cidade-de-goias.ghtml
-2020-10-13 08:27:34,542          root     INFO: New article tracked: https://g1.globo.com/ce/ceara/noticia/2020/10/13/14-criancas-menores-de-6-anos-foram-assassinadas-no-ceara-em-2020-numero-e-o-maior-desde-2010.ghtml
-2020-10-13 08:27:34,550          root     INFO: New article tracked: https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/10/13/aberta-venda-de-ingressos-para-27a-edicao-do-porto-alegre-em-cena.ghtml
-2020-10-13 08:27:34,558          root     INFO: New article tracked: https://g1.globo.com/go/goias/noticia/2020/10/13/irmas-de-anapolis-estao-entre-os-100-afrodescendentes-mais-influentes-do-mundo-em-lista-reconhecida-pela-onu.ghtml
-2020-10-13 08:27:34,568          root     INFO: New article tracked: https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/10/13/pressa-e-cautela-para-confirmar-juiza-conservadora-na-suprema-corte.ghtml
-2020-10-13 08:27:34,576          root     INFO: New article tracked: https://g1.globo.com/politica/noticia/2020/10/13/marco-aurelio-mandou-soltar-quase-80-presos-usando-o-mesmo-criterio-do-caso-andre-do-rap.ghtml
-2020-10-13 08:27:34,585          root     INFO: New article tracked: https://g1.globo.com/podcast/o-assunto/noticia/2020/10/13/o-assunto-296-como-medidas-anti-covid-frearam-mortes-por-gripe.ghtml
-2020-10-13 08:27:34,962          root     INFO: New article tracked: https://oglobo.globo.com/esportes/fluminense-faixa-estendida-contra-bahia-carrega-historia-de-amor-entre-pai-filho-de-luta-pela-vida-1-24689257
-2020-10-13 08:27:34,982          root     INFO: New article tracked: https://oglobo.globo.com/podcast/eleicoes-nos-eua-os-estados-decisivos-na-disputa-entre-trump-biden-24689163
-2020-10-13 08:27:34,990          root     INFO: New article tracked: https://oglobo.globo.com/esportes/vencer-nadal-em-roland-garros-o-maior-desafio-do-esporte-atual-24688708
-2020-10-13 08:27:34,998          root     INFO: New article tracked: https://oglobo.globo.com/rioshow/orquestra-toca-reliquias-de-bach-em-concerto-on-line-24688819
-2020-10-13 08:27:35,214          root     INFO: Removed https://g1.globo.com/to/tocantins/edicao/2020/10/12/videos-ja-2-edicao-desta-segunda-feira-12-de-outubro.ghtml
-2020-10-13 08:27:35,217          root     INFO: Removed https://oglobo.globo.com/brasil/eleicoes-2020/globo-lanca-teste-de-afinidade-do-eleitor-com-candidatos-candidatas-do-rio-sao-paulo-bh-24689238
-2020-10-13 08:27:35,219          root     INFO: Removed https://g1.globo.com/jornal-nacional/noticia/2020/10/12/senado-dos-eua-inicia-processo-de-aprovacao-da-juiza-indicada-por-trump-para-suprema-corte.ghtml
-2020-10-13 08:27:35,222          root     INFO: Removed https://oglobo.globo.com/economia/vendas-no-dia-das-criancas-recuam-48-mas-abrem-caminho-para-reacao-no-varejo-24689129
-2020-10-13 08:27:35,224          root     INFO: Removed https://g1.globo.com/pb/paraiba/eleicoes/2020/noticia/2020/10/12/cicero-lucena-diz-que-vai-priorizar-obras-de-infraestrutura-para-comunidades-de-joao-pessoa.ghtml
-2020-10-13 08:27:35,227          root     INFO: Removed https://oglobo.globo.com/analitico/com-lagrimas-missil-kim-jong-un-mostra-novas-cartas-da-coreia-do-norte-24688982
-2020-10-13 08:27:35,229          root     INFO: Removed https://g1.globo.com/pb/paraiba/eleicoes/2020/noticia/2020/10/12/wallber-virgolino-propoe-novo-programa-de-turismo-para-joao-pessoa.ghtml
-2020-10-13 08:27:35,232          root     INFO: Removed https://oglobo.globo.com/brasil/eleicoes-2020/eficientes-sem-chiclete-conheca-os-jingles-dos-candidatos-prefeito-do-rio-24689273
-2020-10-13 08:27:35,235          root     INFO: Removed https://g1.globo.com/pb/paraiba/eleicoes/2020/noticia/2020/10/12/nilvan-ferreira-promete-criar-centro-de-referencia-para-criancas-com-deficiencia-e-familiares.ghtml
-2020-10-13 08:27:35,238          root     INFO: Removed https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2020/10/12/setor-de-servicos-volta-a-contratar-durante-a-pandemia-e-anima-empresarios-em-franca-sp.ghtml
-2020-10-13 08:27:35,242          root     INFO: Removed https://g1.globo.com/mundo/noticia/2020/10/12/kim-jong-un-se-emociona-e-segura-choro-durante-discurso-na-coreia-do-norte.ghtml
-2020-10-13 08:27:35,243          root     INFO: Finished script
+2020-10-13 08:47:11,425          root     INFO: Starting script
+2020-10-13 08:47:12,515          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-13 08:47:13,381          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-13 08:47:14,238          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-13 08:47:15,547          root     INFO: Parsing G1
+2020-10-13 08:47:16,324          root     INFO: Parsing OGlobo
+2020-10-13 08:47:16,711          root     INFO: Parsing R7 - Brasil
+2020-10-13 08:47:19,319          root     INFO: New article tracked: https://g1.globo.com/mg/minas-gerais/noticia/2020/10/13/ufmg-desenvolve-em-media-26-estudos-por-mes-sobre-covid-19-de-areas-que-vao-desde-saude-a-belas-artes.ghtml
+2020-10-13 08:47:19,329          root     INFO: New article tracked: https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/10/13/prefeitura-abre-vagas-para-residencia-medica-em-porto-alegre-saiba-como-se-inscrever.ghtml
+2020-10-13 08:47:19,501          root     INFO: Segundo empresa, doença inexplicada de participante de testes da terceira fase está sendo estudada e analisada por conselho de monitoramento de dados e segurança independente. Segundo a Anvisa, vacina Ad26.COV2.S teria 7 mil participantes de testes no Brasil. <del>Testes de</del> <ins>Johnson &amp; Johnson anuncia a suspensão dos testes da</ins> vacina contra <del>Covid-19 foram pausados pela Johnson &amp;Johnson’s Reuters/Dado Ruvic/Illustration/File Photo</del> <ins>a Covid</ins> O estudo com a vacina contra Covid-19 desenvolvida pela Johnson &amp; Johnson’s foi pausado devido a uma doença inexplicada em um participante, informou a companhia nesta segunda-feira (12). Segundo um documento enviado a pesquisadores externos que executam o ensaio clínico com 60 mil pacientes, uma “pausa regulamentar” será <del>cumprida, o</del> <ins>cumprida. O</ins> sistema online usado para inscrever pacientes no estudo foi fechado e o conselho de monitoramento de dados e segurança - um órgão independente que zela pela segurança dos pacientes no ensaio clínico - foi convocado. Em comunicado oficial, a Johnson <del>&amp;Johnson’s</del> <ins>&amp; Johnson’s</ins> ressalta que “eventos adversos - doenças, acidentes etc - mesmo aqueles graves, são uma parte esperada de qualquer estudo clínico, especialmente grandes estudos” e que a doença do paciente está sendo “analisada e avaliada pelo Conselho de Monitoramento de Segurança de Dados independente ENSEMBLE (DSMB), bem como por nossos médicos clínicos e de segurança internos”. A empresa diz ainda que a privacidade do paciente deve ser respeitada e que, como ainda está aprendendo mais sobre a doença deste participante, é importante ter todos os fatos antes de compartilhar informações adicionais. A imunização, cujo nome oficial é Ad26.COV2.S, foi desenvolvida pela farmacêutica Janssen Pharmaceuticals, que pertence ao grupo J&amp;J. A imunização foi a quarta a obter autorização de testes de fase 3 no Brasil, em agosto. Em setembro, a empresa anunciou que começaria a terceira etapa em todo o mundo, com 60 mil voluntários. No Brasil, segundo a Anvisa, haverá 7 mil participantes. Em 29 de setembro, resultados preliminares e parciais apontaram que a vacina era segura e induzia resposta imune mesmo após uma única aplicação. Os resultados eram referentes a uma parte dos participantes das fases 1 e 2, que foram conduzidas de forma conjunta. Eles ainda não <del>tinham</del> <ins>foram</ins> revisados por outros cientistas – requisito necessário para publicação em revista científica – mas tinham sido disponibilizados em um repositório on-line. Vídeos: Vacina contra a Covid-19 Initial plugin text
+2020-10-13 08:47:22,234          root     INFO: Media ready with ids: 1315937156410548224
+2020-10-13 08:47:22,234          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-13 08:47:22,234          root     INFO: Article id: https://g1.globo.com/bemestar/vacina/noticia/2020/10/12/testes-com-vacina-de-covid-19-da-johnson-e-johnsons-sao-pausados-apos-doenca-de-participante.ghtml
+2020-10-13 08:47:22,239          root     INFO: Replying to: 1315901725820293123
+2020-10-13 08:47:22,566          root     INFO: Id to store: 1315937159384268801
+2020-10-13 08:47:22,842          root     INFO: New article tracked: https://oglobo.globo.com/esportes/brasil-de-tite-chega-50-jogos-com-otimo-aproveitamento-mas-poucos-jogos-contra-europeus-1-24689148
+2020-10-13 08:47:23,053          root     INFO: Removed https://g1.globo.com/pr/oeste-sudoeste/noticia/2020/10/12/cataratas-do-iguacu-recebem-quase-12-mil-visitantes-durante-feriado-de-nossa-senhora-aparecida.ghtml
+2020-10-13 08:47:23,055          root     INFO: Removed https://g1.globo.com/pb/paraiba/edicao/2020/10/12/videos-jpb2-tv-paraiba-desta-segunda-feira-12-de-outubro.ghtml
+2020-10-13 08:47:23,057          root     INFO: Removed https://oglobo.globo.com/boa-viagem/turista-japones-o-primeiro-visitar-machu-picchu-apos-sete-meses-24689350
+2020-10-13 08:47:23,058          root     INFO: Finished script
