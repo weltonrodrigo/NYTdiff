@@ -1,8 +1,30 @@
-2020-10-13 07:58:04,395          root     INFO: Starting script
-2020-10-13 07:58:05,531          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-13 07:58:06,374          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-13 07:58:07,218          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-13 07:58:08,248          root     INFO: Parsing G1
-2020-10-13 07:58:09,741          root     INFO: Parsing OGlobo
-2020-10-13 07:58:10,152          root     INFO: Parsing R7 - Brasil
-2020-10-13 07:58:13,363          root     INFO: Finished script
+2020-10-13 08:27:26,996          root     INFO: Starting script
+2020-10-13 08:27:28,045          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-13 08:27:28,900          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-13 08:27:29,757          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-13 08:27:30,709          root     INFO: Parsing G1
+2020-10-13 08:27:31,475          root     INFO: Parsing OGlobo
+2020-10-13 08:27:31,816          root     INFO: Parsing R7 - Brasil
+2020-10-13 08:27:34,532          root     INFO: New article tracked: https://g1.globo.com/go/goias/noticia/2020/10/13/apos-sete-meses-fechado-museu-casa-de-cora-coralina-reabre-nesta-terca-feira-na-cidade-de-goias.ghtml
+2020-10-13 08:27:34,542          root     INFO: New article tracked: https://g1.globo.com/ce/ceara/noticia/2020/10/13/14-criancas-menores-de-6-anos-foram-assassinadas-no-ceara-em-2020-numero-e-o-maior-desde-2010.ghtml
+2020-10-13 08:27:34,550          root     INFO: New article tracked: https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/10/13/aberta-venda-de-ingressos-para-27a-edicao-do-porto-alegre-em-cena.ghtml
+2020-10-13 08:27:34,558          root     INFO: New article tracked: https://g1.globo.com/go/goias/noticia/2020/10/13/irmas-de-anapolis-estao-entre-os-100-afrodescendentes-mais-influentes-do-mundo-em-lista-reconhecida-pela-onu.ghtml
+2020-10-13 08:27:34,568          root     INFO: New article tracked: https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/10/13/pressa-e-cautela-para-confirmar-juiza-conservadora-na-suprema-corte.ghtml
+2020-10-13 08:27:34,576          root     INFO: New article tracked: https://g1.globo.com/politica/noticia/2020/10/13/marco-aurelio-mandou-soltar-quase-80-presos-usando-o-mesmo-criterio-do-caso-andre-do-rap.ghtml
+2020-10-13 08:27:34,585          root     INFO: New article tracked: https://g1.globo.com/podcast/o-assunto/noticia/2020/10/13/o-assunto-296-como-medidas-anti-covid-frearam-mortes-por-gripe.ghtml
+2020-10-13 08:27:34,962          root     INFO: New article tracked: https://oglobo.globo.com/esportes/fluminense-faixa-estendida-contra-bahia-carrega-historia-de-amor-entre-pai-filho-de-luta-pela-vida-1-24689257
+2020-10-13 08:27:34,982          root     INFO: New article tracked: https://oglobo.globo.com/podcast/eleicoes-nos-eua-os-estados-decisivos-na-disputa-entre-trump-biden-24689163
+2020-10-13 08:27:34,990          root     INFO: New article tracked: https://oglobo.globo.com/esportes/vencer-nadal-em-roland-garros-o-maior-desafio-do-esporte-atual-24688708
+2020-10-13 08:27:34,998          root     INFO: New article tracked: https://oglobo.globo.com/rioshow/orquestra-toca-reliquias-de-bach-em-concerto-on-line-24688819
+2020-10-13 08:27:35,214          root     INFO: Removed https://g1.globo.com/to/tocantins/edicao/2020/10/12/videos-ja-2-edicao-desta-segunda-feira-12-de-outubro.ghtml
+2020-10-13 08:27:35,217          root     INFO: Removed https://oglobo.globo.com/brasil/eleicoes-2020/globo-lanca-teste-de-afinidade-do-eleitor-com-candidatos-candidatas-do-rio-sao-paulo-bh-24689238
+2020-10-13 08:27:35,219          root     INFO: Removed https://g1.globo.com/jornal-nacional/noticia/2020/10/12/senado-dos-eua-inicia-processo-de-aprovacao-da-juiza-indicada-por-trump-para-suprema-corte.ghtml
+2020-10-13 08:27:35,222          root     INFO: Removed https://oglobo.globo.com/economia/vendas-no-dia-das-criancas-recuam-48-mas-abrem-caminho-para-reacao-no-varejo-24689129
+2020-10-13 08:27:35,224          root     INFO: Removed https://g1.globo.com/pb/paraiba/eleicoes/2020/noticia/2020/10/12/cicero-lucena-diz-que-vai-priorizar-obras-de-infraestrutura-para-comunidades-de-joao-pessoa.ghtml
+2020-10-13 08:27:35,227          root     INFO: Removed https://oglobo.globo.com/analitico/com-lagrimas-missil-kim-jong-un-mostra-novas-cartas-da-coreia-do-norte-24688982
+2020-10-13 08:27:35,229          root     INFO: Removed https://g1.globo.com/pb/paraiba/eleicoes/2020/noticia/2020/10/12/wallber-virgolino-propoe-novo-programa-de-turismo-para-joao-pessoa.ghtml
+2020-10-13 08:27:35,232          root     INFO: Removed https://oglobo.globo.com/brasil/eleicoes-2020/eficientes-sem-chiclete-conheca-os-jingles-dos-candidatos-prefeito-do-rio-24689273
+2020-10-13 08:27:35,235          root     INFO: Removed https://g1.globo.com/pb/paraiba/eleicoes/2020/noticia/2020/10/12/nilvan-ferreira-promete-criar-centro-de-referencia-para-criancas-com-deficiencia-e-familiares.ghtml
+2020-10-13 08:27:35,238          root     INFO: Removed https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2020/10/12/setor-de-servicos-volta-a-contratar-durante-a-pandemia-e-anima-empresarios-em-franca-sp.ghtml
+2020-10-13 08:27:35,242          root     INFO: Removed https://g1.globo.com/mundo/noticia/2020/10/12/kim-jong-un-se-emociona-e-segura-choro-durante-discurso-na-coreia-do-norte.ghtml
+2020-10-13 08:27:35,243          root     INFO: Finished script
