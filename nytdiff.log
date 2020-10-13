@@ -1,57 +1,83 @@
-2020-10-13 15:57:56,570          root     INFO: Starting script
-2020-10-13 15:57:57,609          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-13 15:57:58,469          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-13 15:57:59,315          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-13 15:58:00,254          root     INFO: Parsing G1
-2020-10-13 15:58:00,647          root     INFO: Parsing R7 - Brasil
-2020-10-13 15:58:03,722          root     INFO: New article tracked: https://g1.globo.com/politica/noticia/2020/10/13/queimadas-salles-divide-responsabilidade-com-estados-e-diz-que-governo-federal-fiscaliza-so-6percent-do-pantanal.ghtml
-2020-10-13 15:58:03,732          root     INFO: New article tracked: https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/13/policia-prende-suspeito-de-ser-um-dos-maiores-ladroes-de-cigarros-do-rj.ghtml
-2020-10-13 15:58:03,740          root     INFO: New article tracked: https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2020/10/13/jovem-e-presa-com-8-kg-de-cocaina-em-onibus-na-dutra-em-lavrinhas-sp.ghtml
-2020-10-13 15:58:03,747          root     INFO: New article tracked: https://g1.globo.com/sp/itapetininga-regiao/eleicoes/2020/edicao/2020/10/13/candidatos-a-prefeitura-de-itapetininga-falam-sobre-propostas-para-a-saude.ghtml
-2020-10-13 15:58:03,757          root     INFO: New article tracked: https://g1.globo.com/go/goias/noticia/2020/10/13/onca-ferida-em-incendio-no-pantanal-tem-alta-apos-tratamento-com-ozonio-e-laser-em-corumba-de-goias.ghtml
-2020-10-13 15:58:03,764          root     INFO: New article tracked: https://g1.globo.com/mg/sul-de-minas/edicao/2020/10/13/videos-eptv-1-sul-de-minas-de-terca-feira-13-de-outubro.ghtml
-2020-10-13 15:58:03,772          root     INFO: New article tracked: https://g1.globo.com/sc/santa-catarina/edicao/2020/10/13/videos-jornal-do-almoco-desta-terca-feira-13-de-outubro.ghtml
-2020-10-13 15:58:03,779          root     INFO: New article tracked: https://g1.globo.com/sp/sao-paulo/eleicoes/2020/noticia/2020/10/13/covas-promete-construir-mais-300-quilometros-de-ciclovias-e-seis-terminais-de-onibus-em-sp.ghtml
-2020-10-13 15:58:03,787          root     INFO: New article tracked: https://g1.globo.com/mg/sul-de-minas/noticia/2020/10/13/copasa-prorroga-rodizio-de-agua-por-mais-oito-dias-em-sao-goncalo-do-sapucai-mg.ghtml
-2020-10-13 15:58:03,826          root     INFO: New article tracked: https://g1.globo.com/mg/triangulo-mineiro/noticia/2020/10/13/homem-joga-carro-contra-policiais-e-e-detido-em-carmo-do-paranaiba.ghtml
-2020-10-13 15:58:03,835          root     INFO: New article tracked: https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2020/10/13/rio-preto-registra-uma-morte-por-covid-19-e-queda-no-numero-de-casos.ghtml
-2020-10-13 15:58:04,093          root     INFO: Câmeras de segurança registraram o momento em que um homem desceu do carro, cortou a corda que prendia o animal ao veículo e foi embora. <ins>Homem foi preso suspeito de amarrar e arrastar cachorro em carro</ins> Um homem de 32 anos foi <del>detido</del> <ins>preso</ins> nesta terça-feira (13) suspeito de matar um cachorro após arrastá-lo de carro por ruas de Jaguaré, no Norte do Espírito Santo. Câmeras de segurança registraram o momento em que um homem desceu do carro, cortou a corda que prendia o animal ao veículo e depois foi embora. As imagens foram feitas na noite desta segunda (12). Uma organização Não Governamental (Ong) de proteção aos animais teve acesso às imagens e registrou um boletim de ocorrência. Um morador da cidade localizou o suspeito e o levou até a sede do batalhão da Polícia Militar. De lá, o o <del>motorista</del> <ins>homem</ins> foi encaminhado para a Delegacia Regional de São Mateus. Segundo a Polícia Civil, o homem foi autuado por maus-tratos. A pena para o crime vai de dois a cinco anos de <del>prisão</del> <ins>prisão. Nova legislação O presidente Jair Bolsonaro sancionou no dia 29 de setembro a lei que estabelece pena de dois a cinco anos de reclusão para quem praticar atos de abuso, maus-tratos ou violência contra cães</ins> e <del>não cabe fiança.</del> <ins>gatos. O texto também prevê multa e proibição da guarda para quem praticar os atos contra esses animais. A alteração foi feita na Lei de Crimes Ambientais. A legislação previa pena menor, de três meses a um ano de detenção, para quem pratica os atos contra animais silvestres, domésticos ou domesticados, nativos ou exóticos. Lei que estabelece pena de 2 a 5 anos de prisão para quem praticar maus-tratos contra cães e gatos foi sancionada em setembro</ins> Vídeos: mais assistidos do G1 nos últimos 7 dias Veja o plantão de últimas notícias do G1 Espírito Santo
-2020-10-13 15:58:06,489          root     INFO: Media ready with ids: 1316045555416563714
-2020-10-13 15:58:06,489          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-13 15:58:06,489          root     INFO: Article id: https://g1.globo.com/es/espirito-santo/noticia/2020/10/13/suspeito-de-amarrar-arrastar-e-matar-cachorro-e-preso-no-es.ghtml
-2020-10-13 15:58:06,500          root     INFO: Tweeting url: https://g1.globo.com/es/espirito-santo/noticia/2020/10/13/suspeito-de-amarrar-arrastar-e-matar-cachorro-e-preso-no-es.ghtml
-2020-10-13 15:58:06,675          root    ERROR: Tweet text failed
-Traceback (most recent call last):
-  File "nytdiff.py", line 131, in tweet_text
-    tweet_id = self.api.update_status(status=text)
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/api.py", line 215, in update_status
-    )(*args, **kwargs)
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/binder.py", line 252, in _call
-    return method.execute()
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/binder.py", line 234, in execute
-    raise TweepError(error_msg, resp, api_code=api_error_code)
-tweepy.error.TweepError: [{'code': 187, 'message': 'Status is a duplicate.'}]
-2020-10-13 15:58:06,676          root    ERROR: Error tweeting for article_id:
-'bool' object has no attribute 'id'
-Traceback (most recent call last):
-  File "nytdiff.py", line 151, in tweet
-    reply_to = tweet.id if not TESTING else time.time()
-AttributeError: 'bool' object has no attribute 'id'
-2020-10-13 15:58:06,958          root     INFO: Removed https://g1.globo.com/mg/sul-de-minas/noticia/2020/10/13/mulher-morre-em-acidente-entre-caminhao-e-moto-em-pocos-de-caldas-mg.ghtml
-2020-10-13 15:58:06,961          root     INFO: Removed https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2020/10/13/secretario-de-saude-de-ms-se-preocupa-com-negacao-da-populacao-em-relacao-a-situacao-da-pandemia.ghtml
-2020-10-13 15:58:06,963          root     INFO: Removed https://g1.globo.com/sp/itapetininga-regiao/eleicoes/2020/noticia/2020/10/13/candidatos-a-prefeitura-de-itapetininga-falam-sobre-propostas-para-a-saude.ghtml
-2020-10-13 15:58:06,965          root     INFO: Removed https://g1.globo.com/sp/bauru-marilia/noticia/2020/10/13/mortes-confirmadas-por-covid-19-no-centro-oeste-paulista-nesta-terca-feira-13-de-outubro.ghtml
-2020-10-13 15:58:06,969          root     INFO: Removed http://noticias.r7.com/brasil/como-desigualdade-entre-ricos-e-pobres-ajuda-a-explicar-alta-de-casos-de-covid-19-em-manaus-13102020
-2020-10-13 15:58:06,973          root     INFO: Removed https://g1.globo.com/rj/regiao-serrana/noticia/2020/10/13/ciretran-fecha-temporariamente-apos-funcionario-testar-positivo-para-covid-19-em-nova-friburgo-no-rj.ghtml
-2020-10-13 15:58:06,976          root     INFO: Removed https://g1.globo.com/economia/pme/noticia/2020/10/13/sebrae-diz-que-situacao-de-micro-e-pequenas-empresas-e-critica-e-sugere-refis-do-simples-nacional.ghtml
-2020-10-13 15:58:06,979          root     INFO: Removed https://g1.globo.com/df/distrito-federal/noticia/2020/10/13/policia-civil-prende-suspeito-de-matar-pastor-durante-culto-em-aguas-claras-no-df.ghtml
-2020-10-13 15:58:06,982          root     INFO: Removed https://g1.globo.com/sp/sao-carlos-regiao/noticia/2020/10/13/pesquisadores-da-usp-criam-sistema-de-controle-termico-para-reduzir-prejuizos-em-granjas.ghtml
-2020-10-13 15:58:06,984          root     INFO: Removed https://g1.globo.com/ac/acre/noticia/2020/10/13/corpo-de-menino-de-11-anos-e-achado-em-rio-no-interior-do-acre.ghtml
-2020-10-13 15:58:06,987          root     INFO: Removed https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-candidatos-a-prefeitura-de-porto-alegre-fazem-campanha-nesta-terca.ghtml
-2020-10-13 15:58:06,989          root     INFO: Removed https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/10/13/casos-de-novo-coronavirus-na-regiao-de-piracicaba-em-13-de-outubro.ghtml
-2020-10-13 15:58:06,991          root     INFO: Removed https://g1.globo.com/mg/triangulo-mineiro/especial-publicitario/rn-saude-hap-vida/mais-saude/noticia/2020/10/13/estabilidade-emocional-nas-relacoes-passa-tambem-pela-responsabilidade-afetiva.ghtml
-2020-10-13 15:58:06,993          root     INFO: Removed http://noticias.r7.com/brasil/decano-celso-de-mello-se-despede-do-stf-apos-31-anos-na-corte-13102020
-2020-10-13 15:58:06,996          root     INFO: Removed https://g1.globo.com/sc/santa-catarina/noticia/2020/10/13/maquinarios-e-embarcacoes-apreendidos-em-acoes-de-repressao-ao-trafico-sao-leiloados-em-sc.ghtml
-2020-10-13 15:58:06,998          root     INFO: Removed https://g1.globo.com/ba/bahia/noticia/2020/10/13/secretario-diz-que-taxa-de-internacao-por-covid-19-aumentou-no-interior-da-ba-isso-esta-muito-ligado-ao-processo-eleitoral.ghtml
-2020-10-13 15:58:06,999          root     INFO: Finished script
-<class 'tweepy.error.TweepError'>
+2020-10-13 16:33:05,032          root     INFO: Starting script
+2020-10-13 16:33:06,014          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-13 16:33:06,703          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-13 16:33:07,379          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-13 16:33:08,229          root     INFO: Parsing G1
+2020-10-13 16:33:08,436          root     INFO: Parsing R7 - Brasil
+2020-10-13 16:33:09,511          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/em-sabatina-folhauol-bruno-reis-promete-brt-em-salvador-e-diz-que-existe-preconceito-com-o-sistema.shtml
+2020-10-13 16:33:10,563          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/10/salles-defende-um-combinado-de-bois-fogo-e-produtos-quimicos-para-evitar-novas-queimadas-no-pantanal.shtml
+2020-10-13 16:33:11,571          root     INFO: New article tracked: https://g1.globo.com/sp/ribeirao-preto-franca/edicao/2020/10/13/videos-eptv1-ribeirao-preto-de-terca-feira-13-de-outubro-de-2020.ghtml
+2020-10-13 16:33:11,582          root     INFO: New article tracked: https://g1.globo.com/ac/acre/eleicoes/2020/noticia/2020/10/13/candidato-jamyl-asfury-promete-guarda-municipal-e-monitoramento-eletronico-em-rio-branco.ghtml
+2020-10-13 16:33:11,593          root     INFO: New article tracked: https://g1.globo.com/pi/piaui/noticia/2020/10/13/justica-determina-execucao-de-multa-contra-sindicato-por-greve-dos-onibus-de-teresina.ghtml
+2020-10-13 16:33:11,601          root     INFO: New article tracked: https://g1.globo.com/pr/parana/noticia/2020/10/13/quantidade-de-lixo-reciclavel-produzido-por-moradores-de-curitiba-aumentou-28percent-durante-pandemia-diz-prefeitura.ghtml
+2020-10-13 16:33:11,611          root     INFO: New article tracked: https://g1.globo.com/mg/zona-da-mata/noticia/2020/10/13/corpo-de-bombeiros-de-barbacena-resgata-mais-de-70-animais-silvestres-em-2020.ghtml
+2020-10-13 16:33:11,619          root     INFO: New article tracked: https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2020/noticia/2020/10/13/bandeira-de-mello-promete-criar-pracas-do-futuro-no-rio.ghtml
+2020-10-13 16:33:11,626          root     INFO: New article tracked: https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/edicao/2020/10/13/videos-tem-noticias-1-edicao-de-rio-preto-e-aracatuba-desta-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:11,634          root     INFO: New article tracked: https://g1.globo.com/sp/sao-paulo/noticia/2020/10/13/presenca-de-anticorpos-contra-covid-19-aumenta-entre-alunos-da-rede-privada-e-diminui-na-rede-municipal-de-sp.ghtml
+2020-10-13 16:33:11,642          root     INFO: New article tracked: https://g1.globo.com/pr/parana/edicao/2020/10/13/videos-meio-dia-parana-de-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:11,650          root     INFO: New article tracked: https://g1.globo.com/pi/piaui/noticia/2020/10/13/pf-prende-dois-homens-e-apreende-quase-60kg-de-maconha-em-porta-malas-de-carro-no-interior-do-pi.ghtml
+2020-10-13 16:33:11,658          root     INFO: New article tracked: https://g1.globo.com/to/tocantins/noticia/2020/10/13/juiz-proibe-queima-de-fogos-durante-eventos-eleitorais-em-tres-cidades-do-tocantins.ghtml
+2020-10-13 16:33:11,667          root     INFO: New article tracked: https://g1.globo.com/go/goias/edicao/2020/10/13/videos-jornal-anhanguera-1-edicao-de-terca-feira-13-de-outubro-de-2020.ghtml
+2020-10-13 16:33:11,674          root     INFO: New article tracked: https://g1.globo.com/sp/bauru-marilia/edicao/2020/10/13/videos-tem-noticias-1-edicao-de-bauru-e-marilia-desta-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:11,681          root     INFO: New article tracked: https://g1.globo.com/mundo/noticia/2020/10/13/palestino-pega-corpo-da-mae-de-hospital-para-enterra-lo-da-forma-que-ela-pediu.ghtml
+2020-10-13 16:33:11,689          root     INFO: New article tracked: https://g1.globo.com/sp/bauru-marilia/noticia/2020/10/13/saae-alerta-para-falta-de-agua-em-todos-os-bairros-de-garca.ghtml
+2020-10-13 16:33:11,696          root     INFO: New article tracked: https://g1.globo.com/pe/petrolina-regiao/edicao/2020/10/13/videos-gr1-de-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:11,705          root     INFO: New article tracked: https://g1.globo.com/pa/santarem-regiao/edicao/2020/10/13/videos-bom-dia-tapajos-de-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:11,713          root     INFO: New article tracked: https://g1.globo.com/se/sergipe/noticia/2020/10/13/nat-divulga-168-vagas-para-as-areas-de-alimentacao-e-construcao-civil.ghtml
+2020-10-13 16:33:11,722          root     INFO: New article tracked: https://g1.globo.com/mt/mato-grosso/noticia/2020/10/13/familia-faz-campanha-para-arrecadar-r-11-milhoes-e-pagar-vacina-para-bebe-com-doenca-rara-em-mt.ghtml
+2020-10-13 16:33:11,729          root     INFO: New article tracked: https://g1.globo.com/ba/bahia/noticia/2020/10/13/ocupacao-de-uti-pediatrica-para-covid-19-chega-em-70percent-em-salvador-nunca-tivemos-no-tao-alto-como-esse-diz-acm-neto.ghtml
+2020-10-13 16:33:11,737          root     INFO: New article tracked: https://g1.globo.com/pa/santarem-regiao/noticia/2020/10/13/onibus-tomba-na-rodovia-translado-em-santarem-e-deixa-passageiros-feridos.ghtml
+2020-10-13 16:33:11,744          root     INFO: New article tracked: https://g1.globo.com/al/alagoas/noticia/2020/10/13/tj-al-mantem-juiz-jose-braga-neto-afastado-do-cargo-e-determina-abertura-de-processo.ghtml
+2020-10-13 16:33:11,751          root     INFO: New article tracked: https://g1.globo.com/am/amazonas/playlist/videos-campanha-de-vacinacao-antirrabica-tem-inicio-em-manaus-veja-destaques-do-bda.ghtml
+2020-10-13 16:33:11,761          root     INFO: New article tracked: https://g1.globo.com/pa/para/noticia/2020/10/13/palestras-vao-abordar-temas-relacionadas-a-protecao-dos-direitos-da-crianca-e-adolescente.ghtml
+2020-10-13 16:33:11,770          root     INFO: New article tracked: https://g1.globo.com/politica/eleicoes/2020/noticia/2020/10/13/correcao-lei-geral-de-protecao-de-dados-nas-eleicoes.ghtml
+2020-10-13 16:33:11,778          root     INFO: New article tracked: https://g1.globo.com/ac/acre/noticia/2020/10/13/motorista-e-autuado-por-dirigir-embriagado-em-carreata-de-nossa-senhora-aparecida-no-acre.ghtml
+2020-10-13 16:33:11,788          root     INFO: New article tracked: https://g1.globo.com/am/amazonas/noticia/2020/10/13/permissionarios-sao-retirados-da-feira-do-mutirao-em-manaus-por-conta-de-obras-do-parque-linear-2.ghtml
+2020-10-13 16:33:11,795          root     INFO: New article tracked: https://g1.globo.com/mundo/eleicoes-nos-eua/2020/noticia/2020/10/13/mais-de-10-milhoes-de-americanos-ja-votaram-nas-eleicoes-deste-ano-diz-levantamento.ghtml
+2020-10-13 16:33:11,803          root     INFO: New article tracked: https://g1.globo.com/mg/triangulo-mineiro/noticia/2020/10/13/adolescentes-sao-apreendidos-por-roubo-em-patos-de-minas.ghtml
+2020-10-13 16:33:11,821          root     INFO: New article tracked: https://g1.globo.com/mg/triangulo-mineiro/noticia/2020/10/13/idoso-bebado-e-sem-habilitacao-e-detido-apos-atropelar-e-prensar-mulher-contra-muro-em-uberaba.ghtml
+2020-10-13 16:33:11,829          root     INFO: New article tracked: https://g1.globo.com/sp/sorocaba-jundiai/edicao/2020/10/13/videos-tem-noticias-1-edicao-de-sorocaba-jundiai-e-itapetininga-desta-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:11,838          root     INFO: New article tracked: https://g1.globo.com/sp/sao-paulo/eleicoes/2020/noticia/2020/10/13/marcio-franca-promete-instalar-wi-fi-gratis-na-periferia-de-sp.ghtml
+2020-10-13 16:33:11,847          root     INFO: New article tracked: https://g1.globo.com/pr/parana/noticia/2020/10/13/numero-de-denuncias-sobre-violencia-contra-idosos-aumenta-87percent-no-parana-durante-a-pandemia.ghtml
+2020-10-13 16:33:11,855          root     INFO: New article tracked: https://g1.globo.com/mg/centro-oeste/noticia/2020/10/13/visitas-a-cruz-de-todos-os-povos-sao-suspensas-devido-ao-inicio-da-4o-fase-da-obra-em-divinopolis.ghtml
+2020-10-13 16:33:11,864          root     INFO: New article tracked: https://g1.globo.com/ce/ceara/noticia/2020/10/13/casos-de-covid-19-no-ceara-em-13-de-outubro.ghtml
+2020-10-13 16:33:11,872          root     INFO: New article tracked: https://g1.globo.com/es/espirito-santo/edicao/2020/10/13/videos-es1-de-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:11,883          root     INFO: New article tracked: https://g1.globo.com/rn/rio-grande-do-norte/noticia/2020/10/13/tremores-com-magnitude-de-ate-18-sao-registrados-na-madrugada-desta-terca-feira-13-em-pedra-preta-rn.ghtml
+2020-10-13 16:33:11,892          root     INFO: New article tracked: https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2020/10/13/confeiteira-renova-cardapio-aposta-em-redes-sociais-e-recupera-faturamento-apos-queda-na-pandemia.ghtml
+2020-10-13 16:33:11,901          root     INFO: New article tracked: https://g1.globo.com/pa/para/especial-publicitario/sebrae-para/compre-do-pequeno-amazonia-market/noticia/2020/10/13/fac-tem-opcoes-de-brinquedos-para-o-dia-das-criancas.ghtml
+2020-10-13 16:33:12,146          root     INFO: Removed https://g1.globo.com/rj/norte-fluminense/noticia/2020/10/13/servidores-aposentados-fazem-ato-pedindo-pagamento-imediato-dos-beneficios-em-campos-no-rj.ghtml
+2020-10-13 16:33:12,148          root     INFO: Removed https://g1.globo.com/se/sergipe/noticia/2020/10/13/comunidade-do-bairro-industrial-em-aracaju-protesta-contra-ordem-de-despejo-federal.ghtml
+2020-10-13 16:33:12,151          root     INFO: Removed https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2020/10/13/jovem-e-presa-com-8-kg-de-cocaina-em-onibus-na-dutra-em-lavrinhas-sp.ghtml
+2020-10-13 16:33:12,153          root     INFO: Removed https://g1.globo.com/mt/mato-grosso/noticia/2020/10/13/sujeira-em-canal-de-escoamento-causa-desabamento-de-muro-de-corrego-em-cuiaba-diz-sinfra.ghtml
+2020-10-13 16:33:12,155          root     INFO: Removed https://g1.globo.com/sp/sao-paulo/eleicoes/2020/noticia/2020/10/13/covas-promete-construir-mais-300-quilometros-de-ciclovias-e-seis-terminais-de-onibus-em-sp.ghtml
+2020-10-13 16:33:12,157          root     INFO: Removed https://g1.globo.com/economia/noticia/2020/10/13/precos-ao-consumidor-dos-eua-desaceleram-em-setembro.ghtml
+2020-10-13 16:33:12,159          root     INFO: Removed https://g1.globo.com/globonews/playlist/videos-fabio-trad-fala-sobre-caso-andre-do-rap-e-pec-que-preve-prisao-apos-condenacao-por-2-instancia.ghtml
+2020-10-13 16:33:12,161          root     INFO: Removed https://g1.globo.com/politica/noticia/2020/10/13/queimadas-salles-divide-responsabilidade-com-estados-e-diz-que-governo-federal-fiscaliza-so-6percent-do-pantanal.ghtml
+2020-10-13 16:33:12,164          root     INFO: Removed https://g1.globo.com/sp/sao-carlos-regiao/edicao/2020/10/13/videos-reveja-as-reportagens-do-eptv1-desta-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:12,167          root     INFO: Removed https://g1.globo.com/mg/zona-da-mata/noticia/2020/10/13/dupla-e-presa-com-maconha-e-crack-em-barbacena.ghtml
+2020-10-13 16:33:12,169          root     INFO: Removed https://g1.globo.com/sc/santa-catarina/edicao/2020/10/13/videos-jornal-do-almoco-desta-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:12,171          root     INFO: Removed https://g1.globo.com/ce/ceara/noticia/2020/10/13/moradores-flagram-em-video-tiroteio-na-madrugada-em-fortaleza-muita-bala-mesmo.ghtml
+2020-10-13 16:33:12,174          root     INFO: Removed https://g1.globo.com/mg/grande-minas/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-veja-o-dia-de-campanha-dos-candidatos-a-prefeito-de-montes-claros.ghtml
+2020-10-13 16:33:12,176          root     INFO: Removed https://g1.globo.com/am/amazonas/especial-publicitario/fundacao-rede-amazonica/cidade-do-jazz/noticia/2020/10/13/desafio-de-danca-cidade-do-jazz-no-paneiro-e-prorrogado.ghtml
+2020-10-13 16:33:12,178          root     INFO: Removed https://g1.globo.com/pa/para/especial-publicitario/sebrae-para/compre-do-pequeno-amazonia-market/noticia/2020/10/13/feira-de-artesanato-do-cirio-ficara-aberta-por-mais-tempo.ghtml
+2020-10-13 16:33:12,180          root     INFO: Removed https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2020/10/13/rio-preto-registra-uma-morte-por-covid-19-e-queda-no-numero-de-casos.ghtml
+2020-10-13 16:33:12,183          root     INFO: Removed https://g1.globo.com/pi/piaui/eleicoes/2020/noticia/2020/10/13/candidatos-desrespeitam-normas-de-combate-a-covid-19-e-geram-aglomeracoes-em-campanhas.ghtml
+2020-10-13 16:33:12,185          root     INFO: Removed https://g1.globo.com/pr/parana/informacoes-adicionais-dos-telejornais/noticia/2020/10/13/rpc-veja-as-informacoes-adicionais-das-reportagens-do-dia-1102020.ghtml
+2020-10-13 16:33:12,188          root     INFO: Removed https://g1.globo.com/es/espirito-santo/noticia/2020/10/13/condenado-a-mais-de-180-anos-de-prisao-pula-muro-de-penitenciaria-e-foge-no-es.ghtml
+2020-10-13 16:33:12,191          root     INFO: Removed https://g1.globo.com/mg/sul-de-minas/edicao/2020/10/13/videos-eptv-1-sul-de-minas-de-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:12,193          root     INFO: Removed https://g1.globo.com/pa/para/noticia/2020/10/13/cosanpa-suspende-fornecimento-de-agua-no-marco-souza-e-curio-utinga-em-belem.ghtml
+2020-10-13 16:33:12,195          root     INFO: Removed https://g1.globo.com/go/goias/noticia/2020/10/13/jovem-morre-ao-cair-de-cachoeira-em-formosa.ghtml
+2020-10-13 16:33:12,198          root     INFO: Removed https://g1.globo.com/sp/campinas-regiao/edicao/2020/10/13/videos-eptv-1-campinas-desta-terca-feira-13-de-outubro.ghtml
+2020-10-13 16:33:12,200          root     INFO: Removed https://g1.globo.com/sp/mogi-das-cruzes-suzano/concursos-e-emprego/noticia/2020/10/13/empreendedores-do-alto-tiete-investem-em-novos-negocios-mesmo-na-pandemia.ghtml
+2020-10-13 16:33:12,202          root     INFO: Removed https://g1.globo.com/mg/sul-de-minas/noticia/2020/10/13/comite-da-covid-19-cria-regras-para-carreatas-durante-eleicoes-em-pocos-de-caldas-mg.ghtml
+2020-10-13 16:33:12,205          root     INFO: Removed https://g1.globo.com/pe/pernambuco/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-quatro-candidatos-a-prefeitura-do-recife-apresentam-propostas-para-a-saude.ghtml
+2020-10-13 16:33:12,207          root     INFO: Removed https://g1.globo.com/go/goias/noticia/2020/10/13/onca-ferida-em-incendio-no-pantanal-tem-alta-apos-tratamento-com-ozonio-e-laser-em-corumba-de-goias.ghtml
+2020-10-13 16:33:12,209          root     INFO: Removed https://g1.globo.com/mg/triangulo-mineiro/noticia/2020/10/13/homem-joga-carro-contra-policiais-e-e-detido-em-carmo-do-paranaiba.ghtml
+2020-10-13 16:33:12,211          root     INFO: Removed https://g1.globo.com/mg/sul-de-minas/noticia/2020/10/13/copasa-prorroga-rodizio-de-agua-por-mais-oito-dias-em-sao-goncalo-do-sapucai-mg.ghtml
+2020-10-13 16:33:12,214          root     INFO: Removed https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/13/policia-prende-suspeito-de-ser-um-dos-maiores-ladroes-de-cigarros-do-rj.ghtml
+2020-10-13 16:33:12,216          root     INFO: Removed https://g1.globo.com/mt/mato-grosso/noticia/2020/10/13/sao-90-dias-sem-justica-diz-mae-de-isabele-durante-homenagem-a-filha-morta-pela-amiga-em-cuiaba.ghtml
+2020-10-13 16:33:12,218          root     INFO: Removed https://g1.globo.com/pb/paraiba/noticia/2020/10/13/inmet-emite-alertas-de-baixa-umidade-para-102-municipios-da-paraiba.ghtml
+2020-10-13 16:33:12,226          root     INFO: Removed https://g1.globo.com/al/alagoas/noticia/2020/10/13/agencia-do-inss-em-arapiraca-al-segue-sem-previsao-para-reabertura.ghtml
+2020-10-13 16:33:12,229          root     INFO: Removed https://g1.globo.com/es/espirito-santo/noticia/2020/10/13/suspeito-de-amarrar-arrastar-e-matar-cachorro-e-preso-no-es.ghtml
+2020-10-13 16:33:12,231          root     INFO: Removed https://g1.globo.com/sp/itapetininga-regiao/eleicoes/2020/edicao/2020/10/13/candidatos-a-prefeitura-de-itapetininga-falam-sobre-propostas-para-a-saude.ghtml
+2020-10-13 16:33:12,231          root     INFO: Finished script
