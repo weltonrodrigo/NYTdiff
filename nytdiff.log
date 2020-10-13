@@ -1,86 +1,29 @@
-2020-10-13 10:25:12,172          root     INFO: Starting script
-2020-10-13 10:25:13,288          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-13 10:25:14,126          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-13 10:25:14,981          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-13 10:25:15,943          root     INFO: Parsing G1
-2020-10-13 10:25:16,871          root     INFO: Parsing OGlobo
-2020-10-13 10:25:17,262          root     INFO: Parsing R7 - Brasil
-2020-10-13 10:25:19,963          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/noticia/2020/10/13/adolescente-e-baleada-quando-voltava-de-comemoracao-do-dia-das-criancas-com-familia-em-joao-pessoa.ghtml
-2020-10-13 10:25:19,971          root     INFO: New article tracked: https://g1.globo.com/se/sergipe/noticia/2020/10/13/cptran-autua-22-condutores-embriagados-durante-a-operacao-padroeira.ghtml
-2020-10-13 10:25:19,979          root     INFO: New article tracked: https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2020/10/13/asilos-em-tres-cidades-do-alto-tiete-registram-21-mortes-por-covid-19-ao-longo-da-pandemia.ghtml
-2020-10-13 10:25:19,987          root     INFO: New article tracked: https://g1.globo.com/to/tocantins/noticia/2020/10/13/prazo-para-pagamento-do-ipva-termina-nesta-semana-veja-onde-acessar-boleto.ghtml
-2020-10-13 10:25:19,996          root     INFO: New article tracked: https://g1.globo.com/sp/bauru-marilia/noticia/2020/10/13/centro-oeste-paulista-abre-semana-pos-feriado-com-mais-de-60-vagas-de-trabalho.ghtml
-2020-10-13 10:25:20,003          root     INFO: New article tracked: https://g1.globo.com/al/alagoas/noticia/2020/10/13/bebe-de-1-ano-morre-afogado-apos-cair-em-balde-com-agua-em-feliz-deserto-al.ghtml
-2020-10-13 10:25:20,010          root     INFO: New article tracked: https://g1.globo.com/ba/bahia/noticia/2020/10/13/motorista-de-38-anos-e-preso-ao-trafegar-com-veiculo-de-carga-adulterado-na-br-407.ghtml
-2020-10-13 10:25:20,020          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/noticia/2020/10/13/jovem-e-preso-suspeito-de-agredir-irma-durante-discussao-em-joao-pessoa.ghtml
-2020-10-13 10:25:20,028          root     INFO: New article tracked: https://g1.globo.com/ac/acre/noticia/2020/10/13/sine-acre-oferece-25-vagas-de-emprego-nesta-terca-feira-13-confira-a-lista.ghtml
-2020-10-13 10:25:20,038          root     INFO: New article tracked: https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2020/10/13/funtrab-oferece-416-vagas-para-campo-grande-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:20,046          root     INFO: New article tracked: https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2020/10/13/funtrab-oferece-47-vagas-para-tres-lagoas-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:20,054          root     INFO: New article tracked: https://g1.globo.com/am/amazonas/eleicoes/2020/noticia/2020/10/13/veja-a-agenda-dos-candidatos-a-prefeitura-de-manaus-para-esta-terca-feira-13.ghtml
-2020-10-13 10:25:20,065          root     INFO: New article tracked: https://g1.globo.com/ro/rondonia/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-veja-a-agenda-dos-candidatos-a-prefeito-de-porto-velho-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:20,073          root     INFO: New article tracked: https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-veja-agenda-dos-candidatos-a-prefeito-de-piracicaba-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:20,084          root     INFO: New article tracked: https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-os-planos-dos-candidatos-a-prefeito-de-natal-para-a-saude.ghtml
-2020-10-13 10:25:20,093          root     INFO: New article tracked: https://g1.globo.com/pa/para/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-belem-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:20,101          root     INFO: New article tracked: https://g1.globo.com/pi/piaui/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-confira-a-agenda-dos-candidatos-a-prefeito-de-teresina-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:20,108          root     INFO: New article tracked: https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/13/disque-denuncia-oferece-recompensa-por-informacoes-sobre-envolvidos-na-morte-de-pm-na-avenida-brasil.ghtml
-2020-10-13 10:25:20,116          root     INFO: New article tracked: https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/13/homenagem-ao-centenario-de-clarice-lispector-e-destaque-na-programacao-do-sesc-sorocaba.ghtml
-2020-10-13 10:25:20,124          root     INFO: New article tracked: https://g1.globo.com/sc/santa-catarina/noticia/2020/10/13/terca-feira-sera-de-sol-e-calor-em-santa-catarina.ghtml
-2020-10-13 10:25:20,132          root     INFO: New article tracked: https://g1.globo.com/ap/amapa/natureza/amazonia/noticia/2020/10/13/busca-por-arvores-de-quase-90-metros-no-ap-e-retomada-apos-suspensao-devido-a-pandemia.ghtml
-2020-10-13 10:25:20,140          root     INFO: New article tracked: https://g1.globo.com/pe/pernambuco/noticia/2020/10/13/emprego-145-vagas-sao-ofertadas-em-oito-cidades-do-grande-recife-e-da-zona-da-mata.ghtml
-2020-10-13 10:25:20,147          root     INFO: New article tracked: https://g1.globo.com/pr/oeste-sudoeste/noticia/2020/10/13/greve-do-transporte-coletivo-e-retomada-em-cascavel-nesta-terca-feira-13-confira-novos-horarios.ghtml
-2020-10-13 10:25:20,155          root     INFO: New article tracked: https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/13/barricadas-instaladas-por-criminosos-dificultam-o-acesso-a-vila-alianca.ghtml
-2020-10-13 10:25:20,166          root     INFO: New article tracked: https://g1.globo.com/politica/eleicoes/2020/noticia/2020/10/13/disparo-de-whatsapp-na-eleicao-pode-ser-punido-por-nova-lei-de-protecao-de-dados-tse-diz-que-ainda-nao-recebeu-nenhuma-denuncia.ghtml
-2020-10-13 10:25:20,174          root     INFO: New article tracked: https://g1.globo.com/sp/sao-paulo/noticia/2020/10/13/incendio-atinge-madeireira-em-guarulhos.ghtml
-2020-10-13 10:25:20,182          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/noticia/2020/10/13/sargento-da-pm-e-detido-suspeito-de-agredir-esposa-em-joao-pessoa.ghtml
-2020-10-13 10:25:20,295          root     INFO: Grupo invade <del>supermercado</del> <ins>supermercado, rende funcionários</ins> e foge após <ins>tentar</ins> explodir <del>caixa eletrônico</del> <ins>cofre</ins> em Almirante Tamandaré
-2020-10-13 10:25:22,318          root     INFO: Media ready with ids: 1315961820453244930
-2020-10-13 10:25:22,319          root     INFO: Text to tweet: Modificação do Título
-2020-10-13 10:25:22,319          root     INFO: Article id: https://g1.globo.com/pr/parana/noticia/2020/10/13/grupo-invade-supermercado-e-foge-apos-explodir-caixa-eletronico-em-almirante-tamandare.ghtml
-2020-10-13 10:25:22,324          root     INFO: Tweeting url: https://g1.globo.com/pr/parana/noticia/2020/10/13/grupo-invade-supermercado-e-foge-apos-explodir-caixa-eletronico-em-almirante-tamandare.ghtml
-2020-10-13 10:25:22,579          root     INFO: Replying to: 1315961822336483330
-2020-10-13 10:25:22,857          root     INFO: Id to store: 1315961823309561856
-2020-10-13 10:25:22,862          root     INFO: <del>Furto</del> <ins>Assalto</ins> foi registrado na madrugada desta terça-feira (13), na Região Metropolitana de Curitiba. <ins>Ninguém ficou ferido.</ins> Quatro homens armados invadiram um supermercado <ins>atacadista</ins> em Almirante Tamandaré, na Região Metropolitana de Curitiba, e <del>explodiram</del> <ins>tentaram explodir</ins> um <del>caixa eletrônico,</del> <ins>cofre,</ins> na madrugada desta terça-feira (13). Depois <del>de explodir o equipamento,</del> <ins>da ação,</ins> os suspeitos fugiram em um carro preto. <del>No local,</del> <ins>Sete funcionários</ins> que <ins>estavam no local foram rendidos pelos assaltantes, mas não ficaram feridos. O supermercado</ins> fica na Rodovia dos <del>Minérios, ninguém ficou ferido.</del> <ins>Minérios. Não há informações se os suspeitos conseguiram levar o dinheiro do cofre,</ins> Até a última atualização da reportagem, <del>eles</del> <ins>os assaltantes</ins> não tinham sido localizados pela polícia. Vacina contra a Covid-19 no Paraná Veja mais notícias no G1 Paraná.
-2020-10-13 10:25:24,913          root     INFO: Media ready with ids: 1315961831052267520
-2020-10-13 10:25:24,914          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-13 10:25:24,914          root     INFO: Article id: https://g1.globo.com/pr/parana/noticia/2020/10/13/grupo-invade-supermercado-e-foge-apos-explodir-caixa-eletronico-em-almirante-tamandare.ghtml
-2020-10-13 10:25:24,921          root     INFO: Replying to: 1315961823309561856
-2020-10-13 10:25:25,217          root     INFO: Id to store: 1315961833145208833
-2020-10-13 10:25:25,262          root     INFO: New article tracked: https://epoca.globo.com/guilherme-amado/video-nobel-de-economia-soube-do-premio-por-vizinho-tambem-ganhador-interfonando-pelo-porteiro-eletronico-24689370
-2020-10-13 10:25:25,299          root     INFO: New article tracked: https://epoca.globo.com/guilherme-amado/fux-quer-criar-vagas-de-conselheiros-para-justica-militar-no-cnj-24687004
-2020-10-13 10:25:25,317          root     INFO: New article tracked: https://oglobo.globo.com/rio/bairros/na-pandemia-ator-vende-mais-de-dez-mil-rabanadas-versao-com-bacalhau-sera-lancada-para-natal-24684389
-2020-10-13 10:25:25,325          root     INFO: New article tracked: https://oglobo.globo.com/rio/bairros/audio-rebel-completa-15-anos-com-lives-de-artistas-como-jards-macale-domenico-lancellotti-24684777
-2020-10-13 10:25:25,334          root     INFO: New article tracked: https://oglobo.globo.com/rio/bairros/rodrigo-franca-socio-de-espaco-que-une-gastronomia-cultura-moda-em-vila-isabel-24682787
-2020-10-13 10:25:25,359          root     INFO: New article tracked: https://oglobo.globo.com/rio/bairros/violencia-contra-mulher-atendimentos-voltam-subir-em-niteroi-24686194
-2020-10-13 10:25:25,557          root     INFO: Removed https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-os-planos-dos-candidatos-a-prefeito-de-sertaozinho-para-a-educacao.ghtml
-2020-10-13 10:25:25,559          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/13/homem-morto-a-tiros-no-sofa-era-investigado-por-abuso-de-criancas-diz-policia.ghtml
-2020-10-13 10:25:25,562          root     INFO: Removed https://oglobo.globo.com/esportes/vencer-nadal-em-roland-garros-o-maior-desafio-do-esporte-atual-24688708
-2020-10-13 10:25:25,564          root     INFO: Removed https://g1.globo.com/pr/parana/noticia/2020/10/13/motorista-com-sinais-de-embriaguez-fica-ferido-ao-tentar-fugir-de-policiais-e-bater-carro-em-curitiba-diz-pm.ghtml
-2020-10-13 10:25:25,566          root     INFO: Removed https://g1.globo.com/ce/ceara/noticia/2020/10/13/video-mostra-briga-em-pousada-de-jericoacoara-envolvendo-inspetora-da-policia-civil.ghtml
-2020-10-13 10:25:25,569          root     INFO: Removed https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/13/lexa-e-assaltada-no-rio-e-perde-documentos-e-celular.ghtml
-2020-10-13 10:25:25,572          root     INFO: Removed https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2020/10/13/jovem-de-20-anos-que-morreu-apos-ter-corpo-queimado-sera-enterrada-no-interior-de-sao-paulo.ghtml
-2020-10-13 10:25:25,574          root     INFO: Removed https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2020/10/13/escolas-particulares-podem-retomar-atividades-em-ribeirao-preto-sp-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:25,576          root     INFO: Removed https://oglobo.globo.com/brasil/eleicoes-2020/eleicoes-350-gestores-de-contas-rejeitadas-pelo-tcu-seguem-na-disputa-24689314
-2020-10-13 10:25:25,578          root     INFO: Removed https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-campo-grande-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:25,580          root     INFO: Removed https://g1.globo.com/sp/itapetininga-regiao/noticia/2020/10/13/video-mostra-salto-de-paraquedistas-que-bateu-recorde-estadual-de-formacao-em-queda-livre.ghtml
-2020-10-13 10:25:25,583          root     INFO: Removed https://oglobo.globo.com/podcast/eleicoes-nos-eua-os-estados-decisivos-na-disputa-entre-trump-biden-24689163
-2020-10-13 10:25:25,585          root     INFO: Removed https://g1.globo.com/mg/sul-de-minas/eleicoes/2020/noticia/2020/10/13/patrimonio-de-candidatos-a-prefeitura-de-varginha-vai-de-r-34-mil-a-quase-r-700-mil.ghtml
-2020-10-13 10:25:25,587          root     INFO: Removed https://oglobo.globo.com/esportes/fluminense-faixa-estendida-contra-bahia-carrega-historia-de-amor-entre-pai-filho-de-luta-pela-vida-1-24689257
-2020-10-13 10:25:25,589          root     INFO: Removed https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2020/10/13/simulador-ajuda-a-encontrar-a-cidade-ideal-para-envelhecer.ghtml
-2020-10-13 10:25:25,591          root     INFO: Removed https://g1.globo.com/pb/paraiba/noticia/2020/10/13/aulas-presenciais-para-3o-ano-do-ensino-medio-podem-retornar-nesta-terca-em-joao-pessoa.ghtml
-2020-10-13 10:25:25,593          root     INFO: Removed https://oglobo.globo.com/brasil/eleicoes-2020/eficientes-sem-chiclete-analise-dos-jingles-dos-candidatos-prefeito-do-rio-24689225
-2020-10-13 10:25:25,595          root     INFO: Removed https://g1.globo.com/df/distrito-federal/noticia/2020/10/13/brasilia-completa-3-anos-como-cidade-criativa-pelo-design-e-tem-programacao-virtual-para-celebrar.ghtml
-2020-10-13 10:25:25,597          root     INFO: Removed https://g1.globo.com/sp/campinas-regiao/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-campinas-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:25,600          root     INFO: Removed https://g1.globo.com/pb/paraiba/eleicoes/2020/noticia/2020/10/13/veja-agenda-dos-candidatos-a-prefeito-de-campina-grande-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:25,602          root     INFO: Removed https://g1.globo.com/sp/sao-carlos-regiao/noticia/2020/10/13/ufscar-oferece-programacao-online-para-17a-semana-nacional-de-ciencia-e-tecnologia.ghtml
-2020-10-13 10:25:25,604          root     INFO: Removed https://g1.globo.com/pop-arte/musica/noticia/2020/10/13/romance-desapegado-falta-de-exclusividade-gera-onda-de-regravacoes-e-disputa-entre-artistas.ghtml
-2020-10-13 10:25:25,607          root     INFO: Removed https://oglobo.globo.com/rioshow/orquestra-toca-reliquias-de-bach-em-concerto-on-line-24688819
-2020-10-13 10:25:25,609          root     INFO: Removed https://g1.globo.com/mg/minas-gerais/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-veja-a-agenda-dos-candidatos-a-prefeito-de-belo-horizonte-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:25,611          root     INFO: Removed https://g1.globo.com/ap/amapa/eleicoes/2020/noticia/2020/10/13/veja-a-agenda-dos-candidatos-a-prefeitura-de-macapa-para-esta-terca-feira-13.ghtml
-2020-10-13 10:25:25,613          root     INFO: Removed https://g1.globo.com/pb/paraiba/noticia/2020/10/13/veja-as-118-vagas-de-emprego-do-sine-de-joao-pessoa-de-13-a-16-outubro.ghtml
-2020-10-13 10:25:25,615          root     INFO: Removed https://g1.globo.com/ma/maranhao/eleicoes/2020/noticia/2020/10/13/tribunal-regional-eleitoral-realiza-eleicao-simulada-no-maranhao.ghtml
-2020-10-13 10:25:25,617          root     INFO: Removed https://g1.globo.com/pe/petrolina-regiao/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-petrolina-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:25,619          root     INFO: Removed https://g1.globo.com/ba/bahia/noticia/2020/10/13/um-ano-apos-canonizacao-de-santa-dulce-baianas-que-foram-a-roma-contam-sobre-milagres-e-relembram-momento-historico.ghtml
-2020-10-13 10:25:25,621          root     INFO: Removed https://g1.globo.com/pb/paraiba/eleicoes/2020/noticia/2020/10/13/veja-agenda-dos-candidatos-a-prefeito-de-joao-pessoa-nesta-terca-feira-13.ghtml
-2020-10-13 10:25:25,624          root     INFO: Removed https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2020/10/13/arnaldo-antunes-e-um-dos-convidados-para-show-em-homenagem-aos-professores-do-df.ghtml
-2020-10-13 10:25:25,626          root     INFO: Removed https://g1.globo.com/pe/pernambuco/eleicoes/2020/noticia/2020/10/13/candidatos-a-prefeito-pretendem-revitalizar-o-bairro-do-recife-para-atrair-turistas-e-gerar-empregos-veja-propostas.ghtml
-2020-10-13 10:25:25,627          root     INFO: Finished script
+2020-10-13 10:32:08,047          root     INFO: Starting script
+2020-10-13 10:32:09,182          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-13 10:32:10,030          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-13 10:32:10,882          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-13 10:32:11,820          root     INFO: Parsing G1
+2020-10-13 10:32:12,770          root     INFO: Parsing OGlobo
+2020-10-13 10:32:13,192          root     INFO: Parsing R7 - Brasil
+2020-10-13 10:32:15,971          root     INFO: Ela saía do Parque da Lagoa e, na Rua Santo Elias, quatro homens em duas motos passaram atirando. Hospital de Emergência e Trauma de João Pessoa Reprodução/TV Cabo Branco A adolescente foi atingida com um tiro na parte e fraturou o osso. Um outro homem, de 51 anos que estava em um espetinho, também foi atingido com um tiro no pé. . Ela saía do Parque da Lagoa e, na Rua Santo Elias, quatro homens em duas motos passaram atirando. A adolescente foi atingida com um tiro na parte e fraturou o osso. Um outro homem, de 51 anos, que estava em um espetinho, também foi atingido com um tiro no pé. De acordo com a Polícia Civil, a suspeita é que os disparos tenham sido para o homem que foi atingido, e que a mulher acabou sendo vítima de bala perdida. Ela foi encaminhada ao Hospital de Emergência e Trauma de João Pessoa. O estado de saúde dela é considerado estável. O homem foi levado para o Complexo Hospitalar de Mangabeira, o Trauminha, mas saiu da unidade de saúde antes da chegada da Polícia Civil, que pretendia apurar melhor o caso. <ins>Vídeos mais assistidos do G1 Paraíba</ins>
+2020-10-13 10:32:18,201          root     INFO: Media ready with ids: 1315963564465815552
+2020-10-13 10:32:18,201          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-13 10:32:18,202          root     INFO: Article id: https://g1.globo.com/pb/paraiba/noticia/2020/10/13/adolescente-e-baleada-quando-voltava-de-comemoracao-do-dia-das-criancas-com-familia-em-joao-pessoa.ghtml
+2020-10-13 10:32:18,205          root     INFO: Tweeting url: https://g1.globo.com/pb/paraiba/noticia/2020/10/13/adolescente-e-baleada-quando-voltava-de-comemoracao-do-dia-das-criancas-com-familia-em-joao-pessoa.ghtml
+2020-10-13 10:32:18,502          root     INFO: Replying to: 1315963566843998208
+2020-10-13 10:32:18,790          root     INFO: Id to store: 1315963567733190656
+2020-10-13 10:32:18,851          root     INFO: Menino foi socorrido para uma unidade de saúde da cidade, mas já chegou sem vida. Polícia Civil vai investigar o caso. Um bebê de 1 ano e 4 meses morreu afogado após cair em um balde com água na cidade de Feliz Deserto, Litoral Sul de Alagoas. <ins>O caso ocorreu na segunda-feira (12).</ins> De acordo com a polícia, a vítima, Micael da Silva Santos, foi socorrido para a unidade de saúde do município, mas já chegou sem vida. A mãe da criança disse que o balde estava no banheiro e que a criança acabou caindo no balde. A Polícia Civil vai investigar o caso. Veja os vídeos mais recentes do G1 AL Veja mais notícias da região no G1 Alagoas
+2020-10-13 10:32:20,786          root     INFO: Media ready with ids: 1315963575404552192
+2020-10-13 10:32:20,787          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-13 10:32:20,787          root     INFO: Article id: https://g1.globo.com/al/alagoas/noticia/2020/10/13/bebe-de-1-ano-morre-afogado-apos-cair-em-balde-com-agua-em-feliz-deserto-al.ghtml
+2020-10-13 10:32:20,791          root     INFO: Tweeting url: https://g1.globo.com/al/alagoas/noticia/2020/10/13/bebe-de-1-ano-morre-afogado-apos-cair-em-balde-com-agua-em-feliz-deserto-al.ghtml
+2020-10-13 10:32:21,004          root     INFO: Replying to: 1315963577346519041
+2020-10-13 10:32:21,278          root     INFO: Id to store: 1315963578269216770
+2020-10-13 10:32:21,485          root     INFO: Imóvel começou a pegar fogo na madrugada desta terça-feira (13). Seis equipes do Corpo de Bombeiros atuaram no local. Chamas foram controladas por volta das 6h30. Incêndio atinge madeireira em Guarulhos Reprodução/TV Globo Um incêndio atingiu um depósito em Guarulhos, na Grande São Paulo, na manhã desta terça-feira (13). Segundo os bombeiros, ninguém ficou ferido. Ainda de acordo com a corporação, no imóvel, localizado na Rua Vicente Melro, na Vila Galvão, funcionava uma <del>madeireira.</del> <ins>madeireira, recentemente desativada.</ins> O incêndio começou às 5h. <ins>Bombeiros controlam o fogo em madeireira em Guarulhos Reprodução/TV Globo</ins> As chamas ficaram mais concentradas na parte do fundo do terreno. Por volta das 6h30, o fogo já tinha sido controlado pelos bombeiros. <del>Imóvel começou a pegar fogo na madrugada desta terça (13), segundo os bombeiros Reprodução/TV Globo</del> Equipes da Defesa Civil também foram acionadas. Uma perícia deverá ser feita para descobrir as causas do incêndio. <del>Madeireira</del> <ins>Bombeiros atuam</ins> em <del>Guarulhos pegou</del> <ins>combate ao incêndio em Guarulhos, na Grande SP Reprodução/TV Globo Imóvel começou a pegar</ins> fogo na madrugada desta terça <del>(13)</del> <ins>(13), segundo os bombeiros</ins> Reprodução/TV Globo Veja mais notícias de São Paulo:
+2020-10-13 10:32:23,679          root     INFO: Media ready with ids: 1315963586943082496
+2020-10-13 10:32:23,679          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-13 10:32:23,679          root     INFO: Article id: https://g1.globo.com/sp/sao-paulo/noticia/2020/10/13/incendio-atinge-madeireira-em-guarulhos.ghtml
+2020-10-13 10:32:23,684          root     INFO: Tweeting url: https://g1.globo.com/sp/sao-paulo/noticia/2020/10/13/incendio-atinge-madeireira-em-guarulhos.ghtml
+2020-10-13 10:32:23,916          root     INFO: Replying to: 1315963589539377152
+2020-10-13 10:32:24,245          root     INFO: Id to store: 1315963590462132224
+2020-10-13 10:32:24,713          root     INFO: Finished script
