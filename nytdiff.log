@@ -1,7 +1,42 @@
-2020-10-14 01:57:39,798          root     INFO: Starting script
-2020-10-14 01:57:40,953          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-14 01:57:41,621          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-14 01:57:42,287          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-14 01:57:43,075          root     INFO: Parsing G1
-2020-10-14 01:57:43,282          root     INFO: Parsing R7 - Brasil
-2020-10-14 01:57:46,624          root     INFO: Finished script
+2020-10-14 02:26:59,120          root     INFO: Starting script
+2020-10-14 02:26:59,971          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-14 02:27:00,635          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-14 02:27:01,306          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-14 02:27:02,220          root     INFO: Parsing G1
+2020-10-14 02:27:02,513          root     INFO: Parsing R7 - Brasil
+2020-10-14 02:27:02,535          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/supremo-alimenta-e-expoe-seus-proprios-defeitos-em-praca-publica.shtml
+2020-10-14 02:27:02,543          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2020/10/tinhamos-que-votar-nas-eleicoes-americanas-porque-vao-definir-a-nossa.shtml
+2020-10-14 02:27:02,550          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/eua-das-bananas.shtml
+2020-10-14 02:27:02,558          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2020/10/com-meu-lado-masculino-a-solta-faco-da-limpeza-um-ato-de-destruicao.shtml
+2020-10-14 02:27:02,565          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/esper-kallas/2020/10/as-reinfeccoes-pelo-novo-coronavirus.shtml
+2020-10-14 02:27:02,572          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/andre-do-rap-foi-solto-pelos-ministros-do-supremo-e-pelos-parlamentares.shtml
+2020-10-14 02:27:02,580          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/vacinas-para-todos.shtml
+2020-10-14 02:27:02,588          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/acuados-nos-eua-facebook-e-google-veem-brecha-na-china.shtml
+2020-10-14 02:27:02,595          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/10/a-teoria-do-esgoto-de-bolsonaro-e-russomano.shtml
+2020-10-14 02:27:02,602          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2020/10/o-centrao-se-bolsonarizou-nao-o-contrario.shtml
+2020-10-14 02:27:02,610          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helio-beltrao/2020/10/big-techs-sob-ataque.shtml
+2020-10-14 02:27:02,618          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/o-mandato-coletivo-e-viavel.shtml
+2020-10-14 02:27:02,626          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/olhar-longe-fazer-grande.shtml
+2020-10-14 02:27:02,635          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2020/10/assistentes-virtuais-nao-substituem-atendimento-humano-ao-consumidor.shtml
+2020-10-14 02:27:03,500          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/pgr-soube-pela-imprensa-que-andre-do-rap-era-chefe-do-pcc.shtml
+2020-10-14 02:27:03,507          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/supremo-alimenta-e-expoe-seus-proprios-defeitos-em-praca-publica.shtml
+2020-10-14 02:27:03,514          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/fiel-a-prefeitos-camara-de-sp-faz-dobradinha-com-executivo-e-agora-teme-renovacao.shtml
+2020-10-14 02:27:03,521          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/amoedo-doa-para-campanha-de-desafeto-de-sabara-e-esquenta-rixa-com-candidato.shtml
+2020-10-14 02:27:03,530          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministerio-de-salles-anunciou-uso-de-retardante-quimico-contra-fogo-na-amazonia-legal.shtml
+2020-10-14 02:27:03,540          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/andre-do-rap-foi-solto-pelos-ministros-do-supremo-e-pelos-parlamentares.shtml
+2020-10-14 02:27:03,547          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/saiba-quais-sao-as-praticas-permitidas-e-as-vetadas-na-campanha-eleitoral.shtml
+2020-10-14 02:27:03,556          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2020/10/o-centrao-se-bolsonarizou-nao-o-contrario.shtml
+2020-10-14 02:27:03,564          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/homem-branco-e-o-candidato-padrao-a-prefeito-nas-95-maiores-cidades-do-pais.shtml
+2020-10-14 02:27:03,571          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/russomanno-quer-moradores-de-rua-na-zeladoria-com-apoio-psicologico-das-igrejas.shtml
+2020-10-14 02:27:05,315          root     INFO: New article tracked: https://g1.globo.com/ac/acre/edicao/2020/10/13/videos-jornal-do-acre-2-edicao-ac-de-terca-feira-13-de-outubro.ghtml
+2020-10-14 02:27:05,323          root     INFO: New article tracked: https://g1.globo.com/ba/bahia/noticia/2020/10/13/mare-baixa-suspende-travessia-salvador-mar-grande-por-quatro-horas-nesta-quarta-veja-boletim.ghtml
+2020-10-14 02:27:05,331          root     INFO: New article tracked: https://g1.globo.com/pa/para/noticia/2020/10/13/prefeitura-alerta-para-risco-de-mare-alta-em-belem-a-partir-de-terca-feira-14.ghtml
+2020-10-14 02:27:05,338          root     INFO: New article tracked: https://g1.globo.com/sp/sao-paulo/eleicoes/2020/noticia/2020/10/13/orlando-silva-diz-que-vai-investir-em-parceria-com-ongs-e-criar-mutirao-de-trabalho-para-jovens-em-sao-paulo.ghtml
+2020-10-14 02:27:05,355          root     INFO: New article tracked: https://g1.globo.com/ro/rondonia/noticia/2020/10/13/crianca-de-9-anos-morre-apos-caminhonete-capotar-e-cair-em-ribanceira-em-cujubim-ro.ghtml
+2020-10-14 02:27:05,934          root     INFO: Removed https://g1.globo.com/ro/rondonia/eleicoes/2020/noticia/2020/10/13/eleicoes-2020-veja-como-foi-o-dia-dos-candidatos-a-prefeito-de-porto-velho-nesta-terca-feira-13.ghtml
+2020-10-14 02:27:05,938          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/13/carros-se-envolvem-em-batida-na-raposo-tavares-em-sorocaba.ghtml
+2020-10-14 02:27:05,940          root     INFO: Removed https://g1.globo.com/to/tocantins/edicao/2020/10/13/videos-ja-2-edicao-desta-terca-feira-13-de-outubro.ghtml
+2020-10-14 02:27:05,943          root     INFO: Removed https://g1.globo.com/mg/sul-de-minas/noticia/2020/10/13/acidente-envolvendo-dois-carros-deixa-dez-feridos-na-br-491-em-guaranesia.ghtml
+2020-10-14 02:27:05,946          root     INFO: Removed https://g1.globo.com/ba/bahia/noticia/2020/10/13/simm-oferece-vagas-para-cozinheiro-mecanico-acougueiro-costureira-e-outras-veja-lista-de-oportunidades.ghtml
+2020-10-14 02:27:05,948          root     INFO: Removed https://g1.globo.com/sc/santa-catarina/noticia/2020/10/13/criminosos-assaltam-onibus-na-br-101-e-rendem-passageiros-no-litoral-norte-de-sc-video.ghtml
+2020-10-14 02:27:05,949          root     INFO: Finished script
