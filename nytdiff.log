@@ -1,46 +1,10 @@
-2020-10-14 18:02:57,739          root     INFO: Starting script
-2020-10-14 18:02:59,215          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-14 18:02:59,883          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-14 18:03:00,803          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-14 18:03:01,045          root     INFO: Parsing R7 - Brasil
-2020-10-14 18:03:04,965          root     INFO: Removed https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/focos-de-calor-reduzem-no-pantanal-de-mt-apos-incendios-destruirem-area-13-vezes-maior-que-sp-e-rj-juntas.ghtml
-2020-10-14 18:03:04,968          root     INFO: Removed https://g1.globo.com/rj/regiao-dos-lagos/noticia/2020/10/14/suspeito-de-matar-traficante-rival-durante-tiroteio-em-praia-de-arraial-do-cabo-rj-e-preso.ghtml
-2020-10-14 18:03:04,970          root     INFO: Removed https://g1.globo.com/sp/mogi-das-cruzes-suzano/edicao/2020/10/14/videos-diario-tv-1-edicao-de-quarta-feira-14-de-outubro.ghtml
-2020-10-14 18:03:04,972          root     INFO: Removed https://g1.globo.com/ba/bahia/noticia/2020/10/14/secretario-de-saude-fala-sobre-crescimento-de-ocupacao-da-uti-pediatrica-para-covid-19-em-breve-irao-contaminar-de-novo-os-idosos.ghtml
-2020-10-14 18:03:04,975          root     INFO: Removed https://g1.globo.com/ms/mato-grosso-do-sul/edicao/2020/10/14/videos-ms1-campo-grande-de-quarta-feira-14-de-outubro-de-2020.ghtml
-2020-10-14 18:03:04,978          root     INFO: Removed https://g1.globo.com/pe/caruaru-regiao/noticia/2020/10/14/reeducandos-do-regime-aberto-ajudam-na-limpeza-da-central-de-abastecimento-de-caruaru.ghtml
-2020-10-14 18:03:04,980          root     INFO: Removed https://g1.globo.com/rn/rio-grande-do-norte/noticia/2020/10/14/corpo-de-bombeiros-registra-14-incendios-florestais-em-24h-no-rn.ghtml
-2020-10-14 18:03:04,982          root     INFO: Removed https://g1.globo.com/rr/roraima/noticia/2020/10/14/relatorio-da-onu-analisa-violencia-contra-brasileiras-e-venezuelanas-em-duas-cidades-de-rr.ghtml
-2020-10-14 18:03:05,008          root     INFO: Removed https://g1.globo.com/se/sergipe/edicao/2020/10/14/videos-se1-desta-quarta-feira-14-de-outubro.ghtml
-2020-10-14 18:03:05,011          root     INFO: Removed https://g1.globo.com/pi/piaui/noticia/2020/10/14/cacador-morre-apos-sofrer-tiro-acidental-da-propria-espingarda-em-teresina.ghtml
-2020-10-14 18:03:05,014          root     INFO: Removed https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2020/10/14/microsoft-desarticula-rede-usada-por-virus-de-resgate-com-processo-por-dano-a-marca.ghtml
-2020-10-14 18:03:05,017          root     INFO: Removed https://g1.globo.com/sp/bauru-marilia/noticia/2020/10/14/tupa-confirma-mais-dois-casos-de-leishmaniose-visceral.ghtml
-2020-10-14 18:03:05,020          root     INFO: Removed https://g1.globo.com/pr/norte-noroeste/noticia/2020/10/14/homem-preso-por-jogar-agua-fervendo-em-mulher-vira-reu-por-tentativa-de-feminicidio.ghtml
-2020-10-14 18:03:05,023          root     INFO: Removed https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/14/campinas-tem-6176percent-dos-leitos-de-uti-exclusivos-para-covid-19-ocupados-nesta-quarta-feira.ghtml
-2020-10-14 18:03:05,027          root     INFO: Removed https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/candidato-a-vereador-e-detido-por-desobedecer-regras-de-prevencao-a-covid-19-e-causar-aglomeracao-em-mt.ghtml
-2020-10-14 18:03:05,030          root     INFO: Removed https://g1.globo.com/to/tocantins/eleicoes/2020/noticia/2020/10/14/eleicoes-2020-plano-de-governo-dos-candidatos-a-prefeito-de-gurupi.ghtml
-2020-10-14 18:03:05,032          root     INFO: Removed https://g1.globo.com/ce/ceara/edicao/2020/10/14/videos-cetv-1-edicao-de-quarta-feira-14-de-outubro.ghtml
-2020-10-14 18:03:05,034          root     INFO: Removed https://g1.globo.com/ciencia-e-saude/noticia/2020/10/14/nunca-consegui-sentir-cheiros-e-nao-e-por-causa-da-covid-19.ghtml
-2020-10-14 18:03:05,037          root     INFO: Removed https://g1.globo.com/politica/noticia/2020/10/14/supremo-abre-sessao-que-vai-analisar-se-andre-do-rap-deve-ser-mantido-livre-ou-voltar-para-a-cadeia.ghtml
-2020-10-14 18:03:05,039          root     INFO: Removed https://g1.globo.com/go/goias/noticia/2020/10/14/corpo-de-sertanejo-baleado-acidentalmente-por-amigo-e-velado-em-cemiterio-de-goiania.ghtml
-2020-10-14 18:03:05,041          root     INFO: Removed https://g1.globo.com/economia/agronegocios/noticia/2020/10/14/associacao-pede-que-brasil-nao-libere-entrada-de-trigo-transgenico-da-argentina.ghtml
-2020-10-14 18:03:05,043          root     INFO: Removed https://g1.globo.com/ma/maranhao/noticia/2020/10/14/policia-prende-em-balsas-suspeito-de-tentativa-de-feminicidio-contra-a-ex-companheira.ghtml
-2020-10-14 18:03:05,045          root     INFO: Removed https://g1.globo.com/politica/ao-vivo/andre-do-rap-julgamento-no-stf.ghtml
-2020-10-14 18:03:05,047          root     INFO: Removed https://g1.globo.com/mg/minas-gerais/noticia/2020/10/14/homem-esfaqueia-irma-e-faz-crianca-refem-em-igarape-na-grande-bh-diz-policia-militar.ghtml
-2020-10-14 18:03:05,049          root     INFO: Removed https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/prefeitura-de-cuiaba-libera-cinemas-e-teatros-com-ocupacao-de-30percent-da-capacidade-e-distanciamento-entre-poltronas.ghtml
-2020-10-14 18:03:05,051          root     INFO: Removed https://g1.globo.com/mg/centro-oeste/noticia/2020/10/14/rapaz-e-detido-com-17-barras-de-maconha-em-itauna.ghtml
-2020-10-14 18:03:05,053          root     INFO: Removed https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2020/10/14/rio-preto-tem-duas-mortes-e-117-novos-casos-de-coronavirus-nesta-4a-feira.ghtml
-2020-10-14 18:03:05,055          root     INFO: Removed https://g1.globo.com/am/amazonas/noticia/2020/10/14/cerca-de-30percent-de-areas-desmatadas-ou-queimadas-no-am-nao-tem-donos-identificados-aponta-governo.ghtml
-2020-10-14 18:03:05,058          root     INFO: Removed https://g1.globo.com/economia/noticia/2020/10/14/bolsas-da-europa-recuam-com-temores-sobre-segunda-onda-e-incerteza-em-relacao-a-brexit.ghtml
-2020-10-14 18:03:05,061          root     INFO: Removed https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2020/10/14/pai-que-ia-a-escola-em-busca-de-sinal-de-internet-ganha-pacote-de-banda-larga-computador-e-celular-para-a-filha-estudar.ghtml
-2020-10-14 18:03:05,064          root     INFO: Removed https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2020/10/14/idosa-de-66-anos-e-a-12a-vitima-fatal-do-novo-coronavirus-em-presidente-bernardes.ghtml
-2020-10-14 18:03:05,066          root     INFO: Removed https://g1.globo.com/mundo/eleicoes-nos-eua/2020/noticia/2020/10/14/revista-nature-apoia-a-candidatura-de-biden-e-diz-que-trump-tem-desprezo-pela-ciencia.ghtml
-2020-10-14 18:03:05,068          root     INFO: Removed https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/14/corpo-de-bombeiros-e-acionado-para-controlar-incendio-em-cobertura-em-ipanema.ghtml
-2020-10-14 18:03:05,070          root     INFO: Removed https://g1.globo.com/sc/santa-catarina/noticia/2020/10/14/camera-mostra-bezerro-de-estimacao-sendo-furtado-em-sc-eu-chorei-diz-aposentada.ghtml
-2020-10-14 18:03:05,072          root     INFO: Removed https://g1.globo.com/sp/santos-regiao/noticia/2020/10/14/lutador-enfrenta-quatro-durante-assalto-no-litoral-de-sp-assista.ghtml
-2020-10-14 18:03:05,074          root     INFO: Removed https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/carraro-construtora/noticia/2020/10/14/a-surpreendente-verdade-sobre-entregas-antecipadas-de-imoveis.ghtml
-2020-10-14 18:03:05,076          root     INFO: Removed https://g1.globo.com/se/sergipe/noticia/2020/10/14/mais-de-33-toneladas-de-drogas-ja-foram-apreendidas-em-sergipe-desde-janeiro.ghtml
-2020-10-14 18:03:05,078          root     INFO: Removed https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2020/10/14/aumento-dos-eua-na-taxa-para-chapas-de-aluminio-do-brasil-surpreende-siderurgicas.ghtml
-2020-10-14 18:03:05,080          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/14/secretaria-da-educacao-de-sorocaba-seleciona-estagiarios-para-2021.ghtml
-2020-10-14 18:03:05,082          root     INFO: Removed https://g1.globo.com/pe/caruaru-regiao/eleicoes/2020/noticia/2020/10/14/confira-quem-sao-os-candidatos-a-prefeitura-de-serra-talhada-nas-eleicoes-2020.ghtml
-2020-10-14 18:03:05,083          root     INFO: Finished script
+2020-10-14 18:25:42,463          root     INFO: Starting script
+2020-10-14 18:25:43,538          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-14 18:25:44,405          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-14 18:25:45,276          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-14 18:25:45,649          root     INFO: Parsing R7 - Brasil
+2020-10-14 18:25:47,092          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48331
+2020-10-14 18:25:47,102          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10252
+2020-10-14 18:25:49,511          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/poder-empresarial-se-retrai-apos-proibicao-de-doacao-mas-mantem-influencia-nas-eleicoes.shtml
+2020-10-14 18:25:49,513          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/jair-bolsonaro-brilhante-ustra-e-a-direita-burra.shtml
+2020-10-14 18:25:49,514          root     INFO: Finished script
