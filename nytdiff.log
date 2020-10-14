@@ -1,25 +1,6 @@
-2020-10-14 22:23:52,879          root     INFO: Starting script
-2020-10-14 22:23:53,800          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-14 22:23:54,476          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-14 22:23:55,154          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-14 22:23:55,330          root     INFO: Parsing R7 - Brasil
-2020-10-14 22:23:56,535          root     INFO: Pazuello prevê vacina <del>de Covid-19 para abril, ignora Doria e São Paulo dispara</del> contra <del>ministério</del> <ins>coronavírus para abril e abre crise com estados</ins>
-2020-10-14 22:23:58,378          root     INFO: Media ready with ids: 1316505050299142144
-2020-10-14 22:23:58,378          root     INFO: Text to tweet: Modificação do Título
-2020-10-14 22:23:58,379          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/pazuello-preve-vacina-de-covid-19-para-abril-ignora-doria-e-sao-paulo-dispara-contra-ministerio.shtml
-2020-10-14 22:23:58,384          root     INFO: Replying to: 1316498525358829568
-2020-10-14 22:23:58,630          root     INFO: Id to store: 1316505051872010247
-2020-10-14 22:23:58,636          root     INFO: O Ministério da Saúde apresentou na tarde desta <del>quarta</del> <ins>quarta-feira</ins> (14) um cronograma para vacinação contra Covid-19 e abriu uma crise com secretários estaduais. Leia mais (10/14/2020 - 18h32)
-2020-10-14 22:24:00,405          root     INFO: Media ready with ids: 1316505058679427072
-2020-10-14 22:24:00,405          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-14 22:24:00,405          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/pazuello-preve-vacina-de-covid-19-para-abril-ignora-doria-e-sao-paulo-dispara-contra-ministerio.shtml
-2020-10-14 22:24:00,411          root     INFO: Replying to: 1316505051872010247
-2020-10-14 22:24:00,641          root     INFO: Id to store: 1316505060235513857
-2020-10-14 22:24:01,002          root     INFO: O ex-governador do Ceará Ciro Gomes (PDT) anunciou, na noite <del>de hoje,</del> <ins>desta terç-feira (13),</ins> que foi diagnosticado positivamente para o novo coronavírus. Ele divulgou uma nota nas redes sociais afirmando estar com sintomas leves e cumprindo isolamento social. Leia mais (10/13/2020 - 22h46)
-2020-10-14 22:24:02,804          root     INFO: Media ready with ids: 1316505068699615234
-2020-10-14 22:24:02,805          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-14 22:24:02,805          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/ciro-gomes-anuncia-que-contraiu-covid-19-e-se-isola-em-casa.shtml
-2020-10-14 22:24:02,809          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/ciro-gomes-anuncia-que-contraiu-covid-19-e-se-isola-em-casa.shtml
-2020-10-14 22:24:02,974          root     INFO: Replying to: 1316505070280814592
-2020-10-14 22:24:03,204          root     INFO: Id to store: 1316505070972948482
-2020-10-14 22:24:05,446          root     INFO: Finished script
+2020-10-14 22:30:33,753          root     INFO: Starting script
+2020-10-14 22:30:34,684          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-14 22:30:35,370          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-14 22:30:36,070          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-14 22:30:36,176          root     INFO: Parsing R7 - Brasil
+2020-10-14 22:30:40,577          root     INFO: Finished script
