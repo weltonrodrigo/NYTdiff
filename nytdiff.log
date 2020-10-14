@@ -1,8 +1,13 @@
-2020-10-14 20:46:57,260          root     INFO: Starting script
-2020-10-14 20:46:58,319          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-14 20:46:59,162          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-14 20:47:00,017          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-14 20:47:00,304          root     INFO: Parsing R7 - Brasil
-2020-10-14 20:47:01,739          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post404090
-2020-10-14 20:47:04,398          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/lider-russomanno-puxa-debate-sobre-auxilio-e-renda-basica-na-eleicao-em-sp.shtml
-2020-10-14 20:47:04,399          root     INFO: Finished script
+2020-10-14 20:58:09,510          root     INFO: Starting script
+2020-10-14 20:58:10,432          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-14 20:58:11,108          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-14 20:58:11,776          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-14 20:58:12,007          root     INFO: Parsing R7 - Brasil
+2020-10-14 20:58:13,413          root     INFO: Covas <del>reage a Russomanno e diz que sancionará programa</del> <ins>terá projeto</ins> de renda básica de Eduardo Suplicy <ins>como antídoto a auxílio alardeado por Russomanno</ins>
+2020-10-14 20:58:15,339          root     INFO: Media ready with ids: 1316483478456856577
+2020-10-14 20:58:15,339          root     INFO: Text to tweet: Modificação do Título
+2020-10-14 20:58:15,339          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/covas-reage-a-russomanno-e-diz-que-sancionara-programa-de-renda-basica-de-eduardo-suplicy.shtml
+2020-10-14 20:58:15,344          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/covas-reage-a-russomanno-e-diz-que-sancionara-programa-de-renda-basica-de-eduardo-suplicy.shtml
+2020-10-14 20:58:15,550          root     INFO: Replying to: 1316483480293904391
+2020-10-14 20:58:15,801          root     INFO: Id to store: 1316483481258594307
+2020-10-14 20:58:18,320          root     INFO: Finished script
