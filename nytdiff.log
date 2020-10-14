@@ -1,24 +1,7 @@
-2020-10-14 01:52:32,721          root     INFO: Starting script
-2020-10-14 01:52:33,657          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-14 01:52:34,334          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-14 01:52:35,022          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-14 01:52:36,052          root     INFO: Parsing G1
-2020-10-14 01:52:36,308          root     INFO: Parsing R7 - Brasil
-2020-10-14 01:52:37,349          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/ciro-gomes-anuncia-que-contraiu-covid-19-e-se-isola-em-casa.shtml
-2020-10-14 01:52:39,471          root     INFO: New article tracked: https://g1.globo.com/sp/sao-carlos-regiao/noticia/2020/10/13/acidente-entre-tres-caminhoes-deixa-dois-mortos-na-sp-255.ghtml
-2020-10-14 01:52:39,481          root     INFO: New article tracked: https://g1.globo.com/pa/para/noticia/2020/10/13/pedinte-e-morto-a-tiros-por-ocupantes-de-moto-no-bairro-de-sao-bras-em-belem.ghtml
-2020-10-14 01:52:39,714          root     INFO: Governo <del>prorroga,</del> <ins>prorroga</ins> até <del>dezembro,</del> <ins>dezembro</ins> programa que permite <del>de</del> redução de jornada e salário
-2020-10-14 01:52:41,565          root     INFO: Media ready with ids: 1316195188474347520
-2020-10-14 01:52:41,565          root     INFO: Text to tweet: Modificação do Título
-2020-10-14 01:52:41,565          root     INFO: Article id: https://g1.globo.com/economia/noticia/2020/10/13/governo-prorroga-ate-dezembro-programa-que-permite-de-reducao-de-jornada-e-salario.ghtml
-2020-10-14 01:52:41,571          root     INFO: Replying to: 1316192090615939073
-2020-10-14 01:52:41,786          root     INFO: Id to store: 1316195189900349441
-2020-10-14 01:52:41,792          root     INFO: Decreto será publicado no 'Diário Oficial' desta quarta, diz Palácio do Planalto. Extensão já havia sido anunciada por Paulo Guedes; acordos podem vigorar até 31 de dezembro. <ins>Programa foi criado em abril em razão da pandemia do coronavírus.</ins> O presidente Jair Bolsonaro assinou <ins>nesta terça-feira (13)</ins> o decreto que prorroga, até 31 de dezembro, o programa que autoriza empresas a reduzirem proporcionalmente, ou suspenderem, a jornada e o salário dos funcionários. <ins>Criado em razão da pandemia do coronavírus, o Benefício Emergencial de Preservação do Emprego e da Renda (BEM) foi instituído com uma medida provisória em abril e já tinha passado por outras duas prorrogações.</ins> O <ins>novo</ins> decreto deve ser publicado no "Diário Oficial da União" desta quarta-feira (14), segundo informou o Palácio do Planalto. O prazo atual terminava neste <del>mês e</del> <ins>mês, mas</ins> o ministro da Economia, Paulo Guedes, já havia anunciado que o programa seria estendido. Como as medidas só valem enquanto durar o estado de calamidade pública, os acordos deverão ser encerrados no último dia de 2020. Redução de jornada e salário: veja perguntas e respostas <del>O Benefício Emergencial de Preservação do Emprego e da Renda (BEM) foi instituído com uma medida provisória em abril e já tinha passado por outras duas prorrogações.</del> "Diante do cenário atual de crise social e econômica, e com a permanência de medidas restritivas de isolamento social, faz-se necessária a prorrogação, mais uma vez, do prazo máximo de validade dos acordos", diz material divulgado pelo Palácio do Planalto nesta <del>terça (13).</del> <ins>terça.</ins> "Essa ação irá permitir que empresas que estão em situação de vulnerabilidade possam continuar sobrevivendo a este período e, desta forma, preservar postos de trabalho e projetar uma melhor recuperação econômica", afirma o governo. Programa já tinha sido prorrogado em julho; veja as principais regras O que prevê o programa O programa foi criado em razão da pandemia do novo coronavírus e prevê que o governo recomponha parte da renda dos funcionários por meio de um auxílio financeiro. O valor da recomposição corresponde a uma porcentagem do que o empregado receberia de seguro-desemprego e é depositado diretamente na conta do trabalhador. Como contrapartida, o empregador é obrigado a garantir o emprego desse funcionário por um período igual ao da redução. Ou seja: se o contrato for reduzido ou suspenso por quatro meses, o trabalhador não poderá ser demitido nos quatro meses seguintes. Se optar pela demissão no período, além dos valores normais da decisão, o empresário terá de indenizar o empregado. <ins>VÍDEOS: últimas notícias de economia</ins>
-2020-10-14 01:52:44,363          root     INFO: Media ready with ids: 1316195198955905025
-2020-10-14 01:52:44,364          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-14 01:52:44,364          root     INFO: Article id: https://g1.globo.com/economia/noticia/2020/10/13/governo-prorroga-ate-dezembro-programa-que-permite-de-reducao-de-jornada-e-salario.ghtml
-2020-10-14 01:52:44,372          root     INFO: Replying to: 1316195189900349441
-2020-10-14 01:52:44,622          root     INFO: Id to store: 1316195201627688961
-2020-10-14 01:52:45,091          root     INFO: Removed https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/13/coronavirus-sumare-confirma-mais-uma-morte-e-total-chega-a-247-casos-aumentam-para-6353.ghtml
-2020-10-14 01:52:45,095          root     INFO: Removed https://g1.globo.com/jornal-nacional/noticia/2020/10/13/desastres-naturais-quintuplicam-no-planeta-no-periodo-de-50-anos-diz-estudo.ghtml
-2020-10-14 01:52:45,096          root     INFO: Finished script
+2020-10-14 01:57:39,798          root     INFO: Starting script
+2020-10-14 01:57:40,953          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-14 01:57:41,621          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-14 01:57:42,287          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-14 01:57:43,075          root     INFO: Parsing G1
+2020-10-14 01:57:43,282          root     INFO: Parsing R7 - Brasil
+2020-10-14 01:57:46,624          root     INFO: Finished script
