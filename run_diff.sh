@@ -8,7 +8,6 @@ export RSS_URL=\
 https://feeds.folha.uol.com.br/opiniao/rss091.xml\
 ,https://feeds.folha.uol.com.br/poder/rss091.xml\
 ,https://feeds.folha.uol.com.br/ambiente/rss091.xml\
-,https://g1.globo.com/rss/g1/\
 ,https://noticias.r7.com/brasil/feed.xml
 export PHANTOMJS_PATH=./phantomjs-2.1.1-linux-x86_64/bin/
 
