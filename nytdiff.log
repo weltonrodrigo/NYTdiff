@@ -1,87 +1,62 @@
-2020-10-14 12:30:58,383          root     INFO: Starting script
-2020-10-14 12:30:59,432          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-14 12:31:00,293          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-14 12:31:01,159          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-14 12:31:02,246          root     INFO: Parsing G1
-2020-10-14 12:31:02,582          root     INFO: Parsing R7 - Brasil
-2020-10-14 12:31:06,631          root     INFO: New article tracked: https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/central-de-flagrantes-retoma-atendimento-apos-20-dias-fechada-devido-aos-servidores-infectados-pela-coronavirus-em-varzea-grande-mt.ghtml
-2020-10-14 12:31:06,641          root     INFO: New article tracked: https://g1.globo.com/ac/acre/noticia/2020/10/14/a-pouco-mais-de-15-dias-do-fim-da-campanha-acre-vacinou-apenas-22percent-da-faixa-etaria-contra-o-sarampo.ghtml
-2020-10-14 12:31:06,651          root     INFO: New article tracked: https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2020/noticia/2020/10/14/olha-o-voto-entenda-as-diferencas-entre-a-votacao-para-prefeito-e-para-vereador-e-o-que-acontece-em-caso-de-empate.ghtml
-2020-10-14 12:31:06,661          root     INFO: New article tracked: https://g1.globo.com/sp/mogi-das-cruzes-suzano/eleicoes/2020/noticia/2020/10/14/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-mogi-das-cruzes-nesta-quarta-feira-14.ghtml
-2020-10-14 12:31:06,672          root     INFO: New article tracked: https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2020/10/14/com-morte-de-idosa-de-73-anos-santo-anastacio-registra-o-14o-obito-pelo-novo-coroanvirus.ghtml
-2020-10-14 12:31:06,687          root     INFO: New article tracked: https://g1.globo.com/pi/piaui/edicao/2020/10/14/videos-bom-dia-piaui-de-quarta-feira-14-de-outubro-de-2020.ghtml
-2020-10-14 12:31:06,697          root     INFO: New article tracked: https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/14/policia-tenta-identificar-homem-morto-por-botijao-de-gas-nenhum-parente-foi-ao-iml-reconhecer-o-corpo.ghtml
-2020-10-14 12:31:06,707          root     INFO: New article tracked: https://g1.globo.com/pb/paraiba/noticia/2020/10/14/corpo-e-encontrado-perto-da-linha-do-trem-em-joao-pessoa.ghtml
-2020-10-14 12:31:06,716          root     INFO: New article tracked: https://g1.globo.com/sp/ribeirao-preto-franca/edicao/2020/10/14/videos-bom-dia-cidade-ribeirao-preto-de-quarta-feira-14-de-outubro-de-2020.ghtml
-2020-10-14 12:31:06,725          root     INFO: New article tracked: https://g1.globo.com/pi/piaui/noticia/2020/10/14/veiculos-alternativos-vao-continuar-circulando-enquanto-greve-dos-onibus-durar-diz-strans.ghtml
-2020-10-14 12:31:06,734          root     INFO: New article tracked: https://g1.globo.com/mg/grande-minas/noticia/2020/10/14/idoso-e-preso-apos-furtar-varios-comercios-em-salinas-ninguem-desconfiava.ghtml
-2020-10-14 12:31:06,742          root     INFO: New article tracked: https://g1.globo.com/pe/caruaru-regiao/noticia/2020/10/14/recem-nascida-e-socorrida-por-policiais-militares-apos-engasgar-em-garanhuns.ghtml
-2020-10-14 12:31:06,751          root     INFO: New article tracked: https://g1.globo.com/mg/triangulo-mineiro/noticia/2020/10/14/quase-90-kg-de-drogas-sao-apreendidos-em-onibus-de-banda-na-br-365-em-patos-de-minas-quatro-suspeitos-foram-presos.ghtml
-2020-10-14 12:31:06,760          root     INFO: New article tracked: https://g1.globo.com/se/sergipe/noticia/2020/10/14/mulher-e-encontrada-morta-com-facadas-na-cabeca-no-municipio-de-graccho-cardoso.ghtml
-2020-10-14 12:31:06,773          root     INFO: New article tracked: https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/10/14/eleitores-idosos-viram-as-costas-para-trump.ghtml
-2020-10-14 12:31:06,784          root     INFO: New article tracked: https://g1.globo.com/mg/centro-oeste/noticia/2020/10/14/suspeito-de-matar-jovem-em-nova-serrana-e-detido-em-nova-lima.ghtml
-2020-10-14 12:31:06,793          root     INFO: New article tracked: https://g1.globo.com/df/distrito-federal/noticia/2020/10/14/ex-subsecretario-de-saude-do-df-eduardo-hage-deixa-penitenciaria-da-papuda-apos-habeas-corpus.ghtml
-2020-10-14 12:31:06,803          root     INFO: New article tracked: https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/14/ultimas-noticias-de-coronavirus-na-regiao-de-campinas-em-14-de-outubro.ghtml
-2020-10-14 12:31:06,813          root     INFO: New article tracked: https://g1.globo.com/to/tocantins/noticia/2020/10/14/em-novo-decreto-prefeitura-de-araguaina-libera-abertura-de-boates-e-realizacao-de-eventos-com-ate-300-pessoas.ghtml
-2020-10-14 12:31:06,821          root     INFO: New article tracked: https://g1.globo.com/sp/bauru-marilia/edicao/2020/10/14/videos-bom-dia-cidade-de-bauru-e-marilia-desta-quarta-feira-14-de-outubro.ghtml
-2020-10-14 12:31:06,830          root     INFO: New article tracked: https://g1.globo.com/sp/vale-do-paraiba-regiao/edicao/2020/10/14/videos-bom-dia-vanguarda-de-quarta-feira-14-de-outubro.ghtml
-2020-10-14 12:31:06,839          root     INFO: New article tracked: https://g1.globo.com/economia/noticia/2020/10/14/dolar.ghtml
-2020-10-14 12:31:06,849          root     INFO: New article tracked: https://g1.globo.com/al/alagoas/edicao/2020/10/14/videos-bom-dia-alagoas-de-quarta-feira-14-de-outubro.ghtml
-2020-10-14 12:31:06,858          root     INFO: New article tracked: https://g1.globo.com/economia/noticia/2020/10/14/setor-de-servicos-cresce-29percent-em-agosto-diz-ibge.ghtml
-2020-10-14 12:31:06,867          root     INFO: New article tracked: https://g1.globo.com/economia/noticia/2020/10/14/previa-aponta-nova-queda-da-incerteza-da-economia-mas-recuo-perde-forca.ghtml
-2020-10-14 12:31:06,884          root     INFO: New article tracked: https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/14/coronavirus-prefeituras-da-regiao-de-campinas-confirmam-novos-casos-nesta-quarta-14-de-outubro.ghtml
-2020-10-14 12:31:06,894          root     INFO: New article tracked: https://g1.globo.com/rn/rio-grande-do-norte/noticia/2020/10/14/operacoes-do-mp-e-pf-prendem-membros-de-faccao-criminosa-no-alto-oeste-potiguar.ghtml
-2020-10-14 12:31:06,904          root     INFO: New article tracked: https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2020/10/14/criancas-recebem-visitas-de-personagens-em-hospital-de-volta-redonda.ghtml
-2020-10-14 12:31:06,914          root     INFO: New article tracked: https://g1.globo.com/pa/para/noticia/2020/10/14/vazamento-de-agua-na-av-nazare-e-registrado-na-manha-desta-quarta-feira-em-belem.ghtml
-2020-10-14 12:31:06,923          root     INFO: New article tracked: https://g1.globo.com/ba/bahia/eleicoes/2020/noticia/2020/10/14/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-salvador-nesta-quarta-feira-14.ghtml
-2020-10-14 12:31:06,932          root     INFO: New article tracked: https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/hospital-santa-casa-em-cuiaba-planeja-retomar-cirurgias-eletivas-apos-7-meses-da-pandemia.ghtml
-2020-10-14 12:31:06,942          root     INFO: New article tracked: https://g1.globo.com/pe/petrolina-regiao/noticia/2020/10/14/covid-19-em-petrolina-e-regiao-confira-o-total-de-casos-curas-e-mortes-no-dia-14-de-outubro.ghtml
-2020-10-14 12:31:06,951          root     INFO: New article tracked: https://g1.globo.com/sc/santa-catarina/edicao/2020/10/14/videos-bom-dia-sc-de-quarta-feira-14-de-outubro.ghtml
-2020-10-14 12:31:06,961          root     INFO: New article tracked: https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/14/secretaria-de-saude-da-prazo-de-15-dias-para-apresentar-novo-projeto-para-cirurgias-bariatricas-no-estado.ghtml
-2020-10-14 12:31:06,970          root     INFO: New article tracked: https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/pantanal-de-mt-passa-de-22-milhoes-de-hectares-destruidos-pelas-queimadas.ghtml
-2020-10-14 12:31:06,980          root     INFO: New article tracked: https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/10/14/sem-fiscalizacao-no-de-cadastros-de-motoristas-de-aplicativo-cresce-476percent-em-sete-meses-em-limeira.ghtml
-2020-10-14 12:31:06,990          root     INFO: New article tracked: https://g1.globo.com/sp/sorocaba-jundiai/edicao/2020/10/14/videos-bom-dia-cidade-de-sorocaba-jundiai-e-itapetininga-desta-quarta-feira-14-de-outubro.ghtml
-2020-10-14 12:31:07,000          root     INFO: New article tracked: https://g1.globo.com/sp/sao-paulo/noticia/2020/10/14/policia-encontra-carro-usado-por-homem-que-matou-a-facadas-a-ex-mulher-e-a-ex-sogra-em-sp.ghtml
-2020-10-14 12:31:07,011          root     INFO: New article tracked: https://g1.globo.com/mg/sul-de-minas/edicao/2020/10/14/videos-bom-dia-cidade-sul-de-minas-de-quarta-feira-14-de-outubro.ghtml
-2020-10-14 12:31:07,029          root     INFO: New article tracked: https://g1.globo.com/sp/santos-regiao/mais-saude/noticia/2020/10/14/santos-sp-aprova-lei-que-permite-atendimento-separado-a-gravidas-que-sofrerem-aborto-ou-morte-fetal.ghtml
-2020-10-14 12:31:07,316          root     INFO: Removed https://g1.globo.com/to/tocantins/noticia/2020/10/14/trio-suspeito-de-assaltar-varios-moradores-usando-moto-furtada-e-preso-pela-pm.ghtml
-2020-10-14 12:31:07,319          root     INFO: Removed https://g1.globo.com/ba/bahia/noticia/2020/10/14/familia-denuncia-pms-por-agressao-e-invasao-de-residencia-sem-mandado-judicial-no-sul-da-ba.ghtml
-2020-10-14 12:31:07,321          root     INFO: Removed https://g1.globo.com/mundo/noticia/2020/10/14/por-que-um-acordo-de-paz-entre-israel-e-arabia-saudita-parece-mais-proximo-do-que-nunca.ghtml
-2020-10-14 12:31:07,324          root     INFO: Removed https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2020/noticia/2020/10/14/qual-o-principal-desafio-do-proximo-prefeito-da-sua-cidade-veja-como-votar.ghtml
-2020-10-14 12:31:07,327          root     INFO: Removed https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/10/14/cinco-homens-morrem-em-confronto-com-a-brigada-militar-em-caxias-do-sul.ghtml
-2020-10-14 12:31:07,329          root     INFO: Removed https://g1.globo.com/ba/bahia/edicao/2020/10/14/videos-bmd-de-quarta-feira-14-de-outubro-de-2020.ghtml
-2020-10-14 12:31:07,333          root     INFO: Removed https://g1.globo.com/mg/vales-mg/noticia/2020/10/14/adolescente-e-detida-vendendo-drogas-em-comicio-na-zona-rural-de-periquito.ghtml
-2020-10-14 12:31:07,336          root     INFO: Removed https://g1.globo.com/sp/bauru-marilia/noticia/2020/10/14/projeto-guri-tem-inscricoes-prorrogadas-com-vagas-para-14-cidades-do-centro-oeste-paulista.ghtml
-2020-10-14 12:31:07,339          root     INFO: Removed https://g1.globo.com/mg/minas-gerais/noticia/2020/10/14/fechado-ha-7-meses-restaurante-universitario-do-campus-saude-da-ufmg-e-reaberto-em-bh.ghtml
-2020-10-14 12:31:07,343          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/14/procon-movel-atende-na-praca-coronel-fernando-prestes-em-sorocaba.ghtml
-2020-10-14 12:31:07,347          root     INFO: Removed https://g1.globo.com/pb/paraiba/noticia/2020/10/14/pelo-menos-17-acidentes-sao-registrados-durante-feriadao-em-rodovias-da-paraiba-diz-prf.ghtml
-2020-10-14 12:31:07,350          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/14/motoristas-de-onibus-taxis-e-caminhoes-sao-testados-para-covid-19-em-piedade.ghtml
-2020-10-14 12:31:07,352          root     INFO: Removed https://g1.globo.com/mg/minas-gerais/noticia/2020/10/14/caminhao-tipo-guidaste-pega-fogo-na-rodovia-fernao-dias-em-contagem-grande-bh.ghtml
-2020-10-14 12:31:07,355          root     INFO: Removed https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-cuiaba-nesta-quarta-feira-14.ghtml
-2020-10-14 12:31:07,357          root     INFO: Removed https://g1.globo.com/rn/rio-grande-do-norte/noticia/2020/10/14/operacao-da-pf-combate-organizacao-criminosa-especializada-em-assaltos-a-carros-fortes-no-serido-potiguar.ghtml
-2020-10-14 12:31:07,359          root     INFO: Removed https://g1.globo.com/pe/pernambuco/noticia/2020/10/14/programa-juventude-presente-abre-inscricoes-para-instrutores-de-oficinas-para-jovens.ghtml
-2020-10-14 12:31:07,362          root     INFO: Removed https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/edicao/2020/10/14/videos-bom-dia-cidade-de-rio-preto-e-aracatuba-desta-quarta-feira-14-de-outubro.ghtml
-2020-10-14 12:31:07,365          root     INFO: Removed https://g1.globo.com/sp/piracicaba-regiao/edicao/2020/10/14/videos-bom-dia-cidade-regiao-de-piracicaba-desta-quarta-14-de-outubro.ghtml
-2020-10-14 12:31:07,367          root     INFO: Removed https://g1.globo.com/go/goias/noticia/2020/10/14/homem-e-preso-suspeito-de-matar-avo-tia-e-primo-durante-um-surto-em-santo-antonio-do-descoberto.ghtml
-2020-10-14 12:31:07,371          root     INFO: Removed https://g1.globo.com/go/goias/noticia/2020/10/14/operacao-da-policia-civil-mira-grupos-suspeitos-de-aplicar-golpes-e-extorquir-dinheiro-de-vitimas-pelo-whatsapp.ghtml
-2020-10-14 12:31:07,374          root     INFO: Removed https://g1.globo.com/pe/caruaru-regiao/noticia/2020/10/14/defesa-civil-alerta-para-baixa-umidade-do-ar-em-caruaru.ghtml
-2020-10-14 12:31:07,376          root     INFO: Removed https://g1.globo.com/pr/norte-noroeste/noticia/2020/10/14/tres-homens-sao-presos-em-flagrante-suspeitos-de-furtar-200-kg-de-pecas-de-bronze-de-tumulos-em-arapongas.ghtml
-2020-10-14 12:31:07,380          root     INFO: Removed https://g1.globo.com/pe/petrolina-regiao/noticia/2020/10/14/fique-por-dentro-das-vagas-de-emprego-disponiveis-nesta-sexta-09-em-salgueiro.ghtml
-2020-10-14 12:31:07,383          root     INFO: Removed https://g1.globo.com/pop-arte/noticia/2020/10/14/filarmonica-de-nova-york-cancela-apresentacoes-ate-junho-de-2021-devido-a-pandemia.ghtml
-2020-10-14 12:31:07,386          root     INFO: Removed https://g1.globo.com/pa/para/noticia/2020/10/14/psicologa-fala-sobre-a-importancia-da-crianca-brincar-no-quadro-pequeninos.ghtml
-2020-10-14 12:31:07,389          root     INFO: Removed https://g1.globo.com/pa/para/noticia/2020/10/14/extracao-ilegal-de-manganes-e-alvo-de-nova-operacao-da-policia-federal-no-sudeste-do-para.ghtml
-2020-10-14 12:31:07,392          root     INFO: Removed https://g1.globo.com/sc/santa-catarina/noticia/2020/10/14/policia-mira-organizacoes-criminosas-de-trafico-de-drogas-em-operacao-na-grande-florianopolis.ghtml
-2020-10-14 12:31:07,396          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/14/com-menor-demanda-prefeitura-reduz-numero-de-leitos-para-covid-19-no-hospital-sao-vicente.ghtml
-2020-10-14 12:31:07,399          root     INFO: Removed https://g1.globo.com/sp/sao-carlos-regiao/edicao/2020/10/14/videos-bom-dia-cidade-de-sao-carlos-de-14-de-outubro-de-2020.ghtml
-2020-10-14 12:31:07,402          root     INFO: Removed https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/14/morador-do-tanque-encontra-jacare-na-rua-e-leva-para-casa-com-medo-de-atropelamento.ghtml
-2020-10-14 12:31:07,405          root     INFO: Removed https://g1.globo.com/mg/minas-gerais/noticia/2020/10/14/duas-criancas-sao-atropeladas-apos-homem-roubar-carro-e-fugir-para-o-bairro-jardim-laguna-na-grande-bh.ghtml
-2020-10-14 12:31:07,408          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/14/operacao-peregrino-policia-civil-e-gaeco-cumprem-mandados-em-investigacao-contra-golpes-pela-internet.ghtml
-2020-10-14 12:31:07,411          root     INFO: Removed https://g1.globo.com/go/goias/noticia/2020/10/14/padrinho-fala-sobre-cantor-sertanejo-baleado-por-amigo-em-goiania-nao-morreu-sozinho.ghtml
-2020-10-14 12:31:07,413          root     INFO: Removed https://g1.globo.com/pa/para/noticia/2020/10/14/policia-federal-faz-operacao-no-pa-de-combate-a-pornografia-infantil-e-pedofilia-na-internet.ghtml
-2020-10-14 12:31:07,416          root     INFO: Removed https://g1.globo.com/sp/sao-paulo/noticia/2020/10/14/tres-homens-sao-presos-durante-tentativa-de-assalto-a-farmacia-na-zona-sul-de-sp.ghtml
-2020-10-14 12:31:07,418          root     INFO: Removed https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2020/10/14/policia-faz-operacao-contra-furto-de-gado-na-regiao-noroeste-paulista.ghtml
-2020-10-14 12:31:07,421          root     INFO: Removed https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2020/10/14/condutor-fica-em-estado-grave-e-anhanguera-tem-interdicao-apos-batida-de-caminhoes-com-etanol-e-cana-em-jardinopolis.ghtml
-2020-10-14 12:31:07,429          root     INFO: Removed https://g1.globo.com/sc/santa-catarina/noticia/2020/10/14/mpt-entra-com-acao-contra-a-jbs-por-omissao-de-medidas-de-prevencao-a-covid-19-em-sc.ghtml
-2020-10-14 12:31:07,431          root     INFO: Removed https://g1.globo.com/mundo/eleicoes-nos-eua/2020/noticia/2020/10/14/partido-republicano-espalhou-urnas-piratas-pela-california.ghtml
-2020-10-14 12:31:07,436          root     INFO: Removed https://g1.globo.com/sp/bauru-marilia/noticia/2020/10/14/programa-estadual-tem-vagas-abertas-para-cursos-tecnicos-gratuitos-na-regiao-de-bauru.ghtml
-2020-10-14 12:31:07,437          root     INFO: Finished script
+2020-10-14 12:49:57,781          root     INFO: Starting script
+2020-10-14 12:49:58,996          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-14 12:50:00,117          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-14 12:50:00,962          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-14 12:50:02,034          root     INFO: Parsing G1
+2020-10-14 12:50:02,448          root     INFO: Parsing R7 - Brasil
+2020-10-14 12:50:05,825          root     INFO: New article tracked: https://g1.globo.com/go/goias/noticia/2020/10/14/justica-adia-juri-popular-de-vigilante-acusado-de-matar-porteiro-apos-discussao-por-bolinha-de-papel-em-itumbiara.ghtml
+2020-10-14 12:50:05,837          root     INFO: New article tracked: https://g1.globo.com/sp/santos-regiao/noticia/2020/10/14/homem-morre-apos-trocar-tiros-com-a-pm-em-comunidade-de-praia-grande-sp.ghtml
+2020-10-14 12:50:05,845          root     INFO: New article tracked: https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/14/universidade-de-campinas-promove-palestra-online-sobre-motivacao-com-surfista-campea-pan-americana.ghtml
+2020-10-14 12:50:05,857          root     INFO: New article tracked: https://g1.globo.com/bemestar/ep/alivio-da-alergia-das-criancas/noticia/2020/10/14/como-aliviar-os-sintomas-da-alergia-sem-prejudicar-o-sono-e-as-atividades-do-seu-filho-no-dia-seguinte.ghtml
+2020-10-14 12:50:05,868          root     INFO: New article tracked: https://g1.globo.com/pa/para/noticia/2020/10/14/prodepa-realiza-inscricao-de-processo-seletivo-para-contratacao-de-temporarios-ate-esta-quarta-feira.ghtml
+2020-10-14 12:50:05,880          root     INFO: New article tracked: https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/10/14/moradores-de-santa-barbara-doeste-reclamam-de-vazamento-de-agua-em-buraco-no-jardim-europa.ghtml
+2020-10-14 12:50:05,889          root     INFO: New article tracked: https://g1.globo.com/ba/bahia/noticia/2020/10/14/abastecimento-de-agua-e-interrompido-em-bairros-de-lauro-de-freitas-para-manutencao-emergencial.ghtml
+2020-10-14 12:50:05,896          root     INFO: New article tracked: https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/vigilante-morre-ao-ser-atropelado-por-carro-quando-atravessava-avenida-em-cuiaba.ghtml
+2020-10-14 12:50:05,903          root     INFO: New article tracked: https://g1.globo.com/politica/noticia/2020/10/14/ministro-apresenta-projeto-e-diz-que-privatizacao-dos-correios-pode-ocorrer-em-2021.ghtml
+2020-10-14 12:50:05,910          root     INFO: New article tracked: https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2020/10/14/acidente-danifica-estrutura-e-interdita-viaduto-em-trecho-da-br-153-em-icem.ghtml
+2020-10-14 12:50:05,919          root     INFO: New article tracked: https://g1.globo.com/pe/caruaru-regiao/noticia/2020/10/14/bombeiros-estimam-que-incendio-em-reserva-ambiental-de-serra-talhada-seja-controlado-nesta-quarta-feira-14.ghtml
+2020-10-14 12:50:05,926          root     INFO: New article tracked: https://g1.globo.com/mundo/noticia/2020/10/14/papa-francisco-mantem-distancia-em-audiencia-como-precaucao-contra-covid-19.ghtml
+2020-10-14 12:50:05,936          root     INFO: New article tracked: https://g1.globo.com/pa/santarem-regiao/noticia/2020/10/14/confirmados-mais-42-casos-positivos-de-covid-19-em-santarem-23-pacientes-seguem-internados.ghtml
+2020-10-14 12:50:05,945          root     INFO: New article tracked: https://g1.globo.com/pe/pernambuco/noticia/2020/10/14/mutirao-oferece-negociacao-de-dividas-para-moradores-do-cabo-de-santo-agostinho.ghtml
+2020-10-14 12:50:05,952          root     INFO: New article tracked: https://g1.globo.com/es/espirito-santo/noticia/2020/10/14/policia-prende-suspeito-de-esfaquear-balconista-durante-assalto-em-vitoria.ghtml
+2020-10-14 12:50:05,963          root     INFO: New article tracked: https://g1.globo.com/sp/bauru-marilia/noticia/2020/10/14/policia-apreende-maconha-e-skunk-no-fundo-falso-de-caminhonete-em-santa-cruz-do-rio-pardo.ghtml
+2020-10-14 12:50:05,971          root     INFO: New article tracked: https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/14/moradores-do-pechincha-na-zona-oeste-sofrem-com-roubos-de-cabos-de-internet.ghtml
+2020-10-14 12:50:05,992          root     INFO: New article tracked: https://g1.globo.com/economia/noticia/2020/10/14/por-que-taxar-mais-ricos-pode-ser-saida-para-paises-endividados-apos-pandemia-na-visao-do-fmi.ghtml
+2020-10-14 12:50:06,000          root     INFO: New article tracked: https://g1.globo.com/sp/itapetininga-regiao/eleicoes/2020/noticia/2020/10/14/eleicoes-2020-os-planos-dos-candidatos-a-prefeito-de-itapetininga-para-a-educacao.ghtml
+2020-10-14 12:50:06,008          root     INFO: New article tracked: https://g1.globo.com/sp/sorocaba-jundiai/noticia/2020/10/14/sorocaba-ja-registrou-mais-de-18-mil-casos-de-dengue-em-2020.ghtml
+2020-10-14 12:50:06,035          root     INFO: Central de Flagrantes retoma atendimento após 20 dias fechada devido aos servidores infectados <del>pela</del> <ins>pelo</ins> coronavírus em Várzea Grande (MT)
+2020-10-14 12:50:07,914          root     INFO: Media ready with ids: 1316360638113943553
+2020-10-14 12:50:07,915          root     INFO: Text to tweet: Modificação do Título
+2020-10-14 12:50:07,915          root     INFO: Article id: https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/central-de-flagrantes-retoma-atendimento-apos-20-dias-fechada-devido-aos-servidores-infectados-pela-coronavirus-em-varzea-grande-mt.ghtml
+2020-10-14 12:50:07,920          root     INFO: Tweeting url: https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/central-de-flagrantes-retoma-atendimento-apos-20-dias-fechada-devido-aos-servidores-infectados-pela-coronavirus-em-varzea-grande-mt.ghtml
+2020-10-14 12:50:08,202          root     INFO: Replying to: 1316360640307646467
+2020-10-14 12:50:08,476          root     INFO: Id to store: 1316360641272258561
+2020-10-14 12:50:08,650          root     INFO: O corpo foi levado para o Instituto Médico Legal (IML) na manhã desta quarta-feira (14). Uma mulher de 37 anos foi encontrada morta com facadas na cabeça na noite dessa terça-feira (13), ao lado da residência onde morava, no povoado Manuel Velho, no município de Graccho Cardoso. A Secretaria de Segurança Pública informou que quando a Polícia Militar encontrou a vítima ela já estava sem vida. O corpo foi levado para o Instituto Médico Legal (IML), em Aracaju, na manhã desta quarta-feira (14). <ins>Ainda não há informações sobre suspeitos.</ins> A Polícia Civil está investigando o caso. <ins>Denúncias podem ser feitas através dos telefones 181 ou 190.</ins>
+2020-10-14 12:50:10,594          root     INFO: Media ready with ids: 1316360649375703042
+2020-10-14 12:50:10,595          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-14 12:50:10,595          root     INFO: Article id: https://g1.globo.com/se/sergipe/noticia/2020/10/14/mulher-e-encontrada-morta-com-facadas-na-cabeca-no-municipio-de-graccho-cardoso.ghtml
+2020-10-14 12:50:10,599          root     INFO: Tweeting url: https://g1.globo.com/se/sergipe/noticia/2020/10/14/mulher-e-encontrada-morta-com-facadas-na-cabeca-no-municipio-de-graccho-cardoso.ghtml
+2020-10-14 12:50:10,807          root     INFO: Replying to: 1316360651292499968
+2020-10-14 12:50:11,094          root     INFO: Id to store: 1316360652164923393
+2020-10-14 12:50:11,401          root     INFO: Removed https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/10/14/secretaria-de-saude-da-prazo-de-15-dias-para-apresentar-novo-projeto-para-cirurgias-bariatricas-no-estado.ghtml
+2020-10-14 12:50:11,404          root     INFO: Removed https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/hospital-santa-casa-em-cuiaba-planeja-retomar-cirurgias-eletivas-apos-7-meses-da-pandemia.ghtml
+2020-10-14 12:50:11,406          root     INFO: Removed https://g1.globo.com/economia/noticia/2020/10/14/dolar.ghtml
+2020-10-14 12:50:11,408          root     INFO: Removed https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2020/10/14/criancas-recebem-visitas-de-personagens-em-hospital-de-volta-redonda.ghtml
+2020-10-14 12:50:11,410          root     INFO: Removed https://g1.globo.com/sp/campinas-regiao/noticia/2020/10/14/coronavirus-prefeituras-da-regiao-de-campinas-confirmam-novos-casos-nesta-quarta-14-de-outubro.ghtml
+2020-10-14 12:50:11,412          root     INFO: Removed https://g1.globo.com/sp/santos-regiao/mais-saude/noticia/2020/10/14/santos-sp-aprova-lei-que-permite-atendimento-separado-a-gravidas-que-sofrerem-aborto-ou-morte-fetal.ghtml
+2020-10-14 12:50:11,414          root     INFO: Removed https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/10/14/sem-fiscalizacao-no-de-cadastros-de-motoristas-de-aplicativo-cresce-476percent-em-sete-meses-em-limeira.ghtml
+2020-10-14 12:50:11,417          root     INFO: Removed https://g1.globo.com/economia/noticia/2020/10/14/previa-aponta-nova-queda-da-incerteza-da-economia-mas-recuo-perde-forca.ghtml
+2020-10-14 12:50:11,419          root     INFO: Removed https://g1.globo.com/mg/sul-de-minas/edicao/2020/10/14/videos-bom-dia-cidade-sul-de-minas-de-quarta-feira-14-de-outubro.ghtml
+2020-10-14 12:50:11,421          root     INFO: Removed https://g1.globo.com/pe/petrolina-regiao/noticia/2020/10/14/covid-19-em-petrolina-e-regiao-confira-o-total-de-casos-curas-e-mortes-no-dia-14-de-outubro.ghtml
+2020-10-14 12:50:11,423          root     INFO: Removed https://g1.globo.com/al/alagoas/edicao/2020/10/14/videos-bom-dia-alagoas-de-quarta-feira-14-de-outubro.ghtml
+2020-10-14 12:50:11,426          root     INFO: Removed https://g1.globo.com/ba/bahia/eleicoes/2020/noticia/2020/10/14/eleicoes-2020-agenda-dos-candidatos-a-prefeito-de-salvador-nesta-quarta-feira-14.ghtml
+2020-10-14 12:50:11,428          root     INFO: Removed https://g1.globo.com/sc/santa-catarina/edicao/2020/10/14/videos-bom-dia-sc-de-quarta-feira-14-de-outubro.ghtml
+2020-10-14 12:50:11,430          root     INFO: Removed https://g1.globo.com/mt/mato-grosso/noticia/2020/10/14/pantanal-de-mt-passa-de-22-milhoes-de-hectares-destruidos-pelas-queimadas.ghtml
+2020-10-14 12:50:11,432          root     INFO: Removed https://g1.globo.com/pa/para/noticia/2020/10/14/vazamento-de-agua-na-av-nazare-e-registrado-na-manha-desta-quarta-feira-em-belem.ghtml
+2020-10-14 12:50:11,434          root     INFO: Removed https://g1.globo.com/sp/sao-paulo/noticia/2020/10/14/policia-encontra-carro-usado-por-homem-que-matou-a-facadas-a-ex-mulher-e-a-ex-sogra-em-sp.ghtml
+2020-10-14 12:50:11,437          root     INFO: Removed https://g1.globo.com/sp/vale-do-paraiba-regiao/edicao/2020/10/14/videos-bom-dia-vanguarda-de-quarta-feira-14-de-outubro.ghtml
+2020-10-14 12:50:11,439          root     INFO: Removed https://g1.globo.com/economia/noticia/2020/10/14/setor-de-servicos-cresce-29percent-em-agosto-diz-ibge.ghtml
+2020-10-14 12:50:11,441          root     INFO: Removed https://g1.globo.com/rn/rio-grande-do-norte/noticia/2020/10/14/operacoes-do-mp-e-pf-prendem-membros-de-faccao-criminosa-no-alto-oeste-potiguar.ghtml
+2020-10-14 12:50:11,444          root     INFO: Removed https://g1.globo.com/sp/sorocaba-jundiai/edicao/2020/10/14/videos-bom-dia-cidade-de-sorocaba-jundiai-e-itapetininga-desta-quarta-feira-14-de-outubro.ghtml
+2020-10-14 12:50:11,446          root     INFO: Removed https://g1.globo.com/sp/bauru-marilia/edicao/2020/10/14/videos-bom-dia-cidade-de-bauru-e-marilia-desta-quarta-feira-14-de-outubro.ghtml
+2020-10-14 12:50:11,448          root     INFO: Finished script
