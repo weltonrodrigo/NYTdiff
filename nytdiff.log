@@ -1,6 +1,24 @@
-2020-10-15 19:28:40,861          root     INFO: Starting script
-2020-10-15 19:28:41,691          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 19:28:42,362          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 19:28:43,033          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 19:28:43,246          root     INFO: Parsing R7 - Brasil
-2020-10-15 19:28:46,843          root     INFO: Finished script
+2020-10-15 19:47:19,264          root     INFO: Starting script
+2020-10-15 19:47:20,102          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-15 19:47:20,786          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-15 19:47:21,469          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-15 19:47:21,723          root     INFO: Parsing R7 - Brasil
+2020-10-15 19:47:23,114          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3579
+2020-10-15 19:47:23,124          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/barroso-do-stf-afasta-do-cargo-por-90-dias-senador-flagrado-com-dinheiro-entre-as-nadegas.shtml
+2020-10-15 19:47:23,131          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/um-dia-apos-entrevista-sem-mascara-ministro-das-comunicacoes-anuncia-ter-covid.shtml
+2020-10-15 19:47:23,201          root     INFO: <del>Candidata à Prefeitura de Porto Alegre,</del> Juliana Brizola <del>participa da</del> <ins>critica PT e diz que PDT se fortaleceu com Ciro Gomes, em</ins> sabatina Folha/UOL
+2020-10-15 19:47:25,054          root     INFO: Media ready with ids: 1316828039431565312
+2020-10-15 19:47:25,054          root     INFO: Text to tweet: Modificação do Título
+2020-10-15 19:47:25,054          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-porto-alegre-juliana-brizola-participa-da-sabatina-folhauol.shtml
+2020-10-15 19:47:25,060          root     INFO: Replying to: 1316821712005222400
+2020-10-15 19:47:25,301          root     INFO: Id to store: 1316828041256087555
+2020-10-15 19:47:25,312          root     INFO: A <del>Folha, em parceria com o UOL, sabatina, nesta quinta-feira (15), Juliana Brizola,</del> candidata <del>pelo</del> <ins>do</ins> PDT à Prefeitura de Porto <del>Alegre.</del> <ins>Alegre, Juliana Brizola, culpou o PT pela falta de união da esquerda em torno de uma candidatura única na capital gaúcha.</ins> Leia mais (10/15/2020 - 13h37)
+2020-10-15 19:47:27,038          root     INFO: Media ready with ids: 1316828047690129411
+2020-10-15 19:47:27,039          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-15 19:47:27,039          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-porto-alegre-juliana-brizola-participa-da-sabatina-folhauol.shtml
+2020-10-15 19:47:27,044          root     INFO: Replying to: 1316828041256087555
+2020-10-15 19:47:27,261          root     INFO: Id to store: 1316828049447497728
+2020-10-15 19:47:29,646          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministros-do-stf-criticam-fux-mas-desaprovam-ato-de-marco-aurelio-de-soltar-chefe-do-pcc.shtml
+2020-10-15 19:47:29,650          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/russomanno-avanca-entre-eleitores-mais-jovens-covas-vai-de-20-para-14.shtml
+2020-10-15 19:47:29,653          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-a-prefeitura-de-bh-erram-sobre-pandemia-e-educacao-em-sabatinas.shtml
+2020-10-15 19:47:29,653          root     INFO: Finished script
