@@ -1,14 +1,9 @@
-2020-10-15 09:58:09,799          root     INFO: Starting script
-2020-10-15 09:58:10,741          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 09:58:11,409          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 09:58:12,081          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 09:58:12,342          root     INFO: Parsing R7 - Brasil
-2020-10-15 09:58:13,360          root     INFO: <del>Escute, eu estou falando</del> <ins>Quando uma mulher fala, espere a sua vez</ins>
-2020-10-15 09:58:15,166          root     INFO: Media ready with ids: 1316679771653316608
-2020-10-15 09:58:15,167          root     INFO: Text to tweet: Modificação do Título
-2020-10-15 09:58:15,167          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2020/10/escute-eu-estou-falando.shtml
-2020-10-15 09:58:15,171          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2020/10/escute-eu-estou-falando.shtml
-2020-10-15 09:58:15,335          root     INFO: Replying to: 1316679772982906880
-2020-10-15 09:58:15,544          root     INFO: Id to store: 1316679773645606913
-2020-10-15 09:58:18,884          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-placar-de-6x0-stf-retoma-julgamento-da-prisao-de-andre-do-rap-15102020
-2020-10-15 09:58:19,116          root     INFO: Finished script
+2020-10-15 10:25:13,833          root     INFO: Starting script
+2020-10-15 10:25:14,655          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-15 10:25:15,331          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-15 10:25:15,999          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-15 10:25:16,290          root     INFO: Parsing R7 - Brasil
+2020-10-15 10:25:17,672          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatas-major-denice-de-salvador-e-juliana-brizola-de-porto-alegre-participam-da-sabatina-folhauol.shtml
+2020-10-15 10:25:20,014          root     INFO: Removed http://noticias.r7.com/brasil/com-placar-de-6x0-stf-retoma-julgamento-da-prisao-de-andre-do-rap-15102020
+2020-10-15 10:25:20,017          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/10/bolsopetismo-e-as-criaturas-do-pantano.shtml
+2020-10-15 10:25:20,017          root     INFO: Finished script
