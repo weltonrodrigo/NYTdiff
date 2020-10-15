@@ -1,8 +1,19 @@
-2020-10-15 18:58:00,328          root     INFO: Starting script
-2020-10-15 18:58:01,436          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 18:58:02,273          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 18:58:03,110          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 18:58:03,407          root     INFO: Parsing R7 - Brasil
-2020-10-15 18:58:04,858          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/sem-debates-na-tv-candidatos-a-prefeitura-de-belo-horizonte-se-articulam-em-busca-de-espaco.shtml
-2020-10-15 18:58:07,440          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministerio-da-economia-ve-problemas-legais-em-concurso-da-pf.shtml
-2020-10-15 18:58:07,440          root     INFO: Finished script
+2020-10-15 19:22:08,583          root     INFO: Starting script
+2020-10-15 19:22:09,497          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-15 19:22:10,160          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-15 19:22:10,822          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-15 19:22:11,030          root     INFO: Parsing R7 - Brasil
+2020-10-15 19:22:12,211          root     INFO: <del>Candidata à Prefeitura de Porto Alegre,</del> Juliana Brizola <del>participa da</del> <ins>critica PT e diz que PDT se fortaleceu com Ciro Gomes, em</ins> sabatina <ins>da</ins> Folha/UOL
+2020-10-15 19:22:13,998          root     INFO: Media ready with ids: 1316821701724954626
+2020-10-15 19:22:13,999          root     INFO: Text to tweet: Modificação do Título
+2020-10-15 19:22:13,999          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-porto-alegre-juliana-brizola-participa-da-sabatina-folhauol.shtml
+2020-10-15 19:22:14,003          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-porto-alegre-juliana-brizola-participa-da-sabatina-folhauol.shtml
+2020-10-15 19:22:14,182          root     INFO: Replying to: 1316821703314604035
+2020-10-15 19:22:14,424          root     INFO: Id to store: 1316821704149217287
+2020-10-15 19:22:14,428          root     INFO: A <del>Folha, em parceria com o UOL, sabatina, nesta quinta-feira (15), Juliana Brizola,</del> candidata <del>pelo</del> <ins>do</ins> PDT à Prefeitura de Porto <del>Alegre.</del> <ins>Alegre, Juliana Brizola, culpou o PT pela falta de união da esquerda em torno de uma candidatura única na capital gaúcha.</ins> Leia mais (10/15/2020 - 13h37)
+2020-10-15 19:22:16,073          root     INFO: Media ready with ids: 1316821710600011778
+2020-10-15 19:22:16,073          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-15 19:22:16,073          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-porto-alegre-juliana-brizola-participa-da-sabatina-folhauol.shtml
+2020-10-15 19:22:16,077          root     INFO: Replying to: 1316821704149217287
+2020-10-15 19:22:16,299          root     INFO: Id to store: 1316821712005222400
+2020-10-15 19:22:18,203          root     INFO: Finished script
