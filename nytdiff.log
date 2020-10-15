@@ -1,30 +1,6 @@
-2020-10-15 23:22:37,501          root     INFO: Starting script
-2020-10-15 23:22:38,438          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 23:22:39,121          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 23:22:39,800          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 23:22:39,954          root     INFO: Parsing R7 - Brasil
-2020-10-15 23:22:41,409          root     INFO: Os candidatos Celso Russomanno <del>(Republicanos)</del> <ins>(Republicanos), com 25% das intenções de voto,</ins> e Bruno Covas <del>(PSDB) lideram a</del> <ins>(PSDB), com 22%, estão tecnicamente empatados na</ins> disputa pela Prefeitura de São <del>Paulo com 25% e 22% das intenções de voto, respectivamente. Como a</del> <ins>Paulo, aponta pesquisa Ibope. A</ins> margem de erro é de <del>quatro</del> <ins>três</ins> pontos percentuais para mais ou para <del>menos, os dois estão tecnicamente empatados.</del> <ins>menos.</ins> Leia mais (10/15/2020 - 19h41)
-2020-10-15 23:22:43,670          root     INFO: Media ready with ids: 1316882223803424770
-2020-10-15 23:22:43,670          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-15 23:22:43,670          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/russomanno-e-covas-empatam-no-1o-lugar-na-corrida-para-a-prefeitura-de-sp-segundo-ibope.shtml
-2020-10-15 23:22:43,677          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/russomanno-e-covas-empatam-no-1o-lugar-na-corrida-para-a-prefeitura-de-sp-segundo-ibope.shtml
-2020-10-15 23:22:43,846          root    ERROR: Tweet text failed
-Traceback (most recent call last):
-  File "nytdiff.py", line 131, in tweet_text
-    tweet_id = self.api.update_status(status=text)
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/api.py", line 215, in update_status
-    )(*args, **kwargs)
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/binder.py", line 252, in _call
-    return method.execute()
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/binder.py", line 234, in execute
-    raise TweepError(error_msg, resp, api_code=api_error_code)
-tweepy.error.TweepError: [{'message': 'Internal error', 'code': 131}]
-2020-10-15 23:22:43,848          root    ERROR: Error tweeting for article_id:
-'bool' object has no attribute 'id'
-Traceback (most recent call last):
-  File "nytdiff.py", line 151, in tweet
-    reply_to = tweet.id if not TESTING else time.time()
-AttributeError: 'bool' object has no attribute 'id'
-2020-10-15 23:22:45,053          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/10/chuva-volta-ao-pantanal-mas-volume-ainda-e-insuficiente-diz-ibama.shtml
-2020-10-15 23:22:46,331          root     INFO: Finished script
-<class 'tweepy.error.TweepError'>
+2020-10-15 23:30:05,794          root     INFO: Starting script
+2020-10-15 23:30:06,934          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-15 23:30:07,790          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-15 23:30:08,645          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-15 23:30:08,972          root     INFO: Parsing R7 - Brasil
+2020-10-15 23:30:13,305          root     INFO: Finished script
