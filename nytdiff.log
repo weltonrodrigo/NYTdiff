@@ -1,16 +1,28 @@
-2020-10-15 02:47:08,941          root     INFO: Starting script
-2020-10-15 02:47:10,041          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 02:47:10,871          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 02:47:11,704          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 02:47:11,947          root     INFO: Parsing R7 - Brasil
-2020-10-15 02:47:12,164          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/bolsonaro-transforma-estrutura-do-governo-em-aparelho-politico.shtml
-2020-10-15 02:47:13,310          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/gleisi-e-samia-bomfim-fazem-teste-para-covid-19-antes-de-viajar-para-acompanhar-eleicao-na-bolivia.shtml
-2020-10-15 02:47:13,402          root     INFO: Bruno Covas <del>atrai Soninha Francine, chancela desafeto de</del> <ins>se alia a políticos que atritaram com</ins> Doria e marca distância <del>para o</del> <ins>do</ins> governador <ins>de SP</ins>
-2020-10-15 02:47:15,357          root     INFO: Media ready with ids: 1316571307421716480
-2020-10-15 02:47:15,357          root     INFO: Text to tweet: Modificação do Título
-2020-10-15 02:47:15,357          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/bruno-covas-atrai-soninha-francine-chancela-desafeto-de-doria-e-marca-distancia-para-o-governador.shtml
-2020-10-15 02:47:15,363          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/bruno-covas-atrai-soninha-francine-chancela-desafeto-de-doria-e-marca-distancia-para-o-governador.shtml
-2020-10-15 02:47:15,634          root     INFO: Replying to: 1316571309464260608
-2020-10-15 02:47:15,940          root     INFO: Id to store: 1316571310475087873
-2020-10-15 02:47:18,342          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/pf-vai-usar-drones-para-flagrar-boca-de-urna-na-eleicao.shtml
-2020-10-15 02:47:18,343          root     INFO: Finished script
+2020-10-15 02:57:56,807          root     INFO: Starting script
+2020-10-15 02:57:57,631          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-15 02:57:58,296          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-15 02:57:58,978          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-15 02:57:59,183          root     INFO: Parsing R7 - Brasil
+2020-10-15 02:57:59,404          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/10/justica-condena-aprosoja-e-produtores-de-mt-pelo-plantio-de-soja-fora-do-calendario.shtml
+2020-10-15 02:57:59,414          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/10/menos-conectada-mulher-do-campo-enfrenta-barreiras.shtml
+2020-10-15 02:58:03,031          root     INFO: Removed http://noticias.r7.com/brasil/fux-e-homenageado-por-intensificar-relacoes-entre-brasil-e-israel-14102020
+2020-10-15 02:58:03,034          root     INFO: Removed http://noticias.r7.com/brasil/comissao-da-reforma-tributaria-prorroga-trabalho-por-dois-meses-14102020
+2020-10-15 02:58:03,037          root     INFO: Removed http://noticias.r7.com/brasil/governo-encaminha-projeto-para-privatizacao-dos-correios-em-2021-14102020
+2020-10-15 02:58:03,039          root     INFO: Removed http://noticias.r7.com/brasil/governo-lanca-programa-para-criar-banco-de-genoma-dos-brasileiros-14102020
+2020-10-15 02:58:03,042          root     INFO: Removed http://noticias.r7.com/brasil/policia-faz-operacao-contra-grupo-que-furtava-combustivel-de-dutos-14102020
+2020-10-15 02:58:03,044          root     INFO: Removed http://noticias.r7.com/brasil/seguranca-de-luiz-fux-e-reforcada-apos-caso-andre-do-rap-14102020
+2020-10-15 02:58:03,046          root     INFO: Removed http://noticias.r7.com/brasil/mourao-tem-que-verificar-preso-antes-de-conceder-habeas-corpus-14102020
+2020-10-15 02:58:03,049          root     INFO: Removed http://noticias.r7.com/brasil/irmaos-batista-e-governador-de-ms-sao-denunciados-por-corrupcao-14102020
+2020-10-15 02:58:03,051          root     INFO: Removed http://noticias.r7.com/brasil/fachin-mantem-cassacao-de-indulto-natalino-de-ex-tesoureiro-do-pt-14102020
+2020-10-15 02:58:03,053          root     INFO: Removed http://noticias.r7.com/brasil/organizacao-mundial-das-suposicoes-pula-fora-mais-uma-vez-14102020
+2020-10-15 02:58:03,055          root     INFO: Removed http://noticias.r7.com/brasil/senador-vai-ao-stf-contra-sabatina-de-indicado-para-comandar-o-tcu-14102020
+2020-10-15 02:58:03,057          root     INFO: Removed http://noticias.r7.com/brasil/stf-forma-maioria-pela-volta-de-andre-do-rap-a-cadeia-14102020
+2020-10-15 02:58:03,059          root     INFO: Removed http://noticias.r7.com/brasil/alexandre-de-moraes-vota-para-confirmar-prisao-de-andre-do-rap-14102020
+2020-10-15 02:58:03,061          root     INFO: Removed http://noticias.r7.com/brasil/pf-prende-suspeitos-de-explodirem-caixas-eletronicos-em-goias-14102020
+2020-10-15 02:58:03,062          root     INFO: Removed http://noticias.r7.com/brasil/stj-determina-soltura-de-presos-que-nao-conseguiram-pagar-fianca-14102020
+2020-10-15 02:58:03,064          root     INFO: Removed http://noticias.r7.com/brasil/governo-prorroga-ate-abril-atuacao-da-forca-nacional-na-amazonia-14102020
+2020-10-15 02:58:03,066          root     INFO: Removed http://noticias.r7.com/brasil/relator-da-parecer-favoravel-a-indicacao-de-kassio-nunes-ao-stf-14102020
+2020-10-15 02:58:03,068          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-economia-esta-se-recuperando-melhor-que-o-esperado-14102020
+2020-10-15 02:58:03,072          root     INFO: Removed http://noticias.r7.com/brasil/stf-comeca-a-julgar-caso-andre-do-rap-e-prazo-para-rever-prisoes-siga-14102020
+2020-10-15 02:58:03,074          root     INFO: Removed http://noticias.r7.com/brasil/fux-diz-que-andre-do-rap-debochou-da-justica-ao-dar-endereco-falso-14102020
+2020-10-15 02:58:03,074          root     INFO: Finished script
