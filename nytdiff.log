@@ -1,8 +1,10 @@
-2020-10-15 14:57:53,188          root     INFO: Starting script
-2020-10-15 14:57:54,224          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 14:57:55,092          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 14:57:55,945          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 14:57:56,196          root     INFO: Parsing R7 - Brasil
-2020-10-15 14:57:57,626          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/secretarios-pedem-em-carta-que-pazuello-inclua-vacina-do-butantan-em-cronograma-nacional.shtml
-2020-10-15 14:58:00,138          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/longe-da-prefeitura-do-rio-ha-32-anos-esquerda-carioca-nao-supera-divisao.shtml
-2020-10-15 14:58:00,139          root     INFO: Finished script
+2020-10-15 15:27:02,693          root     INFO: Starting script
+2020-10-15 15:27:03,605          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-15 15:27:04,284          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-15 15:27:04,955          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-15 15:27:05,154          root     INFO: Parsing R7 - Brasil
+2020-10-15 15:27:06,333          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/planalto-ve-candidatura-russomanno-desorganizada-e-suspeita-de-boicote-interno.shtml
+2020-10-15 15:27:06,342          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sem-detalhar-custos-candidatos-em-belem-propoem-ar-condicionado-em-onibus-metro-e-bilhete-unico.shtml
+2020-10-15 15:27:08,749          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/com-promessas-de-meritocracia-e-choque-de-gestao-sp-tem-recorde-de-candidatos-liberais.shtml
+2020-10-15 15:27:08,751          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-aproveitam-cercadinho-do-alvorada-para-fazer-de-bolsonaro-cabo-eleitoral.shtml
+2020-10-15 15:27:08,752          root     INFO: Finished script
