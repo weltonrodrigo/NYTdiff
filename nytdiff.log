@@ -1,8 +1,15 @@
-2020-10-15 16:59:19,353          root     INFO: Starting script
-2020-10-15 16:59:20,479          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 16:59:21,314          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 16:59:22,154          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 16:59:22,428          root     INFO: Parsing R7 - Brasil
-2020-10-15 16:59:23,853          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/relembre-flagras-de-dinheiro-escondido-de-bunker-biblia-e-cueca-ate-entre-as-nadegas.shtml
-2020-10-15 16:59:26,359          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/assessor-e-amigo-de-bolsonaro-almirante-ganha-r-20-mil-extra-de-empresa-do-bb.shtml
-2020-10-15 16:59:26,360          root     INFO: Finished script
+2020-10-15 17:23:49,155          root     INFO: Starting script
+2020-10-15 17:23:50,128          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-15 17:23:50,812          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-15 17:23:51,496          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-15 17:23:51,778          root     INFO: Parsing R7 - Brasil
+2020-10-15 17:23:53,206          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48337
+2020-10-15 17:23:53,229          root     INFO: Relembre flagras de dinheiro <del>escondido, de</del> <ins>escondido em</ins> bunker, <del>Bíblia e</del> <ins>Bíblia,</ins> cueca <ins>e</ins> até entre as nádegas
+2020-10-15 17:23:55,061          root     INFO: Media ready with ids: 1316791926616715264
+2020-10-15 17:23:55,061          root     INFO: Text to tweet: Modificação do Título
+2020-10-15 17:23:55,062          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/relembre-flagras-de-dinheiro-escondido-de-bunker-biblia-e-cueca-ate-entre-as-nadegas.shtml
+2020-10-15 17:23:55,067          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/relembre-flagras-de-dinheiro-escondido-de-bunker-biblia-e-cueca-ate-entre-as-nadegas.shtml
+2020-10-15 17:23:55,233          root     INFO: Replying to: 1316791928202178565
+2020-10-15 17:23:55,824          root     INFO: Id to store: 1316791929187700737
+2020-10-15 17:23:58,414          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/para-moro-revisao-de-prisao-preventiva-gera-sobrecarga-para-juizes.shtml
+2020-10-15 17:23:58,415          root     INFO: Finished script
