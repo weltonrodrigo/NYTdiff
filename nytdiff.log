@@ -1,10 +1,19 @@
-2020-10-15 15:27:02,693          root     INFO: Starting script
-2020-10-15 15:27:03,605          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 15:27:04,284          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 15:27:04,955          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 15:27:05,154          root     INFO: Parsing R7 - Brasil
-2020-10-15 15:27:06,333          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/planalto-ve-candidatura-russomanno-desorganizada-e-suspeita-de-boicote-interno.shtml
-2020-10-15 15:27:06,342          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sem-detalhar-custos-candidatos-em-belem-propoem-ar-condicionado-em-onibus-metro-e-bilhete-unico.shtml
-2020-10-15 15:27:08,749          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/com-promessas-de-meritocracia-e-choque-de-gestao-sp-tem-recorde-de-candidatos-liberais.shtml
-2020-10-15 15:27:08,751          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-aproveitam-cercadinho-do-alvorada-para-fazer-de-bolsonaro-cabo-eleitoral.shtml
-2020-10-15 15:27:08,752          root     INFO: Finished script
+2020-10-15 15:48:41,900          root     INFO: Starting script
+2020-10-15 15:48:42,816          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-15 15:48:43,491          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-15 15:48:44,162          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-15 15:48:44,397          root     INFO: Parsing R7 - Brasil
+2020-10-15 15:48:45,548          root     INFO: <del>Após</del> <ins>Bolsonaro tira senador de cargo de liderança e tenta se desvincular de</ins> flagra de dinheiro entre as <del>nádegas, aliados pedem a senador que se afaste de vice-liderança de Bolsonaro</del> <ins>nádegas</ins>
+2020-10-15 15:48:47,385          root     INFO: Media ready with ids: 1316767986829713409
+2020-10-15 15:48:47,386          root     INFO: Text to tweet: Modificação do Título
+2020-10-15 15:48:47,386          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/apos-flagra-de-dinheiro-entre-as-nadegas-aliados-pedem-a-senador-que-se-afaste-de-vice-lideranca-de-bolsonaro.shtml
+2020-10-15 15:48:47,390          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/apos-flagra-de-dinheiro-entre-as-nadegas-aliados-pedem-a-senador-que-se-afaste-de-vice-lideranca-de-bolsonaro.shtml
+2020-10-15 15:48:47,580          root     INFO: Replying to: 1316767988561960960
+2020-10-15 15:48:47,857          root     INFO: Id to store: 1316767989484662784
+2020-10-15 15:48:47,861          root     INFO: <del>No dia seguinte à operação contra desvio de recursos públicos que atingiu um de seus vice-líderes no Senado, o</del> <ins>O</ins> presidente Jair Bolsonaro (sem partido) <del>marcou distância do</del> <ins>retirou o</ins> senador Chico Rodrigues (DEM-RR) <del>e afirmou que seu</del> <ins>da vice-liderança do</ins> governo <del>combate a corrupção, não importa quem seja</del> <ins>no Senado. O parlamentar foi alvo na quarta-feira (14) de uma operação da Polícia Federal em Roraima, quando agentes</ins> o <del>suspeito.</del> <ins>flagraram com dinheiro vivo na cueca.</ins> Leia mais (10/15/2020 - 10h50)
+2020-10-15 15:48:49,590          root     INFO: Media ready with ids: 1316767996157865984
+2020-10-15 15:48:49,591          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-15 15:48:49,591          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/apos-flagra-de-dinheiro-entre-as-nadegas-aliados-pedem-a-senador-que-se-afaste-de-vice-lideranca-de-bolsonaro.shtml
+2020-10-15 15:48:49,598          root     INFO: Replying to: 1316767989484662784
+2020-10-15 15:48:49,841          root     INFO: Id to store: 1316767997789442050
+2020-10-15 15:48:52,259          root     INFO: Finished script
