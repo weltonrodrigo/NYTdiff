@@ -1,12 +1,18 @@
-2020-10-15 03:57:50,967          root     INFO: Starting script
-2020-10-15 03:57:51,797          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 03:57:52,460          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 03:57:53,135          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 03:57:53,326          root     INFO: Parsing R7 - Brasil
-2020-10-15 03:57:56,983          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-publica-lei-que-prorroga-reducao-da-jornada-e-salarios-14102020
-2020-10-15 03:57:56,994          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-quer-apressar-solucao-para-divida-de-estados-14102020
-2020-10-15 03:57:57,005          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacao-da-pf-combate-fraudes-eleitorais-em-municipio-do-parana-14102020
-2020-10-15 03:57:57,013          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-recebe-nesta-quarta-parecer-sobre-kassio-nunes-no-stf-14102020
-2020-10-15 03:57:57,028          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-publica-lei-que-muda-prazo-da-cnh-e-limite-de-multas-14102020
-2020-10-15 03:57:57,036          root     INFO: New article tracked: http://noticias.r7.com/brasil/forca-nacional-vai-permanecer-por-mais-90-dias-na-paraiba-14102020
-2020-10-15 03:57:57,138          root     INFO: Finished script
+2020-10-15 04:26:56,087          root     INFO: Starting script
+2020-10-15 04:26:56,995          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-15 04:26:57,662          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-15 04:26:58,333          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-15 04:26:58,558          root     INFO: Parsing R7 - Brasil
+2020-10-15 04:27:02,000          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-encontra-dinheiro-na-cueca-do-senador-chico-rodrigues-14102020
+2020-10-15 04:27:02,012          root     INFO: New article tracked: http://noticias.r7.com/brasil/aposta-do-litoral-de-sp-fatura-r-66-milhoes-na-mega-sena-14102020
+2020-10-15 04:27:02,019          root     INFO: New article tracked: http://noticias.r7.com/brasil/andre-do-rap-os-5-passos-ate-a-soltura-do-traficante-e-os-obstaculos-para-prende-lo-novamente-14102020
+2020-10-15 04:27:02,026          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiz-nega-afastamento-de-salles-por-desestruturacao-ambiental-14102020
+2020-10-15 04:27:02,051          root     INFO: New article tracked: http://noticias.r7.com/brasil/omar-aziz-da-parecer-favoravel-a-ida-de-jorge-oliveira-para-o-tcu-14102020
+2020-10-15 04:27:02,061          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-esta-muito-bem-visto-la-fora-afirma-paulo-guedes-14102020
+2020-10-15 04:27:02,234          root     INFO: Removed http://noticias.r7.com/brasil/forca-nacional-vai-permanecer-por-mais-90-dias-na-paraiba-14102020
+2020-10-15 04:27:02,236          root     INFO: Removed http://noticias.r7.com/brasil/governo-publica-lei-que-muda-prazo-da-cnh-e-limite-de-multas-14102020
+2020-10-15 04:27:02,238          root     INFO: Removed http://noticias.r7.com/brasil/governo-publica-lei-que-prorroga-reducao-da-jornada-e-salarios-14102020
+2020-10-15 04:27:02,240          root     INFO: Removed http://noticias.r7.com/brasil/comissao-recebe-nesta-quarta-parecer-sobre-kassio-nunes-no-stf-14102020
+2020-10-15 04:27:02,242          root     INFO: Removed http://noticias.r7.com/brasil/operacao-da-pf-combate-fraudes-eleitorais-em-municipio-do-parana-14102020
+2020-10-15 04:27:02,245          root     INFO: Removed http://noticias.r7.com/brasil/camara-quer-apressar-solucao-para-divida-de-estados-14102020
+2020-10-15 04:27:02,246          root     INFO: Finished script
