@@ -1,7 +1,23 @@
-2020-10-15 16:30:10,383          root     INFO: Starting script
-2020-10-15 16:30:11,542          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 16:30:12,382          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 16:30:13,220          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 16:30:13,508          root     INFO: Parsing R7 - Brasil
-2020-10-15 16:30:13,779          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/organizacoes-sociais-e-o-papel-do-estado.shtml
-2020-10-15 16:30:17,813          root     INFO: Finished script
+2020-10-15 16:47:16,531          root     INFO: Starting script
+2020-10-15 16:47:17,436          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-15 16:47:18,096          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-15 16:47:18,758          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-15 16:47:18,942          root     INFO: Parsing R7 - Brasil
+2020-10-15 16:47:20,210          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-porto-alegre-juliana-brizola-participa-da-sabatina-folhauol.shtml
+2020-10-15 16:47:20,219          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/aliado-de-bolsonaro-senador-flagrado-com-dinheiro-entre-as-nadegas-vira-alvo-no-conselho-de-etica.shtml
+2020-10-15 16:47:20,296          root     INFO: <del>Candidatas Major Denice,</del> <ins>Há uma lenda</ins> de <del>Salvador,</del> <ins>que esquerda</ins> e <del>Juliana Brizola, de Porto Alegre, participam da</del> <ins>militares estão afastados, diz Major Denice em</ins> sabatina Folha/UOL
+2020-10-15 16:47:22,140          root     INFO: Media ready with ids: 1316782728910712832
+2020-10-15 16:47:22,140          root     INFO: Text to tweet: Modificação do Título
+2020-10-15 16:47:22,141          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatas-major-denice-de-salvador-e-juliana-brizola-de-porto-alegre-participam-da-sabatina-folhauol.shtml
+2020-10-15 16:47:22,149          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatas-major-denice-de-salvador-e-juliana-brizola-de-porto-alegre-participam-da-sabatina-folhauol.shtml
+2020-10-15 16:47:22,339          root     INFO: Replying to: 1316782730546470912
+2020-10-15 16:47:22,569          root     INFO: Id to store: 1316782731230089218
+2020-10-15 16:47:22,574          root     INFO: A <del>Folha, em parceria com o UOL, sabatina, nesta quinta-feira (15), Major Denice, que se lançou pelo</del> <ins>candidata do</ins> PT à Prefeitura de Salvador, <ins>Major Denice, defendeu que não há antagonismo entre militarismo</ins> e <del>Juliana Brizola, candidata pelo PDT à Prefeitura</del> <ins>políticas</ins> de <del>Porto Alegre.</del> <ins>esquerda.</ins> Leia mais (10/15/2020 - 07h00)
+2020-10-15 16:47:24,291          root     INFO: Media ready with ids: 1316782737815154690
+2020-10-15 16:47:24,292          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-15 16:47:24,292          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatas-major-denice-de-salvador-e-juliana-brizola-de-porto-alegre-participam-da-sabatina-folhauol.shtml
+2020-10-15 16:47:24,301          root     INFO: Replying to: 1316782731230089218
+2020-10-15 16:47:24,563          root     INFO: Id to store: 1316782739551592450
+2020-10-15 16:47:26,710          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/ataque-de-boulos-a-franca-escancara-guerra-por-eleitorado-feminino-na-disputa-em-sp.shtml
+2020-10-15 16:47:26,713          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/varrido-da-grande-sp-em-2016-pt-aposta-em-ex-prefeitos-para-recuperar-terreno.shtml
+2020-10-15 16:47:26,714          root     INFO: Finished script
