@@ -1,8 +1,20 @@
-2020-10-16 18:57:54,908          root     INFO: Starting script
-2020-10-16 18:57:56,022          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-16 18:57:56,858          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-16 18:57:57,687          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-16 18:57:57,926          root     INFO: Parsing R7 - Brasil
-2020-10-16 18:57:59,278          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/gilmar-cita-telhado-de-vidro-e-chama-de-demagogia-movimento-de-fux-contra-decisoes-individuais-no-stf.shtml
-2020-10-16 18:58:01,595          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/bolsonaro-faz-visita-ao-presidente-do-stf-apos-desconsiderar-fux-na-escolha-de-kassio.shtml
-2020-10-16 18:58:01,596          root     INFO: Finished script
+2020-10-16 19:21:58,798          root     INFO: Starting script
+2020-10-16 19:21:59,837          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 19:22:00,684          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 19:22:01,543          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 19:22:01,790          root     INFO: Parsing R7 - Brasil
+2020-10-16 19:22:02,021          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2020/10/flip-confirma-eileen-myles-icone-da-literatura-queer-e-da-contracultura-americana.shtml
+2020-10-16 19:22:03,609          root     INFO: <del>Candidata à Prefeitura de Porto Alegre, Fernanda Melchionna participa da</del> <ins>Em</ins> sabatina <del>Folha/UOL</del> <ins>Folha/UOL, Melchionna propõe que grandes devedores paguem dívidas da baixa renda</ins>
+2020-10-16 19:22:05,439          root     INFO: Media ready with ids: 1317184053871869952
+2020-10-16 19:22:05,440          root     INFO: Text to tweet: Modificação do Título
+2020-10-16 19:22:05,440          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-porto-alegre-fernanda-melchionna-participa-da-sabatina-folhauol.shtml
+2020-10-16 19:22:05,446          root     INFO: Replying to: 1317160121424818178
+2020-10-16 19:22:05,732          root     INFO: Id to store: 1317184055541190656
+2020-10-16 19:22:05,736          root     INFO: A <del>Folha, em parceria com a UOL, sabatina nesta sexta-feira (16),</del> <ins>aprovação de uma lei para que grandes devedores paguem dívidas de pessoas de baixa renda é uma das propostas de governo de</ins> Fernanda <del>Melchionna, candidata pelo PSOL à</del> <ins>Melchionna (PSOL) para a</ins> Prefeitura de Porto <del>Alegre, às 15h</del> <ins>Alegre.</ins> Leia mais (10/16/2020 - 11h15)
+2020-10-16 19:22:07,508          root     INFO: Media ready with ids: 1317184062377910272
+2020-10-16 19:22:07,509          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-16 19:22:07,509          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-porto-alegre-fernanda-melchionna-participa-da-sabatina-folhauol.shtml
+2020-10-16 19:22:07,513          root     INFO: Replying to: 1317184055541190656
+2020-10-16 19:22:07,802          root     INFO: Id to store: 1317184064164712449
+2020-10-16 19:22:10,739          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2020/10/sem-ajuste-fiscal-estrutural-vivenciaremos-estagflacao.shtml
+2020-10-16 19:22:10,740          root     INFO: Finished script
