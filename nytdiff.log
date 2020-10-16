@@ -1,8 +1,19 @@
-2020-10-16 19:46:59,973          root     INFO: Starting script
-2020-10-16 19:47:00,885          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-16 19:47:01,560          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-16 19:47:02,227          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-16 19:47:02,475          root     INFO: Parsing R7 - Brasil
-2020-10-16 19:47:03,902          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/conselheiro-de-seguranca-de-trump-chega-domingo-no-brasil.shtml
-2020-10-16 19:47:06,329          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/folha-oferece-assinatura-gratis-para-professores-das-redes-publica-e-privada.shtml
-2020-10-16 19:47:06,330          root     INFO: Finished script
+2020-10-16 19:57:43,798          root     INFO: Starting script
+2020-10-16 19:57:44,699          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 19:57:45,365          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 19:57:46,031          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 19:57:46,171          root     INFO: Parsing R7 - Brasil
+2020-10-16 19:57:47,461          root     INFO: Conselheiro de segurança de Trump chega domingo <del>no</del> <ins>ao</ins> Brasil
+2020-10-16 19:57:49,201          root     INFO: Media ready with ids: 1317193045444624385
+2020-10-16 19:57:49,202          root     INFO: Text to tweet: Modificação do Título
+2020-10-16 19:57:49,202          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/conselheiro-de-seguranca-de-trump-chega-domingo-no-brasil.shtml
+2020-10-16 19:57:49,207          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/conselheiro-de-seguranca-de-trump-chega-domingo-no-brasil.shtml
+2020-10-16 19:57:49,374          root     INFO: Replying to: 1317193046853910529
+2020-10-16 19:57:49,584          root     INFO: Id to store: 1317193047529168897
+2020-10-16 19:57:49,588          root     INFO: O conselheiro de segurança do governo dos EUA, Robert <del>O?Brien,</del> <ins>O’Brien,</ins> informou em uma rede social que desembarca no Brasil neste domingo, liderando uma missão <del>"para</del> <ins>“para</ins> destacar a robusta relação entre os dois <del>países".</del> <ins>países”.</ins> Leia mais (10/16/2020 - 16h19)
+2020-10-16 19:57:51,344          root     INFO: Media ready with ids: 1317193054059696129
+2020-10-16 19:57:51,345          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-16 19:57:51,345          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/conselheiro-de-seguranca-de-trump-chega-domingo-no-brasil.shtml
+2020-10-16 19:57:51,351          root     INFO: Replying to: 1317193047529168897
+2020-10-16 19:57:51,563          root     INFO: Id to store: 1317193055817158658
+2020-10-16 19:57:53,853          root     INFO: Finished script
