@@ -1,32 +1,6 @@
-2020-10-16 23:22:16,423          root     INFO: Starting script
-2020-10-16 23:22:17,238          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-16 23:22:17,910          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-16 23:22:18,579          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-16 23:22:18,787          root     INFO: Parsing R7 - Brasil
-2020-10-16 23:22:20,256          root     INFO: <del>Barroso envia ao plenário</del> <ins>Fux marca para próxima quarta análise</ins> do <del>STF decisão que afastou</del> <ins>afastamento de</ins> senador flagrado com dinheiro na cueca
-2020-10-16 23:22:22,101          root     INFO: Media ready with ids: 1317244521768382464
-2020-10-16 23:22:22,101          root     INFO: Text to tweet: Modificação do Título
-2020-10-16 23:22:22,101          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/barroso-envia-ao-plenario-do-stf-decisao-que-afastou-senador-flagrado-com-dinheiro-na-cueca.shtml
-2020-10-16 23:22:22,108          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/barroso-envia-ao-plenario-do-stf-decisao-que-afastou-senador-flagrado-com-dinheiro-na-cueca.shtml
-2020-10-16 23:22:22,305          root     INFO: Replying to: 1317244523232284672
-2020-10-16 23:22:22,664          root     INFO: Id to store: 1317244524046016512
-2020-10-16 23:22:22,669          root     INFO: O <del>ministro Luís Roberto Barroso,</del> <ins>presidente</ins> do STF (Supremo Tribunal Federal), <del>encaminhou</del> <ins>Luiz Fux, marcou</ins> para <del>análise</del> <ins>próxima quarta-feira (21) o julgamento</ins> do <del>plenário da corte a decisão de afastar do cargo</del> <ins>afastamento</ins> por 90 dias <del>o</del> <ins>do</ins> senador Chico Rodrigues (DEM-RR), flagrado com dinheiro na cueca em operação da Polícia Federal. <ins>O relator do caso, ministro Luís Roberto Barroso, afastou o parlamentar do cargo na quinta-feira (15) e, nesta sexta, havia pedido a inclusão da matéria em pauta.</ins> Leia mais (10/16/2020 - 18h42)
-2020-10-16 23:22:24,389          root     INFO: Media ready with ids: 1317244531239256064
-2020-10-16 23:22:24,390          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-16 23:22:24,390          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/barroso-envia-ao-plenario-do-stf-decisao-que-afastou-senador-flagrado-com-dinheiro-na-cueca.shtml
-2020-10-16 23:22:24,395          root     INFO: Replying to: 1317244524046016512
-2020-10-16 23:22:24,605          root     INFO: Id to store: 1317244532698849285
-2020-10-16 23:22:24,672          root     INFO: Após o presidente do STF (Supremo Tribunal Federal), <ins>ministro</ins> Luiz Fux, prometer uma atuação contra as decisões individuais na corte, <del>o ministro</del> Gilmar Mendes reagiu e cobrou coerência do colega. Leia mais (10/16/2020 - 15h51)
-2020-10-16 23:22:26,620          root     INFO: Media ready with ids: 1317244540391096320
-2020-10-16 23:22:26,620          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-16 23:22:26,620          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/gilmar-cita-telhado-de-vidro-e-chama-de-demagogia-movimento-de-fux-contra-decisoes-individuais-no-stf.shtml
-2020-10-16 23:22:26,625          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/gilmar-cita-telhado-de-vidro-e-chama-de-demagogia-movimento-de-fux-contra-decisoes-individuais-no-stf.shtml
-2020-10-16 23:22:26,783          root     INFO: Replying to: 1317244542031192064
-2020-10-16 23:22:27,151          root     INFO: Id to store: 1317244542811312131
-2020-10-16 23:22:29,518          root     INFO: Removed http://noticias.r7.com/brasil/apos-dinheiro-na-cueca-senador-e-retirado-de-comissao-da-covid-19-16102020
-2020-10-16 23:22:29,520          root     INFO: Removed http://noticias.r7.com/brasil/barroso-submete-decisao-que-afastou-senador-ao-plenario-do-stf-16102020
-2020-10-16 23:22:29,522          root     INFO: Removed http://noticias.r7.com/brasil/conselheiro-de-seguranca-dos-eua-visitara-sao-paulo-e-brasilia-16102020
-2020-10-16 23:22:29,525          root     INFO: Removed http://noticias.r7.com/brasil/fachin-nega-pedido-de-liberdade-a-donos-da-avianca-16102020
-2020-10-16 23:22:29,527          root     INFO: Removed http://noticias.r7.com/brasil/toffoli-nega-pedido-para-suspender-indicacao-de-jorge-oliveira-ao-tcu-16102020
-2020-10-16 23:22:29,529          root     INFO: Removed http://noticias.r7.com/brasil/advogada-vai-ao-stf-contra-ministro-do-stj-e-alega-abuso-de-autoridade-16102020
-2020-10-16 23:22:29,530          root     INFO: Finished script
+2020-10-16 23:29:50,432          root     INFO: Starting script
+2020-10-16 23:29:51,528          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 23:29:52,371          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 23:29:53,204          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 23:29:53,420          root     INFO: Parsing R7 - Brasil
+2020-10-16 23:29:57,098          root     INFO: Finished script
