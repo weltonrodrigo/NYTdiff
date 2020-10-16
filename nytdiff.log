@@ -1,6 +1,16 @@
-2020-10-16 22:30:52,378          root     INFO: Starting script
-2020-10-16 22:30:53,272          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-16 22:30:53,963          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-16 22:30:54,648          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-16 22:30:54,733          root     INFO: Parsing R7 - Brasil
-2020-10-16 22:30:58,428          root     INFO: Finished script
+2020-10-16 22:46:51,865          root     INFO: Starting script
+2020-10-16 22:46:52,837          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 22:46:53,510          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 22:46:54,194          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 22:46:54,372          root     INFO: Parsing R7 - Brasil
+2020-10-16 22:46:54,594          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2020/10/cg-160-moto-popular-da-honda-cresce-20-nas-vendas-em-setembro.shtml
+2020-10-16 22:46:55,847          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/pf-diz-que-vai-monitorar-candidaturas-laranjas-e-origem-de-fake-news-nas-eleicoes.shtml
+2020-10-16 22:46:58,222          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-nega-pedido-de-liberdade-a-donos-da-avianca-16102020
+2020-10-16 22:46:58,233          root     INFO: New article tracked: http://noticias.r7.com/brasil/advogada-vai-ao-stf-contra-ministro-do-stj-e-alega-abuso-de-autoridade-16102020
+2020-10-16 22:46:58,243          root     INFO: New article tracked: http://noticias.r7.com/brasil/toffoli-nega-pedido-para-suspender-indicacao-de-jorge-oliveira-ao-tcu-16102020
+2020-10-16 22:46:58,254          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-submete-decisao-que-afastou-senador-ao-plenario-do-stf-16102020
+2020-10-16 22:46:58,262          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselheiro-de-seguranca-dos-eua-visitara-sao-paulo-e-brasilia-16102020
+2020-10-16 22:46:58,271          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-dinheiro-na-cueca-senador-e-retirado-de-comissao-da-covid-19-16102020
+2020-10-16 22:46:58,446          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/10/o-que-justifica-as-cotas.shtml
+2020-10-16 22:46:58,453          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post404072
+2020-10-16 22:46:58,454          root     INFO: Finished script
