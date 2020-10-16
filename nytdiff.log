@@ -1,7 +1,17 @@
-2020-10-15 23:57:35,383          root     INFO: Starting script
-2020-10-15 23:57:36,229          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-15 23:57:36,892          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-15 23:57:37,562          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-15 23:57:37,749          root     INFO: Parsing R7 - Brasil
-2020-10-15 23:57:38,009          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/acabou-a-corrupcao.shtml
-2020-10-15 23:57:41,041          root     INFO: Finished script
+2020-10-16 01:07:29,692          root     INFO: Starting script
+2020-10-16 01:07:30,986          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 01:07:31,814          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 01:07:32,644          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 01:07:32,938          root     INFO: Parsing R7 - Brasil
+2020-10-16 01:07:34,250          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/justica-determina-que-istoe-retire-do-ar-reportagem-com-acusacoes-contra-prefeito-de-bh.shtml
+2020-10-16 01:07:34,258          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/televisao/2020/10/cnn-brasil-se-confunde-e-diz-que-chico-pinheiro-foi-flagrado-com-dinheiro-na-cueca.shtml
+2020-10-16 01:07:34,276          root     INFO: Em um esforço para se dissociar de seu aliado flagrado com dinheiro entre as nádegas, o presidente Jair Bolsonaro (sem partido) disse nesta quinta-feira (15) lamentar trabalhar "que nem um desgraçado" e "idiotas" o acusarem de corrupção. O presidente usou parte de sua live -cerca de dez minutos menor que de costume- para argumentar que o senador Chico Rodrigues (DEM-RR), vice-líder de seu governo até a manhã desta quinta, não faz parte de seu governo, embora tenha definido o parlamentar como "uma pessoa que gozava do prestígio, do carinho de quase todos". <del>O episódio acontece uma semana após Bolsonaro dizer que acabou com a Lava Jato por não haver corrupção em sua administração. Na quarta-feira (14), horas antes do episódio do dinheiro oculto, o</del> <ins>Cabe ao</ins> presidente <del>havia dito que daria "uma voadora no pescoço"</del> <ins>da República dar aval às indicações partidárias</ins> de <del>quem praticasse corrupção em seu governo.</del> <ins>líderes e vice-líderes.</ins> Leia mais (10/15/2020 - 20h30)
+2020-10-16 01:07:36,396          root     INFO: Media ready with ids: 1316908617514307586
+2020-10-16 01:07:36,396          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-16 01:07:36,396          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/bolsonaro-diz-que-senador-tinha-prestigio-e-carinho-mas-que-dinheiro-na-cueca-nao-tem-a-ver-com-governo.shtml
+2020-10-16 01:07:36,401          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/bolsonaro-diz-que-senador-tinha-prestigio-e-carinho-mas-que-dinheiro-na-cueca-nao-tem-a-ver-com-governo.shtml
+2020-10-16 01:07:36,654          root     INFO: Replying to: 1316908619640803329
+2020-10-16 01:07:36,956          root     INFO: Id to store: 1316908620685201409
+2020-10-16 01:07:39,080          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/recife-esta-saturado-com-governos-de-esquerda-diz-mendonca-filho-em-sabatina-folhauol.shtml
+2020-10-16 01:07:39,083          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post404052
+2020-10-16 01:07:39,084          root     INFO: Finished script
