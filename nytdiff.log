@@ -1,8 +1,20 @@
-2020-10-16 15:57:56,571          root     INFO: Starting script
-2020-10-16 15:57:57,476          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-16 15:57:58,151          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-16 15:57:58,820          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-16 15:57:59,002          root     INFO: Parsing R7 - Brasil
-2020-10-16 15:58:00,441          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/embaixada-dos-eua-no-brasil-alerta-americanos-sobre-saidao-de-presos-nos-proximos-meses.shtml
-2020-10-16 15:58:02,940          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/em-sabatina-folhauol-bruno-reis-promete-brt-em-salvador-e-diz-que-existe-preconceito-com-o-sistema.shtml
-2020-10-16 15:58:02,941          root     INFO: Finished script
+2020-10-16 16:30:19,221          root     INFO: Starting script
+2020-10-16 16:30:20,312          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 16:30:21,157          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 16:30:21,999          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 16:30:22,235          root     INFO: Parsing R7 - Brasil
+2020-10-16 16:30:23,802          root     INFO: A Embaixada dos Estados Unidos no Brasil enviou <ins>por email</ins> um alerta de segurança para os cidadãos americanos no país sobre as datas previstas para as saídas temporárias de presos nos próximos meses. Leia mais (10/16/2020 - 12h49)
+2020-10-16 16:30:25,912          root     INFO: Media ready with ids: 1317140854298071047
+2020-10-16 16:30:25,912          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-16 16:30:25,913          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/embaixada-dos-eua-no-brasil-alerta-americanos-sobre-saidao-de-presos-nos-proximos-meses.shtml
+2020-10-16 16:30:25,917          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/embaixada-dos-eua-no-brasil-alerta-americanos-sobre-saidao-de-presos-nos-proximos-meses.shtml
+2020-10-16 16:30:26,152          root     INFO: Replying to: 1317140856164569089
+2020-10-16 16:30:26,436          root     INFO: Id to store: 1317140857120804865
+2020-10-16 16:30:26,651          root     INFO: Programas de rádio de <del>Russomano</del> <ins>Russomanno</ins> serão narrados como partidas de futebol por associação com CR7
+2020-10-16 16:30:28,555          root     INFO: Media ready with ids: 1317140864980975617
+2020-10-16 16:30:28,556          root     INFO: Text to tweet: Modificação do Título
+2020-10-16 16:30:28,556          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/programas-de-radio-de-russomano-serao-narrados-como-partidas-de-futebol-por-associacao-com-cr7.shtml
+2020-10-16 16:30:28,561          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/programas-de-radio-de-russomano-serao-narrados-como-partidas-de-futebol-por-associacao-com-cr7.shtml
+2020-10-16 16:30:28,787          root     INFO: Replying to: 1317140867199762440
+2020-10-16 16:30:29,060          root     INFO: Id to store: 1317140868160159744
+2020-10-16 16:30:31,647          root     INFO: Finished script
