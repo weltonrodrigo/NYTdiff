@@ -1,26 +1,6 @@
-2020-10-16 15:25:11,402          root     INFO: Starting script
-2020-10-16 15:25:12,422          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-16 15:25:13,253          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-16 15:25:14,104          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-16 15:25:14,491          root     INFO: Parsing R7 - Brasil
-2020-10-16 15:25:14,745          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/especialista-se-demitiu-do-facebook-por-live-de-bolsonaro.shtml
-2020-10-16 15:25:15,876          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/live-de-caetano-ressuscita-debate-sobre-showmicio-e-campanhas-reagem-a-veto.shtml
-2020-10-16 15:25:15,883          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/florianopolis-tem-candidato-que-une-a-esquerda-em-disputa-contra-prefeito-e-ex-prefeita.shtml
-2020-10-16 15:25:15,892          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/veja-erros-e-acertos-dos-candidatos-a-prefeito-de-sp-na-primeira-semana-de-horario-eleitoral.shtml
-2020-10-16 15:25:15,910          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/especialista-se-demitiu-do-facebook-por-live-de-bolsonaro.shtml
-2020-10-16 15:25:18,189          root     INFO: Removed http://noticias.r7.com/brasil/pf-cumpre-17-mandados-em-nova-fase-da-lava-jato-eleitoral-16102020
-2020-10-16 15:25:18,191          root     INFO: Removed http://noticias.r7.com/brasil/brasileiros-de-todas-as-classes-se-veem-como-vitimas-da-desigualdade-16102020
-2020-10-16 15:25:18,194          root     INFO: Removed http://noticias.r7.com/brasil/mourao-defende-retorno-de-prisoes-apos-condenacao-em-2-instancia-16102020
-2020-10-16 15:25:18,197          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/tse-decide-manter-candidatura-de-crivella-a-prefeito-do-rio.shtml
-2020-10-16 15:25:18,199          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-brasil-esta-saindo-da-crise-causada-pela-pandemia-16102020
-2020-10-16 15:25:18,202          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-nova-acao-contra-desvios-de-recursos-da-saude-em-roraima-16102020
-2020-10-16 15:25:18,207          root     INFO: Removed http://noticias.r7.com/brasil/prevencao-ao-cancer-de-mama-e-o-tema-da-live-jr-desta-sexta-16-16102020
-2020-10-16 15:25:18,210          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/ambiente/2020/10/vivemos-uma-situacao-de-guerra-no-pantanal-diz-senador-de-comissao-de-queimadas.shtml
-2020-10-16 15:25:18,212          root     INFO: Removed http://noticias.r7.com/brasil/videos/pf-cumpre-quatro-mandados-contra-desvios-na-saude-em-roraima-16102020
-2020-10-16 15:25:18,215          root     INFO: Removed http://noticias.r7.com/brasil/no-dia-mundial-do-pao-conheca-os-padeiros-da-pandemia-16102020
-2020-10-16 15:25:18,217          root     INFO: Removed http://noticias.r7.com/brasil/senado-deve-receber-hoje-pedido-de-afastamento-de-chico-rodrigues-16102020
-2020-10-16 15:25:18,219          root     INFO: Removed http://noticias.r7.com/brasil/videos/lava-jato-eleitoral-pf-cumpre-mandados-em-tres-estados-16102020
-2020-10-16 15:25:18,222          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-lima-ombudsman/2020/10/quem-vai-salvar-o-jornalismo.shtml
-2020-10-16 15:25:18,224          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/tese-que-pode-favorecer-reeleicao-de-alcolumbre-e-maia-ganha-forca-no-stf.shtml
-2020-10-16 15:25:18,227          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48321
-2020-10-16 15:25:18,228          root     INFO: Finished script
+2020-10-16 15:33:33,855          root     INFO: Starting script
+2020-10-16 15:33:34,682          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 15:33:35,349          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 15:33:36,021          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 15:33:36,261          root     INFO: Parsing R7 - Brasil
+2020-10-16 15:33:40,361          root     INFO: Finished script
