@@ -1,7 +1,21 @@
-2020-10-16 13:57:58,208          root     INFO: Starting script
-2020-10-16 13:57:59,295          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-16 13:58:00,123          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-16 13:58:00,967          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-16 13:58:01,357          root     INFO: Parsing R7 - Brasil
-2020-10-16 13:58:03,616          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2020/10/acordo-mercosul-ue-por-uma-clausula-ambiental-vinculativa.shtml
-2020-10-16 13:58:04,726          root     INFO: Finished script
+2020-10-16 14:25:56,267          root     INFO: Starting script
+2020-10-16 14:25:57,179          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 14:25:57,853          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 14:25:58,525          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 14:25:58,675          root     INFO: Parsing R7 - Brasil
+2020-10-16 14:26:00,113          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-porto-alegre-fernanda-melchionna-participa-da-sabatina-folhauol.shtml
+2020-10-16 14:26:00,193          root     INFO: <del>Candidatos Greca, em Curitiba,</del> <ins>Greca diz que não há manual para pandemia</ins> e <del>Melchionna, em Porto Alegre, participam da</del> <ins>compara Curitiba à Europa na</ins> sabatina Folha/UOL
+2020-10-16 14:26:01,987          root     INFO: Media ready with ids: 1317109548457615360
+2020-10-16 14:26:01,987          root     INFO: Text to tweet: Modificação do Título
+2020-10-16 14:26:01,987          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-greca-em-curitiba-e-melchionna-em-porto-alegre-participam-da-sabatina-folhauol.shtml
+2020-10-16 14:26:01,993          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-greca-em-curitiba-e-melchionna-em-porto-alegre-participam-da-sabatina-folhauol.shtml
+2020-10-16 14:26:02,190          root     INFO: Replying to: 1317109550059749376
+2020-10-16 14:26:02,430          root     INFO: Id to store: 1317109550844084224
+2020-10-16 14:26:02,434          root     INFO: <del>A Folha, em parceria com a UOL, sabatina nesta sexta-feira (16) Rafael Greca (DEM), atual</del> <ins>O</ins> prefeito de Curitiba <del>em busca da reeleição,</del> e <del>Fernanda Melchionna, candidata pelo PSOL</del> <ins>candidato</ins> à <del>Prefeitura</del> <ins>reeleição, Rafael Greca (DEM), disse que o "vai e volta"</ins> de <del>Porto Alegre.</del> <ins>decretos liberando e fechando o comércio durante a pandemia do novo coronavírus na capital paranaense é algo que aconteceu em todo o mundo.</ins> Leia mais (10/16/2020 - 07h00)
+2020-10-16 14:26:04,204          root     INFO: Media ready with ids: 1317109557508870144
+2020-10-16 14:26:04,204          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-16 14:26:04,204          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-greca-em-curitiba-e-melchionna-em-porto-alegre-participam-da-sabatina-folhauol.shtml
+2020-10-16 14:26:04,211          root     INFO: Replying to: 1317109550844084224
+2020-10-16 14:26:04,450          root     INFO: Id to store: 1317109559329214464
+2020-10-16 14:26:06,980          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/herdeiro-do-banco-safra-doa-r-75-mil-a-campanha-para-a-reeleicao-de-bruno-covas-em-sp.shtml
+2020-10-16 14:26:06,981          root     INFO: Finished script
