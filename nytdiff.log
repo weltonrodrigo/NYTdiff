@@ -1,6 +1,23 @@
-2020-10-16 03:32:38,927          root     INFO: Starting script
-2020-10-16 03:32:40,041          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-16 03:32:40,876          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-16 03:32:41,712          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-16 03:32:42,111          root     INFO: Parsing R7 - Brasil
-2020-10-16 03:32:45,981          root     INFO: Finished script
+2020-10-16 03:47:03,513          root     INFO: Starting script
+2020-10-16 03:47:04,451          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 03:47:05,117          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 03:47:05,792          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 03:47:06,741          root     INFO: Parsing R7 - Brasil
+2020-10-16 03:47:07,025          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2020/10/o-bolsonarismo-de-sempre.shtml
+2020-10-16 03:47:10,306          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-sete-meses-ponte-da-amizade-e-reaberta-em-foz-do-iguacu-15102020
+2020-10-16 03:47:10,318          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-diz-desconhecer-origem-de-dinheiro-na-cueca-de-senador-15102020
+2020-10-16 03:47:10,332          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-com-dinheiro-na-cueca-ja-declarou-ter-r-500-mil-em-especie-15102020
+2020-10-16 03:47:10,344          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-senador-com-dinheiro-na-cueca-nao-tem-relacao-com-governo-15102020
+2020-10-16 03:47:10,355          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-quer-liberar-investigacao-contra-senador-com-grana-na-cueca-15102020
+2020-10-16 03:47:10,364          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/fabio-faria-e-o-11-ministro-diagnosticado-com-a-covid-19-15102020
+2020-10-16 03:47:10,374          root     INFO: New article tracked: http://noticias.r7.com/brasil/marco-aurelio-nega-soltar-traficante-condenado-com-andre-do-rap-15102020
+2020-10-16 03:47:10,382          root     INFO: New article tracked: http://noticias.r7.com/brasil/pego-com-dinheiro-nas-nadegas-chico-rodrigues-esta-no-top-10-de-senadores-com-mais-emendas-liberadas-em-2020-15102020
+2020-10-16 03:47:10,455          root     INFO: Ministro da Economia <del>designo</del> <ins>designou</ins> Luiz Eduardo Ramos, da Secretaria de Governo, para ocupar o lugar de Marinho no Conselho Fiscal do Sesc
+2020-10-16 03:47:12,324          root     INFO: Media ready with ids: 1316948782341382144
+2020-10-16 03:47:12,325          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-16 03:47:12,325          root     INFO: Article id: http://noticias.r7.com/brasil/guedes-retira-rogerio-marinho-de-cargo-com-salario-de-r-21-mil-15102020
+2020-10-16 03:47:12,329          root     INFO: Tweeting url: http://noticias.r7.com/brasil/guedes-retira-rogerio-marinho-de-cargo-com-salario-de-r-21-mil-15102020
+2020-10-16 03:47:12,518          root     INFO: Replying to: 1316948783842865152
+2020-10-16 03:47:12,766          root     INFO: Id to store: 1316948784627240962
+2020-10-16 03:47:12,863          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2020/10/quem-nao-gosta-de-cachorro.shtml
+2020-10-16 03:47:12,864          root     INFO: Finished script
