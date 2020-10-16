@@ -1,15 +1,16 @@
-2020-10-16 14:46:42,146          root     INFO: Starting script
-2020-10-16 14:46:43,173          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-16 14:46:44,007          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-16 14:46:44,845          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-16 14:46:45,143          root     INFO: Parsing R7 - Brasil
-2020-10-16 14:46:46,520          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/covas-diz-que-violencia-domestica-e-inaceitavel-e-que-seu-vice-precisa-esclarecer-acusacao-de-esposa.shtml
-2020-10-16 14:46:46,565          root     INFO: Jornalistas podem participar do concurso <del>"A</del> <ins>'A</ins> Ciência em 60 <del>Segundos"</del> <ins>Segundos'</ins>
-2020-10-16 14:46:48,363          root     INFO: Media ready with ids: 1317114776204513280
-2020-10-16 14:46:48,364          root     INFO: Text to tweet: Modificação do Título
-2020-10-16 14:46:48,364          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10277
-2020-10-16 14:46:48,370          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10277
-2020-10-16 14:46:48,608          root     INFO: Replying to: 1317114777903181824
-2020-10-16 14:46:48,879          root     INFO: Id to store: 1317114778821775361
-2020-10-16 14:46:51,385          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/briga-entre-heitores-para-na-justica-e-acirra-disputa-a-prefeito-de-fortaleza.shtml
-2020-10-16 14:46:51,386          root     INFO: Finished script
+2020-10-16 14:57:50,512          root     INFO: Starting script
+2020-10-16 14:57:51,416          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 14:57:52,081          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 14:57:52,752          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 14:57:52,972          root     INFO: Parsing R7 - Brasil
+2020-10-16 14:57:56,581          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-brasil-esta-saindo-da-crise-causada-pela-pandemia-16102020
+2020-10-16 14:57:56,594          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-defende-retorno-de-prisoes-apos-condenacao-em-2-instancia-16102020
+2020-10-16 14:57:56,603          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/lava-jato-eleitoral-pf-cumpre-mandados-em-tres-estados-16102020
+2020-10-16 14:57:56,611          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-cumpre-17-mandados-em-nova-fase-da-lava-jato-eleitoral-16102020
+2020-10-16 14:57:56,618          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-deve-receber-hoje-pedido-de-afastamento-de-chico-rodrigues-16102020
+2020-10-16 14:57:56,626          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/pf-cumpre-quatro-mandados-contra-desvios-na-saude-em-roraima-16102020
+2020-10-16 14:57:56,633          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-nova-acao-contra-desvios-de-recursos-da-saude-em-roraima-16102020
+2020-10-16 14:57:56,641          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasileiros-de-todas-as-classes-se-veem-como-vitimas-da-desigualdade-16102020
+2020-10-16 14:57:56,648          root     INFO: New article tracked: http://noticias.r7.com/brasil/prevencao-ao-cancer-de-mama-e-o-tema-da-live-jr-desta-sexta-16-16102020
+2020-10-16 14:57:56,656          root     INFO: New article tracked: http://noticias.r7.com/brasil/no-dia-mundial-do-pao-conheca-os-padeiros-da-pandemia-16102020
+2020-10-16 14:57:56,779          root     INFO: Finished script
