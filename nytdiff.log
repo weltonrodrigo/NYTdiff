@@ -1,8 +1,9 @@
-2020-10-16 01:43:53,801          root     INFO: Starting script
-2020-10-16 01:43:54,656          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-16 01:43:55,324          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-16 01:43:56,008          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-16 01:43:56,142          root     INFO: Parsing R7 - Brasil
-2020-10-16 01:43:57,519          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/pf-ve-indicios-de-que-aliado-de-bolsonaro-direcionou-contrato-superfaturado-para-testes-de-covid.shtml
-2020-10-16 01:43:59,929          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/presidente-da-camara-municipal-de-sao-paulo-diz-que-esta-contaminado-com-covid-19.shtml
-2020-10-16 01:43:59,929          root     INFO: Finished script
+2020-10-16 01:54:55,797          root     INFO: Starting script
+2020-10-16 01:54:56,742          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-16 01:54:57,413          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-16 01:54:58,078          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-16 01:54:58,282          root     INFO: Parsing R7 - Brasil
+2020-10-16 01:55:02,045          root     INFO: New article tracked: http://noticias.r7.com/brasil/desigualdade-de-genero-se-manifesta-na-tecnologia-diz-estudo-15102020
+2020-10-16 01:55:02,058          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-mira-trafico-internacional-de-drogas-armas-e-contrabando-15102020
+2020-10-16 01:55:02,068          root     INFO: New article tracked: http://noticias.r7.com/brasil/lei-prorroga-mais-de-3500-contratos-de-profissionais-de-saude-no-rio-15102020
+2020-10-16 01:55:02,301          root     INFO: Finished script
