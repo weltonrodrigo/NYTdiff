@@ -1,8 +1,22 @@
-2020-10-17 21:22:44,788          root     INFO: Starting script
-2020-10-17 21:22:46,019          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-17 21:22:46,690          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-17 21:22:47,357          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-17 21:22:47,543          root     INFO: Parsing R7 - Brasil
-2020-10-17 21:22:47,809          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/10/na-briga-entre-bolsonaro-e-globo-o-maior-derrotado-e-o-desorientado-torcedor.shtml
-2020-10-17 21:22:51,242          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/10/eis-que-surge-um-paladino-com-animo-para-defender-os-brancos-oprimidos.shtml
-2020-10-17 21:22:51,243          root     INFO: Finished script
+2020-10-17 21:30:34,208          root     INFO: Starting script
+2020-10-17 21:30:35,302          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-17 21:30:36,145          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-17 21:30:36,980          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-17 21:30:37,212          root     INFO: Parsing R7 - Brasil
+2020-10-17 21:30:41,220          root     INFO: Removed http://noticias.r7.com/brasil/maia-afirma-que-nao-e-candidato-a-reeleicao-assunto-resolvido-17102020
+2020-10-17 21:30:41,224          root     INFO: Removed http://noticias.r7.com/brasil/fotos/fuga-de-andre-do-rap-e-dinheiro-na-cueca-de-senador-marcam-a-semana-17102020
+2020-10-17 21:30:41,226          root     INFO: Removed http://noticias.r7.com/brasil/tribunal-da-lava-jato-mantem-condenacao-de-doleiro-carlos-chater-17102020
+2020-10-17 21:30:41,229          root     INFO: Removed http://noticias.r7.com/brasil/candidato-e-o-8-vereador-a-morrer-por-covid-19-no-interior-de-sp-17102020
+2020-10-17 21:30:41,231          root     INFO: Removed http://noticias.r7.com/brasil/maia-nega-possibilidade-de-ampliar-a-calamidade-por-tres-meses-17102020
+2020-10-17 21:30:41,233          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-promete-premio-de-r-25-milhoes-neste-sabado-17102020
+2020-10-17 21:30:41,235          root     INFO: Removed http://noticias.r7.com/brasil/presidente-amplia-profissionais-na-diplomacia-para-agricultura-17102020
+2020-10-17 21:30:41,237          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-municipais-os-impactos-da-esperada-abstencao-recorde-devido-a-pandemia-17102020
+2020-10-17 21:30:41,239          root     INFO: Removed http://noticias.r7.com/brasil/camara-deve-zerar-tarifa-de-importacao-para-soja-e-milho-17102020
+2020-10-17 21:30:41,241          root     INFO: Removed http://noticias.r7.com/brasil/nao-ha-mais-saco-de-maldades-contra-produtores-diz-bolsonaro-17102020
+2020-10-17 21:30:41,243          root     INFO: Removed http://noticias.r7.com/brasil/mal-consigo-respirar-diz-flordelis-ao-comentar-morte-de-ex-marido-17102020
+2020-10-17 21:30:41,245          root     INFO: Removed http://noticias.r7.com/brasil/bndes-prepara-concessao-de-parques-nacionais-ate-o-fim-de-2021-17102020
+2020-10-17 21:30:41,247          root     INFO: Removed http://noticias.r7.com/brasil/gostaria-de-estar-com-voces-em-2023-diz-bolsonaro-a-cadetes-17102020
+2020-10-17 21:30:41,250          root     INFO: Removed http://noticias.r7.com/brasil/ministro-fux-age-contra-tatica-para-escolher-relator-no-stf-17102020
+2020-10-17 21:30:41,252          root     INFO: Removed http://noticias.r7.com/brasil/auxilio-emergencial-faz-arrecadacao-de-icms-de-estados-crescer-ate-17-17102020
+2020-10-17 21:30:41,254          root     INFO: Removed http://noticias.r7.com/brasil/brasil-nao-tera-horario-de-verao-pelo-segundo-ano-consecutivo-17102020
+2020-10-17 21:30:41,255          root     INFO: Finished script
