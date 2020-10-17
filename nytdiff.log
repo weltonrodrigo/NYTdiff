@@ -1,16 +1,10 @@
-2020-10-17 02:34:20,637          root     INFO: Starting script
-2020-10-17 02:34:21,740          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-17 02:34:22,569          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-17 02:34:23,397          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-17 02:34:23,640          root     INFO: Parsing R7 - Brasil
-2020-10-17 02:34:23,877          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2020/10/generais-e-seus-labirintos.shtml
-2020-10-17 02:34:23,887          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2020/10/o-pos-turismo-de-bolsonaro-na-cancun-brasileira.shtml
-2020-10-17 02:34:25,132          root     INFO: Conselheiro de segurança de Trump <del>chega</del> <ins>viaja</ins> domingo <del>no</del> <ins>ao</ins> Brasil
-2020-10-17 02:34:26,998          root     INFO: Media ready with ids: 1317292860660645890
-2020-10-17 02:34:26,999          root     INFO: Text to tweet: Modificação do Título
-2020-10-17 02:34:26,999          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/conselheiro-de-seguranca-de-trump-chega-domingo-no-brasil.shtml
-2020-10-17 02:34:27,003          root     INFO: Replying to: 1317200051521966082
-2020-10-17 02:34:27,294          root     INFO: Id to store: 1317292862329978880
-2020-10-17 02:34:29,449          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2020/10/perda-dificil-de-engolir.shtml
-2020-10-17 02:34:29,453          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/sinovac-recebe-grande-atencao-pais-racha-por-causa-das-vacinas.shtml
-2020-10-17 02:34:29,454          root     INFO: Finished script
+2020-10-17 02:46:58,128          root     INFO: Starting script
+2020-10-17 02:46:59,015          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-17 02:46:59,689          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-17 02:47:00,363          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-17 02:47:00,624          root     INFO: Parsing R7 - Brasil
+2020-10-17 02:47:00,894          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2020/10/ueba-senador-usando-o-pix-e-o-cux-isso-e-o-que-eu-chamo-de-dinheiro-sujo.shtml
+2020-10-17 02:47:00,921          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2020/10/a-prosa-escarlate-com-franjas-douradas-de-flaubert-em-salammbo.shtml
+2020-10-17 02:47:04,580          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/10/contra-o-peru-selecao-brasileira-tera-jogo-nao-apenas-treino.shtml
+2020-10-17 02:47:04,583          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2020/10/espetaculo-com-cabecas-de-inimigos-de-brinquedo-agora-e-considerado-arte.shtml
+2020-10-17 02:47:04,584          root     INFO: Finished script
