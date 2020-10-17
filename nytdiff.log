@@ -1,22 +1,8 @@
-2020-10-17 20:47:16,883          root     INFO: Starting script
-2020-10-17 20:47:17,772          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-17 20:47:18,447          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-17 20:47:19,116          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-17 20:47:19,330          root     INFO: Parsing R7 - Brasil
-2020-10-17 20:47:23,226          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-nao-tera-horario-de-verao-pelo-segundo-ano-consecutivo-17102020
-2020-10-17 20:47:23,238          root     INFO: New article tracked: http://noticias.r7.com/brasil/gostaria-de-estar-com-voces-em-2023-diz-bolsonaro-a-cadetes-17102020
-2020-10-17 20:47:23,248          root     INFO: New article tracked: http://noticias.r7.com/brasil/mal-consigo-respirar-diz-flordelis-ao-comentar-morte-de-ex-marido-17102020
-2020-10-17 20:47:23,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/maia-afirma-que-nao-e-candidato-a-reeleicao-assunto-resolvido-17102020
-2020-10-17 20:47:23,268          root     INFO: New article tracked: http://noticias.r7.com/brasil/bndes-prepara-concessao-de-parques-nacionais-ate-o-fim-de-2021-17102020
-2020-10-17 20:47:23,278          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-fux-age-contra-tatica-para-escolher-relator-no-stf-17102020
-2020-10-17 20:47:23,288          root     INFO: New article tracked: http://noticias.r7.com/brasil/candidato-e-o-8-vereador-a-morrer-por-covid-19-no-interior-de-sp-17102020
-2020-10-17 20:47:23,298          root     INFO: New article tracked: http://noticias.r7.com/brasil/maia-nega-possibilidade-de-ampliar-a-calamidade-por-tres-meses-17102020
-2020-10-17 20:47:23,307          root     INFO: New article tracked: http://noticias.r7.com/brasil/tribunal-da-lava-jato-mantem-condenacao-de-doleiro-carlos-chater-17102020
-2020-10-17 20:47:23,316          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-municipais-os-impactos-da-esperada-abstencao-recorde-devido-a-pandemia-17102020
-2020-10-17 20:47:23,331          root     INFO: New article tracked: http://noticias.r7.com/brasil/auxilio-emergencial-faz-arrecadacao-de-icms-de-estados-crescer-ate-17-17102020
-2020-10-17 20:47:23,341          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-deve-zerar-tarifa-de-importacao-para-soja-e-milho-17102020
-2020-10-17 20:47:23,352          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-amplia-profissionais-na-diplomacia-para-agricultura-17102020
-2020-10-17 20:47:23,377          root     INFO: New article tracked: http://noticias.r7.com/brasil/nao-ha-mais-saco-de-maldades-contra-produtores-diz-bolsonaro-17102020
-2020-10-17 20:47:23,385          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-promete-premio-de-r-25-milhoes-neste-sabado-17102020
-2020-10-17 20:47:23,394          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/fuga-de-andre-do-rap-e-dinheiro-na-cueca-de-senador-marcam-a-semana-17102020
-2020-10-17 20:47:23,448          root     INFO: Finished script
+2020-10-17 20:57:49,764          root     INFO: Starting script
+2020-10-17 20:57:50,600          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-17 20:57:51,283          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-17 20:57:51,951          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-17 20:57:52,120          root     INFO: Parsing R7 - Brasil
+2020-10-17 20:57:53,573          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/senadores-pressionam-por-proposta-que-limita-em-dez-anos-prazo-de-mandato-no-stf.shtml
+2020-10-17 20:57:56,036          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-olivia-santana-em-salvador-e-joao-campos-no-recife-participam-da-sabatina-folhauol.shtml
+2020-10-17 20:57:56,038          root     INFO: Finished script
