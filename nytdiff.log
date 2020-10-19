@@ -1,6 +1,10 @@
-2020-10-19 15:34:10,993          root     INFO: Starting script
-2020-10-19 15:34:12,013          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-19 15:34:12,865          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-19 15:34:13,709          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-19 15:34:13,991          root     INFO: Parsing R7 - Brasil
-2020-10-19 15:34:18,454          root     INFO: Finished script
+2020-10-19 15:47:35,092          root     INFO: Starting script
+2020-10-19 15:47:35,934          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-19 15:47:36,624          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-19 15:47:37,302          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-19 15:47:37,522          root     INFO: Parsing R7 - Brasil
+2020-10-19 15:47:39,088          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/defesa-de-senador-flagrado-com-dinheiro-na-cueca-fala-em-ato-impensado-perante-terrorismo-policial.shtml
+2020-10-19 15:47:39,101          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/em-sabatina-folhauol-antonio-carlos-pco-erra-ao-falar-da-esquerda-e-de-seu-proprio-partido.shtml
+2020-10-19 15:47:41,977          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/barroso-do-stf-afasta-do-cargo-por-90-dias-senador-flagrado-com-dinheiro-entre-as-nadegas.shtml
+2020-10-19 15:47:41,980          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/um-dia-apos-entrevista-sem-mascara-ministro-das-comunicacoes-anuncia-ter-covid.shtml
+2020-10-19 15:47:41,981          root     INFO: Finished script
