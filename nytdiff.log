@@ -1,6 +1,10 @@
-2020-10-19 13:31:41,500          root     INFO: Starting script
-2020-10-19 13:31:42,361          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-19 13:31:43,025          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-19 13:31:43,701          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-19 13:31:43,897          root     INFO: Parsing R7 - Brasil
-2020-10-19 13:31:47,394          root     INFO: Finished script
+2020-10-19 13:47:15,230          root     INFO: Starting script
+2020-10-19 13:47:16,139          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-19 13:47:16,806          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-19 13:47:17,555          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-19 13:47:17,760          root     INFO: Parsing R7 - Brasil
+2020-10-19 13:47:18,982          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/bolsonaro-nao-e-o-primeiro-presidente-a-visitar-a-llha-de-marajo-com-primeira-dama-e-ministros.shtml
+2020-10-19 13:47:18,993          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10282
+2020-10-19 13:47:21,117          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/aliado-de-bolsonaro-senador-flagrado-com-dinheiro-entre-as-nadegas-vira-alvo-no-conselho-de-etica.shtml
+2020-10-19 13:47:21,120          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-porto-alegre-juliana-brizola-participa-da-sabatina-folhauol.shtml
+2020-10-19 13:47:21,121          root     INFO: Finished script
