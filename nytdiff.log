@@ -1,20 +1,13 @@
-2020-10-19 18:25:53,513          root     INFO: Starting script
-2020-10-19 18:25:54,534          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-19 18:25:55,358          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-19 18:25:56,194          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-19 18:25:56,514          root     INFO: Parsing R7 - Brasil
-2020-10-19 18:25:57,832          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/laerte-vence-premio-vladimir-herzog-por-charge-sobre-paraisopolis-publicada-na-folha.shtml
-2020-10-19 18:25:57,928          root     INFO: <del>Candidato à Prefeitura de São Paulo, Antonio Carlos Silva (PCO) é sabatinado pela Folha/UOL</del> <ins>Em sabatina Folha/UOL, candidato do PCO compara Boulos a Marina e defende armar população para se defender da PM</ins>
-2020-10-19 18:25:59,885          root     INFO: Media ready with ids: 1318257101001625600
-2020-10-19 18:25:59,886          root     INFO: Text to tweet: Modificação do Título
-2020-10-19 18:25:59,886          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-antonio-carlos-silva-pco-e-sabatinado-pela-folhauol.shtml
-2020-10-19 18:25:59,891          root     INFO: Replying to: 1318242917761376256
-2020-10-19 18:26:00,181          root     INFO: Id to store: 1318257102973001730
-2020-10-19 18:26:00,185          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta segunda-feira (19) o primeiro</del> <ins>O</ins> candidato <del>da disputa pela</del> <ins>do PCO à</ins> Prefeitura de São <del>Paulo. As entrevistas,</del> <ins>Paulo, Antonio Carlos Silva, comparou seu rival Guilherme Boulos (PSOL) com Marina Silva (Rede) e afirmou ser a favor de armar a população para</ins> que <del>serão transmitidas ao vivo, acontecem sempre às 10h.</del> <ins>ela se defenda da polícia.</ins> Leia mais (10/19/2020 - <del>08h42)</del> <ins>10h48)</ins>
-2020-10-19 18:26:02,050          root     INFO: Media ready with ids: 1318257109973204994
-2020-10-19 18:26:02,051          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-19 18:26:02,051          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-antonio-carlos-silva-pco-e-sabatinado-pela-folhauol.shtml
-2020-10-19 18:26:02,055          root     INFO: Replying to: 1318257102973001730
-2020-10-19 18:26:02,376          root     INFO: Id to store: 1318257112040996866
-2020-10-19 18:26:04,549          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/pt-entrega-representacao-a-pgr-pedindo-que-disparos-de-mensagens-eleitorais-sejam-investigados.shtml
-2020-10-19 18:26:04,550          root     INFO: Finished script
+2020-10-19 18:35:58,633          root     INFO: Starting script
+2020-10-19 18:35:59,723          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-19 18:36:00,559          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-19 18:36:01,400          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-19 18:36:01,710          root     INFO: Parsing R7 - Brasil
+2020-10-19 18:36:01,985          root     INFO: <del>Ainda falta inventar delivery que entregue alegria junto com a comida</del> <ins>Sai das trevas, dark kitchen!</ins>
+2020-10-19 18:36:03,871          root     INFO: Media ready with ids: 1318259634474536960
+2020-10-19 18:36:03,872          root     INFO: Text to tweet: Modificação do Título
+2020-10-19 18:36:03,872          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandraforbes/2020/10/ainda-falta-inventar-delivery-que-entregue-alegria-junto-com-a-comida.shtml
+2020-10-19 18:36:03,877          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandraforbes/2020/10/ainda-falta-inventar-delivery-que-entregue-alegria-junto-com-a-comida.shtml
+2020-10-19 18:36:04,131          root     INFO: Replying to: 1318259636320030721
+2020-10-19 18:36:04,457          root     INFO: Id to store: 1318259637360144385
+2020-10-19 18:36:08,153          root     INFO: Finished script
