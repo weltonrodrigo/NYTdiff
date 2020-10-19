@@ -1,19 +1,20 @@
-2020-10-19 13:57:49,316          root     INFO: Starting script
-2020-10-19 13:57:50,193          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-19 13:57:50,867          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-19 13:57:51,548          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-19 13:57:51,745          root     INFO: Parsing R7 - Brasil
-2020-10-19 13:57:53,280          root     INFO: <del>Candidato à Prefeitura de São Paulo, Antonio Carlos Silva (PCO) é sabatinado pela Folha/UOL</del> <ins>Em sabatina Folha/UOL, candidato do PCO compara Boulos a Marina e defende armar população para se defender da PM</ins>
-2020-10-19 13:57:55,088          root     INFO: Media ready with ids: 1318189636456427520
-2020-10-19 13:57:55,088          root     INFO: Text to tweet: Modificação do Título
-2020-10-19 13:57:55,088          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-antonio-carlos-silva-pco-e-sabatinado-pela-folhauol.shtml
-2020-10-19 13:57:55,094          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-antonio-carlos-silva-pco-e-sabatinado-pela-folhauol.shtml
-2020-10-19 13:57:55,270          root     INFO: Replying to: 1318189638243241985
-2020-10-19 13:57:55,518          root     INFO: Id to store: 1318189639031787520
-2020-10-19 13:57:55,523          root     INFO: <del>A Folha,</del> <ins>O candidato do Antonio Carlos Silva (PCO) afirmou nesta segunda-feira (19), em sabatina da Folha</ins> em parceria com o UOL, <del>sabatina nesta segunda-feira (19) o primeiro candidato da disputa pela Prefeitura</del> <ins>comparou Guilherme Boulos (PSOL) com Marina Silva (Rede) e afirmou ser a favor</ins> de <del>São Paulo. As entrevistas, que serão transmitidas ao vivo, acontecem sempre às 10h.</del> <ins>armar a população .</ins> Leia mais (10/19/2020 - <del>08h42)</del> <ins>10h48)</ins>
-2020-10-19 13:57:57,258          root     INFO: Media ready with ids: 1318189645642031106
-2020-10-19 13:57:57,258          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-19 13:57:57,258          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-antonio-carlos-silva-pco-e-sabatinado-pela-folhauol.shtml
-2020-10-19 13:57:57,263          root     INFO: Replying to: 1318189639031787520
-2020-10-19 13:57:57,473          root     INFO: Id to store: 1318189647256801281
-2020-10-19 13:58:00,136          root     INFO: Finished script
+2020-10-19 14:26:54,882          root     INFO: Starting script
+2020-10-19 14:26:55,716          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-19 14:26:56,382          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-19 14:26:57,071          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-19 14:26:57,284          root     INFO: Parsing R7 - Brasil
+2020-10-19 14:26:58,805          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/boulos-diz-que-teve-celular-clonado-e-que-estao-pedindo-dinheiro-em-seu-nome.shtml
+2020-10-19 14:26:58,829          root     INFO: <del>Candidato à Prefeitura de São Paulo, Antonio Carlos Silva (PCO) é sabatinado pela Folha/UOL</del> <ins>Em sabatina Folha/UOL, candidato do PCO compara Boulos a Marina e defende armar população para se defender da PM</ins>
+2020-10-19 14:27:00,535          root     INFO: Media ready with ids: 1318196957714780160
+2020-10-19 14:27:00,536          root     INFO: Text to tweet: Modificação do Título
+2020-10-19 14:27:00,536          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-antonio-carlos-silva-pco-e-sabatinado-pela-folhauol.shtml
+2020-10-19 14:27:00,542          root     INFO: Replying to: 1318189647256801281
+2020-10-19 14:27:00,759          root     INFO: Id to store: 1318196959149236224
+2020-10-19 14:27:00,766          root     INFO: <del>A Folha,</del> <ins>O candidato do Antonio Carlos Silva (PCO) comparou nesta segunda-feira (19), em sabatina da Folha</ins> em parceria com o UOL, <del>sabatina nesta segunda-feira (19) o primeiro candidato da disputa pela Prefeitura</del> <ins>Guilherme Boulos (PSOL) com Marina Silva (Rede) e afirmou ser a favor</ins> de <del>São Paulo. As entrevistas,</del> <ins>armar a população para</ins> que <del>serão transmitidas ao vivo, acontecem sempre às 10h.</del> <ins>ela se defenda da polícia.</ins> Leia mais (10/19/2020 - <del>08h42)</del> <ins>10h48)</ins>
+2020-10-19 14:27:02,489          root     INFO: Media ready with ids: 1318196965730037763
+2020-10-19 14:27:02,490          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-19 14:27:02,491          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-antonio-carlos-silva-pco-e-sabatinado-pela-folhauol.shtml
+2020-10-19 14:27:02,495          root     INFO: Replying to: 1318196959149236224
+2020-10-19 14:27:02,709          root     INFO: Id to store: 1318196967298707457
+2020-10-19 14:27:05,321          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/relembre-flagras-de-dinheiro-escondido-de-bunker-biblia-e-cueca-ate-entre-as-nadegas.shtml
+2020-10-19 14:27:05,322          root     INFO: Finished script
