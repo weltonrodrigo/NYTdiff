@@ -1,6 +1,19 @@
-2020-10-19 12:57:46,671          root     INFO: Starting script
-2020-10-19 12:57:47,683          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-19 12:57:48,511          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-19 12:57:49,339          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-19 12:57:49,571          root     INFO: Parsing R7 - Brasil
-2020-10-19 12:57:53,109          root     INFO: Finished script
+2020-10-19 13:24:23,071          root     INFO: Starting script
+2020-10-19 13:24:23,951          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-19 13:24:24,618          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-19 13:24:25,290          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-19 13:24:25,472          root     INFO: Parsing R7 - Brasil
+2020-10-19 13:24:27,009          root     INFO: <del>Candidato à Prefeitura</del> <ins>Meu governo em Jaboticabal não será</ins> de <del>Jaboticabal,</del> <ins>continuísmo, diz</ins> Vitorio de <del>Simoni, do MDB, participa de</del> <ins>Simoni em</ins> sabatina da Folha
+2020-10-19 13:24:28,862          root     INFO: Media ready with ids: 1318181221856399360
+2020-10-19 13:24:28,863          root     INFO: Text to tweet: Modificação do Título
+2020-10-19 13:24:28,863          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-jaboticabal-vitorio-de-simoni-do-mdb-participa-de-sabatina-da-folha.shtml
+2020-10-19 13:24:28,868          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-jaboticabal-vitorio-de-simoni-do-mdb-participa-de-sabatina-da-folha.shtml
+2020-10-19 13:24:29,061          root     INFO: Replying to: 1318181223588560897
+2020-10-19 13:24:29,313          root     INFO: Id to store: 1318181224419119104
+2020-10-19 13:24:29,318          root     INFO: <del>O candidato à Prefeitura</del> <ins>Atual vice-prefeito</ins> de Jaboticabal <del>(SP)</del> <ins>(a 342 km de São Paulo),</ins> Vitorio de Simoni (MDB) <del>é o primeiro participante de sabatina da Folha com nomes</del> <ins>disse</ins> que <del>disputam a eleição no município</del> <ins>seu eventual governo não será uma continuação</ins> do <del>interior paulista.</del> <ins>mandato de José Carlos Hori (Cidadania), que hoje governa a cidade.</ins> Leia mais (10/19/2020 - 07h00)
+2020-10-19 13:24:31,046          root     INFO: Media ready with ids: 1318181231020867586
+2020-10-19 13:24:31,046          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-19 13:24:31,046          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-jaboticabal-vitorio-de-simoni-do-mdb-participa-de-sabatina-da-folha.shtml
+2020-10-19 13:24:31,055          root     INFO: Replying to: 1318181224419119104
+2020-10-19 13:24:31,324          root     INFO: Id to store: 1318181232774086656
+2020-10-19 13:24:33,845          root     INFO: Finished script
