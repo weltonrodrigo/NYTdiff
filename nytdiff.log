@@ -1,20 +1,8 @@
-2020-10-19 16:30:58,042          root     INFO: Starting script
-2020-10-19 16:30:58,870          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-19 16:30:59,552          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-19 16:31:00,235          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-19 16:31:00,430          root     INFO: Parsing R7 - Brasil
-2020-10-19 16:31:04,311          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-pede-ajuda-arabe-para-levar-produtos-nacionais-a-asia-19102020
-2020-10-19 16:31:04,315          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-anuncia-pacote-de-acordos-com-os-estados-unidos-19102020
-2020-10-19 16:31:04,317          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-operacao-contra-lavagem-de-dinheiro-e-ocultacao-de-provas-19102020
-2020-10-19 16:31:04,319          root     INFO: Removed http://noticias.r7.com/brasil/feminicidios-crescem-e-registros-de-violencia-domestica-caem-em-2020-19102020
-2020-10-19 16:31:04,322          root     INFO: Removed http://noticias.r7.com/brasil/pacote-com-nove-medidas-contra-corrupcao-esta-parado-ha-um-mes-19102020
-2020-10-19 16:31:04,324          root     INFO: Removed http://noticias.r7.com/brasil/covid-19-bolsonaro-volta-a-dizer-que-vacina-nao-sera-obrigatoria-19102020
-2020-10-19 16:31:04,327          root     INFO: Removed http://noticias.r7.com/brasil/senador-vota-pela-rejeicao-da-indicacao-de-kassio-nunes-ao-stf-19102020
-2020-10-19 16:31:04,329          root     INFO: Removed http://noticias.r7.com/brasil/atuacao-da-agu-no-stf-garante-economia-de-r-630-bilhoes-ao-pais-19102020
-2020-10-19 16:31:04,331          root     INFO: Removed http://noticias.r7.com/brasil/impacto-da-covid-19-nas-prisoes-e-48-superior-a-taxa-nacional-19102020
-2020-10-19 16:31:04,333          root     INFO: Removed http://noticias.r7.com/brasil/quase-5-mil-criancas-foram-vitimas-de-assassinato-em-2019-diz-estudo-19102020
-2020-10-19 16:31:04,335          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-2020-brasil-tem-1479-milhoes-de-eleitores-aptos-a-votar-19102020
-2020-10-19 16:31:04,337          root     INFO: Removed http://noticias.r7.com/brasil/uma-pessoa-e-assassinada-a-cada-10-minutos-no-pais-diz-anuario-19102020
-2020-10-19 16:31:04,339          root     INFO: Removed http://noticias.r7.com/brasil/uma-pessoa-e-estuprada-a-cada-8-minutos-no-pais-aponta-anuario-19102020
-2020-10-19 16:31:04,341          root     INFO: Removed http://noticias.r7.com/brasil/guedes-fala-em-queda-de-4-do-pib-e-apoio-de-bolsonaro-para-teto-19102020
-2020-10-19 16:31:04,343          root     INFO: Finished script
+2020-10-19 16:48:31,291          root     INFO: Starting script
+2020-10-19 16:48:32,338          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-19 16:48:33,173          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-19 16:48:33,999          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-19 16:48:34,298          root     INFO: Parsing R7 - Brasil
+2020-10-19 16:48:35,635          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/ministerio-publico-diz-que-live-de-caetano-nao-se-enquadra-em-showmicio.shtml
+2020-10-19 16:48:37,928          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3579
+2020-10-19 16:48:37,929          root     INFO: Finished script
