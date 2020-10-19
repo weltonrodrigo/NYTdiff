@@ -1,10 +1,10 @@
-2020-10-19 16:57:41,823          root     INFO: Starting script
-2020-10-19 16:57:42,653          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-19 16:57:43,319          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-19 16:57:43,994          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-19 16:57:44,247          root     INFO: Parsing R7 - Brasil
-2020-10-19 16:57:48,123          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-suspende-reajuste-de-ingressos-de-parque-nacionais-19102020
-2020-10-19 16:57:48,138          root     INFO: New article tracked: http://noticias.r7.com/brasil/linchado-por-ter-guardado-proprio-dinheiro-diz-defesa-de-senador-19102020
-2020-10-19 16:57:48,148          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasilia-tera-nesta-terca-feira-ato-a-favor-da-desoneracao-da-folha-19102020
-2020-10-19 16:57:48,155          root     INFO: New article tracked: http://noticias.r7.com/brasil/nao-da-pra-ficar-muito-mais-tempo-com-auxilio-diz-bolsonaro-19102020
-2020-10-19 16:57:48,361          root     INFO: Finished script
+2020-10-19 17:23:06,730          root     INFO: Starting script
+2020-10-19 17:23:07,571          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-19 17:23:08,225          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-19 17:23:08,884          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-19 17:23:09,158          root     INFO: Parsing R7 - Brasil
+2020-10-19 17:23:12,803          root     INFO: Removed http://noticias.r7.com/brasil/brasilia-tera-nesta-terca-feira-ato-a-favor-da-desoneracao-da-folha-19102020
+2020-10-19 17:23:12,807          root     INFO: Removed http://noticias.r7.com/brasil/nao-da-pra-ficar-muito-mais-tempo-com-auxilio-diz-bolsonaro-19102020
+2020-10-19 17:23:12,811          root     INFO: Removed http://noticias.r7.com/brasil/linchado-por-ter-guardado-proprio-dinheiro-diz-defesa-de-senador-19102020
+2020-10-19 17:23:12,813          root     INFO: Removed http://noticias.r7.com/brasil/governo-suspende-reajuste-de-ingressos-de-parque-nacionais-19102020
+2020-10-19 17:23:12,814          root     INFO: Finished script
