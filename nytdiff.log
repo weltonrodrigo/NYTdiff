@@ -1,6 +1,13 @@
-2020-10-19 11:57:49,729          root     INFO: Starting script
-2020-10-19 11:57:50,561          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-19 11:57:51,233          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-19 11:57:51,902          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-19 11:57:52,063          root     INFO: Parsing R7 - Brasil
-2020-10-19 11:57:55,787          root     INFO: Finished script
+2020-10-19 12:31:55,564          root     INFO: Starting script
+2020-10-19 12:31:56,587          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-19 12:31:57,426          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-19 12:31:58,267          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-19 12:31:58,528          root     INFO: Parsing R7 - Brasil
+2020-10-19 12:31:58,935          root     INFO: Era de se prever uma vitória tranquila do Flamengo sobre o Corinthians mesmo no estádio alvinegro em tarde de time <del>marron-celeste.</del> <ins>marrom-celeste.</ins> Leia mais (10/18/2020 - 20h00)
+2020-10-19 12:32:00,787          root     INFO: Media ready with ids: 1318168017919004673
+2020-10-19 12:32:00,787          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-19 12:32:00,787          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/10/poucas-vezes-o-placar-de-um-jogo-exprime-tao-bem-a-diferenca-entre-dois-times.shtml
+2020-10-19 12:32:00,795          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/10/poucas-vezes-o-placar-de-um-jogo-exprime-tao-bem-a-diferenca-entre-dois-times.shtml
+2020-10-19 12:32:01,050          root     INFO: Replying to: 1318168019818905602
+2020-10-19 12:32:01,338          root     INFO: Id to store: 1318168020808835072
+2020-10-19 12:32:04,832          root     INFO: Finished script
