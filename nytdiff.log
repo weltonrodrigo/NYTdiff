@@ -1,6 +1,19 @@
-2020-10-19 23:30:55,192          root     INFO: Starting script
-2020-10-19 23:30:56,216          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-19 23:30:57,062          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-19 23:30:57,900          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-19 23:30:58,222          root     INFO: Parsing R7 - Brasil
-2020-10-19 23:31:01,690          root     INFO: Finished script
+2020-10-19 23:46:44,644          root     INFO: Starting script
+2020-10-19 23:46:45,701          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-19 23:46:46,357          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-19 23:46:47,018          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-19 23:46:47,218          root     INFO: Parsing R7 - Brasil
+2020-10-19 23:46:48,545          root     INFO: <del>Live da Folha discute uso</del> <ins>Diálogo é importante para definir os limites</ins> de aplicativos <del>jurídicos e uberização na advocacia</del> <ins>jurídicos, afirmam especialistas</ins>
+2020-10-19 23:46:50,300          root     INFO: Media ready with ids: 1318337843392139264
+2020-10-19 23:46:50,301          root     INFO: Text to tweet: Modificação do Título
+2020-10-19 23:46:50,301          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/live-da-folha-discute-uso-de-aplicativos-juridicos-e-uberizacao-na-advocacia.shtml
+2020-10-19 23:46:50,305          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/live-da-folha-discute-uso-de-aplicativos-juridicos-e-uberizacao-na-advocacia.shtml
+2020-10-19 23:46:50,464          root     INFO: Replying to: 1318337844780347392
+2020-10-19 23:46:50,740          root     INFO: Id to store: 1318337845451436038
+2020-10-19 23:46:50,744          root     INFO: <del>O uso de aplicativos e plataformas jurídicas e o processo de uberização na advocacia serão os temas</del> <ins>É preciso ter maior clareza quanto às regras</ins> da <del>edição</del> <ins>advocia, principlamente em relação à publicidade, segundo convidados</ins> desta segunda-feira (19) do Ao Vivo em Casa, série de lives (transmissões ao vivo) da Folha com entrevistas, serviços, dicas e apresentações <del>musicais.??</del> <ins>musicai.</ins> Leia mais (10/19/2020 - 02h00)
+2020-10-19 23:46:52,518          root     INFO: Media ready with ids: 1318337852372111360
+2020-10-19 23:46:52,518          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-19 23:46:52,518          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/live-da-folha-discute-uso-de-aplicativos-juridicos-e-uberizacao-na-advocacia.shtml
+2020-10-19 23:46:52,522          root     INFO: Replying to: 1318337845451436038
+2020-10-19 23:46:52,761          root     INFO: Id to store: 1318337854133723143
+2020-10-19 23:46:54,622          root     INFO: Finished script
