@@ -1,15 +1,6 @@
-2020-10-19 22:24:11,200          root     INFO: Starting script
-2020-10-19 22:24:12,221          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-19 22:24:13,051          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-19 22:24:13,886          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-19 22:24:14,181          root     INFO: Parsing R7 - Brasil
-2020-10-19 22:24:14,588          root     INFO: A <del>Academia</del> <ins>academia</ins> agora é em casa?
-2020-10-19 22:24:16,424          root     INFO: Media ready with ids: 1318317065216905216
-2020-10-19 22:24:16,425          root     INFO: Text to tweet: Modificação do Título
-2020-10-19 22:24:16,425          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2020/10/a-academia-agora-e-em-casa.shtml
-2020-10-19 22:24:16,431          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2020/10/a-academia-agora-e-em-casa.shtml
-2020-10-19 22:24:16,719          root     INFO: Replying to: 1318317067079208960
-2020-10-19 22:24:16,986          root     INFO: Id to store: 1318317068161265665
-2020-10-19 22:24:18,118          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/comissao-do-senado-aprova-diretores-da-autoridade-nacional-de-protecao-de-dados.shtml
-2020-10-19 22:24:20,652          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/bolsonaro-diz-que-senador-tinha-prestigio-e-carinho-mas-que-dinheiro-na-cueca-nao-tem-a-ver-com-governo.shtml
-2020-10-19 22:24:20,653          root     INFO: Finished script
+2020-10-19 22:31:32,111          root     INFO: Starting script
+2020-10-19 22:31:33,279          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-19 22:31:33,962          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-19 22:31:34,636          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-19 22:31:34,865          root     INFO: Parsing R7 - Brasil
+2020-10-19 22:31:38,891          root     INFO: Finished script
