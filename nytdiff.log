@@ -1,19 +1,19 @@
-2020-10-20 13:57:59,990          root     INFO: Starting script
-2020-10-20 13:58:01,005          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-20 13:58:01,985          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-20 13:58:02,826          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-20 13:58:03,038          root     INFO: Parsing R7 - Brasil
-2020-10-20 13:58:04,397          root     INFO: Em sabatina da Folha, Professor Emerson diz que irá revisar contratos e <del>aluguéis e</del> reduzir comissionados em Jaboticabal
-2020-10-20 13:58:06,280          root     INFO: Media ready with ids: 1318552071281512448
-2020-10-20 13:58:06,280          root     INFO: Text to tweet: Modificação do Título
-2020-10-20 13:58:06,280          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/em-sabatina-da-folha-professor-emerson-diz-que-ira-revisar-contratos-e-alugueis-e-reduzir-comissionados-em-jaboticabal.shtml
-2020-10-20 13:58:06,285          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/em-sabatina-da-folha-professor-emerson-diz-que-ira-revisar-contratos-e-alugueis-e-reduzir-comissionados-em-jaboticabal.shtml
-2020-10-20 13:58:06,538          root     INFO: Replying to: 1318552073290588162
-2020-10-20 13:58:06,822          root     INFO: Id to store: 1318552074251100166
-2020-10-20 13:58:06,826          root     INFO: <del>O candidato</del> <ins>Candidato</ins> à Prefeitura de <del>Jaboticabal</del> <ins>Jaboticabal,</ins> Professor Emerson (Patriota), 41, diz que, se eleito, irá revisar contratos e aluguéis e reduzir o total de comissionados na cidade. Essa é a fórmula para conseguir investir na administração de Jaboticabal nos primeiros meses de governo, segundo ele. Leia mais (10/20/2020 - 09h50)
-2020-10-20 13:58:08,935          root     INFO: Media ready with ids: 1318552081423368196
-2020-10-20 13:58:08,935          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-20 13:58:08,935          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/em-sabatina-da-folha-professor-emerson-diz-que-ira-revisar-contratos-e-alugueis-e-reduzir-comissionados-em-jaboticabal.shtml
-2020-10-20 13:58:08,942          root     INFO: Replying to: 1318552074251100166
-2020-10-20 13:58:09,282          root     INFO: Id to store: 1318552084413808647
-2020-10-20 13:58:11,545          root     INFO: Finished script
+2020-10-20 14:26:33,674          root     INFO: Starting script
+2020-10-20 14:26:34,698          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-20 14:26:35,527          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-20 14:26:36,363          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-20 14:26:36,662          root     INFO: Parsing R7 - Brasil
+2020-10-20 14:26:38,216          root     INFO: <del>Candidatos Francischini, de Curitiba, e Fortunati, de Porto Alegre, participam da</del> <ins>'Sou aliado do presidente Bolsonaro, mas não alienado', diz Francischini em</ins> sabatina Folha/UOL
+2020-10-20 14:26:40,214          root     INFO: Media ready with ids: 1318559259743932420
+2020-10-20 14:26:40,215          root     INFO: Text to tweet: Modificação do Título
+2020-10-20 14:26:40,215          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-francischini-de-curitiba-e-fortunati-de-porto-alegre-participam-da-sabatina-folhauol.shtml
+2020-10-20 14:26:40,220          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-francischini-de-curitiba-e-fortunati-de-porto-alegre-participam-da-sabatina-folhauol.shtml
+2020-10-20 14:26:40,492          root     INFO: Replying to: 1318559262113759232
+2020-10-20 14:26:40,797          root     INFO: Id to store: 1318559263174905859
+2020-10-20 14:26:40,801          root     INFO: <del>A Folha, em parceria com</del> <ins>"Eu não sou um alienado do presidente [Jair] Bolsonaro, sou aliado, defendo</ins> o <del>UOL, sabatina nesta terça-feira (20)</del> <ins>governo, defendo as pautas, mas tem coisa que eu não concordo", disse</ins> Fernando <del>Francischini,</del> <ins>Francischini (PSL),</ins> candidato <del>pelo PSL</del> à Prefeitura de <del>Curitiba, e José Fortunati, que se lançou pelo PTB à Prefeitura de Porto Alegre.</del> <ins>Curitiba.</ins> Leia mais (10/20/2020 - 07h00)
+2020-10-20 14:26:45,706          root     INFO: Media ready with ids: 1318559283190112263
+2020-10-20 14:26:45,706          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-20 14:26:45,706          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-francischini-de-curitiba-e-fortunati-de-porto-alegre-participam-da-sabatina-folhauol.shtml
+2020-10-20 14:26:45,711          root     INFO: Replying to: 1318559263174905859
+2020-10-20 14:26:45,994          root     INFO: Id to store: 1318559284989480963
+2020-10-20 14:26:48,563          root     INFO: Finished script
