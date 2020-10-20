@@ -1,20 +1,6 @@
-2020-10-20 13:24:41,520          root     INFO: Starting script
-2020-10-20 13:24:42,535          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-20 13:24:43,366          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-20 13:24:44,193          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-20 13:24:44,408          root     INFO: Parsing R7 - Brasil
-2020-10-20 13:24:44,669          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2020/10/por-que-biden-tera-de-gastar-muito-dinheiro.shtml
-2020-10-20 13:24:45,830          root     INFO: Senador <ins>do DEM</ins> flagrado <del>pela PF</del> com dinheiro na cueca pede licença <del>de 90 dias</del> do mandato
-2020-10-20 13:24:47,608          root     INFO: Media ready with ids: 1318543688600080397
-2020-10-20 13:24:47,609          root     INFO: Text to tweet: Modificação do Título
-2020-10-20 13:24:47,609          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/senador-flagrado-pela-pf-com-dinheiro-na-cueca-pede-licenca-de-90-dias-do-mandato.shtml
-2020-10-20 13:24:47,617          root     INFO: Replying to: 1318536929336590337
-2020-10-20 13:24:48,008          root     INFO: Id to store: 1318543690554613766
-2020-10-20 13:24:48,012          root     INFO: O senador Chico Rodrigues (DEM-RR), flagrado <ins>pela Polícia Federal</ins> com dinheiro escondido na cueca, pediu afastamento do mandato nesta terça-feira (20). De acordo com a defesa do senador, o afastamento solicitado é pelo período de 90 dias. Leia mais (10/20/2020 - 09h26)
-2020-10-20 13:24:49,840          root     INFO: Media ready with ids: 1318543697571729411
-2020-10-20 13:24:49,841          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-20 13:24:49,841          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/senador-flagrado-pela-pf-com-dinheiro-na-cueca-pede-licenca-de-90-dias-do-mandato.shtml
-2020-10-20 13:24:49,846          root     INFO: Replying to: 1318543690554613766
-2020-10-20 13:24:50,151          root     INFO: Id to store: 1318543699542933504
-2020-10-20 13:24:52,741          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2020/10/escute-eu-estou-falando.shtml
-2020-10-20 13:24:52,742          root     INFO: Finished script
+2020-10-20 13:32:08,394          root     INFO: Starting script
+2020-10-20 13:32:09,416          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-20 13:32:10,242          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-20 13:32:11,075          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-20 13:32:11,362          root     INFO: Parsing R7 - Brasil
+2020-10-20 13:32:14,785          root     INFO: Finished script
