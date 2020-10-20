@@ -1,12 +1,13 @@
-2020-10-20 02:46:37,703          root     INFO: Starting script
-2020-10-20 02:46:38,526          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-20 02:46:39,187          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-20 02:46:39,854          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-20 02:46:39,922          root     INFO: Parsing R7 - Brasil
-2020-10-20 02:46:40,152          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2020/10/toda-forma-de-aprendizado-se-aproveita.shtml
-2020-10-20 02:46:40,173          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2020/10/robinho-e-a-cultura-do-estupro.shtml
-2020-10-20 02:46:40,182          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/10/o-teto-e-o-gasto.shtml
-2020-10-20 02:46:43,321          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/contardocalligaris/2020/10/todos-os-valores-atras-dos-quais-o-homem-desfilou-sao-encharcados-de-sangue.shtml
-2020-10-20 02:46:43,323          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2020/10/iozzi-e-tas-divergem-sobre-papel-do-cqc-na-promocao-de-bolsonaro.shtml
-2020-10-20 02:46:43,326          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cida-bento/2020/10/candidaturas-negras.shtml
-2020-10-20 02:46:43,327          root     INFO: Finished script
+2020-10-20 02:57:41,880          root     INFO: Starting script
+2020-10-20 02:57:42,679          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-20 02:57:43,325          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-20 02:57:43,983          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-20 02:57:44,200          root     INFO: Parsing R7 - Brasil
+2020-10-20 02:57:44,470          root     INFO: Fazia mais de uma década que eu não tirava a flauta do estojo para mais do que uma passada rápida, pró-forma. Mas dois amigos novos, um músico profissional no circuito de Nashville, o outro cineasta bem versado em música clássica, me inspiraram a voltar a tocar o <del>que afinal</del> <ins>que, afinal,</ins> era o meu melhor instrumento. <del>Minha flauta de estudante, presente do meu pai quando eu tinha uns 12 anos, ainda dava para o gasto, mas resolvi que era finalmente hora de fazer upgrade. Nashville, Cidade da Música auto-proclamada, não me decepcionou: em uma hora eu estava de volta em casa com uma nova flauta, prateada, usada mas em perfeitas condições ? e com teclas tão mais sensíveis e suaves do que eu estava acostumada.</del> Leia mais (10/19/2020 - 23h19)
+2020-10-20 02:57:46,364          root     INFO: Media ready with ids: 1318385893179359232
+2020-10-20 02:57:46,365          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-20 02:57:46,365          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2020/10/toda-forma-de-aprendizado-se-aproveita.shtml
+2020-10-20 02:57:46,370          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2020/10/toda-forma-de-aprendizado-se-aproveita.shtml
+2020-10-20 02:57:46,537          root     INFO: Replying to: 1318385895058362368
+2020-10-20 02:57:46,746          root     INFO: Id to store: 1318385895691685891
+2020-10-20 02:57:49,808          root     INFO: Finished script
