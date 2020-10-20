@@ -1,6 +1,10 @@
-2020-10-20 15:35:19,679          root     INFO: Starting script
-2020-10-20 15:35:20,741          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-20 15:35:21,586          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-20 15:35:22,435          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-20 15:35:22,755          root     INFO: Parsing R7 - Brasil
-2020-10-20 15:35:26,941          root     INFO: Finished script
+2020-10-20 15:48:49,191          root     INFO: Starting script
+2020-10-20 15:48:50,015          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-20 15:48:50,690          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-20 15:48:51,378          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-20 15:48:51,564          root     INFO: Parsing R7 - Brasil
+2020-10-20 15:48:52,953          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/justica-bloqueia-r-29-milhoes-em-bens-de-doria-em-acao-por-improbidade-na-prefeitura-de-sp.shtml
+2020-10-20 15:48:52,962          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10267
+2020-10-20 15:48:55,353          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/em-sabatina-da-folha-professor-emerson-diz-que-ira-revisar-contratos-e-alugueis-e-reduzir-comissionados-em-jaboticabal.shtml
+2020-10-20 15:48:55,355          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/veja-erros-e-acertos-dos-candidatos-a-prefeito-de-sp-na-primeira-semana-de-horario-eleitoral.shtml
+2020-10-20 15:48:55,356          root     INFO: Finished script
