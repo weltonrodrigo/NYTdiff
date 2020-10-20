@@ -1,19 +1,6 @@
-2020-10-20 14:26:33,674          root     INFO: Starting script
-2020-10-20 14:26:34,698          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-20 14:26:35,527          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-20 14:26:36,363          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-20 14:26:36,662          root     INFO: Parsing R7 - Brasil
-2020-10-20 14:26:38,216          root     INFO: <del>Candidatos Francischini, de Curitiba, e Fortunati, de Porto Alegre, participam da</del> <ins>'Sou aliado do presidente Bolsonaro, mas não alienado', diz Francischini em</ins> sabatina Folha/UOL
-2020-10-20 14:26:40,214          root     INFO: Media ready with ids: 1318559259743932420
-2020-10-20 14:26:40,215          root     INFO: Text to tweet: Modificação do Título
-2020-10-20 14:26:40,215          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-francischini-de-curitiba-e-fortunati-de-porto-alegre-participam-da-sabatina-folhauol.shtml
-2020-10-20 14:26:40,220          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-francischini-de-curitiba-e-fortunati-de-porto-alegre-participam-da-sabatina-folhauol.shtml
-2020-10-20 14:26:40,492          root     INFO: Replying to: 1318559262113759232
-2020-10-20 14:26:40,797          root     INFO: Id to store: 1318559263174905859
-2020-10-20 14:26:40,801          root     INFO: <del>A Folha, em parceria com</del> <ins>"Eu não sou um alienado do presidente [Jair] Bolsonaro, sou aliado, defendo</ins> o <del>UOL, sabatina nesta terça-feira (20)</del> <ins>governo, defendo as pautas, mas tem coisa que eu não concordo", disse</ins> Fernando <del>Francischini,</del> <ins>Francischini (PSL),</ins> candidato <del>pelo PSL</del> à Prefeitura de <del>Curitiba, e José Fortunati, que se lançou pelo PTB à Prefeitura de Porto Alegre.</del> <ins>Curitiba.</ins> Leia mais (10/20/2020 - 07h00)
-2020-10-20 14:26:45,706          root     INFO: Media ready with ids: 1318559283190112263
-2020-10-20 14:26:45,706          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-20 14:26:45,706          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-francischini-de-curitiba-e-fortunati-de-porto-alegre-participam-da-sabatina-folhauol.shtml
-2020-10-20 14:26:45,711          root     INFO: Replying to: 1318559263174905859
-2020-10-20 14:26:45,994          root     INFO: Id to store: 1318559284989480963
-2020-10-20 14:26:48,563          root     INFO: Finished script
+2020-10-20 14:46:51,344          root     INFO: Starting script
+2020-10-20 14:46:52,182          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-20 14:46:52,865          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-20 14:46:53,552          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-20 14:46:53,674          root     INFO: Parsing R7 - Brasil
+2020-10-20 14:46:57,593          root     INFO: Finished script
