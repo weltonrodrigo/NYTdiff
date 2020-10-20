@@ -1,28 +1,26 @@
-2020-10-20 17:30:30,593          root     INFO: Starting script
-2020-10-20 17:30:31,620          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-20 17:30:32,472          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-20 17:30:33,311          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-20 17:30:33,500          root     INFO: Parsing R7 - Brasil
-2020-10-20 17:30:34,832          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/comissao-do-senado-aprova-indicacao-de-jorge-oliveira-ministro-de-bolsonaro-para-o-tcu.shtml
-2020-10-20 17:30:36,966          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-flagrado-com-dinheiro-amplia-licenca-para-121-dias-20102020
-2020-10-20 17:30:36,976          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-do-senado-aprova-jorge-oliveira-para-vaga-no-tcu-20102020
-2020-10-20 17:30:36,982          root     INFO: New article tracked: http://noticias.r7.com/brasil/liderancas-dos-eua-elogiam-relacao-do-pais-com-brasil-diz-embaixador-20102020
-2020-10-20 17:30:36,991          root     INFO: New article tracked: http://noticias.r7.com/brasil/banco-dos-eua-anuncia-us-1-bilhao-em-investimentos-no-brasil-20102020
-2020-10-20 17:30:36,998          root     INFO: New article tracked: http://noticias.r7.com/brasil/bunker-dos-r-51-mi-stf-nega-semiaberto-para-geddel-lima-20102020
-2020-10-20 17:30:37,005          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-defesa-instala-usina-solar-na-esplanada-dos-ministerios-20102020
-2020-10-20 17:30:37,012          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-aprova-antonio-torres-para-presidente-da-anvisa-20102020
-2020-10-20 17:30:37,019          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-aprova-indicacao-de-vitor-saback-como-diretor-da-ana-20102020
-2020-10-20 17:30:37,024          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-trata-maia-alcolumbre-e-fux-com-respeito-20102020
-2020-10-20 17:30:37,031          root     INFO: New article tracked: http://noticias.r7.com/brasil/chico-rodrigues-saida-politica-nao-livra-senado-do-constrangimento-20102020
-2020-10-20 17:30:37,038          root     INFO: New article tracked: http://noticias.r7.com/brasil/chico-rodrigues-pede-para-se-afastar-do-senado-por-90-dias-20102020
-2020-10-20 17:30:37,045          root     INFO: New article tracked: http://noticias.r7.com/brasil/ao-vivo-jorge-oliveira-passa-por-sabatina-para-vaga-no-tcu-20102020
-2020-10-20 17:30:37,052          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-pode-votar-hoje-mp-que-facilita-ajuda-a-empresas-20102020
-2020-10-20 17:30:37,058          root     INFO: New article tracked: http://noticias.r7.com/brasil/lava-jato-funcionarios-da-petrobras-levaram-r-12-milhoes-em-propina-20102020
-2020-10-20 17:30:37,065          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-cumpre-sete-mandados-de-busca-em-77-fase-da-lava-jato-20102020
-2020-10-20 17:30:37,072          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-publica-decreto-que-libera-as-forcas-armadas-nas-eleicoes-2020-20102020
-2020-10-20 17:30:37,080          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-nos-eua-o-que-o-brasil-pode-ganhar-ou-perder-com-resultado-das-eleicoes-nos-eua-20102020
-2020-10-20 17:30:37,088          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-jorge-oliveira-passa-por-sabatina-para-vaga-no-tcu-20102020
-2020-10-20 17:30:37,095          root     INFO: New article tracked: http://noticias.r7.com/brasil/acumulada-mega-sena-pode-pagar-r-29-milhoes-nesta-terca-feira-20102020
-2020-10-20 17:30:37,102          root     INFO: New article tracked: http://noticias.r7.com/brasil/cadeia-imediatamente-defende-damares-sobre-caso-robinho-20102020
-2020-10-20 17:30:37,111          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-a-prefeito-brincam-e-dancam-no-tiktok-fenomeno-entre-criancas-e-adolescentes.shtml
-2020-10-20 17:30:37,112          root     INFO: Finished script
+2020-10-20 17:46:43,050          root     INFO: Starting script
+2020-10-20 17:46:43,893          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-20 17:46:44,563          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-20 17:46:45,236          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-20 17:46:45,396          root     INFO: Parsing R7 - Brasil
+2020-10-20 17:46:49,454          root     INFO: Removed http://noticias.r7.com/brasil/camara-pode-votar-hoje-mp-que-facilita-ajuda-a-empresas-20102020
+2020-10-20 17:46:49,459          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-defesa-instala-usina-solar-na-esplanada-dos-ministerios-20102020
+2020-10-20 17:46:49,464          root     INFO: Removed http://noticias.r7.com/brasil/bunker-dos-r-51-mi-stf-nega-semiaberto-para-geddel-lima-20102020
+2020-10-20 17:46:49,467          root     INFO: Removed http://noticias.r7.com/brasil/acumulada-mega-sena-pode-pagar-r-29-milhoes-nesta-terca-feira-20102020
+2020-10-20 17:46:49,469          root     INFO: Removed http://noticias.r7.com/brasil/banco-dos-eua-anuncia-us-1-bilhao-em-investimentos-no-brasil-20102020
+2020-10-20 17:46:49,471          root     INFO: Removed http://noticias.r7.com/brasil/chico-rodrigues-pede-para-se-afastar-do-senado-por-90-dias-20102020
+2020-10-20 17:46:49,474          root     INFO: Removed http://noticias.r7.com/brasil/comissao-do-senado-aprova-jorge-oliveira-para-vaga-no-tcu-20102020
+2020-10-20 17:46:49,477          root     INFO: Removed http://noticias.r7.com/brasil/governo-publica-decreto-que-libera-as-forcas-armadas-nas-eleicoes-2020-20102020
+2020-10-20 17:46:49,479          root     INFO: Removed http://noticias.r7.com/brasil/liderancas-dos-eua-elogiam-relacao-do-pais-com-brasil-diz-embaixador-20102020
+2020-10-20 17:46:49,482          root     INFO: Removed http://noticias.r7.com/brasil/ao-vivo-jorge-oliveira-passa-por-sabatina-para-vaga-no-tcu-20102020
+2020-10-20 17:46:49,484          root     INFO: Removed http://noticias.r7.com/brasil/comissao-aprova-antonio-torres-para-presidente-da-anvisa-20102020
+2020-10-20 17:46:49,486          root     INFO: Removed http://noticias.r7.com/brasil/ministro-jorge-oliveira-passa-por-sabatina-para-vaga-no-tcu-20102020
+2020-10-20 17:46:49,489          root     INFO: Removed http://noticias.r7.com/brasil/cadeia-imediatamente-defende-damares-sobre-caso-robinho-20102020
+2020-10-20 17:46:49,491          root     INFO: Removed http://noticias.r7.com/brasil/comissao-aprova-indicacao-de-vitor-saback-como-diretor-da-ana-20102020
+2020-10-20 17:46:49,493          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-trata-maia-alcolumbre-e-fux-com-respeito-20102020
+2020-10-20 17:46:49,496          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-nos-eua-o-que-o-brasil-pode-ganhar-ou-perder-com-resultado-das-eleicoes-nos-eua-20102020
+2020-10-20 17:46:49,498          root     INFO: Removed http://noticias.r7.com/brasil/chico-rodrigues-saida-politica-nao-livra-senado-do-constrangimento-20102020
+2020-10-20 17:46:49,500          root     INFO: Removed http://noticias.r7.com/brasil/pf-cumpre-sete-mandados-de-busca-em-77-fase-da-lava-jato-20102020
+2020-10-20 17:46:49,503          root     INFO: Removed http://noticias.r7.com/brasil/lava-jato-funcionarios-da-petrobras-levaram-r-12-milhoes-em-propina-20102020
+2020-10-20 17:46:49,504          root     INFO: Removed http://noticias.r7.com/brasil/senador-flagrado-com-dinheiro-amplia-licenca-para-121-dias-20102020
+2020-10-20 17:46:49,505          root     INFO: Finished script
