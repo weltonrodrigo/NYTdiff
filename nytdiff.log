@@ -1,14 +1,8 @@
-2020-10-20 23:46:50,931          root     INFO: Starting script
-2020-10-20 23:46:51,763          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-20 23:46:52,431          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-20 23:46:53,100          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-20 23:46:53,388          root     INFO: Parsing R7 - Brasil
-2020-10-20 23:46:57,213          root     INFO: New article tracked: http://noticias.r7.com/brasil/decisao-mais-irracional-da-minha-vida-diz-senador-pego-com-dinheiro-20102020
-2020-10-20 23:46:57,346          root     INFO: Chico Rodrigues: saída política não livra <del>senado</del> <ins>Senado</ins> do constrangimento
-2020-10-20 23:46:59,110          root     INFO: Media ready with ids: 1318700267848798208
-2020-10-20 23:46:59,111          root     INFO: Text to tweet: Modificação do Título
-2020-10-20 23:46:59,111          root     INFO: Article id: http://noticias.r7.com/brasil/chico-rodrigues-saida-politica-nao-livra-senado-do-constrangimento-20102020
-2020-10-20 23:46:59,118          root     INFO: Tweeting url: http://noticias.r7.com/brasil/chico-rodrigues-saida-politica-nao-livra-senado-do-constrangimento-20102020
-2020-10-20 23:46:59,287          root     INFO: Replying to: 1318700269648183297
-2020-10-20 23:46:59,544          root     INFO: Id to store: 1318700270315053058
-2020-10-20 23:46:59,691          root     INFO: Finished script
+2020-10-20 23:57:38,449          root     INFO: Starting script
+2020-10-20 23:57:39,485          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-20 23:57:40,309          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-20 23:57:41,136          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-20 23:57:41,397          root     INFO: Parsing R7 - Brasil
+2020-10-20 23:57:44,965          root     INFO: New article tracked: http://noticias.r7.com/brasil/decreto-que-autoriza-uso-das-forcas-armadas-nas-eleicoes-e-publicado-20102020
+2020-10-20 23:57:45,197          root     INFO: Removed http://noticias.r7.com/brasil/decisao-mais-irracional-da-minha-vida-diz-senador-pego-com-dinheiro-20102020
+2020-10-20 23:57:45,198          root     INFO: Finished script
