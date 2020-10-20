@@ -1,22 +1,8 @@
-2020-10-20 18:43:56,156          root     INFO: Starting script
-2020-10-20 18:43:57,020          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-20 18:43:57,701          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-20 18:43:58,392          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-20 18:43:58,559          root     INFO: Parsing R7 - Brasil
-2020-10-20 18:44:00,423          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/flagrado-com-dinheiro-na-cueca-amplia-licenca-no-senado-e-stf-suspende-julgamento.shtml
-2020-10-20 18:44:00,435          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/rap-de-fernando-holiday-tera-esquerda-movimento-negro-e-cotas-raciais-como-alvos.shtml
-2020-10-20 18:44:00,496          root     INFO: Por trás desse <del>broche,</del> <ins>broche</ins> existe um ser humano, diz em vídeo senador flagrado com dinheiro na cueca
-2020-10-20 18:44:02,226          root     INFO: Media ready with ids: 1318624028907786241
-2020-10-20 18:44:02,227          root     INFO: Text to tweet: Modificação do Título
-2020-10-20 18:44:02,227          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/por-tras-desse-broche-existe-um-ser-humano-diz-em-video-senador-flagrado-com-dinheiro-na-cueca.shtml
-2020-10-20 18:44:02,232          root     INFO: Replying to: 1318590759457722368
-2020-10-20 18:44:02,459          root     INFO: Id to store: 1318624030254075904
-2020-10-20 18:44:02,465          root     INFO: O senador Chico <del>Rodrigues, do DEM de Roraima,</del> <ins>Rodrigues (DEM-RR)</ins> enviou nesta terça-feira (20) um vídeo aos colegas para se defender no caso dos R$ 33,1 mil escondidos na cueca. Leia mais (10/20/2020 - 12h53)
-2020-10-20 18:44:04,143          root     INFO: Media ready with ids: 1318624036868468737
-2020-10-20 18:44:04,143          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-20 18:44:04,143          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/por-tras-desse-broche-existe-um-ser-humano-diz-em-video-senador-flagrado-com-dinheiro-na-cueca.shtml
-2020-10-20 18:44:04,148          root     INFO: Replying to: 1318624030254075904
-2020-10-20 18:44:04,379          root     INFO: Id to store: 1318624038277754880
-2020-10-20 18:44:07,527          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/embaixada-dos-eua-no-brasil-alerta-americanos-sobre-saidao-de-presos-nos-proximos-meses.shtml
-2020-10-20 18:44:07,530          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/ligue-180-recebe-denuncia-de-que-marido-bolsonarista-agrediu-ex-secretaria-de-damares.shtml
-2020-10-20 18:44:07,531          root     INFO: Finished script
+2020-10-20 18:48:04,010          root     INFO: Starting script
+2020-10-20 18:48:04,825          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-20 18:48:05,485          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-20 18:48:06,146          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-20 18:48:06,355          root     INFO: Parsing R7 - Brasil
+2020-10-20 18:48:07,771          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministerio-da-saude-anuncia-que-vai-incorporar-vacina-chinesa-em-calendario-nacional.shtml
+2020-10-20 18:48:10,204          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/gilmar-cita-telhado-de-vidro-e-chama-de-demagogia-movimento-de-fux-contra-decisoes-individuais-no-stf.shtml
+2020-10-20 18:48:10,205          root     INFO: Finished script
