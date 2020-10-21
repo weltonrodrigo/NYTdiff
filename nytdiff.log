@@ -1,27 +1,6 @@
-2020-10-21 18:26:17,905          root     INFO: Starting script
-2020-10-21 18:26:19,963          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-21 18:26:21,752          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-21 18:26:23,508          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-21 18:26:23,712          root     INFO: Parsing R7 - Brasil
-2020-10-21 18:26:25,177          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/doria-veta-projeto-que-protege-agentes-publicos-que-denunciarem-irregularidades-no-governo.shtml
-2020-10-21 18:26:25,262          root     INFO: Vânia Oliveira, a artesã alagoana que ganhou título <del>"mestre imortal"</del> <ins>'mestre imortal'</ins>
-2020-10-21 18:26:27,046          root     INFO: Media ready with ids: 1318981990515937283
-2020-10-21 18:26:27,047          root     INFO: Text to tweet: Modificação do Título
-2020-10-21 18:26:27,047          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://brasil.blogfolha.uol.com.br/?p=4097
-2020-10-21 18:26:27,055          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://brasil.blogfolha.uol.com.br/?p=4097
-2020-10-21 18:26:27,219          root     INFO: Replying to: 1318981992344653825
-2020-10-21 18:26:27,438          root     INFO: Id to store: 1318981993066016769
-2020-10-21 18:26:27,495          root     INFO: <del>Candidato à Prefeitura de São Paulo,</del> <ins>Em sabatina Folha/UOL,</ins> Levy Fidelix <del>participa da sabatina Folha/UOL</del> <ins>diz que merecia apoio de Bolsonaro e chama Russomanno de esquerda</ins>
-2020-10-21 18:26:29,142          root     INFO: Media ready with ids: 1318981999823065094
-2020-10-21 18:26:29,142          root     INFO: Text to tweet: Modificação do Título
-2020-10-21 18:26:29,143          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-levy-fidelix-participa-da-sabatina-folhauol.shtml
-2020-10-21 18:26:29,148          root     INFO: Replying to: 1318926734281015297
-2020-10-21 18:26:29,362          root     INFO: Id to store: 1318982001140039681
-2020-10-21 18:26:29,366          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta quarta-feira (21) Levy Fidelix,</del> <ins>O</ins> candidato <del>pelo</del> <ins>do</ins> PRTB à Prefeitura de São <del>Paulo.</del> <ins>Paulo, Levy Fidelix, afirmou nesta quarta-feira (21) que seu adversário e lider nas pesquisas Celso Russomanno (Republicanos) representa a esquerda nas eleições. Ele disse também que esperava apoio do presidente Jair Bolsonaro (sem partido).</ins> Leia mais (10/21/2020 - 07h00)
-2020-10-21 18:26:31,073          root     INFO: Media ready with ids: 1318982007792275473
-2020-10-21 18:26:31,073          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-21 18:26:31,073          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-levy-fidelix-participa-da-sabatina-folhauol.shtml
-2020-10-21 18:26:31,078          root     INFO: Replying to: 1318982001140039681
-2020-10-21 18:26:31,304          root     INFO: Id to store: 1318982009197416449
-2020-10-21 18:26:33,666          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/ibaneis-rocha-fez-filantropia-com-dinheiro-da-viuva.shtml
-2020-10-21 18:26:33,667          root     INFO: Finished script
+2020-10-21 18:36:54,817          root     INFO: Starting script
+2020-10-21 18:36:55,837          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-21 18:36:56,681          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-21 18:36:57,847          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-21 18:36:58,074          root     INFO: Parsing R7 - Brasil
+2020-10-21 18:37:01,460          root     INFO: Finished script
