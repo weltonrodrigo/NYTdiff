@@ -1,8 +1,15 @@
-2020-10-21 21:31:54,059          root     INFO: Starting script
-2020-10-21 21:31:54,864          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-21 21:31:55,519          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-21 21:31:56,171          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-21 21:31:56,401          root     INFO: Parsing R7 - Brasil
-2020-10-21 21:31:57,888          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/comissao-de-etica-do-novo-decide-pela-expulsao-de-filipe-sabara-do-partido.shtml
-2020-10-21 21:32:00,432          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/lider-do-ranking-de-doacoes-da-eleicao-diz-que-houve-engano-e-que-nunca-viu-r-10-milhoes-na-vida.shtml
-2020-10-21 21:32:00,434          root     INFO: Finished script
+2020-10-21 21:47:44,560          root     INFO: Starting script
+2020-10-21 21:47:45,382          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-21 21:47:46,038          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-21 21:47:46,715          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-21 21:47:46,924          root     INFO: Parsing R7 - Brasil
+2020-10-21 21:47:48,266          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-de-curitiba-exageram-sobre-gestao-da-pandemia-em-sabatina-folhauol.shtml
+2020-10-21 21:47:48,298          root     INFO: A comissão de ética do Novo enviou email a seus afiliados informando que <ins>o empresário</ins> Filipe Sabará, candidato à Prefeitura de São Paulo, foi expulso do partido por decisão unânime. Leia mais (10/21/2020 - 18h17)
+2020-10-21 21:47:50,277          root     INFO: Media ready with ids: 1319032670756757504
+2020-10-21 21:47:50,278          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-21 21:47:50,278          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/comissao-de-etica-do-novo-decide-pela-expulsao-de-filipe-sabara-do-partido.shtml
+2020-10-21 21:47:50,282          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/comissao-de-etica-do-novo-decide-pela-expulsao-de-filipe-sabara-do-partido.shtml
+2020-10-21 21:47:50,446          root     INFO: Replying to: 1319032673126518786
+2020-10-21 21:47:50,662          root     INFO: Id to store: 1319032673780858886
+2020-10-21 21:47:53,016          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/gestao-doria-planeja-aumentar-em-74-os-gastos-com-publicidade-do-governo-de-sp-em-2021.shtml
+2020-10-21 21:47:53,017          root     INFO: Finished script
