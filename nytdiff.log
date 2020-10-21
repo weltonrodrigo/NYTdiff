@@ -1,11 +1,7 @@
-2020-10-21 16:34:01,234          root     INFO: Starting script
-2020-10-21 16:34:02,283          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-21 16:34:03,141          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-21 16:34:03,989          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-21 16:34:04,228          root     INFO: Parsing R7 - Brasil
-2020-10-21 16:34:05,923          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2020/10/ministro-da-saude-eduardo-pazuello-recebe-diagnostico-de-covid-19.shtml
-2020-10-21 16:34:05,933          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10427
-2020-10-21 16:34:08,646          root     INFO: New article tracked: http://noticias.r7.com/brasil/povo-brasileiro-nao-sera-cobaia-diz-bolsonaro-sobre-vacina-chinesa-21102020
-2020-10-21 16:34:08,929          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/bolsonaro-precisa-se-benzer.shtml
-2020-10-21 16:34:08,931          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/presidente-do-stf-corre-o-risco-de-transformar-vinho-em-agua.shtml
-2020-10-21 16:34:08,932          root     INFO: Finished script
+2020-10-21 16:50:22,490          root     INFO: Starting script
+2020-10-21 16:50:23,747          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-21 16:50:24,427          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-21 16:50:25,113          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-21 16:50:25,242          root     INFO: Parsing R7 - Brasil
+2020-10-21 16:50:29,477          root     INFO: Removed http://noticias.r7.com/brasil/povo-brasileiro-nao-sera-cobaia-diz-bolsonaro-sobre-vacina-chinesa-21102020
+2020-10-21 16:50:29,478          root     INFO: Finished script
