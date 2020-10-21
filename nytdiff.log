@@ -1,21 +1,18 @@
-2020-10-21 19:22:32,051          root     INFO: Starting script
-2020-10-21 19:22:32,857          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-21 19:22:33,513          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-21 19:22:34,169          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-21 19:22:34,380          root     INFO: Parsing R7 - Brasil
-2020-10-21 19:22:35,831          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ha-politizacao-dos-dois-lados-e-doria-tambem-forca-a-barra-sobre-vacina-diz-lider-de-comissao-da-camara.shtml
-2020-10-21 19:22:35,953          root     INFO: <del>Candidato à Prefeitura de Porto Alegre,</del> Sebastião Melo <del>participa da</del> <ins>critica medidas de atual prefeito de Porto Alegre contra Covid em</ins> sabatina Folha/UOL
-2020-10-21 19:22:37,687          root     INFO: Media ready with ids: 1318996128256413696
-2020-10-21 19:22:37,687          root     INFO: Text to tweet: Modificação do Título
-2020-10-21 19:22:37,687          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-porto-alegre-sebastiao-melo-participa-da-sabatina-folhauol.shtml
-2020-10-21 19:22:37,693          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-porto-alegre-sebastiao-melo-participa-da-sabatina-folhauol.shtml
-2020-10-21 19:22:37,891          root     INFO: Replying to: 1318996130009653248
-2020-10-21 19:22:38,131          root     INFO: Id to store: 1318996130793984000
-2020-10-21 19:22:38,136          root     INFO: <del>A</del> <ins>Em sabatina da</ins> Folha, em parceria com o UOL, <del>sabatina, nesta quarta-feira (21),</del> Sebastião Melo, candidato <ins>do MDB</ins> à Prefeitura de Porto <del>Alegre</del> <ins>Alegre, criticou as medidas adotadas</ins> pelo <del>MDB.</del> <ins>atual prefeito da cidade, Nelson Marchezan Junior (PSDB), durante a pandemia da Covid-19.</ins> Leia mais (10/21/2020 - 10h16)
-2020-10-21 19:22:40,065          root     INFO: Media ready with ids: 1318996137316126720
-2020-10-21 19:22:40,065          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-21 19:22:40,065          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-porto-alegre-sebastiao-melo-participa-da-sabatina-folhauol.shtml
-2020-10-21 19:22:40,075          root     INFO: Replying to: 1318996130793984000
-2020-10-21 19:22:40,309          root     INFO: Id to store: 1318996139954286594
-2020-10-21 19:22:42,693          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sabatinas-de-candidatos-ao-stf-tem-superficialidade-politica-e-adulacao.shtml
-2020-10-21 19:22:42,694          root     INFO: Finished script
+2020-10-21 19:29:54,009          root     INFO: Starting script
+2020-10-21 19:29:55,017          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-21 19:29:55,834          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-21 19:29:56,667          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-21 19:29:56,938          root     INFO: Parsing R7 - Brasil
+2020-10-21 19:29:58,413          root     INFO: <del>Candidato à Prefeitura de Porto Alegre,</del> Sebastião Melo <del>participa da</del> <ins>critica medidas do prefeito de Porto Alegre contra Covid em</ins> sabatina Folha/UOL
+2020-10-21 19:30:00,259          root     INFO: Media ready with ids: 1318997984416325637
+2020-10-21 19:30:00,259          root     INFO: Text to tweet: Modificação do Título
+2020-10-21 19:30:00,259          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-porto-alegre-sebastiao-melo-participa-da-sabatina-folhauol.shtml
+2020-10-21 19:30:00,263          root     INFO: Replying to: 1318996139954286594
+2020-10-21 19:30:00,574          root     INFO: Id to store: 1318997986484027394
+2020-10-21 19:30:00,579          root     INFO: <del>A Folha, em parceria com o UOL, sabatina, nesta quarta-feira (21),</del> <ins>Em sabatina da Folha/UOL,</ins> Sebastião Melo, candidato <ins>do MDB</ins> à Prefeitura de Porto <del>Alegre</del> <ins>Alegre, criticou as medidas adotadas</ins> pelo <del>MDB.</del> <ins>prefeito Nelson Marchezan Junior (PSDB) durante a pandemia da Covid-19.</ins> Leia mais (10/21/2020 - 10h16)
+2020-10-21 19:30:02,508          root     INFO: Media ready with ids: 1318997993421504513
+2020-10-21 19:30:02,508          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-21 19:30:02,509          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-porto-alegre-sebastiao-melo-participa-da-sabatina-folhauol.shtml
+2020-10-21 19:30:02,513          root     INFO: Replying to: 1318997986484027394
+2020-10-21 19:30:02,803          root     INFO: Id to store: 1318997995766112256
+2020-10-21 19:30:04,893          root     INFO: Finished script
