@@ -1,6 +1,29 @@
-2020-10-21 22:57:55,016          root     INFO: Starting script
-2020-10-21 22:57:55,854          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-21 22:57:56,528          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-21 22:57:57,202          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-21 22:57:57,385          root     INFO: Parsing R7 - Brasil
-2020-10-21 22:58:01,169          root     INFO: Finished script
+2020-10-21 23:23:17,116          root     INFO: Starting script
+2020-10-21 23:23:17,929          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-21 23:23:18,614          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-21 23:23:19,293          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-21 23:23:19,484          root     INFO: Parsing R7 - Brasil
+2020-10-21 23:23:23,240          root     INFO: New article tracked: http://noticias.r7.com/brasil/autonomia-do-bc-sera-votada-no-dia-3-de-novembro-afirma-alcolumbre-21102020
+2020-10-21 23:23:23,253          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-kassio-nunes-como-novo-ministro-do-stf-21102020
+2020-10-21 23:23:23,260          root     INFO: New article tracked: http://noticias.r7.com/brasil/kassio-nunes-e-aprovado-para-o-stf-em-sabatina-da-ccj-do-senado-21102020
+2020-10-21 23:23:23,267          root     INFO: New article tracked: http://noticias.r7.com/brasil/governadores-chamam-decisao-de-bolsonaro-de-eleitoral-e-ideologica-21102020
+2020-10-21 23:23:23,273          root     INFO: New article tracked: http://noticias.r7.com/brasil/maioria-das-queixas-sobre-covid-19-e-de-exames-e-tratamentos-diz-ans-21102020
+2020-10-21 23:23:23,282          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-video-bolsonaro-parabeniza-primeiro-ministro-de-israel-21102020
+2020-10-21 23:23:23,290          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-evento-com-onu-fux-dira-que-atuacao-do-stf-e-exemplo-21102020
+2020-10-21 23:23:23,297          root     INFO: New article tracked: http://noticias.r7.com/brasil/licenciado-rodrigues-continua-com-imovel-funcional-e-plano-de-saude-21102020
+2020-10-21 23:23:23,304          root     INFO: New article tracked: http://noticias.r7.com/brasil/pdt-pede-ao-stf-garantia-para-que-estados-decidam-sobre-vacinacao-21102020
+2020-10-21 23:23:23,311          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-da-anvisa-diz-que-pais-de-origem-da-vacina-pouco-importa-21102020
+2020-10-21 23:23:23,318          root     INFO: New article tracked: http://noticias.r7.com/brasil/saimos-com-a-esperanca-elevada-diz-doria-apos-reuniao-na-anvisa-21102020
+2020-10-21 23:23:23,325          root     INFO: New article tracked: http://noticias.r7.com/brasil/toda-e-qualquer-vacina-esta-descartada-afirma-bolsonaro-21102020
+2020-10-21 23:23:23,332          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-da-saude-eduardo-pazuello-esta-com-covid-19-21102020
+2020-10-21 23:23:23,340          root     INFO: New article tracked: http://noticias.r7.com/brasil/industria-preve-alta-de-10-na-venda-de-maquinas-agricolas-21102020
+2020-10-21 23:23:23,347          root     INFO: New article tracked: http://noticias.r7.com/brasil/clima-entre-bolsonaro-e-pazuello-e-bom-apos-polemica-sobre-vacina-21102020
+2020-10-21 23:23:23,355          root     INFO: New article tracked: http://noticias.r7.com/brasil/dose-da-coronavac-seria-comprada-por-us-10-diz-oficio-do-ministerio-21102020
+2020-10-21 23:23:23,382          root     INFO: <del>César</del> <ins>Cesar</ins> Sacheto e Joyce Ribeiro, do R7
+2020-10-21 23:23:25,110          root     INFO: Media ready with ids: 1319056725379600384
+2020-10-21 23:23:25,110          root     INFO: Text to tweet: Modificação do autor
+2020-10-21 23:23:25,110          root     INFO: Article id: http://noticias.r7.com/brasil/unicef-cobra-de-candidatos-acoes-voltadas-a-criancas-no-brasil-21102020
+2020-10-21 23:23:25,116          root     INFO: Tweeting url: http://noticias.r7.com/brasil/unicef-cobra-de-candidatos-acoes-voltadas-a-criancas-no-brasil-21102020
+2020-10-21 23:23:25,302          root     INFO: Replying to: 1319056726835023877
+2020-10-21 23:23:25,552          root     INFO: Id to store: 1319056727682240512
+2020-10-21 23:23:25,623          root     INFO: Finished script
