@@ -1,14 +1,19 @@
-2020-10-21 21:57:49,100          root     INFO: Starting script
-2020-10-21 21:57:50,114          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-21 21:57:50,953          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-21 21:57:51,785          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-21 21:57:52,104          root     INFO: Parsing R7 - Brasil
-2020-10-21 21:57:53,517          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/kassio-evita-responder-sobre-a-lava-jato-em-sabatina-e-se-alinha-a-bolsonaro-contra-o-aborto.shtml
-2020-10-21 21:57:53,550          root     INFO: A comissão de ética do Novo enviou email a seus <del>afiliados</del> <ins>filiados</ins> informando que <ins>o empresário</ins> Filipe Sabará, candidato à Prefeitura de São Paulo, foi expulso do partido por decisão unânime. Leia mais (10/21/2020 - 18h17)
-2020-10-21 21:57:55,350          root     INFO: Media ready with ids: 1319035209497587713
-2020-10-21 21:57:55,351          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-21 21:57:55,351          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/comissao-de-etica-do-novo-decide-pela-expulsao-de-filipe-sabara-do-partido.shtml
-2020-10-21 21:57:55,355          root     INFO: Replying to: 1319032673780858886
-2020-10-21 21:57:55,624          root     INFO: Id to store: 1319035211183771648
-2020-10-21 21:57:58,074          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/kassio-nunes-ja-tem-votos-no-senado-para-ser-ministro-do-stf-mesmo-antes-de-sabatina.shtml
-2020-10-21 21:57:58,075          root     INFO: Finished script
+2020-10-21 22:25:28,258          root     INFO: Starting script
+2020-10-21 22:25:29,290          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-21 22:25:30,149          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-21 22:25:30,993          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-21 22:25:31,311          root     INFO: Parsing R7 - Brasil
+2020-10-21 22:25:33,250          root     INFO: A comissão de ética do Novo enviou email <del>a seus afiliados</del> <ins>aos filiados do partido</ins> informando que <ins>o empresário</ins> Filipe Sabará, candidato à Prefeitura de São Paulo, foi expulso <del>do partido</del> <ins>da sigla</ins> por decisão unânime. Leia mais (10/21/2020 - 18h17)
+2020-10-21 22:25:35,133          root     INFO: Media ready with ids: 1319042171031441408
+2020-10-21 22:25:35,134          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-21 22:25:35,134          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/comissao-de-etica-do-novo-decide-pela-expulsao-de-filipe-sabara-do-partido.shtml
+2020-10-21 22:25:35,141          root     INFO: Replying to: 1319035211183771648
+2020-10-21 22:25:35,458          root     INFO: Id to store: 1319042173065699328
+2020-10-21 22:25:35,567          root     INFO: O ministro da Saúde, general Eduardo Pazuello, está com <del>Covid-19, segundo diagnóstico feito nesta quarta-feira (21).</del> <ins>Covid-19.</ins> A informação foi confirmada à Folha pelo Ministério da Saúde. Com o diagnóstico, ele passa a ser o 12o auxiliar do primeiro escalão do governo Bolsonaro infectado pela doença, além do próprio presidente. Leia mais (10/21/2020 - 13h08)
+2020-10-21 22:25:37,424          root     INFO: Media ready with ids: 1319042180787437568
+2020-10-21 22:25:37,425          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-21 22:25:37,425          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2020/10/ministro-da-saude-eduardo-pazuello-recebe-diagnostico-de-covid-19.shtml
+2020-10-21 22:25:37,430          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2020/10/ministro-da-saude-eduardo-pazuello-recebe-diagnostico-de-covid-19.shtml
+2020-10-21 22:25:37,663          root     INFO: Replying to: 1319042182490226688
+2020-10-21 22:25:37,958          root     INFO: Id to store: 1319042183425568768
+2020-10-21 22:25:40,546          root     INFO: Finished script
