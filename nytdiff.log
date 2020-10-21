@@ -1,25 +1,6 @@
-2020-10-21 14:46:42,447          root     INFO: Starting script
-2020-10-21 14:46:43,281          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-21 14:46:43,956          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-21 14:46:44,634          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-21 14:46:44,890          root     INFO: Parsing R7 - Brasil
-2020-10-21 14:46:46,428          root     INFO: Governadores e secretários de Saúde revoltaram-se com o recuo de Jair Bolsonaro <del>(sem partido)</del> em relação à compra da vacina desenvolvida pelo Instituto Butantan, em São Paulo. Leia mais (10/21/2020 - 10h30)
-2020-10-21 14:46:48,247          root     INFO: Media ready with ids: 1318926714756583424
-2020-10-21 14:46:48,247          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-21 14:46:48,247          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/governadores-se-revoltam-com-cancelamento-de-compra-da-vacina-chinesa-anunciado-por-bolsonaro.shtml
-2020-10-21 14:46:48,252          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/governadores-se-revoltam-com-cancelamento-de-compra-da-vacina-chinesa-anunciado-por-bolsonaro.shtml
-2020-10-21 14:46:48,450          root     INFO: Replying to: 1318926716618891264
-2020-10-21 14:46:48,659          root     INFO: Id to store: 1318926717294157825
-2020-10-21 14:46:48,714          root     INFO: <del>Candidato à Prefeitura de São Paulo,</del> <ins>Em sabatina Folha/UOL,</ins> Levy Fidelix <del>participa da sabatina Folha/UOL</del> <ins>diz que Russomanno é de esquerda e que merecia apoio de Bolsonaro</ins>
-2020-10-21 14:46:50,424          root     INFO: Media ready with ids: 1318926724185325575
-2020-10-21 14:46:50,425          root     INFO: Text to tweet: Modificação do Título
-2020-10-21 14:46:50,425          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-levy-fidelix-participa-da-sabatina-folhauol.shtml
-2020-10-21 14:46:50,430          root     INFO: Replying to: 1318921910181416960
-2020-10-21 14:46:50,662          root     INFO: Id to store: 1318926725712150533
-2020-10-21 14:46:50,666          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta quarta-feira (21) Levy Fidelix,</del> <ins>O</ins> candidato <del>pelo PRTB</del> à Prefeitura de São <del>Paulo.</del> <ins>Paulo Levy Fidelix afirmou nesta quarta (21) que seu adversário e lider nas pesquisas Celso Russomanno (Republicanos) representa a esquerda nas eleições. Ele disse também que esperava apoio do presidente Jair Bolsonaro (sem partido).</ins> Leia mais (10/21/2020 - 07h00)
-2020-10-21 14:46:52,460          root     INFO: Media ready with ids: 1318926732511092737
-2020-10-21 14:46:52,461          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-21 14:46:52,461          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-levy-fidelix-participa-da-sabatina-folhauol.shtml
-2020-10-21 14:46:52,470          root     INFO: Replying to: 1318926725712150533
-2020-10-21 14:46:52,757          root     INFO: Id to store: 1318926734281015297
-2020-10-21 14:46:55,371          root     INFO: Finished script
+2020-10-21 14:57:58,622          root     INFO: Starting script
+2020-10-21 14:57:59,466          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-21 14:58:00,141          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-21 14:58:00,824          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-21 14:58:01,051          root     INFO: Parsing R7 - Brasil
+2020-10-21 14:58:05,254          root     INFO: Finished script
