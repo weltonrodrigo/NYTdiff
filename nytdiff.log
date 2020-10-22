@@ -1,18 +1,20 @@
-2020-10-22 14:57:48,580          root     INFO: Starting script
-2020-10-22 14:57:49,590          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-22 14:57:50,413          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-22 14:57:51,237          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-22 14:57:51,457          root     INFO: Parsing R7 - Brasil
-2020-10-22 14:57:52,813          root     INFO: <del>Candidato à Prefeitura</del> <ins>Vamos responsabilizar estabelecimentos com casos</ins> de <del>São Paulo,</del> <ins>racismo chegando a caçar alvará se houver reincidência, diz</ins> Orlando Silva <del>participa de sabatina Folha/UOL</del>
-2020-10-22 14:57:55,014          root     INFO: Media ready with ids: 1319291898591211520
-2020-10-22 14:57:55,014          root     INFO: Text to tweet: Modificação do Título
-2020-10-22 14:57:55,014          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-orlando-silva-participa-de-sabatina-folhauol.shtml
-2020-10-22 14:57:55,021          root     INFO: Replying to: 1319274067174674434
-2020-10-22 14:57:55,366          root     INFO: Id to store: 1319291901258780677
-2020-10-22 14:57:55,370          root     INFO: <del>A Folha, em parceria com o UOL,</del> <ins>Em</ins> sabatina <del>nesta</del> <ins>promovida por Folha e UOL na manhã desta</ins> quinta-feira <del>(22) a partir das 10h</del> <ins>(22), o deputado federal</ins> Orlando <del>Silva, candidato pelo PC</del> <ins>Silva (PC</ins> do <del>B</del> <ins>B), candidato</ins> à Prefeitura de São <del>Paulo.</del> <ins>Paulo, afirmou que seu objetivo é tornar a capital paulista uma cidade livre do racismo e referência nesse tema para o país.</ins> Leia mais (10/22/2020 - 07h00)
-2020-10-22 14:57:57,589          root     INFO: Media ready with ids: 1319291909400002561
-2020-10-22 14:57:57,589          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-22 14:57:57,590          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-orlando-silva-participa-de-sabatina-folhauol.shtml
-2020-10-22 14:57:57,594          root     INFO: Replying to: 1319291901258780677
-2020-10-22 14:57:57,937          root     INFO: Id to store: 1319291911992168449
-2020-10-22 14:58:00,076          root     INFO: Finished script
+2020-10-22 15:26:16,415          root     INFO: Starting script
+2020-10-22 15:26:17,440          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-22 15:26:18,284          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-22 15:26:19,119          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-22 15:26:19,459          root     INFO: Parsing R7 - Brasil
+2020-10-22 15:26:21,052          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/vitoria-de-bolsonaro-desmontou-premissas-da-politica-diz-cientista-politico-em-novo-livro.shtml
+2020-10-22 15:26:21,126          root     INFO: <del>Candidato à Prefeitura de São Paulo,</del> <ins>Em sabatina Folha/UOL,</ins> Orlando Silva <del>participa</del> <ins>promete cassar alvará</ins> de <del>sabatina Folha/UOL</del> <ins>estabelecimento em caso de racismo</ins>
+2020-10-22 15:26:22,972          root     INFO: Media ready with ids: 1319299063267950592
+2020-10-22 15:26:22,973          root     INFO: Text to tweet: Modificação do Título
+2020-10-22 15:26:22,973          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-orlando-silva-participa-de-sabatina-folhauol.shtml
+2020-10-22 15:26:22,979          root     INFO: Replying to: 1319291911992168449
+2020-10-22 15:26:23,316          root     INFO: Id to store: 1319299065172152320
+2020-10-22 15:26:23,320          root     INFO: <del>A Folha, em parceria com o UOL,</del> <ins>Em</ins> sabatina <del>nesta</del> <ins>promovida por Folha e UOL na manhã desta</ins> quinta-feira <del>(22) a partir das 10h</del> <ins>(22), o deputado federal</ins> Orlando <del>Silva, candidato pelo PC</del> <ins>Silva (PC</ins> do <del>B</del> <ins>B), candidato</ins> à Prefeitura de São <del>Paulo.</del> <ins>Paulo, afirmou que seu objetivo é tornar a capital paulista uma cidade livre do racismo e referência nesse tema para o país.</ins> Leia mais (10/22/2020 - 07h00)
+2020-10-22 15:26:25,127          root     INFO: Media ready with ids: 1319299072210161665
+2020-10-22 15:26:25,128          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-22 15:26:25,128          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-orlando-silva-participa-de-sabatina-folhauol.shtml
+2020-10-22 15:26:25,133          root     INFO: Replying to: 1319299065172152320
+2020-10-22 15:26:25,415          root     INFO: Id to store: 1319299073938251778
+2020-10-22 15:26:28,207          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/covas-lidera-arrecadacao-de-doacoes-de-empresarios-na-disputa-em-sp.shtml
+2020-10-22 15:26:28,208          root     INFO: Finished script
