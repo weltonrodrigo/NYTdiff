@@ -1,6 +1,27 @@
-2020-10-22 13:32:29,265          root     INFO: Starting script
-2020-10-22 13:32:30,092          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-22 13:32:30,769          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-22 13:32:31,444          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-22 13:32:31,703          root     INFO: Parsing R7 - Brasil
-2020-10-22 13:32:35,587          root     INFO: Finished script
+2020-10-22 13:46:52,094          root     INFO: Starting script
+2020-10-22 13:46:52,894          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-22 13:46:53,543          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-22 13:46:54,191          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-22 13:46:54,366          root     INFO: Parsing R7 - Brasil
+2020-10-22 13:46:55,805          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-porto-alegre-gustavo-paim-participa-da-sabatina-folhauol.shtml
+2020-10-22 13:46:55,831          root     INFO: <del>Candidato em Jaboticabal, Marcos Bolsonaro participa de</del> <ins>Em</ins> sabatina da <del>Folha</del> <ins>Folha, Marcos Bolsonaro propõe criar polícia paralela em Jaboticabal</ins>
+2020-10-22 13:46:57,718          root     INFO: Media ready with ids: 1319274042839298052
+2020-10-22 13:46:57,718          root     INFO: Text to tweet: Modificação do Título
+2020-10-22 13:46:57,719          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-em-jaboticabal-marcos-bolsonaro-participa-de-sabatina-da-folha.shtml
+2020-10-22 13:46:57,726          root     INFO: Replying to: 1319260414522368001
+2020-10-22 13:46:58,002          root     INFO: Id to store: 1319274044718370821
+2020-10-22 13:46:58,006          root     INFO: <del>O candidato</del> <ins>Candidato</ins> à Prefeitura de Jaboticabal <ins>(a 342 km de São Paulo),</ins> Marcos Bolsonaro <del>(PSL), 58, será o quarto participante de sabatina da Folha com nomes</del> <ins>(PSL) disse que, entre as medidas</ins> que <del>disputam</del> <ins>tomará caso seja eleito, está</ins> a <del>eleição no município do interior paulista.</del> <ins>criação de uma guarda civil armada, que atuará como uma espécie de Polícia Militar paralela. Ele também diz que não cederá à pressão de vereadores por cargos.</ins> Leia mais (10/22/2020 - 07h00)
+2020-10-22 13:47:00,092          root     INFO: Media ready with ids: 1319274052645613568
+2020-10-22 13:47:00,093          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-22 13:47:00,093          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-em-jaboticabal-marcos-bolsonaro-participa-de-sabatina-da-folha.shtml
+2020-10-22 13:47:00,098          root     INFO: Replying to: 1319274044718370821
+2020-10-22 13:47:00,724          root     INFO: Id to store: 1319274056005332992
+2020-10-22 13:47:00,750          root     INFO: A Folha, em parceria com o UOL, sabatina nesta quinta-feira (22) a partir das 10h Orlando Silva, candidato pelo <del>PC do B</del> <ins>PCdoB</ins> à Prefeitura de São Paulo. Leia mais (10/22/2020 - 07h00)
+2020-10-22 13:47:02,804          root     INFO: Media ready with ids: 1319274064100249600
+2020-10-22 13:47:02,804          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-22 13:47:02,804          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-orlando-silva-participa-de-sabatina-folhauol.shtml
+2020-10-22 13:47:02,810          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-orlando-silva-participa-de-sabatina-folhauol.shtml
+2020-10-22 13:47:03,060          root     INFO: Replying to: 1319274066113556481
+2020-10-22 13:47:03,364          root     INFO: Id to store: 1319274067174674434
+2020-10-22 13:47:05,841          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministro-da-saude-ignora-pedido-de-doria-e-mantem-reuniao-com-governadores-nesta-terca-20.shtml
+2020-10-22 13:47:05,842          root     INFO: Finished script
