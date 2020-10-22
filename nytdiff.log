@@ -1,8 +1,20 @@
-2020-10-22 19:46:42,770          root     INFO: Starting script
-2020-10-22 19:46:43,600          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-22 19:46:44,274          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-22 19:46:44,954          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-22 19:46:45,214          root     INFO: Parsing R7 - Brasil
-2020-10-22 19:46:46,635          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/justica-eleitoral-decide-que-live-de-caetano-se-enquadra-em-showmicio-e-veta-realizacao.shtml
-2020-10-22 19:46:49,148          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/teia-de-vice-de-covas-em-creches-da-prefeitura-envolve-nomeacoes-politicas-parentescos-e-empresas.shtml
-2020-10-22 19:46:49,149          root     INFO: Finished script
+2020-10-22 19:57:46,347          root     INFO: Starting script
+2020-10-22 19:57:47,187          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-22 19:57:47,855          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-22 19:57:48,516          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-22 19:57:48,674          root     INFO: Parsing R7 - Brasil
+2020-10-22 19:57:48,995          root     INFO: Bolsonaro inaugura aliança entre ala <del>idéológica</del> <ins>ideológica</ins> e o centrão
+2020-10-22 19:57:50,656          root     INFO: Media ready with ids: 1319367378891919364
+2020-10-22 19:57:50,656          root     INFO: Text to tweet: Modificação do Título
+2020-10-22 19:57:50,657          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/bolsonaro-inaugura-alianca-entre-ala-ideologica-e-o-centrao.shtml
+2020-10-22 19:57:50,665          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/bolsonaro-inaugura-alianca-entre-ala-ideologica-e-o-centrao.shtml
+2020-10-22 19:57:50,866          root     INFO: Replying to: 1319367380296937477
+2020-10-22 19:57:51,128          root     INFO: Id to store: 1319367381169459202
+2020-10-22 19:57:52,256          root     INFO: Bolsonaro inaugura aliança entre ala <del>idéológica</del> <ins>ideológica</ins> e o centrão
+2020-10-22 19:57:53,930          root     INFO: Media ready with ids: 1319367392334577665
+2020-10-22 19:57:53,930          root     INFO: Text to tweet: Modificação do Título
+2020-10-22 19:57:53,930          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/bolsonaro-inaugura-alianca-entre-ala-ideologica-e-o-centrao.shtml
+2020-10-22 19:57:53,936          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/bolsonaro-inaugura-alianca-entre-ala-ideologica-e-o-centrao.shtml
+2020-10-22 19:57:54,136          root     INFO: Replying to: 1319367394029113345
+2020-10-22 19:57:54,384          root     INFO: Id to store: 1319367394842890243
+2020-10-22 19:57:56,396          root     INFO: Finished script
