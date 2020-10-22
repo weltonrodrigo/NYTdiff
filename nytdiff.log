@@ -1,6 +1,13 @@
-2020-10-22 11:47:15,665          root     INFO: Starting script
-2020-10-22 11:47:16,501          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-22 11:47:17,170          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-22 11:47:17,845          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-22 11:47:17,963          root     INFO: Parsing R7 - Brasil
-2020-10-22 11:47:21,810          root     INFO: Finished script
+2020-10-22 11:57:36,021          root     INFO: Starting script
+2020-10-22 11:57:37,046          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-22 11:57:37,895          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-22 11:57:38,741          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-22 11:57:38,951          root     INFO: Parsing R7 - Brasil
+2020-10-22 11:57:40,627          root     INFO: <del>Lei pode permitir compra de</del> <ins>Governadores podem apoiar lei para comprar</ins> vacina chinesa sem registro <del>da</del> <ins>na</ins> Anvisa
+2020-10-22 11:57:42,421          root     INFO: Media ready with ids: 1319246548220477440
+2020-10-22 11:57:42,422          root     INFO: Text to tweet: Modificação do Título
+2020-10-22 11:57:42,422          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/lei-pode-permitir-compra-de-vacina-chinesa-sem-registro-da-anvisa.shtml
+2020-10-22 11:57:42,427          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/lei-pode-permitir-compra-de-vacina-chinesa-sem-registro-da-anvisa.shtml
+2020-10-22 11:57:42,643          root     INFO: Replying to: 1319246549860364289
+2020-10-22 11:57:42,939          root     INFO: Id to store: 1319246550850244608
+2020-10-22 11:57:45,706          root     INFO: Finished script
