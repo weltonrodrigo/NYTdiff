@@ -1,8 +1,13 @@
-2020-10-22 17:57:40,617          root     INFO: Starting script
-2020-10-22 17:57:41,497          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-22 17:57:42,164          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-22 17:57:42,831          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-22 17:57:43,065          root     INFO: Parsing R7 - Brasil
-2020-10-22 17:57:43,341          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/10/evolucao-do-pib-agropecuario-sera-ainda-melhor.shtml
-2020-10-22 17:57:46,841          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/10/guedes-quer-apenas-se-livrar-das-universidades-federais.shtml
-2020-10-22 17:57:46,842          root     INFO: Finished script
+2020-10-22 18:26:08,807          root     INFO: Starting script
+2020-10-22 18:26:09,826          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-22 18:26:10,662          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-22 18:26:11,503          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-22 18:26:11,788          root     INFO: Parsing R7 - Brasil
+2020-10-22 18:26:13,284          root     INFO: Jingle pré-fabricado, 'O homem disparou' vira hit nacional das <del>eleições</del> <ins>eleições; veja clipe</ins>
+2020-10-22 18:26:15,102          root     INFO: Media ready with ids: 1319344328683159555
+2020-10-22 18:26:15,103          root     INFO: Text to tweet: Modificação do Título
+2020-10-22 18:26:15,103          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/jingle-pre-fabricado-o-homem-disparou-vira-hit-nacional-das-eleicoes.shtml
+2020-10-22 18:26:15,109          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/jingle-pre-fabricado-o-homem-disparou-vira-hit-nacional-das-eleicoes.shtml
+2020-10-22 18:26:15,343          root     INFO: Replying to: 1319344330360881154
+2020-10-22 18:26:15,635          root     INFO: Id to store: 1319344331279552514
+2020-10-22 18:26:18,134          root     INFO: Finished script
