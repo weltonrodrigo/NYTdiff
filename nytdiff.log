@@ -1,36 +1,6 @@
-2020-10-22 12:52:40,376          root     INFO: Starting script
-2020-10-22 12:52:41,192          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-22 12:52:41,862          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-22 12:52:42,529          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-22 12:52:42,908          root     INFO: Parsing R7 - Brasil
-2020-10-22 12:52:44,176          root     INFO: <del>Candidato em Jaboticabal, Marcos Bolsonaro participa de</del> <ins>Em</ins> sabatina da <del>Folha</del> <ins>Folha, Marcos Bolsonaro propõe criar polícia paralela em Jaboticabal</ins>
-2020-10-22 12:52:45,862          root     INFO: Media ready with ids: 1319260403726209025
-2020-10-22 12:52:45,862          root     INFO: Text to tweet: Modificação do Título
-2020-10-22 12:52:45,862          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-em-jaboticabal-marcos-bolsonaro-participa-de-sabatina-da-folha.shtml
-2020-10-22 12:52:45,867          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-em-jaboticabal-marcos-bolsonaro-participa-de-sabatina-da-folha.shtml
-2020-10-22 12:52:46,047          root     INFO: Replying to: 1319260405395542016
-2020-10-22 12:52:46,309          root     INFO: Id to store: 1319260406133723137
-2020-10-22 12:52:46,312          root     INFO: <del>O candidato</del> <ins>Candidato</ins> à Prefeitura de Jaboticabal <ins>(a 342 km de São Paulo),</ins> Marcos Bolsonaro <del>(PSL), 58, será o quarto participante de sabatina da Folha com nomes</del> <ins>(PSL) disse</ins> que <del>disputam</del> <ins>entre as medidas que tomará caso seja eleito está</ins> a <del>eleição no município do interior paulista.</del> <ins>criação de uma guarda civil armada, que atuará como uma espécie de Polícia Militar paralela, e que não cederá à pressão de vereadores por cargos.</ins> Leia mais (10/22/2020 - 07h00)
-2020-10-22 12:52:48,046          root     INFO: Media ready with ids: 1319260412798447616
-2020-10-22 12:52:48,046          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-22 12:52:48,046          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-em-jaboticabal-marcos-bolsonaro-participa-de-sabatina-da-folha.shtml
-2020-10-22 12:52:48,050          root     INFO: Replying to: 1319260406133723137
-2020-10-22 12:52:48,279          root     INFO: Id to store: 1319260414522368001
-2020-10-22 12:52:48,357          root     INFO: Secretários <ins>de Saúde</ins> culpam Bolsonaro por crise das <del>vacinas, defendem Pazuello</del> <ins>vacinas</ins> e <del>veem Doria</del> <ins>defendem permanência</ins> de <del>olho em 2022</del> <ins>Pazuello</ins>
-2020-10-22 12:52:49,997          root     INFO: Media ready with ids: 1319260421266833409
-2020-10-22 12:52:49,998          root     INFO: Text to tweet: Modificação do Título
-2020-10-22 12:52:49,998          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/secretarios-de-saude-culpam-bolsonaro-por-crise-das-vacinas-defendem-pazuello-e-veem-doria-de-olho-em-2022.shtml
-2020-10-22 12:52:50,003          root     INFO: Replying to: 1319123273758670855
-2020-10-22 12:52:50,239          root     INFO: Id to store: 1319260422734815232
-2020-10-22 12:52:50,243          root     INFO: O cancelamento da compra da vacina chinesa por parte de Jair Bolsonaro irritou governadores e secretários estaduais de Saúde e uniu boa parte deles em um mesmo norte: na defesa pela permanência do ministro Eduardo Pazuello. <del>Todos culpam o presidente da República pelo episódio, considerado inacreditável. Alguns também veem responsabilidade de João Doria (PSDB-SP) na confusão. Segundo palavras deles, o tucano se aproveita politicamente da situação e já está em campanha.</del> Leia mais (10/21/2020 - 23h15)
-2020-10-22 12:52:51,998          root     INFO: Media ready with ids: 1319260429395382272
-2020-10-22 12:52:51,998          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-22 12:52:51,999          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/secretarios-de-saude-culpam-bolsonaro-por-crise-das-vacinas-defendem-pazuello-e-veem-doria-de-olho-em-2022.shtml
-2020-10-22 12:52:52,003          root     INFO: Replying to: 1319260422734815232
-2020-10-22 12:52:52,213          root     INFO: Id to store: 1319260430993412096
-2020-10-22 12:52:54,356          root     INFO: Removed http://noticias.r7.com/brasil/pf-cumpre-14-mandados-em-operacao-contra-corrupcao-22102020
-2020-10-22 12:52:54,358          root     INFO: Removed http://noticias.r7.com/brasil/ibama-manda-recolher-todos-agentes-de-combate-a-incendios-22102020
-2020-10-22 12:52:54,360          root     INFO: Removed http://noticias.r7.com/brasil/alcolumbre-marca-para-novembro-analise-do-veto-a-desoneracao-22102020
-2020-10-22 12:52:54,362          root     INFO: Removed http://noticias.r7.com/brasil/jorge-oliveira-e-exonerado-do-cargo-de-subchefe-para-assuntos-juridicos-22102020
-2020-10-22 12:52:54,365          root     INFO: Removed http://noticias.r7.com/brasil/parlamentares-lamentam-morte-de-senador-arolde-de-oliveira-22102020
-2020-10-22 12:52:54,366          root     INFO: Finished script
+2020-10-22 12:57:51,927          root     INFO: Starting script
+2020-10-22 12:57:52,861          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-22 12:57:53,533          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-22 12:57:54,206          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-22 12:57:54,435          root     INFO: Parsing R7 - Brasil
+2020-10-22 12:57:58,180          root     INFO: Finished script
