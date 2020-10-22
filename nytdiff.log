@@ -1,6 +1,19 @@
-2020-10-22 18:57:44,674          root     INFO: Starting script
-2020-10-22 18:57:45,510          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-22 18:57:46,182          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-22 18:57:46,861          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-22 18:57:47,119          root     INFO: Parsing R7 - Brasil
-2020-10-22 18:57:51,187          root     INFO: Finished script
+2020-10-22 19:22:30,398          root     INFO: Starting script
+2020-10-22 19:22:31,226          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-22 19:22:31,915          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-22 19:22:32,593          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-22 19:22:32,745          root     INFO: Parsing R7 - Brasil
+2020-10-22 19:22:34,379          root     INFO: <del>Candidato à Prefeitura de</del> <ins>Gestão Marchezan em</ins> Porto <del>Alegre, Gustavo</del> <ins>Alegre é 'um conflito permanente', diz</ins> Paim <del>participa da</del> <ins>na</ins> sabatina Folha/UOL
+2020-10-22 19:22:36,116          root     INFO: Media ready with ids: 1319358509780226049
+2020-10-22 19:22:36,117          root     INFO: Text to tweet: Modificação do Título
+2020-10-22 19:22:36,117          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-porto-alegre-gustavo-paim-participa-da-sabatina-folhauol.shtml
+2020-10-22 19:22:36,124          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-porto-alegre-gustavo-paim-participa-da-sabatina-folhauol.shtml
+2020-10-22 19:22:36,352          root     INFO: Replying to: 1319358511273414656
+2020-10-22 19:22:36,606          root     INFO: Id to store: 1319358512200359937
+2020-10-22 19:22:36,612          root     INFO: <del>A</del> <ins>Vice-prefeito de Porto Alegre e candidato do PP à prefeitura, Gustavo Paim classificou gestão do atual mandatário na cidade, Marchezan Júnior (PSDB), de autocrática e sem diálogo. "[A gestão Marchezan é] Uma instabilidade, uma beligerância, um conflito permanente, e isso prejudica o cidadão", disse durante sabatina da</ins> Folha, em parceria com <ins>o</ins> UOL, <del>sabatina, nesta</del> <ins>transmitida nessa</ins> quinta-feira <del>(22), Gustavo Paim, candidato pelo Progressistas à Prefeitura de Porto Alegre.</del> <ins>(22).</ins> Leia mais (10/22/2020 - 10h41)
+2020-10-22 19:22:38,378          root     INFO: Media ready with ids: 1319358519158636544
+2020-10-22 19:22:38,379          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-22 19:22:38,379          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-porto-alegre-gustavo-paim-participa-da-sabatina-folhauol.shtml
+2020-10-22 19:22:38,385          root     INFO: Replying to: 1319358512200359937
+2020-10-22 19:22:38,654          root     INFO: Id to store: 1319358520718917632
+2020-10-22 19:22:41,271          root     INFO: Finished script
