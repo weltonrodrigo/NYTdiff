@@ -1,6 +1,10 @@
-2020-10-23 02:57:48,844          root     INFO: Starting script
-2020-10-23 02:57:49,667          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-23 02:57:50,337          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-23 02:57:51,019          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-23 02:57:51,147          root     INFO: Parsing R7 - Brasil
-2020-10-23 02:57:54,956          root     INFO: Finished script
+2020-10-23 03:25:02,038          root     INFO: Starting script
+2020-10-23 03:25:02,869          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-23 03:25:03,544          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-23 03:25:04,219          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-23 03:25:04,431          root     INFO: Parsing R7 - Brasil
+2020-10-23 03:25:04,703          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2020/10/agora-todos-podem-investir-em-gigantes-globais-sera-que-devem.shtml
+2020-10-23 03:25:04,713          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2020/10/desvendando-a-mentira-e-os-mentirosos.shtml
+2020-10-23 03:25:08,664          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2020/10/van-halen-e-a-musica-para-ouvidos-calafetados.shtml
+2020-10-23 03:25:08,667          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/sem-apoio-de-mais-pobres-pt-nao-chega-a-10-na-maioria-das-capitais.shtml
+2020-10-23 03:25:08,668          root     INFO: Finished script
