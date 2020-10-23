@@ -1,8 +1,20 @@
-2020-10-23 14:35:17,327          root     INFO: Starting script
-2020-10-23 14:35:18,147          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-23 14:35:18,814          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-23 14:35:19,478          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-23 14:35:19,714          root     INFO: Parsing R7 - Brasil
-2020-10-23 14:35:19,993          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/10/frete-cai-para-soja-de-mt-que-sai-pelo-norte-mas-sobe-para-a-que-vem-para-santos.shtml
-2020-10-23 14:35:23,902          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/bolsonaro-precisa-se-benzer.shtml
-2020-10-23 14:35:23,903          root     INFO: Finished script
+2020-10-23 14:46:45,015          root     INFO: Starting script
+2020-10-23 14:46:45,849          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-23 14:46:46,526          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-23 14:46:47,196          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-23 14:46:47,328          root     INFO: Parsing R7 - Brasil
+2020-10-23 14:46:48,645          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10433
+2020-10-23 14:46:48,725          root     INFO: <del>Candidata à Prefeitura de São Paulo,</del> <ins>Ataques machistas me dão mais força para continuar, diz</ins> Marina Helou <del>participa da</del> <ins>em</ins> sabatina Folha/UOL
+2020-10-23 14:46:50,388          root     INFO: Media ready with ids: 1319651499857817601
+2020-10-23 14:46:50,389          root     INFO: Text to tweet: Modificação do Título
+2020-10-23 14:46:50,389          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-sao-paulo-marina-helou-participa-da-sabatina-folhauol.shtml
+2020-10-23 14:46:50,393          root     INFO: Replying to: 1319646398200090627
+2020-10-23 14:46:50,613          root     INFO: Id to store: 1319651501204250624
+2020-10-23 14:46:50,617          root     INFO: A <del>Folha, em parceria com o UOL, sabatina nesta sexta-feira (23)</del> <ins>deputada estadual</ins> Marina Helou, candidata pela Rede à Prefeitura de São <del>Paulo. A entrevista começa às 10h.</del> <ins>Paulo, rebateu nesta sexta-feira (23) ataques machistas que vem recebendo durante a campanha e defendeu a diversidade de gênero, raça e classe social na política.</ins> Leia mais (10/23/2020 - 07h00)
+2020-10-23 14:46:52,298          root     INFO: Media ready with ids: 1319651507600564224
+2020-10-23 14:46:52,299          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-23 14:46:52,299          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-de-sao-paulo-marina-helou-participa-da-sabatina-folhauol.shtml
+2020-10-23 14:46:52,305          root     INFO: Replying to: 1319651501204250624
+2020-10-23 14:46:52,513          root     INFO: Id to store: 1319651509165084672
+2020-10-23 14:46:54,662          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post404172
+2020-10-23 14:46:54,663          root     INFO: Finished script
