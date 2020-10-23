@@ -1,6 +1,18 @@
-2020-10-23 11:46:47,955          root     INFO: Starting script
-2020-10-23 11:46:48,848          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-23 11:46:49,516          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-23 11:46:50,182          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-23 11:46:50,331          root     INFO: Parsing R7 - Brasil
-2020-10-23 11:46:53,853          root     INFO: Finished script
+2020-10-23 11:57:49,459          root     INFO: Starting script
+2020-10-23 11:57:50,483          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-23 11:57:51,308          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-23 11:57:52,148          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-23 11:57:52,457          root     INFO: Parsing R7 - Brasil
+2020-10-23 11:57:54,166          root     INFO: Confrontado, Boulos corrige patrimônio após omitir conta <del>bancária em declaração de bens</del> <ins>à Justiça Eleitoral; candidato diz ter R$ 579,53 no banco</ins>
+2020-10-23 11:57:55,948          root     INFO: Media ready with ids: 1319608992805625857
+2020-10-23 11:57:55,949          root     INFO: Text to tweet: Modificação do Título
+2020-10-23 11:57:55,949          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/confrontado-boulos-corrige-patrimonio-apos-omitir-conta-bancaria-em-declaracao-de-bens.shtml
+2020-10-23 11:57:55,954          root     INFO: Replying to: 1319586169999556610
+2020-10-23 11:57:56,228          root     INFO: Id to store: 1319608994508451841
+2020-10-23 11:57:56,233          root     INFO: <del>O candidato</del> <ins>Candidato</ins> à Prefeitura de São <del>Paulo</del> <ins>Paulo,</ins> Guilherme Boulos (PSOL) <del>não informou na</del> <ins>omitiu de sua</ins> declaração de bens enviada à Justiça Eleitoral <del>o saldo da</del> <ins>uma</ins> conta bancária em que recebe remuneração por aulas e textos que produz. Leia mais (10/22/2020 - 23h15)
+2020-10-23 11:57:58,022          root     INFO: Media ready with ids: 1319609001483665408
+2020-10-23 11:57:58,022          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-23 11:57:58,022          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/confrontado-boulos-corrige-patrimonio-apos-omitir-conta-bancaria-em-declaracao-de-bens.shtml
+2020-10-23 11:57:58,028          root     INFO: Replying to: 1319608994508451841
+2020-10-23 11:57:58,312          root     INFO: Id to store: 1319609003186491394
+2020-10-23 11:58:00,861          root     INFO: Finished script
