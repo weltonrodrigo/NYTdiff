@@ -1,6 +1,32 @@
-2020-10-23 14:58:03,756          root     INFO: Starting script
-2020-10-23 14:58:04,862          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-23 14:58:05,700          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-23 14:58:06,536          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-23 14:58:06,843          root     INFO: Parsing R7 - Brasil
-2020-10-23 14:58:10,964          root     INFO: Finished script
+2020-10-23 15:25:48,665          root     INFO: Starting script
+2020-10-23 15:25:49,696          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-23 15:25:50,533          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-23 15:25:51,376          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-23 15:25:51,696          root     INFO: Parsing R7 - Brasil
+2020-10-23 15:25:52,093          root     INFO: <del>O</del> Brasil <del>é um país ou</del> <ins>parece muito mais</ins> um abatedouro de <del>mulheres?</del> <ins>mulheres do que uma nação</ins>
+2020-10-23 15:25:53,908          root     INFO: Media ready with ids: 1319661329100177409
+2020-10-23 15:25:53,909          root     INFO: Text to tweet: Modificação do Título
+2020-10-23 15:25:53,909          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2020/10/o-brasil-e-um-pais-ou-um-abatedouro-de-mulheres.shtml
+2020-10-23 15:25:53,914          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2020/10/o-brasil-e-um-pais-ou-um-abatedouro-de-mulheres.shtml
+2020-10-23 15:25:54,178          root     INFO: Replying to: 1319661331042238465
+2020-10-23 15:25:54,460          root     INFO: Id to store: 1319661331994259456
+2020-10-23 15:25:55,719          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/delegada-de-esquerda-martha-rocha-ameaca-polarizacao-entre-paes-e-crivella-em-eleicao-no-rio.shtml
+2020-10-23 15:25:55,728          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/caso-da-cueca-deve-ficar-engavetado-no-conselho-de-etica-preveem-senadores.shtml
+2020-10-23 15:25:55,736          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/propaganda-eleitoral-na-tv-tem-pouca-novidade-e-muita-repeticao-em-sao-paulo.shtml
+2020-10-23 15:25:55,791          root     INFO: Saiba tudo sobre o Gripen, caça da FAB que <del>faz</del> <ins>fez</ins> voo de estreia <del>nesta sexta-feira</del> em Brasília
+2020-10-23 15:25:57,569          root     INFO: Media ready with ids: 1319661344581472259
+2020-10-23 15:25:57,570          root     INFO: Text to tweet: Modificação do Título
+2020-10-23 15:25:57,570          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/saiba-tudo-sobre-o-gripen-caca-da-fab-que-faz-voo-de-estreia-nesta-sexta-feira-em-brasilia.shtml
+2020-10-23 15:25:57,576          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/saiba-tudo-sobre-o-gripen-caca-da-fab-que-faz-voo-de-estreia-nesta-sexta-feira-em-brasilia.shtml
+2020-10-23 15:25:57,803          root     INFO: Replying to: 1319661346242334726
+2020-10-23 15:25:58,080          root     INFO: Id to store: 1319661347202867206
+2020-10-23 15:25:58,085          root     INFO: O novo caça da FAB (Força Aérea Brasileira), o Gripen, <del>fará</del> <ins>fez</ins> seu voo de estreia sobre Brasília nesta sexta-feira (23), Dia do Aviador. Leia mais (10/23/2020 - 07h43)
+2020-10-23 15:25:59,860          root     INFO: Media ready with ids: 1319661354173763585
+2020-10-23 15:25:59,860          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-23 15:25:59,861          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/saiba-tudo-sobre-o-gripen-caca-da-fab-que-faz-voo-de-estreia-nesta-sexta-feira-em-brasilia.shtml
+2020-10-23 15:25:59,867          root     INFO: Replying to: 1319661347202867206
+2020-10-23 15:26:00,147          root     INFO: Id to store: 1319661355859927040
+2020-10-23 15:26:02,765          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/trecho-da-br-163-foi-asfaltado-no-governo-bolsonaro-como-afirma-post.shtml
+2020-10-23 15:26:02,767          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/senadores-aprovam-indicacao-de-jorge-oliveira-ministro-de-bolsonaro-para-o-tcu.shtml
+2020-10-23 15:26:02,772          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/witzel-aponta-contradicao-entre-denuncias-e-envolve-ex-subsecretario-em-defesa.shtml
+2020-10-23 15:26:02,773          root     INFO: Finished script
