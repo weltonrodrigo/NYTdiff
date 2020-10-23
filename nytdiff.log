@@ -1,18 +1,19 @@
-2020-10-23 11:57:49,459          root     INFO: Starting script
-2020-10-23 11:57:50,483          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-23 11:57:51,308          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-23 11:57:52,148          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-23 11:57:52,457          root     INFO: Parsing R7 - Brasil
-2020-10-23 11:57:54,166          root     INFO: Confrontado, Boulos corrige patrimônio após omitir conta <del>bancária em declaração de bens</del> <ins>à Justiça Eleitoral; candidato diz ter R$ 579,53 no banco</ins>
-2020-10-23 11:57:55,948          root     INFO: Media ready with ids: 1319608992805625857
-2020-10-23 11:57:55,949          root     INFO: Text to tweet: Modificação do Título
-2020-10-23 11:57:55,949          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/confrontado-boulos-corrige-patrimonio-apos-omitir-conta-bancaria-em-declaracao-de-bens.shtml
-2020-10-23 11:57:55,954          root     INFO: Replying to: 1319586169999556610
-2020-10-23 11:57:56,228          root     INFO: Id to store: 1319608994508451841
-2020-10-23 11:57:56,233          root     INFO: <del>O candidato</del> <ins>Candidato</ins> à Prefeitura de São <del>Paulo</del> <ins>Paulo,</ins> Guilherme Boulos (PSOL) <del>não informou na</del> <ins>omitiu de sua</ins> declaração de bens enviada à Justiça Eleitoral <del>o saldo da</del> <ins>uma</ins> conta bancária em que recebe remuneração por aulas e textos que produz. Leia mais (10/22/2020 - 23h15)
-2020-10-23 11:57:58,022          root     INFO: Media ready with ids: 1319609001483665408
-2020-10-23 11:57:58,022          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-23 11:57:58,022          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/confrontado-boulos-corrige-patrimonio-apos-omitir-conta-bancaria-em-declaracao-de-bens.shtml
-2020-10-23 11:57:58,028          root     INFO: Replying to: 1319608994508451841
-2020-10-23 11:57:58,312          root     INFO: Id to store: 1319609003186491394
-2020-10-23 11:58:00,861          root     INFO: Finished script
+2020-10-23 12:43:37,274          root     INFO: Starting script
+2020-10-23 12:43:38,116          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-23 12:43:38,782          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-23 12:43:39,454          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-23 12:43:39,589          root     INFO: Parsing R7 - Brasil
+2020-10-23 12:43:41,169          root     INFO: <ins>Em sabatina da Folha,</ins> Professor João <del>encerra série de sabatinas da Folha com candidatos</del> <ins>acena ao prefeito e à primeira-dama</ins> de Jaboticabal
+2020-10-23 12:43:42,916          root     INFO: Media ready with ids: 1319620514483261440
+2020-10-23 12:43:42,916          root     INFO: Text to tweet: Modificação do Título
+2020-10-23 12:43:42,916          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/professor-joao-encerra-serie-de-sabatinas-da-folha-com-candidatos-de-jaboticabal.shtml
+2020-10-23 12:43:42,921          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/professor-joao-encerra-serie-de-sabatinas-da-folha-com-candidatos-de-jaboticabal.shtml
+2020-10-23 12:43:43,111          root     INFO: Replying to: 1319620515993210886
+2020-10-23 12:43:43,359          root     INFO: Id to store: 1319620516802711553
+2020-10-23 12:43:43,364          root     INFO: <del>O</del> <ins>Ex-secretário da Saúde, o</ins> candidato à Prefeitura de Jaboticabal Professor João (DEM), 56, <del>será o quinto</del> <ins>acenou ao prefeito José Carlos Hori (Cidadania)</ins> e <del>último participante de sabatina da Folha com nomes que disputam</del> <ins>disse querer</ins> a <del>eleição no município do interior paulista.</del> <ins>primeira-dama, Adriana Mialichi Hori, em seu eventual governo a partir de 1º de janeiro.</ins> Leia mais (10/23/2020 - 07h00)
+2020-10-23 12:43:45,131          root     INFO: Media ready with ids: 1319620523614232580
+2020-10-23 12:43:45,131          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-23 12:43:45,131          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/professor-joao-encerra-serie-de-sabatinas-da-folha-com-candidatos-de-jaboticabal.shtml
+2020-10-23 12:43:45,136          root     INFO: Replying to: 1319620516802711553
+2020-10-23 12:43:45,374          root     INFO: Id to store: 1319620525254127618
+2020-10-23 12:43:48,117          root     INFO: Finished script
