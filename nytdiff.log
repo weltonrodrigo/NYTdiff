@@ -1,11 +1,11 @@
-2020-10-23 18:48:38,129          root     INFO: Starting script
-2020-10-23 18:48:38,959          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-23 18:48:39,627          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-23 18:48:40,300          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-23 18:48:40,432          root     INFO: Parsing R7 - Brasil
-2020-10-23 18:48:44,185          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-deve-liberar-r-60-mil-para-ibama-continuar-acoes-diz-salles-23102020
-2020-10-23 18:48:44,195          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-gastou-77-do-orcamento-previsto-no-combate-a-covid-19-23102020
-2020-10-23 18:48:44,206          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-acao-contra-comercio-ilegal-de-armas-e-trafico-de-drogas-em-rr-23102020
-2020-10-23 18:48:44,214          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-2020-sera-ano-marcante-para-a-fab-23102020
-2020-10-23 18:48:44,230          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibama-determina-retorno-de-brigadas-de-combate-ao-fogo-23102020
-2020-10-23 18:48:44,426          root     INFO: Finished script
+2020-10-23 18:57:42,121          root     INFO: Starting script
+2020-10-23 18:57:42,934          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-23 18:57:43,601          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-23 18:57:44,276          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-23 18:57:44,423          root     INFO: Parsing R7 - Brasil
+2020-10-23 18:57:48,283          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-2020-sera-ano-marcante-para-a-fab-23102020
+2020-10-23 18:57:48,286          root     INFO: Removed http://noticias.r7.com/brasil/guedes-deve-liberar-r-60-mil-para-ibama-continuar-acoes-diz-salles-23102020
+2020-10-23 18:57:48,291          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-acao-contra-comercio-ilegal-de-armas-e-trafico-de-drogas-em-rr-23102020
+2020-10-23 18:57:48,294          root     INFO: Removed http://noticias.r7.com/brasil/governo-gastou-77-do-orcamento-previsto-no-combate-a-covid-19-23102020
+2020-10-23 18:57:48,298          root     INFO: Removed http://noticias.r7.com/brasil/ibama-determina-retorno-de-brigadas-de-combate-ao-fogo-23102020
+2020-10-23 18:57:48,300          root     INFO: Finished script
