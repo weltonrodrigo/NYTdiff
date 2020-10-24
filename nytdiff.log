@@ -1,6 +1,13 @@
-2020-10-24 10:57:50,931          root     INFO: Starting script
-2020-10-24 10:57:51,850          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-24 10:57:52,532          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-24 10:57:53,219          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-24 10:57:53,499          root     INFO: Parsing R7 - Brasil
-2020-10-24 10:57:57,422          root     INFO: Finished script
+2020-10-24 11:23:35,134          root     INFO: Starting script
+2020-10-24 11:23:36,223          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-24 11:23:37,054          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-24 11:23:37,877          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-24 11:23:38,107          root     INFO: Parsing R7 - Brasil
+2020-10-24 11:23:38,385          root     INFO: <del>Encontro marcado</del> <ins>Supremo terá que se pronunciar sobre a questão indígena</ins>
+2020-10-24 11:23:40,174          root     INFO: Media ready with ids: 1319962758276939776
+2020-10-24 11:23:40,175          root     INFO: Text to tweet: Modificação do Título
+2020-10-24 11:23:40,175          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2020/10/encontro-marcado.shtml
+2020-10-24 11:23:40,180          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2020/10/encontro-marcado.shtml
+2020-10-24 11:23:40,428          root     INFO: Replying to: 1319962759908515840
+2020-10-24 11:23:40,698          root     INFO: Id to store: 1319962760839598080
+2020-10-24 11:23:44,575          root     INFO: Finished script
