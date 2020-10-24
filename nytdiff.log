@@ -1,6 +1,13 @@
-2020-10-23 23:57:42,354          root     INFO: Starting script
-2020-10-23 23:57:43,186          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-23 23:57:43,857          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-23 23:57:44,760          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-23 23:57:45,125          root     INFO: Parsing R7 - Brasil
-2020-10-23 23:57:49,113          root     INFO: Finished script
+2020-10-24 01:10:12,550          root     INFO: Starting script
+2020-10-24 01:10:13,566          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-24 01:10:14,396          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-24 01:10:15,220          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-24 01:10:15,472          root     INFO: Parsing R7 - Brasil
+2020-10-24 01:10:16,948          root     INFO: O ex-presidente Luiz Inácio Lula da Silva (PT) virou réu pela quarta vez na Operação Lava Jato no Paraná. O juiz Luiz Antonio Bonat recebeu nesta sexta-feira (23) a denúncia do MPF (Ministério Público Federal) contra o petista e mais <del>três</del> <ins>quatro</ins> pessoas por lavagem de dinheiro na Petrobras. Leia mais (10/23/2020 - 20h08)
+2020-10-24 01:10:18,920          root     INFO: Media ready with ids: 1319808402432864257
+2020-10-24 01:10:18,921          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-24 01:10:18,921          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/lula-vira-reu-pela-quarta-vez-na-lava-jato-acusado-de-lavagem-de-dinheiro-na-petrobras.shtml
+2020-10-24 01:10:18,926          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/lula-vira-reu-pela-quarta-vez-na-lava-jato-acusado-de-lavagem-de-dinheiro-na-petrobras.shtml
+2020-10-24 01:10:19,156          root     INFO: Replying to: 1319808404190339072
+2020-10-24 01:10:19,431          root     INFO: Id to store: 1319808405138247682
+2020-10-24 01:10:21,911          root     INFO: Finished script
