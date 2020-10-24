@@ -1,6 +1,13 @@
-2020-10-24 15:48:27,542          root     INFO: Starting script
-2020-10-24 15:48:28,578          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-24 15:48:29,420          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-24 15:48:30,259          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-24 15:48:30,530          root     INFO: Parsing R7 - Brasil
-2020-10-24 15:48:34,450          root     INFO: Finished script
+2020-10-24 15:57:50,002          root     INFO: Starting script
+2020-10-24 15:57:50,828          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-24 15:57:51,490          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-24 15:57:52,159          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-24 15:57:52,309          root     INFO: Parsing R7 - Brasil
+2020-10-24 15:57:52,595          root     INFO: Ao mesmo tempo <del>em</del> que Trump se esvazia, cresce o conflito dentro do grupo do magnata Rupert Murdoch, seu sustentáculo de mídia. Leia mais (10/23/2020 - 23h15)
+2020-10-24 15:57:54,394          root     INFO: Media ready with ids: 1320031772059619330
+2020-10-24 15:57:54,395          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-24 15:57:54,396          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/revelacoes-da-reta-final-nos-eua-foram-presas-num-canto-furioso.shtml
+2020-10-24 15:57:54,401          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/revelacoes-da-reta-final-nos-eua-foram-presas-num-canto-furioso.shtml
+2020-10-24 15:57:54,583          root     INFO: Replying to: 1320031773623975936
+2020-10-24 15:57:54,804          root     INFO: Id to store: 1320031774366453760
+2020-10-24 15:57:58,581          root     INFO: Finished script
