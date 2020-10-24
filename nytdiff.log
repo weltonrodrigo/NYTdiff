@@ -1,6 +1,13 @@
-2020-10-24 14:57:41,269          root     INFO: Starting script
-2020-10-24 14:57:42,133          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-24 14:57:42,800          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-24 14:57:43,476          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-24 14:57:43,601          root     INFO: Parsing R7 - Brasil
-2020-10-24 14:57:47,403          root     INFO: Finished script
+2020-10-24 15:25:08,291          root     INFO: Starting script
+2020-10-24 15:25:09,297          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-24 15:25:10,109          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-24 15:25:10,929          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-24 15:25:11,138          root     INFO: Parsing R7 - Brasil
+2020-10-24 15:25:12,447          root     INFO: O presidente da Câmara, Rodrigo Maia (DEM-RJ), entrou neste sábado (24) na briga pública do ministro do Meio Ambiente, Ricardo Salles, com o ministro da Secretaria de Governo, general Luiz Eduardo <del>Ramos.</del> <ins>Ramos, escalando a nova crise do governo do presidente Jair Bolsonaro (sem partido).</ins> Leia mais (10/24/2020 - 11h06)
+2020-10-24 15:25:14,351          root     INFO: Media ready with ids: 1320023550984585220
+2020-10-24 15:25:14,352          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-24 15:25:14,354          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/nao-satisfeito-em-destruir-o-ambiente-resolveu-destruir-o-governo-diz-maia-sobre-salles.shtml
+2020-10-24 15:25:14,359          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/nao-satisfeito-em-destruir-o-ambiente-resolveu-destruir-o-governo-diz-maia-sobre-salles.shtml
+2020-10-24 15:25:14,619          root     INFO: Replying to: 1320023552951812098
+2020-10-24 15:25:14,930          root     INFO: Id to store: 1320023553949995010
+2020-10-24 15:25:17,193          root     INFO: Finished script
