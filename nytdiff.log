@@ -1,25 +1,6 @@
-2020-10-24 11:36:16,535          root     INFO: Starting script
-2020-10-24 11:36:17,657          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-24 11:36:18,492          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-24 11:36:19,330          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-24 11:36:19,556          root     INFO: Parsing R7 - Brasil
-2020-10-24 11:36:21,115          root     INFO: Tribunal <ins>especial</ins> afasta governador de SC <ins>por 180 dias</ins> para <del>prosseguir</del> <ins>seguir</ins> com <ins>processo de</ins> impeachment
-2020-10-24 11:36:23,056          root     INFO: Media ready with ids: 1319965957696180225
-2020-10-24 11:36:23,057          root     INFO: Text to tweet: Modificação do Título
-2020-10-24 11:36:23,057          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/tribunal-afasta-governador-de-sc-para-prosseguir-com-impeachment.shtml
-2020-10-24 11:36:23,063          root     INFO: Replying to: 1319953739491479554
-2020-10-24 11:36:23,360          root     INFO: Id to store: 1319965959684345861
-2020-10-24 11:36:23,367          root     INFO: O Tribunal <del>Especial,</del> <ins>Especial</ins> decidiu, por 6 votos contra 4, que o governador de Santa Catarina, Carlos Moisés (PSL), deve ser afastado por até 180 dias (seis meses) <del>do seus cargo. O colegiado é composto por cinco desembargadores sorteados e cinco deputados escolhidos. A maioria votou por dar continuidade ao processo</del> de <del>impeachment em vez de arquivá-lo.</del> <ins>seu cargo.</ins> Leia mais (10/24/2020 - 02h22)
-2020-10-24 11:36:25,215          root     INFO: Media ready with ids: 1319965966814642177
-2020-10-24 11:36:25,216          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-24 11:36:25,216          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/tribunal-afasta-governador-de-sc-para-prosseguir-com-impeachment.shtml
-2020-10-24 11:36:25,223          root     INFO: Replying to: 1319965959684345861
-2020-10-24 11:36:25,489          root     INFO: Id to store: 1319965968618147840
-2020-10-24 11:36:25,592          root     INFO: Com apoio de filhos do presidente, núcleo ideológico pressiona Bolsonaro a trocar <ins>general</ins> Ramos
-2020-10-24 11:36:27,409          root     INFO: Media ready with ids: 1319965976021139456
-2020-10-24 11:36:27,410          root     INFO: Text to tweet: Modificação do Título
-2020-10-24 11:36:27,411          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/com-apoio-de-filhos-do-presidente-nucleo-ideologico-pressiona-bolsonaro-a-trocar-ramos.shtml
-2020-10-24 11:36:27,416          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/com-apoio-de-filhos-do-presidente-nucleo-ideologico-pressiona-bolsonaro-a-trocar-ramos.shtml
-2020-10-24 11:36:27,702          root     INFO: Replying to: 1319965977929519104
-2020-10-24 11:36:27,981          root     INFO: Id to store: 1319965979032625152
-2020-10-24 11:36:30,673          root     INFO: Finished script
+2020-10-24 11:46:47,132          root     INFO: Starting script
+2020-10-24 11:46:48,054          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-24 11:46:48,730          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-24 11:46:49,401          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-24 11:46:49,613          root     INFO: Parsing R7 - Brasil
+2020-10-24 11:46:53,803          root     INFO: Finished script
