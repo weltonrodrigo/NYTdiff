@@ -1,6 +1,13 @@
-2020-10-24 10:26:47,338          root     INFO: Starting script
-2020-10-24 10:26:48,162          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-24 10:26:48,846          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-24 10:26:49,538          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-24 10:26:49,692          root     INFO: Parsing R7 - Brasil
-2020-10-24 10:26:53,820          root     INFO: Finished script
+2020-10-24 10:47:43,780          root     INFO: Starting script
+2020-10-24 10:47:44,659          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-24 10:47:45,301          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-24 10:47:45,944          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-24 10:47:46,087          root     INFO: Parsing R7 - Brasil
+2020-10-24 10:47:47,517          root     INFO: O Tribunal <del>Especial,</del> <ins>Especial</ins> decidiu, por 6 votos contra 4, que o governador de Santa Catarina, Carlos Moisés (PSL), deve ser afastado por até 180 dias (seis meses) do seus cargo. O colegiado é composto por cinco desembargadores sorteados e cinco deputados escolhidos. A maioria votou por dar continuidade ao processo de impeachment em vez de arquivá-lo. Leia mais (10/24/2020 - 02h22)
+2020-10-24 10:47:49,400          root     INFO: Media ready with ids: 1319953737146912768
+2020-10-24 10:47:49,401          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-24 10:47:49,401          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/tribunal-afasta-governador-de-sc-para-prosseguir-com-impeachment.shtml
+2020-10-24 10:47:49,406          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/tribunal-afasta-governador-de-sc-para-prosseguir-com-impeachment.shtml
+2020-10-24 10:47:49,600          root     INFO: Replying to: 1319953738736504832
+2020-10-24 10:47:49,839          root     INFO: Id to store: 1319953739491479554
+2020-10-24 10:47:52,394          root     INFO: Finished script
