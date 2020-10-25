@@ -1,6 +1,14 @@
-2020-10-25 13:31:55,655          root     INFO: Starting script
-2020-10-25 13:31:56,851          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-25 13:31:57,527          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-25 13:31:58,191          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-25 13:31:58,432          root     INFO: Parsing R7 - Brasil
-2020-10-25 13:32:02,373          root     INFO: Finished script
+2020-10-25 13:46:40,683          root     INFO: Starting script
+2020-10-25 13:46:41,494          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-25 13:46:42,156          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-25 13:46:42,806          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-25 13:46:43,035          root     INFO: Parsing R7 - Brasil
+2020-10-25 13:46:44,320          root     INFO: A ex-mulher do ministro Marcelo Álvaro Antônio (Turismo) é a 7ª candidata a vereadora que mais recebeu recursos públicos para a sua campanha até agora (R$ 690 mil). O repasse <ins>para Janaína Cardoso</ins> abriu crise interna no PSL de Minas, com acusações de novamente haver escândalo com a verba do partido, depois do caso de laranjas em 2018. Leia mais (10/24/2020 - 23h15)
+2020-10-25 13:46:46,106          root     INFO: Media ready with ids: 1320361157916565504
+2020-10-25 13:46:46,107          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-25 13:46:46,107          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ex-mulher-de-ministro-do-turismo-e-a-7a-candidata-a-vereadora-que-mais-recebeu-verba-publica-para-campanha.shtml
+2020-10-25 13:46:46,113          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ex-mulher-de-ministro-do-turismo-e-a-7a-candidata-a-vereadora-que-mais-recebeu-verba-publica-para-campanha.shtml
+2020-10-25 13:46:46,317          root     INFO: Replying to: 1320361159602601984
+2020-10-25 13:46:46,573          root     INFO: Id to store: 1320361160298893314
+2020-10-25 13:46:48,446          root     INFO: New article tracked: http://noticias.r7.com/brasil/percepcao-ruim-do-mundo-hoje-sobre-o-brasil-e-mais-um-resfriado-do-que-um-cancer-terminal-diz-pesquisador-de-bons-paises-25102020
+2020-10-25 13:46:48,635          root     INFO: Finished script
