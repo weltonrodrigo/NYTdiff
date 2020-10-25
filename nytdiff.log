@@ -1,18 +1,6 @@
-2020-10-25 19:46:50,906          root     INFO: Starting script
-2020-10-25 19:46:51,715          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-25 19:46:52,366          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-25 19:46:53,017          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-25 19:46:53,232          root     INFO: Parsing R7 - Brasil
-2020-10-25 19:46:54,835          root     INFO: General Ramos nega <del>crise com Salles</del> <ins>crise,</ins> e <del>diz que uma briga só ocorre quando há duas pessoas</del> <ins>Salles pede desculpas em meio a atritos no governo</ins>
-2020-10-25 19:46:56,615          root     INFO: Media ready with ids: 1320451798927319041
-2020-10-25 19:46:56,616          root     INFO: Text to tweet: Modificação do Título
-2020-10-25 19:46:56,616          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/general-ramos-nega-crise-com-salles-e-diz-que-uma-briga-so-ocorre-quando-ha-duas-pessoas.shtml
-2020-10-25 19:46:56,622          root     INFO: Replying to: 1320403619150180352
-2020-10-25 19:46:56,849          root     INFO: Id to store: 1320451800588312577
-2020-10-25 19:46:56,854          root     INFO: <del>Em meio a mais uma</del> <ins>Diante da escalada da crise gerada pela</ins> disputa entre os grupos ideológico e militar que compõem o governo Jair Bolsonaro (sem partido), o ministro da Secretaria de Governo, general Luiz Eduardo Ramos, passeou de moto com o presidente na manhã deste domingo (25) e negou <del>interesse de protagonizar uma briga com</del> <ins>querer brigar. Pouco depois,</ins> o ministro do Meio Ambiente, Ricardo <del>Salles.</del> <ins>Salles, foi às redes sociais pedir desculpas.</ins> Leia mais (10/25/2020 - 10h49)
-2020-10-25 19:46:58,671          root     INFO: Media ready with ids: 1320451807487926272
-2020-10-25 19:46:58,672          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-25 19:46:58,672          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/general-ramos-nega-crise-com-salles-e-diz-que-uma-briga-so-ocorre-quando-ha-duas-pessoas.shtml
-2020-10-25 19:46:58,681          root     INFO: Replying to: 1320451800588312577
-2020-10-25 19:46:58,900          root     INFO: Id to store: 1320451809157283841
-2020-10-25 19:47:01,608          root     INFO: Finished script
+2020-10-25 19:57:43,713          root     INFO: Starting script
+2020-10-25 19:57:44,847          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-25 19:57:45,495          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-25 19:57:46,145          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-25 19:57:46,445          root     INFO: Parsing R7 - Brasil
+2020-10-25 19:57:50,087          root     INFO: Finished script
