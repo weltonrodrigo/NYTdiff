@@ -1,8 +1,13 @@
-2020-10-25 21:48:02,584          root     INFO: Starting script
-2020-10-25 21:48:03,466          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-25 21:48:04,143          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-25 21:48:04,809          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-25 21:48:04,921          root     INFO: Parsing R7 - Brasil
-2020-10-25 21:48:05,184          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/facebook-prepara-acoes-contra-disturbios-eleitorais-nos-eua.shtml
-2020-10-25 21:48:09,368          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2020/10/acione-a-tesoura-digital-nas-despesas-evitaveis.shtml
-2020-10-25 21:48:09,370          root     INFO: Finished script
+2020-10-25 21:57:44,477          root     INFO: Starting script
+2020-10-25 21:57:45,336          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-25 21:57:46,010          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-25 21:57:46,680          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-25 21:57:46,868          root     INFO: Parsing R7 - Brasil
+2020-10-25 21:57:47,121          root     INFO: O Wall Street Journal <del>destacou em</del> <ins>levou à</ins> manchete <ins>neste domingo (25)</ins> que o Facebook <del>tem</del> <ins>fez</ins> planos para "acalmar conflitos <del>relacionais</del> <ins>relacionados</ins> às eleições" americanas, com ferramentas projetadas originalmente para o que a plataforma chama de países "em risco". Leia mais (10/25/2020 - 18h07)
+2020-10-25 21:57:48,930          root     INFO: Media ready with ids: 1320484733944516611
+2020-10-25 21:57:48,931          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-25 21:57:48,931          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/facebook-prepara-acoes-contra-disturbios-eleitorais-nos-eua.shtml
+2020-10-25 21:57:48,937          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/facebook-prepara-acoes-contra-disturbios-eleitorais-nos-eua.shtml
+2020-10-25 21:57:49,115          root     INFO: Replying to: 1320484735542546433
+2020-10-25 21:57:49,359          root     INFO: Id to store: 1320484736343678977
+2020-10-25 21:57:53,356          root     INFO: Finished script
