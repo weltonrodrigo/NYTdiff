@@ -1,19 +1,6 @@
-2020-10-26 17:57:39,958          root     INFO: Starting script
-2020-10-26 17:57:40,797          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-26 17:57:41,484          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-26 17:57:42,172          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-26 17:57:42,292          root     INFO: Parsing R7 - Brasil
-2020-10-26 17:57:43,989          root     INFO: Líder do MBL é denunciado sob a acusação de tráfico de influência <del>e fraude em licitação</del>
-2020-10-26 17:57:45,709          root     INFO: Media ready with ids: 1320786710456926208
-2020-10-26 17:57:45,710          root     INFO: Text to tweet: Modificação do Título
-2020-10-26 17:57:45,710          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/lider-do-mbl-e-denunciado-sob-a-acusacao-de-trafico-de-influencia-e-fraude-em-licitacao.shtml
-2020-10-26 17:57:45,715          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/lider-do-mbl-e-denunciado-sob-a-acusacao-de-trafico-de-influencia-e-fraude-em-licitacao.shtml
-2020-10-26 17:57:45,909          root     INFO: Replying to: 1320786711996149761
-2020-10-26 17:57:46,176          root     INFO: Id to store: 1320786712788901895
-2020-10-26 17:57:46,181          root     INFO: O Ministério Público de São Paulo denunciou um dos líderes do MBL (Movimento Brasil Livre) <del>e um empresário acusado</del> <ins>por tráfico</ins> de <del>ligação com o grupo, além de</del> <ins>influência e acusou</ins> nomes ligados à Fipe e à Imprensa Oficial de SP por <del>tráfico de influência,</del> fraude em <del>licitação, lavagem de dinheiro e corrupção.</del> <ins>licitação.</ins> Leia mais (10/26/2020 - 14h18)
-2020-10-26 17:57:51,020          root     INFO: Media ready with ids: 1320786732665741316
-2020-10-26 17:57:51,021          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-26 17:57:51,021          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/lider-do-mbl-e-denunciado-sob-a-acusacao-de-trafico-de-influencia-e-fraude-em-licitacao.shtml
-2020-10-26 17:57:51,026          root     INFO: Replying to: 1320786712788901895
-2020-10-26 17:57:51,269          root     INFO: Id to store: 1320786734242816003
-2020-10-26 17:57:54,264          root     INFO: Finished script
+2020-10-26 18:26:43,974          root     INFO: Starting script
+2020-10-26 18:26:44,800          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-26 18:26:45,472          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-26 18:26:46,143          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-26 18:26:46,391          root     INFO: Parsing R7 - Brasil
+2020-10-26 18:26:50,282          root     INFO: Finished script
