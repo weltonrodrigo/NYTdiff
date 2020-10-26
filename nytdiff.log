@@ -1,6 +1,18 @@
-2020-10-26 19:46:44,561          root     INFO: Starting script
-2020-10-26 19:46:45,367          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-26 19:46:46,019          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-26 19:46:46,674          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-26 19:46:46,897          root     INFO: Parsing R7 - Brasil
-2020-10-26 19:46:50,110          root     INFO: Finished script
+2020-10-26 19:57:49,771          root     INFO: Starting script
+2020-10-26 19:57:50,719          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-26 19:57:51,397          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-26 19:57:52,069          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-26 19:57:52,170          root     INFO: Parsing R7 - Brasil
+2020-10-26 19:57:53,827          root     INFO: <del>Candidata à Prefeitura do Rio,</del> <ins>Avisei Crivella que governo dele não tinha rumo, diz</ins> Clarissa Garotinho <del>participa da</del> <ins>em</ins> sabatina Folha/UOL
+2020-10-26 19:57:55,657          root     INFO: Media ready with ids: 1320816950927347713
+2020-10-26 19:57:55,658          root     INFO: Text to tweet: Modificação do Título
+2020-10-26 19:57:55,658          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-do-rio-clarissa-garotinho-participa-da-sabatina-folhauol.shtml
+2020-10-26 19:57:55,663          root     INFO: Replying to: 1320808330558922756
+2020-10-26 19:57:55,877          root     INFO: Id to store: 1320816952613441536
+2020-10-26 19:57:55,883          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta segunda-feira (26) Clarissa Garotinho, candidata pelo</del> <ins>Candidata do</ins> PROS à Prefeitura do Rio de <del>Janeiro.</del> <ins>Janeiro, Clarissa Garotinho criticou a gestão do prefeito Marcelo Crivella (Republicanos), de quem foi secretária por um ano e quatro meses, durante sabatina Folha/UOL realizada nesta segunda-feira (26). "Eu era a única secretária que nas reuniões do secretariado tinha coragem de dizer para o prefeito que o governo não tinha rumo", relatou a candidata.</ins> Leia mais (10/26/2020 - 08h36)
+2020-10-26 19:57:57,630          root     INFO: Media ready with ids: 1320816959215280129
+2020-10-26 19:57:57,631          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-26 19:57:57,631          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-do-rio-clarissa-garotinho-participa-da-sabatina-folhauol.shtml
+2020-10-26 19:57:57,636          root     INFO: Replying to: 1320816952613441536
+2020-10-26 19:57:57,852          root     INFO: Id to store: 1320816960863674368
+2020-10-26 19:58:00,315          root     INFO: Finished script
