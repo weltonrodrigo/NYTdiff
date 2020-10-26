@@ -1,32 +1,15 @@
-2020-10-26 02:57:37,835          root     INFO: Starting script
-2020-10-26 02:57:38,636          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-26 02:57:39,293          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-26 02:57:39,950          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-26 02:57:40,222          root     INFO: Parsing R7 - Brasil
-2020-10-26 02:57:40,475          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/10/jair-ganhar-o-premio-de-pior-dos-piores-nao-e-marmelada-e-justica.shtml
-2020-10-26 02:57:40,485          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/pequim-quer-que-chines-consuma-como-brasileiro.shtml
-2020-10-26 02:57:41,696          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/pf-abre-inquerito-para-apurar-movimentacoes-financeiras-de-ex-advogado-de-flavio-bolsonaro.shtml
-2020-10-26 02:57:41,704          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sem-marcas-de-gestao-covas-tenta-se-vender-como-um-resolvedor-de-problemas.shtml
-2020-10-26 02:57:41,712          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/bolsonaro-deve-publicar-dois-decretos-para-regulamentar-trabalho-de-inteligencia-ainda-neste-ano.shtml
-2020-10-26 02:57:41,720          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/dilma-fabio-porchat-e-teresa-cristina-assinam-manifesto-em-defesa-de-padilha.shtml
-2020-10-26 02:57:41,728          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/menos-de-1-dos-candidatos-concentram-80-dos-fundos-publicos-de-campanha.shtml
-2020-10-26 02:57:41,735          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/drible-em-polarizacao-e-acoes-a-classes-populares-ajudam-a-explicar-fenomeno-kalil-em-bh.shtml
-2020-10-26 02:57:41,742          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/10/vacina-e-politica.shtml
-2020-10-26 02:57:41,748          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/10/manipulacao-eleitoral-nos-eua-e-no-brasil.shtml
-2020-10-26 02:57:41,756          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/apos-cassacoes-em-serie-eleicao-em-cidade-de-mg-foca-em-promessas-de-estabilidade-politica.shtml
-2020-10-26 02:57:41,762          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/na-martalandia-orfaos-da-ex-prefeita-se-dividem-entre-covas-e-pt-e-ignoram-boulos.shtml
-2020-10-26 02:57:41,807          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/apos-polemica-russomanno-mantem-trecho-quase-igual-ao-de-edital-da-gestao-covas-em-plano-de-governo.shtml
-2020-10-26 02:57:44,211          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/militancia-bolsonarista-fez-apoio-a-vacina-contra-covid-19-cair-de-70-para-26-nas-redes-sociais.shtml
-2020-10-26 02:57:44,214          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sobrevivente-de-delacao-prefeito-de-cuiaba-tenta-reeleicao-e-quer-eleger-filho-em-cidade-vizinha.shtml
-2020-10-26 02:57:44,216          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/secretarios-de-saude-culpam-bolsonaro-por-crise-das-vacinas-defendem-pazuello-e-veem-doria-de-olho-em-2022.shtml
-2020-10-26 02:57:44,218          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-schuler/2020/10/e-simplesmente-um-erro-imaginar-que-nossas-sociedades-sejam-meritocraticas.shtml
-2020-10-26 02:57:44,220          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2020/10/chile-2020-plebiscito-e-paridade-renovam-a-democracia.shtml
-2020-10-26 02:57:44,222          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/10/entre-eua-e-china-governo-inteligente-fica-com-os-dois.shtml
-2020-10-26 02:57:44,224          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/bicho-papao-economicus-nos-aliena-da-natureza.shtml
-2020-10-26 02:57:44,226          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2020/10/as-cobaias-brasileiras-na-politica-do-volta-atras.shtml
-2020-10-26 02:57:44,228          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/bolsonaro-inaugura-alianca-entre-ala-ideologica-e-o-centrao.shtml
-2020-10-26 02:57:44,230          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/escorregadio-kassio-nunes-passa-sem-arranhoes-por-sabatina-sonolenta.shtml
-2020-10-26 02:57:44,232          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/vice-de-covas-reuniu-secretario-perito-e-creches-ligadas-a-ele-para-discutir-alugueis.shtml
-2020-10-26 02:57:44,234          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/russomanno-se-alinha-de-ponta-a-ponta-ao-bolsonarismo-de-ministros-a-pandemia.shtml
-2020-10-26 02:57:44,236          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/baixo-entusiasmo-e-medo-da-pandemia-podem-aumentar-abstencao-na-eleicao-dizem-especialistas.shtml
-2020-10-26 02:57:44,236          root     INFO: Finished script
+2020-10-26 03:26:11,524          root     INFO: Starting script
+2020-10-26 03:26:12,312          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-26 03:26:12,950          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-26 03:26:13,599          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-26 03:26:13,882          root     INFO: Parsing R7 - Brasil
+2020-10-26 03:26:15,198          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/apos-renuncia-de-vice-tre-indefere-candidatura-de-filipe-sabara-expulso-do-novo.shtml
+2020-10-26 03:26:15,361          root     INFO: Após polêmica, Russomanno mantém trecho quase igual ao de edital <del>da gestão</del> <ins>de</ins> Covas em plano de governo
+2020-10-26 03:26:17,181          root     INFO: Media ready with ids: 1320567396432830464
+2020-10-26 03:26:17,181          root     INFO: Text to tweet: Modificação do Título
+2020-10-26 03:26:17,181          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/apos-polemica-russomanno-mantem-trecho-quase-igual-ao-de-edital-da-gestao-covas-em-plano-de-governo.shtml
+2020-10-26 03:26:17,186          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/apos-polemica-russomanno-mantem-trecho-quase-igual-ao-de-edital-da-gestao-covas-em-plano-de-governo.shtml
+2020-10-26 03:26:17,385          root     INFO: Replying to: 1320567398005694465
+2020-10-26 03:26:17,625          root     INFO: Id to store: 1320567398873862144
+2020-10-26 03:26:19,781          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/lei-pode-permitir-compra-de-vacina-chinesa-sem-registro-da-anvisa.shtml
+2020-10-26 03:26:19,782          root     INFO: Finished script
