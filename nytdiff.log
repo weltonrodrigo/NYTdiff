@@ -1,6 +1,12 @@
-2020-10-26 14:57:49,650          root     INFO: Starting script
-2020-10-26 14:57:50,687          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-26 14:57:51,975          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-26 14:57:53,294          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-26 14:57:53,500          root     INFO: Parsing R7 - Brasil
-2020-10-26 14:57:57,502          root     INFO: Finished script
+2020-10-26 15:27:37,629          root     INFO: Starting script
+2020-10-26 15:27:38,461          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-26 15:27:39,138          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-26 15:27:39,812          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-26 15:27:39,986          root     INFO: Parsing R7 - Brasil
+2020-10-26 15:27:41,529          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/relatorio-no-cnj-propoe-mudancas-para-acelerar-implantacao-de-cota-para-negros-no-judiciario.shtml
+2020-10-26 15:27:41,538          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sem-verba-do-psl-primo-de-bolsonaro-apela-a-aliados-para-fazer-campanha-em-jaboticabal.shtml
+2020-10-26 15:27:41,545          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/ligacao-de-marqueteiro-com-russomanno-irrita-joice-e-acirra-conflitos-no-psl.shtml
+2020-10-26 15:27:44,163          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-porto-alegre-gustavo-paim-participa-da-sabatina-folhauol.shtml
+2020-10-26 15:27:44,168          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10430
+2020-10-26 15:27:44,171          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-em-jaboticabal-marcos-bolsonaro-participa-de-sabatina-da-folha.shtml
+2020-10-26 15:27:44,172          root     INFO: Finished script
