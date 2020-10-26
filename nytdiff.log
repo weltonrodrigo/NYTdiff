@@ -1,13 +1,8 @@
-2020-10-26 20:26:31,707          root     INFO: Starting script
-2020-10-26 20:26:32,535          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-26 20:26:33,209          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-26 20:26:33,880          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-26 20:26:34,028          root     INFO: Parsing R7 - Brasil
-2020-10-26 20:26:35,605          root     INFO: Uma decisão liminar <ins>(provisória)</ins> na 4ª Câmara de Direito Público da Justiça de São Paulo suspendeu nesta segunda-feira (26) a decisão que há uma semana determinou o bloqueio de R$ 29,4 milhões em bens do governador João Doria (PSDB) em processo no qual o tucano é réu sob a suspeita de improbidade administrativa <del>na época em que</del> <ins>quando</ins> era prefeito de São Paulo. Leia mais (10/26/2020 - 13h16)
-2020-10-26 20:26:37,583          root     INFO: Media ready with ids: 1320824172545794052
-2020-10-26 20:26:37,583          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-26 20:26:37,583          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/justica-derruba-decisao-que-bloqueava-bens-de-doria-em-acao-por-improbidade-na-prefeitura-de-sp.shtml
-2020-10-26 20:26:37,589          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/justica-derruba-decisao-que-bloqueava-bens-de-doria-em-acao-por-improbidade-na-prefeitura-de-sp.shtml
-2020-10-26 20:26:37,760          root     INFO: Replying to: 1320824174894600193
-2020-10-26 20:26:38,040          root     INFO: Id to store: 1320824175595036675
-2020-10-26 20:26:40,650          root     INFO: Finished script
+2020-10-26 20:46:41,375          root     INFO: Starting script
+2020-10-26 20:46:42,198          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-26 20:46:42,879          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-26 20:46:43,548          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-26 20:46:43,686          root     INFO: Parsing R7 - Brasil
+2020-10-26 20:46:43,938          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/carta-aberta-de-uma-cientista-as-maes-de-filhos-com-deficiencia.shtml
+2020-10-26 20:46:47,754          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2020/10/liberdade-de-expressao-e-testada-pela-era-digital.shtml
+2020-10-26 20:46:47,755          root     INFO: Finished script
