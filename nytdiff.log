@@ -1,8 +1,12 @@
-2020-10-26 02:04:23,463          root     INFO: Starting script
-2020-10-26 02:04:24,339          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-26 02:04:25,009          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-26 02:04:25,677          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-26 02:04:25,813          root     INFO: Parsing R7 - Brasil
-2020-10-26 02:04:27,329          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2020/10/veto-a-vacina-mostra-que-bolsonaro-cede-aos-radicais-em-tudo-que-so-ferrar-os-pobres.shtml
-2020-10-26 02:04:29,912          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/psol-pedira-que-mp-investigue-vice-de-covas-por-suspeita-de-envolvimento-na-mafia-das-creches-em-sp.shtml
-2020-10-26 02:04:29,913          root     INFO: Finished script
+2020-10-26 02:30:12,501          root     INFO: Starting script
+2020-10-26 02:30:13,514          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-26 02:30:14,345          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-26 02:30:15,174          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-26 02:30:15,510          root     INFO: Parsing R7 - Brasil
+2020-10-26 02:30:17,039          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/depois-de-sabara-comissao-de-etica-do-novo-vai-decidir-futuro-de-outro-candidato-em-sp.shtml
+2020-10-26 02:30:17,052          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/pt-vai-a-justica-contra-propaganda-eleitoral-de-bruno-covas.shtml
+2020-10-26 02:30:17,061          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/brasileiros-resistem-as-vacinas-chinesa-e-russa-mostra-pesquisa.shtml
+2020-10-26 02:30:19,565          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/em-meio-a-crise-da-vacina-padilha-protocola-pedido-para-convocar-pazuello-ao-congresso.shtml
+2020-10-26 02:30:19,569          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/fundacao-palmares-sai-em-defesa-de-funcionario-que-equiparou-condicao-de-escravos-no-brasil-a-de-operarios-ingleses.shtml
+2020-10-26 02:30:19,574          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/aumento-de-casos-de-coronavirus-no-amapa-assusta-gestores-locais.shtml
+2020-10-26 02:30:19,574          root     INFO: Finished script
