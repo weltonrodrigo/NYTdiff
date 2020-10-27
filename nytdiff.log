@@ -1,13 +1,21 @@
-2020-10-27 02:57:37,419          root     INFO: Starting script
-2020-10-27 02:57:38,246          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-27 02:57:38,917          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-27 02:57:39,587          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-27 02:57:39,790          root     INFO: Parsing R7 - Brasil
-2020-10-27 02:57:40,061          root     INFO: A Copa do Mundo do Qatar está um pouco distante, deve acontecer apenas em 2022, mas a CBF (Confederação Brasileira de Futebol) vai ter muito trabalho na temporada do ano que vem. Isto porque, a entidade terá de cuidar de três importantes campanhas das seleções nacionais. Leia mais (10/26/2020 - <del>23h15)</del> <ins>23h47)</ins>
-2020-10-27 02:57:41,811          root     INFO: Media ready with ids: 1320922589519351809
-2020-10-27 02:57:41,812          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-27 02:57:41,812          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2020/10/futebol-do-brasil-ensaia-temporada-que-exigira-atencao-com-selecoes.shtml
-2020-10-27 02:57:41,819          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2020/10/futebol-do-brasil-ensaia-temporada-que-exigira-atencao-com-selecoes.shtml
-2020-10-27 02:57:42,005          root     INFO: Replying to: 1320922591100608513
-2020-10-27 02:57:42,251          root     INFO: Id to store: 1320922591759114245
-2020-10-27 02:57:46,033          root     INFO: Finished script
+2020-10-27 03:26:22,529          root     INFO: Starting script
+2020-10-27 03:26:23,373          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-27 03:26:24,049          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-27 03:26:24,730          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-27 03:26:24,961          root     INFO: Parsing R7 - Brasil
+2020-10-27 03:26:25,225          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2020/10/enquanto-existir-samba-as-velhas-guardas-serao-eternas.shtml
+2020-10-27 03:26:26,030          root     INFO: Vacina! Capitão Tantã X Butantan! <ins>E o Bozo devia tomar vacina antirrábica!</ins>
+2020-10-27 03:26:27,768          root     INFO: Media ready with ids: 1320929828724477955
+2020-10-27 03:26:27,769          root     INFO: Text to tweet: Modificação do Título
+2020-10-27 03:26:27,769          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2020/10/vacina-capitao-tanta-x-butantan.shtml
+2020-10-27 03:26:27,777          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2020/10/vacina-capitao-tanta-x-butantan.shtml
+2020-10-27 03:26:27,942          root     INFO: Replying to: 1320929830205071360
+2020-10-27 03:26:28,175          root     INFO: Id to store: 1320929830985236480
+2020-10-27 03:26:28,180          root     INFO: Buemba! Buemba! Macaco Simão Urgente! O <del>Esculhambador-Geral</del> <ins>esculhambador-geral</ins> da República! Leia mais (10/23/2020 - 23h15)
+2020-10-27 03:26:29,873          root     INFO: Media ready with ids: 1320929837649977344
+2020-10-27 03:26:29,874          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-27 03:26:29,874          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2020/10/vacina-capitao-tanta-x-butantan.shtml
+2020-10-27 03:26:29,878          root     INFO: Replying to: 1320929830985236480
+2020-10-27 03:26:30,085          root     INFO: Id to store: 1320929838979579904
+2020-10-27 03:26:33,612          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2020/10/os-ignorantes-nao-reconhecem-o-valor-da-reciprocidade.shtml
+2020-10-27 03:26:33,613          root     INFO: Finished script
