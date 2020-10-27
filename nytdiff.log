@@ -1,19 +1,15 @@
-2020-10-27 14:27:08,870          root     INFO: Starting script
-2020-10-27 14:27:09,740          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-27 14:27:10,418          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-27 14:27:11,112          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-27 14:27:11,214          root     INFO: Parsing R7 - Brasil
-2020-10-27 14:27:12,907          root     INFO: <del>Sabatina Folha/UOL recebe</del> Vera <del>Lúcia, de São Paulo, Glória Heloiza, do Rio,</del> <ins>Lúcia defende estatizar transporte, confiscar imóveis</ins> e <del>Marchezan Jr., de Porto Alegre</del> <ins>postergar dívida em sabatina Folha/UOL</ins>
-2020-10-27 14:27:14,640          root     INFO: Media ready with ids: 1321096119703769089
-2020-10-27 14:27:14,640          root     INFO: Text to tweet: Modificação do Título
-2020-10-27 14:27:14,641          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sabatina-folhauol-recebe-vera-lucia-de-sao-paulo-gloria-heloiza-do-rio-e-marchezan-jr-de-porto-alegre.shtml
-2020-10-27 14:27:14,645          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sabatina-folhauol-recebe-vera-lucia-de-sao-paulo-gloria-heloiza-do-rio-e-marchezan-jr-de-porto-alegre.shtml
-2020-10-27 14:27:14,842          root     INFO: Replying to: 1321096121318576132
-2020-10-27 14:27:15,087          root     INFO: Id to store: 1321096122035822601
-2020-10-27 14:27:15,091          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta terça-feira (27) Vera Lúcia, candidata</del> <ins>Candidata</ins> pelo PSTU à Prefeitura de São Paulo, <del>Glória Heloiza, candidata pelo PSC à Prefeitura do Rio de Janeiro,</del> <ins>Vera Lúcia defendeu "uma alternativa socialista</ins> e <del>Nelson Marchezan Jr. (PSDB), atual prefeito de Porto Alegre.</del> <ins>revolucionária" para a cidade e pregou a destruição do sistema capitalista em sabatina promovida pela Folha, em parceria com o UOL, nesta terça-feira (27).</ins> Leia mais (10/27/2020 - 07h00)
-2020-10-27 14:27:19,973          root     INFO: Media ready with ids: 1321096141862297602
-2020-10-27 14:27:19,974          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-27 14:27:19,975          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sabatina-folhauol-recebe-vera-lucia-de-sao-paulo-gloria-heloiza-do-rio-e-marchezan-jr-de-porto-alegre.shtml
-2020-10-27 14:27:19,985          root     INFO: Replying to: 1321096122035822601
-2020-10-27 14:27:20,257          root     INFO: Id to store: 1321096143728746498
-2020-10-27 14:27:22,991          root     INFO: Finished script
+2020-10-27 14:48:16,701          root     INFO: Starting script
+2020-10-27 14:48:17,523          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-27 14:48:18,195          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-27 14:48:18,866          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-27 14:48:19,022          root     INFO: Parsing R7 - Brasil
+2020-10-27 14:48:20,457          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/moro-defende-prisao-em-2a-instancia-para-processos-ja-iniciados-e-nao-apenas-novos.shtml
+2020-10-27 14:48:20,595          root     INFO: Governadores tentam reabrir discussão <ins>sobre vacina</ins> e pedem reunião com Pazuello
+2020-10-27 14:48:22,303          root     INFO: Media ready with ids: 1321101436684537858
+2020-10-27 14:48:22,303          root     INFO: Text to tweet: Modificação do Título
+2020-10-27 14:48:22,304          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/governadores-tentam-reabrir-discussao-e-pedem-reuniao-com-pazuello.shtml
+2020-10-27 14:48:22,308          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/governadores-tentam-reabrir-discussao-e-pedem-reuniao-com-pazuello.shtml
+2020-10-27 14:48:22,500          root     INFO: Replying to: 1321101438269956099
+2020-10-27 14:48:22,719          root     INFO: Id to store: 1321101438978826242
+2020-10-27 14:48:25,102          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/com-bolsonaro-diplomacia-encaminha-brasil-para-o-isolamento.shtml
+2020-10-27 14:48:25,103          root     INFO: Finished script
