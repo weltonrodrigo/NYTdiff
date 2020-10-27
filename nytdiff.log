@@ -1,21 +1,18 @@
-2020-10-27 20:26:40,011          root     INFO: Starting script
-2020-10-27 20:26:40,852          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-27 20:26:41,530          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-27 20:26:42,214          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-27 20:26:42,341          root     INFO: Parsing R7 - Brasil
-2020-10-27 20:26:43,822          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/embaixada-das-filipinas-pede-que-itamaraty-ordene-globo-a-retirar-videos-de-agressoes-do-ar.shtml
-2020-10-27 20:26:43,846          root     INFO: <del>Candidato à Prefeitura de Porto Alegre, Marchezan Jr. participa de</del> <ins>Em</ins> sabatina <del>Folha/UOL</del> <ins>Folha/UOL, Marchezan diz que 'impeachment é movido por corruptos' para tirá-lo da eleição</ins>
-2020-10-27 20:26:45,549          root     INFO: Media ready with ids: 1321186594704023552
-2020-10-27 20:26:45,550          root     INFO: Text to tweet: Modificação do Título
-2020-10-27 20:26:45,550          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-a-prefeitura-de-porto-alegre-marchezan-jr-participa-de-sabatina-folhauol.shtml
-2020-10-27 20:26:45,556          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-a-prefeitura-de-porto-alegre-marchezan-jr-participa-de-sabatina-folhauol.shtml
-2020-10-27 20:26:45,777          root     INFO: Replying to: 1321186596264108032
-2020-10-27 20:26:46,008          root     INFO: Id to store: 1321186597086388224
-2020-10-27 20:26:46,013          root     INFO: <del>A</del> <ins>Em sabatina promovida pela</ins> Folha, em parceria com o UOL, <del>sabatina nesta terça-feira (27) Nelson Marchezan Jr. (PSDB),</del> <ins>o</ins> atual prefeito de Porto <del>Alegre.</del> <ins>Alegre, Nelson Marchezan Jr. (PSDB), que busca a reeleição, disse que o pedido de impeachment de que é alvo tem como objetivo tirá-lo do processo eleitoral. Segundo ele, a cidade "vem de um histórico de corrupção".</ins> Leia mais (10/27/2020 - 14h07)
-2020-10-27 20:26:47,768          root     INFO: Media ready with ids: 1321186603612725248
-2020-10-27 20:26:47,769          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-27 20:26:47,770          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-a-prefeitura-de-porto-alegre-marchezan-jr-participa-de-sabatina-folhauol.shtml
-2020-10-27 20:26:47,775          root     INFO: Replying to: 1321186597086388224
-2020-10-27 20:26:47,995          root     INFO: Id to store: 1321186605433036801
-2020-10-27 20:26:50,542          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/propaganda-eleitoral-na-tv-tem-pouca-novidade-e-muita-repeticao-em-sao-paulo.shtml
-2020-10-27 20:26:50,543          root     INFO: Finished script
+2020-10-27 20:47:13,026          root     INFO: Starting script
+2020-10-27 20:47:13,818          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-27 20:47:14,454          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-27 20:47:15,091          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-27 20:47:15,255          root     INFO: Parsing R7 - Brasil
+2020-10-27 20:47:16,693          root     INFO: <del>Candidatos</del> Glória <del>Heloiza, do Rio, e Marchezan Jr.,</del> <ins>Heloiza se diz candidata</ins> de <del>Porto Alegre participam de</del> <ins>Bolsonaro e renega Witzel, em</ins> sabatina Folha/UOL
+2020-10-27 20:47:18,393          root     INFO: Media ready with ids: 1321191765580369923
+2020-10-27 20:47:18,393          root     INFO: Text to tweet: Modificação do Título
+2020-10-27 20:47:18,394          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-gloria-heloiza-do-rio-e-marchezan-jr-de-porto-alegre-participam-de-sabatina-folhauol.shtml
+2020-10-27 20:47:18,399          root     INFO: Replying to: 1321141027907002371
+2020-10-27 20:47:18,663          root     INFO: Id to store: 1321191767253897217
+2020-10-27 20:47:18,668          root     INFO: <del>A</del> <ins>Em sabatina promovida pela</ins> Folha, em parceria com o UOL, <del>sabatina nesta terça-feira (27)</del> Glória Heloiza, candidata pelo PSC à Prefeitura do Rio de Janeiro, <del>e Nelson Marchezan Jr. (PSDB), atual prefeito de Porto Alegre.</del> <ins>disse que vai ser a candidata do presidente Bolsonaro (sem partido).</ins> Leia mais (10/27/2020 - 09h54)
+2020-10-27 20:47:20,416          root     INFO: Media ready with ids: 1321191773822193664
+2020-10-27 20:47:20,416          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-27 20:47:20,416          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-gloria-heloiza-do-rio-e-marchezan-jr-de-porto-alegre-participam-de-sabatina-folhauol.shtml
+2020-10-27 20:47:20,420          root     INFO: Replying to: 1321191767253897217
+2020-10-27 20:47:20,652          root     INFO: Id to store: 1321191775596355588
+2020-10-27 20:47:22,764          root     INFO: Finished script
