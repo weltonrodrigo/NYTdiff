@@ -1,21 +1,6 @@
-2020-10-28 19:23:44,322          root     INFO: Starting script
-2020-10-28 19:23:45,171          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-28 19:23:45,857          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-28 19:23:46,543          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-28 19:23:46,789          root     INFO: Parsing R7 - Brasil
-2020-10-28 19:23:48,357          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/tse-repassou-ao-whatsapp-1020-denuncias-de-disparo-em-massa-nas-eleicoes.shtml
-2020-10-28 19:23:48,493          root     INFO: <del>Candidata à Prefeitura do Rio,</del> <ins>Em sabatina Folha/UOL,</ins> Renata Souza <del>participa da sabatina Folha/UOL</del> <ins>expõe diferenças com Benedita e diz que PSOL não apoiou Cabral</ins>
-2020-10-28 19:23:50,230          root     INFO: Media ready with ids: 1321533147645968385
-2020-10-28 19:23:50,230          root     INFO: Text to tweet: Modificação do Título
-2020-10-28 19:23:50,230          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-do-rio-renata-souza-participa-da-sabatina-folhauol.shtml
-2020-10-28 19:23:50,236          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-do-rio-renata-souza-participa-da-sabatina-folhauol.shtml
-2020-10-28 19:23:50,431          root     INFO: Replying to: 1321533149281701889
-2020-10-28 19:23:50,675          root     INFO: Id to store: 1321533150091235328
-2020-10-28 19:23:50,679          root     INFO: A <del>Folha, em parceria com o UOL, sabatina nesta quarta-feira (28), Renata Souza,</del> candidata <del>pelo</del> <ins>do</ins> PSOL à Prefeitura do <del>Rio</del> <ins>Rio, Renata Souza, faz questão</ins> de <del>Janeiro.</del> <ins>pontuar as diferenças entre as candidaturas dela e de Benedita da Silva (PT).</ins> Leia mais (10/28/2020 - 10h46)
-2020-10-28 19:23:52,346          root     INFO: Media ready with ids: 1321533156516876288
-2020-10-28 19:23:52,347          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-28 19:23:52,347          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-do-rio-renata-souza-participa-da-sabatina-folhauol.shtml
-2020-10-28 19:23:52,352          root     INFO: Replying to: 1321533150091235328
-2020-10-28 19:23:52,557          root     INFO: Id to store: 1321533158018502657
-2020-10-28 19:23:55,005          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/ameacado-crivella-clama-por-apoio-imediato-de-bolsonaro-para-chegar-ao-2o-turno-no-rio.shtml
-2020-10-28 19:23:55,006          root     INFO: Finished script
+2020-10-28 19:33:30,323          root     INFO: Starting script
+2020-10-28 19:33:31,430          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-28 19:33:32,263          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-28 19:33:33,095          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-28 19:33:33,307          root     INFO: Parsing R7 - Brasil
+2020-10-28 19:33:37,149          root     INFO: Finished script
