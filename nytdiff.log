@@ -1,6 +1,13 @@
-2020-10-28 17:05:16,618          root     INFO: Starting script
-2020-10-28 17:05:17,477          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-28 17:05:18,177          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-28 17:05:18,877          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-28 17:05:19,265          root     INFO: Parsing R7 - Brasil
-2020-10-28 17:05:23,683          root     INFO: Finished script
+2020-10-28 17:26:51,842          root     INFO: Starting script
+2020-10-28 17:26:52,655          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-28 17:26:53,310          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-28 17:26:53,965          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-28 17:26:54,227          root     INFO: Parsing R7 - Brasil
+2020-10-28 17:26:54,529          root     INFO: Fui expulso <ins>do Novo</ins> com alegações falsas e denúncias descabidas
+2020-10-28 17:26:56,307          root     INFO: Media ready with ids: 1321503729082880000
+2020-10-28 17:26:56,307          root     INFO: Text to tweet: Modificação do Título
+2020-10-28 17:26:56,307          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/fui-expulso-com-alegacoes-falsas-e-denuncias-descabidas.shtml
+2020-10-28 17:26:56,312          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/fui-expulso-com-alegacoes-falsas-e-denuncias-descabidas.shtml
+2020-10-28 17:26:56,508          root     INFO: Replying to: 1321503730777395200
+2020-10-28 17:26:56,749          root     INFO: Id to store: 1321503731565891584
+2020-10-28 17:27:00,575          root     INFO: Finished script
