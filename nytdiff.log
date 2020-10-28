@@ -1,19 +1,10 @@
-2020-10-28 14:48:43,399          root     INFO: Starting script
-2020-10-28 14:48:44,207          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-28 14:48:44,864          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-28 14:48:45,532          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-28 14:48:45,658          root     INFO: Parsing R7 - Brasil
-2020-10-28 14:48:47,035          root     INFO: <del>Candidatas Joice Hasselmann, de SP, e Renata Souza, do Rio, participam</del> <ins>Nem eu nem o PSL sairemos menores</ins> da <ins>eleição, diz Joice em</ins> sabatina Folha/UOL
-2020-10-28 14:48:48,773          root     INFO: Media ready with ids: 1321463935661461505
-2020-10-28 14:48:48,774          root     INFO: Text to tweet: Modificação do Título
-2020-10-28 14:48:48,774          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatas-joice-hasselmann-de-sp-e-renata-souza-do-rio-participam-da-sabatina-folhauol.shtml
-2020-10-28 14:48:48,780          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatas-joice-hasselmann-de-sp-e-renata-souza-do-rio-participam-da-sabatina-folhauol.shtml
-2020-10-28 14:48:48,986          root     INFO: Replying to: 1321463937154588674
-2020-10-28 14:48:49,256          root     INFO: Id to store: 1321463938089918471
-2020-10-28 14:48:49,260          root     INFO: <del>A Folha,</del> <ins>Com 1% de intenção de votos na última pesquisa Datafolha, divulgada no último dia 22, a deputada federal Joice Hasselmann (PSL) afirmou</ins> em <del>parceria com o UOL,</del> sabatina <ins>da Folha e do UOL,</ins> nesta quarta-feira <del>(28) Joice Hasselmann, candidata pelo PSL</del> <ins>(28), que nem ela nem o partido vão sair menores de sua candidatura</ins> à Prefeitura de São <del>Paulo, e Renata Souza, candidata pelo PSOL à Prefeitura do Rio de Janeiro.</del> <ins>Paulo.</ins> Leia mais (10/28/2020 - 07h00)
-2020-10-28 14:48:50,980          root     INFO: Media ready with ids: 1321463944754716674
-2020-10-28 14:48:50,981          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-28 14:48:50,981          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatas-joice-hasselmann-de-sp-e-renata-souza-do-rio-participam-da-sabatina-folhauol.shtml
-2020-10-28 14:48:50,987          root     INFO: Replying to: 1321463938089918471
-2020-10-28 14:48:51,222          root     INFO: Id to store: 1321463946386329607
-2020-10-28 14:48:53,378          root     INFO: Finished script
+2020-10-28 14:57:43,087          root     INFO: Starting script
+2020-10-28 14:57:43,922          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-28 14:57:44,585          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-28 14:57:45,255          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-28 14:57:45,384          root     INFO: Parsing R7 - Brasil
+2020-10-28 14:57:45,615          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/vale-refeicao-esta-obsoleto.shtml
+2020-10-28 14:57:46,904          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/prefeito-candidato-de-natal-tenta-proibir-comicios-mas-justica-barra-decisao-controversa.shtml
+2020-10-28 14:57:49,595          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2020/10/jj-abrams-reve-tragedia-da-challenger-que-explodiu-no-ar-com-professora-dentro.shtml
+2020-10-28 14:57:49,599          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48382
+2020-10-28 14:57:49,601          root     INFO: Finished script
