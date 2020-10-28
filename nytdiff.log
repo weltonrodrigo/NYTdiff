@@ -1,8 +1,19 @@
-2020-10-28 22:27:35,989          root     INFO: Starting script
-2020-10-28 22:27:36,804          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-28 22:27:37,480          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-28 22:27:38,150          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-28 22:27:38,265          root     INFO: Parsing R7 - Brasil
-2020-10-28 22:27:39,855          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/quase-11-mil-candidatos-com-patrimonio-superior-a-r-300-mil-receberam-o-auxilio-emergencial.shtml
-2020-10-28 22:27:42,564          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/10/bolsonaro-aproveita-eleicoes-para-abastecer-clima-de-campanha-permanente.shtml
-2020-10-28 22:27:42,565          root     INFO: Finished script
+2020-10-28 22:47:34,355          root     INFO: Starting script
+2020-10-28 22:47:35,515          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-28 22:47:36,172          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-28 22:47:36,822          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-28 22:47:37,008          root     INFO: Parsing R7 - Brasil
+2020-10-28 22:47:38,343          root     INFO: Secretários estaduais de <del>saúde</del> <ins>Saúde</ins> rechaçam, por unanimidade, decreto de Bolsonaro sobre UBS
+2020-10-28 22:47:40,112          root     INFO: Media ready with ids: 1321584443384123392
+2020-10-28 22:47:40,113          root     INFO: Text to tweet: Modificação do Título
+2020-10-28 22:47:40,113          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/secretarios-estaduais-de-saude-rechacam-por-unanimidade-decreto-de-bolsonaro-sobre-ubs.shtml
+2020-10-28 22:47:40,121          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/secretarios-estaduais-de-saude-rechacam-por-unanimidade-decreto-de-bolsonaro-sobre-ubs.shtml
+2020-10-28 22:47:40,314          root     INFO: Replying to: 1321584445158236167
+2020-10-28 22:47:40,579          root     INFO: Id to store: 1321584445988753408
+2020-10-28 22:47:40,584          root     INFO: Os secretários estaduais de <del>saúde</del> <ins>Saúde</ins> reunidos no Conass (Conselho Nacional de Secretários de Saúde) nesta quarta (28) rechaçaram, por unanimidade, o decreto presidencial que incluiu as unidades básicas de saúde no programa de desestatização e desinvestimentos do governo. Leia mais (10/28/2020 - 17h56)
+2020-10-28 22:47:42,413          root     INFO: Media ready with ids: 1321584452863205377
+2020-10-28 22:47:42,413          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-28 22:47:42,413          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/secretarios-estaduais-de-saude-rechacam-por-unanimidade-decreto-de-bolsonaro-sobre-ubs.shtml
+2020-10-28 22:47:42,422          root     INFO: Replying to: 1321584445988753408
+2020-10-28 22:47:42,661          root     INFO: Id to store: 1321584454788390912
+2020-10-28 22:47:44,964          root     INFO: Finished script
