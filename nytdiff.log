@@ -1,8 +1,18 @@
-2020-10-28 16:40:47,315          root     INFO: Starting script
-2020-10-28 16:40:48,339          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-28 16:40:49,169          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-28 16:40:49,994          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-28 16:40:50,221          root     INFO: Parsing R7 - Brasil
-2020-10-28 16:40:51,711          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-de-porto-alegre-erram-dados-sobre-financas-saude-e-educacao-em-sabatina-folhauol.shtml
-2020-10-28 16:40:54,182          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/nao-satisfeito-em-destruir-o-ambiente-resolveu-destruir-o-governo-diz-maia-sobre-salles.shtml
-2020-10-28 16:40:54,183          root     INFO: Finished script
+2020-10-28 16:56:18,497          root     INFO: Starting script
+2020-10-28 16:56:19,548          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-28 16:56:20,393          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-28 16:56:21,244          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-28 16:56:21,540          root     INFO: Parsing R7 - Brasil
+2020-10-28 16:56:23,142          root     INFO: <del>Candidatas Joice Hasselmann, de SP, e Renata Souza, do Rio, participam</del> <ins>Nem eu nem o PSL sairemos menores</ins> da <ins>eleição, diz Joice em</ins> sabatina Folha/UOL
+2020-10-28 16:56:24,941          root     INFO: Media ready with ids: 1321496047911374848
+2020-10-28 16:56:24,942          root     INFO: Text to tweet: Modificação do Título
+2020-10-28 16:56:24,942          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatas-joice-hasselmann-de-sp-e-renata-souza-do-rio-participam-da-sabatina-folhauol.shtml
+2020-10-28 16:56:24,947          root     INFO: Replying to: 1321463946386329607
+2020-10-28 16:56:25,245          root     INFO: Id to store: 1321496049664561153
+2020-10-28 16:56:25,251          root     INFO: <del>A Folha,</del> <ins>Com 1% de intenção de votos na última pesquisa Datafolha, a deputada federal Joice Hasselmann (PSL) afirmou</ins> em <del>parceria com o UOL,</del> sabatina <ins>da Folha e do UOL,</ins> nesta quarta-feira <del>(28) Joice Hasselmann, candidata pelo PSL</del> <ins>(28), que nem ela nem o partido vão sair menores de sua candidatura</ins> à Prefeitura de São <del>Paulo, e Renata Souza, candidata pelo PSOL à Prefeitura do Rio de Janeiro.</del> <ins>Paulo.</ins> Leia mais (10/28/2020 - 07h00)
+2020-10-28 16:56:27,035          root     INFO: Media ready with ids: 1321496056618733570
+2020-10-28 16:56:27,035          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-28 16:56:27,035          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatas-joice-hasselmann-de-sp-e-renata-souza-do-rio-participam-da-sabatina-folhauol.shtml
+2020-10-28 16:56:27,040          root     INFO: Replying to: 1321496049664561153
+2020-10-28 16:56:27,327          root     INFO: Id to store: 1321496058342551553
+2020-10-28 16:56:29,894          root     INFO: Finished script
