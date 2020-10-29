@@ -1,26 +1,10 @@
-2020-10-29 20:26:58,653          root     INFO: Starting script
-2020-10-29 20:26:59,495          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-29 20:27:00,178          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-29 20:27:00,877          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-29 20:27:01,314          root     INFO: Parsing R7 - Brasil
-2020-10-29 20:27:06,275          root     INFO: Removed http://noticias.r7.com/brasil/whatsapp-bane-256-contas-por-disparos-em-massa-nas-campanhas-29102020
-2020-10-29 20:27:06,278          root     INFO: Removed http://noticias.r7.com/brasil/por-que-a-camara-dos-deputados-esta-sem-votar-nenhum-projeto-ha-um-mes-29102020
-2020-10-29 20:27:06,285          root     INFO: Removed http://noticias.r7.com/brasil/joao-de-deus-deixa-uti-mas-continua-internado-em-hospital-29102020
-2020-10-29 20:27:06,288          root     INFO: Removed http://noticias.r7.com/brasil/mourao-evita-conflito-entre-salles-e-maia-nao-cabe-a-mim-avaliar-29102020
-2020-10-29 20:27:06,291          root     INFO: Removed http://noticias.r7.com/brasil/jamais-esteve-sob-analise-privatizar-o-sus-afirma-paulo-guedes-29102020
-2020-10-29 20:27:06,294          root     INFO: Removed http://noticias.r7.com/brasil/salles-nega-ataque-a-maia-e-diz-que-perfil-em-rede-social-foi-hackeado-29102020
-2020-10-29 20:27:06,297          root     INFO: Removed http://noticias.r7.com/brasil/flavio-bolsonaro-pede-a-aras-para-investigar-servidores-da-receita-29102020
-2020-10-29 20:27:06,300          root     INFO: Removed http://noticias.r7.com/brasil/denuncias-contra-direitos-humanos-podem-ser-feitas-via-whatsapp-29102020
-2020-10-29 20:27:06,302          root     INFO: Removed http://noticias.r7.com/brasil/fazemos-mais-com-menos-diz-bolsonaro-ao-inaugurar-obra-no-ma-29102020
-2020-10-29 20:27:06,306          root     INFO: Removed http://noticias.r7.com/brasil/guedes-diz-esperar-que-sp-pague-pela-vacina-sem-socorro-do-governo-29102020
-2020-10-29 20:27:06,308          root     INFO: Removed http://noticias.r7.com/brasil/rosa-suspende-decisao-de-salles-e-mantem-protecao-a-manguezais-29102020
-2020-10-29 20:27:06,311          root     INFO: Removed http://noticias.r7.com/brasil/paulo-guedes-diz-que-mandetta-era-so-um-animador-de-televisao-29102020
-2020-10-29 20:27:06,319          root     INFO: Removed http://noticias.r7.com/brasil/videos/governo-frances-se-equivoca-contra-o-perigo-do-terror-islamico-29102020
-2020-10-29 20:27:06,322          root     INFO: Removed http://noticias.r7.com/brasil/maia-se-acerta-com-presidente-do-bc-apos-vazamento-de-conversa-29102020
-2020-10-29 20:27:06,324          root     INFO: Removed http://noticias.r7.com/brasil/perfil-de-salles-no-twitter-sai-do-ar-apos-atrito-com-maia-29102020
-2020-10-29 20:27:06,326          root     INFO: Removed http://noticias.r7.com/brasil/confianca-de-servicos-volta-a-cair-depois-de-cinco-altas-diz-fgv-29102020
-2020-10-29 20:27:06,330          root     INFO: Removed http://noticias.r7.com/brasil/coronavac-anvisa-autoriza-importar-insumo-para-40-mi-de-doses-29102020
-2020-10-29 20:27:06,334          root     INFO: Removed http://noticias.r7.com/brasil/homem-oferece-r-100-milhoes-a-bolsonaro-em-troca-de-selfie-29102020
-2020-10-29 20:27:06,336          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-e-ovacionado-e-recebido-por-multidao-em-sao-luis-29102020
-2020-10-29 20:27:06,339          root     INFO: Removed http://noticias.r7.com/brasil/advogado-assume-vaga-de-senador-morto-por-covid-na-proxima-terca-29102020
-2020-10-29 20:27:06,340          root     INFO: Finished script
+2020-10-29 20:46:53,303          root     INFO: Starting script
+2020-10-29 20:46:54,134          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-29 20:46:54,800          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-29 20:46:55,474          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-29 20:46:55,563          root     INFO: Parsing R7 - Brasil
+2020-10-29 20:46:57,143          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/campanha-de-russomanno-mira-vice-de-covas-e-diz-que-ele-devera-assumir-se-tucano-vencer.shtml
+2020-10-29 20:46:57,155          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/bolsonaro-rasga-elogios-a-marinho-apos-critica-velada-de-guedes.shtml
+2020-10-29 20:46:59,885          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sabatina-folhauol-com-sabara-e-cancelada-apos-justica-indeferir-candidatura-dele-a-prefeitura-de-sp.shtml
+2020-10-29 20:46:59,889          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-do-rio-clarissa-garotinho-participa-da-sabatina-folhauol.shtml
+2020-10-29 20:46:59,889          root     INFO: Finished script
