@@ -1,15 +1,8 @@
-2020-10-29 17:46:48,610          root     INFO: Starting script
-2020-10-29 17:46:49,461          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-29 17:46:50,133          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-29 17:46:50,820          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-29 17:46:50,977          root     INFO: Parsing R7 - Brasil
-2020-10-29 17:46:52,616          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/morre-o-afro-brasilianista-anani-dzidzienyo-mentor-de-pesquisadores-sobre-o-brasil.shtml
-2020-10-29 17:46:52,656          root     INFO: <del>pós</del> <ins>Após</ins> ser cobrada a se pronunciar sobre o nazismo, a governadora interina de Santa Catarina, Daniela Reinehr (sem partido), se posicionou sobre o tema. <del>Antes de mais nada é preciso declarar que sou contrária ao nazismo", disse em nota divulgada nesta quinta-feira (29). "Sou amiga de Israel e dos judeus, e qualquer ilação contrária não corresponde com a verdade", acrescentou.</del> Leia mais (10/29/2020 - 13h28)
-2020-10-29 17:46:54,489          root     INFO: Media ready with ids: 1321871142253174786
-2020-10-29 17:46:54,490          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-29 17:46:54,490          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/apos-cobrancas-governadora-de-sc-agora-se-posiciona-e-diz-ser-contra-o-nazismo.shtml
-2020-10-29 17:46:54,495          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/apos-cobrancas-governadora-de-sc-agora-se-posiciona-e-diz-ser-contra-o-nazismo.shtml
-2020-10-29 17:46:54,663          root     INFO: Replying to: 1321871144077709313
-2020-10-29 17:46:54,898          root     INFO: Id to store: 1321871144744607745
-2020-10-29 17:46:57,596          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/bolsonaro-deve-publicar-dois-decretos-para-regulamentar-trabalho-de-inteligencia-ainda-neste-ano.shtml
-2020-10-29 17:46:57,597          root     INFO: Finished script
+2020-10-29 17:57:48,694          root     INFO: Starting script
+2020-10-29 17:57:49,537          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-29 17:57:50,231          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-29 17:57:50,918          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-29 17:57:51,046          root     INFO: Parsing R7 - Brasil
+2020-10-29 17:57:52,824          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/parlamentares-e-ministros-nao-acreditam-em-versao-dada-por-salles-sobre-post-contra-maia.shtml
+2020-10-29 17:57:55,990          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sem-marcas-de-gestao-covas-tenta-se-vender-como-um-resolvedor-de-problemas.shtml
+2020-10-29 17:57:55,993          root     INFO: Finished script
