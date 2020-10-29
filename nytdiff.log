@@ -1,6 +1,20 @@
-2020-10-29 16:57:41,780          root     INFO: Starting script
-2020-10-29 16:57:42,616          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-29 16:57:43,261          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-29 16:57:43,912          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-29 16:57:44,168          root     INFO: Parsing R7 - Brasil
-2020-10-29 16:57:48,136          root     INFO: Finished script
+2020-10-29 17:19:25,900          root     INFO: Starting script
+2020-10-29 17:19:26,763          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-29 17:19:27,436          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-29 17:19:28,126          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-29 17:19:28,327          root     INFO: Parsing R7 - Brasil
+2020-10-29 17:19:29,897          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/cracolandia-evasao-escolar-pandemia-erros-de-matarazzo-na-sabatina-folhauol.shtml
+2020-10-29 17:19:30,065          root     INFO: <del>Candidato à Prefeitura de São Paulo,</del> <ins>Em sabatina Folha/UOL,</ins> Andrea Matarazzo <del>participa da sabatina Folha/UOL</del> <ins>vê 'epidemia de incompetência' na gestão Covas</ins>
+2020-10-29 17:19:31,817          root     INFO: Media ready with ids: 1321864252794277888
+2020-10-29 17:19:31,818          root     INFO: Text to tweet: Modificação do Título
+2020-10-29 17:19:31,818          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-andrea-matarazzo-participa-da-sabatina-folhauol.shtml
+2020-10-29 17:19:31,823          root     INFO: Replying to: 1321826393374756865
+2020-10-29 17:19:32,033          root     INFO: Id to store: 1321864254224564224
+2020-10-29 17:19:32,037          root     INFO: <del>A Folha,</del> <ins>Além da pandemia de Covid-19, São Paulo enfrenta uma epidemia de incompetência na gestão do prefeito Bruno Covas (PSDB), disse nesta quinta-feira (29) o candidato Andrea Matarazzo (PSD), em sabatina feita pela Folha</ins> em parceria com o <del>UOL, sabatina nesta quinta-feira (29) Andrea Matarazzo, candidato pelo PSD à Prefeitura de São Paulo.</del> <ins>UOL.</ins> Leia mais (10/29/2020 - 07h00)
+2020-10-29 17:19:33,721          root     INFO: Media ready with ids: 1321864260771872769
+2020-10-29 17:19:33,722          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-29 17:19:33,722          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-andrea-matarazzo-participa-da-sabatina-folhauol.shtml
+2020-10-29 17:19:33,727          root     INFO: Replying to: 1321864254224564224
+2020-10-29 17:19:33,948          root     INFO: Id to store: 1321864262210473985
+2020-10-29 17:19:36,561          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/dilma-fabio-porchat-e-teresa-cristina-assinam-manifesto-em-defesa-de-padilha.shtml
+2020-10-29 17:19:36,562          root     INFO: Finished script
