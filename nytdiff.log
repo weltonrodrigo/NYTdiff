@@ -1,15 +1,8 @@
-2020-10-29 01:56:24,575          root     INFO: Starting script
-2020-10-29 01:56:25,445          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-29 01:56:26,107          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-29 01:56:26,779          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-29 01:56:26,938          root     INFO: Parsing R7 - Brasil
-2020-10-29 01:56:28,647          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/celebridades/2020/10/anitta-gagliasso-emicida-e-mais-famosos-criticam-bolsonaro-e-privatizacao-da-saude.shtml
-2020-10-29 01:56:28,763          root     INFO: Audiência pública realizada pela comissão externa de acompanhamento da Covid-19, da Câmara dos Deputados, reuniu <del>especialistas</del> <ins>médicos</ins> que são críticos à vacinação em massa e negam a gravidade da doença. Leia mais (10/28/2020 - 12h28)
-2020-10-29 01:56:30,519          root     INFO: Media ready with ids: 1321631966790385667
-2020-10-29 01:56:30,520          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-29 01:56:30,520          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/comissao-na-camara-que-discute-covid-19-vira-palco-de-negacionistas.shtml
-2020-10-29 01:56:30,524          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/comissao-na-camara-que-discute-covid-19-vira-palco-de-negacionistas.shtml
-2020-10-29 01:56:30,714          root     INFO: Replying to: 1321631968317067264
-2020-10-29 01:56:30,930          root     INFO: Id to store: 1321631968988221451
-2020-10-29 01:56:33,362          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2020/10/e-humilhante-que-o-pais-continue-suportando-a-vergonheira-nos-seus-poderes.shtml
-2020-10-29 01:56:33,363          root     INFO: Finished script
+2020-10-29 02:13:57,748          root     INFO: Starting script
+2020-10-29 02:13:58,625          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-29 02:13:59,301          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-29 02:13:59,980          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-29 02:14:00,159          root     INFO: Parsing R7 - Brasil
+2020-10-29 02:14:01,863          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministro-ricardo-salles-chama-rodrigo-maia-de-nhonho-em-rede-social.shtml
+2020-10-29 02:14:04,819          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/bolsonaro-respondeu-uma-mensagem-nas-redes-e-abriu-uma-ridicula-guerra-da-vacina.shtml
+2020-10-29 02:14:04,820          root     INFO: Finished script
