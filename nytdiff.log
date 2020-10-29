@@ -1,20 +1,21 @@
-2020-10-29 14:28:40,667          root     INFO: Starting script
-2020-10-29 14:28:41,702          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-29 14:28:42,537          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-29 14:28:43,376          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-29 14:28:43,605          root     INFO: Parsing R7 - Brasil
-2020-10-29 14:28:45,318          root     INFO: O ex-presidente Luiz Inácio Lula da Silva (PT) e o ex-ministro Ciro Gomes (PDT) ensaiaram uma reaproximação em <del>um</del> encontro ocorrido em setembro, na sede do Instituto <del>Lula.</del> <ins>Lula, em São Paulo.</ins> Leia mais (10/29/2020 - 09h09)
-2020-10-29 14:28:47,183          root     INFO: Media ready with ids: 1321821283605188608
-2020-10-29 14:28:47,183          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-29 14:28:47,183          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/lula-e-ciro-se-encontram-e-ensaiam-reaproximacao-mas-sem-tratar-da-eleicao-de-2022.shtml
-2020-10-29 14:28:47,190          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/lula-e-ciro-se-encontram-e-ensaiam-reaproximacao-mas-sem-tratar-da-eleicao-de-2022.shtml
-2020-10-29 14:28:47,444          root     INFO: Replying to: 1321821285312323584
-2020-10-29 14:28:47,723          root     INFO: Id to store: 1321821286335729664
-2020-10-29 14:28:48,150          root     INFO: Com <del>14</del> <ins>13</ins> nomes na disputa pela Prefeitura de Natal, a capital potiguar tem o maior número de candidatos desde o período da redemocratização do país e o dobro em relação a 2016. Leia mais (10/28/2020 - 11h50)
-2020-10-29 14:28:49,951          root     INFO: Media ready with ids: 1321821295235997702
-2020-10-29 14:28:49,952          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-29 14:28:49,952          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/prefeito-candidato-de-natal-tenta-proibir-comicios-mas-justica-barra-decisao-controversa.shtml
-2020-10-29 14:28:49,958          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/prefeito-candidato-de-natal-tenta-proibir-comicios-mas-justica-barra-decisao-controversa.shtml
-2020-10-29 14:28:50,202          root     INFO: Replying to: 1321821296985071616
-2020-10-29 14:28:50,484          root     INFO: Id to store: 1321821297945546753
-2020-10-29 14:28:53,026          root     INFO: Finished script
+2020-10-29 14:48:56,293          root     INFO: Starting script
+2020-10-29 14:48:57,319          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-29 14:48:58,150          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-29 14:48:58,988          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-29 14:48:59,188          root     INFO: Parsing R7 - Brasil
+2020-10-29 14:49:00,731          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/prefeito-de-florianopolis-e-acusado-de-estupro-candidato-a-reeleicao-rebate-e-diz-que-foi-consensual.shtml
+2020-10-29 14:49:00,813          root     INFO: <del>Candidato à Prefeitura de São Paulo,</del> <ins>Em sabatina Folha/UOL,</ins> Andrea Matarazzo <del>participa da sabatina Folha/UOL</del> <ins>vê 'epidemia de incompetência' na gestão Covas</ins>
+2020-10-29 14:49:02,631          root     INFO: Media ready with ids: 1321826381626593280
+2020-10-29 14:49:02,632          root     INFO: Text to tweet: Modificação do Título
+2020-10-29 14:49:02,632          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-andrea-matarazzo-participa-da-sabatina-folhauol.shtml
+2020-10-29 14:49:02,638          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-andrea-matarazzo-participa-da-sabatina-folhauol.shtml
+2020-10-29 14:49:02,911          root     INFO: Replying to: 1321826383484649472
+2020-10-29 14:49:03,173          root     INFO: Id to store: 1321826384365367298
+2020-10-29 14:49:03,178          root     INFO: <del>A Folha,</del> <ins>Além da epidemia de Covid-19, São Paulo enfrenta uma epidemia de incompetência na gestão do prefeito Bruno Covas (PSDB), disse nesta quinta-feira (29) o candidato Andrea Matarazzo (PSD), em sabatina feita pela Folha</ins> em parceria com o <del>UOL, sabatina nesta quinta-feira (29) Andrea Matarazzo, candidato pelo PSD à Prefeitura de São Paulo.</del> <ins>UOL.</ins> Leia mais (10/29/2020 - 07h00)
+2020-10-29 14:49:05,044          root     INFO: Media ready with ids: 1321826391374155777
+2020-10-29 14:49:05,045          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-29 14:49:05,045          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidato-a-prefeitura-de-sao-paulo-andrea-matarazzo-participa-da-sabatina-folhauol.shtml
+2020-10-29 14:49:05,052          root     INFO: Replying to: 1321826384365367298
+2020-10-29 14:49:05,326          root     INFO: Id to store: 1321826393374756865
+2020-10-29 14:49:08,044          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/apos-cassacoes-em-serie-eleicao-em-cidade-de-mg-foca-em-promessas-de-estabilidade-politica.shtml
+2020-10-29 14:49:08,044          root     INFO: Finished script
