@@ -1,19 +1,9 @@
-2020-10-29 12:58:31,781          root     INFO: Starting script
-2020-10-29 12:58:32,636          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-29 12:58:33,311          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-29 12:58:33,993          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-29 12:58:34,232          root     INFO: Parsing R7 - Brasil
-2020-10-29 12:58:35,952          root     INFO: Salles sugere ação de hacker em ataque a Maia, e Twitter <del>bloqueia</del> <ins>suspende</ins> conta de ministro
-2020-10-29 12:58:37,748          root     INFO: Media ready with ids: 1321798594823888898
-2020-10-29 12:58:37,749          root     INFO: Text to tweet: Modificação do Título
-2020-10-29 12:58:37,749          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/salles-aponta-acao-de-hacker-em-ataque-a-maia-e-twitter-bloqueia-conta-de-ministro.shtml
-2020-10-29 12:58:37,754          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/salles-aponta-acao-de-hacker-em-ataque-a-maia-e-twitter-bloqueia-conta-de-ministro.shtml
-2020-10-29 12:58:37,928          root     INFO: Replying to: 1321798596283584512
-2020-10-29 12:58:38,170          root     INFO: Id to store: 1321798597126619136
-2020-10-29 12:58:38,175          root     INFO: O ministro Ricardo Salles (Meio Ambiente) afirmou na manhã desta quinta-feira (29) que suas redes sociais foram usadas <del>“indevidamente”.</del> <ins>"indevidamente".</ins> A manifestação acontece horas depois de uma postagem na conta do ministro ter chamado o presidente da Câmara dos Deputados, Rodrigo Maia, de <del>“Nhonho”.</del> <ins>"Nhonho".</ins> Leia mais (10/29/2020 - 09h05)
-2020-10-29 12:58:39,969          root     INFO: Media ready with ids: 1321798603858419712
-2020-10-29 12:58:39,970          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-29 12:58:39,970          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/salles-aponta-acao-de-hacker-em-ataque-a-maia-e-twitter-bloqueia-conta-de-ministro.shtml
-2020-10-29 12:58:39,978          root     INFO: Replying to: 1321798597126619136
-2020-10-29 12:58:40,194          root     INFO: Id to store: 1321798605590745090
-2020-10-29 12:58:43,106          root     INFO: Finished script
+2020-10-29 13:26:22,937          root     INFO: Starting script
+2020-10-29 13:26:23,801          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-29 13:26:24,466          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-29 13:26:25,136          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-29 13:26:25,392          root     INFO: Parsing R7 - Brasil
+2020-10-29 13:26:25,618          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2020/10/um-ano-a-menos-de-vida-por-quilometro-percorrido.shtml
+2020-10-29 13:26:28,061          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2020/10/um-ano-a-menos-de-vida-por-quilometro-percorrido.shtml
+2020-10-29 13:26:29,351          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/voto-a-voto/2020/10/a-geografia-do-voto.shtml
+2020-10-29 13:26:29,351          root     INFO: Finished script
