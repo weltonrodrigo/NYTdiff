@@ -1,59 +1,10 @@
-2020-10-29 02:39:50,229          root     INFO: Starting script
-2020-10-29 02:39:51,062          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-29 02:39:51,731          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-29 02:39:52,398          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-29 02:39:52,510          root     INFO: Parsing R7 - Brasil
-2020-10-29 02:39:52,753          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2020/10/meu-puerperio-foi-duplo-e-somando-a-pandemia-foi-um-puerperio-ao-cubo.shtml
-2020-10-29 02:39:52,766          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/zecacamargo/2020/10/ideia-de-viagem.shtml
-2020-10-29 02:39:52,775          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/imune-a-urgencia.shtml
-2020-10-29 02:39:52,787          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/jogo-pesado.shtml
-2020-10-29 02:39:52,797          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2020/10/a-briga-das-direitas-e-as-novas-esquerdas.shtml
-2020-10-29 02:39:52,806          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/livro-aberto.shtml
-2020-10-29 02:39:52,815          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-tavares/2020/10/pode-um-ambientalista-votar-em-trump.shtml
-2020-10-29 02:39:52,825          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/10/segunda-onda-na-europa-e-um-alerta-para-a-epidemia-e-economia-do-brasil.shtml
-2020-10-29 02:39:52,835          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/contardocalligaris/2020/10/temos-que-procurar-em-nos-tracos-da-heranca-que-faz-a-forca-do-neofascismo.shtml
-2020-10-29 02:39:52,844          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cida-bento/2020/10/o-saldo-das-acoes-afirmativas.shtml
-2020-10-29 02:39:53,984          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/russomanno-dobra-aposta-em-bolsonaro-e-agenda-gravacoes-com-presidente-para-a-proxima-semana.shtml
-2020-10-29 02:39:53,993          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/adepto-da-velha-politica-ricardo-barros-atropela-demais-lideres-na-camara-e-ganha-espaco-com-bolsonaro.shtml
-2020-10-29 02:39:54,007          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/queda-de-investimento-e-desafio-para-prefeitos-em-reeleicao-nas-capitais.shtml
-2020-10-29 02:39:54,017          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/senado-quer-manter-votacoes-remotas-no-pos-pandemia.shtml
-2020-10-29 02:39:54,024          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/ativistas-e-profissionais-dos-direitos-humanos-assinam-manifesto-em-apoio-a-boulos-e-erundina.shtml
-2020-10-29 02:39:54,036          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/faculdade-nega-vinculo-atual-descrito-por-boulos-ao-explicar-renda.shtml
-2020-10-29 02:39:54,060          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2020/10/a-briga-das-direitas-e-as-novas-esquerdas.shtml
-2020-10-29 02:39:54,069          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/propostas-de-boulos-esbarram-em-camara-orcamento-e-burocracia.shtml
-2020-10-29 02:39:54,081          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2020/10/o-clima-nas-eleicoes-sustentabilidade-entra-na-agenda-dos-candidatos-nos-municipios.shtml
-2020-10-29 02:39:54,091          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-a-vereador-replicam-historias-de-vida-e-propostas-compradas-na-internet.shtml
-2020-10-29 02:39:54,116          root     INFO: Ministro Ricardo Salles <del>chama</del> <ins>ofende</ins> Rodrigo Maia <del>de Nhonho</del> em rede <del>social</del> <ins>social: 'Nhonho'</ins>
-2020-10-29 02:39:55,769          root     INFO: Media ready with ids: 1321642894101544960
-2020-10-29 02:39:55,770          root     INFO: Text to tweet: Modificação do Título
-2020-10-29 02:39:55,770          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministro-ricardo-salles-chama-rodrigo-maia-de-nhonho-em-rede-social.shtml
-2020-10-29 02:39:55,775          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministro-ricardo-salles-chama-rodrigo-maia-de-nhonho-em-rede-social.shtml
-2020-10-29 02:39:55,972          root     INFO: Replying to: 1321642895565271042
-2020-10-29 02:39:56,204          root     INFO: Id to store: 1321642896337063937
-2020-10-29 02:39:56,209          root     INFO: O ministro Ricardo Salles, do Meio Ambiente, respondeu a publicação do presidente da Câmara, Rodrigo Maia (DEM-RJ), chamando-o de Nhonho, em referência a personagem do programa humorístico Chaves. <ins>Salles está em Fernando de Noronha (PE).</ins> Leia mais (10/28/2020 - 23h01)
-2020-10-29 02:39:58,012          root     INFO: Media ready with ids: 1321642903106629638
-2020-10-29 02:39:58,013          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-29 02:39:58,013          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ministro-ricardo-salles-chama-rodrigo-maia-de-nhonho-em-rede-social.shtml
-2020-10-29 02:39:58,018          root     INFO: Replying to: 1321642896337063937
-2020-10-29 02:39:58,248          root     INFO: Id to store: 1321642904922820610
-2020-10-29 02:40:00,790          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/08/russomanno-cai.shtml
-2020-10-29 02:40:00,792          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2020/10/eu-sou-bonita-mas-estou-cansada.shtml
-2020-10-29 02:40:00,795          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/zeros-digitados-a-mais-fazem-tse-informar-doacao-de-r-100-milhoes-a-candidato-de-mirassol.shtml
-2020-10-29 02:40:00,799          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/bolsonaro-bate-recorde-e-e-o-que-mais-libera-verba-em-emenda-parlamentar-desde-2015.shtml
-2020-10-29 02:40:00,801          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/e-positivo-o-decreto-do-governo-que-possibilita-separar-alunos-com-deficiencia-em-escolas-especiais-nao.shtml
-2020-10-29 02:40:00,804          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2020/10/jabuti-escanteia-mulheres-em-indicacoes-de-ciencias-reportagem-e-quadrinhos.shtml
-2020-10-29 02:40:00,806          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/08/o-ultimo-debate.shtml
-2020-10-29 02:40:00,808          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/com-quase-2-quilos-livro-mostra-historia-dos-eua-com-elegante-dominio-dos-fatos.shtml
-2020-10-29 02:40:00,810          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2020/10/agora-todos-podem-investir-em-gigantes-globais-sera-que-devem.shtml
-2020-10-29 02:40:00,812          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/docentes-dos-jardins-de-area-nobre-e-periferia-expoem-contrastes-da-pandemia-e-desencanto-com-eleicoes.shtml
-2020-10-29 02:40:00,814          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2020/10/desvendando-a-mentira-e-os-mentirosos.shtml
-2020-10-29 02:40:00,816          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/ate-da-china-bolsonaro-acumula-presentes-de-26-paises-entre-livros-camisas-de-time-porta-joias-e-hashi.shtml
-2020-10-29 02:40:00,818          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/russomanno-acumula-condenacoes-por-constranger-na-tv-e-leva-bronca-de-juizes.shtml
-2020-10-29 02:40:00,820          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/general-ramos-nega-crise-com-salles-e-diz-que-uma-briga-so-ocorre-quando-ha-duas-pessoas.shtml
-2020-10-29 02:40:00,822          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/10/frete-cai-para-soja-de-mt-que-sai-pelo-norte-mas-sobe-para-a-que-vem-para-santos.shtml
-2020-10-29 02:40:00,824          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/rei-do-asfalto-covas-vende-mobilidade-mas-privilegia-transporte-individual.shtml
-2020-10-29 02:40:00,827          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/e-positivo-o-decreto-do-governo-que-possibilita-separar-alunos-com-deficiencia-em-escolas-especiais-sim.shtml
-2020-10-29 02:40:00,829          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/congressistas-dizem-esperar-grandeza-de-biden-em-relacao-ao-brasil-em-caso-de-vitoria.shtml
-2020-10-29 02:40:00,831          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/ex-mulher-de-ministro-do-turismo-e-a-7a-candidata-a-vereadora-que-mais-recebeu-verba-publica-para-campanha.shtml
-2020-10-29 02:40:00,834          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2020/10/record-e-condenada-por-acusar-inocente-de-matar-e-estuprar-enteada-de-2-anos.shtml
-2020-10-29 02:40:00,834          root     INFO: Finished script
+2020-10-29 02:51:21,311          root     INFO: Starting script
+2020-10-29 02:51:22,152          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-29 02:51:22,822          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-29 02:51:23,486          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-29 02:51:23,668          root     INFO: Parsing R7 - Brasil
+2020-10-29 02:51:23,897          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2020/10/programas-policiais-acham-que-devem-acumular-o-papel-de-policia-e-de-juiz.shtml
+2020-10-29 02:51:25,040          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/apos-recuo-de-bolsonaro-sobre-saude-criticos-de-guedes-dizem-que-ele-repassa-culpa-mais-uma-vez.shtml
+2020-10-29 02:51:27,354          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2020/10/volkswagen-enfrenta-desafio-de-produzir-seu-primeiro-caminhao-extrapesado-em-meio-a-pandemia.shtml
+2020-10-29 02:51:27,357          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/documento-nao-prova-fraude-nas-eleicoes-de-2018-e-nem-comprova-vitoria-de-bolsonaro-no-1o-turno.shtml
+2020-10-29 02:51:27,358          root     INFO: Finished script
