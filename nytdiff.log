@@ -1,6 +1,10 @@
-2020-10-29 14:57:44,571          root     INFO: Starting script
-2020-10-29 14:57:45,398          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-29 14:57:46,065          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-29 14:57:46,752          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-29 14:57:46,947          root     INFO: Parsing R7 - Brasil
-2020-10-29 14:57:51,054          root     INFO: Finished script
+2020-10-29 15:25:46,260          root     INFO: Starting script
+2020-10-29 15:25:47,095          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-29 15:25:47,771          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-29 15:25:48,443          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-29 15:25:48,593          root     INFO: Parsing R7 - Brasil
+2020-10-29 15:25:50,275          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/disputa-por-eleitor-de-esquerda-se-acirra-em-salvador-e-pt-pc-do-b-e-psol-sobem-o-tom.shtml
+2020-10-29 15:25:50,286          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-a-prefeitura-de-sp-fazem-campanha-de-rua-sem-mascara-e-com-aglomeracao.shtml
+2020-10-29 15:25:53,165          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/10/manipulacao-eleitoral-nos-eua-e-no-brasil.shtml
+2020-10-29 15:25:53,167          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/10/vacina-e-politica.shtml
+2020-10-29 15:25:53,168          root     INFO: Finished script
