@@ -1,6 +1,10 @@
-2020-10-29 22:18:03,740          root     INFO: Starting script
-2020-10-29 22:18:04,568          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-29 22:18:05,233          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-29 22:18:05,905          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-29 22:18:06,053          root     INFO: Parsing R7 - Brasil
-2020-10-29 22:18:09,913          root     INFO: Finished script
+2020-10-29 22:27:07,125          root     INFO: Starting script
+2020-10-29 22:27:07,937          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-29 22:27:08,608          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-29 22:27:09,292          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-29 22:27:09,518          root     INFO: Parsing R7 - Brasil
+2020-10-29 22:27:11,049          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/deputado-do-pt-pede-afastamento-de-salles-por-quebra-de-decoro-apos-ofensa-a-rodrigo-maia.shtml
+2020-10-29 22:27:11,061          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/embaixador-de-israel-cobra-compromisso-com-verdade-historica-sobre-o-nazismo-de-governadora-de-sc.shtml
+2020-10-29 22:27:13,788          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/sem-verba-do-psl-primo-de-bolsonaro-apela-a-aliados-para-fazer-campanha-em-jaboticabal.shtml
+2020-10-29 22:27:13,790          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/relatorio-no-cnj-propoe-mudancas-para-acelerar-implantacao-de-cota-para-negros-no-judiciario.shtml
+2020-10-29 22:27:13,791          root     INFO: Finished script
