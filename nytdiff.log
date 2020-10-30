@@ -1,13 +1,14 @@
-2020-10-30 01:46:54,438          root     INFO: Starting script
-2020-10-30 01:46:55,316          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-30 01:46:55,973          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-30 01:46:56,631          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-30 01:46:56,927          root     INFO: Parsing R7 - Brasil
-2020-10-30 01:46:58,524          root     INFO: O <del>ex-candidato</del> <ins>empresário</ins> Filipe Sabará pediu sua desfiliação do <del>Novo. Em documento enviado</del> <ins>partido Novo</ins> nesta <del>quinta (29), ele oficializa o fim de sua candidatura ao cargo de prefeito de São Paulo.</del> <ins>quinta-feira (29).</ins> Leia mais (10/29/2020 - 21h42)
-2020-10-30 01:47:00,702          root     INFO: Media ready with ids: 1321991964364021760
-2020-10-30 01:47:00,703          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-30 01:47:00,703          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/sabara-oficializa-fim-de-candidatura-em-sp-e-pede-desfiliacao-do-novo.shtml
-2020-10-30 01:47:00,708          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/sabara-oficializa-fim-de-candidatura-em-sp-e-pede-desfiliacao-do-novo.shtml
-2020-10-30 01:47:00,899          root     INFO: Replying to: 1321991966196903936
-2020-10-30 01:47:01,139          root     INFO: Id to store: 1321991966981300229
-2020-10-30 01:47:03,938          root     INFO: Finished script
+2020-10-30 01:57:54,272          root     INFO: Starting script
+2020-10-30 01:57:55,130          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-30 01:57:55,823          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-30 01:57:56,493          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-30 01:57:56,728          root     INFO: Parsing R7 - Brasil
+2020-10-30 01:57:58,364          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/bolsonaro-pede-voto-para-russomanno-em-sao-paulo-e-da-apoio-constrangido-a-crivella-no-rio.shtml
+2020-10-30 01:57:58,391          root     INFO: O <del>ex-candidato</del> <ins>empresário</ins> Filipe Sabará pediu sua desfiliação do <del>Novo.</del> <ins>partido Novo nesta quinta-feira (29).</ins> Em documento enviado <del>nesta quinta (29),</del> <ins>ao Novo,</ins> ele <del>oficializa</del> <ins>também oficializou</ins> o fim de sua candidatura ao cargo de prefeito de São Paulo. Leia mais (10/29/2020 - 21h42)
+2020-10-30 01:58:00,185          root     INFO: Media ready with ids: 1321994730574667777
+2020-10-30 01:58:00,186          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-30 01:58:00,186          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/sabara-oficializa-fim-de-candidatura-em-sp-e-pede-desfiliacao-do-novo.shtml
+2020-10-30 01:58:00,192          root     INFO: Replying to: 1321991966981300229
+2020-10-30 01:58:00,417          root     INFO: Id to store: 1321994732210446337
+2020-10-30 01:58:03,088          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/justica-derruba-decisao-que-bloqueava-bens-de-doria-em-acao-por-improbidade-na-prefeitura-de-sp.shtml
+2020-10-30 01:58:03,089          root     INFO: Finished script
