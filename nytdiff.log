@@ -1,19 +1,13 @@
-2020-10-30 11:46:47,778          root     INFO: Starting script
-2020-10-30 11:46:48,702          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-30 11:46:49,375          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-30 11:46:50,053          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-30 11:46:50,134          root     INFO: Parsing R7 - Brasil
-2020-10-30 11:46:51,705          root     INFO: Bolsonaro grava vídeo <del>a</del> <ins>para campanha de</ins> ex-assessor do filho ligado a esquema de fake news
-2020-10-30 11:46:53,472          root     INFO: Media ready with ids: 1322142929247477760
-2020-10-30 11:46:53,472          root     INFO: Text to tweet: Modificação do Título
-2020-10-30 11:46:53,472          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/bolsonaro-grava-video-a-ex-assessor-do-filho-ligado-a-esquema-de-fake-news.shtml
-2020-10-30 11:46:53,480          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/bolsonaro-grava-video-a-ex-assessor-do-filho-ligado-a-esquema-de-fake-news.shtml
-2020-10-30 11:46:53,683          root     INFO: Replying to: 1322142930862309376
-2020-10-30 11:46:53,897          root     INFO: Id to store: 1322142931554357249
-2020-10-30 11:46:53,902          root     INFO: <ins>O presidente Jair</ins> Bolsonaro <ins>(sem partido)</ins> gravou vídeo em que pede votos para Paulo Chuchu em sua campanha para vereador em São Bernardo do Campo (SP). "Peço que você dê uma força para o Paulo Chuchu", diz o presidente na peça. Leia mais (10/29/2020 - 23h15)
-2020-10-30 11:46:55,583          root     INFO: Media ready with ids: 1322142938168786944
-2020-10-30 11:46:55,584          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-30 11:46:55,584          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/bolsonaro-grava-video-a-ex-assessor-do-filho-ligado-a-esquema-de-fake-news.shtml
-2020-10-30 11:46:55,595          root     INFO: Replying to: 1322142931554357249
-2020-10-30 11:46:55,843          root     INFO: Id to store: 1322142939691311105
-2020-10-30 11:46:58,466          root     INFO: Finished script
+2020-10-30 11:57:58,600          root     INFO: Starting script
+2020-10-30 11:57:59,443          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-30 11:58:00,114          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-30 11:58:00,784          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-30 11:58:00,947          root     INFO: Parsing R7 - Brasil
+2020-10-30 11:58:01,429          root     INFO: Chineses jogam <del>weiqi</del> <ins>weiqi,</ins> e os ocidentais, xadrez. Henry Kissinger, no seu livro "Sobre a China", recorre aos jogos de tabuleiro ao analisar as visões diferentes dos dois lados a respeito de estratégia e confrontação. Leia mais (10/29/2020 - 23h15)
+2020-10-30 11:58:03,173          root     INFO: Media ready with ids: 1322145738151940097
+2020-10-30 11:58:03,174          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-30 11:58:03,174          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2020/10/a-resposta-chinesa-a-guerra-comercial.shtml
+2020-10-30 11:58:03,179          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2020/10/a-resposta-chinesa-a-guerra-comercial.shtml
+2020-10-30 11:58:03,342          root     INFO: Replying to: 1322145739640885248
+2020-10-30 11:58:03,557          root     INFO: Id to store: 1322145740295147520
+2020-10-30 11:58:07,625          root     INFO: Finished script
