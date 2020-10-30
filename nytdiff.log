@@ -1,8 +1,18 @@
-2020-10-30 16:58:00,011          root     INFO: Starting script
-2020-10-30 16:58:01,163          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-30 16:58:02,009          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-30 16:58:02,857          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-30 16:58:03,058          root     INFO: Parsing R7 - Brasil
-2020-10-30 16:58:04,639          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/tatto-exagera-sobre-filiados-do-pt-e-vale-alimentacao-escolar-na-pandemia-em-sabatina-folhauol.shtml
-2020-10-30 16:58:07,360          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/estrategia-de-defesa-de-flavio-bolsonaro-une-interesses-de-lula-e-de-ministros-do-stf-e-tcu.shtml
-2020-10-30 16:58:07,360          root     INFO: Finished script
+2020-10-30 17:14:22,073          root     INFO: Starting script
+2020-10-30 17:14:22,961          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-30 17:14:23,617          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-30 17:14:24,272          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-30 17:14:24,498          root     INFO: Parsing R7 - Brasil
+2020-10-30 17:14:26,415          root     INFO: <del>Candidatos Jilmar Tatto, de SP,</del> <ins>Estou focado nas classes C, D</ins> e <del>Martha Rocha, do Rio, participam da</del> <ins>E para ir ao 2º turno, diz Tatto em</ins> sabatina Folha/UOL
+2020-10-30 17:14:28,209          root     INFO: Media ready with ids: 1322225367172763653
+2020-10-30 17:14:28,209          root     INFO: Text to tweet: Modificação do Título
+2020-10-30 17:14:28,209          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-jilmar-tatto-de-sp-e-martha-rocha-do-rio-participam-da-sabatina-folhauol.shtml
+2020-10-30 17:14:28,215          root     INFO: Replying to: 1322183213754814465
+2020-10-30 17:14:28,440          root     INFO: Id to store: 1322225368653307904
+2020-10-30 17:14:28,450          root     INFO: <del>A Folha, em parceria com o UOL,</del> <ins>Em</ins> sabatina <ins>realizada pela Folha e pelo UOL</ins> nesta sexta-feira <del>(30)</del> <ins>(30),</ins> Jilmar <del>Tatto, candidato pelo PT à Prefeitura</del> <ins>Tatto (PT), que tem 4%</ins> de <del>São Paulo, e Martha Rocha, candidata pelo PDT à Prefeitura do Rio</del> <ins>intenções</ins> de <del>Janeiro.</del> <ins>votos segundo pesquisa Datafolha da semana passada, afirmou que estará no segundo turno e, para isso, mira os votos das classes C, D e E.</ins> Leia mais (10/30/2020 - 07h00)
+2020-10-30 17:14:30,198          root     INFO: Media ready with ids: 1322225375519379456
+2020-10-30 17:14:30,198          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-30 17:14:30,199          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-jilmar-tatto-de-sp-e-martha-rocha-do-rio-participam-da-sabatina-folhauol.shtml
+2020-10-30 17:14:30,204          root     INFO: Replying to: 1322225368653307904
+2020-10-30 17:14:30,448          root     INFO: Id to store: 1322225377016750081
+2020-10-30 17:14:33,139          root     INFO: Finished script
