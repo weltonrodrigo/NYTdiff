@@ -1,13 +1,19 @@
-2020-10-30 19:18:25,494          root     INFO: Starting script
-2020-10-30 19:18:26,312          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-30 19:18:26,987          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-30 19:18:27,666          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-30 19:18:27,854          root     INFO: Parsing R7 - Brasil
-2020-10-30 19:18:29,429          root     INFO: Uma investigação que tem como alvo dois professores suspeitos de apologia <del>ao</del> <ins>do</ins> crime está adormecida nas gavetas da Polícia Civil de São Paulo há quase um ano, sem conclusão, sob a gestão de João Doria (PSDB). Leia mais (10/30/2020 - 11h40)
-2020-10-30 19:18:31,250          root     INFO: Media ready with ids: 1322256585201246209
-2020-10-30 19:18:31,251          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-30 19:18:31,251          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/policia-de-sp-abandona-investigacao-sobre-suspeito-que-usou-bolsonaro-como-garoto-propaganda.shtml
-2020-10-30 19:18:31,257          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/policia-de-sp-abandona-investigacao-sobre-suspeito-que-usou-bolsonaro-como-garoto-propaganda.shtml
-2020-10-30 19:18:31,455          root     INFO: Replying to: 1322256587088691200
-2020-10-30 19:18:31,683          root     INFO: Id to store: 1322256587851997184
-2020-10-30 19:18:34,063          root     INFO: Finished script
+2020-10-30 19:26:55,750          root     INFO: Starting script
+2020-10-30 19:26:56,569          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-30 19:26:57,235          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-30 19:26:57,905          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-30 19:26:58,012          root     INFO: Parsing R7 - Brasil
+2020-10-30 19:26:59,623          root     INFO: <del>Candidata à Prefeitura do Rio, Martha Rocha participa da</del> <ins>Em</ins> sabatina Folha/UOL <ins>Martha Rocha diz que ameaças de morte provam que ela combateu milícia</ins>
+2020-10-30 19:27:01,301          root     INFO: Media ready with ids: 1322258724938014720
+2020-10-30 19:27:01,301          root     INFO: Text to tweet: Modificação do Título
+2020-10-30 19:27:01,302          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-do-rio-martha-rocha-participa-da-sabatina-folhauol.shtml
+2020-10-30 19:27:01,307          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-do-rio-martha-rocha-participa-da-sabatina-folhauol.shtml
+2020-10-30 19:27:01,518          root     INFO: Replying to: 1322258726301159432
+2020-10-30 19:27:01,740          root     INFO: Id to store: 1322258727207161856
+2020-10-30 19:27:01,745          root     INFO: A <del>Folha, em parceria com o UOL, sabatina nesta sexta-feira (30), Martha Rocha,</del> candidata <del>pelo</del> <ins>do</ins> PDT à Prefeitura do <del>Rio</del> <ins>Rio, Martha Rocha, disse que as ameaças</ins> de <del>Janeiro.</del> <ins>morte que sofre são resultado de seu enfrentamento às milícias quando esteve à frente da Polícia Civil do estado.</ins> Leia mais (10/30/2020 - 10h49)
+2020-10-30 19:27:03,469          root     INFO: Media ready with ids: 1322258733691478020
+2020-10-30 19:27:03,470          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-30 19:27:03,470          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidata-a-prefeitura-do-rio-martha-rocha-participa-da-sabatina-folhauol.shtml
+2020-10-30 19:27:03,475          root     INFO: Replying to: 1322258727207161856
+2020-10-30 19:27:03,873          root     INFO: Id to store: 1322258735511695360
+2020-10-30 19:27:06,563          root     INFO: Finished script
