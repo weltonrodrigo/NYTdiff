@@ -1,6 +1,19 @@
-2020-10-30 11:26:54,066          root     INFO: Starting script
-2020-10-30 11:26:54,888          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-30 11:26:55,566          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-30 11:26:56,234          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-30 11:26:56,413          root     INFO: Parsing R7 - Brasil
-2020-10-30 11:27:00,601          root     INFO: Finished script
+2020-10-30 11:46:47,778          root     INFO: Starting script
+2020-10-30 11:46:48,702          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-30 11:46:49,375          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-30 11:46:50,053          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-30 11:46:50,134          root     INFO: Parsing R7 - Brasil
+2020-10-30 11:46:51,705          root     INFO: Bolsonaro grava vídeo <del>a</del> <ins>para campanha de</ins> ex-assessor do filho ligado a esquema de fake news
+2020-10-30 11:46:53,472          root     INFO: Media ready with ids: 1322142929247477760
+2020-10-30 11:46:53,472          root     INFO: Text to tweet: Modificação do Título
+2020-10-30 11:46:53,472          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/bolsonaro-grava-video-a-ex-assessor-do-filho-ligado-a-esquema-de-fake-news.shtml
+2020-10-30 11:46:53,480          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/bolsonaro-grava-video-a-ex-assessor-do-filho-ligado-a-esquema-de-fake-news.shtml
+2020-10-30 11:46:53,683          root     INFO: Replying to: 1322142930862309376
+2020-10-30 11:46:53,897          root     INFO: Id to store: 1322142931554357249
+2020-10-30 11:46:53,902          root     INFO: <ins>O presidente Jair</ins> Bolsonaro <ins>(sem partido)</ins> gravou vídeo em que pede votos para Paulo Chuchu em sua campanha para vereador em São Bernardo do Campo (SP). "Peço que você dê uma força para o Paulo Chuchu", diz o presidente na peça. Leia mais (10/29/2020 - 23h15)
+2020-10-30 11:46:55,583          root     INFO: Media ready with ids: 1322142938168786944
+2020-10-30 11:46:55,584          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-30 11:46:55,584          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/bolsonaro-grava-video-a-ex-assessor-do-filho-ligado-a-esquema-de-fake-news.shtml
+2020-10-30 11:46:55,595          root     INFO: Replying to: 1322142931554357249
+2020-10-30 11:46:55,843          root     INFO: Id to store: 1322142939691311105
+2020-10-30 11:46:58,466          root     INFO: Finished script
