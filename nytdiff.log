@@ -1,7 +1,8 @@
-2020-10-30 21:58:14,852          root     INFO: Starting script
-2020-10-30 21:58:15,925          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-30 21:58:16,761          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-30 21:58:17,602          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-30 21:58:17,947          root     INFO: Parsing R7 - Brasil
-2020-10-30 21:58:22,089          root     INFO: New article tracked: http://noticias.r7.com/brasil/empresas-e-sindicatos-se-unem-pela-desoneracao-e-preservacao-de-vagas-30102020
-2020-10-30 21:58:22,156          root     INFO: Finished script
+2020-10-30 22:17:35,665          root     INFO: Starting script
+2020-10-30 22:17:36,816          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-30 22:17:37,658          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-30 22:17:38,499          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-30 22:17:38,806          root     INFO: Parsing R7 - Brasil
+2020-10-30 22:17:39,071          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2020/10/outubro-registra-nova-alta-na-venda-de-automoveis-e-confirma-retomada.shtml
+2020-10-30 22:17:43,218          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2020/10/brasil-tem-de-unir-habilidade-e-criatividade-com-jogo-coletivo-moderno.shtml
+2020-10-30 22:17:43,219          root     INFO: Finished script
