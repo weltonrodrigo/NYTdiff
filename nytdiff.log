@@ -1,6 +1,13 @@
-2020-10-30 22:27:37,092          root     INFO: Starting script
-2020-10-30 22:27:37,990          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-30 22:27:38,678          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-30 22:27:39,369          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-30 22:27:39,683          root     INFO: Parsing R7 - Brasil
-2020-10-30 22:27:44,660          root     INFO: Finished script
+2020-10-30 22:46:54,287          root     INFO: Starting script
+2020-10-30 22:46:55,179          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-30 22:46:55,831          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-30 22:46:56,483          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-30 22:46:56,710          root     INFO: Parsing R7 - Brasil
+2020-10-30 22:46:58,280          root     INFO: O candidato à reeleição Bruno Covas (PSDB) <ins>subiu quatro pontos e</ins> alcançou 26% nas intenções de voto na disputa pela Prefeitura de São Paulo, <del>seguido pelo deputado federal Celso Russomanno (Republicanos), que tem 20%,</del> <ins>,</ins> segundo pesquisa Ibope divulgada nesta sexta-feira (30). <ins>Já o deputado federal Celso Russomanno (Republicanos) perdeu cinco pontos e está com 20%.</ins> Leia mais (10/30/2020 - 19h18)
+2020-10-30 22:47:00,116          root     INFO: Media ready with ids: 1322309051426983936
+2020-10-30 22:47:00,117          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-30 22:47:00,118          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/covas-tem-26-russomanno-20-e-boulos-e-franca-empatam-em-terceiro-diz-ibope.shtml
+2020-10-30 22:47:00,125          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/covas-tem-26-russomanno-20-e-boulos-e-franca-empatam-em-terceiro-diz-ibope.shtml
+2020-10-30 22:47:00,302          root     INFO: Replying to: 1322309053062828035
+2020-10-30 22:47:00,529          root     INFO: Id to store: 1322309053750616065
+2020-10-30 22:47:03,397          root     INFO: Finished script
