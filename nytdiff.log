@@ -1,19 +1,8 @@
-2020-10-30 14:26:49,846          root     INFO: Starting script
-2020-10-30 14:26:50,676          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-30 14:26:51,346          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-30 14:26:52,026          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-30 14:26:52,146          root     INFO: Parsing R7 - Brasil
-2020-10-30 14:26:53,757          root     INFO: <del>Candidatos Jilmar Tatto, de SP,</del> <ins>Estou focado nas classes C, D</ins> e <del>Martha Rocha, do Rio, participam da</del> <ins>E para ir ao 2º turno, diz Tatto em</ins> sabatina Folha/UOL
-2020-10-30 14:26:55,489          root     INFO: Media ready with ids: 1322183202975424512
-2020-10-30 14:26:55,489          root     INFO: Text to tweet: Modificação do Título
-2020-10-30 14:26:55,490          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-jilmar-tatto-de-sp-e-martha-rocha-do-rio-participam-da-sabatina-folhauol.shtml
-2020-10-30 14:26:55,495          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-jilmar-tatto-de-sp-e-martha-rocha-do-rio-participam-da-sabatina-folhauol.shtml
-2020-10-30 14:26:55,681          root     INFO: Replying to: 1322183204565123072
-2020-10-30 14:26:55,921          root     INFO: Id to store: 1322183205253009408
-2020-10-30 14:26:55,926          root     INFO: <del>A Folha, em parceria com o UOL,</del> <ins>Em</ins> sabatina <ins>realizada pela Folha e pelo UOL</ins> nesta sexta-feira <del>(30)</del> <ins>(30),</ins> Jilmar <del>Tatto, candidato pelo PT à Prefeitura</del> <ins>Tatto (PT), que tem 4%</ins> de <del>São Paulo, e Martha Rocha, candidata pelo PDT à Prefeitura do Rio</del> <ins>intenções</ins> de <del>Janeiro.</del> <ins>votos segundo o último Datafolha, afirmou que estará no segundo turno e, para isso, mira os votos das classes C, D e E.</ins> Leia mais (10/30/2020 - 07h00)
-2020-10-30 14:26:57,706          root     INFO: Media ready with ids: 1322183212152557568
-2020-10-30 14:26:57,706          root     INFO: Text to tweet: Modificação da Descrição
-2020-10-30 14:26:57,707          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-jilmar-tatto-de-sp-e-martha-rocha-do-rio-participam-da-sabatina-folhauol.shtml
-2020-10-30 14:26:57,712          root     INFO: Replying to: 1322183205253009408
-2020-10-30 14:26:57,949          root     INFO: Id to store: 1322183213754814465
-2020-10-30 14:27:00,652          root     INFO: Finished script
+2020-10-30 14:46:54,792          root     INFO: Starting script
+2020-10-30 14:46:55,820          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-30 14:46:56,464          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-30 14:46:57,110          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-30 14:46:57,315          root     INFO: Parsing R7 - Brasil
+2020-10-30 14:46:58,778          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/policia-de-sp-abandona-investigacao-sobre-suspeito-que-usou-bolsonaro-como-garoto-propaganda.shtml
+2020-10-30 14:47:01,420          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48393
+2020-10-30 14:47:01,421          root     INFO: Finished script
