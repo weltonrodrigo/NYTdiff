@@ -1,6 +1,13 @@
-2020-10-30 19:13:24,977          root     INFO: Starting script
-2020-10-30 19:13:25,997          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-30 19:13:26,836          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-30 19:13:27,678          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-30 19:13:27,866          root     INFO: Parsing R7 - Brasil
-2020-10-30 19:13:32,086          root     INFO: Finished script
+2020-10-30 19:18:25,494          root     INFO: Starting script
+2020-10-30 19:18:26,312          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-30 19:18:26,987          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-30 19:18:27,666          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-30 19:18:27,854          root     INFO: Parsing R7 - Brasil
+2020-10-30 19:18:29,429          root     INFO: Uma investigação que tem como alvo dois professores suspeitos de apologia <del>ao</del> <ins>do</ins> crime está adormecida nas gavetas da Polícia Civil de São Paulo há quase um ano, sem conclusão, sob a gestão de João Doria (PSDB). Leia mais (10/30/2020 - 11h40)
+2020-10-30 19:18:31,250          root     INFO: Media ready with ids: 1322256585201246209
+2020-10-30 19:18:31,251          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-30 19:18:31,251          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/policia-de-sp-abandona-investigacao-sobre-suspeito-que-usou-bolsonaro-como-garoto-propaganda.shtml
+2020-10-30 19:18:31,257          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/policia-de-sp-abandona-investigacao-sobre-suspeito-que-usou-bolsonaro-como-garoto-propaganda.shtml
+2020-10-30 19:18:31,455          root     INFO: Replying to: 1322256587088691200
+2020-10-30 19:18:31,683          root     INFO: Id to store: 1322256587851997184
+2020-10-30 19:18:34,063          root     INFO: Finished script
