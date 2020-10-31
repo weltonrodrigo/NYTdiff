@@ -1,6 +1,8 @@
-2020-10-31 03:27:07,472          root     INFO: Starting script
-2020-10-31 03:27:08,320          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-31 03:27:08,972          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-31 03:27:09,624          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-31 03:27:09,757          root     INFO: Parsing R7 - Brasil
-2020-10-31 03:27:13,683          root     INFO: Finished script
+2020-10-31 03:47:06,422          root     INFO: Starting script
+2020-10-31 03:47:07,548          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-31 03:47:08,216          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-31 03:47:08,866          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-31 03:47:09,123          root     INFO: Parsing R7 - Brasil
+2020-10-31 03:47:10,656          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48409
+2020-10-31 03:47:13,300          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/nova-regra-que-veta-coligacao-para-vereador-e-libera-para-prefeito-deixa-partidos-no-escuro-sobre-verba.shtml
+2020-10-31 03:47:13,300          root     INFO: Finished script
