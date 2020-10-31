@@ -1,50 +1,6 @@
-2020-10-31 02:22:36,447          root     INFO: Starting script
-2020-10-31 02:22:37,362          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-31 02:22:38,029          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-31 02:22:38,699          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-31 02:22:39,008          root     INFO: Parsing R7 - Brasil
-2020-10-31 02:22:39,254          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2020/10/cinco-anos-de-lama-e-impunidade.shtml
-2020-10-31 02:22:39,265          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/10/apuracao-tenta-avancar-nos-eua-mas-se-divide-e-amplia-incerteza.shtml
-2020-10-31 02:22:39,273          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/segunda-onda.shtml
-2020-10-31 02:22:39,281          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2020/10/operacao-pega-mendigo.shtml
-2020-10-31 02:22:39,324          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/10/governo-frances-capitula-na-batalha-pela-alma-dos-seus-cidadaos-muculmanos.shtml
-2020-10-31 02:22:39,334          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/voto-a-voto/2020/10/politicas-de-transporte-e-eleicoes-o-que-as-propostas-nao-trazem.shtml
-2020-10-31 02:22:39,342          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/bandeira-branca.shtml
-2020-10-31 02:22:39,349          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/10/banco-central.shtml
-2020-10-31 02:22:39,357          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2020/10/os-eua-e-a-guerra-civil-fria.shtml
-2020-10-31 02:22:39,366          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/a-vacina-contra-a-covid-19-deve-ser-obrigatoria-sim.shtml
-2020-10-31 02:22:39,375          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/a-vacina-contra-a-covid-19-deve-ser-obrigatoria-nao.shtml
-2020-10-31 02:22:40,518          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/lider-de-um-dos-maiores-partidos-do-centrao-diz-que-maia-atrapalha-camara-por-disputa-eleitoral.shtml
-2020-10-31 02:22:40,527          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/na-periferia-de-sp-lideres-comunitarios-mobilizam-eleitores-e-atuam-como-puxadores-de-voto.shtml
-2020-10-31 02:22:40,540          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/estafe-de-russomanno-diz-que-videos-com-bolsonaro-para-campanha-serao-gravados-na-segunda-2.shtml
-2020-10-31 02:22:40,549          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/10/governo-frances-capitula-na-batalha-pela-alma-dos-seus-cidadaos-muculmanos.shtml
-2020-10-31 02:22:40,561          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/empresarios-dizem-a-bolsonaro-que-nao-faltara-soja-no-brasil-mas-preco-nao-baixara.shtml
-2020-10-31 02:22:40,571          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/voto-a-voto/2020/10/politicas-de-transporte-e-eleicoes-o-que-as-propostas-nao-trazem.shtml
-2020-10-31 02:22:40,579          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/candidatos-irmaos-de-jilmar-tatto-pt-receberam-r-83-mil-do-pt-cada-um.shtml
-2020-10-31 02:22:40,587          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/plataforma-ensina-cidadaos-a-irem-a-justica-contra-bolsonaro-por-valor-maior-de-auxilio-emergencial.shtml
-2020-10-31 02:22:40,595          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/10/banco-central.shtml
-2020-10-31 02:22:40,603          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/isolado-nas-capitais-pt-mira-retomada-a-partir-de-cidades-medias.shtml
-2020-10-31 02:22:43,151          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/campanha-de-boulos-quer-tirar-eleitores-de-mais-de-45-anos-da-esfera-do-pt.shtml
-2020-10-31 02:22:43,155          root     INFO: Removed http://noticias.r7.com/brasil/governo-faz-propaganda-para-questionar-interesses-na-amazonia-30102020
-2020-10-31 02:22:43,170          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/10/palmeiras-precisa-de-uma-grande-ideia.shtml
-2020-10-31 02:22:43,173          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/10/vacina-e-politica.shtml
-2020-10-31 02:22:43,175          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/10/inter-e-flamengo-fazem-classico-a-europeia.shtml
-2020-10-31 02:22:43,177          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2020/10/brasil-vive-epidemia-de-ataque-virtual.shtml
-2020-10-31 02:22:43,179          root     INFO: Removed http://noticias.r7.com/brasil/pf-investiga-propinas-de-r-23-mi-de-dirigentes-do-bmg-a-cunha-e-juca-30102020
-2020-10-31 02:22:43,182          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2020/10/um-dia-na-vida-do-presidente.shtml
-2020-10-31 02:22:43,184          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/pf-mira-candidatos-que-declararam-grande-quantia-de-dinheiro-em-casa.shtml
-2020-10-31 02:22:43,187          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/apos-declarar-uso-de-fundao-eleitoral-carlos-bolsonaro-diz-que-doara-valor-para-caridade.shtml
-2020-10-31 02:22:43,189          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/policia-investiga-assassinato-de-lider-do-mst-retirado-a-forca-de-assentamento-no-parana.shtml
-2020-10-31 02:22:43,192          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/tratamento-de-covas-contra-o-cancer-nao-tem-previsao-de-termino-diz-medico-do-prefeito.shtml
-2020-10-31 02:22:43,195          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/inseguranca-juridica-trava-investimentos.shtml
-2020-10-31 02:22:43,198          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post404438
-2020-10-31 02:22:43,202          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/quando-o-supremo-sai-de-seu-quadrado-vira-bancada-como-a-do-boi-ou-a-da-bala.shtml
-2020-10-31 02:22:43,205          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/risco-crescente.shtml
-2020-10-31 02:22:43,207          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2020/10/o-que-era-simples-ficou-complicado.shtml
-2020-10-31 02:22:43,210          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/privatizacao-da-petrobras-um-caso-de-jabuticaba-brasileira.shtml
-2020-10-31 02:22:43,212          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/10/manipulacao-eleitoral-nos-eua-e-no-brasil.shtml
-2020-10-31 02:22:43,214          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/candidatos-a-prefeitura-de-porto-alegre-marchezan-jr-participa-de-sabatina-folhauol.shtml
-2020-10-31 02:22:43,217          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/em-carta-a-alcolumbre-governadores-pedem-dialogo-sobre-vacina.shtml
-2020-10-31 02:22:43,219          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/embaixada-das-filipinas-pede-que-itamaraty-ordene-globo-a-retirar-videos-de-agressoes-do-ar.shtml
-2020-10-31 02:22:43,222          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/10/assim-estava-escrito.shtml
-2020-10-31 02:22:43,222          root     INFO: Finished script
+2020-10-31 02:28:03,171          root     INFO: Starting script
+2020-10-31 02:28:04,012          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-31 02:28:04,672          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-31 02:28:05,340          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-31 02:28:05,569          root     INFO: Parsing R7 - Brasil
+2020-10-31 02:28:09,578          root     INFO: Finished script
