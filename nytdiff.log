@@ -1,12 +1,12 @@
-2020-10-31 21:19:04,263          root     INFO: Starting script
-2020-10-31 21:19:05,180          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-31 21:19:05,853          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-31 21:19:06,522          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-31 21:19:06,641          root     INFO: Parsing R7 - Brasil
-2020-10-31 21:19:10,959          root     INFO: New article tracked: http://noticias.r7.com/brasil/eduardo-pazuello-ficara-internado-ao-menos-por-mais-um-dia-31102020
-2020-10-31 21:19:10,972          root     INFO: New article tracked: http://noticias.r7.com/brasil/procuradoria-reabre-investigacao-contra-rodrigo-maia-31102020
-2020-10-31 21:19:10,986          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-do-tcu-tem-alta-apos-internacao-por-covid-19-31102020
-2020-10-31 21:19:10,995          root     INFO: New article tracked: http://noticias.r7.com/brasil/indicado-ao-cnj-filho-de-ministro-do-stj-tem-apenas-um-ano-de-oab-31102020
-2020-10-31 21:19:11,013          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-libera-pesca-da-sardinha-em-fernando-de-noronha-31102020
-2020-10-31 21:19:11,024          root     INFO: New article tracked: http://noticias.r7.com/brasil/morre-aos-62-anos-o-jornalista-octavio-tostes-31102020
-2020-10-31 21:19:11,230          root     INFO: Finished script
+2020-10-31 21:27:16,656          root     INFO: Starting script
+2020-10-31 21:27:17,615          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-31 21:27:18,265          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-31 21:27:18,922          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-31 21:27:19,053          root     INFO: Parsing R7 - Brasil
+2020-10-31 21:27:23,554          root     INFO: Removed http://noticias.r7.com/brasil/governo-libera-pesca-da-sardinha-em-fernando-de-noronha-31102020
+2020-10-31 21:27:23,558          root     INFO: Removed http://noticias.r7.com/brasil/presidente-do-tcu-tem-alta-apos-internacao-por-covid-19-31102020
+2020-10-31 21:27:23,561          root     INFO: Removed http://noticias.r7.com/brasil/indicado-ao-cnj-filho-de-ministro-do-stj-tem-apenas-um-ano-de-oab-31102020
+2020-10-31 21:27:23,564          root     INFO: Removed http://noticias.r7.com/brasil/morre-aos-62-anos-o-jornalista-octavio-tostes-31102020
+2020-10-31 21:27:23,567          root     INFO: Removed http://noticias.r7.com/brasil/eduardo-pazuello-ficara-internado-ao-menos-por-mais-um-dia-31102020
+2020-10-31 21:27:23,570          root     INFO: Removed http://noticias.r7.com/brasil/procuradoria-reabre-investigacao-contra-rodrigo-maia-31102020
+2020-10-31 21:27:23,571          root     INFO: Finished script
