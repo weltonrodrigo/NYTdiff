@@ -1,6 +1,13 @@
-2020-10-31 01:47:09,498          root     INFO: Starting script
-2020-10-31 01:47:10,288          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-31 01:47:10,932          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-31 01:47:11,587          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-31 01:47:11,874          root     INFO: Parsing R7 - Brasil
-2020-10-31 01:47:15,552          root     INFO: Finished script
+2020-10-31 01:57:43,752          root     INFO: Starting script
+2020-10-31 01:57:44,588          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-31 01:57:45,257          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-31 01:57:45,924          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-31 01:57:46,154          root     INFO: Parsing R7 - Brasil
+2020-10-31 01:57:50,234          root     INFO: <del>Dessa forma, o governo federal passa</del> <ins>Senador assume</ins> a <del>ter 13 vice-líderes. Entre os partidos, estão: MDB, Republicanos, PSD, PP, PL, DEM e Pros</del> <ins>posição antes ocupada por Chico Rodrigues (DEM-RR), flagrado com dinheiro na cueca durante operação da Polícia Federal</ins>
+2020-10-31 01:57:51,982          root     INFO: Media ready with ids: 1322357084055363588
+2020-10-31 01:57:51,983          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-31 01:57:51,983          root     INFO: Article id: http://noticias.r7.com/brasil/bolsonaro-escolhe-jorginho-mello-do-pl-para-ser-novo-vice-lider-30102020
+2020-10-31 01:57:51,989          root     INFO: Tweeting url: http://noticias.r7.com/brasil/bolsonaro-escolhe-jorginho-mello-do-pl-para-ser-novo-vice-lider-30102020
+2020-10-31 01:57:52,155          root     INFO: Replying to: 1322357085645012993
+2020-10-31 01:57:52,372          root     INFO: Id to store: 1322357086320316419
+2020-10-31 01:57:52,656          root     INFO: Finished script
