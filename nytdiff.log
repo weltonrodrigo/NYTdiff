@@ -1,8 +1,13 @@
-2020-10-31 23:26:58,570          root     INFO: Starting script
-2020-10-31 23:26:59,463          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-10-31 23:27:00,117          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-10-31 23:27:00,771          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-10-31 23:27:01,016          root     INFO: Parsing R7 - Brasil
-2020-10-31 23:27:02,605          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/flavio-bolsonaro-passa-feriado-em-fernando-de-noronha-com-passagem-paga-pelo-senado.shtml
-2020-10-31 23:27:05,363          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/partido-de-russomanno-tem-suspeitos-de-elo-com-pcc-loteamento-de-cargos-e-desvio-de-servidores.shtml
-2020-10-31 23:27:05,364          root     INFO: Finished script
+2020-10-31 23:46:49,619          root     INFO: Starting script
+2020-10-31 23:46:50,459          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-10-31 23:46:51,106          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-10-31 23:46:51,749          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-10-31 23:46:51,928          root     INFO: Parsing R7 - Brasil
+2020-10-31 23:46:53,396          root     INFO: O senador Flávio Bolsonaro (Republicanos-RJ) viajou para o arquipélago de de Fernando de Noronha (PE), onde passa o <del>feriado,</del> <ins>feriado prolongado do Dia de Finados,</ins> com passagens aéreas pagas pelo Senado. Leia mais (10/31/2020 - 20h22)
+2020-10-31 23:46:55,319          root     INFO: Media ready with ids: 1322686518700478465
+2020-10-31 23:46:55,320          root     INFO: Text to tweet: Modificação da Descrição
+2020-10-31 23:46:55,320          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/flavio-bolsonaro-passa-feriado-em-fernando-de-noronha-com-passagem-paga-pelo-senado.shtml
+2020-10-31 23:46:55,327          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/flavio-bolsonaro-passa-feriado-em-fernando-de-noronha-com-passagem-paga-pelo-senado.shtml
+2020-10-31 23:46:55,528          root     INFO: Replying to: 1322686520357212161
+2020-10-31 23:46:55,794          root     INFO: Id to store: 1322686521363845122
+2020-10-31 23:46:58,147          root     INFO: Finished script
