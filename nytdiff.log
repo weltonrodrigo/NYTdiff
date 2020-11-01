@@ -1,19 +1,6 @@
-2020-11-01 00:47:48,272          root     INFO: Starting script
-2020-11-01 00:47:49,184          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-01 00:47:49,873          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-01 00:47:50,567          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-01 00:47:50,776          root     INFO: Parsing R7 - Brasil
-2020-11-01 00:47:51,067          root     INFO: <del>Miseráveis</del> <ins>Os miseráveis</ins> saqueiam o futebol brasileiro há décadas
-2020-11-01 00:47:52,860          root     INFO: Media ready with ids: 1322701859690291206
-2020-11-01 00:47:52,861          root     INFO: Text to tweet: Modificação do Título
-2020-11-01 00:47:52,861          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/10/miseraveis-saqueiam-o-futebol-brasileiro-ha-decadas.shtml
-2020-11-01 00:47:52,867          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/10/miseraveis-saqueiam-o-futebol-brasileiro-ha-decadas.shtml
-2020-11-01 00:47:53,088          root     INFO: Replying to: 1322701861221240837
-2020-11-01 00:47:53,301          root     INFO: Id to store: 1322701862013968389
-2020-11-01 00:47:54,801          root     INFO: O senador Flávio Bolsonaro (Republicanos-RJ) viajou para o arquipélago de <del>de</del> Fernando de Noronha (PE), onde passa o <del>feriado,</del> <ins>feriado prolongado do Dia de Finados,</ins> com passagens aéreas pagas pelo Senado. Leia mais (10/31/2020 - 20h22)
-2020-11-01 00:47:56,578          root     INFO: Media ready with ids: 1322701875075076098
-2020-11-01 00:47:56,578          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-01 00:47:56,578          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/flavio-bolsonaro-passa-feriado-em-fernando-de-noronha-com-passagem-paga-pelo-senado.shtml
-2020-11-01 00:47:56,584          root     INFO: Replying to: 1322686521363845122
-2020-11-01 00:47:56,819          root     INFO: Id to store: 1322701876811452417
-2020-11-01 00:47:59,884          root     INFO: Finished script
+2020-11-01 00:59:58,219          root     INFO: Starting script
+2020-11-01 00:59:59,037          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-01 00:59:59,694          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-01 01:00:00,351          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-01 01:00:00,578          root     INFO: Parsing R7 - Brasil
+2020-11-01 01:00:04,731          root     INFO: Finished script
