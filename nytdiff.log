@@ -1,19 +1,6 @@
-2020-11-02 14:46:46,572          root     INFO: Starting script
-2020-11-02 14:46:47,358          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-02 14:46:48,001          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-02 14:46:48,641          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-02 14:46:48,796          root     INFO: Parsing R7 - Brasil
-2020-11-02 14:46:50,143          root     INFO: <del>Candidato à Prefeitura de SP,</del> <ins>Em sabatina Folha/UOL,</ins> Arthur do Val <del>participa</del> <ins>promete fim do rodízio e se defende sobre uso</ins> de <del>sabatina Folha/UOL</del> <ins>assessores na campanha</ins>
-2020-11-02 14:46:51,852          root     INFO: Media ready with ids: 1323275384553693184
-2020-11-02 14:46:51,852          root     INFO: Text to tweet: Modificação do Título
-2020-11-02 14:46:51,852          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-de-sp-arthur-do-val-participa-de-sabatina-folhauol.shtml
-2020-11-02 14:46:51,856          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-de-sp-arthur-do-val-participa-de-sabatina-folhauol.shtml
-2020-11-02 14:46:52,063          root     INFO: Replying to: 1323275386147512321
-2020-11-02 14:46:52,301          root     INFO: Id to store: 1323275386927616003
-2020-11-02 14:46:52,305          root     INFO: <del>A Folha e o UOL sabatinam nesta segunda-feira (2) Arthur do Val,</del> <ins>O</ins> candidato <del>pelo Patriota</del> à Prefeitura de São <del>Paulo.</del> <ins>Paulo Artur do Val (Patriota) prometeu, em sabatina feita pela Folha e pelo UOL nesta segunda-feira (2), acabar com o rodízio de veículos na capital paulista e se defendeu sobre o uso de assessores na sua campanha, o que contradiz sue discurso de que não utiliza dinheiro público na eleição.</ins> Leia mais (11/02/2020 - 07h00)
-2020-11-02 14:46:53,920          root     INFO: Media ready with ids: 1323275393252659201
-2020-11-02 14:46:53,920          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-02 14:46:53,921          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-de-sp-arthur-do-val-participa-de-sabatina-folhauol.shtml
-2020-11-02 14:46:53,924          root     INFO: Replying to: 1323275386927616003
-2020-11-02 14:46:54,163          root     INFO: Id to store: 1323275394703859712
-2020-11-02 14:46:56,381          root     INFO: Finished script
+2020-11-02 14:57:45,993          root     INFO: Starting script
+2020-11-02 14:57:46,804          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-02 14:57:47,468          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-02 14:57:48,129          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-02 14:57:48,238          root     INFO: Parsing R7 - Brasil
+2020-11-02 14:57:51,680          root     INFO: Finished script
