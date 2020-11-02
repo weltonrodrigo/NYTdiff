@@ -1,13 +1,6 @@
-2020-11-02 21:46:52,256          root     INFO: Starting script
-2020-11-02 21:46:53,128          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-02 21:46:53,792          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-02 21:46:54,447          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-02 21:46:54,847          root     INFO: Parsing R7 - Brasil
-2020-11-02 21:46:56,536          root     INFO: A Folha <del>realizará</del> <ins>realizou</ins> nesta segunda-feira <del>(2), às 17h,</del> <ins>(2)</ins> um debate virtual entre candidatos a vereador em São Paulo. A sabatina <del>será</del> <ins>foi</ins> transmitida ao vivo pelo site do jornal e <del>envolverá</del> <ins>envolveu</ins> temas que passam pelo Legislativo municipal. Leia mais (11/01/2020 - 17h09)
-2020-11-02 21:46:58,352          root     INFO: Media ready with ids: 1323381108206112771
-2020-11-02 21:46:58,353          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-02 21:46:58,353          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-realiza-debate-virtual-com-candidatos-a-vereador-em-sao-paulo.shtml
-2020-11-02 21:46:58,359          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-realiza-debate-virtual-com-candidatos-a-vereador-em-sao-paulo.shtml
-2020-11-02 21:46:58,548          root     INFO: Replying to: 1323381109820981251
-2020-11-02 21:46:58,799          root     INFO: Id to store: 1323381110584365061
-2020-11-02 21:47:01,189          root     INFO: Finished script
+2020-11-02 21:58:10,188          root     INFO: Starting script
+2020-11-02 21:58:11,187          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-02 21:58:11,861          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-02 21:58:12,530          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-02 21:58:12,637          root     INFO: Parsing R7 - Brasil
+2020-11-02 21:58:16,843          root     INFO: Finished script
