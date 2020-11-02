@@ -1,13 +1,20 @@
-2020-11-02 19:13:51,732          root     INFO: Starting script
-2020-11-02 19:13:52,761          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-02 19:13:53,602          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-02 19:13:54,445          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-02 19:13:54,659          root     INFO: Parsing R7 - Brasil
-2020-11-02 19:13:56,363          root     INFO: O deputado estadual Arthur do Val (Patriota), candidato à <del>prefeitura</del> <ins>Prefeitura</ins> de São Paulo, prometeu reduzir os gastos da administração municipal na sabatina promovida pela Folha, em parceria com o UOL, nesta segunda-feira (2). Leia mais (11/02/2020 - 15h10)
-2020-11-02 19:13:58,251          root     INFO: Media ready with ids: 1323342604126310405
-2020-11-02 19:13:58,252          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-02 19:13:58,253          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sabatina-arthur-do-val-erra-sobre-custo-do-gabinete-e-fundo-eleitoral.shtml
-2020-11-02 19:13:58,263          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sabatina-arthur-do-val-erra-sobre-custo-do-gabinete-e-fundo-eleitoral.shtml
-2020-11-02 19:13:58,640          root     INFO: Replying to: 1323342606093504512
-2020-11-02 19:13:58,917          root     INFO: Id to store: 1323342607410450436
-2020-11-02 19:14:01,966          root     INFO: Finished script
+2020-11-02 19:19:19,659          root     INFO: Starting script
+2020-11-02 19:19:20,488          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-02 19:19:21,169          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-02 19:19:21,854          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-02 19:19:21,974          root     INFO: Parsing R7 - Brasil
+2020-11-02 19:19:23,617          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/reporteres-da-nsc-tv-afiliada-da-globo-sao-agredidos-em-praia-em-florianopolis.shtml
+2020-11-02 19:19:23,646          root     INFO: Em sabatina, Arthur do Val erra sobre custo do gabinete e <del>Fundo Eleitoral</del> <ins>fundo eleitoral</ins>
+2020-11-02 19:19:25,289          root     INFO: Media ready with ids: 1323343975902830592
+2020-11-02 19:19:25,290          root     INFO: Text to tweet: Modificação do Título
+2020-11-02 19:19:25,290          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sabatina-arthur-do-val-erra-sobre-custo-do-gabinete-e-fundo-eleitoral.shtml
+2020-11-02 19:19:25,295          root     INFO: Replying to: 1323342607410450436
+2020-11-02 19:19:25,509          root     INFO: Id to store: 1323343977270120449
+2020-11-02 19:19:25,514          root     INFO: O deputado estadual Arthur do Val (Patriota), candidato à <del>prefeitura</del> <ins>Prefeitura</ins> de São Paulo, prometeu reduzir os gastos da administração municipal na sabatina promovida pela Folha, em parceria com o UOL, nesta segunda-feira (2). Leia mais (11/02/2020 - 15h10)
+2020-11-02 19:19:27,239          root     INFO: Media ready with ids: 1323343983913873408
+2020-11-02 19:19:27,240          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-02 19:19:27,240          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sabatina-arthur-do-val-erra-sobre-custo-do-gabinete-e-fundo-eleitoral.shtml
+2020-11-02 19:19:27,244          root     INFO: Replying to: 1323343977270120449
+2020-11-02 19:19:27,453          root     INFO: Id to store: 1323343985432289281
+2020-11-02 19:19:30,363          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/apos-recuo-de-bolsonaro-sobre-saude-criticos-de-guedes-dizem-que-ele-repassa-culpa-mais-uma-vez.shtml
+2020-11-02 19:19:30,365          root     INFO: Finished script
