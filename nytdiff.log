@@ -1,13 +1,26 @@
-2020-11-02 11:26:59,175          root     INFO: Starting script
-2020-11-02 11:27:00,039          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-02 11:27:00,691          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-02 11:27:01,345          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-02 11:27:01,563          root     INFO: Parsing R7 - Brasil
-2020-11-02 11:27:03,333          root     INFO: Conflito entre fazendeiros e indígenas gera tensão e isola esquerda no sul da <del>BA</del> <ins>Bahia</ins>
-2020-11-02 11:27:05,197          root     INFO: Media ready with ids: 1323225108979322881
-2020-11-02 11:27:05,197          root     INFO: Text to tweet: Modificação do Título
-2020-11-02 11:27:05,198          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/conflito-entre-fazendeiros-e-indigenas-gera-tensao-e-isola-esquerda-no-sul-da-ba.shtml
-2020-11-02 11:27:05,204          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/conflito-entre-fazendeiros-e-indigenas-gera-tensao-e-isola-esquerda-no-sul-da-ba.shtml
-2020-11-02 11:27:05,396          root     INFO: Replying to: 1323225110443077634
-2020-11-02 11:27:05,598          root     INFO: Id to store: 1323225111084883968
-2020-11-02 11:27:08,201          root     INFO: Finished script
+2020-11-02 11:46:48,886          root     INFO: Starting script
+2020-11-02 11:46:49,719          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-02 11:46:50,390          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-02 11:46:51,054          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-02 11:46:51,369          root     INFO: Parsing R7 - Brasil
+2020-11-02 11:46:52,996          root     INFO: Partidos descumprem regra de repasse de verba <del>de campanha</del> <ins>eleitoral</ins> para negros e mulheres
+2020-11-02 11:46:54,784          root     INFO: Media ready with ids: 1323230098221342732
+2020-11-02 11:46:54,784          root     INFO: Text to tweet: Modificação do Título
+2020-11-02 11:46:54,784          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/partidos-descumprem-regra-de-repasse-de-verba-de-campanha-para-negros-e-mulheres.shtml
+2020-11-02 11:46:54,789          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/partidos-descumprem-regra-de-repasse-de-verba-de-campanha-para-negros-e-mulheres.shtml
+2020-11-02 11:46:54,958          root     INFO: Replying to: 1323230099811041281
+2020-11-02 11:46:55,160          root     INFO: Id to store: 1323230100469534720
+2020-11-02 11:46:55,217          root     INFO: Alvos da Lava Jato, ex-tesoureiros são apostas do PT no <ins>ABC e</ins> interior de SP <del>e no Grande ABC</del>
+2020-11-02 11:46:56,863          root     INFO: Media ready with ids: 1323230107146850310
+2020-11-02 11:46:56,863          root     INFO: Text to tweet: Modificação do Título
+2020-11-02 11:46:56,863          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/alvos-da-lava-jato-ex-tesoureiros-sao-apostas-do-pt-no-interior-de-sp-e-no-grande-abc.shtml
+2020-11-02 11:46:56,868          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/alvos-da-lava-jato-ex-tesoureiros-sao-apostas-do-pt-no-interior-de-sp-e-no-grande-abc.shtml
+2020-11-02 11:46:57,025          root     INFO: Replying to: 1323230108489027587
+2020-11-02 11:46:57,267          root     INFO: Id to store: 1323230109143306240
+2020-11-02 11:46:57,272          root     INFO: Dois ex-tesoureiros de campanhas petistas que foram alvos da Lava Jato são a aposta do Partido dos Trabalhadores para conquistar prefeituras importantes no <ins>Grande ABC e</ins> interior de São <del>Paulo e no Grande ABC. Após a operação, iniciada em 2014, o PT perdeu a Presidência da República e viu definhar boa parte do seu capital político e eleitoral.</del> <ins>Paulo.</ins> Leia mais (11/01/2020 - 23h15)
+2020-11-02 11:46:59,050          root     INFO: Media ready with ids: 1323230116105887744
+2020-11-02 11:46:59,051          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-02 11:46:59,051          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/alvos-da-lava-jato-ex-tesoureiros-sao-apostas-do-pt-no-interior-de-sp-e-no-grande-abc.shtml
+2020-11-02 11:46:59,057          root     INFO: Replying to: 1323230109143306240
+2020-11-02 11:46:59,264          root     INFO: Id to store: 1323230117674553345
+2020-11-02 11:47:01,807          root     INFO: Finished script
