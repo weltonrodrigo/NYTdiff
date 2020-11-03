@@ -1,8 +1,15 @@
-2020-11-03 10:58:10,437          root     INFO: Starting script
-2020-11-03 10:58:11,556          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-03 10:58:12,375          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-03 10:58:13,202          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-03 10:58:13,464          root     INFO: Parsing R7 - Brasil
-2020-11-03 10:58:16,905          root     INFO: New article tracked: http://noticias.r7.com/brasil/impasse-na-camara-pode-barrar-de-novo-votacao-nesta-terca-feira-03112020
-2020-11-03 10:58:16,962          root     INFO: New article tracked: http://noticias.r7.com/brasil/sindicatos-fazem-manifestacoes-pela-desoneracao-em-sp-e-brasilia-03112020
-2020-11-03 10:58:17,163          root     INFO: Finished script
+2020-11-03 11:15:47,445          root     INFO: Starting script
+2020-11-03 11:15:48,587          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-03 11:15:49,416          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-03 11:15:50,258          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-03 11:15:50,496          root     INFO: Parsing R7 - Brasil
+2020-11-03 11:15:53,314          root     INFO: O ouvidor que devia apurar irregularidades cometidas por três funcionários da Secretaria do Meio Ambiente de São Paulo era também quem os defendia em um inquérito movido pelo Ministério Público contra o Ministro do Meio Ambiente, Ricardo Salles. A investigação ocorreu quando Salles ocupou a pasta ambiental em São Paulo entre 2016 e 2017. Leia mais <del>(11/02/2020</del> <ins>(11/03/2020</ins> - 08h00)
+2020-11-03 11:15:55,207          root     INFO: Media ready with ids: 1323584686388596736
+2020-11-03 11:15:55,208          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-03 11:15:55,208          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/amigo-de-salles-atuou-como-ouvidor-e-advogado-de-investigados-em-inquerito-contra-o-ministro.shtml
+2020-11-03 11:15:55,217          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/amigo-de-salles-atuou-como-ouvidor-e-advogado-de-investigados-em-inquerito-contra-o-ministro.shtml
+2020-11-03 11:15:55,479          root     INFO: Replying to: 1323584688435417089
+2020-11-03 11:15:55,757          root     INFO: Id to store: 1323584689345568769
+2020-11-03 11:15:57,138          root     INFO: Removed http://noticias.r7.com/brasil/impasse-na-camara-pode-barrar-de-novo-votacao-nesta-terca-feira-03112020
+2020-11-03 11:15:57,140          root     INFO: Removed http://noticias.r7.com/brasil/sindicatos-fazem-manifestacoes-pela-desoneracao-em-sp-e-brasilia-03112020
+2020-11-03 11:15:57,141          root     INFO: Finished script
