@@ -1,19 +1,13 @@
-2020-11-03 15:18:29,564          root     INFO: Starting script
-2020-11-03 15:18:30,484          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-03 15:18:31,159          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-03 15:18:31,834          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-03 15:18:32,051          root     INFO: Parsing R7 - Brasil
-2020-11-03 15:18:33,891          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaro-agora-planeja-ampliar-espaco-do-centrao-para-cargos-de-2o-escalao.shtml
-2020-11-03 15:18:33,904          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-sabatina-folhauol-franca-erra-sobre-creches-moradores-de-rua-e-auxilio-emergencial.shtml
-2020-11-03 15:18:33,915          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/campanha-eleitoral-tem-1-candidato-assassinado-a-cada-tres-dias-no-pais.shtml
-2020-11-03 15:18:35,227          root     INFO: As propostas de governo dos candidatos à Prefeitura de Jaboticabal (a 342 km de São Paulo) protocoladas com os registros das candidaturas no TSE (Tribunal Superior Eleitoral) são marcadas pela superficialidade nos temas tratados e também por propostas inusitadas. <del>Ao mesmo tempo em que há informações sobre tributação, saúde e economia nos planos, também há propostas como de fazer a cidade ser reconhecida como a "capital do filtro de cerâmica", da criação de um barracão para a produção de fraldas geriátricas e do encerramento de transmissões de lives do prefeito em alto-falantes nas ruas de Jaboticabal. Formas de reduzir a falta d?água, problema crônico da cidade nos últimos meses, está presente nos cinco planos apresentados. Já a pandemia do novo coronavírus, seja por questões sanitárias ou econômicas, aparece em três programas -de José Giácomo Baccarin (PT), Professor João (DEM) e Vitorio de Simoni (MDB).</del> Leia mais (10/30/2020 - 12h00)
-2020-11-03 15:18:37,180          root     INFO: Media ready with ids: 1323645763738619906
-2020-11-03 15:18:37,181          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-03 15:18:37,181          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/superficialidade-temas-inusitados-e-crise-da-agua-marcam-propostas-de-candidatos-em-jaboticabal.shtml
-2020-11-03 15:18:37,187          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/superficialidade-temas-inusitados-e-crise-da-agua-marcam-propostas-de-candidatos-em-jaboticabal.shtml
-2020-11-03 15:18:37,386          root     INFO: Replying to: 1323645765500182528
-2020-11-03 15:18:37,643          root     INFO: Id to store: 1323645766305538049
-2020-11-03 15:18:39,785          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/russomanno-diz-em-propaganda-que-bolsonaro-lancou-renda-brasil-programa-que-foi-vetado-e-nunca-saiu-do-papel.shtml
-2020-11-03 15:18:39,788          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/sabara-oficializa-fim-de-candidatura-em-sp-e-pede-desfiliacao-do-novo.shtml
-2020-11-03 15:18:39,791          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/bolsonaro-pede-voto-para-russomanno-em-sao-paulo-e-da-apoio-constrangido-a-crivella-no-rio.shtml
-2020-11-03 15:18:39,792          root     INFO: Finished script
+2020-11-03 15:27:14,854          root     INFO: Starting script
+2020-11-03 15:27:16,022          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-03 15:27:16,851          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-03 15:27:17,685          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-03 15:27:17,924          root     INFO: Parsing R7 - Brasil
+2020-11-03 15:27:19,581          root     INFO: Na sabatina Folha/UOL, França erra sobre creches, moradores de rua e <del>auxílio-emergencial</del> <ins>auxílio emergencial</ins>
+2020-11-03 15:27:21,548          root     INFO: Media ready with ids: 1323647963223261184
+2020-11-03 15:27:21,549          root     INFO: Text to tweet: Modificação do Título
+2020-11-03 15:27:21,549          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-sabatina-folhauol-franca-erra-sobre-creches-moradores-de-rua-e-auxilio-emergencial.shtml
+2020-11-03 15:27:21,554          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-sabatina-folhauol-franca-erra-sobre-creches-moradores-de-rua-e-auxilio-emergencial.shtml
+2020-11-03 15:27:21,816          root     INFO: Replying to: 1323647965093912577
+2020-11-03 15:27:22,111          root     INFO: Id to store: 1323647966079574021
+2020-11-03 15:27:24,683          root     INFO: Finished script
