@@ -1,8 +1,18 @@
-2020-11-03 17:46:46,372          root     INFO: Starting script
-2020-11-03 17:46:47,174          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-03 17:46:47,817          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-03 17:46:48,479          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-03 17:46:48,745          root     INFO: Parsing R7 - Brasil
-2020-11-03 17:46:50,218          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post404587
-2020-11-03 17:46:52,754          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/lider-do-governo-na-camara-diz-que-bolsonaro-se-aliou-ao-centrao-por-bom-senso-para-ter-maioria.shtml
-2020-11-03 17:46:52,755          root     INFO: Finished script
+2020-11-03 17:57:46,423          root     INFO: Starting script
+2020-11-03 17:57:47,273          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-03 17:57:47,962          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-03 17:57:48,651          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-03 17:57:48,869          root     INFO: Parsing R7 - Brasil
+2020-11-03 17:57:50,668          root     INFO: Márcio <del>França, em SP,</del> <ins>França se diz progressista, acena a bolsonaristas</ins> e <del>Bandeira de Mello, no Rio, participam de</del> <ins>ataca Boulos em</ins> sabatina Folha/UOL
+2020-11-03 17:57:52,390          root     INFO: Media ready with ids: 1323685841240236034
+2020-11-03 17:57:52,390          root     INFO: Text to tweet: Modificação do Título
+2020-11-03 17:57:52,390          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marcio-franca-em-sp-e-bandeira-de-mello-no-rio-participam-de-sabatina-folhauol.shtml
+2020-11-03 17:57:52,395          root     INFO: Replying to: 1323630954557091846
+2020-11-03 17:57:52,630          root     INFO: Id to store: 1323685842863480832
+2020-11-03 17:57:52,635          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta terça-feira (3) Márcio França, candidato do PSB à Prefeitura</del> <ins>Candidato a prefeito</ins> de São Paulo, <del>e Eduardo Bandeira</del> <ins>Márcio França (PSB) fez acenos a eleitores</ins> de <del>Mello, candidato da Rede à Prefeitura do Rio</del> <ins>esquerda e</ins> de <del>Janeiro.</del> <ins>direita durante sabatina Folha/UOL nesta terça-feira (3) e disparou ataques contra o rival Guilherme Boulos (PSOL), com quem está tecnicamente empatado em terceiro lugar no Datafolha.</ins> Leia mais (11/03/2020 - 07h00)
+2020-11-03 17:57:57,392          root     INFO: Media ready with ids: 1323685862295699462
+2020-11-03 17:57:57,393          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-03 17:57:57,393          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marcio-franca-em-sp-e-bandeira-de-mello-no-rio-participam-de-sabatina-folhauol.shtml
+2020-11-03 17:57:57,398          root     INFO: Replying to: 1323685842863480832
+2020-11-03 17:57:57,629          root     INFO: Id to store: 1323685863797248007
+2020-11-03 17:58:00,438          root     INFO: Finished script
