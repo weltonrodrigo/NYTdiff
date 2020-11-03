@@ -1,20 +1,6 @@
-2020-11-03 19:46:48,515          root     INFO: Starting script
-2020-11-03 19:46:49,345          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-03 19:46:50,015          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-03 19:46:50,685          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-03 19:46:50,923          root     INFO: Parsing R7 - Brasil
-2020-11-03 19:46:52,539          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post404599
-2020-11-03 19:46:52,661          root     INFO: <del>Candidato à Prefeitura do Rio,</del> <ins>Em sabatina Folha/UOL,</ins> Bandeira de Mello <del>participa de sabatina Folha/UOL</del> <ins>diz que desconhecia problemas no Ninho do Urubu</ins>
-2020-11-03 19:46:54,444          root     INFO: Media ready with ids: 1323713280574181378
-2020-11-03 19:46:54,445          root     INFO: Text to tweet: Modificação do Título
-2020-11-03 19:46:54,445          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-bandeira-de-mello-participa-de-sabatina-folhauol.shtml
-2020-11-03 19:46:54,451          root     INFO: Replying to: 1323705067757805569
-2020-11-03 19:46:54,704          root     INFO: Id to store: 1323713282323206146
-2020-11-03 19:46:54,709          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta terça-feira (3), Eduardo Bandeira de Mello, candidato da Rede à Prefeitura do Rio de Janeiro.</del> Leia mais (11/03/2020 - 11h13)
-2020-11-03 19:46:59,522          root     INFO: Media ready with ids: 1323713302015389697
-2020-11-03 19:46:59,523          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-03 19:46:59,523          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-bandeira-de-mello-participa-de-sabatina-folhauol.shtml
-2020-11-03 19:46:59,528          root     INFO: Replying to: 1323713282323206146
-2020-11-03 19:46:59,815          root     INFO: Id to store: 1323713303571476487
-2020-11-03 19:47:02,579          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/deputados-querem-que-governo-dissolva-impasse-que-bloqueia-votacoes-na-camara.shtml
-2020-11-03 19:47:02,580          root     INFO: Finished script
+2020-11-03 19:57:59,769          root     INFO: Starting script
+2020-11-03 19:58:00,601          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-03 19:58:01,290          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-03 19:58:01,987          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-03 19:58:02,191          root     INFO: Parsing R7 - Brasil
+2020-11-03 19:58:06,975          root     INFO: Finished script
