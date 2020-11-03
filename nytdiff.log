@@ -1,12 +1,6 @@
-2020-11-03 11:26:58,005          root     INFO: Starting script
-2020-11-03 11:26:59,072          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-03 11:26:59,741          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-03 11:27:00,402          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-03 11:27:00,555          root     INFO: Parsing R7 - Brasil
-2020-11-03 11:27:02,102          root     INFO: O vereador Jair Barbosa Tavares, o Zico Bacana (Podemos), foi baleado na noite desta segunda-feira (2) durante <del>campanha em Ricardo</del> <ins>evento</ins> de <del>Albuquerque,</del> <ins>campanha</ins> na zona norte do <del>Rio.</del> <ins>Rio de Janeiro.</ins> Leia mais (11/02/2020 - 21h44)
-2020-11-03 11:27:03,811          root     INFO: Media ready with ids: 1323587490905792512
-2020-11-03 11:27:03,811          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-03 11:27:03,811          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-reeleicao-vereador-zico-bacana-e-baleado-durante-ato-de-campanha-no-rio.shtml
-2020-11-03 11:27:03,816          root     INFO: Replying to: 1323456654415941632
-2020-11-03 11:27:04,196          root     INFO: Id to store: 1323587492457578501
-2020-11-03 11:27:06,327          root     INFO: Finished script
+2020-11-03 11:46:59,596          root     INFO: Starting script
+2020-11-03 11:47:00,410          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-03 11:47:01,072          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-03 11:47:01,758          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-03 11:47:01,915          root     INFO: Parsing R7 - Brasil
+2020-11-03 11:47:06,898          root     INFO: Finished script
