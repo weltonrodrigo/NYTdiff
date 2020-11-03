@@ -1,13 +1,13 @@
-2020-11-03 12:22:22,995          root     INFO: Starting script
-2020-11-03 12:22:23,817          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-03 12:22:24,500          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-03 12:22:25,169          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-03 12:22:25,327          root     INFO: Parsing R7 - Brasil
-2020-11-03 12:22:25,680          root     INFO: Narração feminina na Band mostra que <del>esporte</del> <ins>futebol</ins> começa a ganhar <del>outros tons</del> <ins>outras vozes</ins>
-2020-11-03 12:22:27,392          root     INFO: Media ready with ids: 1323601431170064386
-2020-11-03 12:22:27,393          root     INFO: Text to tweet: Modificação do Título
-2020-11-03 12:22:27,394          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2020/11/narracao-feminina-na-band-mostra-que-esporte-comeca-a-ganhar-outros-tons.shtml
-2020-11-03 12:22:27,400          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2020/11/narracao-feminina-na-band-mostra-que-esporte-comeca-a-ganhar-outros-tons.shtml
-2020-11-03 12:22:27,578          root     INFO: Replying to: 1323601432545759233
-2020-11-03 12:22:27,809          root     INFO: Id to store: 1323601433330147332
-2020-11-03 12:22:31,462          root     INFO: Finished script
+2020-11-03 12:31:32,755          root     INFO: Starting script
+2020-11-03 12:31:33,591          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-03 12:31:34,261          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-03 12:31:34,941          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-03 12:31:35,051          root     INFO: Parsing R7 - Brasil
+2020-11-03 12:31:36,849          root     INFO: O TCU (Tribunal de Contas da União) deve divulgar até a sexta-feira (6), <del>sem</del> <ins>em</ins> seu site, a lista de candidatos que, mesmo com patrimônio maior do que R$ 300 mil, receberam o auxílio emergencial da Covid-19. Leia mais (11/02/2020 - 23h15)
+2020-11-03 12:31:38,578          root     INFO: Media ready with ids: 1323603742831366144
+2020-11-03 12:31:38,579          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-03 12:31:38,579          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/tcu-deve-divulgar-nomes-de-candidatos-com-patrimonio-superior-a-r-300-mil-que-receberam-o-auxilio-emergencial.shtml
+2020-11-03 12:31:38,584          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/tcu-deve-divulgar-nomes-de-candidatos-com-patrimonio-superior-a-r-300-mil-que-receberam-o-auxilio-emergencial.shtml
+2020-11-03 12:31:38,768          root     INFO: Replying to: 1323603744404234242
+2020-11-03 12:31:39,008          root     INFO: Id to store: 1323603745154977792
+2020-11-03 12:31:41,420          root     INFO: Finished script
