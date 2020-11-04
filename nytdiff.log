@@ -1,19 +1,6 @@
-2020-11-04 19:14:20,640          root     INFO: Starting script
-2020-11-04 19:14:21,468          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-04 19:14:22,135          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-04 19:14:22,820          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-04 19:14:22,979          root     INFO: Parsing R7 - Brasil
-2020-11-04 19:14:24,675          root     INFO: <del>Candidata à Prefeitura do Rio, Benedita da Silva participa da</del> <ins>Em</ins> sabatina <del>Folha/UOL</del> <ins>Folha/UOL, Benedita diz que aliança do PT com Sérgio Cabral rendeu benefícios ao povo</ins>
-2020-11-04 19:14:26,448          root     INFO: Media ready with ids: 1324067498157842433
-2020-11-04 19:14:26,449          root     INFO: Text to tweet: Modificação do Título
-2020-11-04 19:14:26,450          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidata-a-prefeitura-do-rio-benedita-da-silva-participa-da-sabatina-folhauol.shtml
-2020-11-04 19:14:26,458          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidata-a-prefeitura-do-rio-benedita-da-silva-participa-da-sabatina-folhauol.shtml
-2020-11-04 19:14:26,647          root     INFO: Replying to: 1324067499634208770
-2020-11-04 19:14:26,907          root     INFO: Id to store: 1324067500506701824
-2020-11-04 19:14:26,912          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta quarta-feira (4)</del> Benedita da Silva, candidata <del>pelo</del> <ins>do</ins> PT à Prefeitura do <del>Rio</del> <ins>Rio, afirmou não se arrepender da aliança</ins> de <del>Janeiro.</del> <ins>seu partido com os governos de Sérgio Cabral (MDB).</ins> Leia mais (11/04/2020 - 11h29)
-2020-11-04 19:14:28,695          root     INFO: Media ready with ids: 1324067507309842432
-2020-11-04 19:14:28,696          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-04 19:14:28,696          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidata-a-prefeitura-do-rio-benedita-da-silva-participa-da-sabatina-folhauol.shtml
-2020-11-04 19:14:28,700          root     INFO: Replying to: 1324067500506701824
-2020-11-04 19:14:28,954          root     INFO: Id to store: 1324067509105053696
-2020-11-04 19:14:31,770          root     INFO: Finished script
+2020-11-04 19:19:40,432          root     INFO: Starting script
+2020-11-04 19:19:41,566          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-04 19:19:42,222          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-04 19:19:42,890          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-04 19:19:43,070          root     INFO: Parsing R7 - Brasil
+2020-11-04 19:19:46,263          root     INFO: Finished script
