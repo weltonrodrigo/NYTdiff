@@ -1,31 +1,6 @@
-2020-11-04 01:46:50,641          root     INFO: Starting script
-2020-11-04 01:46:51,509          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-04 01:46:52,153          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-04 01:46:52,817          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-04 01:46:53,099          root     INFO: Parsing R7 - Brasil
-2020-11-04 01:46:53,368          root     INFO: Comecei a escrever minha coluna para o <del>The</del> New York Times em 2000. Meu tema deveria supostamente ser economia e negócios. Mas não consegui deixar de perceber que um dos candidatos à presidência na eleição daquele ano fazia afirmações sistematicamente falsas sobre suas propostas de políticas públicas. Leia mais (11/03/2020 - 10h30)
-2020-11-04 01:46:55,269          root     INFO: Media ready with ids: 1323803880686276608
-2020-11-04 01:46:55,269          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-04 01:46:55,269          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2020/11/a-guerra-contra-a-verdade-chega-ao-climax-nos-eua.shtml
-2020-11-04 01:46:55,276          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2020/11/a-guerra-contra-a-verdade-chega-ao-climax-nos-eua.shtml
-2020-11-04 01:46:55,498          root     INFO: Replying to: 1323803882779254786
-2020-11-04 01:46:55,745          root     INFO: Id to store: 1323803883525885960
-2020-11-04 01:46:59,120          root     INFO: Removed http://noticias.r7.com/brasil/brasil-contabiliza-160496-mortes-e-5566049-casos-de-covid-19-03112020
-2020-11-04 01:46:59,122          root     INFO: Removed http://noticias.r7.com/brasil/medidas-provisorias-do-auxilio-emergencial-sao-prorrogadas-03112020
-2020-11-04 01:46:59,124          root     INFO: Removed http://noticias.r7.com/brasil/ministro-pazuello-recebe-alta-de-hospital-das-forcas-armadas-03112020
-2020-11-04 01:46:59,126          root     INFO: Removed http://noticias.r7.com/brasil/governo-autoriza-volta-de-servidores-ao-trabalho-presencial-03112020
-2020-11-04 01:46:59,128          root     INFO: Removed http://noticias.r7.com/brasil/governadores-se-reunem-com-alcolumbre-para-falar-de-vacina-03112020
-2020-11-04 01:46:59,130          root     INFO: Removed http://noticias.r7.com/brasil/alcolumbre-se-reune-com-bolsonaro-para-falar-sobre-a-vacina-da-covid-19-03112020
-2020-11-04 01:46:59,133          root     INFO: Removed http://noticias.r7.com/brasil/advogado-assume-nesta-terca-vaga-de-senador-morto-por-covid-19-03112020
-2020-11-04 01:46:59,135          root     INFO: Removed http://noticias.r7.com/brasil/veto-as-desoneracoes-esta-mantido-napauta-de-4-feira-afirma-senador-03112020
-2020-11-04 01:46:59,138          root     INFO: Removed http://noticias.r7.com/brasil/deputado-pede-a-anac-suspensao-de-voos-internacionais-03112020
-2020-11-04 01:46:59,139          root     INFO: Removed http://noticias.r7.com/brasil/senado-aprova-deposito-voluntario-no-bc-para-estabilizar-divida-publica-03112020
-2020-11-04 01:46:59,141          root     INFO: Removed http://noticias.r7.com/brasil/cvm-proibe-atuacao-de-ex-diretores-da-petrobras-em-empresas-abertas-03112020
-2020-11-04 01:46:59,144          root     INFO: Removed http://noticias.r7.com/brasil/acompanhar-eleicao-dos-eua-requer-prudencia-diplomatica-diz-moro-03112020
-2020-11-04 01:46:59,146          root     INFO: Removed http://noticias.r7.com/brasil/pix-gera-1570-transacoes-no-primeiro-dia-segundo-banco-central-03112020
-2020-11-04 01:46:59,148          root     INFO: Removed http://noticias.r7.com/brasil/mercado-financeiro-eleva-projecao-da-inflacao-para-3-em-2020-03112020
-2020-11-04 01:46:59,150          root     INFO: Removed http://noticias.r7.com/brasil/gilmar-cita-tortura-em-julgamento-de-estupro-de-influenciadora-03112020
-2020-11-04 01:46:59,152          root     INFO: Removed http://noticias.r7.com/brasil/araujo-nao-participara-de-tour-com-diplomatas-a-amazonia-diz-mourao-03112020
-2020-11-04 01:46:59,154          root     INFO: Removed http://noticias.r7.com/brasil/finados-embriaguez-ao-volante-provoca-mais-de-600-multas-03112020
-2020-11-04 01:46:59,157          root     INFO: Removed http://noticias.r7.com/brasil/maia-diz-a-governadores-que-divida-dos-estados-sera-votada-dia-17-03112020
-2020-11-04 01:46:59,158          root     INFO: Finished script
+2020-11-04 01:58:11,125          root     INFO: Starting script
+2020-11-04 01:58:12,218          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-04 01:58:13,038          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-04 01:58:13,855          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-04 01:58:14,166          root     INFO: Parsing R7 - Brasil
+2020-11-04 01:58:17,830          root     INFO: Finished script
