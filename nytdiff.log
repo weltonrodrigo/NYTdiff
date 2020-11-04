@@ -1,6 +1,10 @@
-2020-11-04 18:28:51,966          root     INFO: Starting script
-2020-11-04 18:28:52,797          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-04 18:28:53,471          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-04 18:28:54,144          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-04 18:28:54,301          root     INFO: Parsing R7 - Brasil
-2020-11-04 18:28:58,427          root     INFO: Finished script
+2020-11-04 18:46:46,213          root     INFO: Starting script
+2020-11-04 18:46:46,998          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-04 18:46:47,640          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-04 18:46:48,280          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-04 18:46:48,544          root     INFO: Parsing R7 - Brasil
+2020-11-04 18:46:48,789          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/11/alimentos-tem-recorde-de-alta-no-real-e-superam-aumentos-nas-crises-de-2003-e-de-2008.shtml
+2020-11-04 18:46:48,848          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2020/11/resultados-mostram-que-trump-nao-e-uma-anomalia-nos-eua.shtml
+2020-11-04 18:46:52,406          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/voltamos-a-inquisicao.shtml
+2020-11-04 18:46:52,408          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2020/10/o-futuro-sem-bolsonaro.shtml
+2020-11-04 18:46:52,409          root     INFO: Finished script
