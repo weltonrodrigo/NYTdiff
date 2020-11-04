@@ -1,8 +1,13 @@
-2020-11-04 23:46:51,103          root     INFO: Starting script
-2020-11-04 23:46:52,017          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-04 23:46:52,894          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-04 23:46:53,545          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-04 23:46:53,726          root     INFO: Parsing R7 - Brasil
-2020-11-04 23:46:55,269          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-encerra-coleta-de-provas-em-acao-sobre-disparos-em-massa-que-pode-cassar-chapa-de-bolsonaro.shtml
-2020-11-04 23:46:58,021          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48409
-2020-11-04 23:46:58,025          root     INFO: Finished script
+2020-11-04 23:57:49,199          root     INFO: Starting script
+2020-11-04 23:57:50,060          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-04 23:57:50,736          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-04 23:57:51,407          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-04 23:57:51,603          root     INFO: Parsing R7 - Brasil
+2020-11-04 23:57:53,321          root     INFO: O TSE (Tribunal Superior Eleitoral) encerrou a fase de procura por provas em uma das ações judiciais que pedem a cassação da chapa de Jair Bolsonaro (sem partido) e Hamilton Mourão (PRTB) por suspeita de abuso de poder econômico no envio em massa de mensagens de <del>Whatsapp</del> <ins>WhatsApp</ins> durante as eleições de 2018. Leia mais (11/04/2020 - 20h41)
+2020-11-04 23:57:55,213          root     INFO: Media ready with ids: 1324138837879250944
+2020-11-04 23:57:55,213          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-04 23:57:55,214          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-encerra-coleta-de-provas-em-acao-sobre-disparos-em-massa-que-pode-cassar-chapa-de-bolsonaro.shtml
+2020-11-04 23:57:55,219          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-encerra-coleta-de-provas-em-acao-sobre-disparos-em-massa-que-pode-cassar-chapa-de-bolsonaro.shtml
+2020-11-04 23:57:55,397          root     INFO: Replying to: 1324138839540117506
+2020-11-04 23:57:55,741          root     INFO: Id to store: 1324138840366280705
+2020-11-04 23:57:58,675          root     INFO: Finished script
