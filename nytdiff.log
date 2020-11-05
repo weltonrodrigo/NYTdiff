@@ -1,8 +1,19 @@
-2020-11-05 16:58:08,001          root     INFO: Starting script
-2020-11-05 16:58:08,906          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-05 16:58:09,597          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-05 16:58:10,293          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-05 16:58:10,565          root     INFO: Parsing R7 - Brasil
-2020-11-05 16:58:12,494          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-sabatina-folhauol-covas-erra-dado-sobre-vagas-em-creches-de-sao-paulo.shtml
-2020-11-05 16:58:16,097          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entenda-o-que-e-o-poder-de-policia-da-justica-eleitoral-e-como-funciona-a-fiscalizacao.shtml
-2020-11-05 16:58:16,099          root     INFO: Finished script
+2020-11-05 17:17:12,192          root     INFO: Starting script
+2020-11-05 17:17:13,165          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-05 17:17:13,830          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-05 17:17:14,489          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-05 17:17:14,717          root     INFO: Parsing R7 - Brasil
+2020-11-05 17:17:16,392          root     INFO: TSE libera show virtual de Caetano para arrecadar verba à campanha de Manuela <del>D'Ávila</del>
+2020-11-05 17:17:18,118          root     INFO: Media ready with ids: 1324400407062450179
+2020-11-05 17:17:18,118          root     INFO: Text to tweet: Modificação do Título
+2020-11-05 17:17:18,118          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-libera-show-virtual-de-caetano-para-arrecadar-verba-a-campanha-de-manuela-davila.shtml
+2020-11-05 17:17:18,124          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-libera-show-virtual-de-caetano-para-arrecadar-verba-a-campanha-de-manuela-davila.shtml
+2020-11-05 17:17:18,308          root     INFO: Replying to: 1324400408534654978
+2020-11-05 17:17:18,545          root     INFO: Id to store: 1324400409239322624
+2020-11-05 17:17:18,551          root     INFO: O TSE (Tribunal Superior Eleitoral) permitiu nesta quinta-feira (5) que <del>o artista</del> Caetano Veloso faça um show online pago a fim de arrecadar fundos para a campanha de Manuela D?Ávila <del>(PCdoB),</del> <ins>(PC do B),</ins> candidata à Prefeitura de Porto Alegre. Leia mais (11/05/2020 - 11h57)
+2020-11-05 17:17:20,274          root     INFO: Media ready with ids: 1324400416029900801
+2020-11-05 17:17:20,274          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 17:17:20,274          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-libera-show-virtual-de-caetano-para-arrecadar-verba-a-campanha-de-manuela-davila.shtml
+2020-11-05 17:17:20,279          root     INFO: Replying to: 1324400409239322624
+2020-11-05 17:17:20,508          root     INFO: Id to store: 1324400417502015492
+2020-11-05 17:17:23,420          root     INFO: Finished script
