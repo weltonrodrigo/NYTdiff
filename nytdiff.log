@@ -1,6 +1,24 @@
-2020-11-05 01:57:49,011          root     INFO: Starting script
-2020-11-05 01:57:49,824          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-05 01:57:50,486          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-05 01:57:51,147          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-05 01:57:51,343          root     INFO: Parsing R7 - Brasil
-2020-11-05 01:57:55,678          root     INFO: Finished script
+2020-11-05 02:20:11,761          root     INFO: Starting script
+2020-11-05 02:20:12,707          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-05 02:20:13,377          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-05 02:20:14,051          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-05 02:20:14,248          root     INFO: Parsing R7 - Brasil
+2020-11-05 02:20:15,717          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-multa-em-r-10-mil-campanha-de-arthur-do-val-por-impulsionar-campanha-negativa-contra-tatto.shtml
+2020-11-05 02:20:15,783          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apos-cena-de-shopping-blumenau-vive-campanha-pautada-por-retomada-economica-sem-oktoberfest.shtml
+2020-11-05 02:20:15,793          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entenda-as-atribuicoes-dos-vereadores-e-o-que-pode-ser-cobrado-dos-eleitos-de-2020.shtml
+2020-11-05 02:20:15,800          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apreensao-de-r-102-mil-em-dinheiro-com-ex-assessor-de-covas-e-tema-tabu-apos-6-anos.shtml
+2020-11-05 02:20:15,809          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/canetada-de-franca-no-apagar-das-luzes-como-governador-livrou-ex-diretor-alvo-de-graves-suspeitas.shtml
+2020-11-05 02:20:15,817          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/ministro-da-comunicacoes-entrega-internet-em-reduto-eleitoral-de-senador-do-centrao.shtml
+2020-11-05 02:20:15,824          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-schuler/2020/11/e-possivel-melhorar-a-qualidade-do-debate-publico-e-da-democracia.shtml
+2020-11-05 02:20:15,831          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ao-estilo-bolsonaro-russomanno-coleciona-informacoes-falsas-espalhadas-na-campanha.shtml
+2020-11-05 02:20:15,837          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/marido-de-caixa-de-supermercado-que-acusa-russomanno-tem-conta-de-facebook-invadida.shtml
+2020-11-05 02:20:18,356          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/lava-jato-some-de-campanha-em-sao-paulo-apos-presenca-determinante-em-2016.shtml
+2020-11-05 02:20:18,358          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/doria-vira-alvo-preferencial-de-ataques-e-segue-ignorado-por-campanha-de-covas.shtml
+2020-11-05 02:20:18,361          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/antigas-moradoras-do-alvorada-emas-ja-foram-expulsas-e-se-desentenderam-com-caes.shtml
+2020-11-05 02:20:18,363          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/governo-gastou-mais-de-r-300-mil-com-envio-da-forca-nacional-a-bahia-considerado-ilegal-pelo-stf.shtml
+2020-11-05 02:20:18,365          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/flavio-bolsonaro-passa-feriado-em-fernando-de-noronha-com-passagem-paga-pelo-senado.shtml
+2020-11-05 02:20:18,367          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/em-ascensao-no-rio-martha-rocha-e-alvo-de-ataques-por-caixa-2-e-elo-com-bicheiros.shtml
+2020-11-05 02:20:18,369          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/onda-antipolitica-de-2018-perde-folego-e-candidatos-bolsonaristas-encalham-nas-capitais.shtml
+2020-11-05 02:20:18,371          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/arthur-lira-e-o-candidato-de-bolsonaro-a-presidencia-da-camara-diz-maia.shtml
+2020-11-05 02:20:18,373          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/no-topo-de-maiores-beneficiados-por-dinheiro-publico-candidatos-nao-passam-de-10-nas-pesquisas.shtml
+2020-11-05 02:20:18,374          root     INFO: Finished script
