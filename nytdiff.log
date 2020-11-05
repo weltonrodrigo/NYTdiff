@@ -1,7 +1,32 @@
-2020-11-05 10:33:48,152          root     INFO: Starting script
-2020-11-05 10:33:49,248          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-05 10:33:50,086          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-05 10:33:50,921          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-05 10:33:51,123          root     INFO: Parsing R7 - Brasil
-2020-11-05 10:33:55,448          root     INFO: Removed http://noticias.r7.com/brasil/lei-exige-medidas-rapidas-dos-novos-prefeitos-para-o-saneamento-basico-05112020
-2020-11-05 10:33:55,449          root     INFO: Finished script
+2020-11-05 10:46:49,523          root     INFO: Starting script
+2020-11-05 10:46:50,338          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-05 10:46:50,994          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-05 10:46:51,650          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-05 10:46:51,887          root     INFO: Parsing R7 - Brasil
+2020-11-05 10:46:53,594          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatos-bruno-covas-de-sp-e-eduardo-paes-de-rio-participam-da-sabatina-folhauol.shtml
+2020-11-05 10:46:53,658          root     INFO: Na véspera da prescrição, <del>Serrá</del> <ins>Serra</ins> vira réu acusado de caixa 2, corrupção e lavagem de dinheiro
+2020-11-05 10:46:55,342          root     INFO: Media ready with ids: 1324302164953583617
+2020-11-05 10:46:55,342          root     INFO: Text to tweet: Modificação do Título
+2020-11-05 10:46:55,343          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-vespera-da-prescricao-serra-vira-reu-acusado-de-caixa-2-corrupcao-e-lavagem-de-dinheiro.shtml
+2020-11-05 10:46:55,348          root     INFO: Replying to: 1324181416318480386
+2020-11-05 10:46:55,597          root     INFO: Id to store: 1324302166446772225
+2020-11-05 10:46:55,602          root     INFO: <del>Faltando</del> <ins>A</ins> um dia <del>para a</del> <ins>da</ins> prescrição do processo, o senador José Serra (PSDB-SP) virou réu na Justiça Eleitoral de São Paulo, nesta quarta (4), acusado de receber R$ 5 milhões em caixa dois na campanha de 2014. Leia mais (11/04/2020 - 23h17)
+2020-11-05 10:46:57,327          root     INFO: Media ready with ids: 1324302172880863238
+2020-11-05 10:46:57,328          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 10:46:57,328          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-vespera-da-prescricao-serra-vira-reu-acusado-de-caixa-2-corrupcao-e-lavagem-de-dinheiro.shtml
+2020-11-05 10:46:57,332          root     INFO: Replying to: 1324302166446772225
+2020-11-05 10:46:57,559          root     INFO: Id to store: 1324302174655045632
+2020-11-05 10:46:57,863          root     INFO: Ex-assessora de Flávio Bolsonaro admite 'rachadinha' e entrega de dinheiro <del>a</del> <ins>para</ins> Queiroz
+2020-11-05 10:46:59,617          root     INFO: Media ready with ids: 1324302182875832321
+2020-11-05 10:46:59,618          root     INFO: Text to tweet: Modificação do Título
+2020-11-05 10:46:59,618          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-assessora-de-flavio-bolsonaro-admite-rachadinha-e-entrega-de-dinheiro-a-queiroz.shtml
+2020-11-05 10:46:59,623          root     INFO: Replying to: 1324160633944887297
+2020-11-05 10:46:59,845          root     INFO: Id to store: 1324302184255807496
+2020-11-05 10:46:59,851          root     INFO: Uma ex-assessora do senador Flávio Bolsonaro (Republicanos-RJ) na Assembleia Legislativa do Rio de Janeiro <del>admitiu</del> <ins>confessou</ins> ao Ministério Público ter devolvido a maior parte de seu salário para o policial militar aposentado Fabrício Queiroz, apontado como operador do esquema <del>da</del> <ins>de</ins> "rachadinha" <del>comandado pelo filho</del> <ins>no gabinete</ins> do <del>presidente</del> <ins>filho de</ins> Jair Bolsonaro. Leia mais (11/04/2020 - 12h28)
+2020-11-05 10:47:01,627          root     INFO: Media ready with ids: 1324302190991855616
+2020-11-05 10:47:01,627          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 10:47:01,628          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-assessora-de-flavio-bolsonaro-admite-rachadinha-e-entrega-de-dinheiro-a-queiroz.shtml
+2020-11-05 10:47:01,633          root     INFO: Replying to: 1324302184255807496
+2020-11-05 10:47:01,870          root     INFO: Id to store: 1324302192602451972
+2020-11-05 10:47:04,520          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/pelo-menos-cinco-estados-relacionam-mais-casos-de-covid-19-com-campanha-eleitoral.shtml
+2020-11-05 10:47:04,522          root     INFO: Finished script
