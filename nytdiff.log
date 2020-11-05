@@ -1,6 +1,31 @@
-2020-11-05 19:26:48,044          root     INFO: Starting script
-2020-11-05 19:26:48,885          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-05 19:26:49,561          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-05 19:26:50,238          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-05 19:26:50,330          root     INFO: Parsing R7 - Brasil
-2020-11-05 19:26:54,320          root     INFO: Finished script
+2020-11-05 19:46:44,015          root     INFO: Starting script
+2020-11-05 19:46:44,820          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-05 19:46:45,467          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-05 19:46:46,114          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-05 19:46:46,278          root     INFO: Parsing R7 - Brasil
+2020-11-05 19:46:47,856          root     INFO: Ataque hacker paralisa <del>STJ,</del> <ins>STJ ao menos até segunda (9),</ins> e PF investiga criptografia de processos
+2020-11-05 19:46:49,586          root     INFO: Media ready with ids: 1324438036231430146
+2020-11-05 19:46:49,587          root     INFO: Text to tweet: Modificação do Título
+2020-11-05 19:46:49,587          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ataque-hacker-paralisa-stj-e-pf-investiga-criptografia-de-processos.shtml
+2020-11-05 19:46:49,593          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ataque-hacker-paralisa-stj-e-pf-investiga-criptografia-de-processos.shtml
+2020-11-05 19:46:49,814          root     INFO: Replying to: 1324438037728759809
+2020-11-05 19:46:50,071          root     INFO: Id to store: 1324438038597033985
+2020-11-05 19:46:50,074          root     INFO: Ministros e servidores do STJ (Superior Tribunal de Justiça) estão há 48 horas sem acesso a processos digitalizados, <del>e-mails</del> <ins>emails</ins> e outros sistemas internos, após a rede interna da Corte sair do ar na tarde da terça-feira (3). O tribunal afirma ter sido alvo de invasão hacker. Leia mais (11/05/2020 - 16h08)
+2020-11-05 19:46:51,908          root     INFO: Media ready with ids: 1324438045521780736
+2020-11-05 19:46:51,909          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 19:46:51,909          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ataque-hacker-paralisa-stj-e-pf-investiga-criptografia-de-processos.shtml
+2020-11-05 19:46:51,917          root     INFO: Replying to: 1324438038597033985
+2020-11-05 19:46:52,155          root     INFO: Id to store: 1324438047409274885
+2020-11-05 19:46:52,281          root     INFO: <del>Candidato à Prefeitura do Rio, Eduardo</del> <ins>'Não me ancoro em nenhuma candidatura presidencial', diz</ins> Paes <del>participa da</del> <ins>durante</ins> sabatina <del>da</del> Folha/UOL
+2020-11-05 19:46:54,025          root     INFO: Media ready with ids: 1324438054577278978
+2020-11-05 19:46:54,025          root     INFO: Text to tweet: Modificação do Título
+2020-11-05 19:46:54,026          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-eduardo-paes-participa-da-sabatina-da-folhauol.shtml
+2020-11-05 19:46:54,030          root     INFO: Replying to: 1324431285184614402
+2020-11-05 19:46:54,295          root     INFO: Id to store: 1324438056267665412
+2020-11-05 19:46:54,301          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta quinta-feira (5) Bruno Covas, candidato pelo PSDB à Prefeitura de São Paulo, e</del> Eduardo Paes, candidato <del>pelo DEM</del> à Prefeitura do Rio de <ins>Janeiro pelo Democratas, afirma que não vai pedir apoio a ninguém em um possível segundo turno. "Eu acho que essa é uma discussão sobre a cidade do Rio de</ins> Janeiro. <ins>Eu não me ancoro em nenhuma candidatura presidencial. Aqui no Rio nós temos a candidata do Ciro, a candidata do Lula, o candidato do Bolsonaro, o candidato da Marina, e tem o candidato do Rio que sou eu", afirmou, em sabatina feita pela Folha, em parceria com o UOL.</ins> Leia mais (11/05/2020 - 10h18)
+2020-11-05 19:46:56,096          root     INFO: Media ready with ids: 1324438063251181569
+2020-11-05 19:46:56,096          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 19:46:56,097          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-eduardo-paes-participa-da-sabatina-da-folhauol.shtml
+2020-11-05 19:46:56,101          root     INFO: Replying to: 1324438056267665412
+2020-11-05 19:46:56,348          root     INFO: Id to store: 1324438064991768576
+2020-11-05 19:46:58,973          root     INFO: Finished script
