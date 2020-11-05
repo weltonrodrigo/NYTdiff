@@ -1,10 +1,19 @@
-2020-11-05 19:14:35,113          root     INFO: Starting script
-2020-11-05 19:14:36,015          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-05 19:14:36,705          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-05 19:14:37,377          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-05 19:14:37,664          root     INFO: Parsing R7 - Brasil
-2020-11-05 19:14:39,257          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/tse-reforca-seguranca-de-sistema-interno-apos-ataque-hacker-no-stj.shtml
-2020-11-05 19:14:39,269          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ataque-hacker-paralisa-stj-e-pf-investiga-criptografia-de-processos.shtml
-2020-11-05 19:14:42,006          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/11/a-constituinte-do-centrao.shtml
-2020-11-05 19:14:42,010          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-e-alvo-de-acoes-de-improbidade-que-miram-suspeitas-em-licitacoes-de-carnaval-e-zona-azul.shtml
-2020-11-05 19:14:42,015          root     INFO: Finished script
+2020-11-05 19:19:51,283          root     INFO: Starting script
+2020-11-05 19:19:52,115          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-05 19:19:52,794          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-05 19:19:53,476          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-05 19:19:53,751          root     INFO: Parsing R7 - Brasil
+2020-11-05 19:19:55,668          root     INFO: <del>Candidato à Prefeitura do Rio, Eduardo</del> <ins>"Não me ancoro em nenhuma candidatura presidencial", diz</ins> Paes <del>participa da</del> <ins>durante</ins> sabatina <del>da</del> Folha/UOL
+2020-11-05 19:19:57,391          root     INFO: Media ready with ids: 1324431274128396290
+2020-11-05 19:19:57,392          root     INFO: Text to tweet: Modificação do Título
+2020-11-05 19:19:57,392          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-eduardo-paes-participa-da-sabatina-da-folhauol.shtml
+2020-11-05 19:19:57,398          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-eduardo-paes-participa-da-sabatina-da-folhauol.shtml
+2020-11-05 19:19:57,573          root     INFO: Replying to: 1324431275566993408
+2020-11-05 19:19:57,836          root     INFO: Id to store: 1324431276372361218
+2020-11-05 19:19:57,841          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta quinta-feira (5) Bruno Covas, candidato pelo PSDB à Prefeitura de São Paulo, e</del> Eduardo Paes, candidato <del>pelo DEM</del> à Prefeitura do Rio de <ins>Janeiro pelo Democratas, afirma que não vai pedir apoio a ninguém em um possível segundo turno. "Eu acho que essa é uma discussão sobre a cidade do Rio de</ins> Janeiro. <ins>Eu não me ancoro em nenhuma candidatura presidencial. Aqui no Rio nós temos a candidata do Ciro, a candidata do Lula, o candidato do Bolsonaro, o candidato da Marina, e tem o candidato do Rio que sou eu", afirmou, em sabatina feita pela Folha, em parceria com o UOL.</ins> Leia mais (11/05/2020 - 10h18)
+2020-11-05 19:19:59,690          root     INFO: Media ready with ids: 1324431283422941184
+2020-11-05 19:19:59,691          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 19:19:59,691          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-eduardo-paes-participa-da-sabatina-da-folhauol.shtml
+2020-11-05 19:19:59,697          root     INFO: Replying to: 1324431276372361218
+2020-11-05 19:19:59,936          root     INFO: Id to store: 1324431285184614402
+2020-11-05 19:20:02,947          root     INFO: Finished script
