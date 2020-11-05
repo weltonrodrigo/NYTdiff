@@ -1,38 +1,13 @@
-2020-11-05 23:28:15,289          root     INFO: Starting script
-2020-11-05 23:28:16,226          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-05 23:28:16,880          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-05 23:28:17,551          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-05 23:28:17,756          root     INFO: Parsing R7 - Brasil
-2020-11-05 23:28:19,832          root     INFO: Ataque hacker paralisa <del>STJ,</del> <ins>STJ ao menos até segunda (9),</ins> e PF investiga criptografia de processos
-2020-11-05 23:28:21,636          root     INFO: Media ready with ids: 1324493787058626560
-2020-11-05 23:28:21,636          root     INFO: Text to tweet: Modificação do Título
-2020-11-05 23:28:21,637          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ataque-hacker-paralisa-stj-e-pf-investiga-criptografia-de-processos.shtml
-2020-11-05 23:28:21,641          root     INFO: Replying to: 1324438047409274885
-2020-11-05 23:28:21,888          root     INFO: Id to store: 1324493788597886977
-2020-11-05 23:28:21,896          root     INFO: Ministros e servidores do STJ (Superior Tribunal de Justiça) estão há 48 horas sem acesso a processos digitalizados, <del>e-mails</del> <ins>emails</ins> e outros sistemas internos, após a rede interna da <del>Corte</del> <ins>corte</ins> sair do ar na tarde da terça-feira (3). O tribunal afirma ter sido alvo de invasão hacker. Leia mais (11/05/2020 - 16h08)
-2020-11-05 23:28:23,602          root     INFO: Media ready with ids: 1324493795170439175
-2020-11-05 23:28:23,603          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-05 23:28:23,603          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ataque-hacker-paralisa-stj-e-pf-investiga-criptografia-de-processos.shtml
-2020-11-05 23:28:23,607          root     INFO: Replying to: 1324493788597886977
-2020-11-05 23:28:23,942          root     INFO: Id to store: 1324493796806139904
-2020-11-05 23:28:26,825          root     INFO: Removed http://noticias.r7.com/brasil/videos/veja-imagens-da-operacao-404-que-combate-pirataria-online-05112020
-2020-11-05 23:28:26,828          root     INFO: Removed http://noticias.r7.com/brasil/stf-nega-pedido-de-lula-sobre-acordo-da-petrobras-nos-eua-05112020
-2020-11-05 23:28:26,831          root     INFO: Removed http://noticias.r7.com/brasil/justica-determina-que-ex-presidente-da-petros-continue-com-tornozeleira-05112020
-2020-11-05 23:28:26,833          root     INFO: Removed http://noticias.r7.com/brasil/apagao-eletrico-em-15-cidades-do-amapa-mobiliza-senadores-05112020
-2020-11-05 23:28:26,836          root     INFO: Removed http://noticias.r7.com/brasil/brasil-tem-mais-de-3-mil-especies-ameacadas-de-extincao-afirma-ibge-05112020
-2020-11-05 23:28:26,838          root     INFO: Removed http://noticias.r7.com/brasil/ministro-libera-para-julgamento-acao-sobre-chapa-bolsonaro-mourao-05112020
-2020-11-05 23:28:26,841          root     INFO: Removed http://noticias.r7.com/brasil/falta-de-teto-impede-aterrissagem-de-aviao-de-bolsonaro-no-nordeste-05112020
-2020-11-05 23:28:26,844          root     INFO: Removed http://noticias.r7.com/brasil/pf-desarticula-grupo-envolvido-com-trafico-de-drogas-em-pernambuco-05112020
-2020-11-05 23:28:26,847          root     INFO: Removed http://noticias.r7.com/brasil/apos-seis-dias-na-uti-joao-de-deus-recebe-alta-medica-05112020
-2020-11-05 23:28:26,850          root     INFO: Removed http://noticias.r7.com/brasil/desoneracao-da-folha-garante-seguranca-juridica-dizem-empresas-05112020
-2020-11-05 23:28:26,853          root     INFO: Removed http://noticias.r7.com/brasil/a-preocupacao-com-a-saude-mental-de-professores-e-alunos-e-tema-do-estudio-news-deste-sabado-07-05112020
-2020-11-05 23:28:26,855          root     INFO: Removed http://noticias.r7.com/brasil/kassio-marques-e-empossado-no-cargo-de-ministro-do-stf-05112020
-2020-11-05 23:28:26,858          root     INFO: Removed http://noticias.r7.com/brasil/estupro-culposo-nao-existe-diz-weintraub-sobre-caso-mari-ferrer-05112020
-2020-11-05 23:28:26,861          root     INFO: Removed http://noticias.r7.com/brasil/tribunal-decide-se-prossegue-com-processo-de-impeachment-de-witzel-05112020
-2020-11-05 23:28:26,864          root     INFO: Removed http://noticias.r7.com/brasil/governo-do-df-tira-sistemas-online-do-ar-apos-acao-de-hackers-05112020
-2020-11-05 23:28:26,866          root     INFO: Removed http://noticias.r7.com/brasil/servidores-querem-ter-a-opcao-de-trabalho-remoto-diz-pesquisa-05112020
-2020-11-05 23:28:26,869          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-defende-voto-consciente-um-vereador-importa-sim-05112020
-2020-11-05 23:28:26,872          root     INFO: Removed http://noticias.r7.com/brasil/juiz-nega-pedido-para-proibir-impressao-das-notas-de-r-200-05112020
-2020-11-05 23:28:26,874          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-saude-desativa-rede-apos-suspeita-de-ataque-hacker-05112020
-2020-11-05 23:28:26,877          root     INFO: Removed http://noticias.r7.com/brasil/brasil-abriga-117-mil-especies-de-animais-e-quase-50-mil-plantas-05112020
-2020-11-05 23:28:26,878          root     INFO: Finished script
+2020-11-05 23:46:47,573          root     INFO: Starting script
+2020-11-05 23:46:48,748          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-05 23:46:49,425          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-05 23:46:50,099          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-05 23:46:50,317          root     INFO: Parsing R7 - Brasil
+2020-11-05 23:46:52,120          root     INFO: ?A última escola particular da cidade de Licínio de Almeida <del>(674</del> <ins>(a 674</ins> km de Salvador) fechou as portas no início do ano letivo de 2014. Não foi por crise financeira nem por questionamentos sobre a qualidade do ensino: simplesmente não houve demanda. Leia mais (11/05/2020 - 12h15)
+2020-11-05 23:46:53,929          root     INFO: Media ready with ids: 1324498452143874048
+2020-11-05 23:46:53,930          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 23:46:53,930          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apesar-de-poucos-recursos-pequenas-e-medias-cidades-emplacam-acoes-de-destaque.shtml
+2020-11-05 23:46:53,936          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apesar-de-poucos-recursos-pequenas-e-medias-cidades-emplacam-acoes-de-destaque.shtml
+2020-11-05 23:46:54,105          root     INFO: Replying to: 1324498453746061313
+2020-11-05 23:46:54,350          root     INFO: Id to store: 1324498454547234817
+2020-11-05 23:46:56,878          root     INFO: Finished script
