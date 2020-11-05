@@ -1,26 +1,29 @@
-2020-11-05 02:26:54,671          root     INFO: Starting script
-2020-11-05 02:26:55,646          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-05 02:26:56,294          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-05 02:26:56,953          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-05 02:26:57,251          root     INFO: Parsing R7 - Brasil
-2020-11-05 02:26:57,503          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/solange-srour/2020/11/a-onda-da-estagnacao-secular.shtml
-2020-11-05 02:26:57,555          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/avanco-americano.shtml
-2020-11-05 02:26:57,565          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/a-dura-realidade-e-a-bolha-das-corporacoes.shtml
-2020-11-05 02:26:57,575          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/contardocalligaris/2020/11/agnese-beatrice-e-parisina-foram-decapitadas-por-terem-desejos.shtml
-2020-11-05 02:26:57,584          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/impasse-presidente-fraco-e-alucinogenos-animam-donos-do-dinheiro-nos-eua.shtml
-2020-11-05 02:26:57,592          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josimarmelo/2020/11/voo-para-lugar-nenhum.shtml
-2020-11-05 02:26:57,602          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2020/11/debates-eleitorais-sao-cancelados-e-so-lideres-em-pesquisas-nao-lamentam.shtml
-2020-11-05 02:26:57,612          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/quem-vai-pagar-a-conta.shtml
-2020-11-05 02:26:57,621          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2020/11/enquadrar-desculpa-esfarrapada-como-estupro-culposo-e-machismo-doloso.shtml
-2020-11-05 02:26:58,812          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-vespera-da-prescricao-serra-vira-reu-acusado-de-caixa-2-corrupcao-e-lavagem-de-dinheiro.shtml
-2020-11-05 02:27:01,536          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/10/chegada-de-tecnicos-estrangeiros-tem-de-ser-revolucao-nao-modismo.shtml
-2020-11-05 02:27:01,540          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2020/10/carmen-maura-assusta-como-matriarca-em-alguem-tem-que-morrer.shtml
-2020-11-05 02:27:01,545          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2020/10/ministerio-publico-pede-o-bloqueio-dos-bens-de-dono-da-itapemirim.shtml
-2020-11-05 02:27:01,548          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2020/10/outubro-registra-nova-alta-na-venda-de-automoveis-e-confirma-retomada.shtml
-2020-11-05 02:27:01,551          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/em-queda-russomanno-amplia-elo-com-bolsonaristas-para-driblar-vazio-partidario.shtml
-2020-11-05 02:27:01,553          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/10/je-suis-samuel-paty.shtml
-2020-11-05 02:27:01,556          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/cruzadas-antiaborto.shtml
-2020-11-05 02:27:01,558          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2020/10/engels-ganha-biografia-em-ano-de-seu-bicentenario-e-o-parceiro-marx-nao-fica-atras.shtml
-2020-11-05 02:27:01,562          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/sua-majestade-a-mobilidade-ativa.shtml
-2020-11-05 02:27:01,565          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2020/10/governo-repete-receita-magica-fadada-a-frustrar-investidores.shtml
-2020-11-05 02:27:01,566          root     INFO: Finished script
+2020-11-05 02:47:00,031          root     INFO: Starting script
+2020-11-05 02:47:00,963          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-05 02:47:01,603          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-05 02:47:02,240          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-05 02:47:02,647          root     INFO: Parsing R7 - Brasil
+2020-11-05 02:47:02,918          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2020/11/a-velhofobia-esta-dentro-de-mim.shtml
+2020-11-05 02:47:02,968          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2020/11/reacionarios-x-progressistas.shtml
+2020-11-05 02:47:02,974          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/confissao-amplia-mapa-da-rachadinha-no-gabinete-de-flavio-bolsonaro.shtml
+2020-11-05 02:47:04,059          root     INFO: Na véspera da prescrição, <del>Serrá</del> <ins>Serra</ins> vira réu acusado de caixa 2, corrupção e lavagem de dinheiro
+2020-11-05 02:47:06,086          root     INFO: Media ready with ids: 1324181413856530433
+2020-11-05 02:47:06,086          root     INFO: Text to tweet: Modificação do Título
+2020-11-05 02:47:06,086          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-vespera-da-prescricao-serra-vira-reu-acusado-de-caixa-2-corrupcao-e-lavagem-de-dinheiro.shtml
+2020-11-05 02:47:06,092          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-vespera-da-prescricao-serra-vira-reu-acusado-de-caixa-2-corrupcao-e-lavagem-de-dinheiro.shtml
+2020-11-05 02:47:06,304          root     INFO: Replying to: 1324181415404199937
+2020-11-05 02:47:06,534          root     INFO: Id to store: 1324181416318480386
+2020-11-05 02:47:06,545          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/eleicao-nos-eua-mobiliza-partidos-e-judiciario-para-evitar-tensao-no-brasil-em-2022.shtml
+2020-11-05 02:47:06,553          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/apos-bronca-de-bolsonaro-prf-omite-coronavirus-de-nota-que-lamenta-morte-de-agente.shtml
+2020-11-05 02:47:06,563          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/confissao-amplia-mapa-da-rachadinha-no-gabinete-de-flavio-bolsonaro.shtml
+2020-11-05 02:47:06,570          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2020/11/a-sombra-do-populismo.shtml
+2020-11-05 02:47:06,673          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/lideres-do-governo-votaram-por-manter-veto-de-bolsonaro-que-eles-articularam-para-derrubar.shtml
+2020-11-05 02:47:08,864          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/a-vacina-contra-a-covid-19-deve-ser-obrigatoria-sim.shtml
+2020-11-05 02:47:08,867          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/com-o-pt-a-pao-e-agua-nas-pesquisas-lula-caiu-na-real.shtml
+2020-11-05 02:47:08,869          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/a-vacina-contra-a-covid-19-deve-ser-obrigatoria-nao.shtml
+2020-11-05 02:47:08,871          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/10/seis-capitais-caminham-para-definicao-de-eleicao-ja-no-primeiro-turno-apontam-pesquisas.shtml
+2020-11-05 02:47:08,874          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/pf-vai-ter-museu-em-predio-que-deve-ser-inaugurado-em-fevereiro-de-2021.shtml
+2020-11-05 02:47:08,876          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2020/10/firmeza-de-mourao-nao-e-a-de-opiniao-pessoal.shtml
+2020-11-05 02:47:08,878          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/10/a-privataria-da-saude-nao-toma-jeito.shtml
+2020-11-05 02:47:08,881          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2020/10/os-eua-e-a-guerra-civil-fria.shtml
+2020-11-05 02:47:08,881          root     INFO: Finished script
