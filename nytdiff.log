@@ -1,13 +1,32 @@
-2020-11-05 17:28:23,719          root     INFO: Starting script
-2020-11-05 17:28:24,597          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-05 17:28:25,277          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-05 17:28:25,967          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-05 17:28:26,370          root     INFO: Parsing R7 - Brasil
-2020-11-05 17:28:28,048          root     INFO: Tribunal misto aceita denúncia <ins>contra Witzel</ins> e segue com processo de impeachment <del>de Witzel</del>
-2020-11-05 17:28:29,838          root     INFO: Media ready with ids: 1324403224326135808
-2020-11-05 17:28:29,839          root     INFO: Text to tweet: Modificação do Título
-2020-11-05 17:28:29,839          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tribunal-misto-aceita-denuncia-e-da-prosseguimento-ao-impeachment-de-witzel.shtml
-2020-11-05 17:28:29,845          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tribunal-misto-aceita-denuncia-e-da-prosseguimento-ao-impeachment-de-witzel.shtml
-2020-11-05 17:28:30,011          root     INFO: Replying to: 1324403225878028292
-2020-11-05 17:28:30,232          root     INFO: Id to store: 1324403226578505731
-2020-11-05 17:28:33,064          root     INFO: Finished script
+2020-11-05 17:46:53,575          root     INFO: Starting script
+2020-11-05 17:46:54,420          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-05 17:46:55,084          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-05 17:46:55,762          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-05 17:46:56,012          root     INFO: Parsing R7 - Brasil
+2020-11-05 17:46:57,646          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48463
+2020-11-05 17:46:57,685          root     INFO: Tribunal misto aceita denúncia <ins>contra Witzel</ins> e segue com processo de impeachment <del>de Witzel</del>
+2020-11-05 17:46:59,477          root     INFO: Media ready with ids: 1324407878288027648
+2020-11-05 17:46:59,478          root     INFO: Text to tweet: Modificação do Título
+2020-11-05 17:46:59,478          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tribunal-misto-aceita-denuncia-e-da-prosseguimento-ao-impeachment-de-witzel.shtml
+2020-11-05 17:46:59,484          root     INFO: Replying to: 1324403226578505731
+2020-11-05 17:46:59,704          root     INFO: Id to store: 1324407880074878976
+2020-11-05 17:46:59,709          root     INFO: O tribunal misto formado para definir o impeachment de Wilson Witzel (PSC) aceitou nesta quinta-feira (5) <ins>por unanimidade</ins> a denúncia por crime de responsabilidade e deu prosseguimento ao processo de afastamento definitivo do governador. Leia mais (11/05/2020 - 12h47)
+2020-11-05 17:47:01,455          root     INFO: Media ready with ids: 1324407886550806531
+2020-11-05 17:47:01,456          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 17:47:01,456          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tribunal-misto-aceita-denuncia-e-da-prosseguimento-ao-impeachment-de-witzel.shtml
+2020-11-05 17:47:01,461          root     INFO: Replying to: 1324407880074878976
+2020-11-05 17:47:01,684          root     INFO: Id to store: 1324407888375414784
+2020-11-05 17:47:01,718          root     INFO: Câmara confirma cassação de <del>Wilson Santiago,</del> <ins>Manuel Marcos,</ins> condenado por uso indevido do fundo partidário
+2020-11-05 17:47:03,415          root     INFO: Media ready with ids: 1324407894905937920
+2020-11-05 17:47:03,416          root     INFO: Text to tweet: Modificação do Título
+2020-11-05 17:47:03,416          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/camara-confirma-cassacao-de-wilson-santiago-condenado-por-uso-indevido-do-fundo-partidario.shtml
+2020-11-05 17:47:03,421          root     INFO: Replying to: 1324390276799102976
+2020-11-05 17:47:03,634          root     INFO: Id to store: 1324407896533311488
+2020-11-05 17:47:03,638          root     INFO: A Câmara confirmou nesta quinta-feira (5) decisão judicial de cassar o mandato do deputado Manuel Marcos (Republicanos-AC), condenado por <del>usar indevidamente</del> <ins>compra de votos nas eleições de 2018 e uso indevido do</ins> dinheiro dos fundos partidário e de financiamento de <del>campanha e por compra de votos nas eleições de 2018.</del> <ins>campanha.</ins> Leia mais (11/05/2020 - 12h34)
+2020-11-05 17:47:05,402          root     INFO: Media ready with ids: 1324407903105765377
+2020-11-05 17:47:05,403          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 17:47:05,403          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/camara-confirma-cassacao-de-wilson-santiago-condenado-por-uso-indevido-do-fundo-partidario.shtml
+2020-11-05 17:47:05,409          root     INFO: Replying to: 1324407896533311488
+2020-11-05 17:47:05,651          root     INFO: Id to store: 1324407904984858624
+2020-11-05 17:47:08,410          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/11/o-mito-das-instituicoes-perfeitas.shtml
+2020-11-05 17:47:08,411          root     INFO: Finished script
