@@ -1,24 +1,27 @@
-2020-11-05 02:58:04,259          root     INFO: Starting script
-2020-11-05 02:58:05,139          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-05 02:58:05,823          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-05 02:58:06,524          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-05 02:58:06,680          root     INFO: Parsing R7 - Brasil
-2020-11-05 02:58:06,955          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2020/11/a-consistencia-da-incoerencia.shtml
-2020-11-05 02:58:08,395          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2020/11/a-consistencia-da-incoerencia.shtml
-2020-11-05 02:58:08,459          root     INFO: A Justiça Eleitoral multou em R$ 10 mil a campanha do candidato à Prefeitura de São Paulo Arthur do Val (Patriota) por ter contratado impulsionamento de propaganda negativa sobre o adversário Jilmar Tatto (PT). A peça divulgada sobre o concorrente diz <del>“parece</del> <ins>"parece</ins> piada, mas é a proposta do <del>PT”.</del> <ins>PT".</ins> Leia mais (11/04/2020 - 23h15)
-2020-11-05 02:58:10,323          root     INFO: Media ready with ids: 1324184199516037120
-2020-11-05 02:58:10,323          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-05 02:58:10,324          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-multa-em-r-10-mil-campanha-de-arthur-do-val-por-impulsionar-campanha-negativa-contra-tatto.shtml
-2020-11-05 02:58:10,331          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-multa-em-r-10-mil-campanha-de-arthur-do-val-por-impulsionar-campanha-negativa-contra-tatto.shtml
-2020-11-05 02:58:10,500          root     INFO: Replying to: 1324184201369968642
-2020-11-05 02:58:10,743          root     INFO: Id to store: 1324184202032619520
-2020-11-05 02:58:10,826          root     INFO: O ministro Fábio Faria (Comunicações) viajou a reduto eleitoral de Ciro Nogueira (PP-PI) para entrega de pontos de wi-fi em praças e escolas públicas. O senador virou um dos principais aliados de Jair Bolsonaro desde que teve início a aproximação com o centrão. Nas redes sociais, o parlamentar usa o lema <del>“Piauí</del> <ins>"Piauí</ins> acima de <del>tudo”.</del> <ins>tudo".</ins> Leia mais (11/04/2020 - 23h15)
-2020-11-05 02:58:12,571          root     INFO: Media ready with ids: 1324184209188130816
-2020-11-05 02:58:12,572          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-05 02:58:12,572          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/ministro-da-comunicacoes-entrega-internet-em-reduto-eleitoral-de-senador-do-centrao.shtml
-2020-11-05 02:58:12,577          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/ministro-da-comunicacoes-entrega-internet-em-reduto-eleitoral-de-senador-do-centrao.shtml
-2020-11-05 02:58:12,743          root     INFO: Replying to: 1324184210760994816
-2020-11-05 02:58:12,971          root     INFO: Id to store: 1324184211436326913
-2020-11-05 02:58:15,768          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/10/empresas-de-transportes-comemoram-licenca-de-senador-do-dinheiro-da-cueca.shtml
-2020-11-05 02:58:15,770          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/10/banco-central.shtml
-2020-11-05 02:58:15,771          root     INFO: Finished script
+2020-11-05 03:17:07,970          root     INFO: Starting script
+2020-11-05 03:17:08,768          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-05 03:17:09,409          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-05 03:17:10,062          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-05 03:17:10,233          root     INFO: Parsing R7 - Brasil
+2020-11-05 03:17:10,509          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandre-schneider/2020/11/ensino-hibrido-nao-e-so-a-juncao-de-aulas-presenciais-e-remotas.shtml
+2020-11-05 03:17:11,763          root     INFO: Justiça multa em R$ 10 mil campanha de Arthur do Val por impulsionar <del>campanha</del> <ins>ação</ins> negativa contra Tatto
+2020-11-05 03:17:13,497          root     INFO: Media ready with ids: 1324188994863845377
+2020-11-05 03:17:13,498          root     INFO: Text to tweet: Modificação do Título
+2020-11-05 03:17:13,498          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-multa-em-r-10-mil-campanha-de-arthur-do-val-por-impulsionar-campanha-negativa-contra-tatto.shtml
+2020-11-05 03:17:13,503          root     INFO: Replying to: 1324184202032619520
+2020-11-05 03:17:13,742          root     INFO: Id to store: 1324188996323450880
+2020-11-05 03:17:13,746          root     INFO: A Justiça Eleitoral multou em R$ 10 mil a campanha do candidato à Prefeitura de São Paulo Arthur do Val (Patriota) por ter contratado impulsionamento de propaganda negativa sobre o adversário Jilmar Tatto (PT). A peça divulgada sobre o concorrente diz <del>“parece</del> <ins>"parece</ins> piada, mas é a proposta do <del>PT”.</del> <ins>PT".</ins> Leia mais (11/04/2020 - 23h15)
+2020-11-05 03:17:15,533          root     INFO: Media ready with ids: 1324189003109830658
+2020-11-05 03:17:15,533          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 03:17:15,533          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-multa-em-r-10-mil-campanha-de-arthur-do-val-por-impulsionar-campanha-negativa-contra-tatto.shtml
+2020-11-05 03:17:15,538          root     INFO: Replying to: 1324188996323450880
+2020-11-05 03:17:15,776          root     INFO: Id to store: 1324189004699439105
+2020-11-05 03:17:15,860          root     INFO: <del>"Os</del> <ins>“Os</ins> cidadãos são racionais em sua visão das instituições políticas, atualizando sua avaliação em resposta ao que <del>observam",</del> <ins>observam”,</ins> diz relatório recém-lançado da Universidade de Cambridge sobre a percepção da democracia. Leia mais (11/04/2020 - 23h15)
+2020-11-05 03:17:17,531          root     INFO: Media ready with ids: 1324189011678797825
+2020-11-05 03:17:17,531          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-05 03:17:17,531          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-schuler/2020/11/e-possivel-melhorar-a-qualidade-do-debate-publico-e-da-democracia.shtml
+2020-11-05 03:17:17,536          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-schuler/2020/11/e-possivel-melhorar-a-qualidade-do-debate-publico-e-da-democracia.shtml
+2020-11-05 03:17:17,719          root     INFO: Replying to: 1324189013192957956
+2020-11-05 03:17:17,931          root     INFO: Id to store: 1324189013880807424
+2020-11-05 03:17:20,322          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/bandeira-branca.shtml
+2020-11-05 03:17:20,323          root     INFO: Finished script
