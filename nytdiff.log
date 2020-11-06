@@ -1,6 +1,21 @@
-2020-11-06 13:57:53,870          root     INFO: Starting script
-2020-11-06 13:57:54,742          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-06 13:57:55,427          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-06 13:57:56,103          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-06 13:57:56,250          root     INFO: Parsing R7 - Brasil
-2020-11-06 13:58:00,229          root     INFO: Finished script
+2020-11-06 14:18:17,281          root     INFO: Starting script
+2020-11-06 14:18:18,110          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-06 14:18:18,776          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-06 14:18:19,443          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-06 14:18:19,602          root     INFO: Parsing R7 - Brasil
+2020-11-06 14:18:21,465          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/exclusivo-lista-do-tcu-tem-politicos-milionarios-que-receberam-auxilio-emergencial-veja.shtml
+2020-11-06 14:18:21,530          root     INFO: <del>Candidatos Celso Russomanno, de SP, e Paulo Messina, do Rio, participam da</del> <ins>Russomanno defende elo com Bolsonaro em</ins> sabatina Folha/UOL <ins>e diz ter convicção que irá ao 2º turno</ins>
+2020-11-06 14:18:23,313          root     INFO: Media ready with ids: 1324717769666011136
+2020-11-06 14:18:23,314          root     INFO: Text to tweet: Modificação do Título
+2020-11-06 14:18:23,319          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatos-celso-russomanno-de-sp-e-paulo-messina-do-rio-participam-da-sabatina-folhauol.shtml
+2020-11-06 14:18:23,327          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatos-celso-russomanno-de-sp-e-paulo-messina-do-rio-participam-da-sabatina-folhauol.shtml
+2020-11-06 14:18:23,535          root     INFO: Replying to: 1324717771507355650
+2020-11-06 14:18:23,799          root     INFO: Id to store: 1324717772325212160
+2020-11-06 14:18:23,803          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta sexta-feira (6)</del> Celso <del>Russomanno, candidato pelo Republicanos à Prefeitura</del> <ins>Russomanno (Republicanos) afirmou em sabatina Folha/UOL ter a certeza</ins> de <del>São Paulo,</del> <ins>que irá ao segundo turno da eleição. Pesquisa Datafolha divulgada nesta quinta (5), mostra um empate técnico entre ele, Guilherme Boulos (PSOL)</ins> e <del>Paulo Messina, candidato pelo MDB à Prefeitura do Rio de Janeiro.</del> <ins>Márcio França (PSB) no segundo lugar.</ins> Leia mais (11/06/2020 - 07h00)
+2020-11-06 14:18:25,547          root     INFO: Media ready with ids: 1324717779090550788
+2020-11-06 14:18:25,548          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-06 14:18:25,548          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatos-celso-russomanno-de-sp-e-paulo-messina-do-rio-participam-da-sabatina-folhauol.shtml
+2020-11-06 14:18:25,553          root     INFO: Replying to: 1324717772325212160
+2020-11-06 14:18:25,817          root     INFO: Id to store: 1324717780839682049
+2020-11-06 14:18:28,665          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/governadores-se-reunem-com-maia-para-falar-de-vacina-contra-coronavirus.shtml
+2020-11-06 14:18:28,666          root     INFO: Finished script
