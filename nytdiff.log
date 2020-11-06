@@ -1,6 +1,31 @@
-2020-11-06 01:57:47,940          root     INFO: Starting script
-2020-11-06 01:57:49,055          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-06 01:57:49,897          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-06 01:57:50,739          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-06 01:57:51,018          root     INFO: Parsing R7 - Brasil
-2020-11-06 01:57:55,970          root     INFO: Finished script
+2020-11-06 02:20:20,348          root     INFO: Starting script
+2020-11-06 02:20:21,184          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-06 02:20:21,862          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-06 02:20:22,529          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-06 02:20:22,708          root     INFO: Parsing R7 - Brasil
+2020-11-06 02:20:23,193          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2020/11/e-preciso-ir-alem-do-repudio-moral-ao-estupro-ou-ficaremos-refens-da-gritaria.shtml
+2020-11-06 02:20:23,203          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/bolsonaro-vai-enfrentar-furacao-de-problemas-quando-voltar-das-ferias.shtml
+2020-11-06 02:20:23,212          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2020/11/diplomacia-da-vacina.shtml
+2020-11-06 02:20:23,246          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/baixa-bolsonarista.shtml
+2020-11-06 02:20:23,255          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/stf-congestionado.shtml
+2020-11-06 02:20:23,262          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/o-premio-nobel-da-paz-em-suas-maos.shtml
+2020-11-06 02:20:23,271          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2020/11/a-prevencao-da-fragilidade-no-idoso.shtml
+2020-11-06 02:20:23,279          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/11/tvs-jornais-agencias-e-plataformas-jogam-trump-ao-mar.shtml
+2020-11-06 02:20:24,593          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/fogo-no-pantanal-afeta-ambiente-e-pecuaria-mas-corrupcao-norteia-eleicao-em-corumba.shtml
+2020-11-06 02:20:24,601          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pandemia-e-desemprego-fizeram-parlamentares-mudarem-de-ideia-sobre-desoneracao-diz-deputado.shtml
+2020-11-06 02:20:24,608          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entenda-a-diferenca-entre-voto-em-branco-e-nulo-e-como-se-contam-os-votos-validos-na-eleicao.shtml
+2020-11-06 02:20:24,616          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/mulher-e-irma-de-braco-direito-de-eduardo-bolsonaro-acusado-de-fake-news-tem-cargos-na-assembleia-de-sp.shtml
+2020-11-06 02:20:25,945          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/justica-de-sp-suspende-lei-que-autoriza-abate-de-animais-nocivos-ao-meio-ambiente.shtml
+2020-11-06 02:20:27,501          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2020/10/finados-feriadao-sonia-abrao.shtml
+2020-11-06 02:20:27,504          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/10/o-juizo-sobre-trump.shtml
+2020-11-06 02:20:27,506          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/10/miseraveis-saqueiam-o-futebol-brasileiro-ha-decadas.shtml
+2020-11-06 02:20:27,511          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sabatina-arthur-do-val-erra-sobre-custo-do-gabinete-e-fundo-eleitoral.shtml
+2020-11-06 02:20:27,513          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandraforbes/2020/10/sim-ou-nao-para-mesas-nas-ruas-a-ardida-picada-de-uma-pesquisa-enganosa.shtml
+2020-11-06 02:20:27,516          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-reeleicao-vereador-zico-bacana-e-baleado-durante-ato-de-campanha-no-rio.shtml
+2020-11-06 02:20:27,518          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/reporteres-da-nsc-tv-afiliada-da-globo-sao-agredidos-em-praia-em-florianopolis.shtml
+2020-11-06 02:20:27,520          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-determina-que-arthur-do-val-exclua-videos-em-que-associa-tatto-ao-pcc.shtml
+2020-11-06 02:20:27,522          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2020/10/nao-chore-meu-amor-nao-chore-que-amanha-nao-sera-outro-dia.shtml
+2020-11-06 02:20:27,524          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2020/10/estupro-no-dna.shtml
+2020-11-06 02:20:27,526          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2020/10/cinco-anos-de-lama-e-impunidade.shtml
+2020-11-06 02:20:27,529          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2020/10/inquisidores-de-quarteirao.shtml
+2020-11-06 02:20:27,529          root     INFO: Finished script
