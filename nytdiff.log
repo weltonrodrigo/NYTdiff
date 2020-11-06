@@ -1,13 +1,22 @@
-2020-11-06 14:57:51,575          root     INFO: Starting script
-2020-11-06 14:57:52,397          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-06 14:57:53,065          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-06 14:57:53,743          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-06 14:57:53,962          root     INFO: Parsing R7 - Brasil
-2020-11-06 14:57:55,730          root     INFO: O TCU (Tribunal de Contas da União) divulgará nesta sexta-feira (6), em seu site, <del>a lista</del> <ins>as listas</ins> de candidatos a cargos eletivos que receberam <ins>bolsa-família ou</ins> o auxílio emergencial da Covid-19 sem, a princípio, se encaixarem nas regras previstas. Alguns declararam patrimônios milionários. Leia mais (11/06/2020 - 11h10)
-2020-11-06 14:57:57,917          root     INFO: Media ready with ids: 1324727729342812161
-2020-11-06 14:57:57,918          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-06 14:57:57,918          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/exclusivo-lista-do-tcu-tem-politicos-milionarios-que-receberam-auxilio-emergencial-veja.shtml
-2020-11-06 14:57:57,923          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/exclusivo-lista-do-tcu-tem-politicos-milionarios-que-receberam-auxilio-emergencial-veja.shtml
-2020-11-06 14:57:58,114          root     INFO: Replying to: 1324727731179954178
-2020-11-06 14:57:58,356          root     INFO: Id to store: 1324727732043960322
-2020-11-06 14:58:01,106          root     INFO: Finished script
+2020-11-06 15:19:45,871          root     INFO: Starting script
+2020-11-06 15:19:46,771          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-06 15:19:47,418          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-06 15:19:48,054          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-06 15:19:48,279          root     INFO: Parsing R7 - Brasil
+2020-11-06 15:19:49,869          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/aliados-de-prefeito-suspeito-de-elo-com-pcc-disputam-prefeituras-de-cidades-vizinhas-na-grande-sp.shtml
+2020-11-06 15:19:49,880          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sem-debates-na-tv-candidatos-recorrem-a-encontros-em-praca-publica-e-na-internet.shtml
+2020-11-06 15:19:49,946          root     INFO: <del>Candidatos Celso Russomanno, de SP, e Paulo Messina, do Rio, participam da</del> <ins>Russomanno defende elo com Bolsonaro em</ins> sabatina Folha/UOL <ins>e diz ter convicção de que irá ao 2º turno</ins>
+2020-11-06 15:19:51,886          root     INFO: Media ready with ids: 1324733240133955586
+2020-11-06 15:19:51,887          root     INFO: Text to tweet: Modificação do Título
+2020-11-06 15:19:51,888          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatos-celso-russomanno-de-sp-e-paulo-messina-do-rio-participam-da-sabatina-folhauol.shtml
+2020-11-06 15:19:51,894          root     INFO: Replying to: 1324721853173256192
+2020-11-06 15:19:52,152          root     INFO: Id to store: 1324733242491179010
+2020-11-06 15:19:52,157          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta sexta-feira (6) Celso Russomanno,</del> <ins>O</ins> candidato <del>pelo Republicanos</del> à Prefeitura de São <del>Paulo, e</del> Paulo <del>Messina, candidato pelo MDB à Prefeitura do Rio</del> <ins>Celso Russomanno (Republicanos) afirmou em sabatina Folha/UOL, nesta sexta-feira (6), ter a certeza</ins> de <del>Janeiro.</del> <ins>que irá ao segundo turno da eleição com o apoio do presidente Jair Bolsonaro.</ins> Leia mais (11/06/2020 - 07h00)
+2020-11-06 15:19:53,955          root     INFO: Media ready with ids: 1324733249197920260
+2020-11-06 15:19:53,955          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-06 15:19:53,955          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatos-celso-russomanno-de-sp-e-paulo-messina-do-rio-participam-da-sabatina-folhauol.shtml
+2020-11-06 15:19:53,963          root     INFO: Replying to: 1324733242491179010
+2020-11-06 15:19:54,207          root     INFO: Id to store: 1324733251102089218
+2020-11-06 15:19:56,422          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pesquisa-do-twitter-mostra-que-54-dos-usuarios-usam-rede-frequentemente-para-acompanhar-politica.shtml
+2020-11-06 15:19:56,424          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/lider-do-governo-apoia-tucana-em-prefeitura-e-diz-que-e-mais-facil-ela-votar-no-bolsonaro-do-que-ele-no-doria.shtml
+2020-11-06 15:19:56,425          root     INFO: Finished script
