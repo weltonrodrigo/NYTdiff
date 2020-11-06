@@ -1,6 +1,15 @@
-2020-11-06 19:26:50,498          root     INFO: Starting script
-2020-11-06 19:26:51,439          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-06 19:26:52,087          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-06 19:26:52,740          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-06 19:26:52,968          root     INFO: Parsing R7 - Brasil
-2020-11-06 19:26:57,186          root     INFO: Finished script
+2020-11-06 19:47:03,968          root     INFO: Starting script
+2020-11-06 19:47:04,849          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-06 19:47:05,518          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-06 19:47:06,190          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-06 19:47:06,347          root     INFO: Parsing R7 - Brasil
+2020-11-06 19:47:06,604          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2020/11/livros-sobre-eleicoes-nos-estados-unidos-inundam-as-prateleiras-do-brasil.shtml
+2020-11-06 19:47:08,018          root     INFO: Ciro Gomes avisou a aliados de Márcio França (PSB) que embarca na campanha do candidato a prefeito de São Paulo na <del>segunda</del> <ins>segunda-feira</ins> (9). Leia mais (11/06/2020 - 14h43)
+2020-11-06 19:47:09,778          root     INFO: Media ready with ids: 1324800508570275840
+2020-11-06 19:47:09,779          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-06 19:47:09,779          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/ciro-gomes-avisa-marcio-franca-que-embarca-na-segunda-9-em-campanha-em-sp.shtml
+2020-11-06 19:47:09,784          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/ciro-gomes-avisa-marcio-franca-que-embarca-na-segunda-9-em-campanha-em-sp.shtml
+2020-11-06 19:47:09,943          root     INFO: Replying to: 1324800510088589313
+2020-11-06 19:47:10,199          root     INFO: Id to store: 1324800510898089985
+2020-11-06 19:47:13,025          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/11/a-tirania-do-merito.shtml
+2020-11-06 19:47:13,026          root     INFO: Finished script
