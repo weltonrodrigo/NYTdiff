@@ -1,6 +1,19 @@
-2020-11-06 18:46:49,536          root     INFO: Starting script
-2020-11-06 18:46:50,357          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-06 18:46:51,026          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-06 18:46:51,689          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-06 18:46:51,914          root     INFO: Parsing R7 - Brasil
-2020-11-06 18:46:55,904          root     INFO: Finished script
+2020-11-06 18:58:14,174          root     INFO: Starting script
+2020-11-06 18:58:15,210          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-06 18:58:15,877          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-06 18:58:16,552          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-06 18:58:16,657          root     INFO: Parsing R7 - Brasil
+2020-11-06 18:58:17,841          root     INFO: A Folha e UOL realizam às 10h da próxima quarta-feira (11) um debate com os quatros candidatos à Prefeitura de São Paulo mais bem colocados na última pesquisa Datafolha, divulgada nesta quinta-feira <del>(15).</del> <ins>(5).</ins> Leia mais (11/06/2020 - 15h22)
+2020-11-06 18:58:20,800          root     INFO: Media ready with ids: 1324788223575498754
+2020-11-06 18:58:20,800          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-06 18:58:20,801          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-promovem-debate-com-os-quatro-principais-candidatos-a-prefeitura-de-sp.shtml
+2020-11-06 18:58:20,805          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-promovem-debate-com-os-quatro-principais-candidatos-a-prefeitura-de-sp.shtml
+2020-11-06 18:58:20,977          root     INFO: Replying to: 1324788225098080256
+2020-11-06 18:58:21,224          root     INFO: Id to store: 1324788225894948865
+2020-11-06 18:58:21,286          root     INFO: A Uneafro Brasil, entidade ligada ao movimento negro, entrou na tarde desta sexta-feira (6) com uma representação criminal na Promotoria de Direitos Humanos do Ministério Público de São Paulo contra o candidato a prefeito Celso Russomanno (Republicanos) por racismo. <ins>Em nota, o candidato chamou a representação de infundada e afirmou se tratar de um factóide.</ins> Leia mais (11/06/2020 - 13h20)
+2020-11-06 18:58:23,424          root     INFO: Media ready with ids: 1324788234447130625
+2020-11-06 18:58:23,425          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-06 18:58:23,425          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entidade-ligado-ao-movimento-negro-ve-fala-racista-e-presta-queixa-contra-russomanno.shtml
+2020-11-06 18:58:23,429          root     INFO: Replying to: 1324762756483108869
+2020-11-06 18:58:23,673          root     INFO: Id to store: 1324788236162682881
+2020-11-06 18:58:26,123          root     INFO: Finished script
