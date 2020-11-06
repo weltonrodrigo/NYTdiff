@@ -1,19 +1,13 @@
-2020-11-06 19:14:46,145          root     INFO: Starting script
-2020-11-06 19:14:47,380          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-06 19:14:48,052          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-06 19:14:48,719          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-06 19:14:49,048          root     INFO: Parsing R7 - Brasil
-2020-11-06 19:14:50,734          root     INFO: <del>Candidato à Prefeitura do Rio, Paulo</del> Messina <del>participa</del> <ins>diz suspeitar de relação de Crivella com QG</ins> da <ins>Propina, em</ins> sabatina Folha/UOL
-2020-11-06 19:14:52,529          root     INFO: Media ready with ids: 1324792383331045381
-2020-11-06 19:14:52,529          root     INFO: Text to tweet: Modificação do Título
-2020-11-06 19:14:52,530          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-paulo-messina-participa-da-sabatina-folhauol.shtml
-2020-11-06 19:14:52,535          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-paulo-messina-participa-da-sabatina-folhauol.shtml
-2020-11-06 19:14:52,728          root     INFO: Replying to: 1324792384786436097
-2020-11-06 19:14:52,975          root     INFO: Id to store: 1324792385499471872
-2020-11-06 19:14:52,980          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta sexta-feira (6),</del> <ins>Ex-secretário da Casa Civil de Marcelo Crivella (Republicanos),</ins> Paulo Messina, candidato <del>pelo MDB</del> à Prefeitura do Rio <ins>pelo MDB, disse que achava "muito suspeita" a postura do prefeito que, segundo ele, o pressionava para priorizar o pagamento</ins> de <del>Janeiro.</del> <ins>empresas com créditos a receber.</ins> Leia mais (11/06/2020 - 10h31)
-2020-11-06 19:14:54,680          root     INFO: Media ready with ids: 1324792392097144839
-2020-11-06 19:14:54,681          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-06 19:14:54,684          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-paulo-messina-participa-da-sabatina-folhauol.shtml
-2020-11-06 19:14:54,692          root     INFO: Replying to: 1324792385499471872
-2020-11-06 19:14:54,936          root     INFO: Id to store: 1324792393812615176
-2020-11-06 19:14:57,351          root     INFO: Finished script
+2020-11-06 19:20:28,446          root     INFO: Starting script
+2020-11-06 19:20:29,539          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-06 19:20:30,210          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-06 19:20:30,882          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-06 19:20:30,995          root     INFO: Parsing R7 - Brasil
+2020-11-06 19:20:32,429          root     INFO: <del>O</del> <ins>Para o</ins> candidato à Prefeitura de São Paulo Orlando Silva <del>(PCdoB) classificou</del> <ins>(PCdoB),</ins> as falas de Celso Russomanno (Republicanos) sobre ter sido criado por uma "mãe de leite negra" <del>e sobre ter tido uma namorada negram</del> transformaram a participação do concorrente na sabatina da Folha e do UOL em uma "enciclopédia do racismo". Leia mais (11/06/2020 - 12h51)
+2020-11-06 19:20:35,457          root     INFO: Media ready with ids: 1324793821398523914
+2020-11-06 19:20:35,458          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-06 19:20:35,458          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/orlando-silva-diz-que-entrevista-de-russomanno-sobre-mae-de-leite-negra-e-enciclopedia-do-racismo.shtml
+2020-11-06 19:20:35,464          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/orlando-silva-diz-que-entrevista-de-russomanno-sobre-mae-de-leite-negra-e-enciclopedia-do-racismo.shtml
+2020-11-06 19:20:35,691          root     INFO: Replying to: 1324793823206191106
+2020-11-06 19:20:35,947          root     INFO: Id to store: 1324793824141627392
+2020-11-06 19:20:38,725          root     INFO: Finished script
