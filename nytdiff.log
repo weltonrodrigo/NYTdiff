@@ -1,6 +1,13 @@
-2020-11-06 16:57:49,516          root     INFO: Starting script
-2020-11-06 16:57:50,339          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-06 16:57:51,001          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-06 16:57:51,689          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-06 16:57:51,824          root     INFO: Parsing R7 - Brasil
-2020-11-06 16:57:55,478          root     INFO: Finished script
+2020-11-06 17:17:02,078          root     INFO: Starting script
+2020-11-06 17:17:02,898          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-06 17:17:03,569          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-06 17:17:04,228          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-06 17:17:04,564          root     INFO: Parsing R7 - Brasil
+2020-11-06 17:17:06,589          root     INFO: <del>A Uneafro Brasil, entidade ligada ao movimento negro, entrou na tarde desta sexta-feira (6) com uma representação criminal na Promotoria de Direitos Humanos do Ministério Público de São Paulo contra o candidato a prefeito Celso Russomanno (Republicanos) por racismo.</del> Leia mais (11/06/2020 - 13h20)
+2020-11-06 17:17:08,412          root     INFO: Media ready with ids: 1324762753903591426
+2020-11-06 17:17:08,412          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-06 17:17:08,412          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entidade-ligado-ao-movimento-negro-ve-fala-racista-e-presta-queixa-contra-russomanno.shtml
+2020-11-06 17:17:08,418          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entidade-ligado-ao-movimento-negro-ve-fala-racista-e-presta-queixa-contra-russomanno.shtml
+2020-11-06 17:17:08,625          root     INFO: Replying to: 1324762755660980232
+2020-11-06 17:17:08,889          root     INFO: Id to store: 1324762756483108869
+2020-11-06 17:17:12,182          root     INFO: Finished script
