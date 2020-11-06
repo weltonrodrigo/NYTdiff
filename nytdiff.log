@@ -1,18 +1,7 @@
-2020-11-06 14:34:27,880          root     INFO: Starting script
-2020-11-06 14:34:28,893          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-06 14:34:29,722          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-06 14:34:30,551          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-06 14:34:30,766          root     INFO: Parsing R7 - Brasil
-2020-11-06 14:34:32,534          root     INFO: <del>Candidatos Celso Russomanno, de SP, e Paulo Messina, do Rio, participam da</del> <ins>Russomanno defende elo com Bolsonaro em</ins> sabatina Folha/UOL <ins>e diz ter convicção que irá ao 2º turno</ins>
-2020-11-06 14:34:34,355          root     INFO: Media ready with ids: 1324721842695917570
-2020-11-06 14:34:34,355          root     INFO: Text to tweet: Modificação do Título
-2020-11-06 14:34:34,355          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatos-celso-russomanno-de-sp-e-paulo-messina-do-rio-participam-da-sabatina-folhauol.shtml
-2020-11-06 14:34:34,362          root     INFO: Replying to: 1324717780839682049
-2020-11-06 14:34:34,675          root     INFO: Id to store: 1324721844520407043
-2020-11-06 14:34:34,681          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta sexta-feira (6) Celso Russomanno,</del> <ins>O</ins> candidato <del>pelo Republicanos</del> à Prefeitura de São <del>Paulo, e</del> Paulo <del>Messina, candidato pelo MDB à Prefeitura do Rio</del> <ins>Celso Russomanno (Republicanos) afirmou em sabatina Folha/UOL ter a certeza</ins> de <del>Janeiro.</del> <ins>que irá ao segundo turno da eleição. Pesquisa Datafolha divulgada nesta quinta (5), mostra um empate técnico entre ele, Guilherme Boulos (PSOL) e Márcio França (PSB) no segundo lugar.</ins> Leia mais (11/06/2020 - 07h00)
-2020-11-06 14:34:36,469          root     INFO: Media ready with ids: 1324721851461963780
-2020-11-06 14:34:36,469          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-06 14:34:36,469          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatos-celso-russomanno-de-sp-e-paulo-messina-do-rio-participam-da-sabatina-folhauol.shtml
-2020-11-06 14:34:36,473          root     INFO: Replying to: 1324721844520407043
-2020-11-06 14:34:36,761          root     INFO: Id to store: 1324721853173256192
-2020-11-06 14:34:39,467          root     INFO: Finished script
+2020-11-06 14:46:49,883          root     INFO: Starting script
+2020-11-06 14:46:50,791          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-06 14:46:51,457          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-06 14:46:52,131          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-06 14:46:52,383          root     INFO: Parsing R7 - Brasil
+2020-11-06 14:46:55,386          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/puxadas-por-desmate-emissoes-do-brasil-crescem-10-no-primeiro-ano-sob-bolsonaro.shtml
+2020-11-06 14:46:56,890          root     INFO: Finished script
