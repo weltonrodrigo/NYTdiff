@@ -1,12 +1,29 @@
-2020-11-06 20:58:01,712          root     INFO: Starting script
-2020-11-06 20:58:02,547          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-06 20:58:03,232          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-06 20:58:03,901          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-06 20:58:04,118          root     INFO: Parsing R7 - Brasil
-2020-11-06 20:58:05,883          root     INFO: O TCU (Tribunal de Contas da União) divulgará nesta sexta-feira (6), em seu site, <del>a lista</del> <ins>as listas</ins> de candidatos a cargos eletivos que receberam <ins>bolsa-família ou</ins> o auxílio emergencial da Covid-19 <del>sem, a princípio, se encaixarem nas regras previstas. Alguns</del> <ins>e que</ins> declararam <del>patrimônios milionários.</del> <ins>patrimônio acima de R$ 300 mil.</ins> Leia mais (11/06/2020 - 11h10)
-2020-11-06 20:58:07,831          root     INFO: Media ready with ids: 1324818367707029504
-2020-11-06 20:58:07,831          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-06 20:58:07,831          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/exclusivo-lista-do-tcu-tem-politicos-milionarios-que-receberam-auxilio-emergencial-veja.shtml
-2020-11-06 20:58:07,837          root     INFO: Replying to: 1324727732043960322
-2020-11-06 20:58:08,085          root     INFO: Id to store: 1324818369711902726
-2020-11-06 20:58:10,988          root     INFO: Finished script
+2020-11-06 21:17:50,085          root     INFO: Starting script
+2020-11-06 21:17:52,015          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-06 21:17:52,702          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-06 21:17:53,378          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-06 21:17:53,504          root     INFO: Parsing R7 - Brasil
+2020-11-06 21:17:55,270          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/indicado-por-bolsonaro-kassio-sera-relator-de-acao-no-stf-que-questiona-foro-de-flavio-no-caso-rachadinha.shtml
+2020-11-06 21:17:55,282          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-rejeita-denuncia-do-ministerio-publico-contra-lider-do-mbl-por-trafico-de-influencia.shtml
+2020-11-06 21:17:55,424          root     INFO: Paulo Skaf, presidente da Fiesp e aliado de Jair Bolsonaro, vai conversar no sábado (7) com Márcio <del>Franca</del> <ins>França</ins> (PSB) sobre uma possível declaração de apoio. Leia mais (11/06/2020 - 12h40)
+2020-11-06 21:17:57,163          root     INFO: Media ready with ids: 1324823356663861252
+2020-11-06 21:17:57,164          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-06 21:17:57,164          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/ligado-a-bolsonaro-skaf-tera-reuniao-com-franca-para-discutir-apoio-a-candidato-em-sp.shtml
+2020-11-06 21:17:57,171          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/ligado-a-bolsonaro-skaf-tera-reuniao-com-franca-para-discutir-apoio-a-candidato-em-sp.shtml
+2020-11-06 21:17:57,338          root     INFO: Replying to: 1324823358102507527
+2020-11-06 21:17:57,612          root     INFO: Id to store: 1324823358911975427
+2020-11-06 21:17:57,694          root     INFO: <del>Candidato à Prefeitura do Rio, Paulo</del> Messina <del>participa da</del> <ins>diz em</ins> sabatina Folha/UOL <ins>suspeitar de relação de Crivella com 'QG da propina' no Rio</ins>
+2020-11-06 21:17:59,450          root     INFO: Media ready with ids: 1324823366042374149
+2020-11-06 21:17:59,451          root     INFO: Text to tweet: Modificação do Título
+2020-11-06 21:17:59,451          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-paulo-messina-participa-da-sabatina-folhauol.shtml
+2020-11-06 21:17:59,456          root     INFO: Replying to: 1324792393812615176
+2020-11-06 21:17:59,680          root     INFO: Id to store: 1324823367761956869
+2020-11-06 21:17:59,687          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta sexta-feira (6),</del> <ins>Ex-secretário da Casa Civil de Marcelo Crivella (Republicanos),</ins> Paulo Messina, candidato <del>pelo</del> <ins>do</ins> MDB à Prefeitura do Rio de <del>Janeiro.</del> <ins>Janeiro, disse que achava "muito suspeita" a postura do prefeito que, segundo ele, o pressionava para priorizar o pagamento de empresas com créditos a receber.</ins> Leia mais (11/06/2020 - 10h31)
+2020-11-06 21:18:01,411          root     INFO: Media ready with ids: 1324823374456070145
+2020-11-06 21:18:01,411          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-06 21:18:01,411          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-paulo-messina-participa-da-sabatina-folhauol.shtml
+2020-11-06 21:18:01,416          root     INFO: Replying to: 1324823367761956869
+2020-11-06 21:18:01,661          root     INFO: Id to store: 1324823375982829568
+2020-11-06 21:18:04,502          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post404587
+2020-11-06 21:18:04,505          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10465
+2020-11-06 21:18:04,505          root     INFO: Finished script
