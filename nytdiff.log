@@ -1,17 +1,15 @@
-2020-11-07 03:17:55,143          root     INFO: Starting script
-2020-11-07 03:17:55,963          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-07 03:17:56,630          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-07 03:17:57,292          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-07 03:17:57,559          root     INFO: Parsing R7 - Brasil
-2020-11-07 03:17:57,816          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2020/11/um-feriadao-que-nao-acaba-nunca.shtml
-2020-11-07 03:18:01,416          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-reconhece-necessidade-de-contratar-geracao-de-energia-no-ap-06112020
-2020-11-07 03:18:01,424          root     INFO: New article tracked: http://noticias.r7.com/brasil/tse-vai-enviar-1200-baterias-de-urnas-para-garantir-votacao-no-ap-06112020
-2020-11-07 03:18:01,431          root     INFO: New article tracked: http://noticias.r7.com/brasil/nunes-marques-vai-relatar-acao-que-contesta-foro-para-flavio-bolsonaro-06112020
-2020-11-07 03:18:01,439          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-relacoes-com-eua-seguem-com-eventual-vitoria-de-biden-06112020
-2020-11-07 03:18:01,447          root     INFO: New article tracked: http://noticias.r7.com/brasil/stj-diz-que-255-mil-processos-estao-seguros-apos-ataque-hacker-06112020
-2020-11-07 03:18:01,455          root     INFO: New article tracked: http://noticias.r7.com/brasil/criticas-da-ue-sobre-desmate-sao-infundadas-diz-bolsonaro-06112020
-2020-11-07 03:18:01,462          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-afirma-que-retomar-voto-impresso-seria-retrocesso-06112020
-2020-11-07 03:18:01,470          root     INFO: New article tracked: http://noticias.r7.com/brasil/avioes-da-fab-levam-equipamentos-e-geradores-para-o-amapa-06112020
-2020-11-07 03:18:01,476          root     INFO: New article tracked: http://noticias.r7.com/brasil/forte-divisao-nos-eua-pode-gerar-governo-paralisado-diz-especialista-06112020
-2020-11-07 03:18:01,622          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/11/agora-e-que-sao-elas.shtml
-2020-11-07 03:18:01,623          root     INFO: Finished script
+2020-11-07 03:27:13,833          root     INFO: Starting script
+2020-11-07 03:27:14,761          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-07 03:27:15,437          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-07 03:27:16,107          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-07 03:27:16,278          root     INFO: Parsing R7 - Brasil
+2020-11-07 03:27:20,907          root     INFO: Removed http://noticias.r7.com/brasil/avioes-da-fab-levam-equipamentos-e-geradores-para-o-amapa-06112020
+2020-11-07 03:27:20,943          root     INFO: Removed http://noticias.r7.com/brasil/tse-vai-enviar-1200-baterias-de-urnas-para-garantir-votacao-no-ap-06112020
+2020-11-07 03:27:20,947          root     INFO: Removed http://noticias.r7.com/brasil/forte-divisao-nos-eua-pode-gerar-governo-paralisado-diz-especialista-06112020
+2020-11-07 03:27:20,952          root     INFO: Removed http://noticias.r7.com/brasil/criticas-da-ue-sobre-desmate-sao-infundadas-diz-bolsonaro-06112020
+2020-11-07 03:27:20,956          root     INFO: Removed http://noticias.r7.com/brasil/governo-reconhece-necessidade-de-contratar-geracao-de-energia-no-ap-06112020
+2020-11-07 03:27:20,959          root     INFO: Removed http://noticias.r7.com/brasil/barroso-afirma-que-retomar-voto-impresso-seria-retrocesso-06112020
+2020-11-07 03:27:20,963          root     INFO: Removed http://noticias.r7.com/brasil/nunes-marques-vai-relatar-acao-que-contesta-foro-para-flavio-bolsonaro-06112020
+2020-11-07 03:27:20,968          root     INFO: Removed http://noticias.r7.com/brasil/guedes-relacoes-com-eua-seguem-com-eventual-vitoria-de-biden-06112020
+2020-11-07 03:27:20,972          root     INFO: Removed http://noticias.r7.com/brasil/stj-diz-que-255-mil-processos-estao-seguros-apos-ataque-hacker-06112020
+2020-11-07 03:27:20,973          root     INFO: Finished script
