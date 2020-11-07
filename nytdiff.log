@@ -1,24 +1,14 @@
-2020-11-07 01:57:51,848          root     INFO: Starting script
-2020-11-07 01:57:52,654          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-07 01:57:53,305          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-07 01:57:53,957          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-07 01:57:54,232          root     INFO: Parsing R7 - Brasil
-2020-11-07 01:57:58,911          root     INFO: Removed http://noticias.r7.com/brasil/videos/autoridades-cumprem-137-mandados-em-operacao-luz-na-infancia-7-06112020
-2020-11-07 01:57:58,953          root     INFO: Removed http://noticias.r7.com/brasil/fotos/veja-imagens-das-apreensoes-realizadas-em-operacao-nesta-sexta-06112020
-2020-11-07 01:57:58,958          root     INFO: Removed http://noticias.r7.com/brasil/alvo-de-ataque-hacker-stj-gastou-r-137-milhoes-com-empresa-de-informatica-investigada-06112020
-2020-11-07 01:57:58,962          root     INFO: Removed http://noticias.r7.com/brasil/pf-deflagra-operacoes-em-2-estados-para-combater-crimes-eleitorais-06112020
-2020-11-07 01:57:58,965          root     INFO: Removed http://noticias.r7.com/brasil/defesa-da-honra-era-lasciva-como-a-justica-poe-mulheres-no-banco-dos-reus-em-denuncias-de-violencia-no-brasil-06112020
-2020-11-07 01:57:58,968          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-prega-humildade-ao-comentar-eleicao-americana-06112020
-2020-11-07 01:57:58,972          root     INFO: Removed http://noticias.r7.com/brasil/reforma-tributaria-deve-ser-votada-antes-de-autonomia-do-bc-diz-maia-06112020
-2020-11-07 01:57:58,974          root     INFO: Removed http://noticias.r7.com/brasil/apagao-no-amapa-moradores-relatam-falta-de-agua-e-de-comida-06112020
-2020-11-07 01:57:58,977          root     INFO: Removed http://noticias.r7.com/brasil/risco-de-segunda-onda-de-covid-19-aumenta-pressao-por-auxilio-06112020
-2020-11-07 01:57:58,980          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-afirma-que-vai-lutar-por-voto-impresso-nas-eleicoes-de-2022-06112020
-2020-11-07 01:57:58,983          root     INFO: Removed http://noticias.r7.com/brasil/camara-confirma-cassacao-de-mandato-de-manuel-marcos-06112020
-2020-11-07 01:57:58,987          root     INFO: Removed http://noticias.r7.com/brasil/moradores-do-amapa-relatam-rotina-dramatica-apos-3-dias-sem-luz-06112020
-2020-11-07 01:57:58,989          root     INFO: Removed http://noticias.r7.com/brasil/quatorze-cidades-do-amapa-continuam-sem-energia-eletrica-06112020
-2020-11-07 01:57:58,992          root     INFO: Removed http://noticias.r7.com/brasil/policia-combate-crimes-de-abuso-contra-criancas-em-10-estados-06112020
-2020-11-07 01:57:58,995          root     INFO: Removed http://noticias.r7.com/brasil/apagao-no-amapa-o-que-provocou-queda-de-energia-no-estado-que-ja-dura-4-dias-06112020
-2020-11-07 01:57:58,998          root     INFO: Removed http://noticias.r7.com/brasil/emissoes-de-gases-estufa-no-brasil-subiram-96-em-2019-06112020
-2020-11-07 01:57:59,000          root     INFO: Removed http://noticias.r7.com/brasil/energia-sera-100-restabelecida-no-amapa-em-10-dias-diz-ministro-06112020
-2020-11-07 01:57:59,002          root     INFO: Removed http://noticias.r7.com/brasil/nunes-marques-do-stf-herda-mais-de-1500-processos-de-celso-de-mello-06112020
-2020-11-07 01:57:59,003          root     INFO: Finished script
+2020-11-07 02:20:21,192          root     INFO: Starting script
+2020-11-07 02:20:22,064          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-07 02:20:22,721          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-07 02:20:23,377          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-07 02:20:23,596          root     INFO: Parsing R7 - Brasil
+2020-11-07 02:20:25,104          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/11/regra-de-ouro-um-eleitor-um-voto-e-estranha-a-democracia-dos-estados-unidos.shtml
+2020-11-07 02:20:25,112          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/bia-kicis-palestra-sobre-temas-caros-ao-bolsonarismo-a-turma-de-51-coroneis.shtml
+2020-11-07 02:20:25,119          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/militares-procuraram-temer-para-reclamar-de-dilma-e-pt-antes-do-impeachment-diz-entrevistador.shtml
+2020-11-07 02:20:25,127          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/fafa-de-belem-janaina-rueda-e-roberto-minczuk-farao-parte-de-bloco-de-apoio-a-bruno-covas-em-sp.shtml
+2020-11-07 02:20:27,670          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/carro-de-vereador-baleado-no-rio-foi-alvejado-por-ao-menos-15-tiros.shtml
+2020-11-07 02:20:27,672          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post404599
+2020-11-07 02:20:27,674          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/psol-fara-coreografia-inspirada-no-chile-contra-caso-de-estupro-culposo.shtml
+2020-11-07 02:20:27,676          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/senadora-quer-que-fux-abra-um-procedimento-administrativo-contra-juiz-de-estupro-culposo.shtml
+2020-11-07 02:20:27,676          root     INFO: Finished script
