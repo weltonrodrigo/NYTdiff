@@ -1,14 +1,34 @@
-2020-11-07 02:20:21,192          root     INFO: Starting script
-2020-11-07 02:20:22,064          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-07 02:20:22,721          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-07 02:20:23,377          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-07 02:20:23,596          root     INFO: Parsing R7 - Brasil
-2020-11-07 02:20:25,104          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/11/regra-de-ouro-um-eleitor-um-voto-e-estranha-a-democracia-dos-estados-unidos.shtml
-2020-11-07 02:20:25,112          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/bia-kicis-palestra-sobre-temas-caros-ao-bolsonarismo-a-turma-de-51-coroneis.shtml
-2020-11-07 02:20:25,119          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/militares-procuraram-temer-para-reclamar-de-dilma-e-pt-antes-do-impeachment-diz-entrevistador.shtml
-2020-11-07 02:20:25,127          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/fafa-de-belem-janaina-rueda-e-roberto-minczuk-farao-parte-de-bloco-de-apoio-a-bruno-covas-em-sp.shtml
-2020-11-07 02:20:27,670          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/carro-de-vereador-baleado-no-rio-foi-alvejado-por-ao-menos-15-tiros.shtml
-2020-11-07 02:20:27,672          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post404599
-2020-11-07 02:20:27,674          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/psol-fara-coreografia-inspirada-no-chile-contra-caso-de-estupro-culposo.shtml
-2020-11-07 02:20:27,676          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/senadora-quer-que-fux-abra-um-procedimento-administrativo-contra-juiz-de-estupro-culposo.shtml
-2020-11-07 02:20:27,676          root     INFO: Finished script
+2020-11-07 02:28:10,577          root     INFO: Starting script
+2020-11-07 02:28:11,476          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-07 02:28:12,160          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-07 02:28:12,835          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-07 02:28:13,083          root     INFO: Parsing R7 - Brasil
+2020-11-07 02:28:13,328          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/11/geopolitica.shtml
+2020-11-07 02:28:13,372          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/tema-da-eleicao-os-programas-de-transferencia-de-renda-devem-ser-responsabilidade-das-prefeituras-nao.shtml
+2020-11-07 02:28:13,381          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/voto-a-voto/2020/11/por-que-as-coligacoes-encolheram-em-2020.shtml
+2020-11-07 02:28:13,392          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2020/11/ta-ligado-no-bagulho-professor.shtml
+2020-11-07 02:28:13,402          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/tema-da-eleicao-os-programas-de-transferencia-de-renda-devem-ser-responsabilidade-das-prefeituras-sim.shtml
+2020-11-07 02:28:13,411          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2020/11/biden-presidente-luto-no-planalto-bandeira-a-meio-pau-rarara.shtml
+2020-11-07 02:28:13,419          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2020/11/os-estados-de-novo.shtml
+2020-11-07 02:28:13,427          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/sem-protecao.shtml
+2020-11-07 02:28:13,434          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/a-mulher-julgada.shtml
+2020-11-07 02:28:13,443          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/11/regra-de-ouro-um-eleitor-um-voto-e-estranha-a-democracia-dos-estados-unidos.shtml
+2020-11-07 02:28:14,657          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/oposicao-analisa-nomes-de-tres-possiveis-candidatos-a-presidencia-da-camara-e-aponta-defeitos.shtml
+2020-11-07 02:28:14,667          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/11/geopolitica.shtml
+2020-11-07 02:28:14,675          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/voto-a-voto/2020/11/por-que-as-coligacoes-encolheram-em-2020.shtml
+2020-11-07 02:28:14,684          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-tendencia-de-queda-de-russomanno-covas-e-franca-projetam-herdar-votos-indica-datafolha.shtml
+2020-11-07 02:28:17,612          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2020/11/decisoes-de-planejamento-urbano-tem-impacto-na-saude.shtml
+2020-11-07 02:28:17,614          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/afinado-com-bolsonaro-russomanno-agora-distorce-dados-sobre-vacina-contra-covid-19.shtml
+2020-11-07 02:28:17,616          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-gualano/2020/11/pandemia-muda-a-mesa-das-brasileiras-e-derruba-dietas-mostra-estudo.shtml
+2020-11-07 02:28:17,619          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/o-setor-empresarial-e-o-green-new-deal-brasileiro.shtml
+2020-11-07 02:28:17,621          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2020/11/qanon-pode-ajudar-trump-a-vencer.shtml
+2020-11-07 02:28:17,624          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/freio-a-boiada.shtml
+2020-11-07 02:28:17,626          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/reforma-tributaria-precisa-ter-vies-pro-emprego.shtml
+2020-11-07 02:28:17,629          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/empresario-diz-que-bancou-jatinho-para-buscar-salles-e-flavio-bolsonaro-em-fernando-de-noronha.shtml
+2020-11-07 02:28:17,631          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/chegada-de-kassio-ao-stf-deve-reforcar-ala-contraria-a-lava-jato-em-julgamentos-decisivos.shtml
+2020-11-07 02:28:17,634          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2020/11/o-dinheiro-da-risada-das-pessoas-que-dizem-ser-contra-ele.shtml
+2020-11-07 02:28:17,638          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/11/a-efemeride-de-finados-nos-caiu-feito-uma-bigorna-na-cabeca-neste-ano.shtml
+2020-11-07 02:28:17,640          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/11/sao-paulo-goleia-usando-o-moderno-e-o-passado.shtml
+2020-11-07 02:28:17,643          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2020/11/quanto-o-stf-custa-para-o-sus.shtml
+2020-11-07 02:28:17,645          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/escolinha-do-jair.shtml
+2020-11-07 02:28:17,646          root     INFO: Finished script
