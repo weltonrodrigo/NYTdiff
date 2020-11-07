@@ -1,6 +1,27 @@
-2020-11-07 01:30:58,041          root     INFO: Starting script
-2020-11-07 01:30:58,922          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-07 01:30:59,605          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-07 01:31:00,281          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-07 01:31:00,522          root     INFO: Parsing R7 - Brasil
-2020-11-07 01:31:04,856          root     INFO: Finished script
+2020-11-07 01:46:49,039          root     INFO: Starting script
+2020-11-07 01:46:49,898          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-07 01:46:50,546          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-07 01:46:51,194          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-07 01:46:51,502          root     INFO: Parsing R7 - Brasil
+2020-11-07 01:46:55,124          root     INFO: New article tracked: http://noticias.r7.com/brasil/apagao-no-amapa-moradores-relatam-falta-de-agua-e-de-comida-06112020
+2020-11-07 01:46:55,167          root     INFO: New article tracked: http://noticias.r7.com/brasil/alvo-de-ataque-hacker-stj-gastou-r-137-milhoes-com-empresa-de-informatica-investigada-06112020
+2020-11-07 01:46:55,175          root     INFO: New article tracked: http://noticias.r7.com/brasil/quatorze-cidades-do-amapa-continuam-sem-energia-eletrica-06112020
+2020-11-07 01:46:55,183          root     INFO: New article tracked: http://noticias.r7.com/brasil/reforma-tributaria-deve-ser-votada-antes-de-autonomia-do-bc-diz-maia-06112020
+2020-11-07 01:46:55,190          root     INFO: New article tracked: http://noticias.r7.com/brasil/apagao-no-amapa-o-que-provocou-queda-de-energia-no-estado-que-ja-dura-4-dias-06112020
+2020-11-07 01:46:55,196          root     INFO: New article tracked: http://noticias.r7.com/brasil/emissoes-de-gases-estufa-no-brasil-subiram-96-em-2019-06112020
+2020-11-07 01:46:55,203          root     INFO: New article tracked: http://noticias.r7.com/brasil/energia-sera-100-restabelecida-no-amapa-em-10-dias-diz-ministro-06112020
+2020-11-07 01:46:55,211          root     INFO: New article tracked: http://noticias.r7.com/brasil/risco-de-segunda-onda-de-covid-19-aumenta-pressao-por-auxilio-06112020
+2020-11-07 01:46:55,218          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-confirma-cassacao-de-mandato-de-manuel-marcos-06112020
+2020-11-07 01:46:55,225          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-deflagra-operacoes-em-2-estados-para-combater-crimes-eleitorais-06112020
+2020-11-07 01:46:55,233          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-prega-humildade-ao-comentar-eleicao-americana-06112020
+2020-11-07 01:46:55,240          root     INFO: New article tracked: http://noticias.r7.com/brasil/nunes-marques-do-stf-herda-mais-de-1500-processos-de-celso-de-mello-06112020
+2020-11-07 01:46:55,247          root     INFO: New article tracked: http://noticias.r7.com/brasil/moradores-do-amapa-relatam-rotina-dramatica-apos-3-dias-sem-luz-06112020
+2020-11-07 01:46:55,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/defesa-da-honra-era-lasciva-como-a-justica-poe-mulheres-no-banco-dos-reus-em-denuncias-de-violencia-no-brasil-06112020
+2020-11-07 01:46:55,265          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/veja-imagens-das-apreensoes-realizadas-em-operacao-nesta-sexta-06112020
+2020-11-07 01:46:55,272          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/autoridades-cumprem-137-mandados-em-operacao-luz-na-infancia-7-06112020
+2020-11-07 01:46:55,279          root     INFO: New article tracked: http://noticias.r7.com/brasil/policia-combate-crimes-de-abuso-contra-criancas-em-10-estados-06112020
+2020-11-07 01:46:55,308          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-afirma-que-vai-lutar-por-voto-impresso-nas-eleicoes-de-2022-06112020
+2020-11-07 01:46:55,316          root     INFO: Removed http://noticias.r7.com/brasil/stj-tem-funcionamento-afetado-dois-dias-apos-ataque-hacker-05112020
+2020-11-07 01:46:55,318          root     INFO: Removed http://noticias.r7.com/brasil/nao-inventem-lockdown-apos-as-eleicoes-pede-jair-bolsonaro-05112020
+2020-11-07 01:46:55,321          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-afirma-que-vai-lutar-por-voto-impresso-nas-eleicoes-de-2022-05112020
+2020-11-07 01:46:55,321          root     INFO: Finished script
