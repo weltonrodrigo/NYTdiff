@@ -1,8 +1,13 @@
-2020-11-08 19:57:58,059          root     INFO: Starting script
-2020-11-08 19:57:58,909          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-08 19:57:59,576          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-08 19:58:00,247          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-08 19:58:00,373          root     INFO: Parsing R7 - Brasil
-2020-11-08 19:58:01,908          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2020/11/contraste-com-uma-democracia-voltando-ao-normal-faz-situacao-brasileira-parecer-ainda-mais-triste.shtml
-2020-11-08 19:58:04,530          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-encerra-coleta-de-provas-em-acao-sobre-disparos-em-massa-que-pode-cassar-chapa-de-bolsonaro.shtml
-2020-11-08 19:58:04,531          root     INFO: Finished script
+2020-11-08 20:16:02,935          root     INFO: Starting script
+2020-11-08 20:16:03,751          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-08 20:16:04,407          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-08 20:16:05,052          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-08 20:16:05,143          root     INFO: Parsing R7 - Brasil
+2020-11-08 20:16:06,516          root     INFO: Contraste com <del>uma</del> democracia <ins>dos EUA</ins> voltando ao normal faz situação brasileira parecer ainda mais triste
+2020-11-08 20:16:08,290          root     INFO: Media ready with ids: 1325532576166146050
+2020-11-08 20:16:08,291          root     INFO: Text to tweet: Modificação do Título
+2020-11-08 20:16:08,291          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2020/11/contraste-com-uma-democracia-voltando-ao-normal-faz-situacao-brasileira-parecer-ainda-mais-triste.shtml
+2020-11-08 20:16:08,295          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2020/11/contraste-com-uma-democracia-voltando-ao-normal-faz-situacao-brasileira-parecer-ainda-mais-triste.shtml
+2020-11-08 20:16:08,500          root     INFO: Replying to: 1325532577831202819
+2020-11-08 20:16:08,709          root     INFO: Id to store: 1325532578498174976
+2020-11-08 20:16:11,012          root     INFO: Finished script
