@@ -1,6 +1,15 @@
-2020-11-08 04:34:41,226          root     INFO: Starting script
-2020-11-08 04:34:42,133          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-08 04:34:42,805          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-08 04:34:43,475          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-08 04:34:43,699          root     INFO: Parsing R7 - Brasil
-2020-11-08 04:34:48,004          root     INFO: Finished script
+2020-11-08 04:47:12,187          root     INFO: Starting script
+2020-11-08 04:47:13,239          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-08 04:47:13,907          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-08 04:47:14,580          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-08 04:47:14,805          root     INFO: Parsing R7 - Brasil
+2020-11-08 04:47:19,664          root     INFO: New article tracked: http://noticias.r7.com/brasil/justica-da-prazo-de-3-dias-para-reestabelecimento-de-energia-no-ap-07112020
+2020-11-08 04:47:19,698          root     INFO: <del>Do R7</del> <ins>Da Agência Brasil</ins>
+2020-11-08 04:47:21,577          root     INFO: Media ready with ids: 1325298841478901760
+2020-11-08 04:47:21,578          root     INFO: Text to tweet: Modificação do autor
+2020-11-08 04:47:21,578          root     INFO: Article id: http://noticias.r7.com/brasil/restabelecimento-total-de-energia-no-ap-deve-ocorrer-semana-que-vem-07112020
+2020-11-08 04:47:21,584          root     INFO: Tweeting url: http://noticias.r7.com/brasil/restabelecimento-total-de-energia-no-ap-deve-ocorrer-semana-que-vem-07112020
+2020-11-08 04:47:21,782          root     INFO: Replying to: 1325298843018260480
+2020-11-08 04:47:22,011          root     INFO: Id to store: 1325298843815211008
+2020-11-08 04:47:22,068          root     INFO: New article tracked: http://noticias.r7.com/brasil/fornecimento-de-energia-foi-reestabelecido-em-62-do-ap-diz-bolsonaro-07112020
+2020-11-08 04:47:22,325          root     INFO: Finished script
