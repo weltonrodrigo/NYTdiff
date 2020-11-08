@@ -1,38 +1,6 @@
-2020-11-08 02:28:09,705          root     INFO: Starting script
-2020-11-08 02:28:10,549          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-08 02:28:11,230          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-08 02:28:11,909          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-08 02:28:12,102          root     INFO: Parsing R7 - Brasil
-2020-11-08 02:28:12,399          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/11/uma-mudanca-de-verdade-na-politica-de-drogas.shtml
-2020-11-08 02:28:12,411          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2020/11/ate-prevista-posse-de-biden-serao-meses-concedidos-a-um-presidente-ensandecido.shtml
-2020-11-08 02:28:12,421          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2020/11/a-esperanca-de-ciro-fica-a-dever.shtml
-2020-11-08 02:28:12,431          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2020/11/palmeiras-e-candidato-a-todos-os-titulos-desde-que-portugues-siga-as-sugestoes-do-auxiliar.shtml
-2020-11-08 02:28:12,440          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2020/11/onde-se-le-rebecca-leia-se-alice.shtml
-2020-11-08 02:28:12,448          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/11/por-mais-que-se-facam-trapalhadas-com-processo-das-rachadinhas-manobra-da-defesa-tem-nexo.shtml
-2020-11-08 02:28:12,461          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2020/11/a-rotina-de-ir-para-o-escritorio-que-amofinava-seus-dias-agora-e-um-sonho.shtml
-2020-11-08 02:28:12,470          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/extremismo-nos-eua-ainda-deve-animar-lacaios-no-brasil-mesmo-sem-trump.shtml
-2020-11-08 02:28:12,478          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/11/semana-desastrosa-de-corinthians-santos-e-sao-paulo-deve-ter-reflexo-nas-urnas.shtml
-2020-11-08 02:28:12,486          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/11/invasao-a-rede-do-stj-mostra-que-os-sistemas-sao-geridos-de-forma-leviana.shtml
-2020-11-08 02:28:12,494          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/trump-bolsonaro-e-o-manual-do-golpe-de-estado.shtml
-2020-11-08 02:28:12,503          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/11/calor-que-donald-trump-tomou-no-arizona-mostra-que-ele-dividiu-ate-os-republicanos.shtml
-2020-11-08 02:28:12,511          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2020/11/abertura-dos-portos.shtml
-2020-11-08 02:28:12,522          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/teocracia-a-brasileira.shtml
-2020-11-08 02:28:12,531          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/fundos-imobiliarios-cumprem-deveres-fiscais.shtml
-2020-11-08 02:28:13,738          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sombra-de-cabral-recai-sobre-os-principais-candidatos-a-prefeitura-do-rio.shtml
-2020-11-08 02:28:16,696          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2020/11/a-guerra-contra-a-verdade-chega-ao-climax-nos-eua.shtml
-2020-11-08 02:28:16,699          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2020/11/toquio-planeja-base-olimpica-de-saude-exclusiva-para-covid-19.shtml
-2020-11-08 02:28:16,702          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2020/11/narracao-feminina-na-band-mostra-que-esporte-comeca-a-ganhar-outros-tons.shtml
-2020-11-08 02:28:16,705          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nizanguanaes/2020/11/36-perguntas-sobre-sua-estrategia.shtml
-2020-11-08 02:28:16,708          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2020/11/fiz-depilacao-a-laser-mas-agora-todo-mundo-tem-cabelo-no-sovaco.shtml
-2020-11-08 02:28:16,711          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48455
-2020-11-08 02:28:16,714          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/um-passo-para-o-bc.shtml
-2020-11-08 02:28:16,717          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/disparate-constitucional.shtml
-2020-11-08 02:28:16,720          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/constituicao-para-todos.shtml
-2020-11-08 02:28:16,723          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2020/11/problemas-da-democracia-sao-anteriores-a-trump-e-vao-continuar-depois-dele.shtml
-2020-11-08 02:28:16,726          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/11/politica-desastrosa-para-setor-faz-produtor-rural-diminuir-apoio-a-trump.shtml
-2020-11-08 02:28:16,729          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2020/11/o-mundo-sem-trump.shtml
-2020-11-08 02:28:16,731          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2020/11/os-passaros-estao-ouvindo-e-agradecem-o-silencio.shtml
-2020-11-08 02:28:16,736          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2020/11/a-noite-em-que-antonio-maria-foi-carlos-heitor-cony.shtml
-2020-11-08 02:28:16,738          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2020/11/automedicacao-fajuta-ameaca-a-saude.shtml
-2020-11-08 02:28:16,741          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/11/uma-eleicao-paradoxal.shtml
-2020-11-08 02:28:16,741          root     INFO: Finished script
+2020-11-08 02:46:59,355          root     INFO: Starting script
+2020-11-08 02:47:00,679          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-08 02:47:01,325          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-08 02:47:01,975          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-08 02:47:02,251          root     INFO: Parsing R7 - Brasil
+2020-11-08 02:47:06,500          root     INFO: Finished script
