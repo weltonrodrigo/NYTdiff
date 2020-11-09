@@ -1,8 +1,13 @@
-2020-11-09 17:28:43,468          root     INFO: Starting script
-2020-11-09 17:28:44,300          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-09 17:28:44,945          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-09 17:28:45,595          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-09 17:28:45,764          root     INFO: Parsing R7 - Brasil
-2020-11-09 17:28:47,298          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/juiza-do-maranhao-impoe-censura-a-folha-em-caso-envolvendo-candidato-em-sao-luis.shtml
-2020-11-09 17:28:50,002          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/indicado-de-bolsonaro-kassio-nunes-marques-toma-posse-como-ministro-do-stf.shtml
-2020-11-09 17:28:50,002          root     INFO: Finished script
+2020-11-09 17:46:49,238          root     INFO: Starting script
+2020-11-09 17:46:50,034          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-09 17:46:50,686          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-09 17:46:51,335          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-09 17:46:51,567          root     INFO: Parsing R7 - Brasil
+2020-11-09 17:46:53,054          root     INFO: A pedido <del>do</del> <ins>de Eduardo Braide (Podemos),</ins> candidato a prefeito em São Luís <del>(MA) Eduardo Braide (Podemos),</del> <ins>(MA),</ins> a juíza Cristiana de Sousa Ferraz Leite, da 76ª Zona Eleitoral do Maranhão, censurou publicação da Folha sobre um documento do Ministério Público que citava o político como investigado. Leia mais (11/09/2020 - 14h21)
+2020-11-09 17:46:54,821          root     INFO: Media ready with ids: 1325857410423140352
+2020-11-09 17:46:54,822          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-09 17:46:54,822          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/juiza-do-maranhao-impoe-censura-a-folha-em-caso-envolvendo-candidato-em-sao-luis.shtml
+2020-11-09 17:46:54,827          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/juiza-do-maranhao-impoe-censura-a-folha-em-caso-envolvendo-candidato-em-sao-luis.shtml
+2020-11-09 17:46:54,993          root     INFO: Replying to: 1325857411966644227
+2020-11-09 17:46:55,230          root     INFO: Id to store: 1325857412734136320
+2020-11-09 17:46:57,703          root     INFO: Finished script
