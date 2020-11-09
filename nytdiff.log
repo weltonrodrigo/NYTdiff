@@ -1,17 +1,9 @@
-2020-11-09 20:23:35,059          root     INFO: Starting script
-2020-11-09 20:23:35,868          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-09 20:23:36,523          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-09 20:23:37,175          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-09 20:23:37,414          root     INFO: Parsing R7 - Brasil
-2020-11-09 20:23:41,795          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicao-eua-sergio-moro-cita-abraham-lincoln-e-pede-uniao-09112020
-2020-11-09 20:23:41,805          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sugere-que-eleitor-pense-na-pandemia-ao-escolher-prefeito-09112020
-2020-11-09 20:23:41,814          root     INFO: New article tracked: http://noticias.r7.com/brasil/vamos-aguardar-e-prudente-diz-mourao-sobre-vitoria-de-joe-biden-09112020
-2020-11-09 20:23:41,822          root     INFO: New article tracked: http://noticias.r7.com/brasil/campanha-alerta-caminhoneiros-sobre-roubo-de-cargas-09112020
-2020-11-09 20:23:41,829          root     INFO: New article tracked: http://noticias.r7.com/brasil/ribeiro-fala-de-alimentacao-escolar-e-ganha-apoio-de-bolsonaro-09112020
-2020-11-09 20:23:41,838          root     INFO: New article tracked: http://noticias.r7.com/brasil/hacker-mantem-posse-de-processos-do-stj-e-peritos-temem-vazamento-09112020
-2020-11-09 20:23:41,845          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-acao-de-combate-a-fraudes-no-auxilio-emergencial-09112020
-2020-11-09 20:23:41,852          root     INFO: New article tracked: http://noticias.r7.com/brasil/pre-natal-tardio-pode-permitir-transmissao-da-sifilis-em-bebes-09112020
-2020-11-09 20:23:41,860          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-autoriza-retorno-gradual-de-visitas-presenciais-em-presidios-09112020
-2020-11-09 20:23:41,868          root     INFO: New article tracked: http://noticias.r7.com/brasil/auxilio-emergencial-negado-gera-2-em-cada-3-processos-sobre-covid-19-09112020
-2020-11-09 20:23:41,875          root     INFO: New article tracked: http://noticias.r7.com/brasil/avioes-e-navios-das-forcas-armadas-comecam-a-chegar-no-amapa-08112020
-2020-11-09 20:23:42,017          root     INFO: Finished script
+2020-11-09 20:29:05,482          root     INFO: Starting script
+2020-11-09 20:29:07,164          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-09 20:29:10,401          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-09 20:29:14,124          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-09 20:29:14,368          root     INFO: Parsing R7 - Brasil
+2020-11-09 20:29:19,203          root     INFO: Removed http://noticias.r7.com/brasil/eleicao-eua-sergio-moro-cita-abraham-lincoln-e-pede-uniao-09112020
+2020-11-09 20:29:19,206          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sugere-que-eleitor-pense-na-pandemia-ao-escolher-prefeito-09112020
+2020-11-09 20:29:19,209          root     INFO: Removed http://noticias.r7.com/brasil/vamos-aguardar-e-prudente-diz-mourao-sobre-vitoria-de-joe-biden-09112020
+2020-11-09 20:29:19,210          root     INFO: Finished script
