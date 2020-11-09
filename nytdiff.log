@@ -1,13 +1,18 @@
-2020-11-09 19:26:49,765          root     INFO: Starting script
-2020-11-09 19:26:50,604          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-09 19:26:51,288          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-09 19:26:51,952          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-09 19:26:52,111          root     INFO: Parsing R7 - Brasil
-2020-11-09 19:26:52,473          root     INFO: As Américas estão vivendo em 2020 um ano memorável para as mulheres na política. Depois das conquistas femininas na Bolívia e no Chile, pela primeira vez uma mulher, negra de ascendência asiática, chega à Vice-Presidência de um dos países mais influentes do planeta. A vitória da chapa Biden-Harris é um marco dos mais significativos na luta pela igualdade de gênero e de raça não só nos Estados Unidos, mas também no mundo. Como vice-presidente, Kamala será também a pessoa que irá presidir o Senado. O ineditismo da eleição de Kamala Harris para Vice-Presidência dos Estados Unidos tem significado enorme em termos de representatividade. Por representatividade, entenda-se permitir que as pessoas, sobretudo as que integram grupos que estão à margem das esferas de poder e de decisão, se reconheçam no outro. Leia mais (11/08/2020 - 23h15)
-2020-11-09 19:26:54,537          root     INFO: Media ready with ids: 1325882574925930502
-2020-11-09 19:26:54,538          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-09 19:26:54,538          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/11/yes-we-can.shtml
-2020-11-09 19:26:54,543          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/11/yes-we-can.shtml
-2020-11-09 19:26:54,701          root     INFO: Replying to: 1325882576582680579
-2020-11-09 19:26:54,919          root     INFO: Id to store: 1325882577274753025
-2020-11-09 19:26:59,370          root     INFO: Finished script
+2020-11-09 19:46:50,477          root     INFO: Starting script
+2020-11-09 19:46:51,274          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-09 19:46:51,913          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-09 19:46:52,554          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-09 19:46:52,824          root     INFO: Parsing R7 - Brasil
+2020-11-09 19:46:54,484          root     INFO: <del>Candidato à Prefeitura do Rio,</del> <ins>Em sabatina Folha/UOL,</ins> Fred Luz <del>participa</del> <ins>diz que Novo não tem mito nem salvador</ins> da <del>sabatina Folha/UOL</del> <ins>pátria</ins>
+2020-11-09 19:46:56,152          root     INFO: Media ready with ids: 1325887615225225216
+2020-11-09 19:46:56,153          root     INFO: Text to tweet: Modificação do Título
+2020-11-09 19:46:56,154          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-fred-luz-participa-da-sabatina-folhauol.shtml
+2020-11-09 19:46:56,161          root     INFO: Replying to: 1325881120215461888
+2020-11-09 19:46:56,398          root     INFO: Id to store: 1325887616689041409
+2020-11-09 19:46:56,407          root     INFO: <del>A Folha, em parceria com o UOL, sabatina nesta segunda-feira (9),</del> Fred Luz, candidato pelo Novo à Prefeitura do <del>Rio</del> <ins>Rio, disse que está no partido para ir contra a política</ins> de <del>Janeiro, às 15h.</del> <ins>mitos e salvadores da pátria.</ins> Leia mais (11/09/2020 - 08h41)
+2020-11-09 19:46:58,120          root     INFO: Media ready with ids: 1325887623307677703
+2020-11-09 19:46:58,121          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-09 19:46:58,121          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-fred-luz-participa-da-sabatina-folhauol.shtml
+2020-11-09 19:46:58,126          root     INFO: Replying to: 1325887616689041409
+2020-11-09 19:46:58,405          root     INFO: Id to store: 1325887625098653703
+2020-11-09 19:47:00,822          root     INFO: Finished script
