@@ -1,6 +1,13 @@
-2020-11-09 14:29:36,151          root     INFO: Starting script
-2020-11-09 14:29:36,994          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-09 14:29:37,676          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-09 14:29:38,359          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-09 14:29:38,516          root     INFO: Parsing R7 - Brasil
-2020-11-09 14:29:42,976          root     INFO: Finished script
+2020-11-09 14:46:43,823          root     INFO: Starting script
+2020-11-09 14:46:44,647          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-09 14:46:45,283          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-09 14:46:45,930          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-09 14:46:46,063          root     INFO: Parsing R7 - Brasil
+2020-11-09 14:46:47,422          root     INFO: A defesa do senador Flávio Bolsonaro (Republicanos-RJ) <del>protocolou,</del> <ins>protocolou</ins> na tarde da sexta-feira <del>(6),</del> <ins>(6)</ins> uma notícia-crime contra os apresentadores do Jornal Nacional, William Bonner e Renata Vasconcellos, por veicularem informações sobre as investigações do caso das <del>rachadinhas</del> <ins>supostas "rachadinhas"</ins> no gabinete de Flávio quando <ins>essa</ins> era deputado <del>estadual.</del> <ins>estadual no Rio de Janeiro.</ins> Leia mais (11/09/2020 - 10h14)
+2020-11-09 14:46:49,321          root     INFO: Media ready with ids: 1325812088607035392
+2020-11-09 14:46:49,322          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-09 14:46:49,322          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/defesa-de-flavio-bolsonaro-protocola-noticia-crime-contra-william-bonner-e-renata-vasconcellos.shtml
+2020-11-09 14:46:49,329          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/defesa-de-flavio-bolsonaro-protocola-noticia-crime-contra-william-bonner-e-renata-vasconcellos.shtml
+2020-11-09 14:46:49,527          root     INFO: Replying to: 1325812090620305408
+2020-11-09 14:46:49,769          root     INFO: Id to store: 1325812091417137153
+2020-11-09 14:46:52,077          root     INFO: Finished script
