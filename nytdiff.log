@@ -1,26 +1,26 @@
-2020-11-09 23:28:52,293          root     INFO: Starting script
-2020-11-09 23:28:53,092          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-09 23:28:53,744          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-09 23:28:54,389          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-09 23:28:54,681          root     INFO: Parsing R7 - Brasil
-2020-11-09 23:28:58,370          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-diz-que-vacina-da-pfizer-e-analisada-para-aquisicao-09112020
-2020-11-09 23:28:58,380          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-manda-ao-plenario-pedido-de-lula-sobre-mensagens-hackeadas-09112020
-2020-11-09 23:28:58,387          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-operacao-contra-quadrilha-que-movimentou-mais-de-r-24-mi-09112020
-2020-11-09 23:28:58,394          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-do-stf-alerta-para-a-excessiva-judicializacao-no-pais-09112020
-2020-11-09 23:28:58,401          root     INFO: New article tracked: http://noticias.r7.com/brasil/justica-britanica-nega-julgar-acao-coletiva-contra-bhp-por-mariana-09112020
-2020-11-09 23:28:58,407          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-preve-normalizacao-de-80-do-fornecimento-de-energia-no-ap-09112020
-2020-11-09 23:28:58,414          root     INFO: New article tracked: http://noticias.r7.com/brasil/stj-retoma-trabalhos-seis-dias-apos-ataque-de-hacker-a-sistemas-09112020
-2020-11-09 23:28:58,423          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-2020-conheca-os-candidatos-a-prefeitura-de-belem-09112020
-2020-11-09 23:28:58,429          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-aguarda-recontagem-de-votos-e-acoes-para-felicitar-biden-09112020
-2020-11-09 23:28:58,437          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-2020-conheca-os-candidatos-a-prefeitura-de-boa-vista-09112020
-2020-11-09 23:28:58,444          root     INFO: New article tracked: http://noticias.r7.com/brasil/dados-da-coronavac-serao-abertos-em-breve-diz-secretario-de-sp-09112020
-2020-11-09 23:28:58,452          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-2020-conheca-os-candidatos-a-prefeitura-de-macapa-09112020
-2020-11-09 23:28:58,458          root     INFO: New article tracked: http://noticias.r7.com/brasil/falta-de-energia-leva-rede-estadual-a-suspender-aulas-remotas-no-amapa-09112020
-2020-11-09 23:28:58,465          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-manda-ao-plenario-do-stf-recurso-de-lula-sobre-caso-triplex-09112020
-2020-11-09 23:28:58,471          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-denuncia-ex-deputado-eduardo-cunha-por-improbidade-09112020
-2020-11-09 23:28:58,479          root     INFO: New article tracked: http://noticias.r7.com/brasil/min-da-agricultura-determina-volta-de-equipes-a-trabalho-presencial-09112020
-2020-11-09 23:28:58,487          root     INFO: New article tracked: http://noticias.r7.com/brasil/crise-no-ap-alcolumbre-faz-bate-volta-para-se-reunir-com-bolsonaro-09112020
-2020-11-09 23:28:58,493          root     INFO: New article tracked: http://noticias.r7.com/brasil/acoes-de-empresas-aereas-sobem-apos-noticia-sobre-vacina-da-pfizer-09112020
-2020-11-09 23:28:58,500          root     INFO: New article tracked: http://noticias.r7.com/brasil/doria-diz-que-pazuello-prometeu-recursos-ao-butantan-e-nao-deu-09112020
-2020-11-09 23:28:58,507          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-indicara-gestores-para-empresas-investigadas-por-trafico-09112020
-2020-11-09 23:28:58,513          root     INFO: Finished script
+2020-11-09 23:46:48,182          root     INFO: Starting script
+2020-11-09 23:46:48,984          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-09 23:46:49,633          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-09 23:46:50,286          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-09 23:46:50,543          root     INFO: Parsing R7 - Brasil
+2020-11-09 23:46:54,545          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-aguarda-recontagem-de-votos-e-acoes-para-felicitar-biden-09112020
+2020-11-09 23:46:54,547          root     INFO: Removed http://noticias.r7.com/brasil/acoes-de-empresas-aereas-sobem-apos-noticia-sobre-vacina-da-pfizer-09112020
+2020-11-09 23:46:54,550          root     INFO: Removed http://noticias.r7.com/brasil/fachin-manda-ao-plenario-do-stf-recurso-de-lula-sobre-caso-triplex-09112020
+2020-11-09 23:46:54,552          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-2020-conheca-os-candidatos-a-prefeitura-de-macapa-09112020
+2020-11-09 23:46:54,554          root     INFO: Removed http://noticias.r7.com/brasil/ministro-preve-normalizacao-de-80-do-fornecimento-de-energia-no-ap-09112020
+2020-11-09 23:46:54,557          root     INFO: Removed http://noticias.r7.com/brasil/justica-britanica-nega-julgar-acao-coletiva-contra-bhp-por-mariana-09112020
+2020-11-09 23:46:54,560          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-2020-conheca-os-candidatos-a-prefeitura-de-boa-vista-09112020
+2020-11-09 23:46:54,562          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-operacao-contra-quadrilha-que-movimentou-mais-de-r-24-mi-09112020
+2020-11-09 23:46:54,564          root     INFO: Removed http://noticias.r7.com/brasil/falta-de-energia-leva-rede-estadual-a-suspender-aulas-remotas-no-amapa-09112020
+2020-11-09 23:46:54,567          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-2020-conheca-os-candidatos-a-prefeitura-de-belem-09112020
+2020-11-09 23:46:54,569          root     INFO: Removed http://noticias.r7.com/brasil/presidente-do-stf-alerta-para-a-excessiva-judicializacao-no-pais-09112020
+2020-11-09 23:46:54,571          root     INFO: Removed http://noticias.r7.com/brasil/fachin-manda-ao-plenario-pedido-de-lula-sobre-mensagens-hackeadas-09112020
+2020-11-09 23:46:54,573          root     INFO: Removed http://noticias.r7.com/brasil/crise-no-ap-alcolumbre-faz-bate-volta-para-se-reunir-com-bolsonaro-09112020
+2020-11-09 23:46:54,576          root     INFO: Removed http://noticias.r7.com/brasil/min-da-agricultura-determina-volta-de-equipes-a-trabalho-presencial-09112020
+2020-11-09 23:46:54,578          root     INFO: Removed http://noticias.r7.com/brasil/dados-da-coronavac-serao-abertos-em-breve-diz-secretario-de-sp-09112020
+2020-11-09 23:46:54,581          root     INFO: Removed http://noticias.r7.com/brasil/doria-diz-que-pazuello-prometeu-recursos-ao-butantan-e-nao-deu-09112020
+2020-11-09 23:46:54,583          root     INFO: Removed http://noticias.r7.com/brasil/stj-retoma-trabalhos-seis-dias-apos-ataque-de-hacker-a-sistemas-09112020
+2020-11-09 23:46:54,586          root     INFO: Removed http://noticias.r7.com/brasil/governo-indicara-gestores-para-empresas-investigadas-por-trafico-09112020
+2020-11-09 23:46:54,588          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-diz-que-vacina-da-pfizer-e-analisada-para-aquisicao-09112020
+2020-11-09 23:46:54,591          root     INFO: Removed http://noticias.r7.com/brasil/mpf-denuncia-ex-deputado-eduardo-cunha-por-improbidade-09112020
+2020-11-09 23:46:54,592          root     INFO: Finished script
