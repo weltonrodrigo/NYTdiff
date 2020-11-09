@@ -1,26 +1,12 @@
-2020-11-09 23:46:48,182          root     INFO: Starting script
-2020-11-09 23:46:48,984          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-09 23:46:49,633          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-09 23:46:50,286          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-09 23:46:50,543          root     INFO: Parsing R7 - Brasil
-2020-11-09 23:46:54,545          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-aguarda-recontagem-de-votos-e-acoes-para-felicitar-biden-09112020
-2020-11-09 23:46:54,547          root     INFO: Removed http://noticias.r7.com/brasil/acoes-de-empresas-aereas-sobem-apos-noticia-sobre-vacina-da-pfizer-09112020
-2020-11-09 23:46:54,550          root     INFO: Removed http://noticias.r7.com/brasil/fachin-manda-ao-plenario-do-stf-recurso-de-lula-sobre-caso-triplex-09112020
-2020-11-09 23:46:54,552          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-2020-conheca-os-candidatos-a-prefeitura-de-macapa-09112020
-2020-11-09 23:46:54,554          root     INFO: Removed http://noticias.r7.com/brasil/ministro-preve-normalizacao-de-80-do-fornecimento-de-energia-no-ap-09112020
-2020-11-09 23:46:54,557          root     INFO: Removed http://noticias.r7.com/brasil/justica-britanica-nega-julgar-acao-coletiva-contra-bhp-por-mariana-09112020
-2020-11-09 23:46:54,560          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-2020-conheca-os-candidatos-a-prefeitura-de-boa-vista-09112020
-2020-11-09 23:46:54,562          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-operacao-contra-quadrilha-que-movimentou-mais-de-r-24-mi-09112020
-2020-11-09 23:46:54,564          root     INFO: Removed http://noticias.r7.com/brasil/falta-de-energia-leva-rede-estadual-a-suspender-aulas-remotas-no-amapa-09112020
-2020-11-09 23:46:54,567          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-2020-conheca-os-candidatos-a-prefeitura-de-belem-09112020
-2020-11-09 23:46:54,569          root     INFO: Removed http://noticias.r7.com/brasil/presidente-do-stf-alerta-para-a-excessiva-judicializacao-no-pais-09112020
-2020-11-09 23:46:54,571          root     INFO: Removed http://noticias.r7.com/brasil/fachin-manda-ao-plenario-pedido-de-lula-sobre-mensagens-hackeadas-09112020
-2020-11-09 23:46:54,573          root     INFO: Removed http://noticias.r7.com/brasil/crise-no-ap-alcolumbre-faz-bate-volta-para-se-reunir-com-bolsonaro-09112020
-2020-11-09 23:46:54,576          root     INFO: Removed http://noticias.r7.com/brasil/min-da-agricultura-determina-volta-de-equipes-a-trabalho-presencial-09112020
-2020-11-09 23:46:54,578          root     INFO: Removed http://noticias.r7.com/brasil/dados-da-coronavac-serao-abertos-em-breve-diz-secretario-de-sp-09112020
-2020-11-09 23:46:54,581          root     INFO: Removed http://noticias.r7.com/brasil/doria-diz-que-pazuello-prometeu-recursos-ao-butantan-e-nao-deu-09112020
-2020-11-09 23:46:54,583          root     INFO: Removed http://noticias.r7.com/brasil/stj-retoma-trabalhos-seis-dias-apos-ataque-de-hacker-a-sistemas-09112020
-2020-11-09 23:46:54,586          root     INFO: Removed http://noticias.r7.com/brasil/governo-indicara-gestores-para-empresas-investigadas-por-trafico-09112020
-2020-11-09 23:46:54,588          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-diz-que-vacina-da-pfizer-e-analisada-para-aquisicao-09112020
-2020-11-09 23:46:54,591          root     INFO: Removed http://noticias.r7.com/brasil/mpf-denuncia-ex-deputado-eduardo-cunha-por-improbidade-09112020
-2020-11-09 23:46:54,592          root     INFO: Finished script
+2020-11-09 23:57:57,880          root     INFO: Starting script
+2020-11-09 23:57:58,824          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-09 23:57:59,475          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-09 23:58:00,126          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-09 23:58:00,389          root     INFO: Parsing R7 - Brasil
+2020-11-09 23:58:02,068          root     INFO: A pedido <del>do</del> <ins>de Eduardo Braide (Podemos),</ins> candidato a prefeito em São Luís <del>(MA) Eduardo Braide (Podemos),</del> <ins>(MA),</ins> a juíza Cristiana de Sousa Ferraz Leite, da 76ª Zona Eleitoral do Maranhão, censurou publicação da Folha sobre um documento do Ministério Público que citava o político como investigado. Leia mais (11/09/2020 - 14h21)
+2020-11-09 23:58:03,926          root     INFO: Media ready with ids: 1325950813848678405
+2020-11-09 23:58:03,927          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-09 23:58:03,927          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/juiza-do-maranhao-impoe-censura-a-folha-em-caso-envolvendo-candidato-em-sao-luis.shtml
+2020-11-09 23:58:03,933          root     INFO: Replying to: 1325857412734136320
+2020-11-09 23:58:04,167          root     INFO: Id to store: 1325950815476064256
+2020-11-09 23:58:06,903          root     INFO: Finished script
