@@ -1,6 +1,26 @@
-2020-11-10 21:26:55,324          root     INFO: Starting script
-2020-11-10 21:26:56,152          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-10 21:26:56,824          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-10 21:26:57,493          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-10 21:26:57,729          root     INFO: Parsing R7 - Brasil
-2020-11-10 21:27:01,981          root     INFO: Finished script
+2020-11-10 21:46:48,879          root     INFO: Starting script
+2020-11-10 21:46:49,951          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-10 21:46:50,612          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-10 21:46:51,265          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-10 21:46:51,405          root     INFO: Parsing R7 - Brasil
+2020-11-10 21:46:51,702          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/bolsonaro-mente-e-usa-tumulo-como-palanque-para-buscar-vitoria-particular.shtml
+2020-11-10 21:46:53,126          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/bolsonaro-mente-e-usa-tumulo-como-palanque-para-buscar-vitoria-particular.shtml
+2020-11-10 21:46:53,136          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/apoiadora-de-candidata-trans-e-agredida-com-mordidas-e-golpes-de-bastao-de-metal-na-avenida-paulista.shtml
+2020-11-10 21:46:53,148          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405031
+2020-11-10 21:46:56,104          root     INFO: Removed http://noticias.r7.com/brasil/eleitores-nao-podem-ser-presos-nem-detidos-a-partir-desta-terca-feira-10112020
+2020-11-10 21:46:56,107          root     INFO: Removed http://noticias.r7.com/brasil/marinho-anuncia-liberacao-de-r-215-milhoes-para-o-amapa-10112020
+2020-11-10 21:46:56,113          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-rejeita-denuncia-do-ministerio-publico-contra-lider-do-mbl-por-trafico-de-influencia.shtml
+2020-11-10 21:46:56,115          root     INFO: Removed http://noticias.r7.com/brasil/governo-reconhece-emergencia-por-covid-19-no-rio-grande-do-norte-10112020
+2020-11-10 21:46:56,118          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-promovem-debate-com-os-quatro-principais-candidatos-a-prefeitura-de-sp.shtml
+2020-11-10 21:46:56,121          root     INFO: Removed http://noticias.r7.com/brasil/stf-condena-ex-senador-a-7-anos-de-prisao-em-processo-da-lava-jato-10112020
+2020-11-10 21:46:56,123          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-diz-que-nao-recebeu-da-forma-certa-informacao-de-suicidio-10112020
+2020-11-10 21:46:56,126          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-quem-paga-pesquisa-eleitoral-aparece-na-frente-10112020
+2020-11-10 21:46:56,129          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-diz-que-falta-de-informacoes-levou-a-interrupcao-da-coronavac-10112020
+2020-11-10 21:46:56,131          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandre-schneider/2020/11/ensino-hibrido-nao-e-so-a-juncao-de-aulas-presenciais-e-remotas.shtml
+2020-11-10 21:46:56,138          root     INFO: Removed http://noticias.r7.com/brasil/senador-luis-carlos-heinze-e-diagnosticado-com-covid-19-10112020
+2020-11-10 21:46:56,140          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-tuita-sobre-acoes-contra-covid-apos-suspensao-de-coronavac-10112020
+2020-11-10 21:46:56,142          root     INFO: Removed http://noticias.r7.com/brasil/comissao-do-congresso-convoca-diretores-da-anvisa-e-butantan-10112020
+2020-11-10 21:46:56,144          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/indicado-por-bolsonaro-kassio-sera-relator-de-acao-no-stf-que-questiona-foro-de-flavio-no-caso-rachadinha.shtml
+2020-11-10 21:46:56,146          root     INFO: Removed http://noticias.r7.com/brasil/moraes-suspende-inquerito-contra-ex-marqueteiro-de-aecio-neves-10112020
+2020-11-10 21:46:56,148          root     INFO: Removed http://noticias.r7.com/brasil/pandemia-faz-custo-do-governo-federal-crescer-70-no-1-semestre-10112020
+2020-11-10 21:46:56,149          root     INFO: Finished script
