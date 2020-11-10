@@ -1,6 +1,12 @@
-2020-11-10 10:57:53,338          root     INFO: Starting script
-2020-11-10 10:57:54,294          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-10 10:57:54,981          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-10 10:57:55,667          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-10 10:57:55,794          root     INFO: Parsing R7 - Brasil
-2020-11-10 10:58:00,163          root     INFO: Finished script
+2020-11-10 11:14:38,476          root     INFO: Starting script
+2020-11-10 11:14:39,306          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-10 11:14:39,986          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-10 11:14:40,648          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-10 11:14:40,745          root     INFO: Parsing R7 - Brasil
+2020-11-10 11:14:41,058          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/cinturao-verde-guarani-ja.shtml
+2020-11-10 11:14:42,424          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/morte-de-cicloativista-em-sp-leva-bicicletas-no-transito-para-campanha-favoritos-tem-planos-genericos.shtml
+2020-11-10 11:14:42,433          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3673
+2020-11-10 11:14:45,297          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10271
+2020-11-10 11:14:45,299          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatos-celso-russomanno-de-sp-e-paulo-messina-do-rio-participam-da-sabatina-folhauol.shtml
+2020-11-10 11:14:45,302          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/confissao-amplia-mapa-da-rachadinha-no-gabinete-de-flavio-bolsonaro.shtml
+2020-11-10 11:14:45,303          root     INFO: Finished script
