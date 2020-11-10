@@ -1,8 +1,10 @@
-2020-11-10 14:57:56,377          root     INFO: Starting script
-2020-11-10 14:57:57,471          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-10 14:57:58,169          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-10 14:57:58,862          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-10 14:57:59,155          root     INFO: Parsing R7 - Brasil
-2020-11-10 14:58:01,175          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405019
-2020-11-10 14:58:04,878          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidato-a-prefeitura-do-rio-paulo-messina-participa-da-sabatina-folhauol.shtml
-2020-11-10 14:58:04,879          root     INFO: Finished script
+2020-11-10 15:16:58,602          root     INFO: Starting script
+2020-11-10 15:16:59,439          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-10 15:17:00,106          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-10 15:17:00,782          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-10 15:17:00,895          root     INFO: Parsing R7 - Brasil
+2020-11-10 15:17:02,560          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-lives-no-rio-candidatos-erram-sobre-saude-pesquisas-e-estrutura-da-prefeitura.shtml
+2020-11-10 15:17:02,570          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sem-dinheiro-candidatos-fazem-campanha-na-raca-e-puxam-cortejo-em-jaboticabal.shtml
+2020-11-10 15:17:05,466          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sem-debates-na-tv-candidatos-recorrem-a-encontros-em-praca-publica-e-na-internet.shtml
+2020-11-10 15:17:05,469          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/exclusivo-lista-do-tcu-tem-politicos-milionarios-que-receberam-auxilio-emergencial-veja.shtml
+2020-11-10 15:17:05,470          root     INFO: Finished script
