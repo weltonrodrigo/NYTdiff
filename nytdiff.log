@@ -1,8 +1,20 @@
-2020-11-10 20:46:47,681          root     INFO: Starting script
-2020-11-10 20:46:48,491          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-10 20:46:49,143          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-10 20:46:49,797          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-10 20:46:50,249          root     INFO: Parsing R7 - Brasil
-2020-11-10 20:46:51,796          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/kassio-cumpre-expectativa-e-se-alinha-a-gilmar-e-lewandowski-para-impor-derrota-a-lava-jato-no-stf.shtml
-2020-11-10 20:46:54,453          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48470
-2020-11-10 20:46:54,454          root     INFO: Finished script
+2020-11-10 20:57:42,725          root     INFO: Starting script
+2020-11-10 20:57:43,559          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-10 20:57:44,242          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-10 20:57:44,912          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-10 20:57:45,053          root     INFO: Parsing R7 - Brasil
+2020-11-10 20:57:46,784          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/skaf-recebera-franca-no-senai-na-vespera-da-eleicao-mas-diz-que-nao-dara-apoio-formal.shtml
+2020-11-10 20:57:49,483          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleitores-nao-podem-ser-presos-nem-detidos-a-partir-desta-terca-feira-10112020
+2020-11-10 20:57:49,490          root     INFO: New article tracked: http://noticias.r7.com/brasil/pandemia-faz-custo-do-governo-federal-crescer-70-no-1-semestre-10112020
+2020-11-10 20:57:49,498          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-do-congresso-convoca-diretores-da-anvisa-e-butantan-10112020
+2020-11-10 20:57:49,507          root     INFO: New article tracked: http://noticias.r7.com/brasil/marinho-anuncia-liberacao-de-r-215-milhoes-para-o-amapa-10112020
+2020-11-10 20:57:49,515          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-condena-ex-senador-a-7-anos-de-prisao-em-processo-da-lava-jato-10112020
+2020-11-10 20:57:49,523          root     INFO: New article tracked: http://noticias.r7.com/brasil/moraes-suspende-inquerito-contra-ex-marqueteiro-de-aecio-neves-10112020
+2020-11-10 20:57:49,541          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-diz-que-nao-recebeu-da-forma-certa-informacao-de-suicidio-10112020
+2020-11-10 20:57:49,550          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-diz-que-falta-de-informacoes-levou-a-interrupcao-da-coronavac-10112020
+2020-11-10 20:57:49,558          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-quem-paga-pesquisa-eleitoral-aparece-na-frente-10112020
+2020-11-10 20:57:49,568          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-luis-carlos-heinze-e-diagnosticado-com-covid-19-10112020
+2020-11-10 20:57:49,576          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-reconhece-emergencia-por-covid-19-no-rio-grande-do-norte-10112020
+2020-11-10 20:57:49,586          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-tuita-sobre-acoes-contra-covid-apos-suspensao-de-coronavac-10112020
+2020-11-10 20:57:49,708          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/ciro-gomes-avisa-marcio-franca-que-embarca-na-segunda-9-em-campanha-em-sp.shtml
+2020-11-10 20:57:49,709          root     INFO: Finished script
