@@ -1,10 +1,13 @@
-2020-11-10 18:46:51,391          root     INFO: Starting script
-2020-11-10 18:46:52,173          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-10 18:46:52,814          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-10 18:46:53,448          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-10 18:46:53,616          root     INFO: Parsing R7 - Brasil
-2020-11-10 18:46:54,919          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/camila-pitanga-e-marina-person-assinam-manifesto-de-uniao-da-esquerda-por-boulos-e-benedita-da-silva.shtml
-2020-11-10 18:46:54,929          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/desistir-por-boulos-seria-dar-cavalo-de-pau-com-transatlantico-que-poderia-afundar-diz-vice-de-tatto.shtml
-2020-11-10 18:46:57,099          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/russomanno-erra-sobre-gastos-de-campanha-e-posicionamentos-sobre-pandemia-na-sabatina-folhauol.shtml
-2020-11-10 18:46:57,102          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entidade-ligado-ao-movimento-negro-ve-fala-racista-e-presta-queixa-contra-russomanno.shtml
-2020-11-10 18:46:57,102          root     INFO: Finished script
+2020-11-10 18:58:16,091          root     INFO: Starting script
+2020-11-10 18:58:16,929          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-10 18:58:17,612          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-10 18:58:18,285          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-10 18:58:18,507          root     INFO: Parsing R7 - Brasil
+2020-11-10 18:58:20,187          root     INFO: <del>Vice-candidato</del> <ins>Vice na chapa</ins> do petista Jilmar Tatto, o deputado federal Carlos Zarattini (PT) diz que <del>a chapa tem</del> <ins>eles têm</ins> expectativa de crescer até o dia do primeiro turno da eleição municipal, no domingo (15), e que não <del>vai</del> <ins>irão</ins> abrir mão da candidatura <del>com o propósito de</del> <ins>para</ins> ajudar Guilherme Boulos <del>(PSOL).</del> <ins>(PSOL), como deles é cobrado de parte da esquerda.</ins> Leia mais (11/10/2020 - 15h32)
+2020-11-10 18:58:22,045          root     INFO: Media ready with ids: 1326237779995586564
+2020-11-10 18:58:22,045          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-10 18:58:22,045          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/desistir-por-boulos-seria-dar-cavalo-de-pau-com-transatlantico-que-poderia-afundar-diz-vice-de-tatto.shtml
+2020-11-10 18:58:22,051          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/desistir-por-boulos-seria-dar-cavalo-de-pau-com-transatlantico-que-poderia-afundar-diz-vice-de-tatto.shtml
+2020-11-10 18:58:22,235          root     INFO: Replying to: 1326237781782302722
+2020-11-10 18:58:22,485          root     INFO: Id to store: 1326237782621253642
+2020-11-10 18:58:25,371          root     INFO: Finished script
