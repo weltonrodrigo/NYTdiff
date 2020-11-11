@@ -1,6 +1,21 @@
-2020-11-11 15:26:45,666          root     INFO: Starting script
-2020-11-11 15:26:46,482          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-11 15:26:47,147          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-11 15:26:47,808          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-11 15:26:47,940          root     INFO: Parsing R7 - Brasil
-2020-11-11 15:26:52,305          root     INFO: Finished script
+2020-11-11 15:46:53,536          root     INFO: Starting script
+2020-11-11 15:46:54,331          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-11 15:46:54,978          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-11 15:46:55,628          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-11 15:46:55,805          root     INFO: Parsing R7 - Brasil
+2020-11-11 15:46:57,339          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/televisao/2020/11/ana-maria-braga-rebate-fala-de-bolsonaro-sobre-pais-de-maricas-homens-e-mulheres-guerreiros.shtml
+2020-11-11 15:46:57,377          root     INFO: <del>Covas vira alvo preferencial e rivaliza com Boulos no</del> <ins>Com formato inovador,</ins> debate Folha/UOL <ins>acirra disputa pelo 2º lugar para Prefeitura de SP</ins>
+2020-11-11 15:46:59,344          root     INFO: Media ready with ids: 1326552005989462016
+2020-11-11 15:46:59,345          root     INFO: Text to tweet: Modificação do Título
+2020-11-11 15:46:59,346          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-vira-alvo-preferencial-e-rivaliza-com-boulos-no-debate-folhauol.shtml
+2020-11-11 15:46:59,351          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-vira-alvo-preferencial-e-rivaliza-com-boulos-no-debate-folhauol.shtml
+2020-11-11 15:46:59,617          root     INFO: Replying to: 1326552007923003392
+2020-11-11 15:46:59,954          root     INFO: Id to store: 1326552009047076871
+2020-11-11 15:46:59,958          root     INFO: Candidato à reeleição e líder nas pesquisas, Bruno Covas (PSDB) virou o alvo preferencial dos adversários no debate entre os candidatos à Prefeitura de São Paulo promovido pela Folha e o UOL nesta quarta-feira <del>(11).</del> <ins>(11), palco também de uma briga acirrada entre os que buscam uma vaga no segundo turno.</ins> Leia mais (11/11/2020 - 11h41)
+2020-11-11 15:47:02,000          root     INFO: Media ready with ids: 1326552017066577920
+2020-11-11 15:47:02,000          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-11 15:47:02,000          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-vira-alvo-preferencial-e-rivaliza-com-boulos-no-debate-folhauol.shtml
+2020-11-11 15:47:02,011          root     INFO: Replying to: 1326552009047076871
+2020-11-11 15:47:02,431          root     INFO: Id to store: 1326552019054727170
+2020-11-11 15:47:04,915          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/11/por-mais-que-se-facam-trapalhadas-com-processo-das-rachadinhas-manobra-da-defesa-tem-nexo.shtml
+2020-11-11 15:47:04,916          root     INFO: Finished script
