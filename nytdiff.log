@@ -1,19 +1,6 @@
-2020-11-11 21:20:27,049          root     INFO: Starting script
-2020-11-11 21:20:27,916          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-11 21:20:28,612          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-11 21:20:29,304          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-11 21:20:29,481          root     INFO: Parsing R7 - Brasil
-2020-11-11 21:20:31,462          root     INFO: Procurador-chefe de Goiás <del>afirma que processará</del> <ins>processa</ins> agência de checagem
-2020-11-11 21:20:33,224          root     INFO: Media ready with ids: 1326635950357815297
-2020-11-11 21:20:33,225          root     INFO: Text to tweet: Modificação do Título
-2020-11-11 21:20:33,225          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/procurador-chefe-de-goias-afirma-que-processara-agencia-de-checagem.shtml
-2020-11-11 21:20:33,232          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/procurador-chefe-de-goias-afirma-que-processara-agencia-de-checagem.shtml
-2020-11-11 21:20:33,432          root     INFO: Replying to: 1326635951989387265
-2020-11-11 21:20:33,653          root     INFO: Id to store: 1326635952798920704
-2020-11-11 21:20:33,659          root     INFO: O procurador-chefe do Ministério Público Federal em Goiás, Ailton Benedito, afirmou em sua conta no Twitter nesta quarta-feira (11) que <del>processará</del> <ins>está processando</ins> a agência de checagem Aos Fatos. Leia mais (11/11/2020 - 16h11)
-2020-11-11 21:20:38,400          root     INFO: Media ready with ids: 1326635972319174658
-2020-11-11 21:20:38,400          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-11 21:20:38,400          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/procurador-chefe-de-goias-afirma-que-processara-agencia-de-checagem.shtml
-2020-11-11 21:20:38,406          root     INFO: Replying to: 1326635952798920704
-2020-11-11 21:20:38,638          root     INFO: Id to store: 1326635973652963330
-2020-11-11 21:20:42,120          root     INFO: Finished script
+2020-11-11 21:26:50,910          root     INFO: Starting script
+2020-11-11 21:26:51,779          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-11 21:26:52,558          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-11 21:26:53,197          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-11 21:26:53,339          root     INFO: Parsing R7 - Brasil
+2020-11-11 21:26:57,352          root     INFO: Finished script
