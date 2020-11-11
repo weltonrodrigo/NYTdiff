@@ -1,31 +1,35 @@
-2020-11-11 19:46:50,388          root     INFO: Starting script
-2020-11-11 19:46:51,195          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-11 19:46:51,856          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-11 19:46:52,509          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-11 19:46:52,722          root     INFO: Parsing R7 - Brasil
-2020-11-11 19:46:54,630          root     INFO: Candidatos à <del>prefeitura</del> <ins>Prefeitura</ins> de São Paulo participaram na manhã desta quarta-feira (11) de debate das eleições 2020 promovido pela Folha e pelo UOL. Leia mais (11/11/2020 - 12h55)
-2020-11-11 19:46:56,479          root     INFO: Media ready with ids: 1326612392063758336
-2020-11-11 19:46:56,479          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-11 19:46:56,479          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/veja-erros-acertos-e-exageros-dos-candidatos-a-prefeito-de-sp-no-debate-folhauol.shtml
-2020-11-11 19:46:56,484          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/veja-erros-acertos-e-exageros-dos-candidatos-a-prefeito-de-sp-no-debate-folhauol.shtml
-2020-11-11 19:46:56,701          root     INFO: Replying to: 1326612393833672705
-2020-11-11 19:46:56,921          root     INFO: Id to store: 1326612394563555333
-2020-11-11 19:46:59,645          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-respondera-questoes-do-stf-sobre-vacina-ate-sexta-por-escrito-11112020
-2020-11-11 19:46:59,652          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-ataque-ao-stj-fux-cria-comite-para-combater-crimes-virtuais-11112020
-2020-11-11 19:46:59,661          root     INFO: New article tracked: http://noticias.r7.com/brasil/butantan-celebra-liberacao-de-pesquisa-da-vacina-contra-covid-19-11112020
-2020-11-11 19:46:59,668          root     INFO: New article tracked: http://noticias.r7.com/brasil/parlamentares-querem-audiencia-com-diretores-da-anvisa-na-sexta-11112020
-2020-11-11 19:46:59,679          root     INFO: New article tracked: http://noticias.r7.com/brasil/projeto-condiciona-liberdade-de-estuprador-a-castracao-quimica-11112020
-2020-11-11 19:46:59,688          root     INFO: New article tracked: http://noticias.r7.com/brasil/mutirao-auxilia-8-mil-caminhoneiros-a-enfrentar-desgaste-da-profissao-11112020
-2020-11-11 19:46:59,695          root     INFO: New article tracked: http://noticias.r7.com/brasil/congresso-aprova-convite-para-aneel-explicar-apagao-no-amapa-11112020
-2020-11-11 19:46:59,703          root     INFO: New article tracked: http://noticias.r7.com/brasil/digitalizacao-e-cyber-seguranca-de-empresas-aceleram-com-pandemia-11112020
-2020-11-11 19:46:59,710          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-reuniao-de-emergencia-anvisa-libera-a-retomada-da-coronavac-11112020
-2020-11-11 19:46:59,718          root     INFO: New article tracked: http://noticias.r7.com/brasil/nao-ha-interferencia-politica-na-anvisa-afirma-ministro-11112020
-2020-11-11 19:46:59,725          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-diz-que-amapa-tem-80-da-energia-eletrica-reabastecida-11112020
-2020-11-11 19:46:59,732          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-populacao-deve-avaliar-medidas-de-isolamento-11112020
-2020-11-11 19:46:59,740          root     INFO: New article tracked: http://noticias.r7.com/brasil/hamilton-mourao-diz-que-suspensao-da-coronavac-e-correta-11112020
-2020-11-11 19:46:59,748          root     INFO: New article tracked: http://noticias.r7.com/brasil/pausar-teste-acontece-mas-politizar-e-desservico-dizem-especialistas-11112020
-2020-11-11 19:46:59,755          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-agiu-de-forma-correta-mas-precisa-liberar-vacina-logo-dizem-ex-diretores-da-agencia-11112020
-2020-11-11 19:46:59,762          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-buscas-em-endereco-ligado-a-servidor-aposentado-da-receita-11112020
-2020-11-11 19:46:59,771          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-butantan-e-bolsonaro-erraram-na-suspensao-dos-testes-da-coronavac-diz-epidemiologista-11112020
-2020-11-11 19:46:59,780          root     INFO: New article tracked: http://noticias.r7.com/brasil/plataformas-orientam-eleitores-e-prefeitos-sobre-agenda-ambiental-11112020
-2020-11-11 19:46:59,816          root     INFO: Finished script
+2020-11-11 19:57:53,488          root     INFO: Starting script
+2020-11-11 19:57:54,321          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-11 19:57:55,003          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-11 19:57:55,677          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-11 19:57:55,802          root     INFO: Parsing R7 - Brasil
+2020-11-11 19:57:57,504          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/censura-a-pesquisa-em-sao-paulo-e-atentado-a-democracia-e-merece-repudio-veemente.shtml
+2020-11-11 19:57:57,515          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pesquisa-censurada-do-datafolha-usa-metodos-consagrados.shtml
+2020-11-11 19:57:57,740          root     INFO: Fundão do PSL bomba eleição em pequenas cidades e chega a <del>quadriplicar</del> <ins>quadruplicar</ins> custo de campanha
+2020-11-11 19:57:59,503          root     INFO: Media ready with ids: 1326615172950224898
+2020-11-11 19:57:59,504          root     INFO: Text to tweet: Modificação do Título
+2020-11-11 19:57:59,504          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/fundao-do-psl-bomba-eleicao-em-pequenas-cidades-e-chega-a-quadriplicar-custo-de-campanha.shtml
+2020-11-11 19:57:59,510          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/fundao-do-psl-bomba-eleicao-em-pequenas-cidades-e-chega-a-quadriplicar-custo-de-campanha.shtml
+2020-11-11 19:57:59,688          root     INFO: Replying to: 1326615174602747906
+2020-11-11 19:57:59,909          root     INFO: Id to store: 1326615175319982082
+2020-11-11 19:58:02,614          root     INFO: Removed http://noticias.r7.com/brasil/apos-reuniao-de-emergencia-anvisa-libera-a-retomada-da-coronavac-11112020
+2020-11-11 19:58:02,617          root     INFO: Removed http://noticias.r7.com/brasil/nao-ha-interferencia-politica-na-anvisa-afirma-ministro-11112020
+2020-11-11 19:58:02,619          root     INFO: Removed http://noticias.r7.com/brasil/pausar-teste-acontece-mas-politizar-e-desservico-dizem-especialistas-11112020
+2020-11-11 19:58:02,623          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-butantan-e-bolsonaro-erraram-na-suspensao-dos-testes-da-coronavac-diz-epidemiologista-11112020
+2020-11-11 19:58:02,625          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rachadinha-aumentou-patrimonio-de-flavio-bolsonaro-em-r-1-milhao-diz-promotoria.shtml
+2020-11-11 19:58:02,627          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/presidente-da-fundacao-palmares-coloca-duvida-sobre-kamala-harris-ser-negra.shtml
+2020-11-11 19:58:02,631          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-diz-que-amapa-tem-80-da-energia-eletrica-reabastecida-11112020
+2020-11-11 19:58:02,634          root     INFO: Removed http://noticias.r7.com/brasil/parlamentares-querem-audiencia-com-diretores-da-anvisa-na-sexta-11112020
+2020-11-11 19:58:02,636          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-buscas-em-endereco-ligado-a-servidor-aposentado-da-receita-11112020
+2020-11-11 19:58:02,639          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-agiu-de-forma-correta-mas-precisa-liberar-vacina-logo-dizem-ex-diretores-da-agencia-11112020
+2020-11-11 19:58:02,641          root     INFO: Removed http://noticias.r7.com/brasil/mutirao-auxilia-8-mil-caminhoneiros-a-enfrentar-desgaste-da-profissao-11112020
+2020-11-11 19:58:02,643          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-populacao-deve-avaliar-medidas-de-isolamento-11112020
+2020-11-11 19:58:02,646          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-respondera-questoes-do-stf-sobre-vacina-ate-sexta-por-escrito-11112020
+2020-11-11 19:58:02,649          root     INFO: Removed http://noticias.r7.com/brasil/butantan-celebra-liberacao-de-pesquisa-da-vacina-contra-covid-19-11112020
+2020-11-11 19:58:02,652          root     INFO: Removed http://noticias.r7.com/brasil/plataformas-orientam-eleitores-e-prefeitos-sobre-agenda-ambiental-11112020
+2020-11-11 19:58:02,656          root     INFO: Removed http://noticias.r7.com/brasil/hamilton-mourao-diz-que-suspensao-da-coronavac-e-correta-11112020
+2020-11-11 19:58:02,658          root     INFO: Removed http://noticias.r7.com/brasil/congresso-aprova-convite-para-aneel-explicar-apagao-no-amapa-11112020
+2020-11-11 19:58:02,660          root     INFO: Removed http://noticias.r7.com/brasil/digitalizacao-e-cyber-seguranca-de-empresas-aceleram-com-pandemia-11112020
+2020-11-11 19:58:02,664          root     INFO: Removed http://noticias.r7.com/brasil/projeto-condiciona-liberdade-de-estuprador-a-castracao-quimica-11112020
+2020-11-11 19:58:02,667          root     INFO: Removed http://noticias.r7.com/brasil/apos-ataque-ao-stj-fux-cria-comite-para-combater-crimes-virtuais-11112020
+2020-11-11 19:58:02,668          root     INFO: Finished script
