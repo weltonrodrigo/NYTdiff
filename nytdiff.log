@@ -1,7 +1,8 @@
-2020-11-11 22:57:47,241          root     INFO: Starting script
-2020-11-11 22:57:48,052          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-11 22:57:48,696          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-11 22:57:49,344          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-11 22:57:49,539          root     INFO: Parsing R7 - Brasil
-2020-11-11 22:57:53,955          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-diz-sentir-ainda-efeitos-da-covid-doenca-complicada-11112020
-2020-11-11 22:57:53,956          root     INFO: Finished script
+2020-11-11 23:15:37,363          root     INFO: Starting script
+2020-11-11 23:15:38,214          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-11 23:15:38,880          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-11 23:15:39,547          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-11 23:15:39,730          root     INFO: Parsing R7 - Brasil
+2020-11-11 23:15:41,326          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48501
+2020-11-11 23:15:44,012          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/verba-federal-anunciada-por-doria-para-butantan-nao-sai-e-deve-ser-reduzida.shtml
+2020-11-11 23:15:44,012          root     INFO: Finished script
