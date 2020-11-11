@@ -1,8 +1,21 @@
-2020-11-11 23:26:51,700          root     INFO: Starting script
-2020-11-11 23:26:52,585          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-11 23:26:53,246          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-11 23:26:53,902          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-11 23:26:54,187          root     INFO: Parsing R7 - Brasil
-2020-11-11 23:26:55,818          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apos-pedido-de-boulos-justica-determina-retirada-de-video-com-acusacao-citada-por-russomano.shtml
-2020-11-11 23:26:58,493          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/articulacao-moro-huck-para-2022-inclui-doria-e-ve-ciro-a-frente-de-lula.shtml
-2020-11-11 23:26:58,494          root     INFO: Finished script
+2020-11-11 23:46:46,042          root     INFO: Starting script
+2020-11-11 23:46:46,886          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-11 23:46:47,527          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-11 23:46:48,166          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-11 23:46:48,410          root     INFO: Parsing R7 - Brasil
+2020-11-11 23:46:49,834          root     INFO: Após pedido de Boulos, Justiça determina retirada de vídeo com acusação citada por <del>Russomano</del> <ins>Russomanno</ins>
+2020-11-11 23:46:51,592          root     INFO: Media ready with ids: 1326672769610899462
+2020-11-11 23:46:51,592          root     INFO: Text to tweet: Modificação do Título
+2020-11-11 23:46:51,593          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apos-pedido-de-boulos-justica-determina-retirada-de-video-com-acusacao-citada-por-russomano.shtml
+2020-11-11 23:46:51,598          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apos-pedido-de-boulos-justica-determina-retirada-de-video-com-acusacao-citada-por-russomano.shtml
+2020-11-11 23:46:51,810          root     INFO: Replying to: 1326672771317964800
+2020-11-11 23:46:52,050          root     INFO: Id to store: 1326672772106514440
+2020-11-11 23:46:52,055          root     INFO: O juiz eleitoral Emílio Migliano Neto acolheu reclamação da candidatura de Guilherme Boulos (PSOL) e determinou ao Google Brasil a imediata retirada de vídeo em que Osvaldo Eustáquio faz acusações contra a campanha do candidato do PSOL. <del>A publicação feita na internet foi citada por Celso Russomanno (Republicanos) durante o debate dos candidatos à Prefeitura de São Paulo nesta quarta-feira (11) realizado por Folha e UOL.</del> Leia mais (11/11/2020 - 20h18)
+2020-11-11 23:46:53,915          root     INFO: Media ready with ids: 1326672778884509696
+2020-11-11 23:46:53,916          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-11 23:46:53,916          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apos-pedido-de-boulos-justica-determina-retirada-de-video-com-acusacao-citada-por-russomano.shtml
+2020-11-11 23:46:53,922          root     INFO: Replying to: 1326672772106514440
+2020-11-11 23:46:54,181          root     INFO: Id to store: 1326672780952276994
+2020-11-11 23:46:55,359          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/vitoria-de-biden-e-bencao-para-mudar-politica-ambiental-brasileira-diz-especialista.shtml
+2020-11-11 23:46:56,654          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2020/11/vitoria-de-biden-e-bencao-para-mudar-politica-ambiental-brasileira-diz-especialista.shtml
+2020-11-11 23:46:56,656          root     INFO: Finished script
