@@ -1,15 +1,7 @@
-2020-11-11 22:46:48,795          root     INFO: Starting script
-2020-11-11 22:46:50,023          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-11 22:46:50,657          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-11 22:46:51,293          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-11 22:46:51,576          root     INFO: Parsing R7 - Brasil
-2020-11-11 22:46:53,107          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/censura-a-pesquisas-e-resultado-de-interpretacao-subjetiva-de-lei-objetiva-diz-entidade.shtml
-2020-11-11 22:46:53,143          root     INFO: Paes amplia vantagem <del>para</del> <ins>sobre</ins> Crivella, que tem 62% de <del>rejeição,</del> <ins>rejeição no Rio,</ins> mostra Datafolha
-2020-11-11 22:46:54,916          root     INFO: Media ready with ids: 1326657684268060672
-2020-11-11 22:46:54,917          root     INFO: Text to tweet: Modificação do Título
-2020-11-11 22:46:54,917          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/paes-amplia-vantagem-para-crivella-que-tem-62-de-rejeicao-mostra-datafolha.shtml
-2020-11-11 22:46:54,922          root     INFO: Replying to: 1326650679683936257
-2020-11-11 22:46:55,156          root     INFO: Id to store: 1326657685673086976
-2020-11-11 22:46:57,510          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-diz-sentir-ainda-efeitos-da-covid-doenca-complicada-11112020
-2020-11-11 22:46:57,747          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-reta-final-russomanno-boulos-e-franca-calibram-estrategias-em-sp.shtml
-2020-11-11 22:46:57,748          root     INFO: Finished script
+2020-11-11 22:57:47,241          root     INFO: Starting script
+2020-11-11 22:57:48,052          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-11 22:57:48,696          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-11 22:57:49,344          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-11 22:57:49,539          root     INFO: Parsing R7 - Brasil
+2020-11-11 22:57:53,955          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-diz-sentir-ainda-efeitos-da-covid-doenca-complicada-11112020
+2020-11-11 22:57:53,956          root     INFO: Finished script
