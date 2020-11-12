@@ -1,19 +1,8 @@
-2020-11-12 15:31:05,470          root     INFO: Starting script
-2020-11-12 15:31:06,303          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-12 15:31:06,978          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-12 15:31:07,649          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-12 15:31:07,887          root     INFO: Parsing R7 - Brasil
-2020-11-12 15:31:09,628          root     INFO: Na última semana antes da eleição municipal, o prefeito Bruno Covas (PSDB) segue em alta na disputa em São Paulo. Leia mais <del>(11/11/2020</del> <ins>(11/12/2020</ins> - <del>23h14)</del> <ins>12h19)</ins>
-2020-11-12 15:31:11,501          root     INFO: Media ready with ids: 1326910418112180226
-2020-11-12 15:31:11,501          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-12 15:31:11,502          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-covas-sobe-a-32-boulos-marca-16-e-russomanno-mantem-curva-descendente-agora-com-14.shtml
-2020-11-12 15:31:11,508          root     INFO: Replying to: 1326862823700520960
-2020-11-12 15:31:11,755          root     INFO: Id to store: 1326910420070903810
-2020-11-12 15:31:11,781          root     INFO: Rejeição a Bolsonaro bate 50% em SP, <ins>e</ins> aprovação cai 6 pontos no Rio, diz Datafolha
-2020-11-12 15:31:16,616          root     INFO: Media ready with ids: 1326910439880593411
-2020-11-12 15:31:16,616          root     INFO: Text to tweet: Modificação do Título
-2020-11-12 15:31:16,617          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rejeicao-a-bolsonaro-bate-50-em-sp-aprovacao-cai-6-pontos-no-rio-diz-datafolha.shtml
-2020-11-12 15:31:16,625          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rejeicao-a-bolsonaro-bate-50-em-sp-aprovacao-cai-6-pontos-no-rio-diz-datafolha.shtml
-2020-11-12 15:31:16,800          root     INFO: Replying to: 1326910441482805252
-2020-11-12 15:31:17,056          root     INFO: Id to store: 1326910442204254209
-2020-11-12 15:31:20,164          root     INFO: Finished script
+2020-11-12 15:46:55,871          root     INFO: Starting script
+2020-11-12 15:46:56,700          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-12 15:46:57,377          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-12 15:46:58,049          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-12 15:46:58,320          root     INFO: Parsing R7 - Brasil
+2020-11-12 15:47:00,111          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/advogado-ligado-aos-bolsonaros-wassef-e-acusado-de-injuria-racial-por-garconete.shtml
+2020-11-12 15:47:03,083          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-lidera-com-19-pontos-de-vantagem-em-sp-e-2o-lugar-tem-empate-triplo-diz-ibope.shtml
+2020-11-12 15:47:03,085          root     INFO: Finished script
