@@ -1,6 +1,12 @@
-2020-11-12 00:59:35,300          root     INFO: Starting script
-2020-11-12 00:59:36,167          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-12 00:59:36,836          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-12 00:59:37,515          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-12 00:59:37,982          root     INFO: Parsing R7 - Brasil
-2020-11-12 00:59:42,215          root     INFO: Finished script
+2020-11-12 01:19:33,815          root     INFO: Starting script
+2020-11-12 01:19:34,682          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-12 01:19:35,372          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-12 01:19:36,059          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-12 01:19:36,212          root     INFO: Parsing R7 - Brasil
+2020-11-12 01:19:38,380          root     INFO: O juiz eleitoral Marco Antonio Martin <ins>Vargas</ins> manteve nesta quarta-feira <del>(12)</del> <ins>(11)</ins> censura a publicação de pesquisa do Datafolha, feita pela Folha em parceria com a TV Globo, sobre a corrida eleitoral de São Paulo. Leia mais (11/11/2020 - 13h31)
+2020-11-12 01:19:40,080          root     INFO: Media ready with ids: 1326696125622087680
+2020-11-12 01:19:40,080          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-12 01:19:40,081          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/juiz-rejeita-recurso-e-mantem-censura-pedida-por-russomanno-a-pesquisa-datafolha.shtml
+2020-11-12 01:19:40,086          root     INFO: Replying to: 1326687386051485696
+2020-11-12 01:19:40,300          root     INFO: Id to store: 1326696127039737860
+2020-11-12 01:19:43,577          root     INFO: Finished script
