@@ -1,6 +1,8 @@
-2020-11-12 20:27:01,726          root     INFO: Starting script
-2020-11-12 20:27:02,746          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-12 20:27:03,583          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-12 20:27:04,417          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-12 20:27:04,647          root     INFO: Parsing R7 - Brasil
-2020-11-12 20:27:09,045          root     INFO: Finished script
+2020-11-12 20:47:03,149          root     INFO: Starting script
+2020-11-12 20:47:03,981          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-12 20:47:04,659          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-12 20:47:05,334          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-12 20:47:05,501          root     INFO: Parsing R7 - Brasil
+2020-11-12 20:47:07,352          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/partido-de-segundo-lugar-nas-pesquisas-em-macapa-critica-adiamento-da-eleicao-e-avalia-ir-ao-tse.shtml
+2020-11-12 20:47:10,371          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/alvo-de-criticas-alianca-de-huck-e-moro-para-2022-busca-ampliacao.shtml
+2020-11-12 20:47:10,373          root     INFO: Finished script
