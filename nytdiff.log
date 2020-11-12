@@ -1,6 +1,21 @@
-2020-11-12 17:27:28,225          root     INFO: Starting script
-2020-11-12 17:27:29,110          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-12 17:27:29,783          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-12 17:27:30,460          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-12 17:27:30,746          root     INFO: Parsing R7 - Brasil
-2020-11-12 17:27:35,254          root     INFO: Finished script
+2020-11-12 17:46:49,282          root     INFO: Starting script
+2020-11-12 17:46:50,417          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-12 17:46:51,109          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-12 17:46:51,781          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-12 17:46:52,041          root     INFO: Parsing R7 - Brasil
+2020-11-12 17:46:53,710          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10361
+2020-11-12 17:46:56,692          root     INFO: Removed http://noticias.r7.com/brasil/somos-excluidos-do-pais-amapaenses-veem-descaso-nacional-por-apagao-em-meio-a-protestos-e-violencia-12112020
+2020-11-12 17:46:56,700          root     INFO: Removed http://noticias.r7.com/brasil/pretos-e-pardos-sao-77-entre-pessoas-com-menor-renda-diz-ibge-12112020
+2020-11-12 17:46:56,703          root     INFO: Removed http://noticias.r7.com/brasil/homem-de-25-anos-e-indiciado-pela-pf-por-planejar-ataque-a-bolsonaro-12112020
+2020-11-12 17:46:56,708          root     INFO: Removed http://noticias.r7.com/brasil/plenario-do-tse-confirma-adiamento-das-eleicoes-em-macapa-12112020
+2020-11-12 17:46:56,713          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-cobra-empresarios-para-expandir-bioeconomia-na-amazonia-12112020
+2020-11-12 17:46:56,718          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-em-guerra-trump-derrotado-denuncia-contra-flavio-vacina-e-outras-nuvens-que-pairam-sobre-bolsonaro-12112020
+2020-11-12 17:46:56,722          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-indica-militar-que-atua-na-saude-para-diretoria-da-anvisa-12112020
+2020-11-12 17:46:56,726          root     INFO: Removed http://noticias.r7.com/brasil/alcolumbre-pede-investigacao-de-incendio-que-causou-apagao-no-ap-12112020
+2020-11-12 17:46:56,729          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/saiba-tudo-sobre-a-votacao-de-horarios-e-cuidados-com-a-covid-ate-como-consultar-o-numero-de-seu-candidato.shtml
+2020-11-12 17:46:56,732          root     INFO: Removed http://noticias.r7.com/brasil/governo-vai-comprar-vacina-que-for-aprovada-pela-anvisa-diz-bolsonaro-12112020
+2020-11-12 17:46:56,735          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-descarta-expropriacao-de-terras-so-em-paises-socialistas-12112020
+2020-11-12 17:46:56,738          root     INFO: Removed http://noticias.r7.com/brasil/governo-traca-plano-de-ampliacao-de-conectividade-no-brasil-12112020
+2020-11-12 17:46:56,741          root     INFO: Removed http://noticias.r7.com/brasil/jovem-fez-ameacas-sequenciais-contra-bolsonaro-diz-delegado-12112020
+2020-11-12 17:46:56,744          root     INFO: Removed http://noticias.r7.com/brasil/sp-nao-tera-lei-seca-com-restricao-de-bebida-alcoolica-na-eleicao-12112020
+2020-11-12 17:46:56,745          root     INFO: Finished script
