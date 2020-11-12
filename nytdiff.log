@@ -1,20 +1,8 @@
-2020-11-12 13:57:47,356          root     INFO: Starting script
-2020-11-12 13:57:48,580          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-12 13:57:49,246          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-12 13:57:49,914          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-12 13:57:50,271          root     INFO: Parsing R7 - Brasil
-2020-11-12 13:57:51,973          root     INFO: O <del>presidente do</del> TSE (Tribunal Superior <del>Eleitoral), ministro Luís Roberto Barroso,</del> <ins>Eleitoral)</ins> decidiu <del>na madrugada desta</del> <ins>nesta</ins> quinta-feira <del>(12)</del> <ins>(13)</ins> adiar as eleições para prefeito e vereador em Macapá, <del>a</del> capital do Amapá. Leia mais (11/12/2020 - 01h37)
-2020-11-12 13:57:53,792          root     INFO: Media ready with ids: 1326886939857915905
-2020-11-12 13:57:53,793          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-12 13:57:53,793          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-adia-as-eleicoes-em-macapa-ap-cidade-que-vive-apagao-ha-nove-dias.shtml
-2020-11-12 13:57:53,799          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-adia-as-eleicoes-em-macapa-ap-cidade-que-vive-apagao-ha-nove-dias.shtml
-2020-11-12 13:57:53,994          root     INFO: Replying to: 1326886941636370434
-2020-11-12 13:57:54,236          root     INFO: Id to store: 1326886942437412864
-2020-11-12 13:57:54,280          root     INFO: O deputado Hugo Leal (PSD-RJ) apresentou uma emenda ao projeto de lei do BR do Mar para que áreas portuárias possam ser patrulhadas pela Polícia Rodoviária Federal. Como a Constituição diz que a PRF destina-se ao patrulhamento em rodovias federais, o parlamentar propôs que as vias terrestres dos portos passem a ser assim consideradas. A ideia incomodou policiais federais. Pela <del>lei,</del> <ins>Constituição,</ins> cabe à PF exercer funções de polícia aeroportuária. Leia mais (11/11/2020 - 23h19)
-2020-11-12 13:57:56,099          root     INFO: Media ready with ids: 1326886949622337537
-2020-11-12 13:57:56,100          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-12 13:57:56,100          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/deputado-propoe-emenda-para-prf-patrulhar-portos-e-incomoda-pf.shtml
-2020-11-12 13:57:56,108          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/deputado-propoe-emenda-para-prf-patrulhar-portos-e-incomoda-pf.shtml
-2020-11-12 13:57:56,304          root     INFO: Replying to: 1326886951329402880
-2020-11-12 13:57:56,561          root     INFO: Id to store: 1326886952130531329
-2020-11-12 13:57:59,486          root     INFO: Finished script
+2020-11-12 14:18:42,570          root     INFO: Starting script
+2020-11-12 14:18:43,723          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-12 14:18:44,557          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-12 14:18:45,386          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-12 14:18:45,622          root     INFO: Parsing R7 - Brasil
+2020-11-12 14:18:47,270          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48510
+2020-11-12 14:18:50,129          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/para-aliados-de-alcolumbre-falta-de-luz-no-amapa-enterra-planos-de-privatizacao-da-eletrobras.shtml
+2020-11-12 14:18:50,130          root     INFO: Finished script
