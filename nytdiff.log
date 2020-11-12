@@ -1,21 +1,10 @@
-2020-11-12 08:57:56,398          root     INFO: Starting script
-2020-11-12 08:57:57,493          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-12 08:57:58,304          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-12 08:57:59,120          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-12 08:57:59,315          root     INFO: Parsing R7 - Brasil
-2020-11-12 08:58:02,963          root     INFO: Removed http://noticias.r7.com/brasil/justica-eleitoral-do-amapa-pede-que-eleicoes-sejam-adiadas-em-macapa-11112020
-2020-11-12 08:58:02,966          root     INFO: Removed http://noticias.r7.com/brasil/tse-decreta-inelegibilidade-de-ricardo-coutinho-em-joao-pessoa-11112020
-2020-11-12 08:58:02,969          root     INFO: Removed http://noticias.r7.com/brasil/justica-eleitoral-adia-eleicoes-em-macapa-ap-apos-apagao-12112020
-2020-11-12 08:58:02,972          root     INFO: Removed http://noticias.r7.com/brasil/reforma-da-previdencia-11-estados-mantem-regra-mais-leve-a-servidor-12112020
-2020-11-12 08:58:02,974          root     INFO: Removed http://noticias.r7.com/brasil/butantan-diz-que-retoma-testes-da-coronavac-ja-nesta-quarta-feira-11112020
-2020-11-12 08:58:02,976          root     INFO: Removed http://noticias.r7.com/brasil/stf-julga-inviavel-pedido-para-afastar-ministro-paulo-guedes-11112020
-2020-11-12 08:58:02,980          root     INFO: Removed http://noticias.r7.com/brasil/brasil-precisa-ser-recompensado-por-preservar-a-amazonia-diz-mourao-11112020
-2020-11-12 08:58:02,982          root     INFO: Removed http://noticias.r7.com/brasil/procon-tenta-notificar-responsavel-por-transformador-no-amapa-11112020
-2020-11-12 08:58:02,985          root     INFO: Removed http://noticias.r7.com/brasil/pf-bate-recorde-com-mais-de-r-666-milhoes-em-apreensoes-do-trafico-11112020
-2020-11-12 08:58:02,987          root     INFO: Removed http://noticias.r7.com/brasil/sao-paulo-nao-tera-lei-seca-com-restricao-de-bebida-alcoolica-na-eleicao-12112020
-2020-11-12 08:58:02,989          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-diz-ao-stf-que-da-tratamento-imparcial-para-vacinas-11112020
-2020-11-12 08:58:02,991          root     INFO: Removed http://noticias.r7.com/brasil/governo-inicia-movimento-para-destravar-votacoes-na-camara-11112020-1
-2020-11-12 08:58:02,993          root     INFO: Removed http://noticias.r7.com/brasil/pec-emergencial-devera-ser-votada-apos-2-turno-diz-lider-do-governo-11112020
-2020-11-12 08:58:02,995          root     INFO: Removed http://noticias.r7.com/brasil/governo-vai-comprar-vacina-que-for-aprovada-pela-anvisa-diz-bolsonaro-11112020
-2020-11-12 08:58:02,997          root     INFO: Removed http://noticias.r7.com/brasil/jose-fortunati-desiste-de-disputa-a-prefeitura-de-porto-alegre-11112020
-2020-11-12 08:58:02,998          root     INFO: Finished script
+2020-11-12 09:17:20,947          root     INFO: Starting script
+2020-11-12 09:17:21,752          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-12 09:17:22,400          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-12 09:17:23,054          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-12 09:17:23,159          root     INFO: Parsing R7 - Brasil
+2020-11-12 09:17:23,469          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2020/11/nao-vote-em-branco.shtml
+2020-11-12 09:17:24,508          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-adia-as-eleicoes-em-macapa-ap-cidade-que-vive-apagao-ha-nove-dias.shtml
+2020-11-12 09:17:26,700          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/11/geopolitica.shtml
+2020-11-12 09:17:26,704          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-adia-as-eleicoes-em-macapa-ap-cidade-que-vive-apagao-ha-14-dias.shtml
+2020-11-12 09:17:26,704          root     INFO: Finished script
