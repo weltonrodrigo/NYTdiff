@@ -1,18 +1,8 @@
-2020-11-12 17:57:57,610          root     INFO: Starting script
-2020-11-12 17:57:58,704          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-12 17:57:59,403          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-12 17:58:00,089          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-12 17:58:00,279          root     INFO: Parsing R7 - Brasil
-2020-11-12 17:58:02,260          root     INFO: Advogado ligado aos <del>Bolsonaros, Wassef</del> <ins>Bolsonaros</ins> é acusado de injúria racial por <del>garçonete</del> <ins>garçonete; Wassef nega e se diz vítima</ins>
-2020-11-12 17:58:04,093          root     INFO: Media ready with ids: 1326947380915281923
-2020-11-12 17:58:04,094          root     INFO: Text to tweet: Modificação do Título
-2020-11-12 17:58:04,094          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/advogado-ligado-aos-bolsonaros-wassef-e-acusado-de-injuria-racial-por-garconete.shtml
-2020-11-12 17:58:04,100          root     INFO: Replying to: 1326936997928308737
-2020-11-12 17:58:04,345          root     INFO: Id to store: 1326947382785929220
-2020-11-12 17:58:04,355          root     INFO: Atendente da <del>Pizzaria</del> <ins>Pizza</ins> Hut localizada em um shopping de Brasília registrou na Polícia Civil um boletim de ocorrência contra o advogado Frederick Wassef por injúria racial. Wassef foi advogado da família do presidente Jair Bolsonaro (sem partido). Leia mais (11/12/2020 - 12h31)
-2020-11-12 17:58:06,483          root     INFO: Media ready with ids: 1326947391212318727
-2020-11-12 17:58:06,483          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-12 17:58:06,484          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/advogado-ligado-aos-bolsonaros-wassef-e-acusado-de-injuria-racial-por-garconete.shtml
-2020-11-12 17:58:06,488          root     INFO: Replying to: 1326947382785929220
-2020-11-12 17:58:06,734          root     INFO: Id to store: 1326947392852275220
-2020-11-12 17:58:10,043          root     INFO: Finished script
+2020-11-12 18:17:15,080          root     INFO: Starting script
+2020-11-12 18:17:15,886          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-12 18:17:16,539          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-12 18:17:17,199          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-12 18:17:17,420          root     INFO: Parsing R7 - Brasil
+2020-11-12 18:17:19,127          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-explica-metodo-contestado-por-campanha-de-russomano.shtml
+2020-11-12 18:17:22,102          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/instituto-que-teve-pesquisa-barrada-por-vies-pro-marcio-franca-tem-amigo-do-candidato-como-diretor.shtml
+2020-11-12 18:17:22,102          root     INFO: Finished script
