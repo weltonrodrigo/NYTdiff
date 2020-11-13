@@ -1,13 +1,26 @@
-2020-11-13 10:57:47,179          root     INFO: Starting script
-2020-11-13 10:57:47,996          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-13 10:57:48,662          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-13 10:57:49,326          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-13 10:57:49,504          root     INFO: Parsing R7 - Brasil
-2020-11-13 10:57:51,531          root     INFO: Déficit de meio de milhão de moradias <ins>em SP</ins> e futuro do Minhocão <del>desafiarão</del> <ins>são desafios ao</ins> prefeito <del>de SP</del> <ins>eleito da cidade</ins>
-2020-11-13 10:57:53,291          root     INFO: Media ready with ids: 1327204027482972161
-2020-11-13 10:57:53,292          root     INFO: Text to tweet: Modificação do Título
-2020-11-13 10:57:53,292          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/deficit-de-meio-de-milhao-de-moradias-e-futuro-do-minhocao-desafiarao-prefeito-de-sp.shtml
-2020-11-13 10:57:53,298          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/deficit-de-meio-de-milhao-de-moradias-e-futuro-do-minhocao-desafiarao-prefeito-de-sp.shtml
-2020-11-13 10:57:53,499          root     INFO: Replying to: 1327204028976074753
-2020-11-13 10:57:53,734          root     INFO: Id to store: 1327204029659836417
-2020-11-13 10:57:57,137          root     INFO: Finished script
+2020-11-13 11:15:55,566          root     INFO: Starting script
+2020-11-13 11:15:56,416          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-13 11:15:57,100          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-13 11:15:57,775          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-13 11:15:58,004          root     INFO: Parsing R7 - Brasil
+2020-11-13 11:15:58,308          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2020/11/martini-vesper-martini.shtml
+2020-11-13 11:15:59,709          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/militares-do-planalto-pedem-discricao-a-mourao-apos-embates-com-bolsonaro.shtml
+2020-11-13 11:15:59,717          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3686
+2020-11-13 11:15:59,867          root     INFO: <del>São Paulo</del> <ins>Cidade de SP</ins> tem 74% do dinheiro público de campanha na mão de <ins>candidatos</ins> brancos
+2020-11-13 11:16:01,570          root     INFO: Media ready with ids: 1327208591980425216
+2020-11-13 11:16:01,571          root     INFO: Text to tweet: Modificação do Título
+2020-11-13 11:16:01,571          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sao-paulo-tem-74-do-dinheiro-publico-de-campanha-na-mao-de-brancos.shtml
+2020-11-13 11:16:01,578          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sao-paulo-tem-74-do-dinheiro-publico-de-campanha-na-mao-de-brancos.shtml
+2020-11-13 11:16:01,770          root     INFO: Replying to: 1327208593502986240
+2020-11-13 11:16:01,991          root     INFO: Id to store: 1327208594215997440
+2020-11-13 11:16:02,099          root     INFO: Não queremos fazer parte da <del>política,</del> <ins>política</ins> nem deixar ela entrar nos quartéis, diz chefe do Exército
+2020-11-13 11:16:03,827          root     INFO: Media ready with ids: 1327208601249865730
+2020-11-13 11:16:03,828          root     INFO: Text to tweet: Modificação do Título
+2020-11-13 11:16:03,828          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/nao-queremos-fazer-parte-da-politica-nem-deixar-ela-entrar-nos-quarteis-diz-chefe-do-exercito.shtml
+2020-11-13 11:16:03,833          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/nao-queremos-fazer-parte-da-politica-nem-deixar-ela-entrar-nos-quarteis-diz-chefe-do-exercito.shtml
+2020-11-13 11:16:04,030          root     INFO: Replying to: 1327208602977906688
+2020-11-13 11:16:04,243          root     INFO: Id to store: 1327208603686739969
+2020-11-13 11:16:07,012          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/psol-solicita-que-ministerio-publico-federal-acompanhe-aprovacao-de-vacinas-pela-anvisa.shtml
+2020-11-13 11:16:07,016          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/bolsonaro-mente-e-usa-tumulo-como-palanque-para-buscar-vitoria-particular.shtml
+2020-11-13 11:16:07,018          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2020/11/ate-prevista-posse-de-biden-serao-meses-concedidos-a-um-presidente-ensandecido.shtml
+2020-11-13 11:16:07,019          root     INFO: Finished script
