@@ -1,19 +1,14 @@
-2020-11-13 22:58:01,846          root     INFO: Starting script
-2020-11-13 22:58:02,681          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-13 22:58:03,351          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-13 22:58:04,040          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-13 22:58:04,329          root     INFO: Parsing R7 - Brasil
-2020-11-13 22:58:06,159          root     INFO: Bolsonaro <del>diz que concorda com comandante do Exército e</del> defende Forças Armadas apartidárias <ins>sob 'autoridade suprema do presidente da República'</ins>
-2020-11-13 22:58:07,883          root     INFO: Media ready with ids: 1327385282505805827
-2020-11-13 22:58:07,884          root     INFO: Text to tweet: Modificação do Título
-2020-11-13 22:58:07,884          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaro-diz-que-concorda-com-comandante-do-exercito-e-defende-forcas-armadas-apartidarias.shtml
-2020-11-13 22:58:07,889          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaro-diz-que-concorda-com-comandante-do-exercito-e-defende-forcas-armadas-apartidarias.shtml
-2020-11-13 22:58:08,056          root     INFO: Replying to: 1327385283978022914
-2020-11-13 22:58:08,273          root     INFO: Id to store: 1327385284644888576
-2020-11-13 22:58:08,278          root     INFO: Em meio à discussão sobre a participação de militares em assuntos políticos, o presidente Jair Bolsonaro (sem partido) se posicionou em concordância com o comandante do Exército, general Edson Leal Pujol, e disse que as <del>forças armadas</del> <ins>Forças Armadas</ins> devem se manter apartidárias. Leia mais (11/13/2020 - 19h38)
-2020-11-13 22:58:10,148          root     INFO: Media ready with ids: 1327385291599077376
-2020-11-13 22:58:10,149          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-13 22:58:10,149          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaro-diz-que-concorda-com-comandante-do-exercito-e-defende-forcas-armadas-apartidarias.shtml
-2020-11-13 22:58:10,155          root     INFO: Replying to: 1327385284644888576
-2020-11-13 22:58:10,383          root     INFO: Id to store: 1327385293469704192
-2020-11-13 22:58:13,534          root     INFO: Finished script
+2020-11-13 23:16:13,935          root     INFO: Starting script
+2020-11-13 23:16:14,774          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-13 23:16:15,454          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-13 23:16:16,125          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-13 23:16:16,336          root     INFO: Parsing R7 - Brasil
+2020-11-13 23:16:18,228          root     INFO: O Brasil é o principal cliente do BID (Banco Interamericano de Desenvolvimento) e um de seus principais acionistas. A posição de destaque fez com que o país sonhasse em eleger o presidente da <del>insituição,</del> <ins>instituição,</ins> criada no pós-guerra para desenvolver os países latinoamericanos. Leia mais (11/13/2020 - 18h54)
+2020-11-13 23:16:20,076          root     INFO: Media ready with ids: 1327389863138693121
+2020-11-13 23:16:20,077          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-13 23:16:20,077          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/brasil-perde-vice-presidencia-no-bid-e-fica-fora-do-alto-escalao-do-banco-mesmo-apos-apoiar-manobra-dos-eua.shtml
+2020-11-13 23:16:20,083          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/brasil-perde-vice-presidencia-no-bid-e-fica-fora-do-alto-escalao-do-banco-mesmo-apos-apoiar-manobra-dos-eua.shtml
+2020-11-13 23:16:20,253          root     INFO: Replying to: 1327389864971612160
+2020-11-13 23:16:20,469          root     INFO: Id to store: 1327389865663733765
+2020-11-13 23:16:23,483          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-municipais-sao-tema-da-live-jr-desta-sexta-feira-13-13112020
+2020-11-13 23:16:23,723          root     INFO: Finished script
