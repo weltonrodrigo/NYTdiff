@@ -1,34 +1,6 @@
-2020-11-13 22:19:35,559          root     INFO: Starting script
-2020-11-13 22:19:36,404          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-13 22:19:37,081          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-13 22:19:37,760          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-13 22:19:37,947          root     INFO: Parsing R7 - Brasil
-2020-11-13 22:19:39,683          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/brasil-perde-vice-presidencia-no-bid-e-fica-fora-do-alto-escalao-do-banco-mesmo-apos-apoiar-manobra-dos-eua.shtml
-2020-11-13 22:19:39,725          root     INFO: Após pedido de reconsideração da Folha, a juíza Cristiana de Sousa Ferraz Leite, da 76ª Zona Eleitoral do Maranhão, revogou a decisão que havia censurado reportagem do jornal sobre o candidato a prefeito em São Luís (MA) Eduardo <del>Braide.</del> <ins>Braide (Podemos).</ins> Leia mais (11/13/2020 - 17h19)
-2020-11-13 22:19:41,554          root     INFO: Media ready with ids: 1327375608830189569
-2020-11-13 22:19:41,555          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-13 22:19:41,555          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/juiza-do-maranhao-derruba-censura-contra-a-folha-em-caso-envolvendo-candidato-em-sao-luis.shtml
-2020-11-13 22:19:41,563          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/juiza-do-maranhao-derruba-censura-contra-a-folha-em-caso-envolvendo-candidato-em-sao-luis.shtml
-2020-11-13 22:19:41,757          root     INFO: Replying to: 1327375610629541893
-2020-11-13 22:19:41,976          root     INFO: Id to store: 1327375611296436224
-2020-11-13 22:19:44,950          root     INFO: Removed http://noticias.r7.com/brasil/proposta-para-a-amazonia-gera-novo-desgaste-entre-bolsonaro-e-mourao-13112020
-2020-11-13 22:19:44,953          root     INFO: Removed http://noticias.r7.com/brasil/tse-afirma-que-instabilidade-em-sistemas-nao-afetara-eleicoes-13112020
-2020-11-13 22:19:44,955          root     INFO: Removed http://noticias.r7.com/brasil/forca-nacional-vai-combater-crimes-ambientais-na-amazonia-legal-13112020
-2020-11-13 22:19:44,958          root     INFO: Removed http://noticias.r7.com/brasil/o-que-e-e-como-calcular-o-quociente-eleitoral-para-vereador-na-sua-cidade-13112020
-2020-11-13 22:19:44,961          root     INFO: Removed http://noticias.r7.com/brasil/marco-aurelio-da-novo-voto-para-soltar-andre-do-rap-e-critica-fux-13112020
-2020-11-13 22:19:44,964          root     INFO: Removed http://noticias.r7.com/brasil/justica-estende-prazo-para-empresa-restabelecer-energia-no-ap-13112020
-2020-11-13 22:19:44,967          root     INFO: Removed http://noticias.r7.com/brasil/marco-aurelio-vota-para-que-bolsonaro-desbloqueie-internauta-13112020
-2020-11-13 22:19:44,969          root     INFO: Removed http://noticias.r7.com/brasil/dolar-vai-cair-assim-que-voltarem-investimentos-externos-diz-guedes-13112020
-2020-11-13 22:19:44,972          root     INFO: Removed http://noticias.r7.com/brasil/vacinas-contra-covid-19-devem-atender-paises-ricos-e-pobres-13112020
-2020-11-13 22:19:44,974          root     INFO: Removed http://noticias.r7.com/brasil/do-analfabetismo-a-faculdade-iniciativa-ajuda-jovens-e-adultos-a-mudar-de-vida-13112020
-2020-11-13 22:19:44,977          root     INFO: Removed http://noticias.r7.com/brasil/nao-havera-populismo-para-ampliar-o-bolsa-familia-diz-guedes-13112020
-2020-11-13 22:19:44,979          root     INFO: Removed http://noticias.r7.com/brasil/urnas-eletronicas-sao-transportadas-sob-escolta-da-pm-em-sao-paulo-13112020
-2020-11-13 22:19:44,982          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-reclama-de-conversinha-sobre-possivel-2-onda-da-covid-19-13112020
-2020-11-13 22:19:44,986          root     INFO: Removed http://noticias.r7.com/brasil/nao-queremos-que-a-politica-entre-nos-quarteis-diz-comandante-13112020
-2020-11-13 22:19:44,989          root     INFO: Removed http://noticias.r7.com/brasil/apos-suspeita-de-ataque-sistema-do-sus-ainda-nao-esta-normalizado-13112020
-2020-11-13 22:19:44,993          root     INFO: Removed http://noticias.r7.com/brasil/nao-vai-ter-hecatombe-nuclear-diz-mourao-sobre-as-eleicoes-dos-eua-13112020
-2020-11-13 22:19:44,996          root     INFO: Removed http://noticias.r7.com/brasil/coronavac-diretor-do-butantan-diz-que-interrupcao-nao-afetou-estudo-13112020
-2020-11-13 22:19:45,000          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-e-butantan-falam-hoje-sobre-coronavac-no-congresso-13112020
-2020-11-13 22:19:45,003          root     INFO: Removed http://noticias.r7.com/brasil/justica-concede-pedido-e-familias-do-amapa-terao-auxilio-de-r-1200-13112020
-2020-11-13 22:19:45,006          root     INFO: Removed http://noticias.r7.com/brasil/tse-cogitou-separar-eleitores-por-faixa-etaria-diz-presidente-da-corte-13112020
-2020-11-13 22:19:45,008          root     INFO: Finished script
+2020-11-13 22:26:45,450          root     INFO: Starting script
+2020-11-13 22:26:46,287          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-13 22:26:46,971          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-13 22:26:47,647          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-13 22:26:47,799          root     INFO: Parsing R7 - Brasil
+2020-11-13 22:26:52,609          root     INFO: Finished script
