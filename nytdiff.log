@@ -1,6 +1,8 @@
-2020-11-13 13:58:01,946          root     INFO: Starting script
-2020-11-13 13:58:02,762          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-13 13:58:03,419          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-13 13:58:04,116          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-13 13:58:04,339          root     INFO: Parsing R7 - Brasil
-2020-11-13 13:58:08,296          root     INFO: Finished script
+2020-11-13 14:18:47,303          root     INFO: Starting script
+2020-11-13 14:18:48,311          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-13 14:18:49,148          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-13 14:18:49,982          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-13 14:18:50,194          root     INFO: Parsing R7 - Brasil
+2020-11-13 14:18:51,724          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10497
+2020-11-13 14:18:54,339          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaro-diz-que-nao-vai-surgir-novo-lider-em-2-anos-e-que-vida-na-presidencia-e-uma-desgraca.shtml
+2020-11-13 14:18:54,339          root     INFO: Finished script
