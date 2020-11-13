@@ -1,6 +1,13 @@
-2020-11-13 13:15:56,610          root     INFO: Starting script
-2020-11-13 13:15:57,497          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-13 13:15:58,168          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-13 13:15:58,842          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-13 13:15:58,937          root     INFO: Parsing R7 - Brasil
-2020-11-13 13:16:03,356          root     INFO: Finished script
+2020-11-13 13:21:17,819          root     INFO: Starting script
+2020-11-13 13:21:18,634          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-13 13:21:19,305          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-13 13:21:19,967          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-13 13:21:20,125          root     INFO: Parsing R7 - Brasil
+2020-11-13 13:21:21,797          root     INFO: Boulos liga para Tatto sobre anúncios no <del>Google</del> <ins>Google,</ins> e petista cita Mujica
+2020-11-13 13:21:23,545          root     INFO: Media ready with ids: 1327240141266702336
+2020-11-13 13:21:23,546          root     INFO: Text to tweet: Modificação do Título
+2020-11-13 13:21:23,546          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/boulos-liga-para-tatto-sobre-anuncios-no-google-e-petista-cita-mujica.shtml
+2020-11-13 13:21:23,551          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/boulos-liga-para-tatto-sobre-anuncios-no-google-e-petista-cita-mujica.shtml
+2020-11-13 13:21:23,721          root     INFO: Replying to: 1327240142868926466
+2020-11-13 13:21:23,962          root     INFO: Id to store: 1327240143519047682
+2020-11-13 13:21:26,531          root     INFO: Finished script
