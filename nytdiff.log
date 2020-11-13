@@ -1,6 +1,32 @@
-2020-11-12 23:57:45,886          root     INFO: Starting script
-2020-11-12 23:57:46,724          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-12 23:57:47,406          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-12 23:57:48,092          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-12 23:57:48,333          root     INFO: Parsing R7 - Brasil
-2020-11-12 23:57:52,806          root     INFO: Finished script
+2020-11-13 00:44:43,020          root     INFO: Starting script
+2020-11-13 00:44:43,812          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-13 00:44:44,483          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-13 00:44:45,128          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-13 00:44:45,396          root     INFO: Parsing R7 - Brasil
+2020-11-13 00:44:47,016          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/em-novo-documento-ministerio-publico-confirma-que-candidato-em-sao-luis-e-investigado.shtml
+2020-11-13 00:44:47,027          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/nao-queremos-fazer-parte-da-politica-nem-deixar-ela-entrar-nos-quarteis-diz-chefe-do-exercito.shtml
+2020-11-13 00:44:47,035          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/propaganda-eleitoral-na-tv-pode-recuperar-importancia-mas-mereciamos-mais.shtml
+2020-11-13 00:44:47,098          root     INFO: A poucos dias das eleições municipais, a Justiça de São Paulo determinou que duas empresas parem de ofertar serviço de disparo em massa pelo WhatsApp. Duas liminares desta quarta-feira (11), favoráveis ao aplicativo, obrigam a Autland, de <del>Curitiba (PR),</del> <ins>Curitiba,</ins> e a VB Marketing, de Monte Alto (SP), a cessar a operação e a venda de pacotes e parem de utilizar o logotipo do WhatsApp para essa prática. Leia mais (11/12/2020 - 19h12)
+2020-11-13 00:44:48,926          root     INFO: Media ready with ids: 1327049742300426251
+2020-11-13 00:44:48,926          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-13 00:44:48,926          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/justica-determina-que-empresas-parem-de-vender-disparo-em-massa-no-whatsapp-na-eleicao.shtml
+2020-11-13 00:44:48,933          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/justica-determina-que-empresas-parem-de-vender-disparo-em-massa-no-whatsapp-na-eleicao.shtml
+2020-11-13 00:44:49,129          root     INFO: Replying to: 1327049744112357382
+2020-11-13 00:44:49,405          root     INFO: Id to store: 1327049744921866240
+2020-11-13 00:44:52,069          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-fazem-crescer-informacoes-falsas-em-redes-sociais-diz-fgv-12112020
+2020-11-13 00:44:52,071          root     INFO: Removed http://noticias.r7.com/brasil/tcu-nomeacoes-de-militares-por-salles-para-o-ibama-sao-irregulares-12112020
+2020-11-13 00:44:52,074          root     INFO: Removed http://noticias.r7.com/brasil/eletrobras-decide-adiar-para-janeiro-demissao-de-454-empregados-12112020
+2020-11-13 00:44:52,077          root     INFO: Removed http://noticias.r7.com/brasil/no-dia-do-pantanal-senadora-tebet-pede-atencao-para-bioma-12112020
+2020-11-13 00:44:52,079          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/morte-de-cicloativista-em-sp-leva-bicicletas-no-transito-para-campanha-favoritos-tem-planos-genericos.shtml
+2020-11-13 00:44:52,083          root     INFO: Removed http://noticias.r7.com/brasil/coronavac-sangue-de-voluntario-morto-tinha-sedativos-e-opioides-12112020
+2020-11-13 00:44:52,085          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-acao-contra-suposto-atentado-a-deputado-federal-no-ms-12112020
+2020-11-13 00:44:52,087          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-municipais-2020-o-que-pode-e-nao-pode-fazer-na-votacao-em-meio-a-pandemia-12112020
+2020-11-13 00:44:52,089          root     INFO: Removed http://noticias.r7.com/brasil/trf-4-revoga-prisao-domiciliar-dos-irmaos-german-e-jose-efromovich-12112020
+2020-11-13 00:44:52,092          root     INFO: Removed http://noticias.r7.com/brasil/codigo-de-defesa-do-consumidor-segue-inovador-apos-30-anos-12112020
+2020-11-13 00:44:52,094          root     INFO: Removed http://noticias.r7.com/brasil/andrade-gutierrez-e-condenada-por-propaganda-que-ofendia-arquitetos-12112020
+2020-11-13 00:44:52,096          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3673
+2020-11-13 00:44:52,098          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10490
+2020-11-13 00:44:52,101          root     INFO: Removed http://noticias.r7.com/brasil/stf-rejeita-pedido-de-peritos-para-barrar-telemedicina-no-inss-12112020
+2020-11-13 00:44:52,103          root     INFO: Removed http://noticias.r7.com/brasil/justica-da-72h-para-governo-explicar-liberacao-de-pesca-em-noronha-12112020
+2020-11-13 00:44:52,106          root     INFO: Removed http://noticias.r7.com/brasil/busca-por-inventarios-aumenta-44-na-pandemia-apontam-cartorios-12112020
+2020-11-13 00:44:52,106          root     INFO: Finished script
