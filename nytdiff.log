@@ -1,25 +1,13 @@
-2020-11-13 10:47:01,528          root     INFO: Starting script
-2020-11-13 10:47:02,408          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-13 10:47:03,075          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-13 10:47:03,741          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-13 10:47:03,853          root     INFO: Parsing R7 - Brasil
-2020-11-13 10:47:05,822          root     INFO: Frente de centro-direita <ins>com Moro, Huck e Doria</ins> converge na economia, mas difere sobre valores e segurança
-2020-11-13 10:47:07,585          root     INFO: Media ready with ids: 1327201319074091008
-2020-11-13 10:47:07,586          root     INFO: Text to tweet: Modificação do Título
-2020-11-13 10:47:07,586          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/frente-de-centro-direita-converge-na-economia-mas-difere-sobre-valores-e-seguranca.shtml
-2020-11-13 10:47:07,594          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/frente-de-centro-direita-converge-na-economia-mas-difere-sobre-valores-e-seguranca.shtml
-2020-11-13 10:47:07,751          root     INFO: Replying to: 1327201320537829376
-2020-11-13 10:47:07,956          root     INFO: Id to store: 1327201321217388545
-2020-11-13 10:47:08,115          root     INFO: Justiça determina que <ins>duas</ins> empresas parem de vender disparo em massa no WhatsApp na eleição
-2020-11-13 10:47:09,841          root     INFO: Media ready with ids: 1327201328523849728
-2020-11-13 10:47:09,841          root     INFO: Text to tweet: Modificação do Título
-2020-11-13 10:47:09,841          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/justica-determina-que-empresas-parem-de-vender-disparo-em-massa-no-whatsapp-na-eleicao.shtml
-2020-11-13 10:47:09,849          root     INFO: Replying to: 1327113485466169344
-2020-11-13 10:47:10,064          root     INFO: Id to store: 1327201330000236544
-2020-11-13 10:47:10,068          root     INFO: A poucos dias das eleições municipais, a Justiça de São Paulo determinou que duas empresas parem de ofertar serviço de disparo em massa pelo WhatsApp. Duas liminares desta quarta-feira (11), favoráveis ao aplicativo, obrigam a Autland, de <del>Curitiba (PR),</del> <ins>Curitiba,</ins> e a VB Marketing, de Monte Alto (SP), a cessar a operação e a venda de pacotes e <del>parem</del> <ins>a parar</ins> de utilizar o logotipo do WhatsApp para essa prática. Leia mais (11/12/2020 - 19h12)
-2020-11-13 10:47:11,796          root     INFO: Media ready with ids: 1327201336753008641
-2020-11-13 10:47:11,797          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-13 10:47:11,797          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/justica-determina-que-empresas-parem-de-vender-disparo-em-massa-no-whatsapp-na-eleicao.shtml
-2020-11-13 10:47:11,802          root     INFO: Replying to: 1327201330000236544
-2020-11-13 10:47:12,013          root     INFO: Id to store: 1327201338187542532
-2020-11-13 10:47:14,730          root     INFO: Finished script
+2020-11-13 10:57:47,179          root     INFO: Starting script
+2020-11-13 10:57:47,996          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-13 10:57:48,662          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-13 10:57:49,326          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-13 10:57:49,504          root     INFO: Parsing R7 - Brasil
+2020-11-13 10:57:51,531          root     INFO: Déficit de meio de milhão de moradias <ins>em SP</ins> e futuro do Minhocão <del>desafiarão</del> <ins>são desafios ao</ins> prefeito <del>de SP</del> <ins>eleito da cidade</ins>
+2020-11-13 10:57:53,291          root     INFO: Media ready with ids: 1327204027482972161
+2020-11-13 10:57:53,292          root     INFO: Text to tweet: Modificação do Título
+2020-11-13 10:57:53,292          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/deficit-de-meio-de-milhao-de-moradias-e-futuro-do-minhocao-desafiarao-prefeito-de-sp.shtml
+2020-11-13 10:57:53,298          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/deficit-de-meio-de-milhao-de-moradias-e-futuro-do-minhocao-desafiarao-prefeito-de-sp.shtml
+2020-11-13 10:57:53,499          root     INFO: Replying to: 1327204028976074753
+2020-11-13 10:57:53,734          root     INFO: Id to store: 1327204029659836417
+2020-11-13 10:57:57,137          root     INFO: Finished script
