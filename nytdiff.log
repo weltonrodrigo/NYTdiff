@@ -1,10 +1,10 @@
-2020-11-14 02:26:59,548          root     INFO: Starting script
-2020-11-14 02:27:00,369          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-14 02:27:01,035          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-14 02:27:01,706          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-14 02:27:01,985          root     INFO: Parsing R7 - Brasil
-2020-11-14 02:27:02,294          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2020/11/canalhas-canalhas-canalhas.shtml
-2020-11-14 02:27:03,835          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/pressao-de-apoiadores-de-boulos-gera-mal-estar-no-pt.shtml
-2020-11-14 02:27:07,046          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/pressionado-tatto-diz-a-pt-que-nao-vai-indicar-voto-em-boulos.shtml
-2020-11-14 02:27:07,049          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/regua-e-compasso-na-turbulencia-da-pandemia.shtml
-2020-11-14 02:27:07,049          root     INFO: Finished script
+2020-11-14 02:47:03,144          root     INFO: Starting script
+2020-11-14 02:47:04,165          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-14 02:47:04,804          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-14 02:47:05,448          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-14 02:47:05,719          root     INFO: Parsing R7 - Brasil
+2020-11-14 02:47:05,949          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2020/11/o-bolsonaro-que-ruge.shtml
+2020-11-14 02:47:07,174          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/candidata-a-vice-em-cariacica-es-e-vitima-de-ofensa-racial-em-comicio.shtml
+2020-11-14 02:47:09,763          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/11/yes-we-can.shtml
+2020-11-14 02:47:09,766          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/juiz-rejeita-recurso-e-mantem-censura-pedida-por-russomanno-a-pesquisa-datafolha.shtml
+2020-11-14 02:47:09,767          root     INFO: Finished script
