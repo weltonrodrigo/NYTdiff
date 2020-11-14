@@ -1,6 +1,15 @@
-2020-11-14 19:58:01,477          root     INFO: Starting script
-2020-11-14 19:58:02,652          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-14 19:58:03,316          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-14 19:58:03,991          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-14 19:58:04,221          root     INFO: Parsing R7 - Brasil
-2020-11-14 19:58:08,489          root     INFO: Finished script
+2020-11-14 20:16:52,435          root     INFO: Starting script
+2020-11-14 20:16:53,245          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-14 20:16:53,904          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-14 20:16:54,559          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-14 20:16:54,817          root     INFO: Parsing R7 - Brasil
+2020-11-14 20:16:55,122          root     INFO: Quem olhasse a eleição pelo binóculo embaçado das pesquisas veria uma onda cinza cobrindo as maiores cidades. O grosso das vitórias ficaria com aquela massa indistinta de conservadorismo ou de reacionarismo moderado que são as sublegendas do centrão. Não é novidade. Esse pequeno establishment costuma governar os interiores do Brasil. Leia mais (11/14/2020 - <del>14h49)</del> <ins>17h01)</ins>
+2020-11-14 20:16:56,970          root     INFO: Media ready with ids: 1327707107538382848
+2020-11-14 20:16:56,971          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-14 20:16:56,971          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/a-onda-cinza-da-eleicao-municipal-e-os-meteoros-vermelhos.shtml
+2020-11-14 20:16:56,976          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/a-onda-cinza-da-eleicao-municipal-e-os-meteoros-vermelhos.shtml
+2020-11-14 20:16:57,149          root     INFO: Replying to: 1327707109090267139
+2020-11-14 20:16:57,390          root     INFO: Id to store: 1327707109903962113
+2020-11-14 20:16:58,881          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/caminhoes-de-natal-tocam-john-lennon-e-fazem-propaganda-para-marcio-franca-em-sp.shtml
+2020-11-14 20:17:02,124          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/kim-kataguiri-e-isa-penna-mediarao-debate-com-candidatos-do-mbl-e-do-psol.shtml
+2020-11-14 20:17:02,125          root     INFO: Finished script
