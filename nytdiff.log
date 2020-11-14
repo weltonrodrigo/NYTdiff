@@ -1,6 +1,14 @@
-2020-11-14 20:57:59,599          root     INFO: Starting script
-2020-11-14 20:58:00,683          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-14 20:58:01,334          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-14 20:58:01,987          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-14 20:58:02,185          root     INFO: Parsing R7 - Brasil
-2020-11-14 20:58:06,458          root     INFO: Finished script
+2020-11-14 21:14:47,752          root     INFO: Starting script
+2020-11-14 21:14:48,632          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-14 21:14:49,323          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-14 21:14:50,006          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-14 21:14:50,249          root     INFO: Parsing R7 - Brasil
+2020-11-14 21:14:52,010          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-no-rio-paes-lidera-com-40-e-crivella-se-isola-em-segundo-lugar-com-18.shtml
+2020-11-14 21:14:52,023          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-no-recife-campos-lidera-34-e-marilia-arraes-25-e-mendonca-23-disputam-2o-lugar.shtml
+2020-11-14 21:14:52,034          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-em-bh-kalil-tem-69-dos-votos-validos-e-deve-ser-reeleito-no-primeiro-turno.shtml
+2020-11-14 21:14:52,045          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-em-sao-paulo-covas-tem-37-dos-votos-validos-boulos-17-franca-14-e-russomanno-13-disputam-o-2o-lugar.shtml
+2020-11-14 21:14:55,106          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tres-servidoras-do-gabinete-de-russomanno-atuam-como-advogadas-em-causas-particulares-do-deputado.shtml
+2020-11-14 21:14:55,110          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleicao-e-assunto-de-familia-no-municipio-com-menor-populacao-do-pais.shtml
+2020-11-14 21:14:55,113          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/filtro-petistas-com-boulos-ganha-adesoes-no-facebook-na-vespera-do-pleito.shtml
+2020-11-14 21:14:55,146          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/boulos-vincula-anuncios-no-google-a-termos-relacionados-ao-pt-e-petistas-veem-golpe-baixo.shtml
+2020-11-14 21:14:55,146          root     INFO: Finished script
