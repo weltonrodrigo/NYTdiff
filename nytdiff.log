@@ -1,18 +1,8 @@
-2020-11-14 20:26:55,554          root     INFO: Starting script
-2020-11-14 20:26:56,774          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-14 20:26:57,431          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-14 20:26:58,084          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-14 20:26:58,274          root     INFO: Parsing R7 - Brasil
-2020-11-14 20:27:02,952          root     INFO: Removed http://noticias.r7.com/brasil/governo-quer-atingir-20-milhoes-de-trabalhadores-com-microcredito-14112020
-2020-11-14 20:27:02,956          root     INFO: Removed http://noticias.r7.com/brasil/pf-apreende-10-mil-cestas-basicas-e-investiga-uso-eleitoral-em-roraima-14112020
-2020-11-14 20:27:02,958          root     INFO: Removed http://noticias.r7.com/brasil/resultado-da-eleicao-saira-em-ate-5h-apos-fechamento-de-urnas-diz-tse-14112020
-2020-11-14 20:27:02,961          root     INFO: Removed http://noticias.r7.com/brasil/stj-mantem-trabalho-para-recuperar-sistema-apos-ataque-de-hacker-14112020
-2020-11-14 20:27:02,963          root     INFO: Removed http://noticias.r7.com/brasil/procuradoria-recebe-denuncias-de-96-casos-de-fraudes-eleitorais-14112020
-2020-11-14 20:27:02,967          root     INFO: Removed http://noticias.r7.com/brasil/pgr-recebe-denuncias-de-96-casos-de-fraudes-eleitorais-na-internet-14112020
-2020-11-14 20:27:02,969          root     INFO: Removed http://noticias.r7.com/brasil/forcas-armadas-reforcam-que-nao-tem-influencia-politica-14112020
-2020-11-14 20:27:02,971          root     INFO: Removed http://noticias.r7.com/brasil/fundeb-texto-de-regulamentacao-sera-apresentado-segunda-14112020
-2020-11-14 20:27:02,974          root     INFO: Removed http://noticias.r7.com/brasil/cinthia-tem-42-e-prof-junior-geo-soma-13-em-palmas-diz-pesquisa-14112020
-2020-11-14 20:27:02,976          root     INFO: Removed http://noticias.r7.com/brasil/candidatos-do-macapa-assinam-peticao-e-pedem-1-turno-no-dia-29-14112020
-2020-11-14 20:27:02,978          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-2020-violencia-contra-politicos-perdeu-medo-de-se-mostrar-neste-ano-diz-pesquisador-14112020
-2020-11-14 20:27:02,981          root     INFO: Removed http://noticias.r7.com/brasil/as-vesperas-das-eleicoes-bolsonaro-pede-votos-para-aliados-14112020
-2020-11-14 20:27:02,981          root     INFO: Finished script
+2020-11-14 20:46:47,221          root     INFO: Starting script
+2020-11-14 20:46:48,060          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-14 20:46:48,730          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-14 20:46:49,407          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-14 20:46:49,620          root     INFO: Parsing R7 - Brasil
+2020-11-14 20:46:51,248          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/candidato-bolsonarista-do-partido-de-mourao-nao-ganha-apoio-de-bolsonaro-em-salvador.shtml
+2020-11-14 20:46:54,042          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-schuler/2020/11/estamos-mesmo-dispostos-a-nao-tratar-nossos-adversarios-como-inimigos.shtml
+2020-11-14 20:46:54,043          root     INFO: Finished script
