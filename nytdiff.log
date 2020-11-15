@@ -1,8 +1,13 @@
-2020-11-15 15:46:51,703          root     INFO: Starting script
-2020-11-15 15:46:52,817          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-15 15:46:53,481          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-15 15:46:54,149          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-15 15:46:54,395          root     INFO: Parsing R7 - Brasil
-2020-11-15 15:46:56,111          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405233
-2020-11-15 15:46:59,161          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/distrito-industrial-e-albergue-para-moradores-de-rua-sao-promessas-nao-cumpridas-por-trad-no-primeiro-mandato-em-campo-grande.shtml
-2020-11-15 15:46:59,162          root     INFO: Finished script
+2020-11-15 15:57:58,322          root     INFO: Starting script
+2020-11-15 15:57:59,177          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-15 15:57:59,969          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-15 15:58:00,659          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-15 15:58:00,908          root     INFO: Parsing R7 - Brasil
+2020-11-15 15:58:02,762          root     INFO: A reconciliação entre o ex-presidente Lula e o pedetista Ciro Gomes, em setembro deste ano, passa ao largo de uma possível chapa para a disputa da Presidência em 2022. <del>"Nós não poderíamos conversar isso porque se a gente sentasse para conversar isso, a gente não teria sentado", afirmou Lula em entrevista coletiva à imprensa após votar na Escola Estadual José Firmino Correia de Araújo, em São Bernardo do Campo. Ele chegou ao local às 8h05 deste domingo (15).</del> Leia mais (11/15/2020 - 10h06)
+2020-11-15 15:58:04,648          root     INFO: Media ready with ids: 1328004347737878529
+2020-11-15 15:58:04,648          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-15 15:58:04,648          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/lula-afirma-que-nao-existiria-conversa-com-ciro-se-o-tema-fosse-chapa-para-2022.shtml
+2020-11-15 15:58:04,654          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/lula-afirma-que-nao-existiria-conversa-com-ciro-se-o-tema-fosse-chapa-para-2022.shtml
+2020-11-15 15:58:04,855          root     INFO: Replying to: 1328004349776318470
+2020-11-15 15:58:05,123          root     INFO: Id to store: 1328004350581624832
+2020-11-15 15:58:08,024          root     INFO: Finished script
