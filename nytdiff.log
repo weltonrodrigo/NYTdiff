@@ -1,36 +1,8 @@
-2020-11-15 23:16:00,043          root     INFO: Starting script
-2020-11-15 23:16:01,055          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-15 23:16:01,890          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-15 23:16:02,720          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-15 23:16:02,919          root     INFO: Parsing R7 - Brasil
-2020-11-15 23:16:04,487          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-manaus-amazonino-mendes-e-david-almeida-vao-ao-segundo-turno-projeta-datafolha.shtml
-2020-11-15 23:16:04,499          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-enfrenta-lentidao-em-apuracao-e-problemas-na-emissao-do-e-titulo.shtml
-2020-11-15 23:16:04,642          root     INFO: Delegado e candidato do <del>Psol</del> <ins>PSOL</ins> irão para o segundo turno em <del>Belém, projeta Datafolha</del> <ins>Belém</ins>
-2020-11-15 23:16:06,459          root     INFO: Media ready with ids: 1328114582175543299
-2020-11-15 23:16:06,459          root     INFO: Text to tweet: Modificação do Título
-2020-11-15 23:16:06,459          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-e-candidato-do-psol-irao-para-o-segundo-turno-em-belem-projeta-datafolha.shtml
-2020-11-15 23:16:06,465          root     INFO: Replying to: 1328100195700248588
-2020-11-15 23:16:06,795          root     INFO: Id to store: 1328114583937093635
-2020-11-15 23:16:06,801          root     INFO: Em Belém, a disputa pelo segundo turno das eleições municipais será entre a direita e a esquerda. O delegado federal Everaldo Eguchi (Patriota) irá enfrentar Edmilson Rodrigues <del>(Psol),</del> <ins>(PSOL),</ins> projeta Datafolha. Leia mais (11/15/2020 - 18h50)
-2020-11-15 23:16:08,625          root     INFO: Media ready with ids: 1328114591105228800
-2020-11-15 23:16:08,626          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-15 23:16:08,627          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-e-candidato-do-psol-irao-para-o-segundo-turno-em-belem-projeta-datafolha.shtml
-2020-11-15 23:16:08,632          root     INFO: Replying to: 1328114583937093635
-2020-11-15 23:16:08,908          root     INFO: Id to store: 1328114592879415299
-2020-11-15 23:16:08,935          root     INFO: Rafael Greca é reeleito prefeito de <del>Curitiba, projeta Datafolha</del> <ins>Curitiba</ins>
-2020-11-15 23:16:10,697          root     INFO: Media ready with ids: 1328114599661592576
-2020-11-15 23:16:10,698          root     INFO: Text to tweet: Modificação do Título
-2020-11-15 23:16:10,698          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rafael-greca-e-reeleito-prefeito-de-curitiba-projeta-datafolha.shtml
-2020-11-15 23:16:10,705          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rafael-greca-e-reeleito-prefeito-de-curitiba-projeta-datafolha.shtml
-2020-11-15 23:16:10,953          root     INFO: Replying to: 1328114601578401792
-2020-11-15 23:16:11,247          root     INFO: Id to store: 1328114602668929024
-2020-11-15 23:16:11,254          root     INFO: O prefeito Rafael Greca (DEM), 64, foi o escolhido pelos eleitores de Curitiba para governar a capital paranaense por mais quatro <del>anos, segundo projeção do Datafolha.</del> <ins>anos.</ins> Com <del>26,76%</del> <ins>95,12%</ins> das urnas apuradas, ele venceu o pleito ainda no primeiro turno, com <del>59,91%</del> <ins>59,77%</ins> dos votos válidos até as <del>18h35 .</del> <ins>20h.</ins> Leia mais (11/15/2020 - 18h45)
-2020-11-15 23:16:13,084          root     INFO: Media ready with ids: 1328114609816006657
-2020-11-15 23:16:13,085          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-15 23:16:13,085          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rafael-greca-e-reeleito-prefeito-de-curitiba-projeta-datafolha.shtml
-2020-11-15 23:16:13,090          root     INFO: Replying to: 1328114602668929024
-2020-11-15 23:16:13,384          root     INFO: Id to store: 1328114611632082945
-2020-11-15 23:16:15,931          root     INFO: Removed http://noticias.r7.com/brasil/quase-148-milhoes-de-eleitores-escolhem-hoje-prefeitos-e-vereadores-15112020
-2020-11-15 23:16:15,936          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/guerra-de-jingles-e-acusacoes-marcam-campanha-eleitoral-em-cidade-do-interior-do-rn.shtml
-2020-11-15 23:16:15,940          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/horario-eleitoral-mantem-media-de-audiencia-das-tvs-na-cidade-de-sao-paulo.shtml
-2020-11-15 23:16:15,941          root     INFO: Finished script
+2020-11-15 23:21:37,328          root     INFO: Starting script
+2020-11-15 23:21:38,123          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-15 23:21:38,783          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-15 23:21:39,442          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-15 23:21:39,638          root     INFO: Parsing R7 - Brasil
+2020-11-15 23:21:41,119          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sarto-e-capitao-wagner-disputam-2o-turno-em-fortaleza-projeta-datafolha.shtml
+2020-11-15 23:21:43,762          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/politicos-ignoram-regra-e-fazem-campanha-eleitoral-em-terra-indigena.shtml
+2020-11-15 23:21:43,764          root     INFO: Finished script
