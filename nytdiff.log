@@ -1,31 +1,12 @@
-2020-11-15 23:27:13,644          root     INFO: Starting script
-2020-11-15 23:27:14,514          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-15 23:27:15,182          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-15 23:27:15,844          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-15 23:27:16,032          root     INFO: Parsing R7 - Brasil
-2020-11-15 23:27:17,847          root     INFO: Delegado e candidato do <del>Psol</del> <ins>PSOL</ins> irão para o segundo turno em <del>Belém, projeta Datafolha</del> <ins>Belém</ins>
-2020-11-15 23:27:19,574          root     INFO: Media ready with ids: 1328117405399314433
-2020-11-15 23:27:19,575          root     INFO: Text to tweet: Modificação do Título
-2020-11-15 23:27:19,575          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-e-candidato-do-psol-irao-para-o-segundo-turno-em-belem-projeta-datafolha.shtml
-2020-11-15 23:27:19,584          root     INFO: Replying to: 1328114592879415299
-2020-11-15 23:27:19,834          root     INFO: Id to store: 1328117406963785729
-2020-11-15 23:27:19,839          root     INFO: Em Belém, a disputa pelo segundo turno das eleições municipais será entre a direita e a esquerda. O delegado federal Everaldo Eguchi (Patriota) irá enfrentar Edmilson Rodrigues <del>(Psol),</del> <ins>(PSOL),</ins> projeta <ins>o</ins> Datafolha. Leia mais (11/15/2020 - 18h50)
-2020-11-15 23:27:24,663          root     INFO: Media ready with ids: 1328117426639278082
-2020-11-15 23:27:24,664          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-15 23:27:24,664          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-e-candidato-do-psol-irao-para-o-segundo-turno-em-belem-projeta-datafolha.shtml
-2020-11-15 23:27:24,669          root     INFO: Replying to: 1328117406963785729
-2020-11-15 23:27:24,920          root     INFO: Id to store: 1328117428279185408
-2020-11-15 23:27:25,001          root     INFO: Em Florianópolis, prefeito Gean Loureiro (DEM) é <del>reeleito, projeta Datafolha</del> <ins>reeleito</ins>
-2020-11-15 23:27:26,974          root     INFO: Media ready with ids: 1328117436273528839
-2020-11-15 23:27:26,975          root     INFO: Text to tweet: Modificação do Título
-2020-11-15 23:27:26,975          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-florianopolis-prefeito-gean-loureiro-dem-e-reeleito-projeta-datafolha.shtml
-2020-11-15 23:27:26,982          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-florianopolis-prefeito-gean-loureiro-dem-e-reeleito-projeta-datafolha.shtml
-2020-11-15 23:27:27,173          root     INFO: Replying to: 1328117437859045376
-2020-11-15 23:27:27,441          root     INFO: Id to store: 1328117438756626432
-2020-11-15 23:27:27,448          root     INFO: A capital catarinense decidiu a eleição municipal no primeiro <del>turno, projeta o Datafolha.</del> <ins>turno.</ins> O atual prefeito, Gean Loureiro (DEM), <del>tem 54,09%</del> <ins>obteve 53,46%</ins> dos votos <del>com 77,04% das urnas apuradas até as 17h55 deste</del> <ins>neste</ins> domingo (15). Leia mais (11/15/2020 - 17h56)
-2020-11-15 23:27:29,188          root     INFO: Media ready with ids: 1328117445559775232
-2020-11-15 23:27:29,188          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-15 23:27:29,188          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-florianopolis-prefeito-gean-loureiro-dem-e-reeleito-projeta-datafolha.shtml
-2020-11-15 23:27:29,194          root     INFO: Replying to: 1328117438756626432
-2020-11-15 23:27:29,435          root     INFO: Id to store: 1328117447258419201
-2020-11-15 23:27:31,963          root     INFO: Finished script
+2020-11-15 23:46:41,336          root     INFO: Starting script
+2020-11-15 23:46:42,154          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-15 23:46:42,824          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-15 23:46:43,485          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-15 23:46:43,686          root     INFO: Parsing R7 - Brasil
+2020-11-15 23:46:45,338          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-dia-de-eleicao-moradores-de-rua-sofrem-apagao-eleitoral-e-falta-de-comida.shtml
+2020-11-15 23:46:45,349          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-alvaro-dias-e-reeleito-em-primeiro-turno-em-natal-projeta-datafolha.shtml
+2020-11-15 23:46:45,357          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/kalil-confirma-favoritismo-e-e-reeleito-em-belo-horizonte-projeta-datafolha.shtml
+2020-11-15 23:46:48,228          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ministro-do-stf-diz-que-bolsonaro-nao-pode-ser-censor-e-defende-desbloqueio-de-seguidor-nas-redes.shtml
+2020-11-15 23:46:48,232          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/mourao-reforca-posicao-do-comandante-do-exercito-e-diz-que-forcas-armadas-devem-ficar-fora-da-politica.shtml
+2020-11-15 23:46:48,235          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/fala-de-chefe-do-exercito-e-marco-na-relacao-de-militares-com-bolsonaro.shtml
+2020-11-15 23:46:48,236          root     INFO: Finished script
