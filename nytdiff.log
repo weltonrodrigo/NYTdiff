@@ -1,17 +1,13 @@
-2020-11-15 19:46:53,133          root     INFO: Starting script
-2020-11-15 19:46:54,087          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-15 19:46:54,732          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-15 19:46:55,379          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-15 19:46:55,661          root     INFO: Parsing R7 - Brasil
-2020-11-15 19:46:57,233          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/app-e-titulo-esta-instavel-veja-outras-forma-de-justificar-o-seu-voto.shtml
-2020-11-15 19:46:57,246          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405244
-2020-11-15 19:46:57,342          root     INFO: DEM <ins>vai</ins> se <del>cacifou</del> <ins>cacifar</ins> para liderar <del>projeto</del> <ins>frente</ins> de <del>Huck,</del> <ins>centro,</ins> diz Maia
-2020-11-15 19:46:59,139          root     INFO: Media ready with ids: 1328061954804621312
-2020-11-15 19:46:59,140          root     INFO: Text to tweet: Modificação do Título
-2020-11-15 19:46:59,140          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405233
-2020-11-15 19:46:59,147          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405233
-2020-11-15 19:46:59,351          root     INFO: Replying to: 1328061956465504256
-2020-11-15 19:46:59,591          root     INFO: Id to store: 1328061957249900544
-2020-11-15 19:47:02,180          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/dirigentes-do-pt-acusam-apoiadores-de-boulos-de-errar-no-calculo-e-enfraquecer-vereadores-da-legenda.shtml
-2020-11-15 19:47:02,183          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2020/11/brasil-precisa-de-muito-mais-do-que-clones-do-novo-presidente-dos-eua.shtml
-2020-11-15 19:47:02,184          root     INFO: Finished script
+2020-11-15 19:57:47,891          root     INFO: Starting script
+2020-11-15 19:57:48,715          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-15 19:57:49,393          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-15 19:57:50,063          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-15 19:57:50,185          root     INFO: Parsing R7 - Brasil
+2020-11-15 19:57:51,851          root     INFO: <del>App e-título está</del> <ins>E-título</ins> instável? <del>Veja outras formas de</del> <ins>Saiba como</ins> justificar o <del>seu</del> voto <ins>online e presencialmente</ins>
+2020-11-15 19:57:53,590          root     INFO: Media ready with ids: 1328064699754291200
+2020-11-15 19:57:53,590          root     INFO: Text to tweet: Modificação do Título
+2020-11-15 19:57:53,590          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/app-e-titulo-esta-instavel-veja-outras-forma-de-justificar-o-seu-voto.shtml
+2020-11-15 19:57:53,596          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/app-e-titulo-esta-instavel-veja-outras-forma-de-justificar-o-seu-voto.shtml
+2020-11-15 19:57:53,797          root     INFO: Replying to: 1328064701373276162
+2020-11-15 19:57:54,024          root     INFO: Id to store: 1328064702090448896
+2020-11-15 19:57:56,964          root     INFO: Finished script
