@@ -1,6 +1,19 @@
-2020-11-15 19:20:16,552          root     INFO: Starting script
-2020-11-15 19:20:17,444          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-15 19:20:18,104          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-15 19:20:18,761          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-15 19:20:18,903          root     INFO: Parsing R7 - Brasil
-2020-11-15 19:20:23,507          root     INFO: Finished script
+2020-11-15 19:26:47,234          root     INFO: Starting script
+2020-11-15 19:26:48,075          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-15 19:26:48,759          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-15 19:26:49,444          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-15 19:26:49,709          root     INFO: Parsing R7 - Brasil
+2020-11-15 19:26:51,474          root     INFO: Acompanhe a apuração e o <del>resutado</del> <ins>resultado</ins> das eleições <del>deste domingo</del> <ins>2020</ins> em tempo real
+2020-11-15 19:26:53,289          root     INFO: Media ready with ids: 1328056896914395142
+2020-11-15 19:26:53,290          root     INFO: Text to tweet: Modificação do Título
+2020-11-15 19:26:53,290          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/acompanhe-a-apuracao-e-o-resutado-das-eleicoes-deste-domingo-em-tempo-real.shtml
+2020-11-15 19:26:53,300          root     INFO: Replying to: 1327015040948559872
+2020-11-15 19:26:53,540          root     INFO: Id to store: 1328056898709491713
+2020-11-15 19:26:53,545          root     INFO: A partir das 17h deste domingo (15), dia de votação municipal em todo o Brasil, acompanhe aqui na Folha, por meio deste link, o resultado do primeiro turno da eleição em sua cidade. Leia mais <del>(11/12/2020</del> <ins>(11/15/2020</ins> - <del>12h45)</del> <ins>16h23)</ins>
+2020-11-15 19:26:55,235          root     INFO: Media ready with ids: 1328056905231687680
+2020-11-15 19:26:55,236          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-15 19:26:55,236          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/acompanhe-a-apuracao-e-o-resutado-das-eleicoes-deste-domingo-em-tempo-real.shtml
+2020-11-15 19:26:55,241          root     INFO: Replying to: 1328056898709491713
+2020-11-15 19:26:55,459          root     INFO: Id to store: 1328056906720686082
+2020-11-15 19:26:58,989          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/em-novo-documento-ministerio-publico-confirma-que-candidato-em-sao-luis-e-investigado.shtml
+2020-11-15 19:26:58,990          root     INFO: Finished script
