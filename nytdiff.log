@@ -1,25 +1,15 @@
-2020-11-15 22:18:47,592          root     INFO: Starting script
-2020-11-15 22:18:48,769          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-15 22:18:49,448          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-15 22:18:50,121          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-15 22:18:50,309          root     INFO: Parsing R7 - Brasil
-2020-11-15 22:18:52,064          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405256
-2020-11-15 22:18:52,076          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/votacao-em-sp-tem-filas-por-falhas-em-aplicativo-e-idosos-com-kit-covid.shtml
-2020-11-15 22:18:52,085          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-reis-dem-vence-no-1o-turno-em-salvador-projeta-datafolha.shtml
-2020-11-15 22:18:52,114          root     INFO: Delegado e candidato do <del>Psol</del> <ins>PSOL</ins> irão para o segundo turno em Belém, projeta Datafolha
-2020-11-15 22:18:53,844          root     INFO: Media ready with ids: 1328100184556007424
-2020-11-15 22:18:53,844          root     INFO: Text to tweet: Modificação do Título
-2020-11-15 22:18:53,844          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-e-candidato-do-psol-irao-para-o-segundo-turno-em-belem-projeta-datafolha.shtml
-2020-11-15 22:18:53,853          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-e-candidato-do-psol-irao-para-o-segundo-turno-em-belem-projeta-datafolha.shtml
-2020-11-15 22:18:54,047          root     INFO: Replying to: 1328100186250473477
-2020-11-15 22:18:54,289          root     INFO: Id to store: 1328100187043209216
-2020-11-15 22:18:54,293          root     INFO: Em Belém, a disputa pelo segundo turno das eleições municipais será entre a direita e a esquerda. O delegado federal Everaldo Eguchi (Patriota) irá enfrentar Edmilson Rodrigues <del>(Psol),</del> <ins>(PSOL),</ins> projeta Datafolha. Leia mais (11/15/2020 - 18h50)
-2020-11-15 22:18:56,097          root     INFO: Media ready with ids: 1328100193867280384
-2020-11-15 22:18:56,098          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-15 22:18:56,098          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-e-candidato-do-psol-irao-para-o-segundo-turno-em-belem-projeta-datafolha.shtml
-2020-11-15 22:18:56,113          root     INFO: Replying to: 1328100187043209216
-2020-11-15 22:18:56,345          root     INFO: Id to store: 1328100195700248588
-2020-11-15 22:18:59,832          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2020/11/preparem-se-o-bolsonaro-do-confronto-voltou-para-tentar-ficar.shtml
-2020-11-15 22:18:59,836          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/tre-deixa-de-fora-pf-em-reuniao-que-decidiu-adiamento-de-eleicao-em-macapa.shtml
-2020-11-15 22:18:59,839          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/deficit-de-meio-de-milhao-de-moradias-e-futuro-do-minhocao-desafiarao-prefeito-de-sp.shtml
-2020-11-15 22:18:59,840          root     INFO: Finished script
+2020-11-15 22:26:53,773          root     INFO: Starting script
+2020-11-15 22:26:54,610          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-15 22:26:55,294          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-15 22:26:55,987          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-15 22:26:56,227          root     INFO: Parsing R7 - Brasil
+2020-11-15 22:26:58,051          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/atingida-por-apagao-duplo-ilha-do-amapa-recebe-energia-para-votacao.shtml
+2020-11-15 22:26:58,100          root     INFO: Em? ?domingo? ?de? ?forte? ?calor,? ?eleitores? ?foram? ?às? ?urnas? ?para? ?o? ?primeiro? ?turno? ?da? ?eleição? ?municipal? ?e?m São Paulo e ?encontraram? ?esquema? ?rigoroso? ?de? ?prevenção? ?à? ?Covid-19. Em algumas seções, no entanto, não faltaram aglomerações? ?e? ?filas? ?para? ?achar? locais de votação? ?que? ?mudaram? ?este? ?ano,? ?boca? ?de? ?urna,? ruas? ?cheias? ?de? ?santinhos? ?e? ?caneta? ?individual? ?vendida? ?a? ?R$? ?2.? ? ? A? ??Folha? ??percorreu? ?as? ?cinco? regiões? ?da? ?cidade? ?e? ?viu? ?pedidos? ?de? ?"ô? ?galera,? ?não? ?vamos? ? aglomerar? ?aí",? ?eleitores? ?com? ?a? ?máscara? ?no? ?queixo? ?que? ?cobria?m ?o? ?nariz? ?apenas? ?na? ?hora? ?de? ? entrar? ?na? ?zona? ?eleitoral? ?e? ?idosos? ?paramentados? ?para? ?evitar? ?se? ?infectar.? ? ? Um? ?dos? ?primeiros? ?a? ?entrar? ?no? ?colégio? ?Dante? ?Alighieri,? ?nos? ?Jardins? ?(zona? ?oeste),? ?foi? ?o? ?vendedor? ?Kenji? ?Yamamoto,? ?80,? ?que? ?às? ?7h? ?já? ?batia? ?ponto? ?na? ?terceira? ?maior? ?zona? ?eleitoral? ?da? ?capital? ?com? ?um? ?kit? ?anti-coronavírus:? ?máscara,? ?óculos? ?de? ?proteção,? ?luvas,? ?caneta,? ?álcool? ?em? ?gel.? ?Também? ?foi? ?a? ?pé? ?e? ?sozinho? ?até? ?o? ?local.? ?O? ?verde? ?e? ?confirma? ?"foi? ?à? ?jato,? ?não? ?demorou? ?um? ?minuto",? ?contou? ?ele,? ?que? ?votou? ?para? ?reeleger? ?Bruno? ?Covas? ?(PSDB).? ? ? Durante? ?a? ?manhã,? ?as? ?seções? ?estavam?? vazias,? ?e? ?a? ?maioria? ?dos? ?eleitores? ?eram? ?idosos.? ?Todos? ?disseram? ?ter? ?se? ?sentido? ?seguros? ?para? ?votar.? ?Neste ano, o horário foi estendido, e o intervalo das 7h às 10h foi designado preferencialmente para idosos. Leia mais (11/15/2020 - 19h07)
+2020-11-15 22:27:00,425          root     INFO: Media ready with ids: 1328102224870957057
+2020-11-15 22:27:00,425          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-15 22:27:00,425          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/votacao-em-sp-tem-filas-por-falhas-em-aplicativo-e-idosos-com-kit-covid.shtml
+2020-11-15 22:27:00,434          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/votacao-em-sp-tem-filas-por-falhas-em-aplicativo-e-idosos-com-kit-covid.shtml
+2020-11-15 22:27:00,626          root     INFO: Replying to: 1328102227114926080
+2020-11-15 22:27:00,891          root     INFO: Id to store: 1328102227895070721
+2020-11-15 22:27:03,886          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/debate-em-sp-tem-confronto-entre-boulos-e-russomanno-e-dobradinhas-contra-covas.shtml
+2020-11-15 22:27:03,887          root     INFO: Finished script
