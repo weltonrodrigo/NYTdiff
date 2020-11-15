@@ -1,6 +1,13 @@
-2020-11-15 20:27:05,828          root     INFO: Starting script
-2020-11-15 20:27:06,663          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-15 20:27:07,338          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-15 20:27:08,002          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-15 20:27:08,161          root     INFO: Parsing R7 - Brasil
-2020-11-15 20:27:11,958          root     INFO: Finished script
+2020-11-15 20:47:01,186          root     INFO: Starting script
+2020-11-15 20:47:01,986          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-15 20:47:02,636          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-15 20:47:03,284          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-15 20:47:03,425          root     INFO: Parsing R7 - Brasil
+2020-11-15 20:47:05,137          root     INFO: Orlando Silva ataca Lula no Twitter, e Tatto <del>gosta</del> <ins>curte publicação</ins>
+2020-11-15 20:47:06,909          root     INFO: Media ready with ids: 1328077086922330112
+2020-11-15 20:47:06,910          root     INFO: Text to tweet: Modificação do Título
+2020-11-15 20:47:06,910          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/orlando-silva-ataca-lula-no-twitter-e-tatto-gosta.shtml
+2020-11-15 20:47:06,916          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/orlando-silva-ataca-lula-no-twitter-e-tatto-gosta.shtml
+2020-11-15 20:47:07,093          root     INFO: Replying to: 1328077088428077056
+2020-11-15 20:47:07,318          root     INFO: Id to store: 1328077089107480576
+2020-11-15 20:47:10,316          root     INFO: Finished script
