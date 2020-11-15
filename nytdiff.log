@@ -1,17 +1,10 @@
-2020-11-15 20:57:56,941          root     INFO: Starting script
-2020-11-15 20:57:58,138          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-15 20:57:58,827          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-15 20:57:59,494          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-15 20:57:59,610          root     INFO: Parsing R7 - Brasil
-2020-11-15 20:58:03,936          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibopesp-covas-33-e-boulos-25-irao-ao-2-turno-diz-boca-de-urna-15112020
-2020-11-15 20:58:03,952          root     INFO: New article tracked: http://noticias.r7.com/brasil/prisoes-de-candidatos-chegam-a-45-neste-domingo-diz-tse-15112020
-2020-11-15 20:58:03,959          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-2020-votacao-e-encerrada-e-apuracao-do-1-turno-vai-comecar-15112020
-2020-11-15 20:58:03,967          root     INFO: New article tracked: http://noticias.r7.com/brasil/drones-flagram-boca-de-urna-e-ajudam-pf-a-prender-criminosos-15112020
-2020-11-15 20:58:03,974          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/drone-flagra-boca-de-urna-em-sao-vicente-sp-15112020
-2020-11-15 20:58:03,982          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-estao-assustadoramente-normais-diz-presidente-do-tse-15112020
-2020-11-15 20:58:03,993          root     INFO: New article tracked: http://noticias.r7.com/brasil/tse-diz-que-1700-urnas-ja-foram-substituidas-em-todo-o-pais-15112020
-2020-11-15 20:58:04,000          root     INFO: New article tracked: http://noticias.r7.com/brasil/instabilidade-no-e-titulo-se-deve-a-acessos-de-ultima-hora-diz-barroso-15112020
-2020-11-15 20:58:04,010          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-votacao-rodrigo-maia-fala-em-projeto-de-dialogo-para-2022-15112020
-2020-11-15 20:58:04,018          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-covid-deputado-hildo-rocha-continua-internado-15112020
-2020-11-15 20:58:04,025          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-justica-apura-720-ocorrencias-de-crimes-eleitorais-15112020
-2020-11-15 20:58:04,159          root     INFO: Finished script
+2020-11-15 21:14:55,761          root     INFO: Starting script
+2020-11-15 21:14:56,604          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-15 21:14:57,291          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-15 21:14:57,979          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-15 21:14:58,162          root     INFO: Parsing R7 - Brasil
+2020-11-15 21:14:58,491          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/11/brasil-joga-mal-mas-busca-ataque-e-variacoes.shtml
+2020-11-15 21:15:00,208          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-florianopolis-prefeito-gean-loureiro-dem-e-reeleito-projeta-datafolha.shtml
+2020-11-15 21:15:03,987          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/frente-de-centro-direita-converge-na-economia-mas-difere-sobre-valores-e-seguranca.shtml
+2020-11-15 21:15:03,991          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/bolsonaro-a-derrota.shtml
+2020-11-15 21:15:03,992          root     INFO: Finished script
