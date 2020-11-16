@@ -1,16 +1,51 @@
-2020-11-16 04:30:01,098          root     INFO: Starting script
-2020-11-16 04:30:02,153          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 04:30:02,982          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 04:30:03,813          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 04:30:04,044          root     INFO: Parsing R7 - Brasil
-2020-11-16 04:30:05,632          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/fotografo-dispos-de-poucos-minutos-para-garantir-equilibrio-em-ensaios-com-candidatos.shtml
-2020-11-16 04:30:05,644          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sao-paulo-abstencao-cresce-e-chega-a-29-no-primeiro-turno.shtml
-2020-11-16 04:30:05,654          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleicao-mostra-tendencia-de-deslocamento-a-esquerda-em-capitais.shtml
-2020-11-16 04:30:05,690          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405282
-2020-11-16 04:30:05,957          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/aliados-de-bolsonaro-tentam-emplacar-versao-de-que-bolsonaro-nao-perdeu-eleicao.shtml
-2020-11-16 04:30:08,191          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/profissionais-da-saude-de-sp-querem-que-prefeito-eleito-priorize-a-rede-basica-e-nao-grandes-obras-na-cidade.shtml
-2020-11-16 04:30:08,193          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2020/11/custo-que-o-exercito-viria-a-pagar-para-ter-bolsonaro-foi-previsto-dito-e-escrito.shtml
-2020-11-16 04:30:08,197          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/partidos-falam-em-confusao-com-fundo-eleitoral-e-cotas-e-se-articulam-para-mudar-regras.shtml
-2020-11-16 04:30:08,200          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/11/um-dia-se-sabera-o-que-aconteceu-na-anvisa-nesta-semana-que-passou.shtml
-2020-11-16 04:30:08,204          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/tropeco-eleitoral-deve-desvalorizar-passe-de-bolsonaro-no-mundo-politico.shtml
-2020-11-16 04:30:08,204          root     INFO: Finished script
+2020-11-16 04:46:58,509          root     INFO: Starting script
+2020-11-16 04:46:59,485          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 04:47:00,190          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 04:47:00,855          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 04:47:01,088          root     INFO: Parsing R7 - Brasil
+2020-11-16 04:47:03,225          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/disputa-covas-e-boulos-deixa-bolsonaristas-sem-opcao-em-sp-e-candidatos-descartam-acenos.shtml
+2020-11-16 04:47:03,375          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/de-45-vereadores-apoiados-por-bolsonaro-ao-menos-33-foram-derrotados-nas-urnas.shtml
+2020-11-16 04:47:03,622          root     INFO: Com <del>99,79%</del> <ins>99,89%</ins> das urnas apuradas, o país registrou 23,14% de abstenções no primeiro turno das eleições, o maior índice para pleitos municipais dos últimos 20 anos. Leia mais (11/16/2020 - 00h25)
+2020-11-16 04:47:05,499          root     INFO: Media ready with ids: 1328197877068419074
+2020-11-16 04:47:05,499          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 04:47:05,499          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/abstencoes-crescem-no-pais-e-chegam-a-23-maior-valor-em-20-anos.shtml
+2020-11-16 04:47:05,505          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/abstencoes-crescem-no-pais-e-chegam-a-23-maior-valor-em-20-anos.shtml
+2020-11-16 04:47:05,709          root     INFO: Replying to: 1328197878582571010
+2020-11-16 04:47:05,945          root     INFO: Id to store: 1328197879341703169
+2020-11-16 04:47:06,206          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/no-rio-eduardo-paes-deve-evitar-conflito-com-bolsonaro.shtml
+2020-11-16 04:47:06,484          root     INFO: Boulos enfrentará Covas no segundo turno em São <del>Paulo, projeta Datafolha</del> <ins>Paulo</ins>
+2020-11-16 04:47:08,110          root     INFO: Media ready with ids: 1328197887998701572
+2020-11-16 04:47:08,111          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 04:47:08,111          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-enfrentara-covas-no-segundo-turno-em-sao-paulo-projeta-datafolha.shtml
+2020-11-16 04:47:08,121          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-enfrentara-covas-no-segundo-turno-em-sao-paulo-projeta-datafolha.shtml
+2020-11-16 04:47:08,296          root     INFO: Replying to: 1328197889395404801
+2020-11-16 04:47:08,522          root     INFO: Id to store: 1328197890163023872
+2020-11-16 04:47:08,529          root     INFO: O prefeito Bruno Covas (PSDB) enfrentará Guilherme Boulos (PSOL) no segundo turno da eleição para a Prefeitura de São Paulo, no próximo dia 29, <del>conforme projeção do Datafolha a partir dos votos já contabilizados neste domingo (15)</del> <ins>após uma disputa marcada</ins> pelo <del>TSE (Tribunal Superior Eleitoral).</del> <ins>derretimento de Celso Russomanno (Republicanos), candidato do presidente Jair Bolsonaro.</ins> Leia mais (11/15/2020 - 22h24)
+2020-11-16 04:47:10,240          root     INFO: Media ready with ids: 1328197896798343168
+2020-11-16 04:47:10,241          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 04:47:10,241          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-enfrentara-covas-no-segundo-turno-em-sao-paulo-projeta-datafolha.shtml
+2020-11-16 04:47:10,246          root     INFO: Replying to: 1328197890163023872
+2020-11-16 04:47:10,457          root     INFO: Id to store: 1328197898278989825
+2020-11-16 04:47:10,625          root     INFO: <ins>Depoimento:</ins> Como mesário, vi brasileiro mostrar neste domingo responsabilidade na pandemia
+2020-11-16 04:47:12,330          root     INFO: Media ready with ids: 1328197905438695424
+2020-11-16 04:47:12,330          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 04:47:12,330          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/como-mesario-vi-brasileiro-mostrar-neste-domingo-responsabilidade-na-pandemia.shtml
+2020-11-16 04:47:12,335          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/como-mesario-vi-brasileiro-mostrar-neste-domingo-responsabilidade-na-pandemia.shtml
+2020-11-16 04:47:12,517          root     INFO: Replying to: 1328197907128922113
+2020-11-16 04:47:12,738          root     INFO: Id to store: 1328197907896541185
+2020-11-16 04:47:12,956          root     INFO: Votação em SP tem filas por falhas em aplicativo e idosos com kit <del>Covid</del> <ins>anti-Covid</ins>
+2020-11-16 04:47:14,637          root     INFO: Media ready with ids: 1328197915345563649
+2020-11-16 04:47:14,638          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 04:47:14,638          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/votacao-em-sp-tem-filas-por-falhas-em-aplicativo-e-idosos-com-kit-covid.shtml
+2020-11-16 04:47:14,644          root     INFO: Replying to: 1328107240449044480
+2020-11-16 04:47:14,841          root     INFO: Id to store: 1328197916725567488
+2020-11-16 04:47:15,275          root     INFO: Em? ?domingo? ?de? ?forte? ?calor,? ?eleitores? ?foram? ?às? ?urnas? ?para? ?o? ?primeiro? ?turno? ?da? ?eleição? ?municipal? ?e?m São Paulo e ?encontraram? ?esquema? ?rigoroso? ?de? ?prevenção? ?à? ?Covid-19. Em algumas seções, no entanto, não faltaram aglomerações? ?e? ?filas? ?para? ?achar? locais de votação? ?que? ?mudaram? ?este? ?ano,? ?boca? ?de? ?urna,? ruas? ?cheias? ?de? ?santinhos? ?e? ?caneta? ?individual? ?vendida? ?a? ?R$? ?2.? ? ? A? ??Folha? ??percorreu? ?as? ?cinco? regiões? ?da? ?cidade? ?e? ?viu? ?pedidos? ?de? ?"ô? ?galera,? ?não? ?vamos? ? aglomerar? ?aí",? ?eleitores? ?com? ?a? ?máscara? ?no? ?queixo? ?que? ?cobria?m ?o? ?nariz? ?apenas? ?na? ?hora? ?de? ? entrar? ?na? ?zona? ?eleitoral? ?e? ?idosos? ?paramentados? ?para? ?evitar? ?se? ?infectar.? ? ? Um? ?dos? ?primeiros? ?a? ?entrar? ?no? ?colégio? ?Dante? ?Alighieri,? ?nos? ?Jardins? ?(zona? ?oeste),? ?foi? ?o? ?vendedor? ?Kenji? ?Yamamoto,? ?80,? ?que? ?às? ?7h? ?já? ?batia? ?ponto? ?na? ?terceira? ?maior? ?zona? ?eleitoral? ?da? ?capital? ?com? ?um? ?kit? ?anti-coronavírus:? ?máscara,? ?óculos? ?de? ?proteção,? ?luvas,? ?caneta,? ?álcool? ?em? ?gel.? ?Também? ?foi? ?a? ?pé? ?e? ?sozinho? ?até? ?o? ?local.? ?O? ?verde? ?e? ?confirma? ?"foi? ?à? ?jato,? ?não? ?demorou? ?um? ?minuto",? ?contou? ?ele,? ?que? ?votou? ?para? ?reeleger? ?Bruno? ?Covas? ?(PSDB).? ? ? Durante? ?a? ?manhã,? ?as? ?seções? ?estavam?? vazias,? ?e? ?a? ?maioria? ?dos? ?eleitores? ?eram? ?idosos.? ?Todos? ?disseram? ?ter? ?se? ?sentido? ?seguros? ?para? ?votar.? ?Neste ano, o horário foi estendido, e o intervalo das 7h às 10h foi designado preferencialmente para <del>idosos.</del> <ins>os mais velhos.</ins> Leia mais (11/15/2020 - 19h07)
+2020-11-16 04:47:17,582          root     INFO: Media ready with ids: 1328197926678650880
+2020-11-16 04:47:17,582          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 04:47:17,583          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/votacao-em-sp-tem-filas-por-falhas-em-aplicativo-e-idosos-com-kit-covid.shtml
+2020-11-16 04:47:17,588          root     INFO: Replying to: 1328197916725567488
+2020-11-16 04:47:17,820          root     INFO: Id to store: 1328197929102958594
+2020-11-16 04:47:19,642          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-tatto-pt-caminha-para-o-pior-desempenho-de-sua-historia-em-eleicoes-para-prefeito-de-sp.shtml
+2020-11-16 04:47:19,645          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joice-hasselmann-saiu-de-favorita-de-doria-para-candidata-nanica.shtml
+2020-11-16 04:47:19,647          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/saiba-o-que-a-pandemia-do-coronavirus-mudou-nas-eleicoes-municipais.shtml
+2020-11-16 04:47:19,648          root     INFO: Finished script
