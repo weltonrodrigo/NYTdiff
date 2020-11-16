@@ -1,8 +1,12 @@
-2020-11-16 20:17:04,651          root     INFO: Starting script
-2020-11-16 20:17:05,448          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 20:17:06,095          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 20:17:06,744          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 20:17:06,956          root     INFO: Parsing R7 - Brasil
-2020-11-16 20:17:08,653          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/olavo-de-carvalho-diz-que-bolsonaristas-tiveram-resultado-pessimo-assessor-do-presidente-prega-autocritica.shtml
-2020-11-16 20:17:11,590          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/votacao-em-sp-tem-filas-por-falhas-em-aplicativo-e-idosos-com-kit-covid.shtml
-2020-11-16 20:17:11,592          root     INFO: Finished script
+2020-11-16 20:23:10,712          root     INFO: Starting script
+2020-11-16 20:23:11,783          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 20:23:12,610          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 20:23:13,450          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 20:23:13,713          root     INFO: Parsing R7 - Brasil
+2020-11-16 20:23:15,686          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/paes-deve-reunir-apoios-criticos-e-crivella-fica-isolado-com-bolsonaro-no-rio.shtml
+2020-11-16 20:23:15,700          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/regioes-centrais-de-sao-paulo-tem-os-maiores-indices-de-abstencoes-da-cidade.shtml
+2020-11-16 20:23:15,713          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/com-22-vezes-mais-dinheiro-joice-hasselmann-teve-apenas-10-dos-votos-de-2018.shtml
+2020-11-16 20:23:18,461          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405257
+2020-11-16 20:23:18,466          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/atingida-por-apagao-duplo-ilha-do-amapa-recebe-energia-para-votacao.shtml
+2020-11-16 20:23:18,470          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405256
+2020-11-16 20:23:18,470          root     INFO: Finished script
