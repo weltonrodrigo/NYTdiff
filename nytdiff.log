@@ -1,16 +1,26 @@
-2020-11-15 23:57:52,908          root     INFO: Starting script
-2020-11-15 23:57:53,761          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-15 23:57:54,435          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-15 23:57:55,114          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-15 23:57:55,248          root     INFO: Parsing R7 - Brasil
-2020-11-15 23:57:57,168          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/como-mesario-vi-brasileiro-mostrar-neste-domingo-responsabilidade-na-pandemia.shtml
-2020-11-15 23:57:57,456          root     INFO: Número recorde de candidatos a vereador, migração para partidos maiores e, pela primeira vez, mais negros do que brancos. Leia mais <del>(11/04/2020</del> <ins>(11/15/2020</ins> - <del>23h15)</del> <ins>18h53)</ins>
-2020-11-15 23:57:59,296          root     INFO: Media ready with ids: 1328125121593270274
-2020-11-15 23:57:59,297          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-15 23:57:59,297          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entenda-as-atribuicoes-dos-vereadores-e-o-que-pode-ser-cobrado-dos-eleitos-de-2020.shtml
-2020-11-15 23:57:59,304          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entenda-as-atribuicoes-dos-vereadores-e-o-que-pode-ser-cobrado-dos-eleitos-de-2020.shtml
-2020-11-15 23:57:59,500          root     INFO: Replying to: 1328125123308740610
-2020-11-15 23:57:59,748          root     INFO: Id to store: 1328125124114001920
-2020-11-15 23:58:02,908          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/saude-mobilidade-e-obra-antienchente-se-cruzam-em-teia-de-demandas-nas-32-subprefeituras-de-sp.shtml
-2020-11-15 23:58:02,911          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48521
-2020-11-15 23:58:02,912          root     INFO: Finished script
+2020-11-16 00:48:17,012          root     INFO: Starting script
+2020-11-16 00:48:18,049          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 00:48:18,922          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 00:48:19,763          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 00:48:19,969          root     INFO: Parsing R7 - Brasil
+2020-11-16 00:48:21,821          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/bolsonaristas-usam-falha-no-tse-para-espalhar-suspeitas-infundadas-contra-urna-eletronica-e-defender-voto-impresso.shtml
+2020-11-16 00:48:21,835          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/porto-alegre-tera-sebastiao-melo-e-manuela-davila-no-2o-turno-projeta-datafolha.shtml
+2020-11-16 00:48:21,847          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405263
+2020-11-16 00:48:21,859          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-governador-e-senador-vao-para-o-segundo-turno-em-goiania-projeta-datafolha.shtml
+2020-11-16 00:48:22,169          root     INFO: Rafael Greca é reeleito prefeito de <del>Curitiba, projeta Datafolha</del> <ins>Curitiba</ins>
+2020-11-16 00:48:23,954          root     INFO: Media ready with ids: 1328137807970308098
+2020-11-16 00:48:23,954          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 00:48:23,954          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rafael-greca-e-reeleito-prefeito-de-curitiba-projeta-datafolha.shtml
+2020-11-16 00:48:23,959          root     INFO: Replying to: 1328114611632082945
+2020-11-16 00:48:24,327          root     INFO: Id to store: 1328137810138853378
+2020-11-16 00:48:24,336          root     INFO: O prefeito Rafael Greca (DEM), 64, foi o escolhido pelos eleitores de Curitiba para governar a capital paranaense por mais quatro <del>anos, segundo projeção do Datafolha.</del> <ins>anos.</ins> Com <del>26,76%</del> <ins>95,33%</ins> das urnas apuradas, ele venceu o pleito ainda no primeiro turno, com <del>59,91%</del> <ins>59,76%</ins> dos votos válidos até as <del>18h35 .</del> <ins>21h43.</ins> Leia mais (11/15/2020 - 18h45)
+2020-11-16 00:48:29,264          root     INFO: Media ready with ids: 1328137830120427521
+2020-11-16 00:48:29,265          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 00:48:29,265          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rafael-greca-e-reeleito-prefeito-de-curitiba-projeta-datafolha.shtml
+2020-11-16 00:48:29,273          root     INFO: Replying to: 1328137810138853378
+2020-11-16 00:48:29,545          root     INFO: Id to store: 1328137831957585931
+2020-11-16 00:48:32,244          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/presidente-do-tse-barroso-diz-que-eleicao-de-2020-teve-menor-incidencia-de-fake-news.shtml
+2020-11-16 00:48:32,248          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/nas-redes-sociais-candidatos-de-sp-erram-sobre-saude-e-desemprego.shtml
+2020-11-16 00:48:32,253          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-concede-direito-de-resposta-a-vereador-fernando-holiday-apos-reportagem-da-folha.shtml
+2020-11-16 00:48:32,258          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/juiza-do-maranhao-derruba-censura-contra-a-folha-em-caso-envolvendo-candidato-em-sao-luis.shtml
+2020-11-16 00:48:32,259          root     INFO: Finished script
