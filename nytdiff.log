@@ -1,6 +1,14 @@
-2020-11-16 15:19:36,910          root     INFO: Starting script
-2020-11-16 15:19:37,698          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 15:19:38,355          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 15:19:39,001          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 15:19:39,161          root     INFO: Parsing R7 - Brasil
-2020-11-16 15:19:42,922          root     INFO: Finished script
+2020-11-16 15:29:08,771          root     INFO: Starting script
+2020-11-16 15:29:09,602          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 15:29:10,275          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 15:29:10,956          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 15:29:11,115          root     INFO: Parsing R7 - Brasil
+2020-11-16 15:29:13,101          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2020/11/serpro-entra-na-mira-de-hackers-e-eleva-alerta-sobre-dados-em-posse-do-governo.shtml
+2020-11-16 15:29:13,138          root     INFO: <del>Esquerda cresce, e candidata de Bolsonaro é eleita na</del> Câmara de <del>SP;</del> <ins>SP vê avanço da esquerda e eleição de aliada de Bolsonaro;</ins> confira a lista <del>dos</del> <ins>com os</ins> 55 <ins>nomes eleitos</ins>
+2020-11-16 15:29:14,903          root     INFO: Media ready with ids: 1328359481042984960
+2020-11-16 15:29:14,904          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 15:29:14,904          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/esquerda-cresce-e-candidata-de-bolsonaro-e-eleita-na-camara-de-sp-confira-a-lista-dos-55.shtml
+2020-11-16 15:29:14,909          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/esquerda-cresce-e-candidata-de-bolsonaro-e-eleita-na-camara-de-sp-confira-a-lista-dos-55.shtml
+2020-11-16 15:29:15,248          root     INFO: Replying to: 1328359483022712834
+2020-11-16 15:29:15,495          root     INFO: Id to store: 1328359483958042627
+2020-11-16 15:29:18,951          root     INFO: Finished script
