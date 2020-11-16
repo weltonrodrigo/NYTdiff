@@ -1,6 +1,13 @@
-2020-11-16 11:22:06,367          root     INFO: Starting script
-2020-11-16 11:22:07,322          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 11:22:07,977          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 11:22:08,629          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 11:22:08,845          root     INFO: Parsing R7 - Brasil
-2020-11-16 11:22:13,323          root     INFO: Finished script
+2020-11-16 11:27:16,942          root     INFO: Starting script
+2020-11-16 11:27:17,967          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 11:27:18,807          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 11:27:19,650          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 11:27:19,865          root     INFO: Parsing R7 - Brasil
+2020-11-16 11:27:21,631          root     INFO: Na eleição suplementar para o Senado em Mato Grosso, o atual senador interino Carlos Fávaro (PSD) venceu a disputa com 25,97% dos votos válidos. O senador permanecerá no cargo até 2026. <del>A votação ocorre no mesmo dia em que os eleitores escolhem prefeito e vereadores em suas cidades. Em Cuiabá, a disputa envolve o atual prefeito tornado réu, Emanuel Pinheiro (MDB).</del> Leia mais (11/16/2020 - 02h02)
+2020-11-16 11:27:23,513          root     INFO: Media ready with ids: 1328298615585075202
+2020-11-16 11:27:23,513          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 11:27:23,514          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-eleicao-extra-senador-interino-conquista-cadeira-para-o-senado-em-mt.shtml
+2020-11-16 11:27:23,519          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-eleicao-extra-senador-interino-conquista-cadeira-para-o-senado-em-mt.shtml
+2020-11-16 11:27:23,778          root     INFO: Replying to: 1328298617623425024
+2020-11-16 11:27:24,059          root     INFO: Id to store: 1328298618554552322
+2020-11-16 11:27:27,407          root     INFO: Finished script
