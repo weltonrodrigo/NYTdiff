@@ -1,13 +1,90 @@
-2020-11-16 01:57:50,941          root     INFO: Starting script
-2020-11-16 01:57:51,777          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 01:57:52,454          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 01:57:53,132          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 01:57:53,460          root     INFO: Parsing R7 - Brasil
-2020-11-16 01:57:55,525          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-disputa-reeleicao-com-vereador-no-segundo-turno-em-cuiaba.shtml
-2020-11-16 01:57:55,536          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-braide-enfrenta-duarte-junior-no-2o-turno-em-sao-luis.shtml
-2020-11-16 01:57:55,546          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405272
-2020-11-16 01:57:58,505          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/pressao-de-apoiadores-de-boulos-gera-mal-estar-no-pt.shtml
-2020-11-16 01:57:58,510          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/partidos-fortalecem-coronelismo-eleitoral-com-dinheiro-publico.shtml
-2020-11-16 01:57:58,513          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/metade-dos-candidatos-a-prefeito-de-capitais-prometem-reduzir-tarifa-de-transporte.shtml
-2020-11-16 01:57:58,517          root     INFO: Removed http://noticias.r7.com/brasil/fachin-e-barroso-acompanham-resultados-da-apuracao-em-telao-15112020
-2020-11-16 01:57:58,517          root     INFO: Finished script
+2020-11-16 02:20:20,632          root     INFO: Starting script
+2020-11-16 02:20:21,523          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 02:20:22,207          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 02:20:22,878          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 02:20:23,189          root     INFO: Parsing R7 - Brasil
+2020-11-16 02:20:23,485          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2020/11/o-deficit-habitacional-e-a-exclusao-social.shtml
+2020-11-16 02:20:23,496          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2020/11/prevendo-o-futuro-da-internet.shtml
+2020-11-16 02:20:23,504          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/o-novo-e-o-velho.shtml
+2020-11-16 02:20:23,514          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/11/brasileiros-estao-com-dificuldade-de-passar-24-horas-sem-um-problema.shtml
+2020-11-16 02:20:23,521          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/desigual-na-raiz.shtml
+2020-11-16 02:20:23,529          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/11/sem-ocidente-china-fecha-o-maior-acordo-de-livre-comercio-do-mundo.shtml
+2020-11-16 02:20:23,543          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/para-mudar-o-paradigma-na-saude-publica.shtml
+2020-11-16 02:20:23,553          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/auxilio-emergencial-e-o-estado-providencia.shtml
+2020-11-16 02:20:23,561          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/11/o-leviata-domado-e-a-rainha-vermelha.shtml
+2020-11-16 02:20:23,569          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2020/11/a-um-voto-de-mudar-a-educacao.shtml
+2020-11-16 02:20:23,577          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2020/11/trump-e-pos-moderno-enquanto-biden-e-o-verdadeiro-conservador.shtml
+2020-11-16 02:20:23,584          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2020/11/o-ipca-nao-mede-a-minha-inflacao.shtml
+2020-11-16 02:20:24,857          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/11/o-leviata-domado-e-a-rainha-vermelha.shtml
+2020-11-16 02:20:24,866          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-pessoa-tera-segundo-turno-entre-cicero-lucena-e-nilvan-ferreira.shtml
+2020-11-16 02:20:24,874          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-rio-branco-prefeita-vai-enfrentar-ex-prefeito-de-cidade-vizinha-no-segundo-turno.shtml
+2020-11-16 02:20:24,881          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-pazolini-e-joao-coser-vao-para-o-segundo-turno-em-vitoria.shtml
+2020-11-16 02:20:25,150          root     INFO: Ex-governador e senador vão para o segundo turno em <del>Goiânia, projeta Datafolha</del> <ins>Goiânia</ins>
+2020-11-16 02:20:26,982          root     INFO: Media ready with ids: 1328160972977090560
+2020-11-16 02:20:26,982          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 02:20:26,982          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-governador-e-senador-vao-para-o-segundo-turno-em-goiania-projeta-datafolha.shtml
+2020-11-16 02:20:26,989          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-governador-e-senador-vao-para-o-segundo-turno-em-goiania-projeta-datafolha.shtml
+2020-11-16 02:20:27,169          root     INFO: Replying to: 1328160974830964737
+2020-11-16 02:20:27,401          root     INFO: Id to store: 1328160975615352832
+2020-11-16 02:20:27,406          root     INFO: A disputa para a prefeitura de Goiânia vai ser decidida no segundo turno entre o ex-governador Maguito Vilela (MDB), 71, e o senador Vanderlan Cardoso (PSD), <del>59, projeta o Datafolha.</del> <ins>59.</ins> Leia mais (11/15/2020 - 21h00)
+2020-11-16 02:20:29,121          root     INFO: Media ready with ids: 1328160982141702146
+2020-11-16 02:20:29,122          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 02:20:29,122          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-governador-e-senador-vao-para-o-segundo-turno-em-goiania-projeta-datafolha.shtml
+2020-11-16 02:20:29,130          root     INFO: Replying to: 1328160975615352832
+2020-11-16 02:20:29,342          root     INFO: Id to store: 1328160983714582528
+2020-11-16 02:20:29,406          root     INFO: Prefeito Álvaro Dias é reeleito em primeiro turno em <del>Natal, projeta Datafolha</del> <ins>Natal</ins>
+2020-11-16 02:20:31,060          root     INFO: Media ready with ids: 1328160990555492352
+2020-11-16 02:20:31,060          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 02:20:31,061          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-alvaro-dias-e-reeleito-em-primeiro-turno-em-natal-projeta-datafolha.shtml
+2020-11-16 02:20:31,067          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-alvaro-dias-e-reeleito-em-primeiro-turno-em-natal-projeta-datafolha.shtml
+2020-11-16 02:20:31,281          root     INFO: Replying to: 1328160991947886593
+2020-11-16 02:20:31,529          root     INFO: Id to store: 1328160992858083328
+2020-11-16 02:20:31,534          root     INFO: Em Natal, as urnas confirmaram o favoritismo do atual prefeito Álvaro Dias (PSDB), como apontavam as pesquisas <del>recentes, segundo projeção do Datafolha.</del> <ins>recentes.</ins> Leia mais (11/15/2020 - 20h41)
+2020-11-16 02:20:33,303          root     INFO: Media ready with ids: 1328160999644549120
+2020-11-16 02:20:33,304          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 02:20:33,304          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-alvaro-dias-e-reeleito-em-primeiro-turno-em-natal-projeta-datafolha.shtml
+2020-11-16 02:20:33,310          root     INFO: Replying to: 1328160992858083328
+2020-11-16 02:20:33,558          root     INFO: Id to store: 1328161001393582083
+2020-11-16 02:20:33,601          root     INFO: Sarto e Capitão Wagner disputam 2º turno em <del>Fortaleza, projeta Datafolha</del> <ins>Fortaleza</ins>
+2020-11-16 02:20:35,299          root     INFO: Media ready with ids: 1328161008020566017
+2020-11-16 02:20:35,300          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 02:20:35,300          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sarto-e-capitao-wagner-disputam-2o-turno-em-fortaleza-projeta-datafolha.shtml
+2020-11-16 02:20:35,305          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sarto-e-capitao-wagner-disputam-2o-turno-em-fortaleza-projeta-datafolha.shtml
+2020-11-16 02:20:35,501          root     INFO: Replying to: 1328161009752793088
+2020-11-16 02:20:35,736          root     INFO: Id to store: 1328161010553909250
+2020-11-16 02:20:35,743          root     INFO: A capital do Ceará terá um segundo turno da eleição para a prefeitura entre o deputado estadual José Sarto (PDT), 61, e o deputado federal Capitão Wagner (Pros), <del>41, segundo projeção do Datafolha.</del> <ins>41.</ins> Leia mais (11/15/2020 - 20h14)
+2020-11-16 02:20:37,506          root     INFO: Media ready with ids: 1328161017315069952
+2020-11-16 02:20:37,507          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 02:20:37,507          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sarto-e-capitao-wagner-disputam-2o-turno-em-fortaleza-projeta-datafolha.shtml
+2020-11-16 02:20:37,512          root     INFO: Replying to: 1328161010553909250
+2020-11-16 02:20:37,720          root     INFO: Id to store: 1328161018875351041
+2020-11-16 02:20:37,805          root     INFO: Teresina terá segundo turno com Dr. Pessoa e <del>Montezuma, projeta Datafolha</del> <ins>Montezuma</ins>
+2020-11-16 02:20:39,440          root     INFO: Media ready with ids: 1328161025699483648
+2020-11-16 02:20:39,440          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 02:20:39,440          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-tera-segundo-turno-com-dr-pessoa-e-montezuma-projeta-datafolha.shtml
+2020-11-16 02:20:39,445          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-tera-segundo-turno-com-dr-pessoa-e-montezuma-projeta-datafolha.shtml
+2020-11-16 02:20:39,640          root     INFO: Replying to: 1328161027138187271
+2020-11-16 02:20:39,845          root     INFO: Id to store: 1328161027809226752
+2020-11-16 02:20:39,850          root     INFO: Teresina terá disputa de segundo turno com o deputado estadual Dr. Pessoa (MDB) e Kleber Montezuma (PSDB), ex-secretário na atual administração <del>municipal, segundo projeção do Datafolha.</del> <ins>municipal.</ins> Leia mais (11/15/2020 - 19h42)
+2020-11-16 02:20:41,546          root     INFO: Media ready with ids: 1328161034360803334
+2020-11-16 02:20:41,546          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 02:20:41,547          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-tera-segundo-turno-com-dr-pessoa-e-montezuma-projeta-datafolha.shtml
+2020-11-16 02:20:41,552          root     INFO: Replying to: 1328161027809226752
+2020-11-16 02:20:41,758          root     INFO: Id to store: 1328161035824599042
+2020-11-16 02:20:44,331          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/ajuda-para-que.shtml
+2020-11-16 02:20:44,334          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/bolsonaro-um-dia-de-furias-e-de-crimes-contra-o-pais.shtml
+2020-11-16 02:20:44,336          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2020/11/nossa-covardia-esta-fora-de-contexto.shtml
+2020-11-16 02:20:44,339          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2020/11/o-mundo-que-espere-por-bolsonaro.shtml
+2020-11-16 02:20:44,341          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/11/relevancia-de-bolsonaro-nao-ter-felicitado-biden-e-igual-a-da-cloroquina-para-a-cura-da-covid-19.shtml
+2020-11-16 02:20:44,352          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2020/11/entendo-ambicao-de-ceni-e-outros-tecnicos-mas-eles-deveriam-terminar-seus-trabalhos.shtml
+2020-11-16 02:20:44,354          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/tristeza-e-indignacao.shtml
+2020-11-16 02:20:44,357          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/as-vesperas-da-eleicao-do-rio-martha-defende-voto-util-e-crivella-dobra-aposta-em-bolsonaro.shtml
+2020-11-16 02:20:44,359          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/11/qual-e-a-melhor-cota.shtml
+2020-11-16 02:20:44,362          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2020/11/o-mundo-enlouquecedor-dos-olhares-que-nao-se-cruzam.shtml
+2020-11-16 02:20:44,364          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/eleitor-brasileiro-tem-preferencia-por-candidaturas-femininas-e-apoio-de-lider-comunitario-diz-pesquisa.shtml
+2020-11-16 02:20:44,366          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2020/11/como-saber-se-assinatura-de-carro-vale-a-pena.shtml
+2020-11-16 02:20:44,369          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/negro-vota-em-negro.shtml
+2020-11-16 02:20:44,371          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/cresce-ameaca-de-milicias-e-faccoes-sobre-processo-eleitoral-de-rio-e-sao-paulo.shtml
+2020-11-16 02:20:44,374          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/herdeiros-politicos-de-arraes-ex-ministro-de-temer-e-delegada-bolsonarista-acirram-disputa-no-recife.shtml
+2020-11-16 02:20:44,376          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2020/11/por-que-ha-tantos-pobres-desempregados-e-losers-que-votam-em-trump.shtml
+2020-11-16 02:20:44,377          root     INFO: Finished script
