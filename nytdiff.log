@@ -1,6 +1,19 @@
-2020-11-16 11:46:42,401          root     INFO: Starting script
-2020-11-16 11:46:43,211          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 11:46:43,876          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 11:46:44,545          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 11:46:44,706          root     INFO: Parsing R7 - Brasil
-2020-11-16 11:46:48,751          root     INFO: Finished script
+2020-11-16 11:57:43,236          root     INFO: Starting script
+2020-11-16 11:57:44,077          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 11:57:44,755          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 11:57:45,436          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 11:57:45,593          root     INFO: Parsing R7 - Brasil
+2020-11-16 11:57:47,775          root     INFO: Investigação aponta operação coordenada em ataque <del>a</del> <ins>ao</ins> TSE e postagens alegando fraude
+2020-11-16 11:57:49,542          root     INFO: Media ready with ids: 1328306274723827713
+2020-11-16 11:57:49,542          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 11:57:49,542          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/investigacao-aponta-operacao-coordenada-em-ataque-a-tse-e-postagens-alegando-fraude.shtml
+2020-11-16 11:57:49,551          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/investigacao-aponta-operacao-coordenada-em-ataque-a-tse-e-postagens-alegando-fraude.shtml
+2020-11-16 11:57:49,750          root     INFO: Replying to: 1328306276342919169
+2020-11-16 11:57:49,971          root     INFO: Id to store: 1328306277022371841
+2020-11-16 11:57:49,975          root     INFO: Investigação da SaferNet, que trabalha em parceria com o Ministério Público Federal no monitoramento de fraudes eleitorais cometidas pela internet, aponta que ataques hacker sofridos <del>pela</del> <ins>pelo</ins> TSE neste domingo (15) foram uma "operação coordenada" para "desacreditar a Justiça Eleitoral". <del>O Tribunal foi alvo de negação de serviço (DDoS) contra os seus servidores e o vazamento de dados de funcionários.</del> Leia mais (11/16/2020 - 00h24)
+2020-11-16 11:57:51,909          root     INFO: Media ready with ids: 1328306284467277824
+2020-11-16 11:57:51,910          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 11:57:51,910          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/investigacao-aponta-operacao-coordenada-em-ataque-a-tse-e-postagens-alegando-fraude.shtml
+2020-11-16 11:57:51,916          root     INFO: Replying to: 1328306277022371841
+2020-11-16 11:57:52,129          root     INFO: Id to store: 1328306286094639105
+2020-11-16 11:57:54,969          root     INFO: Finished script
