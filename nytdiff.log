@@ -1,6 +1,13 @@
-2020-11-16 14:27:29,131          root     INFO: Starting script
-2020-11-16 14:27:30,031          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 14:27:30,700          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 14:27:31,370          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 14:27:31,557          root     INFO: Parsing R7 - Brasil
-2020-11-16 14:27:36,404          root     INFO: Finished script
+2020-11-16 14:47:01,985          root     INFO: Starting script
+2020-11-16 14:47:02,894          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 14:47:03,563          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 14:47:04,232          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 14:47:04,394          root     INFO: Parsing R7 - Brasil
+2020-11-16 14:47:06,381          root     INFO: No dia seguinte às eleições municipais, o presidente Jair Bolsonaro (sem partido) voltou a questionar o sistema eleitoral do país e levantou <del>questionamentos</del> <ins>dúvidas</ins> sobre o resultado das urnas. Leia mais (11/16/2020 - 10h42)
+2020-11-16 14:47:08,311          root     INFO: Media ready with ids: 1328348883332771843
+2020-11-16 14:47:08,311          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 14:47:08,311          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sem-provas-e-com-atraso-do-tse-bolsonaro-levanta-duvidas-sobre-apuracao-das-eleicoes.shtml
+2020-11-16 14:47:08,318          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sem-provas-e-com-atraso-do-tse-bolsonaro-levanta-duvidas-sobre-apuracao-das-eleicoes.shtml
+2020-11-16 14:47:08,514          root     INFO: Replying to: 1328348885253812224
+2020-11-16 14:47:08,749          root     INFO: Id to store: 1328348886042337281
+2020-11-16 14:47:12,171          root     INFO: Finished script
