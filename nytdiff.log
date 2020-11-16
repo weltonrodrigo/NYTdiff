@@ -1,45 +1,13 @@
-2020-11-16 01:46:57,101          root     INFO: Starting script
-2020-11-16 01:46:57,983          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 01:46:58,644          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 01:46:59,305          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 01:46:59,552          root     INFO: Parsing R7 - Brasil
-2020-11-16 01:47:01,337          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/marqueteiro-de-russomanno-diz-que-candidato-afundou-por-ser-leal-a-bolsonaro.shtml
-2020-11-16 01:47:01,348          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marquinhos-trad-e-reeleito-prefeito-de-campo-grande.shtml
-2020-11-16 01:47:01,357          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edvaldo-e-delegada-danielle-fazem-segundo-turno-em-aracaju.shtml
-2020-11-16 01:47:01,600          root     INFO: Kalil confirma favoritismo e é reeleito em Belo <del>Horizonte, projeta Datafolha</del> <ins>Horizonte</ins>
-2020-11-16 01:47:03,279          root     INFO: Media ready with ids: 1328152569273790466
-2020-11-16 01:47:03,279          root     INFO: Text to tweet: Modificação do Título
-2020-11-16 01:47:03,279          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/kalil-confirma-favoritismo-e-e-reeleito-em-belo-horizonte-projeta-datafolha.shtml
-2020-11-16 01:47:03,285          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/kalil-confirma-favoritismo-e-e-reeleito-em-belo-horizonte-projeta-datafolha.shtml
-2020-11-16 01:47:03,485          root     INFO: Replying to: 1328152570783821825
-2020-11-16 01:47:03,697          root     INFO: Id to store: 1328152571429740547
-2020-11-16 01:47:03,701          root     INFO: Como nas pesquisas que apontavam vantagem com folga sobre os adversários, Alexandre Kalil (PSD) confirmou o favoritismo nas urnas e foi reeleito prefeito da capital de Minas <del>Gerais, projeta o Datafolha.</del> <ins>Gerais.</ins> Leia mais (11/15/2020 - 20h30)
-2020-11-16 01:47:05,408          root     INFO: Media ready with ids: 1328152577846996993
-2020-11-16 01:47:05,409          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 01:47:05,409          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/kalil-confirma-favoritismo-e-e-reeleito-em-belo-horizonte-projeta-datafolha.shtml
-2020-11-16 01:47:05,414          root     INFO: Replying to: 1328152571429740547
-2020-11-16 01:47:05,648          root     INFO: Id to store: 1328152579612831744
-2020-11-16 01:47:05,698          root     INFO: Em Manaus, Amazonino Mendes e David Almeida vão ao segundo <del>turno, projeta Datafolha</del> <ins>turno</ins>
-2020-11-16 01:47:07,330          root     INFO: Media ready with ids: 1328152586206273536
-2020-11-16 01:47:07,331          root     INFO: Text to tweet: Modificação do Título
-2020-11-16 01:47:07,331          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-manaus-amazonino-mendes-e-david-almeida-vao-ao-segundo-turno-projeta-datafolha.shtml
-2020-11-16 01:47:07,336          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-manaus-amazonino-mendes-e-david-almeida-vao-ao-segundo-turno-projeta-datafolha.shtml
-2020-11-16 01:47:07,493          root     INFO: Replying to: 1328152587565223938
-2020-11-16 01:47:07,750          root     INFO: Id to store: 1328152588353671170
-2020-11-16 01:47:07,757          root     INFO: O ex-governador e ex-prefeito de Manaus Amazonino Mendes, 80 (Podemos), vai disputar o segundo turno das eleições na capital do Amazonas com o também ex-governador David Almeida, 51 <del>(Avante), aponta projeção do Datafolha.</del> <ins>(Avante).</ins> Leia mais (11/15/2020 - 20h12)
-2020-11-16 01:47:09,502          root     INFO: Media ready with ids: 1328152595081416705
-2020-11-16 01:47:09,503          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 01:47:09,503          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-manaus-amazonino-mendes-e-david-almeida-vao-ao-segundo-turno-projeta-datafolha.shtml
-2020-11-16 01:47:09,509          root     INFO: Replying to: 1328152588353671170
-2020-11-16 01:47:09,756          root     INFO: Id to store: 1328152596809396224
-2020-11-16 01:47:09,788          root     INFO: O primeiro turno das eleições municipais de 2020 foi marcado por problemas registrados na ferramenta do TSE (Tribunal Superior Eleitoral) lançada com o objetivo de facilitar a vida do <del>eleitor e</del> <ins>eleitor,</ins> lentidão da divulgação da apuração dos <del>resultados.</del> <ins>resultados e tentativas de ataques hackers a servidores da corte.</ins> Leia mais (11/15/2020 - 20h11)
-2020-11-16 01:47:11,502          root     INFO: Media ready with ids: 1328152603637784578
-2020-11-16 01:47:11,502          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 01:47:11,503          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-enfrenta-lentidao-em-apuracao-e-problemas-na-emissao-do-e-titulo.shtml
-2020-11-16 01:47:11,511          root     INFO: Replying to: 1328142550058799104
-2020-11-16 01:47:11,748          root     INFO: Id to store: 1328152605177094145
-2020-11-16 01:47:14,052          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-e-barroso-acompanham-resultados-da-apuracao-em-telao-15112020
-2020-11-16 01:47:14,323          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/candidata-a-vice-em-cariacica-es-e-vitima-de-ofensa-racial-em-comicio.shtml
-2020-11-16 01:47:14,326          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/desidratada-apos-desistencias-bancada-evangelica-popular-ainda-tenta-emplacar-candidaturas.shtml
-2020-11-16 01:47:14,330          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/campanha-de-covas-ainda-nao-descarta-um-segundo-turno-com-russomanno.shtml
-2020-11-16 01:47:14,331          root     INFO: Finished script
+2020-11-16 01:57:50,941          root     INFO: Starting script
+2020-11-16 01:57:51,777          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 01:57:52,454          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 01:57:53,132          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 01:57:53,460          root     INFO: Parsing R7 - Brasil
+2020-11-16 01:57:55,525          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-disputa-reeleicao-com-vereador-no-segundo-turno-em-cuiaba.shtml
+2020-11-16 01:57:55,536          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-braide-enfrenta-duarte-junior-no-2o-turno-em-sao-luis.shtml
+2020-11-16 01:57:55,546          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405272
+2020-11-16 01:57:58,505          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/pressao-de-apoiadores-de-boulos-gera-mal-estar-no-pt.shtml
+2020-11-16 01:57:58,510          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/partidos-fortalecem-coronelismo-eleitoral-com-dinheiro-publico.shtml
+2020-11-16 01:57:58,513          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/metade-dos-candidatos-a-prefeito-de-capitais-prometem-reduzir-tarifa-de-transporte.shtml
+2020-11-16 01:57:58,517          root     INFO: Removed http://noticias.r7.com/brasil/fachin-e-barroso-acompanham-resultados-da-apuracao-em-telao-15112020
+2020-11-16 01:57:58,517          root     INFO: Finished script
