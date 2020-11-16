@@ -1,50 +1,64 @@
-2020-11-16 02:26:56,000          root     INFO: Starting script
-2020-11-16 02:26:56,825          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 02:26:57,496          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 02:26:58,162          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 02:26:58,451          root     INFO: Parsing R7 - Brasil
-2020-11-16 02:27:00,088          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2020/11/sao-paulo-deixou-bolsonaro-sem-teto.shtml
-2020-11-16 02:27:00,113          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-porto-velho-prefeito-hildon-chaves-enfrentara-vereadora-no-segundo-turno.shtml
-2020-11-16 02:27:00,208          root     INFO: Twitter rotula post de <ins>bolsonaristas e de</ins> Joice Hasselmann como <del>contestável</del> <ins>contestáveis</ins>
-2020-11-16 02:27:01,893          root     INFO: Media ready with ids: 1328162629714632706
-2020-11-16 02:27:01,893          root     INFO: Text to tweet: Modificação do Título
-2020-11-16 02:27:01,893          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405272
-2020-11-16 02:27:01,900          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405272
-2020-11-16 02:27:02,078          root     INFO: Replying to: 1328162631165865985
-2020-11-16 02:27:02,297          root     INFO: Id to store: 1328162631874719751
-2020-11-16 02:27:02,353          root     INFO: O atual prefeito de Aracaju, Edvaldo Nogueira (PDT), e a Delegada Danielle (Cidadania) disputarão o segundo turno das eleições da prefeitura da capital sergipana. <del>Às 22h20h, com 99%</del> <ins>Com 100%</ins> das urnas apuradas, Edvaldo <del>tem 45,5%</del> <ins>teve 45,6%</ins> dos votos válidos. Sua adversária <del>contabiliza</del> <ins>contabilizou</ins> 21,3%. O terceiro colocado <del>é</del> <ins>foi</ins> Rodrigo Valadares (PTB), com 10,9%. Nascido em Pão de Açúcar, em Alagoas, Edvaldo Nogueira, 59, é médico e já esteve na prefeitura antes, como vice-prefeito do petista Marcelo Deda, morto em 2013. Em 2006, assumiu o cargo quando Deda se afastou para concorrer ao governo do Sergipe. Leia mais (11/15/2020 - 22h30)
-2020-11-16 02:27:04,274          root     INFO: Media ready with ids: 1328162639097245697
-2020-11-16 02:27:04,275          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 02:27:04,275          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edvaldo-e-delegada-danielle-fazem-segundo-turno-em-aracaju.shtml
-2020-11-16 02:27:04,280          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edvaldo-e-delegada-danielle-fazem-segundo-turno-em-aracaju.shtml
-2020-11-16 02:27:04,447          root     INFO: Replying to: 1328162641127370752
-2020-11-16 02:27:04,687          root     INFO: Id to store: 1328162641920004096
-2020-11-16 02:27:04,775          root     INFO: <del>Marília Arraes e</del> João Campos <ins>e Marília Arraes</ins> fazem 2º turno entre família no <del>Recife, projeta Datafolha</del> <ins>Recife</ins>
-2020-11-16 02:27:06,500          root     INFO: Media ready with ids: 1328162648832290818
-2020-11-16 02:27:06,501          root     INFO: Text to tweet: Modificação do Título
-2020-11-16 02:27:06,501          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marilia-arraes-e-joao-campos-fazem-2o-turno-entre-familia-no-recife-projeta-datafolha.shtml
-2020-11-16 02:27:06,508          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marilia-arraes-e-joao-campos-fazem-2o-turno-entre-familia-no-recife-projeta-datafolha.shtml
-2020-11-16 02:27:06,699          root     INFO: Replying to: 1328162650581323786
-2020-11-16 02:27:06,921          root     INFO: Id to store: 1328162651269181442
-2020-11-16 02:27:06,926          root     INFO: Os deputados federais João Campos (PSB) e Marília Arraes (PT), respectivamente bisneto e neta do ex-governador de Pernambuco Miguel Arraes (1916-2005), vão disputar o segundo turno no Recife, projeta o Datafolha. <del>Às 22h, com 36,5%</del> <ins>Com 100%</ins> das urnas apuradas, <del>Marília tem 28,6% dos votos válidos.</del> Campos, que é filho do ex-governador Eduardo Campos (1965-2014), <del>tem 28,1%</del> <ins>registrou 29,17%</ins> dos <del>votos.</del> <ins>votos, enquanto Marília teve 27,95%.</ins> Leia mais (11/15/2020 - 22h11)
-2020-11-16 02:27:08,741          root     INFO: Media ready with ids: 1328162658198167555
-2020-11-16 02:27:08,742          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 02:27:08,742          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marilia-arraes-e-joao-campos-fazem-2o-turno-entre-familia-no-recife-projeta-datafolha.shtml
-2020-11-16 02:27:08,747          root     INFO: Replying to: 1328162651269181442
-2020-11-16 02:27:08,983          root     INFO: Id to store: 1328162659926241280
-2020-11-16 02:27:09,220          root     INFO: Paes e Crivella disputam 2º turno <del>no Rio, projeta Datafolha</del> <ins>após serem alvos de operação às vésperas da campanha</ins>
-2020-11-16 02:27:10,899          root     INFO: Media ready with ids: 1328162667492675591
-2020-11-16 02:27:10,899          root     INFO: Text to tweet: Modificação do Título
-2020-11-16 02:27:10,899          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/paes-e-crivella-disputam-2o-turno-projeta-datafolha.shtml
-2020-11-16 02:27:10,905          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/paes-e-crivella-disputam-2o-turno-projeta-datafolha.shtml
-2020-11-16 02:27:11,061          root     INFO: Replying to: 1328162668885241856
-2020-11-16 02:27:11,268          root     INFO: Id to store: 1328162669560532992
-2020-11-16 02:27:11,272          root     INFO: O ex-prefeito Eduardo Paes (DEM) vai enfrentar seu sucessor no cargo, Marcelo Crivella (Republicanos), no segundo turno da eleição para a capital do Rio de <del>Janeiro, segundo projeção do Datafolha.</del> <ins>Janeiro.</ins> Leia mais (11/15/2020 - 19h50)
-2020-11-16 02:27:13,068          root     INFO: Media ready with ids: 1328162676275638272
-2020-11-16 02:27:13,069          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 02:27:13,069          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/paes-e-crivella-disputam-2o-turno-projeta-datafolha.shtml
-2020-11-16 02:27:13,074          root     INFO: Replying to: 1328162669560532992
-2020-11-16 02:27:13,290          root     INFO: Id to store: 1328162678003601410
-2020-11-16 02:27:15,715          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405190
-2020-11-16 02:27:15,719          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tv-folha-faz-programacao-especial-sobre-eleicao-municipal-neste-domingo.shtml
-2020-11-16 02:27:15,720          root     INFO: Finished script
+2020-11-16 02:47:02,128          root     INFO: Starting script
+2020-11-16 02:47:03,285          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 02:47:03,939          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 02:47:04,597          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 02:47:04,828          root     INFO: Parsing R7 - Brasil
+2020-11-16 02:47:05,129          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/11/que-pesadelo.shtml
+2020-11-16 02:47:05,140          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/11/a-politica-da-bocalidade.shtml
+2020-11-16 02:47:06,587          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/justificativas-dos-eleitores-nao-podem-ser-transformadas-em-votos-validos-como-sugere-tuite.shtml
+2020-11-16 02:47:06,596          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-rebate-covas-e-diz-que-disputa-no-2o-turno-sera-da-mesmice-contra-a-esperanca.shtml
+2020-11-16 02:47:06,607          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405274
+2020-11-16 02:47:06,615          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vice-prefeito-e-deputado-federal-vao-ao-segundo-turno-em-boa-vista.shtml
+2020-11-16 02:47:06,622          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/11/a-politica-da-bocalidade.shtml
+2020-11-16 02:47:06,882          root     INFO: <del>Marília Arraes e</del> João Campos <ins>e Marília Arraes</ins> fazem 2º turno entre família no <del>Recife, projeta Datafolha</del> <ins>Recife</ins>
+2020-11-16 02:47:08,656          root     INFO: Media ready with ids: 1328167690889031681
+2020-11-16 02:47:08,657          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 02:47:08,657          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marilia-arraes-e-joao-campos-fazem-2o-turno-entre-familia-no-recife-projeta-datafolha.shtml
+2020-11-16 02:47:08,662          root     INFO: Replying to: 1328162659926241280
+2020-11-16 02:47:08,871          root     INFO: Id to store: 1328167692679962624
+2020-11-16 02:47:08,878          root     INFO: Os deputados federais João Campos (PSB) e Marília Arraes (PT), respectivamente bisneto e neta do ex-governador de Pernambuco Miguel Arraes (1916-2005), vão disputar o segundo turno no <del>Recife, projeta o Datafolha. Às 22h, com 36,5%</del> <ins>Recife. Com 100%</ins> das urnas apuradas, <del>Marília tem 28,6% dos votos válidos.</del> Campos, que é filho do ex-governador Eduardo Campos (1965-2014), <del>tem 28,1%</del> <ins>registrou 29,17%</ins> dos <del>votos.</del> <ins>votos, enquanto Marília teve 27,95%.</ins> Leia mais (11/15/2020 - 22h11)
+2020-11-16 02:47:10,753          root     INFO: Media ready with ids: 1328167699617345537
+2020-11-16 02:47:10,754          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 02:47:10,754          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marilia-arraes-e-joao-campos-fazem-2o-turno-entre-familia-no-recife-projeta-datafolha.shtml
+2020-11-16 02:47:10,760          root     INFO: Replying to: 1328167692679962624
+2020-11-16 02:47:10,971          root     INFO: Id to store: 1328167701475450885
+2020-11-16 02:47:11,063          root     INFO: Porto Alegre terá Sebastião Melo e Manuela D'Ávila no 2º <del>turno, projeta Datafolha</del> <ins>turno</ins>
+2020-11-16 02:47:12,711          root     INFO: Media ready with ids: 1328167708379197443
+2020-11-16 02:47:12,711          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 02:47:12,711          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/porto-alegre-tera-sebastiao-melo-e-manuela-davila-no-2o-turno-projeta-datafolha.shtml
+2020-11-16 02:47:12,717          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/porto-alegre-tera-sebastiao-melo-e-manuela-davila-no-2o-turno-projeta-datafolha.shtml
+2020-11-16 02:47:12,918          root     INFO: Replying to: 1328167709775945733
+2020-11-16 02:47:13,135          root     INFO: Id to store: 1328167710526738435
+2020-11-16 02:47:13,140          root     INFO: A eleição da capital gaúcha será decidida no segundo turno. A candidata Manuela D?Ávila (PCdoB) e o ex-vice-prefeito Sebastião Melo (MDB) disputarão os votos dos eleitores <del>porto-alegrenses, segundo projeção do Datafolha.</del> <ins>porto-alegrenses.</ins> Leia mais (11/15/2020 - 21h32)
+2020-11-16 02:47:14,857          root     INFO: Media ready with ids: 1328167717128564736
+2020-11-16 02:47:14,857          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 02:47:14,858          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/porto-alegre-tera-sebastiao-melo-e-manuela-davila-no-2o-turno-projeta-datafolha.shtml
+2020-11-16 02:47:14,864          root     INFO: Replying to: 1328167710526738435
+2020-11-16 02:47:15,078          root     INFO: Id to store: 1328167718684680193
+2020-11-16 02:47:15,250          root     INFO: A fonoaudióloga e atual prefeita Cinthia Ribeiro, 43, (PSDB) foi reeleita para comandar a capital do Tocantins. <ins>Ela obteve 36,24%, de acordo com o TSE (Tribunal Superior Eleitoral).</ins> Leia mais (11/15/2020 - 19h50)
+2020-11-16 02:47:16,994          root     INFO: Media ready with ids: 1328167726100197377
+2020-11-16 02:47:16,994          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 02:47:16,995          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/fonoaudiologa-cinthia-ribeiro-psdb-e-reeleita-prefeita-em-palmas.shtml
+2020-11-16 02:47:17,000          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/fonoaudiologa-cinthia-ribeiro-psdb-e-reeleita-prefeita-em-palmas.shtml
+2020-11-16 02:47:17,168          root     INFO: Replying to: 1328167727656296450
+2020-11-16 02:47:17,399          root     INFO: Id to store: 1328167728436424705
+2020-11-16 02:47:17,578          root     INFO: Rafael Greca é reeleito prefeito de <del>Curitiba, projeta Datafolha</del> <ins>Curitiba</ins>
+2020-11-16 02:47:19,220          root     INFO: Media ready with ids: 1328167735621193728
+2020-11-16 02:47:19,220          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 02:47:19,220          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rafael-greca-e-reeleito-prefeito-de-curitiba-projeta-datafolha.shtml
+2020-11-16 02:47:19,227          root     INFO: Replying to: 1328137831957585931
+2020-11-16 02:47:19,441          root     INFO: Id to store: 1328167737005371398
+2020-11-16 02:47:19,446          root     INFO: O prefeito Rafael Greca (DEM), 64, foi o escolhido pelos eleitores de Curitiba para governar a capital paranaense por mais quatro <del>anos, segundo projeção do Datafolha. Com 26,76% das urnas apuradas, ele</del> <ins>anos. Ele</ins> venceu o pleito ainda no primeiro turno, com <del>59,91%</del> <ins>59,74%</ins> dos votos <del>válidos até as 18h35 .</del> <ins>válidos.</ins> Leia mais (11/15/2020 - 18h45)
+2020-11-16 02:47:21,170          root     INFO: Media ready with ids: 1328167743624011777
+2020-11-16 02:47:21,170          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 02:47:21,170          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rafael-greca-e-reeleito-prefeito-de-curitiba-projeta-datafolha.shtml
+2020-11-16 02:47:21,175          root     INFO: Replying to: 1328167737005371398
+2020-11-16 02:47:21,413          root     INFO: Id to store: 1328167745268178944
+2020-11-16 02:47:23,763          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/11/safra-recorde-de-graos-mas-com-precos-bem-aquecidos.shtml
+2020-11-16 02:47:23,765          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/retorno-dos-onibus-e-de-graca-acirra-vespera-de-eleicao-em-jaboticabal.shtml
+2020-11-16 02:47:23,768          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2020/11/democracia-em-tempo-de-divisao.shtml
+2020-11-16 02:47:23,770          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405191
+2020-11-16 02:47:23,772          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/denunciado-flavio-submerge-na-campanha-e-eduardo-pede-voto-em-nome-dos-bolsonaros.shtml
+2020-11-16 02:47:23,775          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48528
+2020-11-16 02:47:23,777          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatos-experientes-e-de-centro-devem-prevalecer-nas-capitais-conheca-os-cenarios.shtml
+2020-11-16 02:47:23,778          root     INFO: Finished script
