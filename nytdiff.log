@@ -1,29 +1,31 @@
-2020-11-16 01:07:07,922          root     INFO: Starting script
-2020-11-16 01:07:08,717          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 01:07:09,363          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 01:07:10,011          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 01:07:10,369          root     INFO: Parsing R7 - Brasil
-2020-11-16 01:07:11,975          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405267
-2020-11-16 01:07:11,985          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405266
-2020-11-16 01:07:12,146          root     INFO: O primeiro turno das eleições municipais de 2020 foi marcado por problemas registrados na ferramenta do TSE (Tribunal Superior Eleitoral) lançada com o objetivo de facilitar a vida do <del>eleitor e</del> <ins>eleitor,</ins> lentidão da divulgação da apuração dos <del>resultados.</del> <ins>resultados e ataques hackers a servidores da corte.</ins> Leia mais (11/15/2020 - 20h11)
-2020-11-16 01:07:13,997          root     INFO: Media ready with ids: 1328142547726774273
-2020-11-16 01:07:13,998          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 01:07:13,998          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-enfrenta-lentidao-em-apuracao-e-problemas-na-emissao-do-e-titulo.shtml
-2020-11-16 01:07:14,005          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-enfrenta-lentidao-em-apuracao-e-problemas-na-emissao-do-e-titulo.shtml
-2020-11-16 01:07:14,180          root     INFO: Replying to: 1328142549270327303
-2020-11-16 01:07:14,448          root     INFO: Id to store: 1328142550058799104
-2020-11-16 01:07:14,612          root     INFO: Delegado e candidato do <del>Psol</del> <ins>PSOL</ins> irão para o segundo turno em <del>Belém, projeta Datafolha</del> <ins>Belém</ins>
-2020-11-16 01:07:16,292          root     INFO: Media ready with ids: 1328142557516357632
-2020-11-16 01:07:16,293          root     INFO: Text to tweet: Modificação do Título
-2020-11-16 01:07:16,293          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-e-candidato-do-psol-irao-para-o-segundo-turno-em-belem-projeta-datafolha.shtml
-2020-11-16 01:07:16,298          root     INFO: Replying to: 1328117428279185408
-2020-11-16 01:07:16,534          root     INFO: Id to store: 1328142558858457089
-2020-11-16 01:07:16,538          root     INFO: Em Belém, a disputa pelo segundo turno das eleições municipais será entre a direita e a esquerda. O delegado federal Everaldo Eguchi (Patriota) irá enfrentar Edmilson Rodrigues <del>(Psol), projeta Datafolha.</del> <ins>(PSOL).</ins> Leia mais (11/15/2020 - 18h50)
-2020-11-16 01:07:18,237          root     INFO: Media ready with ids: 1328142565602975751
-2020-11-16 01:07:18,237          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 01:07:18,237          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-e-candidato-do-psol-irao-para-o-segundo-turno-em-belem-projeta-datafolha.shtml
-2020-11-16 01:07:18,243          root     INFO: Replying to: 1328142558858457089
-2020-11-16 01:07:18,504          root     INFO: Id to store: 1328142567150587906
-2020-11-16 01:07:20,869          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaro-diz-que-concorda-com-comandante-do-exercito-e-defende-forcas-armadas-apartidarias.shtml
-2020-11-16 01:07:20,872          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/brasil-perde-vice-presidencia-no-bid-e-fica-fora-do-alto-escalao-do-banco-mesmo-apos-apoiar-manobra-dos-eua.shtml
-2020-11-16 01:07:20,873          root     INFO: Finished script
+2020-11-16 01:28:52,874          root     INFO: Starting script
+2020-11-16 01:28:53,702          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 01:28:54,383          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 01:28:55,058          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 01:28:55,278          root     INFO: Parsing R7 - Brasil
+2020-11-16 01:28:57,050          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-enfrentara-covas-no-segundo-turno-em-sao-paulo-projeta-datafolha.shtml
+2020-11-16 01:28:57,063          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405270
+2020-11-16 01:28:57,072          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/mesmo-com-apuracao-zerada-eleito-comemora-e-adversarios-reconhecem-derrota-em-jaboticabal.shtml
+2020-11-16 01:28:57,085          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-encarna-o-velho-normal-da-disputa-entre-psdb-e-esquerda-em-sp.shtml
+2020-11-16 01:28:57,095          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marilia-arraes-e-joao-campos-fazem-2o-turno-entre-familia-no-recife-projeta-datafolha.shtml
+2020-11-16 01:28:57,132          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405265
+2020-11-16 01:28:57,443          root     INFO: Bruno <del>Reis (DEM) vence</del> <ins>Reis, vice de ACM Neto, é eleito prefeito</ins> no 1º turno em <del>Salvador, projeta Datafolha</del> <ins>Salvador</ins>
+2020-11-16 01:28:59,109          root     INFO: Media ready with ids: 1328148021935267841
+2020-11-16 01:28:59,109          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 01:28:59,110          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-reis-dem-vence-no-1o-turno-em-salvador-projeta-datafolha.shtml
+2020-11-16 01:28:59,116          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-reis-dem-vence-no-1o-turno-em-salvador-projeta-datafolha.shtml
+2020-11-16 01:28:59,306          root     INFO: Replying to: 1328148023306825728
+2020-11-16 01:28:59,539          root     INFO: Id to store: 1328148024170864640
+2020-11-16 01:28:59,543          root     INFO: Candidato apoiado pelo prefeito de Salvador ACM Neto (DEM), o vice-prefeito Bruno Reis (DEM) confirmou o favoritismo demonstrado ao longo da campanha, venceu no primeiro turno e comandará a capital da Bahia pelos próximos quatro <del>anos, segundo projeção do Datafolha.</del> <ins>anos.</ins> Leia mais (11/15/2020 - 18h59)
+2020-11-16 01:29:01,366          root     INFO: Media ready with ids: 1328148030990790656
+2020-11-16 01:29:01,367          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 01:29:01,367          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-reis-dem-vence-no-1o-turno-em-salvador-projeta-datafolha.shtml
+2020-11-16 01:29:01,374          root     INFO: Replying to: 1328148024170864640
+2020-11-16 01:29:01,595          root     INFO: Id to store: 1328148032756600838
+2020-11-16 01:29:04,310          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/11/terra-de-trumps.shtml
+2020-11-16 01:29:04,312          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/novo-nao-pode-virar-linha-auxiliar-da-direita-diz-ex-candidato-do-partido.shtml
+2020-11-16 01:29:04,315          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/11/guia-pratico-do-voto.shtml
+2020-11-16 01:29:04,318          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/livro-resgata-experiencia-de-augusto-boal-como-vereador-no-rio-que-antecipou-mandatos-coletivos.shtml
+2020-11-16 01:29:04,320          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/voto-a-voto/2020/11/eleicao-na-pandemia-tem-salto-de-prefeitos-candidatos-a-reeleicao-e-risco-de-abstencao-recorde.shtml
+2020-11-16 01:29:04,322          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/registrado-em-nome-de-empresa-do-df-site-pessoal-de-bolsonaro-e-usado-para-divulgar-acoes-de-governo.shtml
+2020-11-16 01:29:04,323          root     INFO: Finished script
