@@ -1,8 +1,22 @@
-2020-11-16 17:28:28,172          root     INFO: Starting script
-2020-11-16 17:28:29,141          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 17:28:29,812          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 17:28:30,477          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 17:28:30,605          root     INFO: Parsing R7 - Brasil
-2020-11-16 17:28:32,326          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pais-tera-2o-turno-em-57-cidades-pt-disputa-em-15-deles-e-psl-foca-interior-de-sp.shtml
-2020-11-16 17:28:35,297          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ataque-de-hackers-no-sistema-do-tse-nao-viola-seguranca-da-eleicao.shtml
-2020-11-16 17:28:35,298          root     INFO: Finished script
+2020-11-16 17:47:09,385          root     INFO: Starting script
+2020-11-16 17:47:10,301          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 17:47:10,959          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 17:47:11,618          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 17:47:11,781          root     INFO: Parsing R7 - Brasil
+2020-11-16 17:47:13,558          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/grupo-apoiado-por-luciano-huck-renovabr-elege-10-prefeitos-e-136-vereadores.shtml
+2020-11-16 17:47:13,570          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/primos-em-lados-opostos-joao-campos-e-marilia-arraes-disputam-voto-conservador-do-recife-no-2o-turno.shtml
+2020-11-16 17:47:13,902          root     INFO: <del>De 45 vereadores apoiados por Bolsonaro, ao menos 33 foram derrotados nas urnas</del> <ins>Em 1º teste como cabo-eleitoral presidencial, Bolsonaro só consegue eleger 13 de 59 candidatos</ins>
+2020-11-16 17:47:15,790          root     INFO: Media ready with ids: 1328394213432696835
+2020-11-16 17:47:15,791          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 17:47:15,792          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/de-45-vereadores-apoiados-por-bolsonaro-ao-menos-33-foram-derrotados-nas-urnas.shtml
+2020-11-16 17:47:15,798          root     INFO: Replying to: 1328374943998947335
+2020-11-16 17:47:16,017          root     INFO: Id to store: 1328394215055822856
+2020-11-16 17:47:16,022          root     INFO: <del>O</del> <ins>Em seu primeiro teste como cabo-eleitoral na cadeira de</ins> presidente <ins>da República,</ins> Jair <del>Bolsonaro (sem partido) apoiou e fez campanha abertamente para 45 candidatos a vereador</del> <ins>Bolsolnaro teve um resultado bem abaixo das expectativas de seus aliados. Dos 59 nomes que referendeu pessoalmente</ins> em <del>diversas cidades do país. Desse total, ao menos 33 não conseguiram</del> <ins>suas "lives eleitorais gratuitas", apenas 13</ins> se <del>eleger neste domingo (15).</del> <ins>elegeram -os principais, dois prefeitos de cidades interioranas, Mão Santa (DEM), em Parnaíba (PI), e Gustavo Nunes (PSL), em Ipatinga (MG).</ins> Leia mais (11/16/2020 - 01h35)
+2020-11-16 17:47:17,754          root     INFO: Media ready with ids: 1328394221682905090
+2020-11-16 17:47:17,755          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-16 17:47:17,755          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/de-45-vereadores-apoiados-por-bolsonaro-ao-menos-33-foram-derrotados-nas-urnas.shtml
+2020-11-16 17:47:17,763          root     INFO: Replying to: 1328394215055822856
+2020-11-16 17:47:18,003          root     INFO: Id to store: 1328394223322865667
+2020-11-16 17:47:20,633          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405255
+2020-11-16 17:47:20,636          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/segundo-turno-das-eleicoes-sera-o-mais-curto-da-historia-por-causa-da-pandemia.shtml
+2020-11-16 17:47:20,637          root     INFO: Finished script
