@@ -1,29 +1,16 @@
-2020-11-16 03:18:01,335          root     INFO: Starting script
-2020-11-16 03:18:02,244          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 03:18:02,932          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 03:18:03,603          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 03:18:03,803          root     INFO: Parsing R7 - Brasil
-2020-11-16 03:18:04,108          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2020/11/cantando-na-chuva.shtml
-2020-11-16 03:18:05,431          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/dario-saadi-e-rafa-zimbaldi-disputam-o-segundo-turno-em-campinas.shtml
-2020-11-16 03:18:05,440          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/depoimento-inusitada-cobertura-da-campanha-em-jaboticabal-repercutiu-na-cidade.shtml
-2020-11-16 03:18:05,448          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/professor-emerson-vence-eleicao-para-prefeito-em-jaboticabal.shtml
-2020-11-16 03:18:05,455          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleicao-expoe-fragilidade-do-capital-politico-de-bolsonaro-em-grandes-centros.shtml
-2020-11-16 03:18:05,463          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/esperanca-vencera-radicalismo-e-bolsonaro-foi-grande-perdedor-diz-covas.shtml
-2020-11-16 03:18:05,578          root     INFO: Com a passagem de Guilherme Boulos (PSOL-SP) para o segundo turno da eleição em São Paulo, Jair Bolsonaro tornou-se um sem-teto na política paulistana. Bruno Covas (PSDB-SP), que terminou em primeiro e disputará a prefeitura com Boulos, também é adversário do governo federal. O candidato de Bolsonaro, Celso <del>Russomano,</del> <ins>Russomanno,</ins> tornou-se um sem-piso depois de receber o apoio presidencial. Leia mais (11/15/2020 - 23h15)
-2020-11-16 03:18:07,538          root     INFO: Media ready with ids: 1328175487676538880
-2020-11-16 03:18:07,539          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 03:18:07,539          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2020/11/sao-paulo-deixou-bolsonaro-sem-teto.shtml
-2020-11-16 03:18:07,543          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2020/11/sao-paulo-deixou-bolsonaro-sem-teto.shtml
-2020-11-16 03:18:07,721          root     INFO: Replying to: 1328175489412964352
-2020-11-16 03:18:07,936          root     INFO: Id to store: 1328175490100842496
-2020-11-16 03:18:08,223          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaro-ve-aliados-naufragarem-filho-com-menos-votos-e-wal-do-acai-nao-eleita.shtml
-2020-11-16 03:18:08,290          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-e-ex-reitora-da-usp-vao-para-o-segundo-turno-em-ribeirao-preto.shtml
-2020-11-16 03:18:10,682          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/bruno-covas-recebe-dezenas-de-vezes-mais-em-doacoes-do-que-candidatos-de-outros-estados.shtml
-2020-11-16 03:18:10,684          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/caminhoes-de-natal-tocam-john-lennon-e-fazem-propaganda-para-marcio-franca-em-sp.shtml
-2020-11-16 03:18:10,688          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-em-bh-kalil-tem-69-dos-votos-validos-e-deve-ser-reeleito-no-primeiro-turno.shtml
-2020-11-16 03:18:10,692          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/candidato-bolsonarista-do-partido-de-mourao-nao-ganha-apoio-de-bolsonaro-em-salvador.shtml
-2020-11-16 03:18:10,694          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405192
-2020-11-16 03:18:10,697          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-em-sao-paulo-covas-tem-37-dos-votos-validos-boulos-17-franca-14-e-russomanno-13-disputam-o-2o-lugar.shtml
-2020-11-16 03:18:10,700          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405193
-2020-11-16 03:18:10,702          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2020/11/a-melhor-forma-de-combater-a-pandemia-e-votar.shtml
-2020-11-16 03:18:10,703          root     INFO: Finished script
+2020-11-16 03:27:10,800          root     INFO: Starting script
+2020-11-16 03:27:11,948          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 03:27:12,783          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 03:27:13,614          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 03:27:13,880          root     INFO: Parsing R7 - Brasil
+2020-11-16 03:27:15,602          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/morando-conquista-reeleicao-no-primeiro-turno-em-sao-bernardo.shtml
+2020-11-16 03:27:15,614          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-funcionaria-fantasma-de-bolsonaro-wal-do-acai-e-derrotada-em-eleicao-a-camara-de-angra.shtml
+2020-11-16 03:27:15,932          root     INFO: Twitter rotula <del>post</del> <ins>posts de bolsonaristas e</ins> de Joice Hasselmann como <del>contestável</del> <ins>contestáveis</ins>
+2020-11-16 03:27:17,834          root     INFO: Media ready with ids: 1328177795948802048
+2020-11-16 03:27:17,835          root     INFO: Text to tweet: Modificação do Título
+2020-11-16 03:27:17,835          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405272
+2020-11-16 03:27:17,843          root     INFO: Replying to: 1328162631874719751
+2020-11-16 03:27:18,169          root     INFO: Id to store: 1328177797945241605
+2020-11-16 03:27:20,920          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-no-recife-campos-lidera-34-e-marilia-arraes-25-e-mendonca-23-disputam-2o-lugar.shtml
+2020-11-16 03:27:20,923          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-no-rio-paes-lidera-com-40-e-crivella-se-isola-em-segundo-lugar-com-18.shtml
+2020-11-16 03:27:20,924          root     INFO: Finished script
