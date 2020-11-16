@@ -1,13 +1,25 @@
-2020-11-16 15:46:51,605          root     INFO: Starting script
-2020-11-16 15:46:52,412          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 15:46:53,069          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 15:46:53,718          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 15:46:53,855          root     INFO: Parsing R7 - Brasil
-2020-11-16 15:46:56,262          root     INFO: Aliados de Bolsonaro tentam emplacar versão de que <del>Bolsonaro</del> <ins>presidente</ins> não perdeu eleição
-2020-11-16 15:46:58,086          root     INFO: Media ready with ids: 1328363940359909377
-2020-11-16 15:46:58,086          root     INFO: Text to tweet: Modificação do Título
-2020-11-16 15:46:58,086          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/aliados-de-bolsonaro-tentam-emplacar-versao-de-que-bolsonaro-nao-perdeu-eleicao.shtml
-2020-11-16 15:46:58,093          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/aliados-de-bolsonaro-tentam-emplacar-versao-de-que-bolsonaro-nao-perdeu-eleicao.shtml
-2020-11-16 15:46:58,287          root     INFO: Replying to: 1328363941936959489
-2020-11-16 15:46:58,544          root     INFO: Id to store: 1328363942608064519
-2020-11-16 15:47:00,977          root     INFO: Finished script
+2020-11-16 15:57:51,597          root     INFO: Starting script
+2020-11-16 15:57:52,617          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 15:57:53,451          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 15:57:54,271          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 15:57:54,495          root     INFO: Parsing R7 - Brasil
+2020-11-16 15:57:55,997          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-vence-em-todas-as-zonas-eleitorais-e-pinta-mapa-de-sp-de-azul-pela-primeira-vez.shtml
+2020-11-16 15:57:58,323          root     INFO: New article tracked: http://noticias.r7.com/brasil/viuva-de-marielle-monica-benicio-psol-e-eleita-vereadora-no-rio-16112020
+2020-11-16 15:57:58,331          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-defende-sistema-de-apuracao-que-nao-deixe-duvidas-16112020
+2020-11-16 15:57:58,337          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-diz-que-bolsonaro-nao-entrou-de-cabeca-em-eleicoes-16112020
+2020-11-16 15:57:58,343          root     INFO: New article tracked: http://noticias.r7.com/brasil/cidadao-podera-usar-assinatura-eletronica-em-servicos-do-governo-16112020
+2020-11-16 15:57:58,350          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleitor-que-nao-votou-no-primeiro-turno-pode-votar-no-segundo-16112020
+2020-11-16 15:57:58,355          root     INFO: New article tracked: http://noticias.r7.com/brasil/falha-que-atrasou-divulgacao-foi-recomendada-pela-pf-diz-barroso-16112020
+2020-11-16 15:57:58,361          root     INFO: New article tracked: http://noticias.r7.com/brasil/abstencao-cresce-pouco-com-pandemia-e-tse-comemora-16112020
+2020-11-16 15:57:58,366          root     INFO: New article tracked: http://noticias.r7.com/brasil/orlando-morando-psdb-e-reeleito-no-1-turno-em-sao-bernardo-do-campo-16112020
+2020-11-16 15:57:58,372          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-maua-sp-atila-psb-e-marcelo-oliveira-pt-vao-ao-segundo-turno-16112020
+2020-11-16 15:57:58,377          root     INFO: New article tracked: http://noticias.r7.com/brasil/ribeirao-preto-sp-tera-segundo-turno-entre-nogueira-e-suely-vilela-16112020
+2020-11-16 15:57:58,382          root     INFO: New article tracked: http://noticias.r7.com/brasil/diadema-sp-tera-2-turno-entre-filippi-pt-e-taka-yamauchi-psd-16112020
+2020-11-16 15:57:58,388          root     INFO: New article tracked: http://noticias.r7.com/brasil/dario-saadi-e-rafa-zimbaldi-vao-ao-segundo-turno-em-campinas-sp-16112020
+2020-11-16 15:57:58,393          root     INFO: New article tracked: http://noticias.r7.com/brasil/partidos-de-esquerda-sofreram-derrota-historica-diz-bolsonaro-16112020
+2020-11-16 15:57:58,400          root     INFO: New article tracked: http://noticias.r7.com/brasil/guti-psb-e-eloi-pieta-pt-avancam-para-o-2-turno-em-guarulhos-sp-16112020
+2020-11-16 15:57:58,407          root     INFO: New article tracked: http://noticias.r7.com/brasil/os-candidatos-apoiados-pela-presidencia-fracassaram-diz-moro-15112020
+2020-11-16 15:57:58,413          root     INFO: New article tracked: http://noticias.r7.com/brasil/bruno-reis-dem-e-eleito-prefeito-de-salvador-no-primeiro-turno-15112020
+2020-11-16 15:57:58,419          root     INFO: New article tracked: http://noticias.r7.com/brasil/maguito-lidera-em-goiania-e-volta-a-ser-entubado-em-hospital-de-sp-15112020
+2020-11-16 15:57:58,462          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405244
+2020-11-16 15:57:58,462          root     INFO: Finished script
