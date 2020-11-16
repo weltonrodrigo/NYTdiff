@@ -1,49 +1,6 @@
-2020-11-16 16:30:28,618          root     INFO: Starting script
-2020-11-16 16:30:29,488          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 16:30:30,172          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 16:30:30,855          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 16:30:31,100          root     INFO: Parsing R7 - Brasil
-2020-11-16 16:30:31,387          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/processo-penal-deve-proteger-a-dignidade-da-vitima-de-estupro.shtml
-2020-11-16 16:30:33,139          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pf-prende-autor-de-suposto-atentado-no-ministerio-da-justica.shtml
-2020-11-16 16:30:33,153          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apoio-do-pt-a-boulos-vira-arma-de-tucanos-no-segundo-turno-em-sp.shtml
-2020-11-16 16:30:33,512          root     INFO: <del>De 45 vereadores apoiados por Bolsonaro, ao menos 33 foram derrotados nas urnas</del> <ins>Em 1º teste como cabo-eleitoral presidencial, Bolsonaro só consegue eleger 13 de 59 candidatos</ins>
-2020-11-16 16:30:35,439          root     INFO: Media ready with ids: 1328374918149451776
-2020-11-16 16:30:35,439          root     INFO: Text to tweet: Modificação do Título
-2020-11-16 16:30:35,439          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/de-45-vereadores-apoiados-por-bolsonaro-ao-menos-33-foram-derrotados-nas-urnas.shtml
-2020-11-16 16:30:35,446          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/de-45-vereadores-apoiados-por-bolsonaro-ao-menos-33-foram-derrotados-nas-urnas.shtml
-2020-11-16 16:30:35,643          root     INFO: Replying to: 1328374919860793349
-2020-11-16 16:30:35,929          root     INFO: Id to store: 1328374920653533185
-2020-11-16 16:30:35,934          root     INFO: <del>O</del> <ins>Em seu primeiro teste como cabo-eleitoral na cadeira de</ins> presidente <ins>da República,</ins> Jair <del>Bolsonaro (sem partido) apoiou e fez campanha abertamente para 45 candidatos a vereador</del> <ins>Bolsolnaro teve um resultado bem abaixo das expectativas de seus aliados. Dos 59 nomes que referendeu pessoalmente</ins> em <del>diversas cidades do país. Desse total, ao menos 33 não conseguiram</del> <ins>suas "lives eleitorais gratuitas", apenas 13</ins> se <del>eleger neste domingo (15).</del> <ins>elegeram --os principais, dois prefeitos de cidades interioranas, Mão Santa (DEM), em Parnaíba (PI), e Gustavo Nunes (PSL), em Ipatinga (MG).</ins> Leia mais (11/16/2020 - 01h35)
-2020-11-16 16:30:41,199          root     INFO: Media ready with ids: 1328374942040256513
-2020-11-16 16:30:41,200          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 16:30:41,200          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/de-45-vereadores-apoiados-por-bolsonaro-ao-menos-33-foram-derrotados-nas-urnas.shtml
-2020-11-16 16:30:41,205          root     INFO: Replying to: 1328374920653533185
-2020-11-16 16:30:41,471          root     INFO: Id to store: 1328374943998947335
-2020-11-16 16:30:41,802          root     INFO: Na sua terceira tentativa de ser prefeito de Jaboticabal, Emerson Camargo (Patriota), 41, conseguiu enfim vencer a eleição na cidade e assumirá o cargo em <del>2021.</del> <ins>2021 (veja os dados completos para prefeito e vereadores).</ins> O vencedor no pleito deste domingo enfrentou uma campanha em que ele foi o alvo principal dos rivais. Jaboticabal, (a 342 km de São Paulo), com 77,6 mil habitantes, teve cobertura integral da Folha na eleição 2020. Em segundo lugar na eleição ficou o atual vice-prefeito, Vitorio de Simoni, 46, seguido pelo ex-secretário da Saúde Professor João, 56, o ex-prefeito Baccarin, 63, e Bolsonaro, 58. Leia mais (11/16/2020 - 00h03)
-2020-11-16 16:30:43,749          root     INFO: Media ready with ids: 1328374952559603714
-2020-11-16 16:30:43,749          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 16:30:43,749          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/professor-emerson-vence-eleicao-para-prefeito-em-jaboticabal.shtml
-2020-11-16 16:30:43,755          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/professor-emerson-vence-eleicao-para-prefeito-em-jaboticabal.shtml
-2020-11-16 16:30:43,961          root     INFO: Replying to: 1328374954673508352
-2020-11-16 16:30:44,385          root     INFO: Id to store: 1328374956078620674
-2020-11-16 16:30:47,258          root     INFO: Removed http://noticias.r7.com/brasil/partidos-de-esquerda-sofreram-derrota-historica-diz-bolsonaro-16112020
-2020-11-16 16:30:47,261          root     INFO: Removed http://noticias.r7.com/brasil/falha-que-atrasou-divulgacao-foi-recomendada-pela-pf-diz-barroso-16112020
-2020-11-16 16:30:47,265          root     INFO: Removed http://noticias.r7.com/brasil/guti-psb-e-eloi-pieta-pt-avancam-para-o-2-turno-em-guarulhos-sp-16112020
-2020-11-16 16:30:47,268          root     INFO: Removed http://noticias.r7.com/brasil/eleitor-que-nao-votou-no-primeiro-turno-pode-votar-no-segundo-16112020
-2020-11-16 16:30:47,270          root     INFO: Removed http://noticias.r7.com/brasil/maguito-lidera-em-goiania-e-volta-a-ser-entubado-em-hospital-de-sp-15112020
-2020-11-16 16:30:47,273          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/henrique-gomes/2020/11/nao-podemos-ter-uma-ciencia-para-conservadores-e-outra-para-liberais.shtml
-2020-11-16 16:30:47,276          root     INFO: Removed http://noticias.r7.com/brasil/mourao-diz-que-bolsonaro-nao-entrou-de-cabeca-em-eleicoes-16112020
-2020-11-16 16:30:47,278          root     INFO: Removed http://noticias.r7.com/brasil/em-maua-sp-atila-psb-e-marcelo-oliveira-pt-vao-ao-segundo-turno-16112020
-2020-11-16 16:30:47,287          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-defende-sistema-de-apuracao-que-nao-deixe-duvidas-16112020
-2020-11-16 16:30:47,290          root     INFO: Removed http://noticias.r7.com/brasil/cidadao-podera-usar-assinatura-eletronica-em-servicos-do-governo-16112020
-2020-11-16 16:30:47,293          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/app-e-titulo-esta-instavel-veja-outras-forma-de-justificar-o-seu-voto.shtml
-2020-11-16 16:30:47,295          root     INFO: Removed http://noticias.r7.com/brasil/abstencao-cresce-pouco-com-pandemia-e-tse-comemora-16112020
-2020-11-16 16:30:47,298          root     INFO: Removed http://noticias.r7.com/brasil/ribeirao-preto-sp-tera-segundo-turno-entre-nogueira-e-suely-vilela-16112020
-2020-11-16 16:30:47,301          root     INFO: Removed http://noticias.r7.com/brasil/viuva-de-marielle-monica-benicio-psol-e-eleita-vereadora-no-rio-16112020
-2020-11-16 16:30:47,303          root     INFO: Removed http://noticias.r7.com/brasil/os-candidatos-apoiados-pela-presidencia-fracassaram-diz-moro-15112020
-2020-11-16 16:30:47,306          root     INFO: Removed http://noticias.r7.com/brasil/bruno-reis-dem-e-eleito-prefeito-de-salvador-no-primeiro-turno-15112020
-2020-11-16 16:30:47,309          root     INFO: Removed http://noticias.r7.com/brasil/diadema-sp-tera-2-turno-entre-filippi-pt-e-taka-yamauchi-psd-16112020
-2020-11-16 16:30:47,311          root     INFO: Removed http://noticias.r7.com/brasil/orlando-morando-psdb-e-reeleito-no-1-turno-em-sao-bernardo-do-campo-16112020
-2020-11-16 16:30:47,314          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/orlando-silva-ataca-lula-no-twitter-e-tatto-gosta.shtml
-2020-11-16 16:30:47,317          root     INFO: Removed http://noticias.r7.com/brasil/dario-saadi-e-rafa-zimbaldi-vao-ao-segundo-turno-em-campinas-sp-16112020
-2020-11-16 16:30:47,318          root     INFO: Finished script
+2020-11-16 16:51:10,581          root     INFO: Starting script
+2020-11-16 16:51:11,410          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 16:51:12,080          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 16:51:12,756          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 16:51:12,920          root     INFO: Parsing R7 - Brasil
+2020-11-16 16:51:17,368          root     INFO: Finished script
