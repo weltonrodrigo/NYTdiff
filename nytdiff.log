@@ -1,21 +1,6 @@
-2020-11-16 18:18:41,307          root     INFO: Starting script
-2020-11-16 18:18:42,174          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-16 18:18:42,846          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-16 18:18:43,526          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-16 18:18:43,664          root     INFO: Parsing R7 - Brasil
-2020-11-16 18:18:45,357          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entenda-o-atraso-na-divulgacao-do-resultado-da-eleicao-e-as-mudancas-no-processo-do-tse.shtml
-2020-11-16 18:18:45,531          root     INFO: Prêmio New <del>Holland?</del> <ins>Holland</ins> de Fotojornalismo tem inscrições abertas
-2020-11-16 18:18:47,364          root     INFO: Media ready with ids: 1328402147243909120
-2020-11-16 18:18:47,365          root     INFO: Text to tweet: Modificação do Título
-2020-11-16 18:18:47,365          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10504
-2020-11-16 18:18:47,372          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10504
-2020-11-16 18:18:47,568          root     INFO: Replying to: 1328402148955213826
-2020-11-16 18:18:47,815          root     INFO: Id to store: 1328402149773094914
-2020-11-16 18:18:48,201          root     INFO: <del>Com 99,79% das urnas apuradas, o</del> <ins>O</ins> país registrou 23,14% de abstenções no primeiro turno das <del>eleições,</del> <ins>eleições neste domingo (15),</ins> o maior índice para pleitos municipais dos últimos 20 anos. Leia mais (11/16/2020 - 00h25)
-2020-11-16 18:18:49,914          root     INFO: Media ready with ids: 1328402158140731397
-2020-11-16 18:18:49,914          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-16 18:18:49,914          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/abstencoes-crescem-no-pais-e-chegam-a-23-maior-valor-em-20-anos.shtml
-2020-11-16 18:18:49,920          root     INFO: Replying to: 1328197879341703169
-2020-11-16 18:18:50,209          root     INFO: Id to store: 1328402159805870084
-2020-11-16 18:18:52,721          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rafael-greca-e-reeleito-prefeito-de-curitiba-projeta-datafolha.shtml
-2020-11-16 18:18:52,723          root     INFO: Finished script
+2020-11-16 18:32:43,952          root     INFO: Starting script
+2020-11-16 18:32:44,798          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-16 18:32:45,465          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-16 18:32:46,137          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-16 18:32:46,242          root     INFO: Parsing R7 - Brasil
+2020-11-16 18:32:50,374          root     INFO: Finished script
