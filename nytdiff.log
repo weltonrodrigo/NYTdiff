@@ -1,13 +1,6 @@
-2020-11-17 11:46:48,037          root     INFO: Starting script
-2020-11-17 11:46:48,996          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-17 11:46:49,657          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-17 11:46:50,310          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-17 11:46:50,452          root     INFO: Parsing R7 - Brasil
-2020-11-17 11:46:50,792          root     INFO: O Brasil vive uma intensa seca. Constante desde 2018, ela se ampliou neste ano e afeta seriamente algumas regiões produtoras de grãos e a recuperação de pastagens. <del>A safra 2020/21, que está sendo semeada, tem um início completamente fora do normal, com atraso no plantio, semeadura em clima seco, possibilidade de quebra de produção e a necessidade de replantio. A área de replantio é pequena, mas deve ser levada em consideração, pois traz consequências para a produtividade da soja e para o planejamento da safrinha de milho. Mato Grosso deverá refazer o replantio de soja em 277 mil hectares, segundo a AgRural.</del> Leia mais (11/16/2020 - 23h15)
-2020-11-17 11:46:52,820          root     INFO: Media ready with ids: 1328665907967766529
-2020-11-17 11:46:52,821          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-17 11:46:52,821          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/11/seca-exige-replantio-de-soja-e-derruba-produtividade-de-milho.shtml
-2020-11-17 11:46:52,828          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/11/seca-exige-replantio-de-soja-e-derruba-produtividade-de-milho.shtml
-2020-11-17 11:46:53,003          root     INFO: Replying to: 1328665909616054272
-2020-11-17 11:46:53,243          root     INFO: Id to store: 1328665910392053760
-2020-11-17 11:46:57,658          root     INFO: Finished script
+2020-11-17 11:58:00,660          root     INFO: Starting script
+2020-11-17 11:58:01,679          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-17 11:58:02,517          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-17 11:58:03,358          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-17 11:58:03,560          root     INFO: Parsing R7 - Brasil
+2020-11-17 11:58:08,041          root     INFO: Finished script
