@@ -1,8 +1,17 @@
-2020-11-17 18:19:07,707          root     INFO: Starting script
-2020-11-17 18:19:08,648          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-17 18:19:09,325          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-17 18:19:10,004          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-17 18:19:10,258          root     INFO: Parsing R7 - Brasil
-2020-11-17 18:19:12,549          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pf-investiga-corrupcao-em-processos-do-tribunal-de-etica-e-disciplina-da-oab-sp.shtml
-2020-11-17 18:19:16,835          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/11/a-politica-da-bocalidade.shtml
-2020-11-17 18:19:16,836          root     INFO: Finished script
+2020-11-17 18:30:34,300          root     INFO: Starting script
+2020-11-17 18:30:35,135          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-17 18:30:35,810          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-17 18:30:36,477          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-17 18:30:36,658          root     INFO: Parsing R7 - Brasil
+2020-11-17 18:30:38,455          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/stj-nega-recurso-de-lula-contra-condenacao-no-caso-do-triplex-de-guaruja.shtml
+2020-11-17 18:30:38,467          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/olavo-diz-que-foi-censurado-mas-youtube-diz-que-ele-pode-procurar-central-de-ajuda.shtml
+2020-11-17 18:30:41,595          root     INFO: Removed http://noticias.r7.com/brasil/apos-ser-detido-oswaldo-eustaquio-poe-tornozeleira-e-volta-para-casa-17112020
+2020-11-17 18:30:41,600          root     INFO: Removed http://noticias.r7.com/brasil/petrobras-inicia-fase-de-venda-de-albacora-e-albacora-leste-17112020
+2020-11-17 18:30:41,603          root     INFO: Removed http://noticias.r7.com/brasil/stf-determina-prisao-domiciliar-a-blogueiro-oswaldo-eustaquio-17112020
+2020-11-17 18:30:41,605          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/no-rio-eduardo-paes-deve-evitar-conflito-com-bolsonaro.shtml
+2020-11-17 18:30:41,608          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleicoes-nas-capitais-indicam-freio-em-onda-antipolitica-e-voto-em-nomes-tradicionais.shtml
+2020-11-17 18:30:41,611          root     INFO: Removed http://noticias.r7.com/brasil/andre-do-rap-seria-chefe-do-pcc-em-amambay-no-paraguai-diz-jornal-17112020
+2020-11-17 18:30:41,614          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-pede-reformas-da-omc-e-do-conselho-de-seguranca-da-onu-17112020
+2020-11-17 18:30:41,616          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-aneel-ganha-folego-com-apagao-que-atinge-amapa-17112020
+2020-11-17 18:30:41,619          root     INFO: Removed http://noticias.r7.com/brasil/alcolumbre-vai-se-reunir-com-bolsonaro-para-falar-sobre-amapa-17112020
+2020-11-17 18:30:41,620          root     INFO: Finished script
