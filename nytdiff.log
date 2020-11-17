@@ -1,6 +1,19 @@
-2020-11-17 02:26:58,332          root     INFO: Starting script
-2020-11-17 02:26:59,273          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-17 02:26:59,947          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-17 02:27:00,640          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-17 02:27:00,833          root     INFO: Parsing R7 - Brasil
-2020-11-17 02:27:05,607          root     INFO: Finished script
+2020-11-17 02:47:06,199          root     INFO: Starting script
+2020-11-17 02:47:07,107          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-17 02:47:07,762          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-17 02:47:08,420          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-17 02:47:08,684          root     INFO: Parsing R7 - Brasil
+2020-11-17 02:47:08,970          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2020/11/o-dedo-podre-de-bolsonaro-e-2022.shtml
+2020-11-17 02:47:08,982          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/11/o-que-as-urnas-disseram.shtml
+2020-11-17 02:47:09,739          root     INFO: <del>Seria</del> <ins>Ainda restam 2 anos de atraso, mas seria</ins> lindo se livrar da jaula em 2022
+2020-11-17 02:47:11,576          root     INFO: Media ready with ids: 1328530091383676928
+2020-11-17 02:47:11,577          root     INFO: Text to tweet: Modificação do Título
+2020-11-17 02:47:11,577          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernandatorres/2020/11/seria-lindo-se-livrar-da-jaula-em-2022.shtml
+2020-11-17 02:47:11,583          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernandatorres/2020/11/seria-lindo-se-livrar-da-jaula-em-2022.shtml
+2020-11-17 02:47:11,764          root     INFO: Replying to: 1328530092839104519
+2020-11-17 02:47:12,038          root     INFO: Id to store: 1328530093631811584
+2020-11-17 02:47:12,779          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vao-ter-que-aprender-a-conviver-comigo-diz-primeira-mulher-negra-eleita-vereadora-em-curitiba.shtml
+2020-11-17 02:47:15,888          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marquinhos-trad-e-reeleito-prefeito-de-campo-grande.shtml
+2020-11-17 02:47:15,892          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cida-bento/2020/11/e-hora-de-diversificar-as-camaras.shtml
+2020-11-17 02:47:15,895          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2020/11/o-sexo-das-mulheres-maduras.shtml
+2020-11-17 02:47:15,896          root     INFO: Finished script
