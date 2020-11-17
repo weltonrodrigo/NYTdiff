@@ -1,8 +1,11 @@
-2020-11-17 15:21:42,570          root     INFO: Starting script
-2020-11-17 15:21:43,448          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-17 15:21:44,115          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-17 15:21:44,784          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-17 15:21:44,934          root     INFO: Parsing R7 - Brasil
-2020-11-17 15:21:46,695          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/professora-eleita-vereadora-quer-combate-ao-machismo-em-gabineta-de-bancada-feminista-na-camara-de-sp.shtml
-2020-11-17 15:21:49,771          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-pessoa-tera-segundo-turno-entre-cicero-lucena-e-nilvan-ferreira.shtml
-2020-11-17 15:21:49,772          root     INFO: Finished script
+2020-11-17 15:30:55,736          root     INFO: Starting script
+2020-11-17 15:30:57,087          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-17 15:30:57,918          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-17 15:30:58,771          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-17 15:30:58,995          root     INFO: Parsing R7 - Brasil
+2020-11-17 15:31:00,949          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleicoes-devem-reforcar-alianca-de-bolsonaro-com-centrao-avalia-planalto.shtml
+2020-11-17 15:31:00,960          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/moraes-do-stf-ve-fatos-gravissimos-e-diz-que-blogueiro-bolsonarista-afronta-judiciario.shtml
+2020-11-17 15:31:02,591          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/alemanha-e-franca-compraram-madeira-ilegal-do-brasil-indicam-acoes-da-pf-bolsonaro-ameaca-europeus.shtml
+2020-11-17 15:31:04,439          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-porto-velho-prefeito-hildon-chaves-enfrentara-vereadora-no-segundo-turno.shtml
+2020-11-17 15:31:04,443          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/11/o-leviata-domado-e-a-rainha-vermelha.shtml
+2020-11-17 15:31:04,443          root     INFO: Finished script
