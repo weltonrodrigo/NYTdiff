@@ -1,18 +1,26 @@
-2020-11-17 01:28:49,531          root     INFO: Starting script
-2020-11-17 01:28:50,560          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-17 01:28:51,405          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-17 01:28:52,244          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-17 01:28:52,553          root     INFO: Parsing R7 - Brasil
-2020-11-17 01:28:54,384          root     INFO: Covas e Boulos <del>trocam ataques</del> <ins>se acusam</ins> sobre <ins>faltam de</ins> experiência e priorizam cidade em 1º debate do 2º turno
-2020-11-17 01:28:56,287          root     INFO: Media ready with ids: 1328510397817769986
-2020-11-17 01:28:56,288          root     INFO: Text to tweet: Modificação do Título
-2020-11-17 01:28:56,288          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-e-boulos-trocam-ataques-sobre-experiencia-e-priorizam-cidade-em-1o-debate-do-2o-turno.shtml
-2020-11-17 01:28:56,295          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-e-boulos-trocam-ataques-sobre-experiencia-e-priorizam-cidade-em-1o-debate-do-2o-turno.shtml
-2020-11-17 01:28:56,579          root     INFO: Replying to: 1328510399696793600
-2020-11-17 01:28:56,847          root     INFO: Id to store: 1328510400694980609
-2020-11-17 01:28:59,591          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-prende-suspeito-de-lancar-carro-contra-predio-de-ministerio-16112020
-2020-11-17 01:28:59,602          root     INFO: New article tracked: http://noticias.r7.com/brasil/menor-colegio-eleitoral-elege-prefeito-por-diferenca-de-18-votos-16112020
-2020-11-17 01:28:59,610          root     INFO: New article tracked: http://noticias.r7.com/brasil/anac-aprova-revisao-de-contratos-de-concessao-de-4-aeroportos-16112020
-2020-11-17 01:28:59,617          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-institui-plano-para-desenvolver-recursos-maritimos-16112020
-2020-11-17 01:28:59,626          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-2020-campanha-para-o-segundo-turno-ja-comeca-hoje-16112020
-2020-11-17 01:28:59,847          root     INFO: Finished script
+2020-11-17 01:46:56,743          root     INFO: Starting script
+2020-11-17 01:46:57,645          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-17 01:46:58,292          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-17 01:46:58,936          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-17 01:46:59,142          root     INFO: Parsing R7 - Brasil
+2020-11-17 01:47:00,623          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405330
+2020-11-17 01:47:00,659          root     INFO: Covas e Boulos <del>trocam ataques</del> <ins>se acusam</ins> sobre <ins>falta de</ins> experiência e priorizam cidade em 1º debate do 2º turno
+2020-11-17 01:47:02,512          root     INFO: Media ready with ids: 1328514953867825153
+2020-11-17 01:47:02,512          root     INFO: Text to tweet: Modificação do Título
+2020-11-17 01:47:02,512          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-e-boulos-trocam-ataques-sobre-experiencia-e-priorizam-cidade-em-1o-debate-do-2o-turno.shtml
+2020-11-17 01:47:02,520          root     INFO: Replying to: 1328510400694980609
+2020-11-17 01:47:02,768          root     INFO: Id to store: 1328514955415588865
+2020-11-17 01:47:02,797          root     INFO: O <ins>ministro Luís Roberto Barroso,</ins> presidente do TSE (Tribunal Superior Eleitoral), <del>ministro Luís Roberto Barroso, passou a minimizar</del> <ins>apresentou nesta segunda-feira (16) nova versão sobre</ins> os <del>problemas que levaram ao atraso</del> <ins>atrasos</ins> na divulgação do resultado das eleições <del>municipais</del> <ins>municipais, minimizou os problemas</ins> e não garantiu que o segundo <del>turno</del> <ins>turno, no próximo dia 29,</ins> será livre de falhas. Leia mais (11/16/2020 - 20h46)
+2020-11-17 01:47:04,503          root     INFO: Media ready with ids: 1328514962055114752
+2020-11-17 01:47:04,503          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-17 01:47:04,503          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/barroso-minimiza-falha-que-atrasou-resultado-muda-versao-e-liga-pane-no-tse-a-falta-de-testes-na-pandemia.shtml
+2020-11-17 01:47:04,508          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/barroso-minimiza-falha-que-atrasou-resultado-muda-versao-e-liga-pane-no-tse-a-falta-de-testes-na-pandemia.shtml
+2020-11-17 01:47:04,717          root     INFO: Replying to: 1328514963682553857
+2020-11-17 01:47:04,928          root     INFO: Id to store: 1328514964454338560
+2020-11-17 01:47:07,363          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-2020-campanha-para-o-segundo-turno-ja-comeca-hoje-16112020
+2020-11-17 01:47:07,365          root     INFO: Removed http://noticias.r7.com/brasil/governo-institui-plano-para-desenvolver-recursos-maritimos-16112020
+2020-11-17 01:47:07,368          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/como-mesario-vi-brasileiro-mostrar-neste-domingo-responsabilidade-na-pandemia.shtml
+2020-11-17 01:47:07,371          root     INFO: Removed http://noticias.r7.com/brasil/menor-colegio-eleitoral-elege-prefeito-por-diferenca-de-18-votos-16112020
+2020-11-17 01:47:07,373          root     INFO: Removed http://noticias.r7.com/brasil/anac-aprova-revisao-de-contratos-de-concessao-de-4-aeroportos-16112020
+2020-11-17 01:47:07,375          root     INFO: Removed http://noticias.r7.com/brasil/pf-prende-suspeito-de-lancar-carro-contra-predio-de-ministerio-16112020
+2020-11-17 01:47:07,376          root     INFO: Finished script
