@@ -1,11 +1,19 @@
-2020-11-17 15:30:55,736          root     INFO: Starting script
-2020-11-17 15:30:57,087          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-17 15:30:57,918          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-17 15:30:58,771          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-17 15:30:58,995          root     INFO: Parsing R7 - Brasil
-2020-11-17 15:31:00,949          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleicoes-devem-reforcar-alianca-de-bolsonaro-com-centrao-avalia-planalto.shtml
-2020-11-17 15:31:00,960          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/moraes-do-stf-ve-fatos-gravissimos-e-diz-que-blogueiro-bolsonarista-afronta-judiciario.shtml
-2020-11-17 15:31:02,591          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/alemanha-e-franca-compraram-madeira-ilegal-do-brasil-indicam-acoes-da-pf-bolsonaro-ameaca-europeus.shtml
-2020-11-17 15:31:04,439          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-porto-velho-prefeito-hildon-chaves-enfrentara-vereadora-no-segundo-turno.shtml
-2020-11-17 15:31:04,443          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/11/o-leviata-domado-e-a-rainha-vermelha.shtml
-2020-11-17 15:31:04,443          root     INFO: Finished script
+2020-11-17 15:47:31,988          root     INFO: Starting script
+2020-11-17 15:47:32,790          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-17 15:47:33,439          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-17 15:47:34,102          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-17 15:47:34,258          root     INFO: Parsing R7 - Brasil
+2020-11-17 15:47:36,018          root     INFO: Homens e brancos seguem privilegiados, após declaração de <del>65%</del> <ins>80%</ins> de toda a verba pública eleitoral
+2020-11-17 15:47:37,830          root     INFO: Media ready with ids: 1328726494919733248
+2020-11-17 15:47:37,831          root     INFO: Text to tweet: Modificação do Título
+2020-11-17 15:47:37,831          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/homens-e-brancos-seguem-privilegiados-apos-declaracao-de-65-de-toda-a-verba-publica-eleitoral.shtml
+2020-11-17 15:47:37,837          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/homens-e-brancos-seguem-privilegiados-apos-declaracao-de-65-de-toda-a-verba-publica-eleitoral.shtml
+2020-11-17 15:47:38,050          root     INFO: Replying to: 1328726496475832320
+2020-11-17 15:47:38,289          root     INFO: Id to store: 1328726497348218880
+2020-11-17 15:47:38,293          root     INFO: Com o recebimento de <del>65%</del> <ins>80%</ins> de toda a bilionária verba do Fundo Eleitoral já declarada pelos candidatos da eleição <del>deste</del> <ins>de</ins> domingo (15), os partidos não cumpriram até esse momento as regras que exigem distribuição equânime entre negros e brancos, mulheres e homens. Leia mais (11/17/2020 - 11h49)
+2020-11-17 15:47:40,049          root     INFO: Media ready with ids: 1328726504172376065
+2020-11-17 15:47:40,050          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-17 15:47:40,050          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/homens-e-brancos-seguem-privilegiados-apos-declaracao-de-65-de-toda-a-verba-publica-eleitoral.shtml
+2020-11-17 15:47:40,059          root     INFO: Replying to: 1328726497348218880
+2020-11-17 15:47:40,303          root     INFO: Id to store: 1328726505766199297
+2020-11-17 15:47:43,440          root     INFO: Finished script
