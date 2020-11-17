@@ -1,6 +1,21 @@
-2020-11-17 21:57:54,649          root     INFO: Starting script
-2020-11-17 21:57:55,704          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-17 21:57:56,350          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-17 21:57:57,003          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-17 21:57:57,159          root     INFO: Parsing R7 - Brasil
-2020-11-17 21:58:01,436          root     INFO: Finished script
+2020-11-17 22:20:54,367          root     INFO: Starting script
+2020-11-17 22:20:55,439          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-17 22:20:56,107          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-17 22:20:56,780          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-17 22:20:57,005          root     INFO: Parsing R7 - Brasil
+2020-11-17 22:20:58,712          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/republicanos-e-russomanno-decidem-apoiar-covas-em-sao-paulo-e-falam-em-moderacao.shtml
+2020-11-17 22:20:58,769          root     INFO: Covas <del>liga para Boulos e</del> pede desculpas <ins>a Boulos</ins> após ataques de aliado tucano
+2020-11-17 22:21:00,600          root     INFO: Media ready with ids: 1328825491961339905
+2020-11-17 22:21:00,601          root     INFO: Text to tweet: Modificação do Título
+2020-11-17 22:21:00,601          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-liga-para-boulos-e-pede-desculpas-apos-ataques-de-aliado-tucano.shtml
+2020-11-17 22:21:00,607          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-liga-para-boulos-e-pede-desculpas-apos-ataques-de-aliado-tucano.shtml
+2020-11-17 22:21:00,777          root     INFO: Replying to: 1328825493504856064
+2020-11-17 22:21:01,037          root     INFO: Id to store: 1328825494326939648
+2020-11-17 22:21:01,041          root     INFO: O prefeito e candidato à reeleição em São Paulo, Bruno Covas (PSDB), pediu desculpas ao rival Guilherme Boulos (PSOL) após uma declaração polêmica feita <del>hoje</del> <ins>nesta terça-feira (17)</ins> pelo aliado Ricardo Tripoli, <ins>tucano</ins> ex-deputado <del>federal também do partido de Covas.</del> <ins>federal.</ins> Leia mais (11/17/2020 - 17h05)
+2020-11-17 22:21:02,835          root     INFO: Media ready with ids: 1328825501260111874
+2020-11-17 22:21:02,836          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-17 22:21:02,836          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-liga-para-boulos-e-pede-desculpas-apos-ataques-de-aliado-tucano.shtml
+2020-11-17 22:21:02,841          root     INFO: Replying to: 1328825494326939648
+2020-11-17 22:21:03,083          root     INFO: Id to store: 1328825502962946055
+2020-11-17 22:21:06,036          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/esperanca-vencera-radicalismo-e-bolsonaro-foi-grande-perdedor-diz-covas.shtml
+2020-11-17 22:21:06,037          root     INFO: Finished script
