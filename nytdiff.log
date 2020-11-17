@@ -1,39 +1,18 @@
-2020-11-17 11:16:40,407          root     INFO: Starting script
-2020-11-17 11:16:41,230          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-17 11:16:41,883          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-17 11:16:42,541          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-17 11:16:42,723          root     INFO: Parsing R7 - Brasil
-2020-11-17 11:16:44,405          root     INFO: PF cumpre mandado de busca e prisão domiciliar contra bolsonarista <del>que descumpriu de</del> <ins>por burlar</ins> decisão do STF
-2020-11-17 11:16:46,315          root     INFO: Media ready with ids: 1328658331066621952
-2020-11-17 11:16:46,316          root     INFO: Text to tweet: Modificação do Título
-2020-11-17 11:16:46,316          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pf-faz-busca-contra-bolsonarista-apos-descumprimento-de-decisao-de-alexandre-de-moraes-do-stf.shtml
-2020-11-17 11:16:46,322          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pf-faz-busca-contra-bolsonarista-apos-descumprimento-de-decisao-de-alexandre-de-moraes-do-stf.shtml
-2020-11-17 11:16:46,514          root     INFO: Replying to: 1328658332639514625
-2020-11-17 11:16:46,718          root     INFO: Id to store: 1328658333289549826
-2020-11-17 11:16:46,724          root     INFO: A Polícia Federal cumpriu na manhã desta terça-feira (17) <del>uma</del> <ins>mandados de</ins> busca e apreensão <ins>e prisão domiciliar</ins> contra o bolsonarista Oswaldo Eustáquio por <del>descumprir</del> <ins>ele ter supostamente burlado</ins> decisão do ministro Alexandre de Moraes, do <del>STF.</del> <ins>Supremo.</ins> Leia mais (11/17/2020 - 07h50)
-2020-11-17 11:16:48,417          root     INFO: Media ready with ids: 1328658339954368512
-2020-11-17 11:16:48,418          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-17 11:16:48,419          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pf-faz-busca-contra-bolsonarista-apos-descumprimento-de-decisao-de-alexandre-de-moraes-do-stf.shtml
-2020-11-17 11:16:48,424          root     INFO: Replying to: 1328658333289549826
-2020-11-17 11:16:48,629          root     INFO: Id to store: 1328658341300756480
-2020-11-17 11:16:48,817          root     INFO: Pandemia, eleição 'fria' e descrença <del>geraram alta de</del> <ins>ampliaram</ins> abstenções, dizem <del>especialistas</del> <ins>especialistas; veja os mapas</ins>
-2020-11-17 11:16:50,487          root     INFO: Media ready with ids: 1328658348577878017
-2020-11-17 11:16:50,488          root     INFO: Text to tweet: Modificação do Título
-2020-11-17 11:16:50,488          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pandemia-eleicao-fria-e-descrenca-geraram-alta-de-abstencoes-dizem-especialistas.shtml
-2020-11-17 11:16:50,493          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pandemia-eleicao-fria-e-descrenca-geraram-alta-de-abstencoes-dizem-especialistas.shtml
-2020-11-17 11:16:50,649          root     INFO: Replying to: 1328658349982879745
-2020-11-17 11:16:51,002          root     INFO: Id to store: 1328658351266406402
-2020-11-17 11:16:51,007          root     INFO: Especialistas já esperavam aumento de eleitores que não comparecem às urnas nas eleições municipais de 2020, mas consideram alto os 23,14% de abstenções, maior já registrado em pleitos municipais dos últimos 20 anos. <del>Os estudiosos ligam a elevada ausência à pandemia de Covid-19, a uma eleição mais "fria" (em comparação à anterior) e à descrença da população na política.</del> Leia mais (11/16/2020 - 23h15)
-2020-11-17 11:16:52,773          root     INFO: Media ready with ids: 1328658357931094017
-2020-11-17 11:16:52,774          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-17 11:16:52,774          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pandemia-eleicao-fria-e-descrenca-geraram-alta-de-abstencoes-dizem-especialistas.shtml
-2020-11-17 11:16:52,779          root     INFO: Replying to: 1328658351266406402
-2020-11-17 11:16:53,121          root     INFO: Id to store: 1328658359680180226
-2020-11-17 11:16:53,166          root     INFO: PSDB de Doria amplia hegemonia <del>sobre municípios</del> <ins>no estado</ins> de <del>SP,</del> <ins>São Paulo,</ins> e PT elege só 2 <del>cidades</del> <ins>prefeitos</ins> no 1º turno
-2020-11-17 11:16:54,818          root     INFO: Media ready with ids: 1328658366705643521
-2020-11-17 11:16:54,818          root     INFO: Text to tweet: Modificação do Título
-2020-11-17 11:16:54,819          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/psdb-de-doria-amplia-hegemonia-sobre-municipios-de-sp-e-pt-elege-so-2-cidades-no-1o-turno.shtml
-2020-11-17 11:16:54,824          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/psdb-de-doria-amplia-hegemonia-sobre-municipios-de-sp-e-pt-elege-so-2-cidades-no-1o-turno.shtml
-2020-11-17 11:16:54,998          root     INFO: Replying to: 1328658368257536000
-2020-11-17 11:16:55,202          root     INFO: Id to store: 1328658368869888001
-2020-11-17 11:16:58,131          root     INFO: Finished script
+2020-11-17 11:21:56,700          root     INFO: Starting script
+2020-11-17 11:21:57,544          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-17 11:21:58,226          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-17 11:21:58,890          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-17 11:21:59,102          root     INFO: Parsing R7 - Brasil
+2020-11-17 11:22:00,860          root     INFO: PF cumpre mandado de busca e prisão domiciliar contra bolsonarista <del>que descumpriu de</del> <ins>por burlar</ins> decisão do STF
+2020-11-17 11:22:02,645          root     INFO: Media ready with ids: 1328659657850761216
+2020-11-17 11:22:02,645          root     INFO: Text to tweet: Modificação do Título
+2020-11-17 11:22:02,645          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pf-faz-busca-contra-bolsonarista-apos-descumprimento-de-decisao-de-alexandre-de-moraes-do-stf.shtml
+2020-11-17 11:22:02,653          root     INFO: Replying to: 1328658341300756480
+2020-11-17 11:22:02,904          root     INFO: Id to store: 1328659659432071170
+2020-11-17 11:22:02,909          root     INFO: A Polícia Federal cumpriu na manhã desta terça-feira (17) <del>uma</del> <ins>mandados de</ins> busca e apreensão <ins>e prisão domiciliar</ins> contra o bolsonarista Oswaldo Eustáquio por <del>descumprir</del> <ins>ter burlado</ins> decisão <del>do ministro</del> <ins>de</ins> Alexandre de Moraes, do <del>STF.</del> <ins>Supremo.</ins> Leia mais (11/17/2020 - 07h50)
+2020-11-17 11:22:04,618          root     INFO: Media ready with ids: 1328659666184904704
+2020-11-17 11:22:04,618          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-17 11:22:04,618          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pf-faz-busca-contra-bolsonarista-apos-descumprimento-de-decisao-de-alexandre-de-moraes-do-stf.shtml
+2020-11-17 11:22:04,624          root     INFO: Replying to: 1328659659432071170
+2020-11-17 11:22:04,856          root     INFO: Id to store: 1328659667686469634
+2020-11-17 11:22:07,801          root     INFO: Finished script
