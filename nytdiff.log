@@ -1,13 +1,13 @@
-2020-11-17 10:29:30,131          root     INFO: Starting script
-2020-11-17 10:29:31,142          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-17 10:29:31,978          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-17 10:29:32,803          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-17 10:29:33,006          root     INFO: Parsing R7 - Brasil
-2020-11-17 10:29:34,672          root     INFO: A professora Carol Dartora, 37, demorou para se sentir parte de Curitiba, mesmo tendo nascido, crescido, formado família e feito carreira na cidade. <del>Negra, foi ainda na escola que ela teve o primeiro contato com a violência racial, em especial contra as mulheres. "Eu pensava: ?meu Deus, por que nasci aqui e não na Bahia?'", conta.</del> Leia mais (11/16/2020 - 23h33)
-2020-11-17 10:29:36,544          root     INFO: Media ready with ids: 1328646461949665280
-2020-11-17 10:29:36,545          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-17 10:29:36,545          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vao-ter-que-aprender-a-conviver-comigo-diz-primeira-mulher-negra-eleita-vereadora-em-curitiba.shtml
-2020-11-17 10:29:36,550          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vao-ter-que-aprender-a-conviver-comigo-diz-primeira-mulher-negra-eleita-vereadora-em-curitiba.shtml
-2020-11-17 10:29:36,809          root     INFO: Replying to: 1328646463950348288
-2020-11-17 10:29:37,093          root     INFO: Id to store: 1328646464944435200
-2020-11-17 10:29:39,935          root     INFO: Finished script
+2020-11-17 10:46:59,183          root     INFO: Starting script
+2020-11-17 10:47:00,025          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-17 10:47:00,685          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-17 10:47:01,326          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-17 10:47:01,494          root     INFO: Parsing R7 - Brasil
+2020-11-17 10:47:03,372          root     INFO: <del>Em SP, esquerda tende a abraçar Boulos, enquanto Covas pode receber</del> <ins>Boulos deve ter adesão explícita da esquerda, já Covas,</ins> apoios envergonhados
+2020-11-17 10:47:05,168          root     INFO: Media ready with ids: 1328650860449198087
+2020-11-17 10:47:05,168          root     INFO: Text to tweet: Modificação do Título
+2020-11-17 10:47:05,169          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sp-esquerda-tende-a-abracar-boulos-enquanto-covas-pode-receber-apoios-envergonhados.shtml
+2020-11-17 10:47:05,174          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sp-esquerda-tende-a-abracar-boulos-enquanto-covas-pode-receber-apoios-envergonhados.shtml
+2020-11-17 10:47:05,364          root     INFO: Replying to: 1328650861980119041
+2020-11-17 10:47:05,565          root     INFO: Id to store: 1328650862626033665
+2020-11-17 10:47:08,045          root     INFO: Finished script
