@@ -1,6 +1,13 @@
-2020-11-18 19:57:51,282          root     INFO: Starting script
-2020-11-18 19:57:52,532          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-18 19:57:53,167          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-18 19:57:53,805          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-18 19:57:53,927          root     INFO: Parsing R7 - Brasil
-2020-11-18 19:57:57,430          root     INFO: Finished script
+2020-11-18 20:17:50,222          root     INFO: Starting script
+2020-11-18 20:17:51,125          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-18 20:17:51,798          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-18 20:17:52,463          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-18 20:17:52,724          root     INFO: Parsing R7 - Brasil
+2020-11-18 20:17:54,768          root     INFO: A Justiça de São Paulo autorizou nesta quarta-feira (18) a deflagração de operação contra três núcleos do <del>PCC.</del> <ins>PCC.? Um deles, segundo o Ministério Público, atuava para falsificar documentos.</ins> Leia mais (11/18/2020 - 10h27)
+2020-11-18 20:17:56,628          root     INFO: Media ready with ids: 1329156909102997512
+2020-11-18 20:17:56,629          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-18 20:17:56,629          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pcc-falsificava-documentos-para-visitas-em-presidios-e-cadastros-no-uber-diz-investigacao.shtml
+2020-11-18 20:17:56,637          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pcc-falsificava-documentos-para-visitas-em-presidios-e-cadastros-no-uber-diz-investigacao.shtml
+2020-11-18 20:17:56,831          root     INFO: Replying to: 1329156910881382403
+2020-11-18 20:17:57,081          root     INFO: Id to store: 1329156911657349121
+2020-11-18 20:18:00,196          root     INFO: Finished script
