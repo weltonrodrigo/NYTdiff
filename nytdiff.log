@@ -1,8 +1,10 @@
-2020-11-18 14:47:03,700          root     INFO: Starting script
-2020-11-18 14:47:04,620          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-18 14:47:05,281          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-18 14:47:05,944          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-18 14:47:06,111          root     INFO: Parsing R7 - Brasil
-2020-11-18 14:47:06,987          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/11/selecao-brasileira-conta-com-sorte-e-eficacia-agora-e-esperar-por-marco.shtml
-2020-11-18 14:47:11,831          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2020/11/a-nova-era-das-baias-traz-consigo-milhares-de-pessoas.shtml
-2020-11-18 14:47:11,835          root     INFO: Finished script
+2020-11-18 14:57:47,378          root     INFO: Starting script
+2020-11-18 14:57:48,181          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-18 14:57:48,827          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-18 14:57:49,472          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-18 14:57:49,721          root     INFO: Parsing R7 - Brasil
+2020-11-18 14:57:51,460          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-diz-nao-ser-biruta-de-aeroporto-para-mudar-opiniao-sobre-bolsonaro-para-ganhar-voto.shtml
+2020-11-18 14:57:51,470          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/numero-de-congressistas-eleitos-no-primeiro-turno-cai-60-em-relacao-a-2016.shtml
+2020-11-18 14:57:54,360          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sao-paulo-abstencao-cresce-e-chega-a-29-no-primeiro-turno.shtml
+2020-11-18 14:57:54,364          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/fotografo-dispos-de-poucos-minutos-para-garantir-equilibrio-em-ensaios-com-candidatos.shtml
+2020-11-18 14:57:54,366          root     INFO: Finished script
