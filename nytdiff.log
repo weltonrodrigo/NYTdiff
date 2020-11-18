@@ -1,13 +1,8 @@
-2020-11-18 11:22:58,611          root     INFO: Starting script
-2020-11-18 11:22:59,829          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-18 11:23:00,500          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-18 11:23:01,186          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-18 11:23:01,389          root     INFO: Parsing R7 - Brasil
-2020-11-18 11:23:03,258          root     INFO: <del>Com fim de coligações,</del> Câmaras terão menos partidos em cidades <del>pequenas</del> <ins>pequenas, após 1ª eleição sem coligações para vereador</ins>
-2020-11-18 11:23:05,021          root     INFO: Media ready with ids: 1329022307415826435
-2020-11-18 11:23:05,022          root     INFO: Text to tweet: Modificação do Título
-2020-11-18 11:23:05,023          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-fim-de-coligacoes-camaras-terao-menos-partidos-em-cidades-pequenas.shtml
-2020-11-18 11:23:05,029          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-fim-de-coligacoes-camaras-terao-menos-partidos-em-cidades-pequenas.shtml
-2020-11-18 11:23:05,221          root     INFO: Replying to: 1329022308921602051
-2020-11-18 11:23:05,460          root     INFO: Id to store: 1329022309697527808
-2020-11-18 11:23:08,507          root     INFO: Finished script
+2020-11-18 11:28:04,111          root     INFO: Starting script
+2020-11-18 11:28:04,950          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-18 11:28:05,636          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-18 11:28:06,320          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-18 11:28:06,447          root     INFO: Parsing R7 - Brasil
+2020-11-18 11:28:08,294          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/policiais-e-militares-eleitos-prefeitos-crescem-39-no-brasil.shtml
+2020-11-18 11:28:11,760          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeitos-da-grande-sp-consegue-reeleicao-no-primeiro-turno.shtml
+2020-11-18 11:28:11,761          root     INFO: Finished script
