@@ -1,13 +1,8 @@
-2020-11-19 00:49:48,406          root     INFO: Starting script
-2020-11-19 00:49:49,294          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-19 00:49:49,944          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-19 00:49:50,595          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-19 00:49:50,741          root     INFO: Parsing R7 - Brasil
-2020-11-19 00:49:51,049          root     INFO: Em cima do <del>muro, Guilherme</del> <ins>muro onde muitos estão,</ins> Boulos prefere construir um teto
-2020-11-19 00:49:52,882          root     INFO: Media ready with ids: 1329225344465973250
-2020-11-19 00:49:52,883          root     INFO: Text to tweet: Modificação do Título
-2020-11-19 00:49:52,883          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2020/11/em-cima-do-muro-guilherme-boulos-prefere-construir-um-teto.shtml
-2020-11-19 00:49:52,889          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2020/11/em-cima-do-muro-guilherme-boulos-prefere-construir-um-teto.shtml
-2020-11-19 00:49:53,081          root     INFO: Replying to: 1329225346181435392
-2020-11-19 00:49:53,311          root     INFO: Id to store: 1329225346907049990
-2020-11-19 00:49:57,691          root     INFO: Finished script
+2020-11-19 01:09:15,338          root     INFO: Starting script
+2020-11-19 01:09:16,147          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-19 01:09:16,832          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-19 01:09:17,501          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-19 01:09:17,671          root     INFO: Parsing R7 - Brasil
+2020-11-19 01:09:19,258          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/ministerio-da-saude-diz-que-houve-erro-humano-e-posta-nova-mensagem-sem-recomendar-isolamento.shtml
+2020-11-19 01:09:22,042          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3703
+2020-11-19 01:09:22,043          root     INFO: Finished script
