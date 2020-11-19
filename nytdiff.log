@@ -1,14 +1,8 @@
-2020-11-19 23:27:18,498          root     INFO: Starting script
-2020-11-19 23:27:19,451          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-19 23:27:20,101          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-19 23:27:20,768          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-19 23:27:20,932          root     INFO: Parsing R7 - Brasil
-2020-11-19 23:27:22,889          root     INFO: Diante do risco de uma segunda onda de aumento de casos de infecções e de mortes por Covid-19, os secretários estaduais de saúde reunidos do Conass enviaram carta ao ministro Eduardo Pazuello (Saúde) solicitando a ampliação em R$ 3 bilhões <del>na verba</del> <ins>no repasse de verbas</ins> para o atendimento hospitalar de média e alta complexidade. Leia mais (11/19/2020 - 18h21)
-2020-11-19 23:27:24,843          root     INFO: Media ready with ids: 1329566978437226497
-2020-11-19 23:27:24,843          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-19 23:27:24,843          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/estados-citam-risco-de-segunda-onda-da-covid-19-e-pedem-mais-r-3-bi-ao-ministerio-da-saude.shtml
-2020-11-19 23:27:24,849          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/estados-citam-risco-de-segunda-onda-da-covid-19-e-pedem-mais-r-3-bi-ao-ministerio-da-saude.shtml
-2020-11-19 23:27:25,022          root     INFO: Replying to: 1329566980395982850
-2020-11-19 23:27:25,277          root     INFO: Id to store: 1329566981213839361
-2020-11-19 23:27:26,779          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/superintendente-do-ibama-suspende-multa-de-r-75-milhoes-a-resort-na-bahia.shtml
-2020-11-19 23:27:28,511          root     INFO: Finished script
+2020-11-19 23:46:54,572          root     INFO: Starting script
+2020-11-19 23:46:55,468          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-19 23:46:56,122          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-19 23:46:56,811          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-19 23:46:57,044          root     INFO: Parsing R7 - Brasil
+2020-11-19 23:46:58,710          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/whatsapp-bloqueou-1004-contas-nas-eleicoes-deste-ano-por-disparo-de-mensagens-em-massa.shtml
+2020-11-19 23:47:01,684          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/erika-hilton-quer-ampliar-transcidadania-e-presidir-camara-municipal-em-2021.shtml
+2020-11-19 23:47:01,685          root     INFO: Finished script
