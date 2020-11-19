@@ -1,19 +1,6 @@
-2020-11-19 03:17:12,869          root     INFO: Starting script
-2020-11-19 03:17:14,061          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-19 03:17:14,887          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-19 03:17:15,714          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-19 03:17:16,019          root     INFO: Parsing R7 - Brasil
-2020-11-19 03:17:16,339          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2020/11/troca-de-mensagens-no-grupo-as-jardinders-combina-a-pandemia-gourmet.shtml
-2020-11-19 03:17:17,786          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pf-disse-a-embaixadores-que-nao-ha-relacao-entre-pecuaria-e-desmatamento-na-amazonia.shtml
-2020-11-19 03:17:17,814          root     INFO: <del>Grupos</del> <ins>No discurso, grupos</ins> de Maia e de Lira <del>não se entendem e</del> <ins>falam em</ins> votação do Orçamento <del>deve ir para</del> <ins>no</ins> plenário
-2020-11-19 03:17:19,691          root     INFO: Media ready with ids: 1329262450819133442
-2020-11-19 03:17:19,692          root     INFO: Text to tweet: Modificação do Título
-2020-11-19 03:17:19,692          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/grupos-de-maia-e-de-lira-nao-se-entendem-e-votacao-do-orcamento-deve-ir-para-plenario.shtml
-2020-11-19 03:17:19,700          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/grupos-de-maia-e-de-lira-nao-se-entendem-e-votacao-do-orcamento-deve-ir-para-plenario.shtml
-2020-11-19 03:17:20,034          root     INFO: Replying to: 1329262452937207810
-2020-11-19 03:17:20,316          root     INFO: Id to store: 1329262453922861057
-2020-11-19 03:17:20,345          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2020/11/a-desastrosa-marcha-a-re-do-combate-a-pobreza-e-a-desigualdade.shtml
-2020-11-19 03:17:23,470          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/grupo-apoiado-por-luciano-huck-renovabr-elege-10-prefeitos-e-136-vereadores.shtml
-2020-11-19 03:17:23,474          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/a-vitoria-de-joe-biden-e-uma-boa-noticia-para-o-brasil-nao.shtml
-2020-11-19 03:17:23,478          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entenda-o-atraso-na-divulgacao-do-resultado-da-eleicao-e-as-mudancas-no-processo-do-tse.shtml
-2020-11-19 03:17:23,479          root     INFO: Finished script
+2020-11-19 03:25:14,195          root     INFO: Starting script
+2020-11-19 03:25:15,221          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-19 03:25:16,057          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-19 03:25:16,892          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-19 03:25:17,200          root     INFO: Parsing R7 - Brasil
+2020-11-19 03:25:21,981          root     INFO: Finished script
