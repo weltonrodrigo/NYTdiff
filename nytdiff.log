@@ -1,6 +1,9 @@
-2020-11-19 17:58:02,496          root     INFO: Starting script
-2020-11-19 17:58:03,347          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-19 17:58:04,018          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-19 17:58:04,691          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-19 17:58:05,019          root     INFO: Parsing R7 - Brasil
-2020-11-19 17:58:10,331          root     INFO: Finished script
+2020-11-19 18:20:29,956          root     INFO: Starting script
+2020-11-19 18:20:31,038          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-19 18:20:31,879          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-19 18:20:32,731          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-19 18:20:32,957          root     INFO: Parsing R7 - Brasil
+2020-11-19 18:20:34,849          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10514
+2020-11-19 18:20:36,393          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/mourao-minimiza-fala-de-bolsonaro-e-diz-que-ele-se-referiu-a-empresas-importadoras-de-madeira-ilegal.shtml
+2020-11-19 18:20:38,151          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/milicia-perde-espaco-e-camara-do-rio-ve-crescimento-da-esquerda.shtml
+2020-11-19 18:20:38,152          root     INFO: Finished script
