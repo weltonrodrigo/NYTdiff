@@ -1,6 +1,20 @@
-2020-11-19 10:57:45,452          root     INFO: Starting script
-2020-11-19 10:57:46,318          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-19 10:57:46,968          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-19 10:57:47,621          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-19 10:57:47,829          root     INFO: Parsing R7 - Brasil
-2020-11-19 10:57:52,678          root     INFO: Finished script
+2020-11-19 11:17:30,684          root     INFO: Starting script
+2020-11-19 11:17:31,577          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-19 11:17:32,257          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-19 11:17:32,938          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-19 11:17:33,128          root     INFO: Parsing R7 - Brasil
+2020-11-19 11:17:35,579          root     INFO: Com a maior aliança de partidos na eleição de São Paulo, Bruno Covas (PSDB) teve no primeiro turno quase a metade do tempo destinado aos candidatos na televisão, usado com uma propaganda cara e bem produzida. Viu o rival Guilherme Boulos (PSOL), porém, ser o vencedor na corrida por engajamento na internet. <del>Vitoriosos em cada um dos espaços de comunicação com os eleitores, eles agora tentam, no segundo turno, aparecer onde o adversário reinou até agora na campanha para a Prefeitura de São Paulo. "Imagina uma disputa em que um tem 900 e outro 85 inserções", diz o publicitário Chico Malfitani, responsável pelo programa de TV de Boulos. O veterano em eleições lembra de cabeça a soma do total de comerciais exibidos por cada um dos candidatos no primeiro turno. Responsável por campanhas petistas na década de 1990, de Luiza Erundina e Eduardo Suplicy, ele diz que agora "o jogo será 11 contra 11". A propaganda eleitoral do segundo turno terá oito dias e começa na próxima sexta-feira (20), com divisão de tempo igualitária entre os candidatos. Eles terão 25 inserções de 30 segundos na programação das emissoras de rádio e TV e 5 minutos, cada, nos dois blocos do horário eleitoral. O tempo no primeiro turno da eleição é distribuído tendo como base a representação na Câmara de Deputados de todos os partidos de cada coligação. Enquanto a equipe de Boulos celebra divisão igual no rádio e TV no segundo turno, os tucanos tentam recuperar terreno nas redes sociais.</del> Leia mais (11/18/2020 - 23h15)
+2020-11-19 11:17:40,189          root     INFO: Media ready with ids: 1329383332489154560
+2020-11-19 11:17:40,189          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-19 11:17:40,189          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-quer-falar-com-povao-na-tv-e-covas-tenta-furar-bolha-nas-redes-sociais.shtml
+2020-11-19 11:17:40,196          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-quer-falar-com-povao-na-tv-e-covas-tenta-furar-bolha-nas-redes-sociais.shtml
+2020-11-19 11:17:40,396          root     INFO: Replying to: 1329383334380711938
+2020-11-19 11:17:40,654          root     INFO: Id to store: 1329383335139938304
+2020-11-19 11:17:40,730          root     INFO: <del>Acertos no enfrentamento</del> <ins>Enfrentamento</ins> à pandemia <del>impulsionam</del> <ins>impulsiona</ins> reeleição de prefeitos no ABC Paulista
+2020-11-19 11:17:42,455          root     INFO: Media ready with ids: 1329383342387699713
+2020-11-19 11:17:42,455          root     INFO: Text to tweet: Modificação do Título
+2020-11-19 11:17:42,456          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/acertos-no-enfrentamento-a-pandemia-impulsionam-reeleicao-de-prefeitos-no-abc-paulista.shtml
+2020-11-19 11:17:42,461          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/acertos-no-enfrentamento-a-pandemia-impulsionam-reeleicao-de-prefeitos-no-abc-paulista.shtml
+2020-11-19 11:17:42,643          root     INFO: Replying to: 1329383343813763072
+2020-11-19 11:17:42,877          root     INFO: Id to store: 1329383344568725506
+2020-11-19 11:17:46,560          root     INFO: Finished script
