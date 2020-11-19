@@ -1,13 +1,12 @@
-2020-11-19 02:27:45,685          root     INFO: Starting script
-2020-11-19 02:27:46,889          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-19 02:27:47,546          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-19 02:27:48,203          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-19 02:27:48,428          root     INFO: Parsing R7 - Brasil
-2020-11-19 02:27:50,538          root     INFO: <del>Desconfianças</del> <ins>Desconfiança</ins> de fraudes em urnas repercutiram <del>de forma moderada em</del> <ins>pouco nas</ins> redes sociais
-2020-11-19 02:27:52,299          root     INFO: Media ready with ids: 1329250004800843776
-2020-11-19 02:27:52,300          root     INFO: Text to tweet: Modificação do Título
-2020-11-19 02:27:52,300          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/desconfiancas-de-fraudes-em-urnas-repercutiram-de-forma-moderada-em-redes-sociais.shtml
-2020-11-19 02:27:52,306          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/desconfiancas-de-fraudes-em-urnas-repercutiram-de-forma-moderada-em-redes-sociais.shtml
-2020-11-19 02:27:52,509          root     INFO: Replying to: 1329250006327578624
-2020-11-19 02:27:52,721          root     INFO: Id to store: 1329250006998667264
-2020-11-19 02:27:56,036          root     INFO: Finished script
+2020-11-19 02:46:52,088          root     INFO: Starting script
+2020-11-19 02:46:53,008          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-19 02:46:53,694          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-19 02:46:54,365          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-19 02:46:54,539          root     INFO: Parsing R7 - Brasil
+2020-11-19 02:46:54,861          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josimarmelo/2020/11/cem-opcoes-de-viagem-pos-covid.shtml
+2020-11-19 02:46:54,872          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/solange-srour/2020/11/a-globalizacao-sobreviveu-a-pandemia.shtml
+2020-11-19 02:46:56,150          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/inexistentes-na-lei-candidaturas-e-mandatos-coletivos-serao-debatidos-pelo-tse.shtml
+2020-11-19 02:46:59,073          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pais-tera-2o-turno-em-57-cidades-pt-disputa-em-15-deles-e-psl-foca-interior-de-sp.shtml
+2020-11-19 02:46:59,078          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/a-vitoria-de-joe-biden-e-uma-boa-noticia-para-o-brasil-sim.shtml
+2020-11-19 02:46:59,081          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2020/11/hong-kong-faz-xi-jinping-atacar-o-fantasma-das-fronteiras.shtml
+2020-11-19 02:46:59,082          root     INFO: Finished script
