@@ -1,6 +1,13 @@
-2020-11-19 14:29:10,157          root     INFO: Starting script
-2020-11-19 14:29:10,984          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-19 14:29:11,662          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-19 14:29:12,341          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-19 14:29:12,570          root     INFO: Parsing R7 - Brasil
-2020-11-19 14:29:16,870          root     INFO: Finished script
+2020-11-19 14:46:59,338          root     INFO: Starting script
+2020-11-19 14:47:00,194          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-19 14:47:00,840          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-19 14:47:01,489          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-19 14:47:01,654          root     INFO: Parsing R7 - Brasil
+2020-11-19 14:47:02,150          root     INFO: Joe Biden teve que ceder palco, nesta semana, para o incontestável rock star da política americana. <del>O lançamento do novo livro de memórias de Barack Obama deixou o mundo nostálgico por tanto que foi perdido nos últimos quatro anos: decência, reflexão, maturidade e, não devemos esquecer, domínio da língua.</del> Leia mais (11/18/2020 - 23h15)
+2020-11-19 14:47:05,013          root     INFO: Media ready with ids: 1329436033411321864
+2020-11-19 14:47:05,014          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-19 14:47:05,014          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2020/11/a-moderacao-em-politica-nao-e-um-cheque-em-branco.shtml
+2020-11-19 14:47:05,025          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2020/11/a-moderacao-em-politica-nao-e-um-cheque-em-branco.shtml
+2020-11-19 14:47:05,228          root     INFO: Replying to: 1329436035063877633
+2020-11-19 14:47:05,495          root     INFO: Id to store: 1329436035902746628
+2020-11-19 14:47:09,461          root     INFO: Finished script
