@@ -1,13 +1,7 @@
-2020-11-20 18:30:01,569          root     INFO: Starting script
-2020-11-20 18:30:02,446          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 18:30:03,097          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 18:30:03,745          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 18:30:03,972          root     INFO: Parsing R7 - Brasil
-2020-11-20 18:30:05,755          root     INFO: Ainda no período do Brasil Colônia, locais que concentravam polos da compra e venda de pessoas escravizadas, como Rio de Janeiro, Salvador e Recife, ou regiões para onde foi levada a grande maioria dos escravizados, como Ouro Preto (MG), tiveram as primeiras formas que se tem registro de associações organizadas da população negra no <del>país.??</del> <ins>país.</ins> As irmandades católicas, como a Nossa Senhora do Rosário dos Homens Pretos, a mais conhecida, tinham então um duplo sentido de evangelizar essa população, ao mesmo tempo em que serviam para criar uma identidade racial, ser o ponto de sociabilidade e resistência, já que muitas vezes os membros se organizavam para comprar alforrias. <del>??</del> O chamado associativismo negro no Brasil, organizações com o objetivo de satisfazer necessidades sociais, econômicas e culturais desse segmento, atuando dentro das regras permitidas por cada época, surge ali, mas se permeia por décadas, afirma o historiador e professor da Universidade Federal de Sergipe, Petrônio Domingues. <del>??</del> Leia mais (11/20/2020 - 15h04)
-2020-11-20 18:30:07,941          root     INFO: Media ready with ids: 1329854552577814530
-2020-11-20 18:30:07,941          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-20 18:30:07,941          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/articulado-antes-da-abolicao-associativismo-negro-cresceu-como-reacao-ao-racismo-e-forma-de-afirmacao.shtml
-2020-11-20 18:30:07,948          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/articulado-antes-da-abolicao-associativismo-negro-cresceu-como-reacao-ao-racismo-e-forma-de-afirmacao.shtml
-2020-11-20 18:30:08,136          root     INFO: Replying to: 1329854554909839360
-2020-11-20 18:30:08,366          root     INFO: Id to store: 1329854555618758657
-2020-11-20 18:30:11,436          root     INFO: Finished script
+2020-11-20 18:46:57,510          root     INFO: Starting script
+2020-11-20 18:46:58,313          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 18:46:58,965          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 18:46:59,610          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 18:46:59,820          root     INFO: Parsing R7 - Brasil
+2020-11-20 18:47:02,888          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://f5.folha.uol.com.br/voceviu/2020/11/mandar-menos-e-mails-pode-ajudar-a-salvar-o-planeta.shtml
+2020-11-20 18:47:04,439          root     INFO: Finished script
