@@ -1,6 +1,8 @@
-2020-11-20 10:28:24,574          root     INFO: Starting script
-2020-11-20 10:28:25,471          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 10:28:26,143          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 10:28:26,813          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 10:28:26,968          root     INFO: Parsing R7 - Brasil
-2020-11-20 10:28:31,676          root     INFO: Finished script
+2020-11-20 10:46:54,486          root     INFO: Starting script
+2020-11-20 10:46:55,393          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 10:46:56,047          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 10:46:56,709          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 10:46:57,037          root     INFO: Parsing R7 - Brasil
+2020-11-20 10:46:58,846          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3715
+2020-11-20 10:47:02,120          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pf-faz-busca-contra-bolsonarista-apos-descumprimento-de-decisao-de-alexandre-de-moraes-do-stf.shtml
+2020-11-20 10:47:02,122          root     INFO: Finished script
