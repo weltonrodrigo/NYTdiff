@@ -1,8 +1,15 @@
-2020-11-20 15:58:19,359          root     INFO: Starting script
-2020-11-20 15:58:20,201          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 15:58:20,890          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 15:58:21,564          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 15:58:21,778          root     INFO: Parsing R7 - Brasil
-2020-11-20 15:58:21,998          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2020/11/maquina-de-passar-roupa-e-essencial-a-religiao-diz-igreja-para-fugir-de-imposto.shtml
-2020-11-20 15:58:26,806          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/por-que-as-democracias-nao-crescem.shtml
-2020-11-20 15:58:26,808          root     INFO: Finished script
+2020-11-20 16:30:57,051          root     INFO: Starting script
+2020-11-20 16:30:58,104          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 16:30:58,956          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 16:30:59,810          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 16:31:00,096          root     INFO: Parsing R7 - Brasil
+2020-11-20 16:31:00,423          root     INFO: <del>om</del> <ins>Com</ins> o objetivo de evitar a cobrança de imposto, a associação das Testemunhas de Jeová disse à Justiça que uma máquina de passar roupa, importada da Europa, é um "bem essencial" para a sua finalidade religiosa. Leia mais (11/20/2020 - 12h49)
+2020-11-20 16:31:02,297          root     INFO: Media ready with ids: 1329824582296014848
+2020-11-20 16:31:02,297          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-20 16:31:02,297          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2020/11/maquina-de-passar-roupa-e-essencial-a-religiao-diz-igreja-para-fugir-de-imposto.shtml
+2020-11-20 16:31:02,302          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2020/11/maquina-de-passar-roupa-e-essencial-a-religiao-diz-igreja-para-fugir-de-imposto.shtml
+2020-11-20 16:31:02,556          root     INFO: Replying to: 1329824584141516802
+2020-11-20 16:31:02,852          root     INFO: Id to store: 1329824585139826689
+2020-11-20 16:31:04,470          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405396
+2020-11-20 16:31:07,922          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/moraes-do-stf-ve-fatos-gravissimos-e-diz-que-blogueiro-bolsonarista-afronta-judiciario.shtml
+2020-11-20 16:31:07,923          root     INFO: Finished script
