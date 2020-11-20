@@ -1,6 +1,19 @@
-2020-11-20 13:57:48,599          root     INFO: Starting script
-2020-11-20 13:57:49,436          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 13:57:50,095          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 13:57:50,764          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 13:57:50,955          root     INFO: Parsing R7 - Brasil
-2020-11-20 13:57:56,487          root     INFO: Finished script
+2020-11-20 14:21:13,132          root     INFO: Starting script
+2020-11-20 14:21:13,943          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 14:21:14,595          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 14:21:15,250          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 14:21:15,439          root     INFO: Parsing R7 - Brasil
+2020-11-20 14:21:15,822          root     INFO: Futebol brasileiro <del>é fonte de</del> <ins>produz</ins> histórias inusitadas, mas algumas deveriam ser evitadas
+2020-11-20 14:21:17,538          root     INFO: Media ready with ids: 1329791930675433476
+2020-11-20 14:21:17,538          root     INFO: Text to tweet: Modificação do Título
+2020-11-20 14:21:17,538          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/11/futebol-brasileiro-e-fonte-de-historias-inusitadas-mas-algumas-deveriam-ser-evitadas.shtml
+2020-11-20 14:21:17,545          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/11/futebol-brasileiro-e-fonte-de-historias-inusitadas-mas-algumas-deveriam-ser-evitadas.shtml
+2020-11-20 14:21:17,716          root     INFO: Replying to: 1329791932193771521
+2020-11-20 14:21:17,974          root     INFO: Id to store: 1329791933082963969
+2020-11-20 14:21:18,077          root     INFO: A conclusão do maior acordo de livre-comércio da história fez notícia nos últimos dias. O arranjo inclui China, Japão e Coreia do Sul <del>-além</del> <ins>—além</ins> de Austrália, Indonésia, Nova Zelândia, Malásia, <del>Vietnã</del> <ins>Vietnã,</ins> entre outros. <del>Batizado de Parceria Regional Econômica Abrangente (RCEP na sigla em inglês), o acordo cobre quase um terço do PIB e da população mundial.</del> Leia mais (11/19/2020 - 23h15)
+2020-11-20 14:21:19,842          root     INFO: Media ready with ids: 1329791940200632322
+2020-11-20 14:21:19,843          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-20 14:21:19,843          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2020/11/que-diferenca-faz-o-mega-acordo-comercial-da-asia.shtml
+2020-11-20 14:21:19,848          root     INFO: Replying to: 1329768461006991360
+2020-11-20 14:21:20,160          root     INFO: Id to store: 1329791941962305536
+2020-11-20 14:21:23,897          root     INFO: Finished script
