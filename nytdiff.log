@@ -1,13 +1,12 @@
-2020-11-20 02:47:00,809          root     INFO: Starting script
-2020-11-20 02:47:01,697          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 02:47:02,346          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 02:47:02,994          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 02:47:03,201          root     INFO: Parsing R7 - Brasil
-2020-11-20 02:47:04,958          root     INFO: Retirada da lista de personalidades históricas da Fundação Palmares, Leci Brandão (PC do <del>B)</del> <ins>B), 76,</ins> diz que Sérgio Camargo -presidente do órgão e cujo nome ela não pronuncia- foi escolhido por ser um alienado. <del>"Quer aparecer, está sempre procurando uma forma de humilhar, desmerecer. Quer desmontar toda uma história". Sobre Camargo ter decidido não celebrar o Dia da Consciência Negra</del> <ins>O nome dela foi excluído</ins> em <del>2020, a deputada estadual e sambista afirma se tratar</del> <ins>movimento que também tirou os</ins> de <del>um imbecil.</del> <ins>Martinho da Vila, Gilberto Gil, Milton Nascimento, e outras figuras de contribuições importantes para a cultura nacional.</ins> Leia mais (11/19/2020 - 23h16)
-2020-11-20 02:47:06,890          root     INFO: Media ready with ids: 1329617234885570561
-2020-11-20 02:47:06,891          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-20 02:47:06,891          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/excluida-da-lista-de-personalidades-da-fundacao-palmares-leci-brandao-diz-que-sergio-camargo-e-um-imbecil.shtml
-2020-11-20 02:47:06,899          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/excluida-da-lista-de-personalidades-da-fundacao-palmares-leci-brandao-diz-que-sergio-camargo-e-um-imbecil.shtml
-2020-11-20 02:47:07,084          root     INFO: Replying to: 1329617236810756096
-2020-11-20 02:47:07,311          root     INFO: Id to store: 1329617237490208768
-2020-11-20 02:47:10,378          root     INFO: Finished script
+2020-11-20 02:57:47,751          root     INFO: Starting script
+2020-11-20 02:57:48,961          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 02:57:49,650          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 02:57:50,318          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 02:57:50,571          root     INFO: Parsing R7 - Brasil
+2020-11-20 02:57:52,337          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/debate-entre-boulos-e-covas-tem-discussao-sobre-covid-19-haddad-e-vice-do-tucano.shtml
+2020-11-20 02:57:55,227          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sanciona-projetos-que-abrem-credito-de-r-41-bilhoes-19112020
+2020-11-20 02:57:55,236          root     INFO: New article tracked: http://noticias.r7.com/brasil/no-recife-marilia-esta-com-55-e-campos-45-diz-pesquisa-19112020
+2020-11-20 02:57:55,253          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-esta-confiante-na-aprovacao-da-ldo-ainda-em-2020-19112020
+2020-11-20 02:57:55,262          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-recebe-alcolumbre-para-discutir-calamidade-no-amapa-19112020
+2020-11-20 02:57:55,505          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vao-ter-que-aprender-a-conviver-comigo-diz-primeira-mulher-negra-eleita-vereadora-em-curitiba.shtml
+2020-11-20 02:57:55,506          root     INFO: Finished script
