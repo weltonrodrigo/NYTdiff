@@ -1,6 +1,29 @@
-2020-11-20 21:57:52,360          root     INFO: Starting script
-2020-11-20 21:57:53,205          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 21:57:53,891          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 21:57:54,578          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 21:57:54,780          root     INFO: Parsing R7 - Brasil
-2020-11-20 21:57:59,961          root     INFO: Finished script
+2020-11-20 22:21:58,003          root     INFO: Starting script
+2020-11-20 22:21:58,979          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 22:21:59,630          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 22:22:00,293          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 22:22:00,580          root     INFO: Parsing R7 - Brasil
+2020-11-20 22:22:04,611          root     INFO: New article tracked: http://noticias.r7.com/brasil/tse-desmente-boato-sobre-anulacao-do-1-turno-das-eleicoes-20112020
+2020-11-20 22:22:04,622          root     INFO: New article tracked: http://noticias.r7.com/brasil/convenio-agiliza-emissao-de-certidoes-no-exterior-20112020
+2020-11-20 22:22:04,630          root     INFO: New article tracked: http://noticias.r7.com/brasil/empresarios-relatam-dificuldades-causadas-pelo-apagao-no-amapa-20112020
+2020-11-20 22:22:04,637          root     INFO: New article tracked: http://noticias.r7.com/brasil/uniao-repassou-r-17-bi-a-estatais-para-cobertura-de-despesas-em-2019-20112020
+2020-11-20 22:22:04,645          root     INFO: New article tracked: http://noticias.r7.com/brasil/alcolumbre-prorroga-mp-que-libera-r-25-bi-para-vacinas-contra-covid-20112020
+2020-11-20 22:22:04,652          root     INFO: New article tracked: http://noticias.r7.com/brasil/negros-sao-79-das-vitimas-de-mortes-causadas-por-acoes-policiais-20112020
+2020-11-20 22:22:04,659          root     INFO: New article tracked: http://noticias.r7.com/brasil/dia-da-consciencia-negra-e-tema-da-live-jr-desta-sexta-feira-20-20112020
+2020-11-20 22:22:04,667          root     INFO: New article tracked: http://noticias.r7.com/brasil/indignacao-e-revolta-diz-damares-sobre-homem-morto-por-surra-no-rs-20112020
+2020-11-20 22:22:04,674          root     INFO: New article tracked: http://noticias.r7.com/brasil/aneel-autoriza-contratacao-de-duas-termeletricas-para-o-amapa-20112020
+2020-11-20 22:22:04,681          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-diminuir-a-masculinidade-toxica-e-diminuir-a-masculinidade-20112020
+2020-11-20 22:22:04,689          root     INFO: New article tracked: http://noticias.r7.com/brasil/rs-mulher-da-vitima-viu-tudo-diz-testemunha-de-espancamento-20112020
+2020-11-20 22:22:04,696          root     INFO: New article tracked: http://noticias.r7.com/brasil/asia-recebeu-38-dos-recursos-climaticos-diz-pesquisa-20112020
+2020-11-20 22:22:04,704          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-bento-albuquerque-aciona-gerador-de-energia-no-amapa-20112020
+2020-11-20 22:22:04,712          root     INFO: New article tracked: http://noticias.r7.com/brasil/logico-que-governo-tem-culpa-diz-mourao-sobre-desmatamento-ilegal-20112020
+2020-11-20 22:22:04,722          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-brasilia-bolsonaro-abraca-aniversariante-nesta-sexta-20112020
+2020-11-20 22:22:04,729          root     INFO: New article tracked: http://noticias.r7.com/brasil/negro-e-morto-por-seguranca-e-pm-em-supermercado-de-porto-alegre-20112020
+2020-11-20 22:22:04,755          root     INFO: <del>Do</del> <ins>Márcio Pinho, do</ins> R7
+2020-11-20 22:22:07,580          root     INFO: Media ready with ids: 1329912936584925184
+2020-11-20 22:22:07,581          root     INFO: Text to tweet: Modificação do autor
+2020-11-20 22:22:07,581          root     INFO: Article id: http://noticias.r7.com/brasil/equidade-combate-mercado-fechado-a-negros-diz-procuradora-20112020
+2020-11-20 22:22:07,589          root     INFO: Tweeting url: http://noticias.r7.com/brasil/equidade-combate-mercado-fechado-a-negros-diz-procuradora-20112020
+2020-11-20 22:22:07,806          root     INFO: Replying to: 1329912938279428096
+2020-11-20 22:22:08,085          root     INFO: Id to store: 1329912939059482628
+2020-11-20 22:22:08,160          root     INFO: Finished script
