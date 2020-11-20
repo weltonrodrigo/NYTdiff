@@ -1,16 +1,9 @@
-2020-11-20 06:31:39,470          root     INFO: Starting script
-2020-11-20 06:31:40,600          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 06:31:41,438          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 06:31:42,279          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 06:31:42,471          root     INFO: Parsing R7 - Brasil
-2020-11-20 06:31:44,192          root     INFO: Na noite desta quinta-feira (19), os dois candidatos que passaram para o segundo turno nas eleições de 2020 em São Paulo, Bruno Covas (PSDB) e Guilherme Boulos (PSOL), participaram de debate na TV Band. <ins>O atual prefeito de São Paulo e o coordenador do Movimento dos Trabalhadores Sem Teto (MTST) foram os dois candidatos mais votados no primeiro turno, realizado no último domingo (15), com respectivamente 32,85% e 20,24% dos votos válidos. A Lupa checou algumas das declarações dos dois candidatos, confira:</ins> Leia mais (11/20/2020 - 00h50)
-2020-11-20 06:31:46,059          root     INFO: Media ready with ids: 1329673770903232516
-2020-11-20 06:31:46,060          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-20 06:31:46,060          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/veja-erros-acertos-e-exageros-de-covas-e-boulos-no-debate-da-band-em-sp.shtml
-2020-11-20 06:31:46,066          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/veja-erros-acertos-e-exageros-de-covas-e-boulos-no-debate-da-band-em-sp.shtml
-2020-11-20 06:31:46,315          root     INFO: Replying to: 1329673772765474816
-2020-11-20 06:31:46,608          root     INFO: Id to store: 1329673773725970432
-2020-11-20 06:31:49,262          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-recua-e-nao-vai-acusar-paises-de-importar-madeira-ilegal-19112020
-2020-11-20 06:31:49,270          root     INFO: New article tracked: http://noticias.r7.com/brasil/amapa-senado-aprova-pl-para-compensar-cidadaos-pelo-apagao-19112020
-2020-11-20 06:31:49,277          root     INFO: New article tracked: http://noticias.r7.com/brasil/expectativa-e-que-bolsonaro-visite-amapa-no-sabado-diz-senado-19112020
-2020-11-20 06:31:49,511          root     INFO: Finished script
+2020-11-20 06:46:47,751          root     INFO: Starting script
+2020-11-20 06:46:48,607          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 06:46:49,266          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 06:46:49,919          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 06:46:50,196          root     INFO: Parsing R7 - Brasil
+2020-11-20 06:46:55,237          root     INFO: Removed http://noticias.r7.com/brasil/expectativa-e-que-bolsonaro-visite-amapa-no-sabado-diz-senado-19112020
+2020-11-20 06:46:55,243          root     INFO: Removed http://noticias.r7.com/brasil/amapa-senado-aprova-pl-para-compensar-cidadaos-pelo-apagao-19112020
+2020-11-20 06:46:55,246          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-recua-e-nao-vai-acusar-paises-de-importar-madeira-ilegal-19112020
+2020-11-20 06:46:55,247          root     INFO: Finished script
