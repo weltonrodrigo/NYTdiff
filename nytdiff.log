@@ -1,8 +1,9 @@
-2020-11-20 09:57:55,411          root     INFO: Starting script
-2020-11-20 09:57:56,246          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 09:57:56,911          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 09:57:57,579          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 09:57:57,769          root     INFO: Parsing R7 - Brasil
-2020-11-20 09:58:01,952          root     INFO: Removed http://noticias.r7.com/brasil/equidade-combate-mercado-fechado-a-negros-diz-procuradora-20112020
-2020-11-20 09:58:01,956          root     INFO: Removed http://noticias.r7.com/brasil/doacao-de-orgaos-diminui-no-brasil-durante-a-pandemia-de-covid-19-19112020
-2020-11-20 09:58:01,957          root     INFO: Finished script
+2020-11-20 10:21:29,570          root     INFO: Starting script
+2020-11-20 10:21:30,673          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 10:21:31,501          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 10:21:32,334          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 10:21:32,642          root     INFO: Parsing R7 - Brasil
+2020-11-20 10:21:32,918          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2020/11/aviso.shtml
+2020-11-20 10:21:35,883          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://ambiencia.blogfolha.uol.com.br/?p=866
+2020-11-20 10:21:37,645          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2020/11/acelerando-para-o-precipicio.shtml
+2020-11-20 10:21:37,645          root     INFO: Finished script
