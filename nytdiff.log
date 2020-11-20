@@ -1,8 +1,13 @@
-2020-11-20 11:17:31,059          root     INFO: Starting script
-2020-11-20 11:17:31,866          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 11:17:32,520          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 11:17:33,173          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 11:17:33,358          root     INFO: Parsing R7 - Brasil
-2020-11-20 11:17:33,653          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2020/11/em-o-gambito-da-rainha-coquetel-se-destaca-como-peca-chave.shtml
-2020-11-20 11:17:38,365          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilene-felinto/2020/11/psicologia-de-eleicao.shtml
-2020-11-20 11:17:38,365          root     INFO: Finished script
+2020-11-20 11:26:46,572          root     INFO: Starting script
+2020-11-20 11:26:47,370          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 11:26:48,018          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 11:26:48,668          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 11:26:48,958          root     INFO: Parsing R7 - Brasil
+2020-11-20 11:26:50,942          root     INFO: Tão logo foi definido o segundo turno, apoiadores dos candidatos que avançaram na disputa em São Paulo subiram o tom e intensificaram ataques nas redes sociais. <del>Na curta campanha da reta final, os embates na internet são feitos com mais humor e uso de memes e, aparentemente, com menos notícias falsas do que no pleito de 2018.</del> Leia mais (11/19/2020 - 23h15)
+2020-11-20 11:26:53,602          root     INFO: Media ready with ids: 1329748041734254594
+2020-11-20 11:26:53,603          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-20 11:26:53,603          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-ataques-e-humor-debate-digital-esquenta-em-sp-e-acende-alerta-para-fake-news.shtml
+2020-11-20 11:26:53,611          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-ataques-e-humor-debate-digital-esquenta-em-sp-e-acende-alerta-para-fake-news.shtml
+2020-11-20 11:26:56,346          root     INFO: Replying to: 1329748054078054402
+2020-11-20 11:26:56,626          root     INFO: Id to store: 1329748054883381248
+2020-11-20 11:26:59,582          root     INFO: Finished script
