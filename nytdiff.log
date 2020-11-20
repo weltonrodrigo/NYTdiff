@@ -1,13 +1,32 @@
-2020-11-20 00:50:20,338          root     INFO: Starting script
-2020-11-20 00:50:21,731          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 00:50:22,575          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 00:50:23,410          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 00:50:23,637          root     INFO: Parsing R7 - Brasil
-2020-11-20 00:50:25,503          root     INFO: Um modelo sugerido por Guilherme Boulos (PSOL), candidato à Prefeitura de São Paulo, para equilibrar o déficit da previdência paulistana recebeu críticas de apoiadores e oponentes, foi ironizado e transformado em meme e levou o psolista a uma retratação em vídeo na quarta-feira (19). Em sabatina ao jornal O Estado de <del>S.Paulo,</del> <ins>S. Paulo,</ins> Boulos estabeleceu uma relação de causalidade ao dizer que a previdência do serviço público é deficitária porque não se faz concurso. Para equilibrá-la, sugeriu mais contribuição, ou seja, novas contratações pelo Estado. "Então você tem mais gente se aposentando, virando inativo para receber na previdência e, como não se faz concurso, você tem menos gente contribuindo para a previdência pública", afirmou, deixando claro que fazer concurso é uma forma de arrecadar mais para a previdência. Leia mais (11/19/2020 - 20h43)
-2020-11-20 00:50:28,799          root     INFO: Media ready with ids: 1329587882412158977
-2020-11-20 00:50:28,800          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-20 00:50:28,800          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/economistas-incluindo-aliada-criticam-boulos-por-ideia-para-sanar-deficit-na-previdencia.shtml
-2020-11-20 00:50:28,805          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/economistas-incluindo-aliada-criticam-boulos-por-ideia-para-sanar-deficit-na-previdencia.shtml
-2020-11-20 00:50:29,042          root     INFO: Replying to: 1329587884828090372
-2020-11-20 00:50:29,342          root     INFO: Id to store: 1329587885843116043
-2020-11-20 00:50:32,585          root     INFO: Finished script
+2020-11-20 01:11:31,894          root     INFO: Starting script
+2020-11-20 01:11:32,763          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 01:11:33,446          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 01:11:34,120          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 01:11:34,319          root     INFO: Parsing R7 - Brasil
+2020-11-20 01:11:36,329          root     INFO: Bolsonaro manda mensagem de WhatsApp a aliados em que <del>estoca</del> <ins>dá estocada em</ins> candidatura de Covas em SP
+2020-11-20 01:11:38,252          root     INFO: Media ready with ids: 1329593207429197828
+2020-11-20 01:11:38,252          root     INFO: Text to tweet: Modificação do Título
+2020-11-20 01:11:38,253          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaro-manda-mensagem-de-whatsapp-a-aliados-em-que-estoca-candidatura-de-covas-em-sp.shtml
+2020-11-20 01:11:38,259          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaro-manda-mensagem-de-whatsapp-a-aliados-em-que-estoca-candidatura-de-covas-em-sp.shtml
+2020-11-20 01:11:38,431          root     INFO: Replying to: 1329593209069182976
+2020-11-20 01:11:38,661          root     INFO: Id to store: 1329593209803190274
+2020-11-20 01:11:40,313          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/bolsonaro-recua-em-discurso-e-evita-criminalizar-paises-por-compra-ilegal-de-madeira.shtml
+2020-11-20 01:11:41,864          root     INFO: New article tracked: http://noticias.r7.com/brasil/aras-diz-que-vai-apurar-reuniao-da-abin-com-defesa-de-flavio-19112020
+2020-11-20 01:11:41,875          root     INFO: New article tracked: http://noticias.r7.com/brasil/segunda-onda-de-covid-as-cidades-e-regioes-do-brasil-que-puxam-o-aumento-da-doenca-19112020
+2020-11-20 01:11:41,886          root     INFO: New article tracked: http://noticias.r7.com/brasil/maia-vai-ao-ceara-e-se-reune-com-ciro-gomes-e-camilo-santana-19112020
+2020-11-20 01:11:41,894          root     INFO: New article tracked: http://noticias.r7.com/brasil/whatsapp-bloqueia-mais-de-1000-contas-por-disparos-em-massa-19112020
+2020-11-20 01:11:41,904          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-pede-explicacoes-a-bolsonaro-sobre-nomeacao-de-reitores-19112020
+2020-11-20 01:11:41,914          root     INFO: New article tracked: http://noticias.r7.com/brasil/surto-de-covid-obriga-desembarque-de-empregados-da-petrobras-da-p-69-19112020
+2020-11-20 01:11:41,925          root     INFO: New article tracked: http://noticias.r7.com/brasil/decisao-da-justica-e-necessaria-para-ressarcir-amapaenses-diz-randolfe-19112020
+2020-11-20 01:11:41,933          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/randolfe-fala-sobre-justica-afastar-diretoria-da-aneel-19112020
+2020-11-20 01:11:41,949          root     INFO: New article tracked: http://noticias.r7.com/brasil/bc-registra-52-mi-de-transacoes-em-3-dias-de-funcionamento-do-pix-19112020
+2020-11-20 01:11:41,958          root     INFO: New article tracked: http://noticias.r7.com/brasil/apagao-no-ap-justica-determina-afastamento-da-diretoria-da-aneel-19112020
+2020-11-20 01:11:41,969          root     INFO: New article tracked: http://noticias.r7.com/brasil/disputa-politica-trava-trabalhos-na-camara-dos-deputados-entenda-19112020
+2020-11-20 01:11:41,979          root     INFO: New article tracked: http://noticias.r7.com/brasil/dia-da-consciencia-negra-quem-foi-luiz-gama-figura-chave-no-movimento-abolicionista-brasileiro-19112020
+2020-11-20 01:11:41,989          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-e-ministros-participam-de-hasteamento-no-dia-da-bandeira-19112020
+2020-11-20 01:11:42,002          root     INFO: New article tracked: http://noticias.r7.com/brasil/lider-do-podemos-e-relator-de-mp-que-altera-regras-do-setor-eletrico-19112020
+2020-11-20 01:11:42,011          root     INFO: New article tracked: http://noticias.r7.com/brasil/economia-cresceu-75-do-segundo-para-o-terceiro-trimestre-diz-fgv-19112020
+2020-11-20 01:11:42,021          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-eleicoes-em-macapa-dia-6-evitam-periodo-ingrato-de-festas-19112020
+2020-11-20 01:11:42,031          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-recebe-ministros-para-conselho-de-governo-nesta-quinta-19112020
+2020-11-20 01:11:42,041          root     INFO: New article tracked: http://noticias.r7.com/brasil/indicadores-de-servicos-publicos-poderao-ser-baixados-na-internet-19112020
+2020-11-20 01:11:42,085          root     INFO: Finished script
