@@ -1,6 +1,25 @@
-2020-11-20 01:46:39,989          root     INFO: Starting script
-2020-11-20 01:46:40,779          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 01:46:41,419          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 01:46:42,060          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 01:46:42,390          root     INFO: Parsing R7 - Brasil
-2020-11-20 01:46:46,275          root     INFO: Finished script
+2020-11-20 01:57:42,543          root     INFO: Starting script
+2020-11-20 01:57:43,370          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-20 01:57:44,044          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-20 01:57:44,731          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-20 01:57:44,930          root     INFO: Parsing R7 - Brasil
+2020-11-20 01:57:46,776          root     INFO: Um modelo sugerido por Guilherme Boulos (PSOL), candidato à Prefeitura de São Paulo, para equilibrar o déficit da previdência paulistana recebeu críticas de apoiadores e oponentes, foi ironizado e transformado em meme e levou o psolista a uma retratação em vídeo na quarta-feira (19). Em sabatina ao jornal O Estado de <del>S.Paulo,</del> <ins>S. Paulo,</ins> Boulos estabeleceu uma relação de causalidade ao dizer que a previdência do serviço público é deficitária porque não se faz concurso. Para equilibrá-la, sugeriu mais contribuição, ou seja, novas contratações pelo Estado. <del>"Então</del> <ins>“Então</ins> você tem mais gente se aposentando, virando inativo para receber na previdência e, como não se faz concurso, você tem menos gente contribuindo para a previdência pública", afirmou, deixando claro que fazer concurso é uma forma de arrecadar mais para a previdência. Leia mais (11/19/2020 - 20h43)
+2020-11-20 01:57:48,953          root     INFO: Media ready with ids: 1329604828067196928
+2020-11-20 01:57:48,954          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-20 01:57:48,954          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/economistas-incluindo-aliada-criticam-boulos-por-ideia-para-sanar-deficit-na-previdencia.shtml
+2020-11-20 01:57:48,963          root     INFO: Replying to: 1329587885843116043
+2020-11-20 01:57:49,222          root     INFO: Id to store: 1329604830365691906
+2020-11-20 01:57:49,288          root     INFO: Polícia <del>faz</del> <ins>de SP diz que fez</ins> operação em ocupação <del>Nova Palestina</del> do <del>MTST e diz ter encontrado 'biqueira'</del> <ins>MTST; movimento acusa uso político</ins>
+2020-11-20 01:57:50,933          root     INFO: Media ready with ids: 1329604837214998529
+2020-11-20 01:57:50,934          root     INFO: Text to tweet: Modificação do Título
+2020-11-20 01:57:50,934          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/policia-faz-operacao-em-ocupacao-nova-palestina-do-mtst-e-diz-ter-encontrado-biqueira.shtml
+2020-11-20 01:57:50,941          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/policia-faz-operacao-em-ocupacao-nova-palestina-do-mtst-e-diz-ter-encontrado-biqueira.shtml
+2020-11-20 01:57:51,111          root     INFO: Replying to: 1329604838557179909
+2020-11-20 01:57:51,330          root     INFO: Id to store: 1329604839228256260
+2020-11-20 01:57:51,342          root     INFO: <ins>Uma operação da Polícia Civil no extremo sul de São Paulo virou motivo de disputa entre as candidaturas de Bruno Covas (PSDB) e de Guilherme Boulos (PSOL).</ins> A Polícia Civil de São Paulo <del>fez uma operação</del> <ins>prendeu em flagrante</ins> nesta quinta-feira (19) <ins>um homem que traficava drogas na zona sul, e diz que ele estava</ins> em <del>uma</del> área <del>de ocupação</del> <ins>ocupada</ins> pelo MTST chamada Vila Nova <del>Palestina, localizada no extremo sul da capital paulista, onde prendeu em flagrante um homem por tráfico de drogas.</del> <ins>Palestina.</ins> Leia mais (11/19/2020 - 19h14)
+2020-11-20 01:57:53,136          root     INFO: Media ready with ids: 1329604846144675842
+2020-11-20 01:57:53,137          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-20 01:57:53,137          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/policia-faz-operacao-em-ocupacao-nova-palestina-do-mtst-e-diz-ter-encontrado-biqueira.shtml
+2020-11-20 01:57:53,144          root     INFO: Replying to: 1329604839228256260
+2020-11-20 01:57:53,352          root     INFO: Id to store: 1329604847734312961
+2020-11-20 01:57:56,520          root     INFO: Finished script
