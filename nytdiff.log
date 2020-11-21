@@ -1,25 +1,8 @@
-2020-11-20 23:58:38,085          root     INFO: Starting script
-2020-11-20 23:58:38,900          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-20 23:58:39,570          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-20 23:58:40,232          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-20 23:58:40,419          root     INFO: Parsing R7 - Brasil
-2020-11-20 23:58:42,248          root     INFO: Após <del>'Erundinamóvel',</del> <ins>'Erundinamóvel' de Boulos, campanha de Covas cria 'Martamóvel' para</ins> Marta Suplicy <del>sai em campanha para Covas no 'Martamóvel'</del>
-2020-11-20 23:58:43,963          root     INFO: Media ready with ids: 1329937248318590983
-2020-11-20 23:58:43,964          root     INFO: Text to tweet: Modificação do Título
-2020-11-20 23:58:43,964          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405406
-2020-11-20 23:58:43,975          root     INFO: Replying to: 1329934562093379588
-2020-11-20 23:58:44,208          root     INFO: Id to store: 1329937249878892544
-2020-11-20 23:58:44,214          root     INFO: A ex-prefeita de São Paulo Marta Suplicy vai sair em campanha para o candidato Bruno Covas (PSDB) dentro do 'Martamóvel' neste sábado (21). <del>Aos 75 anos, Marta é considerada grupo de risco na pandemia de coronavírus, e recebeu do PSDB um pequeno caminhão adaptado com parede de acrílico para fazer acompanhar o candidato na periferia, onde sua popularidade é alta.</del> Leia mais (11/20/2020 - 20h19)
-2020-11-20 23:58:45,919          root     INFO: Media ready with ids: 1329937256560422916
-2020-11-20 23:58:45,919          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-20 23:58:45,920          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405406
-2020-11-20 23:58:45,927          root     INFO: Replying to: 1329937249878892544
-2020-11-20 23:58:46,171          root     INFO: Id to store: 1329937258028421122
-2020-11-20 23:58:46,208          root     INFO: Deputados do PSB lançaram um manifesto em apoio à candidatura de Guilherme Boulos (PSOL) no segundo turno em São Paulo, disputado contra Bruno Covas (PSDB). No texto, eles <del>alfinetam o</del> <ins>marcam posição, com uma cutucada em relação ao</ins> ex-governador Márcio França (PSB), candidato pelo partido que decidiu não tomar lado entre o líder sem teto e o tucano. Leia mais (11/20/2020 - 20h00)
-2020-11-20 23:58:48,004          root     INFO: Media ready with ids: 1329937265200652288
-2020-11-20 23:58:48,005          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-20 23:58:48,005          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/deputados-do-psb-apoiam-boulos-e-cutucam-franca-ao-falar-em-enxergar-floresta-e-nao-so-uma-arvore.shtml
-2020-11-20 23:58:48,014          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/deputados-do-psb-apoiam-boulos-e-cutucam-franca-ao-falar-em-enxergar-floresta-e-nao-so-uma-arvore.shtml
-2020-11-20 23:58:48,181          root     INFO: Replying to: 1329937266794524675
-2020-11-20 23:58:48,429          root     INFO: Id to store: 1329937267608203265
-2020-11-20 23:58:51,597          root     INFO: Finished script
+2020-11-21 00:50:12,433          root     INFO: Starting script
+2020-11-21 00:50:13,272          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-21 00:50:13,948          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-21 00:50:14,625          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-21 00:50:14,820          root     INFO: Parsing R7 - Brasil
+2020-11-21 00:50:16,674          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48572
+2020-11-21 00:50:19,926          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-liga-para-boulos-e-pede-desculpas-apos-ataques-de-aliado-tucano.shtml
+2020-11-21 00:50:19,926          root     INFO: Finished script
