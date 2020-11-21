@@ -1,15 +1,6 @@
-2020-11-21 13:16:34,990          root     INFO: Starting script
-2020-11-21 13:16:36,156          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-21 13:16:36,981          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-21 13:16:37,810          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-21 13:16:38,066          root     INFO: Parsing R7 - Brasil
-2020-11-21 13:16:39,667          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/crivella-nao-vai-ser-reeleito-disse-deputado-hoje-aliado-do-candidato-a-prefeito-do-rio.shtml
-2020-11-21 13:16:39,726          root     INFO: Com as internações em decorrência da Covid-19 em alta em São Paulo, as aglomerações vistas ao longo de toda a campanha na capital paulista se tornaram mais evidentes e mais incômodas no segundo turno. Leia mais (11/20/2020 - <del>23h15)</del> <ins>23h30)</ins>
-2020-11-21 13:16:41,725          root     INFO: Media ready with ids: 1330138062114971656
-2020-11-21 13:16:41,726          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-21 13:16:41,726          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-internacoes-em-alta-covas-e-boulos-se-aglomeram-com-militantes-no-segundo-turno-em-sp.shtml
-2020-11-21 13:16:41,731          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-internacoes-em-alta-covas-e-boulos-se-aglomeram-com-militantes-no-segundo-turno-em-sp.shtml
-2020-11-21 13:16:42,018          root     INFO: Replying to: 1330138064153419778
-2020-11-21 13:16:42,307          root     INFO: Id to store: 1330138065080365061
-2020-11-21 13:16:45,422          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/fora-das-capitais-novos-prefeitos-tendem-a-deslocamento-para-a-direita.shtml
-2020-11-21 13:16:45,423          root     INFO: Finished script
+2020-11-21 13:23:36,633          root     INFO: Starting script
+2020-11-21 13:23:37,460          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-21 13:23:38,120          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-21 13:23:38,771          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-21 13:23:39,028          root     INFO: Parsing R7 - Brasil
+2020-11-21 13:23:43,330          root     INFO: Finished script
