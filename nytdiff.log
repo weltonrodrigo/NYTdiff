@@ -1,6 +1,46 @@
-2020-11-21 01:58:03,489          root     INFO: Starting script
-2020-11-21 01:58:04,364          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-21 01:58:05,027          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-21 01:58:05,691          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-21 01:58:05,872          root     INFO: Parsing R7 - Brasil
-2020-11-21 01:58:10,438          root     INFO: Finished script
+2020-11-21 02:21:56,820          root     INFO: Starting script
+2020-11-21 02:21:57,847          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-21 02:21:58,678          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-21 02:21:59,514          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-21 02:21:59,822          root     INFO: Parsing R7 - Brasil
+2020-11-21 02:22:00,109          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2020/11/racismo-e-eu-com-isso.shtml
+2020-11-21 02:22:00,125          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/vicios-de-origem.shtml
+2020-11-21 02:22:00,137          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/os-resultados-das-eleicoes-municipais-atrapalham-os-planos-de-bolsonaro-para-2022-sim.shtml
+2020-11-21 02:22:00,149          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2020/11/aritmetica-desagradavel.shtml
+2020-11-21 02:22:00,161          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2020/11/ueba-erundina-e-a-cereja-do-boulos.shtml
+2020-11-21 02:22:00,171          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/voto-a-voto/2020/11/republicanos-e-psol-buscam-seu-lugar-a-direita-e-a-esquerda.shtml
+2020-11-21 02:22:00,182          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/joao-alberto.shtml
+2020-11-21 02:22:00,191          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/11/2020-termina-com-opiniao-publica-mais-concentrada-nos-eua.shtml
+2020-11-21 02:22:00,200          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/11/boulos-representa-a-restauracao-do-lulismo.shtml
+2020-11-21 02:22:00,213          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2020/11/do-fundo-da-fossa-em-que-estamos-surgem-babenco-e-o-que-ha-em-ti.shtml
+2020-11-21 02:22:00,238          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/os-resultados-das-eleicoes-municipais-atrapalham-os-planos-de-bolsonaro-para-2022-nao.shtml
+2020-11-21 02:22:00,247          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciorachkorsky/2020/11/pejotizacao-nos-condominios-vai-doer-no-bolso-dos-moradores.shtml
+2020-11-21 02:22:01,564          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/nao-sou-candidato-de-bolsonaro-ou-lula-em-vitoria-e-rejeito-extremos-diz-delegado-pazolini.shtml
+2020-11-21 02:22:01,574          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/voto-a-voto/2020/11/republicanos-e-psol-buscam-seu-lugar-a-direita-e-a-esquerda.shtml
+2020-11-21 02:22:01,585          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-internacoes-em-alta-covas-e-boulos-se-aglomeram-com-militantes-no-segundo-turno-em-sp.shtml
+2020-11-21 02:22:01,594          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/na-reta-final-boulos-esbarra-em-pobres-e-desempregados-e-covas-entre-os-mais-jovens.shtml
+2020-11-21 02:22:01,604          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/11/boulos-representa-a-restauracao-do-lulismo.shtml
+2020-11-21 02:22:01,615          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pazolini-esconde-bolsonarismo-pois-sabe-que-e-ruim-para-ele-diz-petista-joao-coser-em-vitoria.shtml
+2020-11-21 02:22:01,624          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/para-cupula-do-psb-neutralidade-de-franca-e-um-erro-politico-mas-nao-ha-rancor.shtml
+2020-11-21 02:22:01,634          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/frente-contra-bolsonaristas-avanca-em-fortaleza-e-no-rio-mas-empaca-em-belem.shtml
+2020-11-21 02:22:04,775          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/pdt-e-psb-nao-chegam-a-consenso-e-adiam-decisao-sobre-apoio-a-boulos.shtml
+2020-11-21 02:22:04,778          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2020/11/o-ipca-nao-mede-a-minha-inflacao.shtml
+2020-11-21 02:22:04,781          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/11/brasil-joga-mal-mas-busca-ataque-e-variacoes.shtml
+2020-11-21 02:22:04,783          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48551
+2020-11-21 02:22:04,786          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/desigual-na-raiz.shtml
+2020-11-21 02:22:04,790          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2020/11/a-um-voto-de-mudar-a-educacao.shtml
+2020-11-21 02:22:04,795          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleicao-rejeitou-radicalismo-mas-nao-e-recado-para-bolsonaro-em-2022-diz-kassab.shtml
+2020-11-21 02:22:04,801          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/presidente-da-oab-se-contradiz-e-cotas-raciais-na-entidade-podem-ficar-so-para-2024.shtml
+2020-11-21 02:22:04,804          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/taxa-de-reeleicao-de-prefeitos-cresce-em-2020-e-chega-a-63-pelo-pais.shtml
+2020-11-21 02:22:04,807          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/11/derrota-do-corinthians-era-previsivel-mas-vitoria-do-santos-sobre-o-lider-surpreendeu.shtml
+2020-11-21 02:22:04,809          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2020/11/trump-e-pos-moderno-enquanto-biden-e-o-verdadeiro-conservador.shtml
+2020-11-21 02:22:04,812          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/auxilio-emergencial-e-o-estado-providencia.shtml
+2020-11-21 02:22:04,815          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/para-mudar-o-paradigma-na-saude-publica.shtml
+2020-11-21 02:22:04,818          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/11/o-leviata-domado-e-a-rainha-vermelha.shtml
+2020-11-21 02:22:04,820          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/11/sem-ocidente-china-fecha-o-maior-acordo-de-livre-comercio-do-mundo.shtml
+2020-11-21 02:22:04,823          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/bravata-internacional-de-bolsonaro-expoe-negligencia-ambiental-do-governo.shtml
+2020-11-21 02:22:04,826          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/11/brasileiros-estao-com-dificuldade-de-passar-24-horas-sem-um-problema.shtml
+2020-11-21 02:22:04,830          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/republicanos-e-russomanno-decidem-apoiar-covas-em-sao-paulo-e-falam-em-moderacao.shtml
+2020-11-21 02:22:04,833          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sessao-do-tse-barroso-pede-desculpas-a-ministros-e-a-sociedade-pelo-atraso-na-apuracao.shtml
+2020-11-21 02:22:04,836          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-lima-ombudsman/2020/11/as-direitas-se-movem.shtml
+2020-11-21 02:22:04,836          root     INFO: Finished script
