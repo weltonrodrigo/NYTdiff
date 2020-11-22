@@ -1,6 +1,19 @@
-2020-11-22 03:59:04,167          root     INFO: Starting script
-2020-11-22 03:59:05,059          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-22 03:59:05,715          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-22 03:59:06,361          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-22 03:59:06,570          root     INFO: Parsing R7 - Brasil
-2020-11-22 03:59:11,100          root     INFO: Finished script
+2020-11-22 04:22:35,899          root     INFO: Starting script
+2020-11-22 04:22:36,773          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-22 04:22:37,421          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-22 04:22:38,066          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-22 04:22:38,255          root     INFO: Parsing R7 - Brasil
+2020-11-22 04:22:38,537          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-lima-ombudsman/2020/11/o-novembrismo-pos-floyd.shtml
+2020-11-22 04:22:42,547          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-vai-apresentar-novo-plano-energetico-diz-ministro-21112020
+2020-11-22 04:22:42,557          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-soma-1689-mil-mortes-por-covid-e-6-milhoes-de-casos-21112020
+2020-11-22 04:22:42,565          root     INFO: New article tracked: http://noticias.r7.com/brasil/campanha-em-sp-quer-melhorar-gestao-de-residuos-organicos-21112020
+2020-11-22 04:22:42,573          root     INFO: New article tracked: http://noticias.r7.com/brasil/no-amapa-bolsonaro-anuncia-mp-que-isentara-de-pagamento-de-luz-21112020
+2020-11-22 04:22:42,579          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/novo-video-do-caso-joao-alberto-e-participacao-de-bolsonaro-em-reuniao-do-g20-sao-destaques-deste-sabado-21-21112020
+2020-11-22 04:22:42,586          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-visita-subestacoes-de-energia-em-viagem-ao-amapa-21112020
+2020-11-22 04:22:42,593          root     INFO: New article tracked: http://noticias.r7.com/brasil/video-exclusivo-mostra-joao-alberto-agredindo-seguranca-21112020
+2020-11-22 04:22:42,599          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-embarca-para-macapa-ap-na-companhia-de-alcolumbre-21112020
+2020-11-22 04:22:42,605          root     INFO: New article tracked: http://noticias.r7.com/brasil/no-g20-bolsonaro-defende-vacinacao-opcional-e-fala-de-racismo-21112020
+2020-11-22 04:22:42,613          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/no-g20-bolsonaro-repete-que-nao-ve-cor-de-pele-21112020
+2020-11-22 04:22:42,620          root     INFO: New article tracked: http://noticias.r7.com/brasil/pauta-ambiental-sera-chave-na-relacao-brasil-eua-21112020
+2020-11-22 04:22:42,746          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/um-pais-de-m.shtml
+2020-11-22 04:22:42,747          root     INFO: Finished script
