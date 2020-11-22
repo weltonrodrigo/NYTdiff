@@ -1,6 +1,15 @@
-2020-11-22 11:27:01,135          root     INFO: Starting script
-2020-11-22 11:27:01,937          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-22 11:27:02,586          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-22 11:27:03,235          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-22 11:27:03,347          root     INFO: Parsing R7 - Brasil
-2020-11-22 11:27:07,811          root     INFO: Finished script
+2020-11-22 11:47:07,325          root     INFO: Starting script
+2020-11-22 11:47:08,222          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-22 11:47:08,869          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-22 11:47:09,516          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-22 11:47:09,723          root     INFO: Parsing R7 - Brasil
+2020-11-22 11:47:10,134          root     INFO: Não se <del>protege</del> <ins>protegem</ins> mulheres sem ouvi-las
+2020-11-22 11:47:12,065          root     INFO: Media ready with ids: 1330477928191303685
+2020-11-22 11:47:12,066          root     INFO: Text to tweet: Modificação do Título
+2020-11-22 11:47:12,066          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/nao-se-protege-mulheres-sem-ouvi-las.shtml
+2020-11-22 11:47:12,074          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/nao-se-protege-mulheres-sem-ouvi-las.shtml
+2020-11-22 11:47:12,358          root     INFO: Replying to: 1330477930103902208
+2020-11-22 11:47:12,600          root     INFO: Id to store: 1330477930925977607
+2020-11-22 11:47:13,828          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/e-possivel-sim-auditar-e-recontar-votos-ao-contrario-do-que-afirma-video.shtml
+2020-11-22 11:47:16,702          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sem-apoio-integral-do-pt-marilia-arraes-chega-ao-2o-turno-no-recife-com-face-mais-pragmatica.shtml
+2020-11-22 11:47:16,704          root     INFO: Finished script
