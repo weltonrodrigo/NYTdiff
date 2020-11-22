@@ -1,13 +1,6 @@
-2020-11-22 12:33:57,181          root     INFO: Starting script
-2020-11-22 12:33:58,089          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-22 12:33:58,798          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-22 12:33:59,474          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-22 12:33:59,656          root     INFO: Parsing R7 - Brasil
-2020-11-22 12:34:01,776          root     INFO: Em desvantagem na largada do segundo turno, o deputado federal João Campos (PSB) mudou o tom. Numa encruzilhada imposta pelo novo desenho da disputa eleitoral no Recife, saiu de cena o candidato que prometia oferecer uma proposta a cada agressão sofrida e entrou em ação um João no ataque com forte teor antipetista. <del>A estratégia de bater com força no PT é considerada pelo PSB a cartada mais importante para vencer a disputa contra Marília Arraes (PT), neta do ex-governador de Pernambuco Miguel Arraes e prima de João Campos. A ofensiva já iniciada é pesada e, segundo fontes da própria sigla, bastante arriscada. O PT, que nas palavras recentes de João Campos não pode falar em corrupção porque sequer é possível contar nos dedos das mãos a quantidade de pessoas do partido que foram presas por desvios, participa do primeiro escalão do governo Paulo Câmara (PSB) e, até outubro, também do prefeito do Recife, Geraldo Julio.</del> Leia mais (11/21/2020 - 23h15)
-2020-11-22 12:34:03,796          root     INFO: Media ready with ids: 1330489721131311104
-2020-11-22 12:34:03,796          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-22 12:34:03,796          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apos-apoiar-lula-livre-joao-campos-investe-no-antipetismo-para-o-2o-turno-no-recife.shtml
-2020-11-22 12:34:03,803          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apos-apoiar-lula-livre-joao-campos-investe-no-antipetismo-para-o-2o-turno-no-recife.shtml
-2020-11-22 12:34:03,972          root     INFO: Replying to: 1330489722846711808
-2020-11-22 12:34:04,219          root     INFO: Id to store: 1330489723652100096
-2020-11-22 12:34:07,234          root     INFO: Finished script
+2020-11-22 12:46:56,679          root     INFO: Starting script
+2020-11-22 12:46:57,546          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-22 12:46:58,194          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-22 12:46:58,841          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-22 12:46:58,988          root     INFO: Parsing R7 - Brasil
+2020-11-22 12:47:03,321          root     INFO: Finished script
