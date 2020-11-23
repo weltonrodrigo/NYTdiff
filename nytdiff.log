@@ -1,6 +1,12 @@
-2020-11-23 14:57:45,520          root     INFO: Starting script
-2020-11-23 14:57:46,423          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-23 14:57:47,069          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-23 14:57:47,714          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-23 14:57:48,146          root     INFO: Parsing R7 - Brasil
-2020-11-23 14:57:52,173          root     INFO: Finished script
+2020-11-23 15:21:27,447          root     INFO: Starting script
+2020-11-23 15:21:28,290          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-23 15:21:28,964          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-23 15:21:29,632          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-23 15:21:29,823          root     INFO: Parsing R7 - Brasil
+2020-11-23 15:21:31,735          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/achava-que-nao-podia-ocupar-certos-espacos-diz-1a-trans-eleita-vereadora-em-aracaju.shtml
+2020-11-23 15:21:31,747          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/mandato-colaborativo-leva-vereador-a-ser-o-mais-votado-em-cidade-do-interior-de-sp.shtml
+2020-11-23 15:21:31,758          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleito-vereador-em-sp-danilo-do-posto-de-saude-fez-fama-em-ubs-e-agora-quer-novas-ideias-ao-setor.shtml
+2020-11-23 15:21:35,068          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/disputas-como-as-de-sao-paulo-e-do-recife-exigem-cautela-dos-atuais-lideres-nas-pesquisas.shtml
+2020-11-23 15:21:35,071          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-deputado-do-ceara-e-preso-com-r-2-milhoes-escondidos-em-caixas-de-televisao.shtml
+2020-11-23 15:21:35,076          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/estados-citam-risco-de-segunda-onda-da-covid-19-e-pedem-mais-r-3-bi-ao-ministerio-da-saude.shtml
+2020-11-23 15:21:35,078          root     INFO: Finished script
