@@ -1,34 +1,19 @@
-2020-11-23 02:30:19,847          root     INFO: Starting script
-2020-11-23 02:30:20,654          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-23 02:30:21,300          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-23 02:30:21,950          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-23 02:30:22,147          root     INFO: Parsing R7 - Brasil
-2020-11-23 02:30:22,426          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2020/11/o-crime-com-video-e-audio.shtml
-2020-11-23 02:30:22,436          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/agruras-socialistas.shtml
-2020-11-23 02:30:22,444          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/quero-dar-um-parque-para-sao-paulo.shtml
-2020-11-23 02:30:22,451          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/bomba-relogio.shtml
-2020-11-23 02:30:22,458          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/11/vidas-negras-importam-cada-vez-menos-no-brasil-mais-perto-de-voce.shtml
-2020-11-23 02:30:22,464          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/11/que-pais-e-este.shtml
-2020-11-23 02:30:22,472          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/educacao-infantil-e-o-novo-fundeb-tres-pilares-para-a-eficiencia.shtml
-2020-11-23 02:30:23,726          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/dias-apos-festa-para-centenas-leila-pereira-cancela-novo-evento-devido-a-aumento-de-casos-de-covid.shtml
-2020-11-23 02:30:23,747          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/dem-de-milton-leite-tem-7-candidatas-a-vereadora-na-lista-dos-10-votos-mais-caros-de-sp.shtml
-2020-11-23 02:30:23,756          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2020/11/bolsonaro-e-mourao-reproduzem-discurso-racial-da-ditadura-militar-diz-sociologa.shtml
-2020-11-23 02:30:23,763          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-derrota-de-trump-e-fracasso-nas-eleicoes-militares-recomendam-moderacao-a-bolsonaro.shtml
-2020-11-23 02:30:23,771          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/criancas-cobram-mais-alimentacao-espacos-de-lazer-e-igualdade-do-futuro-prefeito-de-sp.shtml
-2020-11-23 02:30:23,778          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/mtst-de-boulos-tem-vidraca-ambiental-com-acampamentos-em-areas-de-protecao.shtml
-2020-11-23 02:30:23,786          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/bolsonaro-cometeu-serie-de-infracoes-de-transito-em-macapa-dizem-especialistas.shtml
-2020-11-23 02:30:26,426          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2020/11/venda-casada-ainda-e-espinho-no-pe-do-consumidor.shtml
-2020-11-23 02:30:26,428          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/eleicao-municipal-abafa-polarizacao-e-dificulta-frente-ampla-contra-bolsonaro.shtml
-2020-11-23 02:30:26,431          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2020/11/eleicoes-mostram-algum-arrefecimento-do-surto-destrutivo-bolsonarista.shtml
-2020-11-23 02:30:26,434          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/11/em-dois-anos-bolsonaro-levou-forcas-armadas-do-paraiso-ao-purgatorio.shtml
-2020-11-23 02:30:26,439          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/11/china-e-india-usam-brics-para-tatear-reaproximacao.shtml
-2020-11-23 02:30:26,442          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/psb-quer-apoiar-boulos-mas-marcio-franca-resiste-e-relembra-2018.shtml
-2020-11-23 02:30:26,445          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/e-falso-que-votos-recebidos-por-candidata-no-tocantins-tenham-diminuido-ao-longo-da-apuracao.shtml
-2020-11-23 02:30:26,448          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2020/11/por-que-a-inflacao-pode-estar-no-caminho-de-volta.shtml
-2020-11-23 02:30:26,451          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/quem-foi-antonieta-de-barros-primeira-mulher-negra-eleita-deputada-no-pais.shtml
-2020-11-23 02:30:26,454          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/escritorios-de-advocacia-derrubam-barreira-elitista-para-melhorar-inclusao-racial.shtml
-2020-11-23 02:30:26,456          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleito-vereador-em-sp-youtuber-e-policial-civil-felipe-becari-quer-ampliar-trabalho-pelos-animais.shtml
-2020-11-23 02:30:26,458          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-candidatura-barrada-mae-do-presidente-do-pros-gasta-r-345-mil-de-dinheiro-publico-eleitoral.shtml
-2020-11-23 02:30:26,460          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/crivella-xinga-doria-de-vagabundo-e-usa-termo-homofobico-assista.shtml
-2020-11-23 02:30:26,463          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/11/segundas-ondas.shtml
-2020-11-23 02:30:26,463          root     INFO: Finished script
+2020-11-23 02:46:54,377          root     INFO: Starting script
+2020-11-23 02:46:55,492          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-23 02:46:56,145          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-23 02:46:56,790          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-23 02:46:56,975          root     INFO: Parsing R7 - Brasil
+2020-11-23 02:46:57,283          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2020/11/a-festa-brega-de-reveillon-esta-ai-pra-ajudar-a-aumentar-a-segunda-onda.shtml
+2020-11-23 02:46:57,482          root     INFO: No domingo (29), a cidade de São Paulo decide se reelege o santista Bruno Covas ou vira o jogo com o corintiano Guilherme Boulos. <del>No plano de governo Covas não há uma linha sobre a prática de esportes na cidade; no de Boulos há duas páginas. Claro que é melhor não falar nada do que falar besteiras, mas não se trata disso, porque são ousadas e participativas as propostas do candidato oposicionista. No Corinthians, o panorama não é tão claro.</del> Leia mais (11/22/2020 - 23h15)
+2020-11-23 02:46:59,311          root     INFO: Media ready with ids: 1330704367092183048
+2020-11-23 02:46:59,312          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-23 02:46:59,316          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/11/eleicao-no-corinthians-e-a-mais-importante-desde-1984.shtml
+2020-11-23 02:46:59,328          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/11/eleicao-no-corinthians-e-a-mais-importante-desde-1984.shtml
+2020-11-23 02:46:59,616          root     INFO: Replying to: 1330704368950185984
+2020-11-23 02:46:59,870          root     INFO: Id to store: 1330704369768128517
+2020-11-23 02:47:01,234          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-libera-pesquisa-eleitoral-de-instituto-que-foi-acusado-de-ter-vies-pro-marcio-franca.shtml
+2020-11-23 02:47:01,242          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/agora-com-covas-marta-suplicy-liga-para-tatto-para-agradecer-por-bom-nivel-da-campanha.shtml
+2020-11-23 02:47:04,596          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2020/11/em-cima-do-muro-guilherme-boulos-prefere-construir-um-teto.shtml
+2020-11-23 02:47:04,600          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10514
+2020-11-23 02:47:04,604          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/primeira-negra-eleita-vereadora-em-joinville-e-ameacada-de-morte-por-vaga-a-suplente-branco.shtml
+2020-11-23 02:47:04,605          root     INFO: Finished script
