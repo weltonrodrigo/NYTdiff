@@ -1,13 +1,13 @@
-2020-11-23 10:47:01,674          root     INFO: Starting script
-2020-11-23 10:47:02,826          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-23 10:47:03,489          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-23 10:47:04,144          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-23 10:47:04,284          root     INFO: Parsing R7 - Brasil
-2020-11-23 10:47:06,512          root     INFO: Diferentemente do chamado na homepage da Folha entre 12h57 e 13h10, foi Ciro Nogueira e não Arthur Lira que disse que o PP espera ter Bolsonaro em 2022, confome entrevista dada em <del>em</del> 'Bolsonaro errou nesta eleição, mas sonhamos com ele no PP em 2022, diz líder do centrão'. Leia mais (11/22/2020 - 15h02)
-2020-11-23 10:47:08,411          root     INFO: Media ready with ids: 1330825201131589637
-2020-11-23 10:47:08,411          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-23 10:47:08,412          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/erramos-homepage-da-folha.shtml
-2020-11-23 10:47:08,419          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/erramos-homepage-da-folha.shtml
-2020-11-23 10:47:08,681          root     INFO: Replying to: 1330825203056832514
-2020-11-23 10:47:08,896          root     INFO: Id to store: 1330825203740499968
-2020-11-23 10:47:11,823          root     INFO: Finished script
+2020-11-23 10:57:53,425          root     INFO: Starting script
+2020-11-23 10:57:54,306          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-23 10:57:54,953          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-23 10:57:55,608          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-23 10:57:55,737          root     INFO: Parsing R7 - Brasil
+2020-11-23 10:57:57,501          root     INFO: Covas candidato tem <del>agenda lotada</del> <ins>maratona de eventos de rua,</ins> enquanto Covas prefeito <del>prioriza despachos internos</del> <ins>se restringe ao gabinete</ins>
+2020-11-23 10:57:59,431          root     INFO: Media ready with ids: 1330827931673882625
+2020-11-23 10:57:59,431          root     INFO: Text to tweet: Modificação do Título
+2020-11-23 10:57:59,432          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-candidato-tem-agenda-lotada-enquanto-covas-prefeito-prioriza-despachos-internos.shtml
+2020-11-23 10:57:59,439          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-candidato-tem-agenda-lotada-enquanto-covas-prefeito-prioriza-despachos-internos.shtml
+2020-11-23 10:57:59,694          root     INFO: Replying to: 1330827933636759553
+2020-11-23 10:57:59,933          root     INFO: Id to store: 1330827934400122887
+2020-11-23 10:58:02,868          root     INFO: Finished script
