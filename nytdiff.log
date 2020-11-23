@@ -1,15 +1,6 @@
-2020-11-23 20:46:51,403          root     INFO: Starting script
-2020-11-23 20:46:52,252          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-23 20:46:52,897          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-23 20:46:53,546          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-23 20:46:53,733          root     INFO: Parsing R7 - Brasil
-2020-11-23 20:46:54,039          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/da-protecao-a-intimidacao.shtml
-2020-11-23 20:46:55,539          root     INFO: Em discurso na Assembleia Legislativa de São Paulo nesta segunda-feira (23), a deputada Janaina Paschoal (PSL) disse que está sendo constrangida por outro deputado e que <del>ira</del> <ins>irá</ins> arrebentá-lo caso ele continue. Leia mais (11/23/2020 - 17h23)
-2020-11-23 20:46:57,481          root     INFO: Media ready with ids: 1330976150026412036
-2020-11-23 20:46:57,482          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-23 20:46:57,482          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/janaina-paschoal-diz-que-esta-sendo-constrangida-por-deputado-e-ameaca-arrebenta-lo.shtml
-2020-11-23 20:46:57,489          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/janaina-paschoal-diz-que-esta-sendo-constrangida-por-deputado-e-ameaca-arrebenta-lo.shtml
-2020-11-23 20:46:57,682          root     INFO: Replying to: 1330976151867633664
-2020-11-23 20:46:57,936          root     INFO: Id to store: 1330976152677208065
-2020-11-23 20:47:01,093          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2020/11/a-moderacao-em-politica-nao-e-um-cheque-em-branco.shtml
-2020-11-23 20:47:01,094          root     INFO: Finished script
+2020-11-23 20:57:53,665          root     INFO: Starting script
+2020-11-23 20:57:54,499          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-23 20:57:55,171          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-23 20:57:55,848          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-23 20:57:55,976          root     INFO: Parsing R7 - Brasil
+2020-11-23 20:58:00,640          root     INFO: Finished script
