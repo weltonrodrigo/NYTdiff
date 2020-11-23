@@ -1,6 +1,13 @@
-2020-11-23 11:26:46,720          root     INFO: Starting script
-2020-11-23 11:26:47,859          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-23 11:26:48,515          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-23 11:26:49,166          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-23 11:26:49,423          root     INFO: Parsing R7 - Brasil
-2020-11-23 11:26:53,406          root     INFO: Finished script
+2020-11-23 11:46:55,370          root     INFO: Starting script
+2020-11-23 11:46:56,176          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-23 11:46:56,828          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-23 11:46:57,482          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-23 11:46:57,731          root     INFO: Parsing R7 - Brasil
+2020-11-23 11:46:59,795          root     INFO: Com Lula virtual, PT segue na disputa em três cidades da Grande <del>SP</del> <ins>São Paulo</ins>
+2020-11-23 11:47:01,577          root     INFO: Media ready with ids: 1330840272163532800
+2020-11-23 11:47:01,578          root     INFO: Text to tweet: Modificação do Título
+2020-11-23 11:47:01,578          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-lula-virtual-pt-segue-na-disputa-em-tres-cidades-da-grande-sp.shtml
+2020-11-23 11:47:01,583          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-lula-virtual-pt-segue-na-disputa-em-tres-cidades-da-grande-sp.shtml
+2020-11-23 11:47:01,743          root     INFO: Replying to: 1330840273472135168
+2020-11-23 11:47:01,950          root     INFO: Id to store: 1330840274151616512
+2020-11-23 11:47:05,127          root     INFO: Finished script
