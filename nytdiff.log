@@ -1,12 +1,8 @@
-2020-11-24 14:22:05,200          root     INFO: Starting script
-2020-11-24 14:22:06,021          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-24 14:22:06,686          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-24 14:22:07,345          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-24 14:22:07,585          root     INFO: Parsing R7 - Brasil
-2020-11-24 14:22:07,905          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2020/11/as-guerras-de-trump-2-o-perdedor-contra-ataca.shtml
-2020-11-24 14:22:09,338          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/major-olimpio-discute-com-bolsonaristas-e-grita-ladroes-de-rachadinha-veja-video.shtml
-2020-11-24 14:22:09,346          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10528
-2020-11-24 14:22:12,426          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/mais-de-150-blocos-de-carnaval-de-sao-paulo-divulgam-manifesto-em-apoio-a-boulos.shtml
-2020-11-24 14:22:12,429          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/articulado-antes-da-abolicao-associativismo-negro-cresceu-como-reacao-ao-racismo-e-forma-de-afirmacao.shtml
-2020-11-24 14:22:12,431          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/pela-diversidade.shtml
-2020-11-24 14:22:12,431          root     INFO: Finished script
+2020-11-24 14:29:00,721          root     INFO: Starting script
+2020-11-24 14:29:01,597          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-24 14:29:02,277          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-24 14:29:02,946          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-24 14:29:03,113          root     INFO: Parsing R7 - Brasil
+2020-11-24 14:29:04,896          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/entenda-o-que-sao-fake-news-trolls-e-outras-armas-usadas-para-desinformacao.shtml
+2020-11-24 14:29:08,031          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/dados-do-1o-turno-indicam-que-covas-foi-mais-afetado-por-aumento-da-abstencao.shtml
+2020-11-24 14:29:08,032          root     INFO: Finished script
