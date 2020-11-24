@@ -1,6 +1,12 @@
-2020-11-24 19:57:42,935          root     INFO: Starting script
-2020-11-24 19:57:43,741          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-24 19:57:44,393          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-24 19:57:45,052          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-24 19:57:45,243          root     INFO: Parsing R7 - Brasil
-2020-11-24 19:57:48,852          root     INFO: Finished script
+2020-11-24 20:19:02,420          root     INFO: Starting script
+2020-11-24 20:19:03,311          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-24 20:19:03,970          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-24 20:19:04,634          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-24 20:19:04,833          root     INFO: Parsing R7 - Brasil
+2020-11-24 20:19:06,686          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ministro-da-justica-e-13o-integrante-do-primeiro-escalao-do-governo-bolsonaro-a-contrair-covid.shtml
+2020-11-24 20:19:06,697          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-em-sao-paulo-vice-de-covas-e-desconhecido-e-visto-como-pior-escolha-do-que-erundina.shtml
+2020-11-24 20:19:06,705          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-em-sao-paulo-covas-tem-melhor-avaliacao-como-prefeito-desde-comeco-da-campanha.shtml
+2020-11-24 20:19:10,015          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/nao-sou-candidato-de-bolsonaro-ou-lula-em-vitoria-e-rejeito-extremos-diz-delegado-pazolini.shtml
+2020-11-24 20:19:10,018          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/flavio-bolsonaro-escreve-e-apaga-tuite-sobre-morte-de-beto-freitas.shtml
+2020-11-24 20:19:10,021          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/senador-quer-que-estados-informem-a-uniao-dados-sobre-homicidios.shtml
+2020-11-24 20:19:10,021          root     INFO: Finished script
