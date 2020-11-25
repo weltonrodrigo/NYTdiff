@@ -1,6 +1,9 @@
-2020-11-25 09:57:54,421          root     INFO: Starting script
-2020-11-25 09:57:55,314          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-25 09:57:55,994          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-25 09:57:56,657          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-25 09:57:56,787          root     INFO: Parsing R7 - Brasil
-2020-11-25 09:58:01,383          root     INFO: Finished script
+2020-11-25 10:21:56,595          root     INFO: Starting script
+2020-11-25 10:21:57,428          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-25 10:21:58,065          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-25 10:21:58,708          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-25 10:21:58,880          root     INFO: Parsing R7 - Brasil
+2020-11-25 10:21:59,160          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2020/11/a-pandemia-do-racismo-pode-ser-amenizada-pela-diversidade-no-legislativo-municipal.shtml
+2020-11-25 10:22:01,670          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2020/11/a-pandemia-do-racismo-pode-ser-amenizada-pela-diversidade-no-legislativo-municipal.shtml
+2020-11-25 10:22:03,106          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2020/11/aviso.shtml
+2020-11-25 10:22:03,107          root     INFO: Finished script
