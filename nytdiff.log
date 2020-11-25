@@ -1,19 +1,24 @@
-2020-11-25 12:25:31,039          root     INFO: Starting script
-2020-11-25 12:25:32,158          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-25 12:25:32,987          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-25 12:25:33,816          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-25 12:25:34,035          root     INFO: Parsing R7 - Brasil
-2020-11-25 12:25:34,356          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2020/11/o-que-o-mundo-pode-aprender-com-a-pandemia-de-covid-19.shtml
-2020-11-25 12:25:38,761          root     INFO: New article tracked: http://noticias.r7.com/brasil/distribuidora-de-energia-do-amapa-vive-situacao-financeira-caotica-25112020
-2020-11-25 12:25:38,772          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-autoriza-inss-a-antecipar-pagamento-de-beneficios-no-amapa-25112020
-2020-11-25 12:25:38,780          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-debate-nesta-quarta-supersalarios-no-servico-publico-25112020
-2020-11-25 12:25:38,787          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-vota-lei-de-falencias-para-socorrer-empresas-na-pandemia-25112020
-2020-11-25 12:25:38,795          root     INFO: New article tracked: http://noticias.r7.com/brasil/aumento-de-pena-para-golpe-digital-pode-ser-votado-nesta-quarta-25112020
-2020-11-25 12:25:38,803          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-premio-gordo-mega-sena-sorteia-r-3-milhoes-nesta-quarta-25112020
-2020-11-25 12:25:38,811          root     INFO: New article tracked: http://noticias.r7.com/brasil/embaixada-chinesa-reage-a-post-de-eduardo-bolsonaro-sobre-5g-24112020
-2020-11-25 12:25:38,819          root     INFO: New article tracked: http://noticias.r7.com/brasil/a-gente-se-prepara-pra-tudo-diz-bolsonaro-sobre-prorrogar-auxilio-24112020
-2020-11-25 12:25:38,826          root     INFO: New article tracked: http://noticias.r7.com/brasil/peticao-que-pede-justica-por-miguel-ja-colher-quase-3-mi-de-assinaturas-24112020
-2020-11-25 12:25:38,834          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-libera-r-409-milhoes-para-projetos-de-tecnologias-da-internet-24112020
-2020-11-25 12:25:38,842          root     INFO: New article tracked: http://noticias.r7.com/brasil/marco-aurelio-mantem-tramitacao-da-reforma-administrativa-24112020
-2020-11-25 12:25:38,982          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2020/11/em-o-gambito-da-rainha-coquetel-se-destaca-como-peca-chave.shtml
-2020-11-25 12:25:38,983          root     INFO: Finished script
+2020-11-25 12:36:46,499          root     INFO: Starting script
+2020-11-25 12:36:47,403          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-25 12:36:48,060          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-25 12:36:48,720          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-25 12:36:48,894          root     INFO: Parsing R7 - Brasil
+2020-11-25 12:36:49,390          root     INFO: <del>O</del> <ins>Vi momentos espetaculares e medíocres nos últimos 60 anos de</ins> futebol <del>dá muitas voltas</del>
+2020-11-25 12:36:51,122          root     INFO: Media ready with ids: 1331577586917535748
+2020-11-25 12:36:51,122          root     INFO: Text to tweet: Modificação do Título
+2020-11-25 12:36:51,122          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2020/11/o-futebol-da-muitas-voltas.shtml
+2020-11-25 12:36:51,129          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2020/11/o-futebol-da-muitas-voltas.shtml
+2020-11-25 12:36:51,303          root     INFO: Replying to: 1331577588305833984
+2020-11-25 12:36:51,538          root     INFO: Id to store: 1331577588989517824
+2020-11-25 12:36:56,564          root     INFO: Removed http://noticias.r7.com/brasil/distribuidora-de-energia-do-amapa-vive-situacao-financeira-caotica-25112020
+2020-11-25 12:36:56,566          root     INFO: Removed http://noticias.r7.com/brasil/marco-aurelio-mantem-tramitacao-da-reforma-administrativa-24112020
+2020-11-25 12:36:56,569          root     INFO: Removed http://noticias.r7.com/brasil/senado-vota-lei-de-falencias-para-socorrer-empresas-na-pandemia-25112020
+2020-11-25 12:36:56,573          root     INFO: Removed http://noticias.r7.com/brasil/apos-premio-gordo-mega-sena-sorteia-r-3-milhoes-nesta-quarta-25112020
+2020-11-25 12:36:56,576          root     INFO: Removed http://noticias.r7.com/brasil/a-gente-se-prepara-pra-tudo-diz-bolsonaro-sobre-prorrogar-auxilio-24112020
+2020-11-25 12:36:56,580          root     INFO: Removed http://noticias.r7.com/brasil/embaixada-chinesa-reage-a-post-de-eduardo-bolsonaro-sobre-5g-24112020
+2020-11-25 12:36:56,583          root     INFO: Removed http://noticias.r7.com/brasil/governo-autoriza-inss-a-antecipar-pagamento-de-beneficios-no-amapa-25112020
+2020-11-25 12:36:56,587          root     INFO: Removed http://noticias.r7.com/brasil/peticao-que-pede-justica-por-miguel-ja-colher-quase-3-mi-de-assinaturas-24112020
+2020-11-25 12:36:56,590          root     INFO: Removed http://noticias.r7.com/brasil/camara-debate-nesta-quarta-supersalarios-no-servico-publico-25112020
+2020-11-25 12:36:56,595          root     INFO: Removed http://noticias.r7.com/brasil/aumento-de-pena-para-golpe-digital-pode-ser-votado-nesta-quarta-25112020
+2020-11-25 12:36:56,598          root     INFO: Removed http://noticias.r7.com/brasil/governo-libera-r-409-milhoes-para-projetos-de-tecnologias-da-internet-24112020
+2020-11-25 12:36:56,599          root     INFO: Finished script
