@@ -1,8 +1,21 @@
-2020-11-25 22:23:21,708          root     INFO: Starting script
-2020-11-25 22:23:22,752          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-25 22:23:23,628          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-25 22:23:24,471          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-25 22:23:24,711          root     INFO: Parsing R7 - Brasil
-2020-11-25 22:23:25,038          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/contardocalligaris/2020/11/e-melhor-casar-com-um-conhecido-ou-se-aventurar-com-um-estranho.shtml
-2020-11-25 22:23:31,266          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/11/2020-termina-com-opiniao-publica-mais-concentrada-nos-eua.shtml
-2020-11-25 22:23:31,266          root     INFO: Finished script
+2020-11-25 22:30:12,993          root     INFO: Starting script
+2020-11-25 22:30:13,835          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-25 22:30:14,484          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-25 22:30:15,138          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-25 22:30:15,287          root     INFO: Parsing R7 - Brasil
+2020-11-25 22:30:15,628          root     INFO: <del>Adiós Muchacho</del> <ins>Maradona misturou futebol com política e com tudo</ins>
+2020-11-25 22:30:17,312          root     INFO: Media ready with ids: 1331726930132000770
+2020-11-25 22:30:17,312          root     INFO: Text to tweet: Modificação do Título
+2020-11-25 22:30:17,312          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/11/adios-muchacho.shtml
+2020-11-25 22:30:17,319          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/11/adios-muchacho.shtml
+2020-11-25 22:30:17,494          root     INFO: Replying to: 1331726931503566856
+2020-11-25 22:30:17,695          root     INFO: Id to store: 1331726932166184969
+2020-11-25 22:30:17,700          root     INFO: Quis o destino que Diego Maradona morresse exatamente quatro anos depois de seu amigo Fidel Castro, uma das referências mais polêmicas de sua vida. <del>Sim, Maradona misturou futebol com política. Aliás, misturava tudo com futebol. Nada mais fácil do que julgá-lo pela lente moralista em relação às misturas fatais feitas por quem nasceu marginalizado na periferia de Buenos Aires e virou rei incensado pela Camorra, com a oferta de todos os prazeres possíveis e imagináveis em Nápoles, onde chegou já doente depois de reinar em Barcelona. Morre cedo, aos 60, como Mané Garrincha, aos 49. Igual ao gênio brasileiro das pernas tortas, o incomensurável baixinho argentino é prova provada do futebol como esporte mais democrático da Terra.</del> Leia mais (11/25/2020 - 18h08)
+2020-11-25 22:30:19,551          root     INFO: Media ready with ids: 1331726938961043470
+2020-11-25 22:30:19,551          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-25 22:30:19,551          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/11/adios-muchacho.shtml
+2020-11-25 22:30:19,559          root     INFO: Replying to: 1331726932166184969
+2020-11-25 22:30:19,806          root     INFO: Id to store: 1331726940827496459
+2020-11-25 22:30:21,371          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-tem-57-e-boulos-43-aponta-ibope-em-sp.shtml
+2020-11-25 22:30:24,699          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vidracas-de-boulos-na-campanha-a-prefeitura-de-sp-incluem-lula-pt-e-protestos-do-mtst.shtml
+2020-11-25 22:30:24,700          root     INFO: Finished script
