@@ -1,6 +1,20 @@
-2020-11-25 17:27:11,336          root     INFO: Starting script
-2020-11-25 17:27:12,135          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-25 17:27:12,798          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-25 17:27:13,443          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-25 17:27:13,623          root     INFO: Parsing R7 - Brasil
-2020-11-25 17:27:18,091          root     INFO: Finished script
+2020-11-25 17:46:44,868          root     INFO: Starting script
+2020-11-25 17:46:45,694          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-25 17:46:46,375          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-25 17:46:47,039          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-25 17:46:47,272          root     INFO: Parsing R7 - Brasil
+2020-11-25 17:46:48,995          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/plano-nacional-de-vacinacao-contra-covid-19-sera-divulgado-na-segunda-diz-governador.shtml
+2020-11-25 17:46:49,125          root     INFO: <del>Folha e UOL sabatinam</del> Erundina <del>às 10h desta quarta-feira; vice de Covas não quis participar</del> <ins>diz em sabatina Folha/UOL que gestão Boulos toleraria protestos e se fiaria no 'poder popular'</ins>
+2020-11-25 17:46:50,849          root     INFO: Media ready with ids: 1331655599558430721
+2020-11-25 17:46:50,850          root     INFO: Text to tweet: Modificação do Título
+2020-11-25 17:46:50,850          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-sabatinam-erundina-as-10h-desta-quarta-feira-vice-de-covas-nao-quis-participar.shtml
+2020-11-25 17:46:50,857          root     INFO: Replying to: 1331606533893926913
+2020-11-25 17:46:51,093          root     INFO: Id to store: 1331655601223512071
+2020-11-25 17:46:51,098          root     INFO: A <del>Folha, em parceria com o UOL, sabatina nesta quarta (25), às 10h,</del> <ins>deputada federal</ins> Luiza Erundina (PSOL), vice na chapa de Guilherme Boulos <del>(PSOL), em disputa</del> <ins>(PSOL) na corrida</ins> pela Prefeitura de São <del>Paulo.</del> <ins>Paulo, disse nesta quarta-feira (25) em sabatina promovida pela Folha, em parceria com o UOL, que um eventual governo dos dois toleraria protestos e se basearia no "poder popular".</ins> Leia mais (11/25/2020 - 07h36)
+2020-11-25 17:46:52,780          root     INFO: Media ready with ids: 1331655607879946245
+2020-11-25 17:46:52,781          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-25 17:46:52,781          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-sabatinam-erundina-as-10h-desta-quarta-feira-vice-de-covas-nao-quis-participar.shtml
+2020-11-25 17:46:52,791          root     INFO: Replying to: 1331655601223512071
+2020-11-25 17:46:53,013          root     INFO: Id to store: 1331655609289224192
+2020-11-25 17:46:55,871          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaristas-hesitam-em-sp-discutem-voto-forcado-em-covas-e-ate-cogitam-boulos.shtml
+2020-11-25 17:46:55,873          root     INFO: Finished script
