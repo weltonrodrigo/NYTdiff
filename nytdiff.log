@@ -1,18 +1,17 @@
-2020-11-26 15:57:56,049          root     INFO: Starting script
-2020-11-26 15:57:57,217          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-26 15:57:57,867          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-26 15:57:58,519          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-26 15:57:58,791          root     INFO: Parsing R7 - Brasil
-2020-11-26 15:58:00,649          root     INFO: <del>Folha e UOL sabatinam às 11h Guilherme</del> Boulos <del>(PSOL), candidato</del> <ins>diz em sabatina Folha/UOL que cidade desigual é ruim para todos e que atrito com</ins> a <del>prefeito de SP</del> <ins>Câmara é superdimensionado</ins>
-2020-11-26 15:58:02,499          root     INFO: Media ready with ids: 1331990605518565376
-2020-11-26 15:58:02,499          root     INFO: Text to tweet: Modificação do Título
-2020-11-26 15:58:02,500          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-sabatinam-as-11h-guilherme-boulos-psol-candidato-a-prefeito-de-sp.shtml
-2020-11-26 15:58:02,506          root     INFO: Replying to: 1331983808774758408
-2020-11-26 15:58:02,738          root     INFO: Id to store: 1331990607246585856
-2020-11-26 15:58:02,746          root     INFO: O candidato <del>à Prefeitura de São Paulo</del> Guilherme Boulos (PSOL) <del>participa</del> <ins>reiterou o chavão</ins> de <del>uma</del> <ins>"inversão de prioridades" de sua campanha a prefeito e disse que a desigualdade social em São Paulo prejudica não só os mais pobres, mas também a elite, ao participar de</ins> sabatina realizada <del>pela Folha, em parceria com o</del> <ins>por Folha e</ins> UOL, <del>nesta</del> <ins>na manhã desta</ins> quinta-feira (26). Leia mais (11/26/2020 - 07h00)
-2020-11-26 15:58:04,458          root     INFO: Media ready with ids: 1331990613630312452
-2020-11-26 15:58:04,459          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-26 15:58:04,459          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-sabatinam-as-11h-guilherme-boulos-psol-candidato-a-prefeito-de-sp.shtml
-2020-11-26 15:58:04,463          root     INFO: Replying to: 1331990607246585856
-2020-11-26 15:58:04,679          root     INFO: Id to store: 1331990615320621056
-2020-11-26 15:58:07,555          root     INFO: Finished script
+2020-11-26 16:37:28,407          root     INFO: Starting script
+2020-11-26 16:37:29,255          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-26 16:37:29,926          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-26 16:37:30,593          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-26 16:37:30,731          root     INFO: Parsing R7 - Brasil
+2020-11-26 16:37:32,206          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sabatina-folhauol-covas-erra-sobre-aumento-de-casos-de-covid-19-em-sp.shtml
+2020-11-26 16:37:34,615          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-tse-aprova-envio-de-tropas-federais-a-manaus-e-fortaleza-26112020
+2020-11-26 16:37:34,624          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-covid-katia-abreu-tem-evolucao-positiva-segundo-hospital-26112020
+2020-11-26 16:37:34,631          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-inclusao-de-racismo-como-agravante-em-crime-26112020
+2020-11-26 16:37:34,642          root     INFO: New article tracked: http://noticias.r7.com/brasil/pereira-nem-para-o-presidente-abro-mao-de-comandar-o-republicanos-26112020
+2020-11-26 16:37:34,651          root     INFO: New article tracked: http://noticias.r7.com/brasil/possivel-sucessor-de-maia-marcos-pereira-prega-equilibrio-de-poderes-26112020
+2020-11-26 16:37:34,660          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/nunca-falei-com-bolsonaro-sobre-ida-ao-republicanos-diz-marcos-pereira-26112020
+2020-11-26 16:37:34,667          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-esta-metendo-os-pes-pelas-maos-com-china-diz-ex-embaixador-em-pequim-apos-nova-polemica-de-eduardo-bolsonaro-26112020
+2020-11-26 16:37:34,676          root     INFO: New article tracked: http://noticias.r7.com/brasil/expectativa-de-vida-do-brasileiro-cresce-para-766-anos-diz-ibge-26112020
+2020-11-26 16:37:34,683          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-investiga-crimes-na-petrobras-em-nova-fase-de-lava-jato-26112020
+2020-11-26 16:37:34,824          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tensa-disputa-em-goiania-tem-candidato-intubado-que-nem-sabe-que-esta-no-2o-turno.shtml
+2020-11-26 16:37:34,825          root     INFO: Finished script
