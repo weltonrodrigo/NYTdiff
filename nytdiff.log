@@ -1,18 +1,8 @@
-2020-11-26 14:29:03,044          root     INFO: Starting script
-2020-11-26 14:29:03,854          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-26 14:29:04,516          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-26 14:29:05,174          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-26 14:29:05,353          root     INFO: Parsing R7 - Brasil
-2020-11-26 14:29:07,275          root     INFO: <del>Folha e UOL sabatinam às 10h Bruno</del> Covas <del>(PSDB), candidato</del> <ins>promete em sabatina Folha/UOL cassar alvará por racismo e diz que põe</ins> a <del>prefeito de SP</del> <ins>mão no fogo por vice</ins>
-2020-11-26 14:29:09,013          root     INFO: Media ready with ids: 1331968235357483008
-2020-11-26 14:29:09,013          root     INFO: Text to tweet: Modificação do Título
-2020-11-26 14:29:09,014          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-sabatinam-as-10h-bruno-covas-psdb-candidato-a-prefeito-de-sp.shtml
-2020-11-26 14:29:09,020          root     INFO: Replying to: 1331966534923776000
-2020-11-26 14:29:09,232          root     INFO: Id to store: 1331968236896858113
-2020-11-26 14:29:09,238          root     INFO: O <ins>prefeito e</ins> candidato à <del>Prefeitura de</del> <ins>reeleição em</ins> São <del>Paulo</del> <ins>Paulo,</ins> Bruno Covas <del>(PSDB) participa</del> <ins>(PSDB), prometeu cassar alvarás</ins> de <del>uma sabatina realizada pela Folha,</del> <ins>estabelecimentos</ins> em <del>parceria com o UOL, nesta quinta-feira (26).</del> <ins>caso de racismo e afirmou colocar a mão no fogo pelo seu vice, Ricardo Nunes (MDB).</ins> Leia mais (11/26/2020 - 07h00)
-2020-11-26 14:29:10,945          root     INFO: Media ready with ids: 1331968243469332484
-2020-11-26 14:29:10,945          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-26 14:29:10,946          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-sabatinam-as-10h-bruno-covas-psdb-candidato-a-prefeito-de-sp.shtml
-2020-11-26 14:29:10,951          root     INFO: Replying to: 1331968236896858113
-2020-11-26 14:29:11,162          root     INFO: Id to store: 1331968244949921792
-2020-11-26 14:29:14,403          root     INFO: Finished script
+2020-11-26 14:46:54,468          root     INFO: Starting script
+2020-11-26 14:46:55,276          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-26 14:46:55,929          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-26 14:46:56,579          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-26 14:46:57,129          root     INFO: Parsing R7 - Brasil
+2020-11-26 14:46:58,946          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-ve-r-440-milhoes-movimentados-na-eleicao-com-indicio-de-irregularidade.shtml
+2020-11-26 14:47:02,399          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/dias-apos-festa-para-centenas-leila-pereira-cancela-novo-evento-devido-a-aumento-de-casos-de-covid.shtml
+2020-11-26 14:47:02,401          root     INFO: Finished script
