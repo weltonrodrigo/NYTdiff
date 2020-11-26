@@ -1,10 +1,19 @@
-2020-11-26 15:20:47,454          root     INFO: Starting script
-2020-11-26 15:20:48,483          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-26 15:20:49,319          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-26 15:20:50,166          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-26 15:20:50,391          root     INFO: Parsing R7 - Brasil
-2020-11-26 15:20:52,323          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/meu-adversario-flerta-com-a-negacao-da-pandemia-diz-manuela-no-2o-turno-em-porto-alegre.shtml
-2020-11-26 15:20:52,338          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/minha-rival-defende-que-tudo-seja-estatal-diz-sebastiao-melo-ex-vice-prefeito-de-porto-alegre.shtml
-2020-11-26 15:20:55,623          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/juiz-inocenta-dario-messer-por-crime-que-doleiro-confessou-em-delacao-de-junho.shtml
-2020-11-26 15:20:55,628          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-libera-pesquisa-eleitoral-de-instituto-que-foi-acusado-de-ter-vies-pro-marcio-franca.shtml
-2020-11-26 15:20:55,629          root     INFO: Finished script
+2020-11-26 15:30:53,191          root     INFO: Starting script
+2020-11-26 15:30:54,055          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-26 15:30:54,737          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-26 15:30:55,409          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-26 15:30:55,618          root     INFO: Parsing R7 - Brasil
+2020-11-26 15:30:57,583          root     INFO: <del>Folha e UOL sabatinam às 11h Guilherme</del> Boulos <del>(PSOL), candidato</del> <ins>diz em sabatina Folha/UOL que cidade desigual é ruim para todos e que atrito com</ins> a <del>prefeito de SP</del> <ins>Câmara é superdimensionado</ins>
+2020-11-26 15:30:59,358          root     INFO: Media ready with ids: 1331983797613682688
+2020-11-26 15:30:59,359          root     INFO: Text to tweet: Modificação do Título
+2020-11-26 15:30:59,359          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-sabatinam-as-11h-guilherme-boulos-psol-candidato-a-prefeito-de-sp.shtml
+2020-11-26 15:30:59,366          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-sabatinam-as-11h-guilherme-boulos-psol-candidato-a-prefeito-de-sp.shtml
+2020-11-26 15:30:59,548          root     INFO: Replying to: 1331983799261990913
+2020-11-26 15:30:59,813          root     INFO: Id to store: 1331983800092528641
+2020-11-26 15:30:59,818          root     INFO: <del>O candidato à Prefeitura de São Paulo</del> Guilherme Boulos (PSOL) <del>participa de uma sabatina realizada pela Folha, em parceria com</del> <ins>reiterou</ins> o <del>UOL, nesta quinta-feira (26).</del> <ins>chavão de "inversão de prioridades" de sua campanha e disse que a desigualdade social em São Paulo prejudica não só os mais pobres, mas também a elite. Por isso, segundo ele, um eventual governo do PSOL atuaria para reduzir a distância entre classes.</ins> Leia mais (11/26/2020 - 07h00)
+2020-11-26 15:31:01,612          root     INFO: Media ready with ids: 1331983806732132354
+2020-11-26 15:31:01,613          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-26 15:31:01,613          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-sabatinam-as-11h-guilherme-boulos-psol-candidato-a-prefeito-de-sp.shtml
+2020-11-26 15:31:01,618          root     INFO: Replying to: 1331983800092528641
+2020-11-26 15:31:01,865          root     INFO: Id to store: 1331983808774758408
+2020-11-26 15:31:05,035          root     INFO: Finished script
