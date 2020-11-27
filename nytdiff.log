@@ -1,25 +1,8 @@
-2020-11-27 15:21:02,586          root     INFO: Starting script
-2020-11-27 15:21:03,421          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-27 15:21:04,088          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-27 15:21:04,764          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-27 15:21:04,984          root     INFO: Parsing R7 - Brasil
-2020-11-27 15:21:05,433          root     INFO: <del>O voto de velhos</del> <ins>Boulos</ins> e <ins>como</ins> jovens <del>paulistanos</del> <ins>e velhos decidem as eleições de São Paulo</ins>
-2020-11-27 15:21:07,185          root     INFO: Media ready with ids: 1332343701918584832
-2020-11-27 15:21:07,185          root     INFO: Text to tweet: Modificação do Título
-2020-11-27 15:21:07,185          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/o-voto-de-velhos-e-jovens-paulistanos.shtml
-2020-11-27 15:21:07,191          root     INFO: Replying to: 1332262371201589248
-2020-11-27 15:21:07,422          root     INFO: Id to store: 1332343703353118720
-2020-11-27 15:21:07,427          root     INFO: Em São Paulo, a disputa principal foi sempre entre esquerda e direita desde que a cidade voltou a eleger seu prefeito, em <del>1988.</del> <ins>1985.</ins> O voto dos mais velhos é sempre marcadamente mais direitista. Mas em poucas vezes a maioria dos mais jovens votou na esquerda; em poucas vezes o voto dos idosos teve um peso tão decisivo quanto deve ter no segundo turno deste ano, entre Bruno Covas (PSDB) e Guilherme Boulos (PSOL). Leia mais (11/26/2020 - 23h15)
-2020-11-27 15:21:12,244          root     INFO: Media ready with ids: 1332343722877587459
-2020-11-27 15:21:12,244          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-27 15:21:12,244          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/o-voto-de-velhos-e-jovens-paulistanos.shtml
-2020-11-27 15:21:12,249          root     INFO: Replying to: 1332343703353118720
-2020-11-27 15:21:12,470          root     INFO: Id to store: 1332343724521762816
-2020-11-27 15:21:13,912          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-guerra-da-reboucas-avenida-de-sp-e-divisa-entre-bastiao-tucano-e-bairro-mais-jovem-e-pro-boulos.shtml
-2020-11-27 15:21:13,920          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/cortina-da-historia-politica-do-amazonas-se-fecha-para-caciques-diz-david-almeida.shtml
-2020-11-27 15:21:13,927          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/urna-refletiu-frustracao-na-aposta-pelo-novo-de-2018-diz-amazonino-mendes.shtml
-2020-11-27 15:21:15,432          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/deputados-europeus-pressionam-mourao-a-nao-restringir-ongs-na-amazonia.shtml
-2020-11-27 15:21:17,180          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405447
-2020-11-27 15:21:17,183          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/lula-supera-doria-como-cabo-eleitoral-no-2o-turno-de-sao-paulo-aponta-datafolha.shtml
-2020-11-27 15:21:17,185          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ciro-se-afastou-da-campanha-porque-teve-covid-diz-sarto-candidato-do-pdt-em-fortaleza.shtml
-2020-11-27 15:21:17,186          root     INFO: Finished script
+2020-11-27 15:30:51,008          root     INFO: Starting script
+2020-11-27 15:30:51,840          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-27 15:30:52,512          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-27 15:30:53,187          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-27 15:30:53,292          root     INFO: Parsing R7 - Brasil
+2020-11-27 15:30:55,180          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vice-de-covas-volta-a-fugir-de-sabatina-folhauol-apos-mentir-sobre-convite.shtml
+2020-11-27 15:30:58,424          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/doria-sai-como-grande-vitorioso-da-eleicao-diz-presidente-estadual-do-psdb.shtml
+2020-11-27 15:30:58,425          root     INFO: Finished script
