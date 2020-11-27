@@ -1,21 +1,22 @@
-2020-11-27 19:57:47,237          root     INFO: Starting script
-2020-11-27 19:57:48,086          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-27 19:57:48,749          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-27 19:57:49,416          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-27 19:57:49,544          root     INFO: Parsing R7 - Brasil
-2020-11-27 19:57:51,171          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405503
-2020-11-27 19:57:51,181          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-recebe-diagnostico-de-covid-e-inicia-isolamento-campanha-quer-debate-virtual.shtml
-2020-11-27 19:57:51,190          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405502
-2020-11-27 19:57:51,198          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/juiza-determina-volta-imediata-de-horario-eleitoral-em-macapa-contrariando-partidos-e-afiliada-da-globo.shtml
-2020-11-27 19:57:51,220          root     INFO: Por seis votos a três, o tribunal especial <del>montado</del> <ins>criado</ins> na Assembleia Legislativa de Santa Catarina absolveu nesta sexta-feira (27) o governador do estado, Carlos Moisés (PSL), de crime de responsabilidade. Leia mais (11/27/2020 - 14h28)
-2020-11-27 19:57:53,006          root     INFO: Media ready with ids: 1332413351608115202
-2020-11-27 19:57:53,007          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-27 19:57:53,007          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/governador-carlos-moises-e-absolvido-em-processo-de-impeachment-e-segue-no-cargo-em-sc.shtml
-2020-11-27 19:57:53,012          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/governador-carlos-moises-e-absolvido-em-processo-de-impeachment-e-segue-no-cargo-em-sc.shtml
-2020-11-27 19:57:53,204          root     INFO: Replying to: 1332413353277448194
-2020-11-27 19:57:53,441          root     INFO: Id to store: 1332413354065924096
-2020-11-27 19:57:56,017          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/stf-forma-maioria-para-manter-lider-do-centrao-reu-acusado-de-corrupcao-passiva.shtml
-2020-11-27 19:57:56,020          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48601
-2020-11-27 19:57:56,022          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/software-usado-em-urnas-eletronicas-brasileiras-nao-e-o-mesmo-dos-eua.shtml
-2020-11-27 19:57:56,025          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-em-sao-paulo-covas-tem-melhor-avaliacao-como-prefeito-desde-comeco-da-campanha.shtml
-2020-11-27 19:57:56,025          root     INFO: Finished script
+2020-11-27 20:20:22,681          root     INFO: Starting script
+2020-11-27 20:20:23,533          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-27 20:20:24,214          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-27 20:20:24,905          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-27 20:20:25,061          root     INFO: Parsing R7 - Brasil
+2020-11-27 20:20:25,388          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2020/11/meu-pai-era-paulista-meu-avo-italiano-sou-um-jornalista-brasileiro.shtml
+2020-11-27 20:20:27,179          root     INFO: A vice-candidata à Prefeitura de São <del>Paulo,Luiza</del> <ins>Paulo, Luiza</ins> Erundina (PSOL), apareceu 17 vezes mais em publicações nas redes sociais de Guilherme Boulos (PSOL) que o vice Ricardo Nunes (MDB) nos posts de Bruno Covas (PSDB). A reportagem levou em consideração conteúdos publicados no Facebook e no Instagram de 27 de setembro, início da campanha eleitoral, até esta sexta-feira (27). Leia mais (11/27/2020 - 16h45)
+2020-11-27 20:20:29,114          root     INFO: Media ready with ids: 1332419039113699329
+2020-11-27 20:20:29,114          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-27 20:20:29,114          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405503
+2020-11-27 20:20:29,120          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405503
+2020-11-27 20:20:29,362          root     INFO: Replying to: 1332419041408004099
+2020-11-27 20:20:29,635          root     INFO: Id to store: 1332419042204938241
+2020-11-27 20:20:29,667          root     INFO: Boulos recebe diagnóstico de Covid e inicia isolamento; debate <ins>da Globo</ins> é cancelado
+2020-11-27 20:20:31,380          root     INFO: Media ready with ids: 1332419049062604810
+2020-11-27 20:20:31,380          root     INFO: Text to tweet: Modificação do Título
+2020-11-27 20:20:31,380          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-recebe-diagnostico-de-covid-e-inicia-isolamento-campanha-quer-debate-virtual.shtml
+2020-11-27 20:20:31,386          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-recebe-diagnostico-de-covid-e-inicia-isolamento-campanha-quer-debate-virtual.shtml
+2020-11-27 20:20:31,573          root     INFO: Replying to: 1332419050706767874
+2020-11-27 20:20:31,823          root     INFO: Id to store: 1332419051512016898
+2020-11-27 20:20:35,375          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/11/novo-surto-no-brasil-e-minimizado-por-politicos.shtml
+2020-11-27 20:20:35,375          root     INFO: Finished script
