@@ -1,6 +1,10 @@
-2020-11-27 17:27:28,922          root     INFO: Starting script
-2020-11-27 17:27:29,756          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-27 17:27:30,430          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-27 17:27:31,112          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-27 17:27:31,354          root     INFO: Parsing R7 - Brasil
-2020-11-27 17:27:36,121          root     INFO: Finished script
+2020-11-27 17:46:43,462          root     INFO: Starting script
+2020-11-27 17:46:44,267          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-27 17:46:44,910          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-27 17:46:45,561          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-27 17:46:45,812          root     INFO: Parsing R7 - Brasil
+2020-11-27 17:46:47,567          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/governador-carlos-moises-e-absolvido-em-processo-de-impeachment-e-segue-no-cargo-em-sc.shtml
+2020-11-27 17:46:47,582          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/moro-diz-a-pf-que-foi-alvo-do-gabinete-do-odio-e-liga-carlos-bolsonaro-a-grupo-investigado.shtml
+2020-11-27 17:46:50,612          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/diferenca-entre-resultados-de-pesquisa-e-de-eleicao-nao-implica-fraude.shtml
+2020-11-27 17:46:50,619          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405450
+2020-11-27 17:46:50,621          root     INFO: Finished script
