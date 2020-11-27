@@ -1,6 +1,8 @@
-2020-11-27 02:57:48,127          root     INFO: Starting script
-2020-11-27 02:57:48,960          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-27 02:57:49,627          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-27 02:57:50,291          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-27 02:57:50,493          root     INFO: Parsing R7 - Brasil
-2020-11-27 02:57:55,668          root     INFO: Finished script
+2020-11-27 03:20:39,769          root     INFO: Starting script
+2020-11-27 03:20:47,269          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-27 03:20:47,937          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-27 03:20:48,613          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-27 03:20:48,752          root     INFO: Parsing R7 - Brasil
+2020-11-27 03:20:49,069          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2020/11/aviso.shtml
+2020-11-27 03:20:53,758          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/11/eleicao-no-corinthians-e-a-mais-importante-desde-1984.shtml
+2020-11-27 03:20:53,759          root     INFO: Finished script
