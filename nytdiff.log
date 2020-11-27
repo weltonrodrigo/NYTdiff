@@ -1,6 +1,13 @@
-2020-11-27 09:46:44,962          root     INFO: Starting script
-2020-11-27 09:46:45,999          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-27 09:46:46,847          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-27 09:46:47,700          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-27 09:46:47,915          root     INFO: Parsing R7 - Brasil
-2020-11-27 09:46:52,864          root     INFO: Finished script
+2020-11-27 09:57:51,348          root     INFO: Starting script
+2020-11-27 09:57:52,238          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-27 09:57:52,895          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-27 09:57:53,551          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-27 09:57:53,716          root     INFO: Parsing R7 - Brasil
+2020-11-27 09:57:54,107          root     INFO: <del>O voto de velhos</del> <ins>Boulos</ins> e <ins>como</ins> jovens <del>paulistanos</del> <ins>e velhos decidem as eleições de São Paulo</ins>
+2020-11-27 09:57:55,903          root     INFO: Media ready with ids: 1332262369003704322
+2020-11-27 09:57:55,904          root     INFO: Text to tweet: Modificação do Título
+2020-11-27 09:57:55,904          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/o-voto-de-velhos-e-jovens-paulistanos.shtml
+2020-11-27 09:57:55,913          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/o-voto-de-velhos-e-jovens-paulistanos.shtml
+2020-11-27 09:57:56,076          root     INFO: Replying to: 1332262370412990464
+2020-11-27 09:57:56,309          root     INFO: Id to store: 1332262371201589248
+2020-11-27 09:58:00,903          root     INFO: Finished script
