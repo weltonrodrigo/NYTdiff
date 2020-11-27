@@ -1,8 +1,31 @@
-2020-11-27 21:18:22,744          root     INFO: Starting script
-2020-11-27 21:18:23,879          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-27 21:18:24,724          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-27 21:18:25,559          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-27 21:18:25,798          root     INFO: Parsing R7 - Brasil
-2020-11-27 21:18:27,649          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/televisao/2020/11/com-debate-cancelado-globo-voltara-a-exibir-globo-reporter.shtml
-2020-11-27 21:18:30,842          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-em-sao-paulo-vice-de-covas-e-desconhecido-e-visto-como-pior-escolha-do-que-erundina.shtml
-2020-11-27 21:18:30,845          root     INFO: Finished script
+2020-11-27 21:28:27,540          root     INFO: Starting script
+2020-11-27 21:28:28,358          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-27 21:28:29,038          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-27 21:28:29,712          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-27 21:28:29,897          root     INFO: Parsing R7 - Brasil
+2020-11-27 21:28:31,450          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/moraes-prorroga-por-60-dias-inquerito-que-investiga-bolsonaro-sobre-interferencia-no-comando-da-pf.shtml
+2020-11-27 21:28:31,463          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sem-debate-boulos-perde-mais-do-que-covas-e-campanha-acaba-em-anticlimax.shtml
+2020-11-27 21:28:31,473          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/foco-de-covas-eleitorado-mais-velho-e-mais-numeroso-do-que-nicho-jovem-de-boulos.shtml
+2020-11-27 21:28:31,495          root     INFO: Com debate cancelado, Globo voltará a exibir Globo Repórter <ins>para São Paulo</ins>
+2020-11-27 21:28:33,172          root     INFO: Media ready with ids: 1332436169393573892
+2020-11-27 21:28:33,173          root     INFO: Text to tweet: Modificação do Título
+2020-11-27 21:28:33,173          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/televisao/2020/11/com-debate-cancelado-globo-voltara-a-exibir-globo-reporter.shtml
+2020-11-27 21:28:33,180          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/televisao/2020/11/com-debate-cancelado-globo-voltara-a-exibir-globo-reporter.shtml
+2020-11-27 21:28:33,374          root     INFO: Replying to: 1332436170907725832
+2020-11-27 21:28:33,614          root     INFO: Id to store: 1332436171801174021
+2020-11-27 21:28:33,618          root     INFO: A Globo teve de mudar seu planejamento para a noite desta sexta-feira (27) por <del>conta</del> <ins>causa</ins> da ausência do candidato Guilherme Boulos do debate eleitoral. Com isso, voltará à sua programação normal para São Paulo e exibirá no horário o tradicional Globo Repórter. Leia mais (11/27/2020 - 17h57)
+2020-11-27 21:28:35,465          root     INFO: Media ready with ids: 1332436178633711618
+2020-11-27 21:28:35,466          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-27 21:28:35,466          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/televisao/2020/11/com-debate-cancelado-globo-voltara-a-exibir-globo-reporter.shtml
+2020-11-27 21:28:35,478          root     INFO: Replying to: 1332436171801174021
+2020-11-27 21:28:35,710          root     INFO: Id to store: 1332436180621733891
+2020-11-27 21:28:35,752          root     INFO: A vice-candidata à Prefeitura de São <del>Paulo,Luiza</del> <ins>Paulo, Luiza</ins> Erundina (PSOL), apareceu 17 vezes mais em publicações nas redes sociais de Guilherme Boulos (PSOL) que o vice Ricardo Nunes (MDB) nos posts de Bruno Covas (PSDB). A reportagem levou em consideração conteúdos publicados no Facebook e no Instagram de 27 de setembro, início da campanha eleitoral, até <del>esta</del> <ins>as 13h desta</ins> sexta-feira (27). Leia mais (11/27/2020 - 16h45)
+2020-11-27 21:28:37,664          root     INFO: Media ready with ids: 1332436187638849550
+2020-11-27 21:28:37,665          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-27 21:28:37,665          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405503
+2020-11-27 21:28:37,673          root     INFO: Replying to: 1332419042204938241
+2020-11-27 21:28:37,880          root     INFO: Id to store: 1332436189710868480
+2020-11-27 21:28:40,681          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/stj-determina-que-joice-hasselmann-pague-r-40-mil-em-indenizacao-a-vice-governadora-do-pi.shtml
+2020-11-27 21:28:40,685          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rio-recife-e-porto-alegre-tem-2o-turno-com-ataques-e-milicias-digitais.shtml
+2020-11-27 21:28:40,689          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ministro-da-justica-e-13o-integrante-do-primeiro-escalao-do-governo-bolsonaro-a-contrair-covid.shtml
+2020-11-27 21:28:40,690          root     INFO: Finished script
