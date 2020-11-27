@@ -1,22 +1,6 @@
-2020-11-27 20:20:22,681          root     INFO: Starting script
-2020-11-27 20:20:23,533          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-27 20:20:24,214          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-27 20:20:24,905          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-27 20:20:25,061          root     INFO: Parsing R7 - Brasil
-2020-11-27 20:20:25,388          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2020/11/meu-pai-era-paulista-meu-avo-italiano-sou-um-jornalista-brasileiro.shtml
-2020-11-27 20:20:27,179          root     INFO: A vice-candidata à Prefeitura de São <del>Paulo,Luiza</del> <ins>Paulo, Luiza</ins> Erundina (PSOL), apareceu 17 vezes mais em publicações nas redes sociais de Guilherme Boulos (PSOL) que o vice Ricardo Nunes (MDB) nos posts de Bruno Covas (PSDB). A reportagem levou em consideração conteúdos publicados no Facebook e no Instagram de 27 de setembro, início da campanha eleitoral, até esta sexta-feira (27). Leia mais (11/27/2020 - 16h45)
-2020-11-27 20:20:29,114          root     INFO: Media ready with ids: 1332419039113699329
-2020-11-27 20:20:29,114          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-27 20:20:29,114          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405503
-2020-11-27 20:20:29,120          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405503
-2020-11-27 20:20:29,362          root     INFO: Replying to: 1332419041408004099
-2020-11-27 20:20:29,635          root     INFO: Id to store: 1332419042204938241
-2020-11-27 20:20:29,667          root     INFO: Boulos recebe diagnóstico de Covid e inicia isolamento; debate <ins>da Globo</ins> é cancelado
-2020-11-27 20:20:31,380          root     INFO: Media ready with ids: 1332419049062604810
-2020-11-27 20:20:31,380          root     INFO: Text to tweet: Modificação do Título
-2020-11-27 20:20:31,380          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-recebe-diagnostico-de-covid-e-inicia-isolamento-campanha-quer-debate-virtual.shtml
-2020-11-27 20:20:31,386          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-recebe-diagnostico-de-covid-e-inicia-isolamento-campanha-quer-debate-virtual.shtml
-2020-11-27 20:20:31,573          root     INFO: Replying to: 1332419050706767874
-2020-11-27 20:20:31,823          root     INFO: Id to store: 1332419051512016898
-2020-11-27 20:20:35,375          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/11/novo-surto-no-brasil-e-minimizado-por-politicos.shtml
-2020-11-27 20:20:35,375          root     INFO: Finished script
+2020-11-27 20:28:24,881          root     INFO: Starting script
+2020-11-27 20:28:25,754          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-27 20:28:26,413          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-27 20:28:27,080          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-27 20:28:27,342          root     INFO: Parsing R7 - Brasil
+2020-11-27 20:28:31,552          root     INFO: Finished script
