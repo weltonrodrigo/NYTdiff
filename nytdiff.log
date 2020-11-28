@@ -1,31 +1,22 @@
-2020-11-28 21:46:49,244          root     INFO: Starting script
-2020-11-28 21:46:50,112          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-28 21:46:50,779          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-28 21:46:51,437          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-28 21:46:51,605          root     INFO: Parsing R7 - Brasil
-2020-11-28 21:46:53,325          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48650
-2020-11-28 21:46:53,381          root     INFO: O ex-prefeito Eduardo Paes (DEM) tem, na véspera do segundo turno, larga vantagem na disputa pela Prefeitura do Rio de Janeiro, com 68% das intenções de votos válidos, que excluem brancos, nulos e indecisos. <ins>Seu adversário, o prefeito Marcelo Crivella (Republicanos), tem 32%, aponta o Datafolha.</ins> Leia mais (11/28/2020 - 18h00)
-2020-11-28 21:46:55,162          root     INFO: Media ready with ids: 1332803179201916930
-2020-11-28 21:46:55,163          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-28 21:46:55,163          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-no-rio-na-vespera-do-2o-turno-paes-marca-68-e-crivella-32.shtml
-2020-11-28 21:46:55,167          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/datafolha-no-rio-na-vespera-do-2o-turno-paes-marca-68-e-crivella-32.shtml
-2020-11-28 21:46:55,348          root     INFO: Replying to: 1332803180862844929
-2020-11-28 21:46:55,584          root     INFO: Id to store: 1332803181668167682
-2020-11-28 21:46:58,334          root     INFO: New article tracked: http://noticias.r7.com/brasil/carla-zambelli-e-internada-para-tratamento-de-endometriose-28112020
-2020-11-28 21:46:58,345          root     INFO: New article tracked: http://noticias.r7.com/brasil/hacker-suspeito-de-invadir-site-do-tse-estava-em-prisao-domiciliar-28112020
-2020-11-28 21:46:58,353          root     INFO: New article tracked: http://noticias.r7.com/brasil/mdb-chega-ao-segundo-turno-como-potencia-municipal-28112020
-2020-11-28 21:46:58,362          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-vai-a-comemoracao-de-aniversario-de-ministro-28112020
-2020-11-28 21:46:58,373          root     INFO: New article tracked: http://noticias.r7.com/brasil/manutencao-preventiva-deixa-servicos-do-tse-instaveis-28112020
-2020-11-28 21:46:58,383          root     INFO: New article tracked: http://noticias.r7.com/brasil/segundo-turno-de-2020-pode-ser-embriao-de-frente-de-esquerda-para-2022-28112020
-2020-11-28 21:46:58,391          root     INFO: New article tracked: http://noticias.r7.com/brasil/procuradores-criticam-mudancas-feitas-por-aras-em-forca-tarefa-28112020
-2020-11-28 21:46:58,402          root     INFO: New article tracked: http://noticias.r7.com/brasil/impasse-sobre-provas-pode-levar-processo-contra-lula-a-prescricao-28112020
-2020-11-28 21:46:58,410          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-belem-ex-prefeito-e-estreante-tem-empate-tecnico-no-2-turno-28112020
-2020-11-28 21:46:58,420          root     INFO: New article tracked: http://noticias.r7.com/brasil/tentativa-bocal-diz-carlos-bolsonaro-do-depoimento-de-moro-28112020
-2020-11-28 21:46:58,428          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-vira-alvo-de-ataques-hackers-em-serie-durante-mes-decisivo-28112020
-2020-11-28 21:46:58,439          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-prende-em-portugal-suspeito-de-invasao-ao-site-do-tse-28112020
-2020-11-28 21:46:58,447          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-saude-nao-preve-vacinar-toda-a-populacao-em-2021-28112020
-2020-11-28 21:46:58,458          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-nota-trf-1-esclarece-ataque-hacker-sofrido-durante-a-semana-28112020
-2020-11-28 21:46:58,468          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-da-infraestrutura-confirma-teste-positivo-para-coronavirus-28112020
-2020-11-28 21:46:58,496          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-economistas-desemprego-no-pais-pode-ir-a-17-em-2021-28112020
-2020-11-28 21:46:58,581          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/conselho-de-secretarias-de-saude-de-santa-catarina-fala-em-risco-de-iminente-colapso-por-covid-19.shtml
-2020-11-28 21:46:58,582          root     INFO: Finished script
+2020-11-28 21:57:53,739          root     INFO: Starting script
+2020-11-28 21:57:54,757          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-28 21:57:55,607          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-28 21:57:56,435          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-28 21:57:56,681          root     INFO: Parsing R7 - Brasil
+2020-11-28 21:58:01,241          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-saude-nao-preve-vacinar-toda-a-populacao-em-2021-28112020
+2020-11-28 21:58:01,244          root     INFO: Removed http://noticias.r7.com/brasil/tentativa-bocal-diz-carlos-bolsonaro-do-depoimento-de-moro-28112020
+2020-11-28 21:58:01,248          root     INFO: Removed http://noticias.r7.com/brasil/hacker-suspeito-de-invadir-site-do-tse-estava-em-prisao-domiciliar-28112020
+2020-11-28 21:58:01,251          root     INFO: Removed http://noticias.r7.com/brasil/procuradores-criticam-mudancas-feitas-por-aras-em-forca-tarefa-28112020
+2020-11-28 21:58:01,253          root     INFO: Removed http://noticias.r7.com/brasil/ministro-da-infraestrutura-confirma-teste-positivo-para-coronavirus-28112020
+2020-11-28 21:58:01,256          root     INFO: Removed http://noticias.r7.com/brasil/segundo-turno-de-2020-pode-ser-embriao-de-frente-de-esquerda-para-2022-28112020
+2020-11-28 21:58:01,259          root     INFO: Removed http://noticias.r7.com/brasil/pf-prende-em-portugal-suspeito-de-invasao-ao-site-do-tse-28112020
+2020-11-28 21:58:01,262          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-vai-a-comemoracao-de-aniversario-de-ministro-28112020
+2020-11-28 21:58:01,264          root     INFO: Removed http://noticias.r7.com/brasil/mdb-chega-ao-segundo-turno-como-potencia-municipal-28112020
+2020-11-28 21:58:01,267          root     INFO: Removed http://noticias.r7.com/brasil/em-nota-trf-1-esclarece-ataque-hacker-sofrido-durante-a-semana-28112020
+2020-11-28 21:58:01,270          root     INFO: Removed http://noticias.r7.com/brasil/carla-zambelli-e-internada-para-tratamento-de-endometriose-28112020
+2020-11-28 21:58:01,272          root     INFO: Removed http://noticias.r7.com/brasil/em-belem-ex-prefeito-e-estreante-tem-empate-tecnico-no-2-turno-28112020
+2020-11-28 21:58:01,275          root     INFO: Removed http://noticias.r7.com/brasil/manutencao-preventiva-deixa-servicos-do-tse-instaveis-28112020
+2020-11-28 21:58:01,277          root     INFO: Removed http://noticias.r7.com/brasil/brasil-vira-alvo-de-ataques-hackers-em-serie-durante-mes-decisivo-28112020
+2020-11-28 21:58:01,282          root     INFO: Removed http://noticias.r7.com/brasil/para-economistas-desemprego-no-pais-pode-ir-a-17-em-2021-28112020
+2020-11-28 21:58:01,284          root     INFO: Removed http://noticias.r7.com/brasil/impasse-sobre-provas-pode-levar-processo-contra-lula-a-prescricao-28112020
+2020-11-28 21:58:01,285          root     INFO: Finished script
