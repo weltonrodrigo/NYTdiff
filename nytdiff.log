@@ -1,6 +1,15 @@
-2020-11-28 03:30:38,493          root     INFO: Starting script
-2020-11-28 03:30:39,676          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-28 03:30:40,493          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-28 03:30:41,313          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-28 03:30:41,507          root     INFO: Parsing R7 - Brasil
-2020-11-28 03:30:45,717          root     INFO: Finished script
+2020-11-28 03:46:49,151          root     INFO: Starting script
+2020-11-28 03:46:50,043          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-28 03:46:50,712          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-28 03:46:51,380          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-28 03:46:51,581          root     INFO: Parsing R7 - Brasil
+2020-11-28 03:46:53,489          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/no-recife-debate-entre-joao-campos-e-marilia-arraes-tem-ataques-religiao-e-poucas-propostas.shtml
+2020-11-28 03:46:53,534          root     INFO: O último debate entre o prefeito <ins>do Rio de Janeiro,</ins> Marcelo Crivella <del>(Republicanos)</del> <ins>(Republicanos),</ins> e seu <del>antecessor</del> <ins>antecessor,</ins> Eduardo Paes <del>(DEM)</del> <ins>(DEM),</ins> antes do segundo turno, promovido pela TV Globo, foi marcado por troca de ofensas e ameaças por expectativa de prisão. Leia mais (11/28/2020 - 00h01)
+2020-11-28 03:46:55,311          root     INFO: Media ready with ids: 1332531389049266177
+2020-11-28 03:46:55,312          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-28 03:46:55,312          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/crivella-e-paes-trocam-ofensas-e-ameacas-de-prisao-em-debate-em-ultimo-debate-do-rio.shtml
+2020-11-28 03:46:55,318          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/crivella-e-paes-trocam-ofensas-e-ameacas-de-prisao-em-debate-em-ultimo-debate-do-rio.shtml
+2020-11-28 03:46:55,510          root     INFO: Replying to: 1332531390697582592
+2020-11-28 03:46:55,748          root     INFO: Id to store: 1332531391452618754
+2020-11-28 03:46:58,957          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/folha-e-uol-sabatinam-erundina-as-10h-desta-quarta-feira-vice-de-covas-nao-quis-participar.shtml
+2020-11-28 03:46:58,958          root     INFO: Finished script
