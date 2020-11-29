@@ -1,13 +1,14 @@
-2020-11-29 20:29:49,535          root     INFO: Starting script
-2020-11-29 20:29:50,381          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 20:29:51,045          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 20:29:51,714          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 20:29:51,957          root     INFO: Parsing R7 - Brasil
-2020-11-29 20:29:53,938          root     INFO: <del>"Voltaremos",</del> <ins>'Voltaremos',</ins> afirma ex-presidente Dilma a seguidora que disse estar com saudade do PT
-2020-11-29 20:29:56,062          root     INFO: Media ready with ids: 1333146192537149440
-2020-11-29 20:29:56,063          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 20:29:56,063          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/voltaremos-afirma-ex-presidente-dilma-a-seguidora-que-disse-estar-com-saudade-do-pt.shtml
-2020-11-29 20:29:56,070          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/voltaremos-afirma-ex-presidente-dilma-a-seguidora-que-disse-estar-com-saudade-do-pt.shtml
-2020-11-29 20:29:56,233          root     INFO: Replying to: 1333146194793652224
-2020-11-29 20:29:56,495          root     INFO: Id to store: 1333146195590590464
-2020-11-29 20:30:00,002          root     INFO: Finished script
+2020-11-29 20:46:56,250          root     INFO: Starting script
+2020-11-29 20:46:57,121          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 20:46:57,786          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 20:46:58,455          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 20:46:58,676          root     INFO: Parsing R7 - Brasil
+2020-11-29 20:47:00,766          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-pazolini-derrota-ex-prefeito-e-e-eleito-em-vitoria-es-projeta-datafolha.shtml
+2020-11-29 20:47:00,778          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-elege-dr-pessoa-para-prefeitura-projeta-datafolha.shtml
+2020-11-29 20:47:00,791          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/e-falso-que-hacker-tenha-atacado-sistema-de-votacao-do-tse.shtml
+2020-11-29 20:47:00,857          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
+2020-11-29 20:47:04,530          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jornalista-patricia-campos-mello-da-folha-recebera-condecoracao-da-franca.shtml
+2020-11-29 20:47:04,533          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2020/11/bolsonaro-cumpre-promessa-e-desconstroi-o-brasil.shtml
+2020-11-29 20:47:04,537          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/justica-condena-tres-pessoas-por-ofensas-em-redes-sociais-contra-jornalista-madeleine-lacsko.shtml
+2020-11-29 20:47:04,540          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2020/11/o-brasil-nao-e-um-pais-seguro-para-negros-e-negras-nem-na-hora-das-compras.shtml
+2020-11-29 20:47:04,540          root     INFO: Finished script
