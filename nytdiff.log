@@ -1,36 +1,41 @@
-2020-11-29 21:17:50,874          root     INFO: Starting script
-2020-11-29 21:17:52,158          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 21:17:52,841          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 21:17:53,509          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 21:17:53,665          root     INFO: Parsing R7 - Brasil
-2020-11-29 21:17:55,697          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edvaldo-nogueira-confirma-favoritismo-e-e-reeleito-prefeito-de-aracaju.shtml
-2020-11-29 21:17:55,709          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/dario-saadi-e-eleito-prefeito-de-campinas-projeta-datafolha.shtml
-2020-11-29 21:17:55,718          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vitoria-de-covas-e-abertura-do-jogo-de-doria-contra-bolsonaro-em-2022.shtml
-2020-11-29 21:17:55,727          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
-2020-11-29 21:17:55,735          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-covas-e-reeleito-prefeito-de-sao-paulo-projeta-datafolha.shtml
-2020-11-29 21:17:55,744          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-braide-do-podemos-sera-prefeito-de-sao-luis-projeta-datafolha.shtml
-2020-11-29 21:17:55,752          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 21:17:55,760          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
-2020-11-29 21:17:55,769          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-campos-vence-prima-marilia-arraes-e-sera-prefeito-do-recife-projeta-datafolha.shtml
-2020-11-29 21:17:55,885          root     INFO: Edmilson Rodrigues é eleito prefeito de <del>Belém, projeta Datafolha</del> <ins>Belém</ins>
-2020-11-29 21:17:57,651          root     INFO: Media ready with ids: 1333158279657172992
-2020-11-29 21:17:57,651          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 21:17:57,651          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
-2020-11-29 21:17:57,657          root     INFO: Replying to: 1333153293195939841
-2020-11-29 21:17:57,924          root     INFO: Id to store: 1333158281221722112
-2020-11-29 21:17:57,929          root     INFO: O deputado estadual Edmilson Rodrigues (PSOL), 63, foi eleito para comandar na capital do <del>Pará, projeta o Datafolha.</del> <ins>Pará.</ins> Com <del>62,7%</del> <ins>99,56%</ins> das urnas apuradas até as <del>17h20,</del> <ins>18h,</ins> ele tinha <del>51,22%</del> <ins>51,75%</ins> dos voto válidos. Leia mais (11/29/2020 - <del>16h43)</del> <ins>17h37)</ins>
-2020-11-29 21:17:59,633          root     INFO: Media ready with ids: 1333158287945199619
-2020-11-29 21:17:59,634          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 21:17:59,634          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
-2020-11-29 21:17:59,639          root     INFO: Replying to: 1333158281221722112
-2020-11-29 21:17:59,856          root     INFO: Id to store: 1333158289358671874
-2020-11-29 21:18:03,346          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/panfletos-distorcem-frase-de-marilia-arraes-sobre-a-biblia.shtml
-2020-11-29 21:18:03,351          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3759
-2020-11-29 21:18:03,354          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-foi-alertado-para-problemas-de-ti-e-falta-de-testes-em-totalizacao-de-votos-mostram-documentos.shtml
-2020-11-29 21:18:03,357          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/psol-convoca-militantes-de-outros-estados-para-fazer-campanha-pro-boulos-em-sp.shtml
-2020-11-29 21:18:03,360          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/em-silencio-bolsonaro-sugere-nao-ter-motivos-para-se-preocupar-com-inquerito.shtml
-2020-11-29 21:18:03,363          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/decisivo-ultimo-debate-sera-vitrine-em-campanha-atipica-e-teste-para-estrategias-de-covas-e-boulos.shtml
-2020-11-29 21:18:03,366          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-e-boulos-estrearam-nas-paginas-da-folha-no-mesmo-ano-relembre.shtml
-2020-11-29 21:18:03,369          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/falhas-nos-testes-da-vacina-de-oxford-mostram-que-brasil-nao-pode-ser-refem-de-um-unico-laboratorio-diz-governador.shtml
-2020-11-29 21:18:03,372          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/candidatos-torram-fundo-eleitoral-mas-guardam-fundo-partidario-para-2022.shtml
-2020-11-29 21:18:03,373          root     INFO: Finished script
+2020-11-29 21:28:54,936          root     INFO: Starting script
+2020-11-29 21:28:55,775          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 21:28:56,450          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 21:28:57,120          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 21:28:57,345          root     INFO: Parsing R7 - Brasil
+2020-11-29 21:28:59,253          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/campanha-de-covas-evitou-nacionalizacao-fez-do-prefeito-seu-foco-e-tropecou-em-vice.shtml
+2020-11-29 21:28:59,379          root     INFO: O ex-prefeito Eduardo Paes (DEM), 51, venceu neste domingo (30) a disputa pela Prefeitura do Rio de Janeiro e volta a comandar a cidade que governou entre 2009 e 2016. Com <del>13%</del> <ins>57,25%</ins> das urnas apuradas, ele <del>obteve 65,72%</del> <ins>obtinha 64%</ins> dos votos válidos contra <del>34,28%</del> <ins>36%</ins> do atual prefeito Marcelo Crivella (Republicanos). Leia mais (11/29/2020 - 18h02)
+2020-11-29 21:29:01,207          root     INFO: Media ready with ids: 1333161062456320002
+2020-11-29 21:29:01,208          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 21:29:01,208          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
+2020-11-29 21:29:01,214          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
+2020-11-29 21:29:01,428          root     INFO: Replying to: 1333161064335355909
+2020-11-29 21:29:01,737          root     INFO: Id to store: 1333161065228722177
+2020-11-29 21:29:01,798          root     INFO: João Pessoa elege Cícero Lucena como <del>prefeito, projeta Datafolha</del> <ins>prefeito</ins>
+2020-11-29 21:29:06,551          root     INFO: Media ready with ids: 1333161085051002880
+2020-11-29 21:29:06,551          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 21:29:06,551          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-pessoa-elege-cicero-lucena-como-prefeito-projeta-datafolha.shtml
+2020-11-29 21:29:06,561          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-pessoa-elege-cicero-lucena-como-prefeito-projeta-datafolha.shtml
+2020-11-29 21:29:06,730          root     INFO: Replying to: 1333161086628081664
+2020-11-29 21:29:06,942          root     INFO: Id to store: 1333161087336910850
+2020-11-29 21:29:06,947          root     INFO: João Pessoa elegeu como prefeito? Cícero Lucena (PP), que já havia estado no comando da capital da Paraíba, <del>projeta o Datafolha. Com 80% das urnas apuradas, ele tinha 54,24%%</del> <ins>com 53,16%%</ins> dos votos válidos. Leia mais (11/29/2020 - 17h54)
+2020-11-29 21:29:08,630          root     INFO: Media ready with ids: 1333161093921910784
+2020-11-29 21:29:08,630          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 21:29:08,630          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-pessoa-elege-cicero-lucena-como-prefeito-projeta-datafolha.shtml
+2020-11-29 21:29:08,644          root     INFO: Replying to: 1333161087336910850
+2020-11-29 21:29:08,866          root     INFO: Id to store: 1333161095360602114
+2020-11-29 21:29:08,912          root     INFO: Delegado Pazolini derrota ex-prefeito e é eleito em Vitória <del>(ES), projeta Datafolha</del> <ins>(ES)</ins>
+2020-11-29 21:29:10,632          root     INFO: Media ready with ids: 1333161102310563841
+2020-11-29 21:29:10,633          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 21:29:10,634          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-pazolini-derrota-ex-prefeito-e-e-eleito-em-vitoria-es-projeta-datafolha.shtml
+2020-11-29 21:29:10,641          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-pazolini-derrota-ex-prefeito-e-e-eleito-em-vitoria-es-projeta-datafolha.shtml
+2020-11-29 21:29:10,836          root     INFO: Replying to: 1333161103891771393
+2020-11-29 21:29:11,053          root     INFO: Id to store: 1333161104562933762
+2020-11-29 21:29:11,058          root     INFO: O deputado estadual Delegado Lorenzo Pazolini (Republicanos), 38, derrotou o ex-prefeito João Coser (PT), 64, e foi eleito em Vitória <del>(ES), projeta o Datafolha</del> <ins>(ES).</ins> Leia mais (11/29/2020 - 17h41)
+2020-11-29 21:29:12,922          root     INFO: Media ready with ids: 1333161111353499648
+2020-11-29 21:29:12,923          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 21:29:12,923          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-pazolini-derrota-ex-prefeito-e-e-eleito-em-vitoria-es-projeta-datafolha.shtml
+2020-11-29 21:29:12,929          root     INFO: Replying to: 1333161104562933762
+2020-11-29 21:29:13,171          root     INFO: Id to store: 1333161113471635458
+2020-11-29 21:29:16,379          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sistema-detonaria-moro-mais-dia-menos-dia-diz-rosangela-sobre-marido-sob-bolsonaro.shtml
+2020-11-29 21:29:16,380          root     INFO: Finished script
