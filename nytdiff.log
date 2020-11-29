@@ -1,85 +1,19 @@
-2020-11-29 23:20:21,516          root     INFO: Starting script
-2020-11-29 23:20:22,376          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 23:20:23,079          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 23:20:23,761          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 23:20:23,997          root     INFO: Parsing R7 - Brasil
-2020-11-29 23:20:26,076          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pt-naufraga-no-2o-turno-e-vence-apenas-em-quatro-cidades.shtml
-2020-11-29 23:20:26,089          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/e-possivel-fazer-politica-sem-odio-diz-covas-em-discurso-da-vitoria-ao-lado-de-doria.shtml
-2020-11-29 23:20:26,100          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/alem-da-reeleicao-de-covas-em-sp-2o-turno-consolida-derrotas-de-bolsonaro-e-pt.shtml
-2020-11-29 23:20:26,109          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/segundo-turno-consolida-onda-cinza-dominada-por-sub-partidos-do-centrao.shtml
-2020-11-29 23:20:26,119          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/governo-minimiza-derrota-de-aliados-de-bolsonaro-e-reforca-lacos-com-centrao.shtml
-2020-11-29 23:20:26,130          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2020/11/bolsonaro-perdeu-nas-urnas-e-nas-ideias.shtml
-2020-11-29 23:20:26,162          root     INFO: Veja vídeo da prisão <del>feita pela PF do</del> <ins>de</ins> hacker suspeito de ter promovido ataque contra o TSE
-2020-11-29 23:20:27,860          root     INFO: Media ready with ids: 1333189108605267969
-2020-11-29 23:20:27,861          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:20:27,861          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/veja-video-da-prisao-feita-pela-pf-do-hacker-suspeito-de-ter-promovido-ataque-contra-o-tse.shtml
-2020-11-29 23:20:27,869          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/veja-video-da-prisao-feita-pela-pf-do-hacker-suspeito-de-ter-promovido-ataque-contra-o-tse.shtml
-2020-11-29 23:20:28,040          root     INFO: Replying to: 1333189110085935107
-2020-11-29 23:20:28,260          root     INFO: Id to store: 1333189110798888964
-2020-11-29 23:20:28,265          root     INFO: Em operação deflagrada <ins>pela Polícia Federal</ins> neste sábado (28), <del>a Polícia Federal prendeu</del> o líder do grupo suspeito de ter promovido o ataque hacker ao TSE (Tribunal Superior Eleitoral) no último dia 15, primeiro turno das eleições <del>2020.</del> <ins>2020, foi preso.</ins> Veja abaixo vídeo <ins>de um dos momentos</ins> da prisão, realizada em Portugal. Leia mais (11/29/2020 - 19h55)
-2020-11-29 23:20:30,009          root     INFO: Media ready with ids: 1333189117430165512
-2020-11-29 23:20:30,009          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 23:20:30,009          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/veja-video-da-prisao-feita-pela-pf-do-hacker-suspeito-de-ter-promovido-ataque-contra-o-tse.shtml
-2020-11-29 23:20:30,014          root     INFO: Replying to: 1333189110798888964
-2020-11-29 23:20:30,238          root     INFO: Id to store: 1333189119082717184
-2020-11-29 23:20:30,442          root     INFO: O prefeito Hildon Chaves (PSDB), 52, foi reeleito em Porto Velho, capital de <del>Rondônia, segundo projeção do Datafolha.</del> <ins>Rondônia.</ins> Com <del>86%</del> <ins>100%</ins> das urnas apuradas, <del>ele tinha 55%</del> <ins>Chaves teve 54,45%</ins> dos votos válidos, contra <del>45%</del> <ins>45,55%</ins> da vereadora Cristiane Lopes (PP), 36. Leia mais (11/29/2020 - 18h40)
-2020-11-29 23:20:32,190          root     INFO: Media ready with ids: 1333189126586298369
-2020-11-29 23:20:32,191          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 23:20:32,191          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/hildon-chaves-e-reeleito-para-a-prefeitura-de-porto-velho.shtml
-2020-11-29 23:20:32,199          root     INFO: Replying to: 1333176864446291969
-2020-11-29 23:20:32,412          root     INFO: Id to store: 1333189128234610696
-2020-11-29 23:20:32,595          root     INFO: José Sarto bate Capitão Wagner e será prefeito de <del>Fortaleza, projeta Datafolha</del> <ins>Fortaleza</ins>
-2020-11-29 23:20:34,299          root     INFO: Media ready with ids: 1333189135419535360
-2020-11-29 23:20:34,299          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:20:34,300          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
-2020-11-29 23:20:34,306          root     INFO: Replying to: 1333176893231788034
-2020-11-29 23:20:34,525          root     INFO: Id to store: 1333189137067864071
-2020-11-29 23:20:34,532          root     INFO: O médico e deputado estadual José Sarto (PDT) <del>será o</del> <ins>foi eleito como</ins> novo prefeito de Fortaleza pelos próximos quatro <del>anos, segundo projeção do Datafolha.</del> <ins>anos.</ins> Com <del>50%</del> <ins>100%</ins> das urnas apuradas na capital do <del>Ceará até as 18h deste domingo (29),</del> <ins>Ceará,</ins> Sarto registrou <del>52%</del> <ins>51,69%</ins> dos votos válidos e superou o deputado federal Capitão Wagner (Pros). A vitória de Sarto representa o sucesso de uma ampla frente que se formou em torno do candidato neste segundo turno, com o apoio de partidos que que vão da esquerda de PT e PSOL até a centro-direita de DEM e PSDB. Leia mais (11/29/2020 - 18h06)
-2020-11-29 23:20:36,327          root     INFO: Media ready with ids: 1333189143896190985
-2020-11-29 23:20:36,327          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 23:20:36,327          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
-2020-11-29 23:20:36,334          root     INFO: Replying to: 1333189137067864071
-2020-11-29 23:20:36,597          root     INFO: Id to store: 1333189145578049536
-2020-11-29 23:20:36,783          root     INFO: Eduardo Paes derrota Crivella e é eleito prefeito do Rio de <del>Janeiro, projeta Datafolha</del> <ins>Janeiro</ins>
-2020-11-29 23:20:38,449          root     INFO: Media ready with ids: 1333189152997773314
-2020-11-29 23:20:38,449          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:20:38,449          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 23:20:38,456          root     INFO: Replying to: 1333183548501659648
-2020-11-29 23:20:38,672          root     INFO: Id to store: 1333189154482614274
-2020-11-29 23:20:38,677          root     INFO: O ex-prefeito Eduardo Paes (DEM), 51, venceu neste domingo (30) a disputa pela Prefeitura do Rio de Janeiro e volta a comandar a cidade que governou entre 2009 e 2016. Com <del>13%</del> <ins>100%</ins> das urnas apuradas, ele obteve <del>65,72%</del> <ins>64,07%</ins> dos votos válidos contra <del>34,28%</del> <ins>35,93%</ins> do atual prefeito Marcelo Crivella (Republicanos). Leia mais (11/29/2020 - 18h02)
-2020-11-29 23:20:40,431          root     INFO: Media ready with ids: 1333189161168367617
-2020-11-29 23:20:40,431          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 23:20:40,431          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 23:20:40,437          root     INFO: Replying to: 1333189154482614274
-2020-11-29 23:20:40,658          root     INFO: Id to store: 1333189162778890245
-2020-11-29 23:20:40,691          root     INFO: Sebastião Melo <del>(MDB)</del> <ins>derrota Manuela D'Ávila e</ins> é eleito prefeito de Porto <del>Alegre, projeta Datafolha</del> <ins>Alegre</ins>
-2020-11-29 23:20:42,343          root     INFO: Media ready with ids: 1333189169330483201
-2020-11-29 23:20:42,344          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:20:42,344          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
-2020-11-29 23:20:42,349          root     INFO: Replying to: 1333176935330033666
-2020-11-29 23:20:42,564          root     INFO: Id to store: 1333189170798456832
-2020-11-29 23:20:42,569          root     INFO: Sebastião Melo (MDB), 62, foi escolhido pelos porto-alegrenses para governar a capital gaúcha na próxima <del>gestão, projeta o Datafolha.</del> <ins>gestão.</ins> Leia mais (11/29/2020 - 17h58)
-2020-11-29 23:20:44,312          root     INFO: Media ready with ids: 1333189177286987778
-2020-11-29 23:20:44,312          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 23:20:44,312          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
-2020-11-29 23:20:44,318          root     INFO: Replying to: 1333189170798456832
-2020-11-29 23:20:44,532          root     INFO: Id to store: 1333189179061231621
-2020-11-29 23:20:44,623          root     INFO: Internado após contrair Covid-19, Maguito Vilela é eleito em <del>Goiânia, projeta Datafolha</del> <ins>Goiânia</ins>
-2020-11-29 23:20:46,326          root     INFO: Media ready with ids: 1333189185876979720
-2020-11-29 23:20:46,327          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:20:46,327          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/internado-apos-contrair-covid-19-maguito-vilela-e-eleito-em-goiania-projeta-datafolha.shtml
-2020-11-29 23:20:46,332          root     INFO: Replying to: 1333174834981908486
-2020-11-29 23:20:46,556          root     INFO: Id to store: 1333189187542114304
-2020-11-29 23:20:48,214          root     INFO: Ainda internado no Hospital Albert Einstein, em São Paulo, para tratamento da Covid-19, o ex-governador de Goiás Maguito Vilela (MDB) foi eleito prefeito de <del>Goiânia, projeta o Datafolha.</del> <ins>Goiânia.</ins> Ele alcançou <del>51,3%</del> <ins>52,6%</ins> dos votos válidos neste domingo (29) com <del>48%</del> <ins>100%</ins> das urnas apuradas. <ins>?</ins> Maguito já havia ficado à frente do senador Vanderlan Cardoso (PSD) no primeiro turno, quando recebeu 36,02% dos votos válidos contra 24,67% do adversário. Leia mais (11/29/2020 - 17h51)
-2020-11-29 23:20:50,084          root     INFO: Media ready with ids: 1333189201190326273
-2020-11-29 23:20:50,084          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 23:20:50,084          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/internado-apos-contrair-covid-19-maguito-vilela-e-eleito-em-goiania-projeta-datafolha.shtml
-2020-11-29 23:20:50,090          root     INFO: Replying to: 1333189187542114304
-2020-11-29 23:20:50,316          root     INFO: Id to store: 1333189203291762690
-2020-11-29 23:20:53,311          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/kassio-nunes-pede-analise-presencial-e-encerra-julgamento-virtual-sobre-rachadinha.shtml
-2020-11-29 23:20:53,314          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-participou-de-7-eventos-presenciais-apos-saber-que-aliada-tinha-covid.shtml
-2020-11-29 23:20:53,316          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tarcisio-contrai-covid-19-e-e-o-14o-ministro-de-bolsonaro-a-ser-infectado-com-o-virus.shtml
-2020-11-29 23:20:53,319          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/palocci-e-o-principal-atingido-por-delacao-de-ex-acionista-da-qualicorp.shtml
-2020-11-29 23:20:53,322          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/justica-do-am-manda-tirar-do-ar-reportagem-sobre-juizes-e-candidato.shtml
-2020-11-29 23:20:53,325          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/manual-de-jornalismo-de-mobilidade-urbana-da-folha-vence-premio-da-aberje.shtml
-2020-11-29 23:20:53,326          root     INFO: Finished script
+2020-11-29 23:29:11,887          root     INFO: Starting script
+2020-11-29 23:29:12,732          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 23:29:13,401          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 23:29:14,065          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 23:29:14,282          root     INFO: Parsing R7 - Brasil
+2020-11-29 23:29:15,989          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-prefeito-alexandre-ferreira-volta-ao-cargo-apos-quatro-anos-em-franca.shtml
+2020-11-29 23:29:15,999          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tiao-bocalom-e-eleito-prefeito-de-rio-branco.shtml
+2020-11-29 23:29:16,007          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/com-novas-derrotas-bolsonaro-consolida-fiasco-como-cabo-eleitoral-em-2020-veja-lista-completa.shtml
+2020-11-29 23:29:16,049          root     INFO: "É possível fazer política sem ódio", disse na noite deste domingo (29) o prefeito reeleito de São Paulo, Bruno Covas (PSDB), em discurso ao comemorar sua <del>vitória.</del> <ins>vitória em que apelou à moderação e disse que a cidade respeita a democracia e o equilíbrio.</ins> Leia mais (11/29/2020 - 20h14)
+2020-11-29 23:29:17,826          root     INFO: Media ready with ids: 1333191331494187010
+2020-11-29 23:29:17,827          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:29:17,827          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/e-possivel-fazer-politica-sem-odio-diz-covas-em-discurso-da-vitoria-ao-lado-de-doria.shtml
+2020-11-29 23:29:17,833          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/e-possivel-fazer-politica-sem-odio-diz-covas-em-discurso-da-vitoria-ao-lado-de-doria.shtml
+2020-11-29 23:29:18,007          root     INFO: Replying to: 1333191332932841478
+2020-11-29 23:29:18,246          root     INFO: Id to store: 1333191333729669126
+2020-11-29 23:29:21,353          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/11/o-vice-do-vice.shtml
+2020-11-29 23:29:21,357          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/11/luta-de-classes-nos-eua.shtml
+2020-11-29 23:29:21,361          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/voto-a-voto/2020/11/as-dificeis-viradas-de-segundo-turno.shtml
+2020-11-29 23:29:21,361          root     INFO: Finished script
