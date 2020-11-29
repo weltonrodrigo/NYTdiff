@@ -1,10 +1,15 @@
-2020-11-29 14:57:58,922          root     INFO: Starting script
-2020-11-29 14:57:59,803          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 14:58:00,477          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 14:58:01,162          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 14:58:01,353          root     INFO: Parsing R7 - Brasil
-2020-11-29 14:58:03,347          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405546
-2020-11-29 14:58:03,357          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405545
-2020-11-29 14:58:06,899          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/carta-de-empresarios-defende-boulos-e-define-covas-como-gestor-sem-brilho.shtml
-2020-11-29 14:58:06,902          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/e-falso-que-boulos-tenha-cobrado-aluguel-de-moradores-sem-teto.shtml
-2020-11-29 14:58:06,903          root     INFO: Finished script
+2020-11-29 15:20:20,591          root     INFO: Starting script
+2020-11-29 15:20:21,699          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 15:20:22,540          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 15:20:23,377          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 15:20:23,601          root     INFO: Parsing R7 - Brasil
+2020-11-29 15:20:25,374          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405547
+2020-11-29 15:20:25,449          root     INFO: <del>O ex-presidente da República</del> <ins>Gabriel Cabral-29.nov.2020/Folhapress Covas acompanha voto de</ins> Fernando Henrique Cardoso <del>(PSDB) votou na manhã deste domingo (29)</del> no <del>bairro de</del> <ins>Colégio Sion, em</ins> Higienópolis <del>(região central da capital) na companhia do candidato tucano à Prefeitura de São Paulo, Bruno Covas.</del> Leia mais (11/29/2020 - 11h10)
+2020-11-29 15:20:27,396          root     INFO: Media ready with ids: 1333068310460698627
+2020-11-29 15:20:27,396          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 15:20:27,397          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405542
+2020-11-29 15:20:27,402          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405542
+2020-11-29 15:20:27,722          root     INFO: Replying to: 1333068312775897090
+2020-11-29 15:20:28,022          root     INFO: Id to store: 1333068313753251841
+2020-11-29 15:20:31,174          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/mulher-de-vice-de-covas-muda-versao-e-agora-diz-que-nao-se-lembra-de-denuncia-por-violencia-domestica.shtml
+2020-11-29 15:20:31,175          root     INFO: Finished script
