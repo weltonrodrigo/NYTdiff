@@ -1,75 +1,85 @@
-2020-11-29 22:58:02,190          root     INFO: Starting script
-2020-11-29 22:58:03,023          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 22:58:03,699          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 22:58:04,371          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 22:58:04,766          root     INFO: Parsing R7 - Brasil
-2020-11-29 22:58:06,681          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/veja-video-da-prisao-feita-pela-pf-do-hacker-suspeito-de-ter-promovido-ataque-contra-o-tse.shtml
-2020-11-29 22:58:06,802          root     INFO: Caio Cunha (Podemos) é eleito prefeito de Mogi das <del>Cruzes, projeta Datafolha</del> <ins>Cruzes</ins>
-2020-11-29 22:58:08,476          root     INFO: Media ready with ids: 1333183490939101190
-2020-11-29 22:58:08,476          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 22:58:08,476          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/caio-cunha-podemos-e-eleito-prefeito-de-mogi-das-cruzes-projeta-datafolha.shtml
-2020-11-29 22:58:08,482          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/caio-cunha-podemos-e-eleito-prefeito-de-mogi-das-cruzes-projeta-datafolha.shtml
-2020-11-29 22:58:08,653          root     INFO: Replying to: 1333183492310634496
-2020-11-29 22:58:08,878          root     INFO: Id to store: 1333183493015212034
-2020-11-29 22:58:08,884          root     INFO: O vereador Caio Cunha (Podemos), 42, <del>venceu o prefeito Marcus Melo (PSDB), 48, e</del> foi eleito neste domingo (19) prefeito de Mogi das <del>Cruzes, segundo projeção feita</del> <ins>Cruzes. Cunha aparece com 58,39% dos votos contra 41,61% do prefeito e candidato à reeleição Marcus Melo (PSDB), 48. A vitória foi projetada</ins> pelo Datafolha. Como vice, ele escolheu a professora Priscila <del>Yamagami.</del> <ins>Yamagami (Podemos). Principal cidade do Alto Tietê, com 450 mil habitantes, Mogi não tinha segundo turno desde o ano 2000. No século atual, foi governada pelo mesmo grupo político, do ex-deputado federal Valdemar Costa Neto, condenado no mensalão. O PL, partido do político, compunha a chapa de Melo com o candidato à vice.</ins> Leia mais (11/29/2020 - 18h51)
-2020-11-29 22:58:10,726          root     INFO: Media ready with ids: 1333183500032364545
-2020-11-29 22:58:10,727          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:58:10,728          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/caio-cunha-podemos-e-eleito-prefeito-de-mogi-das-cruzes-projeta-datafolha.shtml
-2020-11-29 22:58:10,734          root     INFO: Replying to: 1333183493015212034
-2020-11-29 22:58:10,954          root     INFO: Id to store: 1333183501714288640
-2020-11-29 22:58:11,109          root     INFO: O atual prefeito de Cuiabá, Emanuel Pinheiro (MDB), foi eleito para comandar a capital de Mato <del>Grosso, projeta o Datafolha.</del> <ins>Grosso.</ins> Com <del>48,96%</del> <ins>100%</ins> das urnas apuradas, ele <del>tinha 51,36%</del> <ins>teve 51,15%</ins> dos votos válidos. Leia mais (11/29/2020 - 18h28)
-2020-11-29 22:58:12,841          root     INFO: Media ready with ids: 1333183509037539334
-2020-11-29 22:58:12,842          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:58:12,842          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/emanuel-pinheiro-e-reeleito-em-cuiaba-em-disputa-contra-vereador.shtml
-2020-11-29 22:58:12,848          root     INFO: Replying to: 1333174741985845252
-2020-11-29 22:58:13,054          root     INFO: Id to store: 1333183510589403136
-2020-11-29 22:58:13,148          root     INFO: Dário Saadi é eleito prefeito de <del>Campinas, projeta Datafolha</del> <ins>Campinas</ins>
-2020-11-29 22:58:14,845          root     INFO: Media ready with ids: 1333183517405155335
-2020-11-29 22:58:14,846          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 22:58:14,846          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/dario-saadi-e-eleito-prefeito-de-campinas-projeta-datafolha.shtml
-2020-11-29 22:58:14,853          root     INFO: Replying to: 1333165585560178690
-2020-11-29 22:58:15,071          root     INFO: Id to store: 1333183519007404034
-2020-11-29 22:58:15,079          root     INFO: O médico Dário Saadi (Republicanos), 57, foi eleito neste domingo <del>(29), segundo projeção do Datafolha,</del> <ins>(29)</ins> prefeito de Campinas, ao derrotar no segundo turno o deputado estadual Rafa Zimbaldi (PL), 39. <ins>Saadi obteve 57,07% dos votos válidos.</ins> A campanha no interior foi marcada pela ausência da figura do governador João Doria (PSDB) até mesmo entre os favoritos. No primeiro turno, Dário recebeu 121.932 votos na cidade mais populosa do interior paulista (1,2 milhão de habitantes), o equivalente a 25,78% dos votos válidos, ante os 103.397 votos de Zimbaldi, 21,86% do total. Médico urologista, Dário foi vereador em quatro mandatos, além de secretário de Esportes de Campinas. Também foi presidente do hospital Mário Gatti. O prefeito eleito, que disputou a eleição com o apoio de outros quatro partidos em sua chapa (DEM, MDB, PSB e PSL), também recebeu apoio do atual prefeito de Campinas, Jonas Donizette (PSB), de quem foi secretário de Esportes. Apesar do bom relacionamento entre a atual gestão campineira e o governo paulista, Dário preferiu mostrar que tem bom trânsito com Brasília durante a sua campanha. Apresentou, por exemplo, vídeo feito com o presidente do Senado, Davi Alcolumbre (DEM-AP). <del>Já Zimbaldi contava com outros sete partidos em sua coligação (Solidariedade, PSC, PP, PSDB, PROS, Podemos e Avante). A campanha em Campinas foi marcada, especialmente na última semana, por troca de farpas envolvendo as candidaturas. Enquanto Zimbaldi dizia que havia duas Campinas, "uma da propaganda eleitoral do Dário e a outra de verdade", o prefeito eleito pedia que os eleitores comparassem a sua história com a do deputado. Zimbaldi se aliou ao PSDB de Doria na cidade para fortalecer sua candidatura ao palácio dos Jequitibás. Foi alvo de ataques devido a seu apoio, como deputado estadual, a políticas do governo paulista em tramitação na Assembleia Legislativa. Na campanha, ele afirmou não ser "candidato de ninguém". A eleição deste ano em Campinas teve 14 candidaturas registradas no TSE, uma delas a do também médico Pedro Tourinho (PT), 38, que ameaçou a posição de Zimbaldi no segundo turno. O petista alcançou 20,49% dos votos válidos (96.905 no total, 6.492 a menos que o deputado). Também disputaram a eleição o servidor público Artur Orsi (PSD), 50, que obteve 16,72% dos votos, o empresário Wilson Matos (Patriota), 42, a aposentada Delegada Teresinha (PTB), 64, Alessandra Ribeiro (PC do B), 44, o ex-prefeito Dr. Hélio (PDT), 70, o empresário Rogerio Parada (PRTB), 54, o vereador André Von Zuben (Cidadania), 58, o oceanógrafo Rogerio Menezes (PV), 52, o servidor público Prof. Ahmed Tarique Agio (PMN), 27, a petroleira Laura Leal (PSTU), 44, e Edson Dorta (PCO), 48.</del> Leia mais (11/29/2020 - 18h12)
-2020-11-29 22:58:17,668          root     INFO: Media ready with ids: 1333183527802777602
-2020-11-29 22:58:17,669          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:58:17,669          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/dario-saadi-e-eleito-prefeito-de-campinas-projeta-datafolha.shtml
-2020-11-29 22:58:17,675          root     INFO: Replying to: 1333183519007404034
-2020-11-29 22:58:17,941          root     INFO: Id to store: 1333183530835316737
-2020-11-29 22:58:18,050          root     INFO: Eduardo Paes derrota Crivella e é eleito prefeito do Rio de <del>Janeiro, projeta Datafolha</del> <ins>Janeiro</ins>
-2020-11-29 22:58:19,838          root     INFO: Media ready with ids: 1333183538347339781
-2020-11-29 22:58:19,839          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 22:58:19,839          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 22:58:19,845          root     INFO: Replying to: 1333176911044939776
-2020-11-29 22:58:20,058          root     INFO: Id to store: 1333183539932704770
-2020-11-29 22:58:20,063          root     INFO: O ex-prefeito Eduardo Paes (DEM), 51, venceu neste domingo (30) a disputa pela Prefeitura do Rio de Janeiro e volta a comandar a cidade que governou entre 2009 e 2016. Com <del>13%</del> <ins>98,74%</ins> das urnas apuradas, ele <del>obteve 65,72%</del> <ins>obtinha 64,11%</ins> dos votos válidos contra <del>34,28%</del> <ins>35,89%</ins> do atual prefeito Marcelo Crivella (Republicanos). Leia mais (11/29/2020 - 18h02)
-2020-11-29 22:58:21,871          root     INFO: Media ready with ids: 1333183546668818442
-2020-11-29 22:58:21,871          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:58:21,871          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 22:58:21,881          root     INFO: Replying to: 1333183539932704770
-2020-11-29 22:58:22,109          root     INFO: Id to store: 1333183548501659648
-2020-11-29 22:58:22,255          root     INFO: Teresina elege Dr. Pessoa para <del>prefeitura, projeta Datafolha</del> <ins>prefeitura</ins>
-2020-11-29 22:58:24,271          root     INFO: Media ready with ids: 1333183557188136961
-2020-11-29 22:58:24,272          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 22:58:24,272          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-elege-dr-pessoa-para-prefeitura-projeta-datafolha.shtml
-2020-11-29 22:58:24,278          root     INFO: Replying to: 1333176953558474752
-2020-11-29 22:58:24,490          root     INFO: Id to store: 1333183558551212035
-2020-11-29 22:58:24,498          root     INFO: Teresina elegeu como prefeito o médico e político Dr. Pessoa <del>(MDB), projeta o Datafolha. Ele tinha 63,5%</del> <ins>(MDB). Com 100% das urnas apuradas, ele teve 62,31%</ins> dos votos válidos neste domingo <del>(29) com 22% das urnas apuradas,</del> <ins>(29),</ins> à frente de Kleber Montezuma <del>(PSDB).</del> <ins>(PSDB), que somou 37,69%.</ins> José Pessoa Leal, 74, tem especialidade em cirurgia geral, saúde pública, administração hospitalar e medicina do trabalho. Filho de agricultores e alfabetizado aos 15 anos, foi professor da Universidade Federal do Piauí (UFPI). Leia mais (11/29/2020 - 17h39)
-2020-11-29 22:58:26,296          root     INFO: Media ready with ids: 1333183565425758208
-2020-11-29 22:58:26,296          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:58:26,296          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-elege-dr-pessoa-para-prefeitura-projeta-datafolha.shtml
-2020-11-29 22:58:26,303          root     INFO: Replying to: 1333183558551212035
-2020-11-29 22:58:26,537          root     INFO: Id to store: 1333183567040557057
-2020-11-29 22:58:26,593          root     INFO: Edmilson <del>Rodrigues</del> <ins>Rodrigues, do PSOL,</ins> é eleito prefeito de <del>Belém, projeta Datafolha</del> <ins>Belém</ins>
-2020-11-29 22:58:28,284          root     INFO: Media ready with ids: 1333183573864706055
-2020-11-29 22:58:28,285          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 22:58:28,285          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
-2020-11-29 22:58:28,291          root     INFO: Replying to: 1333168454778621953
-2020-11-29 22:58:28,511          root     INFO: Id to store: 1333183575399796738
-2020-11-29 22:58:30,025          root     INFO: O deputado estadual Edmilson Rodrigues (PSOL), 63, foi eleito para comandar na capital do <del>Pará, projeta o Datafolha.</del> <ins>Pará.</ins> Com <del>62,7%</del> <ins>100%</ins> das urnas <del>apuradas até as 17h20,</del> <ins>apuradas,</ins> ele <del>tinha 51,22%</del> <ins>teve 51,76%</ins> dos voto válidos. Leia mais (11/29/2020 - <del>16h43)</del> <ins>17h37)</ins>
-2020-11-29 22:58:31,842          root     INFO: Media ready with ids: 1333183588444086273
-2020-11-29 22:58:31,843          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:58:31,843          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
-2020-11-29 22:58:31,849          root     INFO: Replying to: 1333183575399796738
-2020-11-29 22:58:32,114          root     INFO: Id to store: 1333183590268612608
-2020-11-29 22:58:35,069          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/moraes-prorroga-por-60-dias-inquerito-que-investiga-bolsonaro-sobre-interferencia-no-comando-da-pf.shtml
-2020-11-29 22:58:35,070          root     INFO: Finished script
+2020-11-29 23:20:21,516          root     INFO: Starting script
+2020-11-29 23:20:22,376          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 23:20:23,079          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 23:20:23,761          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 23:20:23,997          root     INFO: Parsing R7 - Brasil
+2020-11-29 23:20:26,076          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pt-naufraga-no-2o-turno-e-vence-apenas-em-quatro-cidades.shtml
+2020-11-29 23:20:26,089          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/e-possivel-fazer-politica-sem-odio-diz-covas-em-discurso-da-vitoria-ao-lado-de-doria.shtml
+2020-11-29 23:20:26,100          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/alem-da-reeleicao-de-covas-em-sp-2o-turno-consolida-derrotas-de-bolsonaro-e-pt.shtml
+2020-11-29 23:20:26,109          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/segundo-turno-consolida-onda-cinza-dominada-por-sub-partidos-do-centrao.shtml
+2020-11-29 23:20:26,119          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/governo-minimiza-derrota-de-aliados-de-bolsonaro-e-reforca-lacos-com-centrao.shtml
+2020-11-29 23:20:26,130          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2020/11/bolsonaro-perdeu-nas-urnas-e-nas-ideias.shtml
+2020-11-29 23:20:26,162          root     INFO: Veja vídeo da prisão <del>feita pela PF do</del> <ins>de</ins> hacker suspeito de ter promovido ataque contra o TSE
+2020-11-29 23:20:27,860          root     INFO: Media ready with ids: 1333189108605267969
+2020-11-29 23:20:27,861          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 23:20:27,861          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/veja-video-da-prisao-feita-pela-pf-do-hacker-suspeito-de-ter-promovido-ataque-contra-o-tse.shtml
+2020-11-29 23:20:27,869          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/veja-video-da-prisao-feita-pela-pf-do-hacker-suspeito-de-ter-promovido-ataque-contra-o-tse.shtml
+2020-11-29 23:20:28,040          root     INFO: Replying to: 1333189110085935107
+2020-11-29 23:20:28,260          root     INFO: Id to store: 1333189110798888964
+2020-11-29 23:20:28,265          root     INFO: Em operação deflagrada <ins>pela Polícia Federal</ins> neste sábado (28), <del>a Polícia Federal prendeu</del> o líder do grupo suspeito de ter promovido o ataque hacker ao TSE (Tribunal Superior Eleitoral) no último dia 15, primeiro turno das eleições <del>2020.</del> <ins>2020, foi preso.</ins> Veja abaixo vídeo <ins>de um dos momentos</ins> da prisão, realizada em Portugal. Leia mais (11/29/2020 - 19h55)
+2020-11-29 23:20:30,009          root     INFO: Media ready with ids: 1333189117430165512
+2020-11-29 23:20:30,009          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:20:30,009          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/veja-video-da-prisao-feita-pela-pf-do-hacker-suspeito-de-ter-promovido-ataque-contra-o-tse.shtml
+2020-11-29 23:20:30,014          root     INFO: Replying to: 1333189110798888964
+2020-11-29 23:20:30,238          root     INFO: Id to store: 1333189119082717184
+2020-11-29 23:20:30,442          root     INFO: O prefeito Hildon Chaves (PSDB), 52, foi reeleito em Porto Velho, capital de <del>Rondônia, segundo projeção do Datafolha.</del> <ins>Rondônia.</ins> Com <del>86%</del> <ins>100%</ins> das urnas apuradas, <del>ele tinha 55%</del> <ins>Chaves teve 54,45%</ins> dos votos válidos, contra <del>45%</del> <ins>45,55%</ins> da vereadora Cristiane Lopes (PP), 36. Leia mais (11/29/2020 - 18h40)
+2020-11-29 23:20:32,190          root     INFO: Media ready with ids: 1333189126586298369
+2020-11-29 23:20:32,191          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:20:32,191          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/hildon-chaves-e-reeleito-para-a-prefeitura-de-porto-velho.shtml
+2020-11-29 23:20:32,199          root     INFO: Replying to: 1333176864446291969
+2020-11-29 23:20:32,412          root     INFO: Id to store: 1333189128234610696
+2020-11-29 23:20:32,595          root     INFO: José Sarto bate Capitão Wagner e será prefeito de <del>Fortaleza, projeta Datafolha</del> <ins>Fortaleza</ins>
+2020-11-29 23:20:34,299          root     INFO: Media ready with ids: 1333189135419535360
+2020-11-29 23:20:34,299          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 23:20:34,300          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
+2020-11-29 23:20:34,306          root     INFO: Replying to: 1333176893231788034
+2020-11-29 23:20:34,525          root     INFO: Id to store: 1333189137067864071
+2020-11-29 23:20:34,532          root     INFO: O médico e deputado estadual José Sarto (PDT) <del>será o</del> <ins>foi eleito como</ins> novo prefeito de Fortaleza pelos próximos quatro <del>anos, segundo projeção do Datafolha.</del> <ins>anos.</ins> Com <del>50%</del> <ins>100%</ins> das urnas apuradas na capital do <del>Ceará até as 18h deste domingo (29),</del> <ins>Ceará,</ins> Sarto registrou <del>52%</del> <ins>51,69%</ins> dos votos válidos e superou o deputado federal Capitão Wagner (Pros). A vitória de Sarto representa o sucesso de uma ampla frente que se formou em torno do candidato neste segundo turno, com o apoio de partidos que que vão da esquerda de PT e PSOL até a centro-direita de DEM e PSDB. Leia mais (11/29/2020 - 18h06)
+2020-11-29 23:20:36,327          root     INFO: Media ready with ids: 1333189143896190985
+2020-11-29 23:20:36,327          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:20:36,327          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
+2020-11-29 23:20:36,334          root     INFO: Replying to: 1333189137067864071
+2020-11-29 23:20:36,597          root     INFO: Id to store: 1333189145578049536
+2020-11-29 23:20:36,783          root     INFO: Eduardo Paes derrota Crivella e é eleito prefeito do Rio de <del>Janeiro, projeta Datafolha</del> <ins>Janeiro</ins>
+2020-11-29 23:20:38,449          root     INFO: Media ready with ids: 1333189152997773314
+2020-11-29 23:20:38,449          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 23:20:38,449          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
+2020-11-29 23:20:38,456          root     INFO: Replying to: 1333183548501659648
+2020-11-29 23:20:38,672          root     INFO: Id to store: 1333189154482614274
+2020-11-29 23:20:38,677          root     INFO: O ex-prefeito Eduardo Paes (DEM), 51, venceu neste domingo (30) a disputa pela Prefeitura do Rio de Janeiro e volta a comandar a cidade que governou entre 2009 e 2016. Com <del>13%</del> <ins>100%</ins> das urnas apuradas, ele obteve <del>65,72%</del> <ins>64,07%</ins> dos votos válidos contra <del>34,28%</del> <ins>35,93%</ins> do atual prefeito Marcelo Crivella (Republicanos). Leia mais (11/29/2020 - 18h02)
+2020-11-29 23:20:40,431          root     INFO: Media ready with ids: 1333189161168367617
+2020-11-29 23:20:40,431          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:20:40,431          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
+2020-11-29 23:20:40,437          root     INFO: Replying to: 1333189154482614274
+2020-11-29 23:20:40,658          root     INFO: Id to store: 1333189162778890245
+2020-11-29 23:20:40,691          root     INFO: Sebastião Melo <del>(MDB)</del> <ins>derrota Manuela D'Ávila e</ins> é eleito prefeito de Porto <del>Alegre, projeta Datafolha</del> <ins>Alegre</ins>
+2020-11-29 23:20:42,343          root     INFO: Media ready with ids: 1333189169330483201
+2020-11-29 23:20:42,344          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 23:20:42,344          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
+2020-11-29 23:20:42,349          root     INFO: Replying to: 1333176935330033666
+2020-11-29 23:20:42,564          root     INFO: Id to store: 1333189170798456832
+2020-11-29 23:20:42,569          root     INFO: Sebastião Melo (MDB), 62, foi escolhido pelos porto-alegrenses para governar a capital gaúcha na próxima <del>gestão, projeta o Datafolha.</del> <ins>gestão.</ins> Leia mais (11/29/2020 - 17h58)
+2020-11-29 23:20:44,312          root     INFO: Media ready with ids: 1333189177286987778
+2020-11-29 23:20:44,312          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:20:44,312          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
+2020-11-29 23:20:44,318          root     INFO: Replying to: 1333189170798456832
+2020-11-29 23:20:44,532          root     INFO: Id to store: 1333189179061231621
+2020-11-29 23:20:44,623          root     INFO: Internado após contrair Covid-19, Maguito Vilela é eleito em <del>Goiânia, projeta Datafolha</del> <ins>Goiânia</ins>
+2020-11-29 23:20:46,326          root     INFO: Media ready with ids: 1333189185876979720
+2020-11-29 23:20:46,327          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 23:20:46,327          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/internado-apos-contrair-covid-19-maguito-vilela-e-eleito-em-goiania-projeta-datafolha.shtml
+2020-11-29 23:20:46,332          root     INFO: Replying to: 1333174834981908486
+2020-11-29 23:20:46,556          root     INFO: Id to store: 1333189187542114304
+2020-11-29 23:20:48,214          root     INFO: Ainda internado no Hospital Albert Einstein, em São Paulo, para tratamento da Covid-19, o ex-governador de Goiás Maguito Vilela (MDB) foi eleito prefeito de <del>Goiânia, projeta o Datafolha.</del> <ins>Goiânia.</ins> Ele alcançou <del>51,3%</del> <ins>52,6%</ins> dos votos válidos neste domingo (29) com <del>48%</del> <ins>100%</ins> das urnas apuradas. <ins>?</ins> Maguito já havia ficado à frente do senador Vanderlan Cardoso (PSD) no primeiro turno, quando recebeu 36,02% dos votos válidos contra 24,67% do adversário. Leia mais (11/29/2020 - 17h51)
+2020-11-29 23:20:50,084          root     INFO: Media ready with ids: 1333189201190326273
+2020-11-29 23:20:50,084          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:20:50,084          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/internado-apos-contrair-covid-19-maguito-vilela-e-eleito-em-goiania-projeta-datafolha.shtml
+2020-11-29 23:20:50,090          root     INFO: Replying to: 1333189187542114304
+2020-11-29 23:20:50,316          root     INFO: Id to store: 1333189203291762690
+2020-11-29 23:20:53,311          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/kassio-nunes-pede-analise-presencial-e-encerra-julgamento-virtual-sobre-rachadinha.shtml
+2020-11-29 23:20:53,314          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/boulos-participou-de-7-eventos-presenciais-apos-saber-que-aliada-tinha-covid.shtml
+2020-11-29 23:20:53,316          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tarcisio-contrai-covid-19-e-e-o-14o-ministro-de-bolsonaro-a-ser-infectado-com-o-virus.shtml
+2020-11-29 23:20:53,319          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/palocci-e-o-principal-atingido-por-delacao-de-ex-acionista-da-qualicorp.shtml
+2020-11-29 23:20:53,322          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/justica-do-am-manda-tirar-do-ar-reportagem-sobre-juizes-e-candidato.shtml
+2020-11-29 23:20:53,325          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/manual-de-jornalismo-de-mobilidade-urbana-da-folha-vence-premio-da-aberje.shtml
+2020-11-29 23:20:53,326          root     INFO: Finished script
