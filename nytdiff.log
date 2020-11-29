@@ -1,80 +1,69 @@
-2020-11-29 23:46:53,449          root     INFO: Starting script
-2020-11-29 23:46:54,313          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 23:46:54,994          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 23:46:55,655          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 23:46:55,965          root     INFO: Parsing R7 - Brasil
-2020-11-29 23:46:57,667          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-prefeito-alexandre-ferreira-volta-ao-cargo-apos-quatro-anos-em-franca-sp.shtml
-2020-11-29 23:46:57,677          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/nas-capitais-centro-avanca-e-pt-fica-sem-eleger-prefeitos-pela-primeira-vez-desde-1985.shtml
-2020-11-29 23:46:57,704          root     INFO: Ex-prefeito, Alexandre Ferreira <ins>(MDB)</ins> volta ao cargo após quatro anos em Franca
-2020-11-29 23:46:59,471          root     INFO: Media ready with ids: 1333195784209227776
-2020-11-29 23:46:59,472          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:46:59,472          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-prefeito-alexandre-ferreira-volta-ao-cargo-apos-quatro-anos-em-franca.shtml
-2020-11-29 23:46:59,479          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-prefeito-alexandre-ferreira-volta-ao-cargo-apos-quatro-anos-em-franca.shtml
-2020-11-29 23:46:59,642          root     INFO: Replying to: 1333195785777897474
-2020-11-29 23:46:59,839          root     INFO: Id to store: 1333195786415443969
-2020-11-29 23:46:59,871          root     INFO: Tião Bocalom <ins>(PP)</ins> é eleito prefeito de Rio Branco
-2020-11-29 23:47:01,529          root     INFO: Media ready with ids: 1333195792845320194
-2020-11-29 23:47:01,529          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:47:01,530          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tiao-bocalom-e-eleito-prefeito-de-rio-branco.shtml
-2020-11-29 23:47:01,536          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tiao-bocalom-e-eleito-prefeito-de-rio-branco.shtml
-2020-11-29 23:47:01,743          root     INFO: Replying to: 1333195794560802816
-2020-11-29 23:47:01,951          root     INFO: Id to store: 1333195795215085569
-2020-11-29 23:47:01,959          root     INFO: Tião Bocalom (PP), 67, foi eleito prefeito de Rio Branco, capital do Acre, neste domingo (29). Com <del>89%</del> <ins>98%</ins> das urnas apuradas, ele tinha <del>62%</del> <ins>63%</ins> dos votos válidos. Derrotou a prefeita Socorro Neri (PSB), 54, que aparecia <del>38%.</del> <ins>37%.</ins> Leia mais (11/29/2020 - 20h21)
-2020-11-29 23:47:03,613          root     INFO: Media ready with ids: 1333195801682726913
-2020-11-29 23:47:03,614          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 23:47:03,614          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tiao-bocalom-e-eleito-prefeito-de-rio-branco.shtml
-2020-11-29 23:47:03,619          root     INFO: Replying to: 1333195795215085569
-2020-11-29 23:47:03,833          root     INFO: Id to store: 1333195803096133634
-2020-11-29 23:47:03,998          root     INFO: Rodrigo Manga <ins>(Republicanos)</ins> confirma favoritismo e é eleito <del>prefeito de</del> <ins>em</ins> Sorocaba
-2020-11-29 23:47:05,614          root     INFO: Media ready with ids: 1333195810188779521
-2020-11-29 23:47:05,614          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:47:05,615          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rodrigo-manga-confirma-favoritismo-e-e-eleito-prefeito-de-sorocaba.shtml
-2020-11-29 23:47:05,622          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rodrigo-manga-confirma-favoritismo-e-e-eleito-prefeito-de-sorocaba.shtml
-2020-11-29 23:47:05,786          root     INFO: Replying to: 1333195811539341314
-2020-11-29 23:47:05,999          root     INFO: Id to store: 1333195812197818368
-2020-11-29 23:47:06,081          root     INFO: Aprigio <ins>(Podemos)</ins> é eleito prefeito de Taboão da Serra
-2020-11-29 23:47:07,698          root     INFO: Media ready with ids: 1333195818921316354
-2020-11-29 23:47:07,699          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:47:07,699          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/aprigio-e-eleito-prefeito-de-taboao-da-serra.shtml
-2020-11-29 23:47:07,705          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/aprigio-e-eleito-prefeito-de-taboao-da-serra.shtml
-2020-11-29 23:47:07,865          root     INFO: Replying to: 1333195820238245888
-2020-11-29 23:47:08,081          root     INFO: Id to store: 1333195820963946497
-2020-11-29 23:47:08,216          root     INFO: Duarte Nogueira é reeleito prefeito de Ribeirão <del>Preto, projeta Datafolha</del> <ins>Preto</ins>
-2020-11-29 23:47:09,835          root     INFO: Media ready with ids: 1333195827867684869
-2020-11-29 23:47:09,836          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:47:09,836          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/duarte-nogueira-e-reeleito-prefeito-de-ribeirao-preto-projeta-datafolha.shtml
-2020-11-29 23:47:09,842          root     INFO: Replying to: 1333168385413296130
-2020-11-29 23:47:10,055          root     INFO: Id to store: 1333195829260267521
-2020-11-29 23:47:10,065          root     INFO: O prefeito de Ribeirão Preto, Duarte Nogueira (PSDB), 56, foi reeleito neste domingo <del>(29), segundo projeção do Datafolha,</del> <ins>(29)</ins> para um novo mandato à frente de uma das mais importantes cidades do interior paulista pelos próximos quatro anos. O atual prefeito, que está em sua quinta disputa pela prefeitura, <del>derrotou</del> <ins>obteve 63,16% dos votos válidos</ins> no segundo turno <ins>e derrotou a</ins> a ex-reitora da USP (Universidade de São Paulo) Suely Vilela <del>(PSB).</del> <ins>(PSB), que ficou com 36,85%.</ins> A campanha no interior foi marcada pela ausência da figura do governador João Doria (PSDB) até mesmo entre os favoritos. Depois de ter fechado o primeiro turno com 45,87% dos votos válidos (115.724), Nogueira ainda teve apoio da candidata Cris Bezerra (MDB), 52, que recebeu 7,06% dos votos (17.800) no primeiro turno e foi a quarta mais bem votada no último dia 15. Também declarou apoio ao tucano o engenheiro Emilson Roveri (Rede), 59, último colocado na disputa, com 0,22% dos votos válidos. A campanha do tucano foi baseada num slogan de que a cidade não pode parar e enfatizou obras como as de mobilidade urbana que estão em andamento, com a construção de pontes e viadutos no centro e na zona norte da cidade.Outros partidos que ficaram fora do segundo turno não declararam apoio a nenhum dos candidatos ou pediram que os eleitores anulassem o voto. <del>O PT, que venceu a eleição duas vezes na cidade com o ex-ministro Antonio Palocci, disputou a eleição com o promotor aposentado Antônio Alberto Machado (PT), 62, e decidiu não declarar apoio a nenhuma candidatura. "Esse posicionamento é fruto do nosso irrenunciável compromisso de derrotar o golpe de 2016 e os representantes de Bolsonaro e Doria", diz trecho de comunicado do partido. Machado foi o sexto colocado na disputa, com 6,81% dos votos válidos (17.190, no total). Já o PSOL, que teve o professor Mauro Inácio, 51, como candidato e pela primeira vez obteve uma vaga na Câmara, orientou sua militância a anular o voto neste domingo. Inácio teve 1,23% dos votos válidos. Também disputaram as eleições deste ano em Ribeirão Preto (a 313 km de São Paulo) o ex-deputado federal Fernando Chiarelli (Patriota), 63, o militar reformado Luis Henrique Usai (PRTB), 56, e o advogado Vanderley Caixe Filho (PC do B), 43. Com a vitória, o PSDB chegará a 2024, quando terminará o novo mandato de Nogueira, tendo governado Ribeirão por 16 anos desde 1997, ano em que o partido estreou no poder com o ex-prefeito Luiz Roberto Jábali (1937-2004). Após a sua saída do cargo, o PT governou a cidade entre 2001 e 2004, primeiro com Palocci, que renunciou em 2002 para integrar o governo Lula, e depois com seu vice, Gilberto Maggioni.O PSDB voltou ao poder em 2005, com Welson Gasparini, que ficou no cargo até 2008, quando foi sucedido por Dárcy Vera. Ela governou até dezembro de 2016, quando foi afastada após a operação Sevandija. Dárcy foi condenada em primeira instância a 18 anos, 9 meses e 10 dias de reclusão, pena que foi aumentada no TJ (Tribunal de Justiça) para 26 anos, 1 mês e 3 dias. Sua defesa recorre da decisão. Nogueira já tinha disputado a prefeitura em 1992, 2000 e 2012, tendo perdido as duas primeiras para Palocci e a última, para Dárcy.Há quatro anos, o tucano foi eleito prefeito pela primeira vez à prefeitura ao bater o hoje deputado federal Ricardo Silva (PSB), 35, no segundo turno.Ricardo era visto como candidato natural de oposição ao tucano até seis meses atrás, quando assumiu vaga na Câmara que era ocupada por Luiz Lauro Filho, 41, que morreu em Campinas após uma parada cardíaca. Além da saída de Ricardo da disputa, a corrida eleitoral foi marcada por desistências em série, que mudaram o mapa da eleição mesmo após as convenções partidárias. O presidente da Câmara Municipal, Lincoln Fernandes (PDT), 41, anunciou a desistência dias depois de a convenção ter homologado seu nome, assim como o juiz aposentado João Gandini (MDB), 64. Ricardo e Gandini disputaram a eleição de 2016.Com a saída de Ricardo, o PSB optou pela ex-reitora da USP, que já tinha sido candidata a deputada estadual em 2018 pelo partido. Ela, que chegou a ser secretária da Educação de Nogueira em 2017, estava numa coligação com outros quatro partidos. Nogueira venceu outras seis eleições que disputou: foi deputado estadual três vezes (1994, 1998 e 2002) e federal outras três (2006, 2010 e 2014). Foi secretário da Habitação do ex-governador Mário Covas (1930-2001) e da Agricultura (2003-2006) e de Logística e Transporte (2015-2016) de Geraldo Alckmin (PSDB).A eleição deste ano em Ribeirão Preto teve recorde de candidaturas registradas no TSE, 11, mas três delas foram indeferidas pela Justiça Eleitoral. Uma foi revertida, a de Chiarelli, a dois dias do primeiro turno.</del> Leia mais (11/29/2020 - 18h37)
-2020-11-29 23:47:12,746          root     INFO: Media ready with ids: 1333195838475087873
-2020-11-29 23:47:12,747          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 23:47:12,747          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/duarte-nogueira-e-reeleito-prefeito-de-ribeirao-preto-projeta-datafolha.shtml
-2020-11-29 23:47:12,753          root     INFO: Replying to: 1333195829260267521
-2020-11-29 23:47:13,043          root     INFO: Id to store: 1333195841402757122
-2020-11-29 23:47:13,228          root     INFO: Eduardo Paes derrota Crivella e é eleito prefeito do Rio de <del>Janeiro, projeta Datafolha</del> <ins>Janeiro</ins>
-2020-11-29 23:47:14,902          root     INFO: Media ready with ids: 1333195849007046657
-2020-11-29 23:47:14,903          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:47:14,903          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 23:47:14,908          root     INFO: Replying to: 1333189162778890245
-2020-11-29 23:47:15,141          root     INFO: Id to store: 1333195850571460612
-2020-11-29 23:47:15,145          root     INFO: O ex-prefeito Eduardo Paes (DEM), 51, venceu neste domingo (30) a disputa pela Prefeitura do Rio de Janeiro e <del>volta</del> <ins>voltará</ins> a comandar a cidade que governou <del>entre</del> <ins>de</ins> 2009 <del>e</del> <ins>a</ins> 2016. Com <del>13%</del> <ins>100%</ins> das urnas apuradas, ele obteve <del>65,72%</del> <ins>64,07%</ins> dos votos válidos contra <del>34,28%</del> <ins>35,93%</ins> do atual prefeito Marcelo Crivella (Republicanos). Leia mais (11/29/2020 - 18h02)
-2020-11-29 23:47:16,889          root     INFO: Media ready with ids: 1333195857332727811
-2020-11-29 23:47:16,890          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 23:47:16,890          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 23:47:16,895          root     INFO: Replying to: 1333195850571460612
-2020-11-29 23:47:17,103          root     INFO: Id to store: 1333195858788093952
-2020-11-29 23:47:17,133          root     INFO: Sebastião Melo <del>(MDB)</del> <ins>derrota Manuela d'Ávila e</ins> é eleito prefeito de Porto <del>Alegre, projeta Datafolha</del> <ins>Alegre</ins>
-2020-11-29 23:47:18,743          root     INFO: Media ready with ids: 1333195865197056002
-2020-11-29 23:47:18,744          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 23:47:18,744          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
-2020-11-29 23:47:18,750          root     INFO: Replying to: 1333189179061231621
-2020-11-29 23:47:18,946          root     INFO: Id to store: 1333195866568527884
-2020-11-29 23:47:18,950          root     INFO: Sebastião Melo (MDB), 62, foi escolhido pelos porto-alegrenses para governar a capital gaúcha na próxima <del>gestão, projeta o Datafolha.</del> <ins>gestão.</ins> Leia mais (11/29/2020 - 17h58)
-2020-11-29 23:47:20,590          root     INFO: Media ready with ids: 1333195872939675653
-2020-11-29 23:47:20,590          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 23:47:20,590          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
-2020-11-29 23:47:20,595          root     INFO: Replying to: 1333195866568527884
-2020-11-29 23:47:20,810          root     INFO: Id to store: 1333195874311266304
-2020-11-29 23:47:23,604          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/ex-aliado-de-bolsonaro-paulo-marinho-depos-a-pf-em-inquerito-sobre-disparos-de-whatsapp-nas-eleicoes-de-2018.shtml
-2020-11-29 23:47:23,607          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/volta-do-iof-pesa-mais-sobre-credito-a-pequenas-empresas-oferecido-pelo-governo-avalia-economia.shtml
-2020-11-29 23:47:23,608          root     INFO: Finished script
+2020-11-29 23:57:47,367          root     INFO: Starting script
+2020-11-29 23:57:48,185          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 23:57:48,852          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 23:57:49,556          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 23:57:49,732          root     INFO: Parsing R7 - Brasil
+2020-11-29 23:57:50,040          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2020/11/mesmo-perdendo-no-2o-turno-boulos-obteve-uma-vitoria-politica.shtml
+2020-11-29 23:57:51,421          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/abstencao-pelo-pais-bate-295-no-2o-turno-em-meio-a-pandemia-maior-indice-ja-registrado.shtml
+2020-11-29 23:57:51,429          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/a-gente-saiu-vitorioso-e-o-inicio-de-um-ciclo-diz-boulos-derrotado-em-sp-apontando-para-cenario-nacional.shtml
+2020-11-29 23:57:51,437          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/objetivo-e-unir-fortaleza-diz-prefeito-eleito-do-pdt.shtml
+2020-11-29 23:57:51,502          root     INFO: Tião Bocalom <ins>(PP)</ins> é eleito prefeito de Rio Branco
+2020-11-29 23:57:53,120          root     INFO: Media ready with ids: 1333198526004785154
+2020-11-29 23:57:53,120          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 23:57:53,120          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tiao-bocalom-e-eleito-prefeito-de-rio-branco.shtml
+2020-11-29 23:57:53,126          root     INFO: Replying to: 1333195803096133634
+2020-11-29 23:57:53,348          root     INFO: Id to store: 1333198527460241410
+2020-11-29 23:57:53,353          root     INFO: Tião Bocalom (PP), 67, foi eleito prefeito de Rio Branco, capital do Acre, neste domingo (29). Com <del>89%</del> <ins>99,86%</ins> das urnas apuradas, ele tinha <del>62%</del> <ins>62,92%</ins> dos votos válidos. Derrotou a prefeita Socorro Neri (PSB), 54, que aparecia <del>38%.</del> <ins>37,08%.</ins> Leia mais (11/29/2020 - 20h21)
+2020-11-29 23:57:55,017          root     INFO: Media ready with ids: 1333198533802004481
+2020-11-29 23:57:55,017          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:57:55,017          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tiao-bocalom-e-eleito-prefeito-de-rio-branco.shtml
+2020-11-29 23:57:55,026          root     INFO: Replying to: 1333198527460241410
+2020-11-29 23:57:55,266          root     INFO: Id to store: 1333198535441920001
+2020-11-29 23:57:55,354          root     INFO: <del>Segundo turno consolida onda cinza dominada por sub-partidos do</del> <ins>Meteoros vermelhos caem, esquerda se renova na derrota e</ins> centrão <ins>domina</ins>
+2020-11-29 23:57:57,022          root     INFO: Media ready with ids: 1333198542211592193
+2020-11-29 23:57:57,023          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 23:57:57,023          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/segundo-turno-consolida-onda-cinza-dominada-por-sub-partidos-do-centrao.shtml
+2020-11-29 23:57:57,028          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/segundo-turno-consolida-onda-cinza-dominada-por-sub-partidos-do-centrao.shtml
+2020-11-29 23:57:57,212          root     INFO: Replying to: 1333198543809617927
+2020-11-29 23:57:57,546          root     INFO: Id to store: 1333198544577073152
+2020-11-29 23:57:57,693          root     INFO: Atual vice, Arthur Henrique <ins>(MDB)</ins> é eleito prefeito de Boa <del>Vista, projeta o Datafolha</del> <ins>Vista</ins>
+2020-11-29 23:57:59,345          root     INFO: Media ready with ids: 1333198551954972672
+2020-11-29 23:57:59,346          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 23:57:59,347          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/atual-vice-arthur-henrique-e-eleito-prefeito-de-boa-vista-projeta-o-datafolha.shtml
+2020-11-29 23:57:59,352          root     INFO: Replying to: 1333176855063629824
+2020-11-29 23:57:59,550          root     INFO: Id to store: 1333198553435545605
+2020-11-29 23:57:59,555          root     INFO: Atual vice-prefeito de Boa Vista, Arthur Henrique (MDB), 39, foi eleito neste domingo (29) para governar <del>a</del> Boa Vista pelos próximos quatro <del>anos, projeta o Datafolha.</del> <ins>anos.</ins> Leia mais (11/29/2020 - 18h48)
+2020-11-29 23:58:01,344          root     INFO: Media ready with ids: 1333198560054157317
+2020-11-29 23:58:01,344          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:58:01,344          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/atual-vice-arthur-henrique-e-eleito-prefeito-de-boa-vista-projeta-o-datafolha.shtml
+2020-11-29 23:58:01,349          root     INFO: Replying to: 1333198553435545605
+2020-11-29 23:58:01,554          root     INFO: Id to store: 1333198561819971584
+2020-11-29 23:58:01,620          root     INFO: Hildon Chaves <ins>(PSDB)</ins> é reeleito para a Prefeitura de Porto Velho
+2020-11-29 23:58:03,275          root     INFO: Media ready with ids: 1333198568514080770
+2020-11-29 23:58:03,275          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 23:58:03,276          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/hildon-chaves-e-reeleito-para-a-prefeitura-de-porto-velho.shtml
+2020-11-29 23:58:03,280          root     INFO: Replying to: 1333189128234610696
+2020-11-29 23:58:03,519          root     INFO: Id to store: 1333198570028195841
+2020-11-29 23:58:03,530          root     INFO: O prefeito Hildon Chaves (PSDB), 52, foi reeleito em Porto Velho, capital de <del>Rondônia, segundo projeção do Datafolha.</del> <ins>Rondônia.</ins> Com <del>86%</del> <ins>100%</ins> das urnas apuradas, <del>ele tinha 55%</del> <ins>Chaves teve 54,45%</ins> dos votos válidos, contra <del>45%</del> <ins>45,55%</ins> da vereadora Cristiane Lopes (PP), 36. Leia mais (11/29/2020 - 18h40)
+2020-11-29 23:58:05,272          root     INFO: Media ready with ids: 1333198576533573632
+2020-11-29 23:58:05,273          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:58:05,273          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/hildon-chaves-e-reeleito-para-a-prefeitura-de-porto-velho.shtml
+2020-11-29 23:58:05,278          root     INFO: Replying to: 1333198570028195841
+2020-11-29 23:58:05,641          root     INFO: Id to store: 1333198578534158337
+2020-11-29 23:58:05,788          root     INFO: José Sarto bate Capitão Wagner e será prefeito de <del>Fortaleza, projeta Datafolha</del> <ins>Fortaleza</ins>
+2020-11-29 23:58:07,414          root     INFO: Media ready with ids: 1333198585920450560
+2020-11-29 23:58:07,414          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 23:58:07,415          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
+2020-11-29 23:58:07,419          root     INFO: Replying to: 1333189145578049536
+2020-11-29 23:58:07,734          root     INFO: Id to store: 1333198587392450561
+2020-11-29 23:58:07,741          root     INFO: O médico e deputado estadual José Sarto (PDT) <del>será o</del> <ins>foi eleito como</ins> novo prefeito de Fortaleza pelos próximos quatro <del>anos, segundo projeção do Datafolha.</del> <ins>anos.</ins> Com <del>50%</del> <ins>100%</ins> das urnas apuradas na capital do <del>Ceará até as 18h deste domingo (29),</del> <ins>Ceará,</ins> Sarto registrou <del>52%</del> <ins>51,69%</ins> dos votos válidos e superou o deputado federal Capitão Wagner <del>(Pros).</del> <ins>(Pros), que obteve 48,31%.</ins> A vitória de Sarto representa o sucesso de uma ampla frente que se formou em torno do candidato neste segundo turno, com o apoio de partidos que que vão da esquerda de PT <ins>-do governador Camilo Pitanga, que declarou apoio-</ins> e PSOL até a centro-direita de DEM e <del>PSDB.</del> <ins>PSDB, aém dos irmãos Ciro e Cid Gomes, que tiveram presença tímida na campanha.</ins> Leia mais (11/29/2020 - 18h06)
+2020-11-29 23:58:09,597          root     INFO: Media ready with ids: 1333198594753646593
+2020-11-29 23:58:09,598          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 23:58:09,598          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
+2020-11-29 23:58:09,603          root     INFO: Replying to: 1333198587392450561
+2020-11-29 23:58:09,823          root     INFO: Id to store: 1333198596435554304
+2020-11-29 23:58:12,341          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/27-homens-votarao-propostas-para-maior-representatividade-de-genero-na-oab.shtml
+2020-11-29 23:58:12,344          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/precisamos-falar-sobre-investimento-em-infraestrutura.shtml
+2020-11-29 23:58:12,346          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/detran-sp-envia-dados-de-acidentes-para-criacao-de-banco-nacional-de-dados-sobre-transito.shtml
+2020-11-29 23:58:12,349          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-de-mg-tenta-intimar-frota-por-suspostas-ofensas-a-delegado-que-investigou-facada-mas-fracassa.shtml
+2020-11-29 23:58:12,349          root     INFO: Finished script
