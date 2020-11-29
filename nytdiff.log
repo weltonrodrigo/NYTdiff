@@ -1,18 +1,6 @@
-2020-11-29 02:31:46,190          root     INFO: Starting script
-2020-11-29 02:31:47,059          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 02:31:47,703          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 02:31:48,351          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 02:31:48,697          root     INFO: Parsing R7 - Brasil
-2020-11-29 02:31:50,444          root     INFO: Uma pesquisa falsa do Datafolha sobre as eleições para a Prefeitura de Porto Alegre foi divulgada na noite deste sábado (28). <del>O conteúdo falso foi publicado no site da Band.</del> Leia mais (11/28/2020 - 22h53)
-2020-11-29 02:31:52,278          root     INFO: Media ready with ids: 1332874889922039811
-2020-11-29 02:31:52,278          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 02:31:52,279          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/pesquisa-falsa-do-datafolha-e-divulgada-em-porto-alegre.shtml
-2020-11-29 02:31:52,288          root     INFO: Replying to: 1332872907802992641
-2020-11-29 02:31:52,516          root     INFO: Id to store: 1332874891465531394
-2020-11-29 02:31:55,045          root     INFO: Removed http://noticias.r7.com/brasil/barroso-nao-entregue-seu-destino-aos-outros-nao-deixe-de-votar-28112020
-2020-11-29 02:31:55,048          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-acumula-e-pode-pagar-r-7-milhoes-na-proxima-quarta-feira-28112020
-2020-11-29 02:31:55,065          root     INFO: Removed http://noticias.r7.com/brasil/em-sao-luis-ibope-mostra-braide-com-50-e-duarte-jr-com-42-28112020
-2020-11-29 02:31:55,068          root     INFO: Removed http://noticias.r7.com/brasil/em-fortaleza-sarto-tem-61-e-wagner-39-segundo-ibope-28112020
-2020-11-29 02:31:55,070          root     INFO: Removed http://noticias.r7.com/brasil/comandante-do-exercito-fratura-o-femur-apos-sofrer-queda-de-cavalo-28112020
-2020-11-29 02:31:55,073          root     INFO: Removed http://noticias.r7.com/brasil/brasil-tem-172561-mortes-e-6290272-casos-de-covid-19-28112020
-2020-11-29 02:31:55,078          root     INFO: Finished script
+2020-11-29 02:46:55,721          root     INFO: Starting script
+2020-11-29 02:46:56,524          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 02:46:57,176          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 02:46:57,826          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 02:46:58,091          root     INFO: Parsing R7 - Brasil
+2020-11-29 02:47:02,730          root     INFO: Finished script
