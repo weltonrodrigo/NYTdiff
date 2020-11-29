@@ -1,80 +1,46 @@
-2020-11-29 22:31:36,362          root     INFO: Starting script
-2020-11-29 22:31:37,476          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 22:31:38,323          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 22:31:39,154          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 22:31:39,422          root     INFO: Parsing R7 - Brasil
-2020-11-29 22:31:41,224          root     INFO: Atual vice, Arthur Henrique é eleito prefeito de Boa <del>Vista, projeta o Datafolha</del> <ins>Vista</ins>
-2020-11-29 22:31:43,061          root     INFO: Media ready with ids: 1333176841000136704
-2020-11-29 22:31:43,062          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 22:31:43,064          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/atual-vice-arthur-henrique-e-eleito-prefeito-de-boa-vista-projeta-o-datafolha.shtml
-2020-11-29 22:31:43,071          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/atual-vice-arthur-henrique-e-eleito-prefeito-de-boa-vista-projeta-o-datafolha.shtml
-2020-11-29 22:31:43,362          root     INFO: Replying to: 1333176843059535876
-2020-11-29 22:31:43,656          root     INFO: Id to store: 1333176844095541250
-2020-11-29 22:31:44,179          root     INFO: Atual vice-prefeito de Boa Vista, Arthur Henrique (MDB), 39, foi eleito neste domingo (29) para governar <del>a</del> Boa Vista pelos próximos quatro <del>anos, projeta o Datafolha.</del> <ins>anos.</ins> Leia mais (11/29/2020 - 18h48)
-2020-11-29 22:31:45,977          root     INFO: Media ready with ids: 1333176853272682497
-2020-11-29 22:31:45,977          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:31:45,978          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/atual-vice-arthur-henrique-e-eleito-prefeito-de-boa-vista-projeta-o-datafolha.shtml
-2020-11-29 22:31:45,983          root     INFO: Replying to: 1333176844095541250
-2020-11-29 22:31:46,266          root     INFO: Id to store: 1333176855063629824
-2020-11-29 22:31:46,352          root     INFO: O prefeito Hildon Chaves (PSDB), 52, foi reeleito em Porto Velho, capital de <del>Rondônia, segundo projeção do Datafolha.</del> <ins>Rondônia.</ins> Com <del>86%</del> <ins>99,4%</ins> das urnas apuradas, ele tinha <del>55%</del> <ins>54,46%</ins> dos votos válidos, contra <del>45%</del> <ins>45,54%</ins> da vereadora Cristiane Lopes (PP), 36. Leia mais (11/29/2020 - 18h40)
-2020-11-29 22:31:48,164          root     INFO: Media ready with ids: 1333176862479093767
-2020-11-29 22:31:48,165          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:31:48,165          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/hildon-chaves-e-reeleito-para-a-prefeitura-de-porto-velho.shtml
-2020-11-29 22:31:48,171          root     INFO: Replying to: 1333168371484020736
-2020-11-29 22:31:48,509          root     INFO: Id to store: 1333176864446291969
-2020-11-29 22:31:48,557          root     INFO: O prefeito de Guarulhos, Gustavo Henric Costa (PSD), 35, conhecido como Guti, superou o ex-prefeito petista Elói Pietá, 76, e foi reeleito neste domingo <del>(25),</del> <ins>(29),</ins> segundo projeção do Datafolha. Leia mais (11/29/2020 - 18h28)
-2020-11-29 22:31:50,371          root     INFO: Media ready with ids: 1333176871576539139
-2020-11-29 22:31:50,372          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:31:50,372          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-de-guarulhos-e-reeleito-aponta-datafolha.shtml
-2020-11-29 22:31:50,379          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-de-guarulhos-e-reeleito-aponta-datafolha.shtml
-2020-11-29 22:31:50,649          root     INFO: Replying to: 1333176873489199106
-2020-11-29 22:31:50,935          root     INFO: Id to store: 1333176874604896257
-2020-11-29 22:31:51,061          root     INFO: José Sarto bate Capitão Wagner e será prefeito de <del>Fortaleza, projeta Datafolha</del> <ins>Fortaleza</ins>
-2020-11-29 22:31:52,779          root     INFO: Media ready with ids: 1333176881903001601
-2020-11-29 22:31:52,780          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 22:31:52,780          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
-2020-11-29 22:31:52,786          root     INFO: Replying to: 1333174769571737602
-2020-11-29 22:31:53,084          root     INFO: Id to store: 1333176883622637578
-2020-11-29 22:31:53,089          root     INFO: O médico e deputado estadual José Sarto (PDT) será o novo prefeito de Fortaleza pelos próximos quatro <del>anos, segundo projeção do Datafolha.</del> <ins>anos.</ins> Com <del>50%</del> <ins>99,96%</ins> das urnas apuradas na capital do Ceará até as <del>18h</del> <ins>19h08</ins> deste domingo (29), Sarto registrou <del>52%</del> <ins>51,69%</ins> dos votos válidos e superou o deputado federal Capitão Wagner (Pros). A vitória de Sarto representa o sucesso de uma ampla frente que se formou em torno do candidato neste segundo turno, com o apoio de partidos que que vão da esquerda de PT e PSOL até a centro-direita de DEM e PSDB. Leia mais (11/29/2020 - 18h06)
-2020-11-29 22:31:55,074          root     INFO: Media ready with ids: 1333176891008815106
-2020-11-29 22:31:55,074          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:31:55,074          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
-2020-11-29 22:31:55,081          root     INFO: Replying to: 1333176883622637578
-2020-11-29 22:31:55,379          root     INFO: Id to store: 1333176893231788034
-2020-11-29 22:31:55,441          root     INFO: Eduardo Paes derrota Crivella e é eleito prefeito do Rio de <del>Janeiro, projeta Datafolha</del> <ins>Janeiro</ins>
-2020-11-29 22:31:57,202          root     INFO: Media ready with ids: 1333176900466974722
-2020-11-29 22:31:57,202          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 22:31:57,202          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 22:31:57,211          root     INFO: Replying to: 1333174787242340352
-2020-11-29 22:31:57,467          root     INFO: Id to store: 1333176902085988353
-2020-11-29 22:31:57,472          root     INFO: O ex-prefeito Eduardo Paes (DEM), 51, venceu neste domingo (30) a disputa pela Prefeitura do Rio de Janeiro e volta a comandar a cidade que governou entre 2009 e 2016. Com <del>13%</del> <ins>98,39%</ins> das urnas apuradas, ele <del>obteve 65,72%</del> <ins>obtinha 64%</ins> dos votos válidos contra <del>34,28%</del> <ins>36%</ins> do atual prefeito Marcelo Crivella (Republicanos). Leia mais (11/29/2020 - 18h02)
-2020-11-29 22:31:59,347          root     INFO: Media ready with ids: 1333176909304389634
-2020-11-29 22:31:59,348          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:31:59,348          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 22:31:59,353          root     INFO: Replying to: 1333176902085988353
-2020-11-29 22:31:59,628          root     INFO: Id to store: 1333176911044939776
-2020-11-29 22:32:01,252          root     INFO: Sebastião Melo <del>(MDB)</del> <ins>derrota Manuela D'Ávila e</ins> é eleito prefeito de Porto <del>Alegre, projeta Datafolha</del> <ins>Alegre</ins>
-2020-11-29 22:32:03,033          root     INFO: Media ready with ids: 1333176924689068038
-2020-11-29 22:32:03,034          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 22:32:03,034          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
-2020-11-29 22:32:03,040          root     INFO: Replying to: 1333168403645952000
-2020-11-29 22:32:03,326          root     INFO: Id to store: 1333176926593294337
-2020-11-29 22:32:03,331          root     INFO: Sebastião Melo (MDB), 62, foi escolhido pelos porto-alegrenses para governar a capital gaúcha na próxima <del>gestão, projeta o Datafolha.</del> <ins>gestão. Com 99,96% das urnas apuradas, ele tinha 54,64% dos votos válidos.</ins> Leia mais (11/29/2020 - 17h58)
-2020-11-29 22:32:05,114          root     INFO: Media ready with ids: 1333176933522272256
-2020-11-29 22:32:05,114          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:32:05,115          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
-2020-11-29 22:32:05,120          root     INFO: Replying to: 1333176926593294337
-2020-11-29 22:32:05,421          root     INFO: Id to store: 1333176935330033666
-2020-11-29 22:32:05,531          root     INFO: Teresina elege Dr. Pessoa para <del>prefeitura, projeta Datafolha</del> <ins>prefeitura</ins>
-2020-11-29 22:32:07,325          root     INFO: Media ready with ids: 1333176942577770496
-2020-11-29 22:32:07,325          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 22:32:07,325          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-elege-dr-pessoa-para-prefeitura-projeta-datafolha.shtml
-2020-11-29 22:32:07,331          root     INFO: Replying to: 1333168437712089090
-2020-11-29 22:32:07,619          root     INFO: Id to store: 1333176944570081281
-2020-11-29 22:32:07,624          root     INFO: Teresina elegeu como prefeito o médico e político Dr. Pessoa <del>(MDB), projeta o Datafolha. Ele tinha 63,5%</del> <ins>(MDB). Com 100% das urnas apuradas, ele tem 62,31%</ins> dos votos válidos neste domingo <del>(29) com 22% das urnas apuradas,</del> <ins>(29),</ins> à frente de Kleber Montezuma <del>(PSDB).</del> <ins>(PSDB), que soma 37,69%.</ins> José Pessoa Leal, 74, tem especialidade em cirurgia geral, saúde pública, administração hospitalar e medicina do trabalho. Filho de agricultores e alfabetizado aos 15 anos, foi professor da Universidade Federal do Piauí (UFPI). Leia mais (11/29/2020 - 17h39)
-2020-11-29 22:32:09,470          root     INFO: Media ready with ids: 1333176951784296449
-2020-11-29 22:32:09,471          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 22:32:09,471          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-elege-dr-pessoa-para-prefeitura-projeta-datafolha.shtml
-2020-11-29 22:32:09,478          root     INFO: Replying to: 1333176944570081281
-2020-11-29 22:32:09,759          root     INFO: Id to store: 1333176953558474752
-2020-11-29 22:32:12,491          root     INFO: Finished script
+2020-11-29 22:47:01,868          root     INFO: Starting script
+2020-11-29 22:47:02,981          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 22:47:03,644          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 22:47:04,301          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 22:47:04,606          root     INFO: Parsing R7 - Brasil
+2020-11-29 22:47:06,397          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/rodrigo-manga-confirma-favoritismo-e-e-eleito-prefeito-de-sorocaba.shtml
+2020-11-29 22:47:06,406          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/reves-de-crivella-e-apice-de-derrota-bolsonarista-em-base-eleitoral.shtml
+2020-11-29 22:47:06,413          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/filippi-pt-e-eleito-prefeito-de-diadema-pela-quarta-vez.shtml
+2020-11-29 22:47:06,423          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marcelo-oliveira-pt-e-eleito-prefeito-de-maua.shtml
+2020-11-29 22:47:06,519          root     INFO: João Henrique Caldas (PSB) é eleito prefeito de <del>Maceió, projeta Datafolha</del> <ins>Maceió</ins>
+2020-11-29 22:47:08,301          root     INFO: Media ready with ids: 1333180721842806785
+2020-11-29 22:47:08,301          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 22:47:08,301          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-henrique-caldas-psb-e-eleito-prefeito-de-maceio-projeta-datafolha.shtml
+2020-11-29 22:47:08,308          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-henrique-caldas-psb-e-eleito-prefeito-de-maceio-projeta-datafolha.shtml
+2020-11-29 22:47:08,490          root     INFO: Replying to: 1333180723369553930
+2020-11-29 22:47:08,712          root     INFO: Id to store: 1333180724040577026
+2020-11-29 22:47:08,717          root     INFO: Candidato de oposição ao governador Renan Filho (MDB) e ao prefeito Rui Palmeira (sem partido), o deputado federal João Henrique Caldas (PSB), conhecido como JHC, será o próximo prefeito de <del>Maceió, projeta o Datafolha.</del> <ins>Maceió.</ins> Leia mais (11/29/2020 - 18h40)
+2020-11-29 22:47:10,437          root     INFO: Media ready with ids: 1333180730634100744
+2020-11-29 22:47:10,438          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 22:47:10,438          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-henrique-caldas-psb-e-eleito-prefeito-de-maceio-projeta-datafolha.shtml
+2020-11-29 22:47:10,444          root     INFO: Replying to: 1333180724040577026
+2020-11-29 22:47:10,644          root     INFO: Id to store: 1333180732219461639
+2020-11-29 22:47:10,842          root     INFO: Bruno Covas é reeleito prefeito de São <del>Paulo, projeta Datafolha</del> <ins>Paulo</ins>
+2020-11-29 22:47:12,530          root     INFO: Media ready with ids: 1333180739295252480
+2020-11-29 22:47:12,530          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 22:47:12,531          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-covas-e-reeleito-prefeito-de-sao-paulo-projeta-datafolha.shtml
+2020-11-29 22:47:12,538          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-covas-e-reeleito-prefeito-de-sao-paulo-projeta-datafolha.shtml
+2020-11-29 22:47:12,704          root     INFO: Replying to: 1333180741056942081
+2020-11-29 22:47:12,919          root     INFO: Id to store: 1333180741719650304
+2020-11-29 22:47:12,931          root     INFO: Bruno Covas (PSDB), 40, foi reeleito neste domingo (29) prefeito de São Paulo, para o mandato <del>2021-2024, conforme projeção do Datafolha com base nos votos já contabilizados.</del> <ins>2021-2024.</ins> Leia mais (11/29/2020 - 18h05)
+2020-11-29 22:47:14,623          root     INFO: Media ready with ids: 1333180748279451650
+2020-11-29 22:47:14,623          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 22:47:14,623          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-covas-e-reeleito-prefeito-de-sao-paulo-projeta-datafolha.shtml
+2020-11-29 22:47:14,629          root     INFO: Replying to: 1333180741719650304
+2020-11-29 22:47:14,835          root     INFO: Id to store: 1333180749814652930
+2020-11-29 22:47:14,945          root     INFO: O deputado estadual David Almeida (Avante), 51, foi eleito prefeito da capital do <del>Amazonas, projeta o Datafolha.</del> <ins>Amazonas. Com 100% das urnas apuradas, ele teve 51,27% dos votos válidos.</ins> Leia mais (11/29/2020 - 17h51)
+2020-11-29 22:47:16,605          root     INFO: Media ready with ids: 1333180756726870016
+2020-11-29 22:47:16,606          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 22:47:16,606          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/david-almeida-avante-e-eleito-prefeito-de-manaus.shtml
+2020-11-29 22:47:16,617          root     INFO: Replying to: 1333174814035603458
+2020-11-29 22:47:16,822          root     INFO: Id to store: 1333180758144454661
+2020-11-29 22:47:19,538          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/foco-de-covas-eleitorado-mais-velho-e-mais-numeroso-do-que-nicho-jovem-de-boulos.shtml
+2020-11-29 22:47:19,541          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sem-debate-boulos-perde-mais-do-que-covas-e-campanha-acaba-em-anticlimax.shtml
+2020-11-29 22:47:19,543          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/televisao/2020/11/com-debate-cancelado-globo-voltara-a-exibir-globo-reporter.shtml
+2020-11-29 22:47:19,545          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405505
+2020-11-29 22:47:19,546          root     INFO: Finished script
