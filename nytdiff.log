@@ -1,30 +1,36 @@
-2020-11-29 20:57:57,898          root     INFO: Starting script
-2020-11-29 20:57:58,742          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 20:57:59,415          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 20:58:00,089          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 20:58:00,228          root     INFO: Parsing R7 - Brasil
-2020-11-29 20:58:02,093          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-pessoa-elege-cicero-lucena-como-prefeito-projeta-datafolha.shtml
-2020-11-29 20:58:02,106          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/internado-apos-contrair-covid-19-maguito-vilela-e-eleito-em-goiania-projeta-datafolha.shtml
-2020-11-29 20:58:02,152          root     INFO: Teresina elegeu como prefeito o médico e político Dr. Pessoa (MDB), projeta o Datafolha. Ele tinha 63,5% dos votos válidos neste domingo (29) com 22% das urnas apuradas, à frente de Kleber Montezuma (PSDB). José Pessoa Leal, 74, tem especialidade em cirurgia geral, saúde pública, administração hospitalar e medicina do trabalho. Filho de agricultores e alfabetizado aos 15 anos, foi professor da Universidade Federal do Piauí (UFPI). Leia mais (11/29/2020 - 17h39)
-2020-11-29 20:58:04,018          root     INFO: Media ready with ids: 1333153272845258759
-2020-11-29 20:58:04,018          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 20:58:04,019          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-elege-dr-pessoa-para-prefeitura-projeta-datafolha.shtml
-2020-11-29 20:58:04,026          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-elege-dr-pessoa-para-prefeitura-projeta-datafolha.shtml
-2020-11-29 20:58:04,272          root     INFO: Replying to: 1333153274791403521
-2020-11-29 20:58:04,496          root     INFO: Id to store: 1333153275621879809
-2020-11-29 20:58:04,610          root     INFO: Edmilson Rodrigues é eleito prefeito de <del>Belém, projeta Datafolha</del> <ins>Belém</ins>
-2020-11-29 20:58:06,266          root     INFO: Media ready with ids: 1333153282647334915
-2020-11-29 20:58:06,266          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 20:58:06,266          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
-2020-11-29 20:58:06,273          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
-2020-11-29 20:58:06,489          root     INFO: Replying to: 1333153284144689157
-2020-11-29 20:58:06,697          root     INFO: Id to store: 1333153284912242695
-2020-11-29 20:58:06,702          root     INFO: O deputado estadual Edmilson Rodrigues (PSOL), 63, foi eleito para comandar na capital do <del>Pará, projeta o Datafolha.</del> <ins>Pará.</ins> Com <del>62,7%</del> <ins>98,56%</ins> das urnas apuradas até as <del>17h20,</del> <ins>17h40,</ins> ele tinha <del>51,22%</del> <ins>51,76%</ins> dos voto válidos. Leia mais (11/29/2020 - 16h43)
-2020-11-29 20:58:08,419          root     INFO: Media ready with ids: 1333153291476340743
-2020-11-29 20:58:08,420          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 20:58:08,420          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
-2020-11-29 20:58:08,426          root     INFO: Replying to: 1333153284912242695
-2020-11-29 20:58:08,675          root     INFO: Id to store: 1333153293195939841
-2020-11-29 20:58:11,985          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/trf-decide-em-dezembro-em-qual-instancia-fica-inquerito-que-envolve-candidato-no-maranhao.shtml
-2020-11-29 20:58:11,989          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/tse-espera-novos-vazamentos-por-hackers-no-domingo-mas-sem-ligacao-com-urnas-eletronicas.shtml
-2020-11-29 20:58:11,991          root     INFO: Finished script
+2020-11-29 21:17:50,874          root     INFO: Starting script
+2020-11-29 21:17:52,158          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 21:17:52,841          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 21:17:53,509          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 21:17:53,665          root     INFO: Parsing R7 - Brasil
+2020-11-29 21:17:55,697          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edvaldo-nogueira-confirma-favoritismo-e-e-reeleito-prefeito-de-aracaju.shtml
+2020-11-29 21:17:55,709          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/dario-saadi-e-eleito-prefeito-de-campinas-projeta-datafolha.shtml
+2020-11-29 21:17:55,718          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vitoria-de-covas-e-abertura-do-jogo-de-doria-contra-bolsonaro-em-2022.shtml
+2020-11-29 21:17:55,727          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
+2020-11-29 21:17:55,735          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-covas-e-reeleito-prefeito-de-sao-paulo-projeta-datafolha.shtml
+2020-11-29 21:17:55,744          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-braide-do-podemos-sera-prefeito-de-sao-luis-projeta-datafolha.shtml
+2020-11-29 21:17:55,752          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
+2020-11-29 21:17:55,760          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
+2020-11-29 21:17:55,769          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-campos-vence-prima-marilia-arraes-e-sera-prefeito-do-recife-projeta-datafolha.shtml
+2020-11-29 21:17:55,885          root     INFO: Edmilson Rodrigues é eleito prefeito de <del>Belém, projeta Datafolha</del> <ins>Belém</ins>
+2020-11-29 21:17:57,651          root     INFO: Media ready with ids: 1333158279657172992
+2020-11-29 21:17:57,651          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 21:17:57,651          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
+2020-11-29 21:17:57,657          root     INFO: Replying to: 1333153293195939841
+2020-11-29 21:17:57,924          root     INFO: Id to store: 1333158281221722112
+2020-11-29 21:17:57,929          root     INFO: O deputado estadual Edmilson Rodrigues (PSOL), 63, foi eleito para comandar na capital do <del>Pará, projeta o Datafolha.</del> <ins>Pará.</ins> Com <del>62,7%</del> <ins>99,56%</ins> das urnas apuradas até as <del>17h20,</del> <ins>18h,</ins> ele tinha <del>51,22%</del> <ins>51,75%</ins> dos voto válidos. Leia mais (11/29/2020 - <del>16h43)</del> <ins>17h37)</ins>
+2020-11-29 21:17:59,633          root     INFO: Media ready with ids: 1333158287945199619
+2020-11-29 21:17:59,634          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 21:17:59,634          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
+2020-11-29 21:17:59,639          root     INFO: Replying to: 1333158281221722112
+2020-11-29 21:17:59,856          root     INFO: Id to store: 1333158289358671874
+2020-11-29 21:18:03,346          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/panfletos-distorcem-frase-de-marilia-arraes-sobre-a-biblia.shtml
+2020-11-29 21:18:03,351          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3759
+2020-11-29 21:18:03,354          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tse-foi-alertado-para-problemas-de-ti-e-falta-de-testes-em-totalizacao-de-votos-mostram-documentos.shtml
+2020-11-29 21:18:03,357          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/psol-convoca-militantes-de-outros-estados-para-fazer-campanha-pro-boulos-em-sp.shtml
+2020-11-29 21:18:03,360          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/em-silencio-bolsonaro-sugere-nao-ter-motivos-para-se-preocupar-com-inquerito.shtml
+2020-11-29 21:18:03,363          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/decisivo-ultimo-debate-sera-vitrine-em-campanha-atipica-e-teste-para-estrategias-de-covas-e-boulos.shtml
+2020-11-29 21:18:03,366          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-e-boulos-estrearam-nas-paginas-da-folha-no-mesmo-ano-relembre.shtml
+2020-11-29 21:18:03,369          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/falhas-nos-testes-da-vacina-de-oxford-mostram-que-brasil-nao-pode-ser-refem-de-um-unico-laboratorio-diz-governador.shtml
+2020-11-29 21:18:03,372          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/candidatos-torram-fundo-eleitoral-mas-guardam-fundo-partidario-para-2022.shtml
+2020-11-29 21:18:03,373          root     INFO: Finished script
