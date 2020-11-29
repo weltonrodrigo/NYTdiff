@@ -1,8 +1,17 @@
-2020-11-29 13:58:02,406          root     INFO: Starting script
-2020-11-29 13:58:03,222          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 13:58:03,898          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 13:58:04,564          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 13:58:04,745          root     INFO: Parsing R7 - Brasil
-2020-11-29 13:58:06,423          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405538
-2020-11-29 13:58:09,368          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/meu-adversario-flerta-com-a-negacao-da-pandemia-diz-manuela-no-2o-turno-em-porto-alegre.shtml
-2020-11-29 13:58:09,369          root     INFO: Finished script
+2020-11-29 14:21:41,880          root     INFO: Starting script
+2020-11-29 14:21:42,717          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 14:21:43,382          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 14:21:44,057          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 14:21:44,305          root     INFO: Parsing R7 - Brasil
+2020-11-29 14:21:46,033          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405540
+2020-11-29 14:21:46,044          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405539
+2020-11-29 14:21:46,070          root     INFO: <del>table(articleGraphic). |/3.(articleGraphicSpace). |(articleGraphicCredit).</del> <ins>Reprodução/Twitter</ins> Marta Suplicy <del>no Twitter|/3.(articleGraphicSpace). | |(articleGraphicImage). !https://f.i.uol.com.br/fotografia/2020/11/29/16066564745fc3a1da31c5e_1606656474_3x4_md.jpg</del> <ins>Covas acompanha Marta em SP</ins> Leia mais (11/29/2020 - 10h50)
+2020-11-29 14:21:47,846          root     INFO: Media ready with ids: 1333053548603584513
+2020-11-29 14:21:47,847          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 14:21:47,851          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405538
+2020-11-29 14:21:47,859          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405538
+2020-11-29 14:21:48,031          root     INFO: Replying to: 1333053550151290885
+2020-11-29 14:21:48,260          root     INFO: Id to store: 1333053550855909377
+2020-11-29 14:21:51,527          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48626
+2020-11-29 14:21:51,531          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-sabatina-folhauol-covas-erra-sobre-aumento-de-casos-de-covid-19-em-sp.shtml
+2020-11-29 14:21:51,532          root     INFO: Finished script
