@@ -1,14 +1,30 @@
-2020-11-29 20:46:56,250          root     INFO: Starting script
-2020-11-29 20:46:57,121          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 20:46:57,786          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 20:46:58,455          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 20:46:58,676          root     INFO: Parsing R7 - Brasil
-2020-11-29 20:47:00,766          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-pazolini-derrota-ex-prefeito-e-e-eleito-em-vitoria-es-projeta-datafolha.shtml
-2020-11-29 20:47:00,778          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-elege-dr-pessoa-para-prefeitura-projeta-datafolha.shtml
-2020-11-29 20:47:00,791          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/e-falso-que-hacker-tenha-atacado-sistema-de-votacao-do-tse.shtml
-2020-11-29 20:47:00,857          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
-2020-11-29 20:47:04,530          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jornalista-patricia-campos-mello-da-folha-recebera-condecoracao-da-franca.shtml
-2020-11-29 20:47:04,533          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2020/11/bolsonaro-cumpre-promessa-e-desconstroi-o-brasil.shtml
-2020-11-29 20:47:04,537          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/justica-condena-tres-pessoas-por-ofensas-em-redes-sociais-contra-jornalista-madeleine-lacsko.shtml
-2020-11-29 20:47:04,540          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2020/11/o-brasil-nao-e-um-pais-seguro-para-negros-e-negras-nem-na-hora-das-compras.shtml
-2020-11-29 20:47:04,540          root     INFO: Finished script
+2020-11-29 20:57:57,898          root     INFO: Starting script
+2020-11-29 20:57:58,742          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 20:57:59,415          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 20:58:00,089          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 20:58:00,228          root     INFO: Parsing R7 - Brasil
+2020-11-29 20:58:02,093          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-pessoa-elege-cicero-lucena-como-prefeito-projeta-datafolha.shtml
+2020-11-29 20:58:02,106          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/internado-apos-contrair-covid-19-maguito-vilela-e-eleito-em-goiania-projeta-datafolha.shtml
+2020-11-29 20:58:02,152          root     INFO: Teresina elegeu como prefeito o médico e político Dr. Pessoa (MDB), projeta o Datafolha. Ele tinha 63,5% dos votos válidos neste domingo (29) com 22% das urnas apuradas, à frente de Kleber Montezuma (PSDB). José Pessoa Leal, 74, tem especialidade em cirurgia geral, saúde pública, administração hospitalar e medicina do trabalho. Filho de agricultores e alfabetizado aos 15 anos, foi professor da Universidade Federal do Piauí (UFPI). Leia mais (11/29/2020 - 17h39)
+2020-11-29 20:58:04,018          root     INFO: Media ready with ids: 1333153272845258759
+2020-11-29 20:58:04,018          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 20:58:04,019          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-elege-dr-pessoa-para-prefeitura-projeta-datafolha.shtml
+2020-11-29 20:58:04,026          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/teresina-elege-dr-pessoa-para-prefeitura-projeta-datafolha.shtml
+2020-11-29 20:58:04,272          root     INFO: Replying to: 1333153274791403521
+2020-11-29 20:58:04,496          root     INFO: Id to store: 1333153275621879809
+2020-11-29 20:58:04,610          root     INFO: Edmilson Rodrigues é eleito prefeito de <del>Belém, projeta Datafolha</del> <ins>Belém</ins>
+2020-11-29 20:58:06,266          root     INFO: Media ready with ids: 1333153282647334915
+2020-11-29 20:58:06,266          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 20:58:06,266          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
+2020-11-29 20:58:06,273          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
+2020-11-29 20:58:06,489          root     INFO: Replying to: 1333153284144689157
+2020-11-29 20:58:06,697          root     INFO: Id to store: 1333153284912242695
+2020-11-29 20:58:06,702          root     INFO: O deputado estadual Edmilson Rodrigues (PSOL), 63, foi eleito para comandar na capital do <del>Pará, projeta o Datafolha.</del> <ins>Pará.</ins> Com <del>62,7%</del> <ins>98,56%</ins> das urnas apuradas até as <del>17h20,</del> <ins>17h40,</ins> ele tinha <del>51,22%</del> <ins>51,76%</ins> dos voto válidos. Leia mais (11/29/2020 - 16h43)
+2020-11-29 20:58:08,419          root     INFO: Media ready with ids: 1333153291476340743
+2020-11-29 20:58:08,420          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 20:58:08,420          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edmilson-rodrigues-e-eleito-prefeito-de-belem-projeta-datafolha.shtml
+2020-11-29 20:58:08,426          root     INFO: Replying to: 1333153284912242695
+2020-11-29 20:58:08,675          root     INFO: Id to store: 1333153293195939841
+2020-11-29 20:58:11,985          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/trf-decide-em-dezembro-em-qual-instancia-fica-inquerito-que-envolve-candidato-no-maranhao.shtml
+2020-11-29 20:58:11,989          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/tse-espera-novos-vazamentos-por-hackers-no-domingo-mas-sem-ligacao-com-urnas-eletronicas.shtml
+2020-11-29 20:58:11,991          root     INFO: Finished script
