@@ -1,41 +1,61 @@
-2020-11-29 21:28:54,936          root     INFO: Starting script
-2020-11-29 21:28:55,775          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 21:28:56,450          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 21:28:57,120          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 21:28:57,345          root     INFO: Parsing R7 - Brasil
-2020-11-29 21:28:59,253          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/campanha-de-covas-evitou-nacionalizacao-fez-do-prefeito-seu-foco-e-tropecou-em-vice.shtml
-2020-11-29 21:28:59,379          root     INFO: O ex-prefeito Eduardo Paes (DEM), 51, venceu neste domingo (30) a disputa pela Prefeitura do Rio de Janeiro e volta a comandar a cidade que governou entre 2009 e 2016. Com <del>13%</del> <ins>57,25%</ins> das urnas apuradas, ele <del>obteve 65,72%</del> <ins>obtinha 64%</ins> dos votos válidos contra <del>34,28%</del> <ins>36%</ins> do atual prefeito Marcelo Crivella (Republicanos). Leia mais (11/29/2020 - 18h02)
-2020-11-29 21:29:01,207          root     INFO: Media ready with ids: 1333161062456320002
-2020-11-29 21:29:01,208          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 21:29:01,208          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 21:29:01,214          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-paes-derrota-crivella-e-e-eleito-prefeito-do-rio-de-janeiro-projeta-datafolha.shtml
-2020-11-29 21:29:01,428          root     INFO: Replying to: 1333161064335355909
-2020-11-29 21:29:01,737          root     INFO: Id to store: 1333161065228722177
-2020-11-29 21:29:01,798          root     INFO: João Pessoa elege Cícero Lucena como <del>prefeito, projeta Datafolha</del> <ins>prefeito</ins>
-2020-11-29 21:29:06,551          root     INFO: Media ready with ids: 1333161085051002880
-2020-11-29 21:29:06,551          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 21:29:06,551          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-pessoa-elege-cicero-lucena-como-prefeito-projeta-datafolha.shtml
-2020-11-29 21:29:06,561          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-pessoa-elege-cicero-lucena-como-prefeito-projeta-datafolha.shtml
-2020-11-29 21:29:06,730          root     INFO: Replying to: 1333161086628081664
-2020-11-29 21:29:06,942          root     INFO: Id to store: 1333161087336910850
-2020-11-29 21:29:06,947          root     INFO: João Pessoa elegeu como prefeito? Cícero Lucena (PP), que já havia estado no comando da capital da Paraíba, <del>projeta o Datafolha. Com 80% das urnas apuradas, ele tinha 54,24%%</del> <ins>com 53,16%%</ins> dos votos válidos. Leia mais (11/29/2020 - 17h54)
-2020-11-29 21:29:08,630          root     INFO: Media ready with ids: 1333161093921910784
-2020-11-29 21:29:08,630          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 21:29:08,630          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-pessoa-elege-cicero-lucena-como-prefeito-projeta-datafolha.shtml
-2020-11-29 21:29:08,644          root     INFO: Replying to: 1333161087336910850
-2020-11-29 21:29:08,866          root     INFO: Id to store: 1333161095360602114
-2020-11-29 21:29:08,912          root     INFO: Delegado Pazolini derrota ex-prefeito e é eleito em Vitória <del>(ES), projeta Datafolha</del> <ins>(ES)</ins>
-2020-11-29 21:29:10,632          root     INFO: Media ready with ids: 1333161102310563841
-2020-11-29 21:29:10,633          root     INFO: Text to tweet: Modificação do Título
-2020-11-29 21:29:10,634          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-pazolini-derrota-ex-prefeito-e-e-eleito-em-vitoria-es-projeta-datafolha.shtml
-2020-11-29 21:29:10,641          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-pazolini-derrota-ex-prefeito-e-e-eleito-em-vitoria-es-projeta-datafolha.shtml
-2020-11-29 21:29:10,836          root     INFO: Replying to: 1333161103891771393
-2020-11-29 21:29:11,053          root     INFO: Id to store: 1333161104562933762
-2020-11-29 21:29:11,058          root     INFO: O deputado estadual Delegado Lorenzo Pazolini (Republicanos), 38, derrotou o ex-prefeito João Coser (PT), 64, e foi eleito em Vitória <del>(ES), projeta o Datafolha</del> <ins>(ES).</ins> Leia mais (11/29/2020 - 17h41)
-2020-11-29 21:29:12,922          root     INFO: Media ready with ids: 1333161111353499648
-2020-11-29 21:29:12,923          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-29 21:29:12,923          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/delegado-pazolini-derrota-ex-prefeito-e-e-eleito-em-vitoria-es-projeta-datafolha.shtml
-2020-11-29 21:29:12,929          root     INFO: Replying to: 1333161104562933762
-2020-11-29 21:29:13,171          root     INFO: Id to store: 1333161113471635458
-2020-11-29 21:29:16,379          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sistema-detonaria-moro-mais-dia-menos-dia-diz-rosangela-sobre-marido-sob-bolsonaro.shtml
-2020-11-29 21:29:16,380          root     INFO: Finished script
+2020-11-29 21:46:50,101          root     INFO: Starting script
+2020-11-29 21:46:50,927          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 21:46:51,577          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 21:46:52,237          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 21:46:52,396          root     INFO: Parsing R7 - Brasil
+2020-11-29 21:46:54,135          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-henrique-caldas-psb-e-eleito-prefeito-de-maceio-projeta-datafolha.shtml
+2020-11-29 21:46:54,147          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/hildon-chaves-e-reeleito-para-a-prefeitura-de-porto-velho.shtml
+2020-11-29 21:46:54,155          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/duarte-nogueira-e-reeleito-prefeito-de-ribeirao-preto-projeta-datafolha.shtml
+2020-11-29 21:46:54,163          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-de-guarulhos-e-reeleito-aponta-datafolha.shtml
+2020-11-29 21:46:54,172          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/emanuel-pinheiro-e-reeleito-em-cuiaba-em-disputa-contra-vereador.shtml
+2020-11-29 21:46:54,179          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405566
+2020-11-29 21:46:54,219          root     INFO: Edvaldo Nogueira (PDT) confirmou o favoritismo e foi reeleito prefeito de Aracaju neste domingo (29). <del>Até as 18h10 horas, ele tinha 58%</del> <ins>com 57,86%</ins> dos votos <del>válidos, com 97% das urnas apuradas.</del> <ins>válidos</ins> Leia mais (11/29/2020 - 18h14)
+2020-11-29 21:46:56,126          root     INFO: Media ready with ids: 1333165571123392512
+2020-11-29 21:46:56,126          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 21:46:56,126          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edvaldo-nogueira-confirma-favoritismo-e-e-reeleito-prefeito-de-aracaju.shtml
+2020-11-29 21:46:56,132          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/edvaldo-nogueira-confirma-favoritismo-e-e-reeleito-prefeito-de-aracaju.shtml
+2020-11-29 21:46:56,349          root     INFO: Replying to: 1333165572889128966
+2020-11-29 21:46:56,568          root     INFO: Id to store: 1333165573627326464
+2020-11-29 21:46:56,600          root     INFO: O médico Dário Saadi (Republicanos), 57, foi eleito neste domingo (29), segundo projeção do Datafolha, prefeito de Campinas, ao derrotar no segundo turno o deputado estadual Rafa Zimbaldi (PL), 39. A campanha no interior foi marcada pela ausência da figura do governador João Doria (PSDB) até mesmo entre os favoritos. No primeiro turno, Dário recebeu 121.932 votos na cidade mais populosa do interior paulista (1,2 milhão de habitantes), o equivalente a 25,78% dos votos válidos, ante os 103.397 votos de Zimbaldi, 21,86% do total. Médico urologista, Dário foi vereador em quatro mandatos, além de secretário de Esportes de Campinas. Também foi presidente do hospital Mário Gatti. O prefeito eleito, que disputou a eleição com o apoio de outros quatro partidos em sua chapa (DEM, MDB, PSB e PSL), também recebeu apoio do atual prefeito de Campinas, Jonas Donizette (PSB), de quem foi secretário de Esportes. Apesar do bom relacionamento entre a atual gestão campineira e o governo paulista, Dário preferiu mostrar que tem bom trânsito com Brasília durante a sua campanha. Apresentou, por exemplo, vídeo feito com o presidente do Senado, Davi Alcolumbre (DEM-AP). <del>Já Zimbaldi contava com outros sete partidos em sua coligação (Solidariedade, PSC, PP, PSDB, PROS, Podemos e Avante). A campanha em Campinas foi marcada, especialmente na última semana, por troca de farpas envolvendo as candidaturas. Enquanto Zimbaldi dizia que havia duas Campinas, "uma da propaganda eleitoral do Dário e a outra de verdade", o prefeito eleito pedia que os eleitores comparassem a sua história com a do deputado. Zimbaldi se aliou ao PSDB de Doria na cidade para fortalecer sua candidatura ao palácio dos Jequitibás. Foi alvo de ataques devido a seu apoio, como deputado estadual, a políticas do governo paulista em tramitação na Assembleia Legislativa. Na campanha, ele afirmou não ser "candidato de ninguém". A eleição deste ano em Campinas teve 14 candidaturas registradas no TSE, uma delas a do também médico Pedro Tourinho (PT), 38, que ameaçou a posição de Zimbaldi no segundo turno. O petista alcançou 20,49% dos votos válidos (96.905 no total, 6.492 a menos que o deputado). Também disputaram a eleição o servidor público Artur Orsi (PSD), 50, que obteve 16,72% dos votos, o empresário Wilson Matos (Patriota), 42, a aposentada Delegada Teresinha (PTB), 64, Alessandra Ribeiro (PC do B), 44, o ex-prefeito Dr. Hélio (PDT), 70, o empresário Rogerio Parada (PRTB), 54, o vereador André Von Zuben (Cidadania), 58, o oceanógrafo Rogerio Menezes (PV), 52, o servidor público Prof. Ahmed Tarique Agio (PMN), 27, a petroleira Laura Leal (PSTU), 44, e Edson Dorta (PCO), 48.</del> Leia mais (11/29/2020 - 18h12)
+2020-11-29 21:46:59,026          root     INFO: Media ready with ids: 1333165582276059136
+2020-11-29 21:46:59,026          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 21:46:59,026          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/dario-saadi-e-eleito-prefeito-de-campinas-projeta-datafolha.shtml
+2020-11-29 21:46:59,036          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/dario-saadi-e-eleito-prefeito-de-campinas-projeta-datafolha.shtml
+2020-11-29 21:46:59,194          root     INFO: Replying to: 1333165584905867270
+2020-11-29 21:46:59,460          root     INFO: Id to store: 1333165585560178690
+2020-11-29 21:46:59,542          root     INFO: <ins>Deputado federal</ins> Eduardo <del>Braide, do Podemos, será</del> <ins>Braide é eleito</ins> prefeito de São <del>Luís, projeta Datafolha</del> <ins>Luís</ins>
+2020-11-29 21:47:01,228          root     INFO: Media ready with ids: 1333165592661123074
+2020-11-29 21:47:01,228          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 21:47:01,228          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-braide-do-podemos-sera-prefeito-de-sao-luis-projeta-datafolha.shtml
+2020-11-29 21:47:01,234          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-braide-do-podemos-sera-prefeito-de-sao-luis-projeta-datafolha.shtml
+2020-11-29 21:47:01,416          root     INFO: Replying to: 1333165594137554946
+2020-11-29 21:47:01,622          root     INFO: Id to store: 1333165594875715587
+2020-11-29 21:47:01,626          root     INFO: Principal nome da oposição na capital do Maranhão, o deputado federal Eduardo Braide (Podemos) será o próximo prefeito de São <del>Luís, projeta o Datafolha.</del> <ins>Luís.</ins> Leia mais (11/29/2020 - 18h04)
+2020-11-29 21:47:03,328          root     INFO: Media ready with ids: 1333165601385304069
+2020-11-29 21:47:03,329          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 21:47:03,329          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eduardo-braide-do-podemos-sera-prefeito-de-sao-luis-projeta-datafolha.shtml
+2020-11-29 21:47:03,335          root     INFO: Replying to: 1333165594875715587
+2020-11-29 21:47:03,576          root     INFO: Id to store: 1333165603054563329
+2020-11-29 21:47:03,622          root     INFO: Sebastião Melo <del>(MDB)</del> <ins>derrota Manuela D'Ávila e</ins> é eleito prefeito de Porto <del>Alegre, projeta Datafolha</del> <ins>Alegre</ins>
+2020-11-29 21:47:05,268          root     INFO: Media ready with ids: 1333165609664786432
+2020-11-29 21:47:05,268          root     INFO: Text to tweet: Modificação do Título
+2020-11-29 21:47:05,268          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
+2020-11-29 21:47:05,274          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/sebastiao-melo-mdb-e-eleito-prefeito-de-porto-alegre-projeta-datafolha.shtml
+2020-11-29 21:47:05,429          root     INFO: Replying to: 1333165611069935616
+2020-11-29 21:47:05,644          root     INFO: Id to store: 1333165611715850241
+2020-11-29 21:47:05,675          root     INFO: Em uma eleição que <ins>até a véspera</ins> prometia ser uma das mais apertadas da história do Recife, o deputado federal João Campos (PSB), filho do ex-governador de Pernambuco Eduardo Campos (1965-2014), saiu vitorioso, segundo projeção do Datafolha. Leia mais (11/29/2020 - 17h55)
+2020-11-29 21:47:07,424          root     INFO: Media ready with ids: 1333165618481262592
+2020-11-29 21:47:07,424          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 21:47:07,425          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-campos-vence-prima-marilia-arraes-e-sera-prefeito-do-recife-projeta-datafolha.shtml
+2020-11-29 21:47:07,432          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/joao-campos-vence-prima-marilia-arraes-e-sera-prefeito-do-recife-projeta-datafolha.shtml
+2020-11-29 21:47:07,623          root     INFO: Replying to: 1333165620146409477
+2020-11-29 21:47:07,865          root     INFO: Id to store: 1333165621043994624
+2020-11-29 21:47:07,894          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/david-almeida-avante-e-eleito-prefeito-de-manaus.shtml
+2020-11-29 21:47:10,842          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/tipo-de-negocio-que-nao-da-em-nada-diz-mourao-sobre-investigacao-de-interferencia-de-bolsonaro-na-pf.shtml
+2020-11-29 21:47:10,845          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/urna-refletiu-frustracao-na-aposta-pelo-novo-de-2018-diz-amazonino-mendes.shtml
+2020-11-29 21:47:10,847          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleicoes-municipais-tem-ressaca-de-2018-marcado-por-brigas-sobre-politica.shtml
+2020-11-29 21:47:10,850          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vice-de-covas-volta-a-fugir-de-sabatina-folhauol-apos-mentir-sobre-convite.shtml
+2020-11-29 21:47:10,852          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/veja-erros-acertos-e-exageros-de-covas-e-boulos-no-horario-eleitoral-do-2o-turno-de-sp.shtml
+2020-11-29 21:47:10,854          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/em-guerra-da-reboucas-avenida-de-sp-e-divisa-entre-bastiao-tucano-e-bairro-mais-jovem-e-pro-boulos.shtml
+2020-11-29 21:47:10,857          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/cortina-da-historia-politica-do-amazonas-se-fecha-para-caciques-diz-david-almeida.shtml
+2020-11-29 21:47:10,858          root     INFO: Finished script
