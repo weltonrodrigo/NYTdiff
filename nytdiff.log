@@ -1,8 +1,13 @@
-2020-11-29 19:16:58,272          root     INFO: Starting script
-2020-11-29 19:16:59,123          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-29 19:16:59,832          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-29 19:17:00,511          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-29 19:17:00,816          root     INFO: Parsing R7 - Brasil
-2020-11-29 19:17:01,113          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/11/bolsonaro-representa-todos-os-condenados-por-terem-dito-o-que-disseram.shtml
-2020-11-29 19:17:05,903          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/11/resquicio-do-imperio.shtml
-2020-11-29 19:17:05,904          root     INFO: Finished script
+2020-11-29 19:24:05,540          root     INFO: Starting script
+2020-11-29 19:24:06,608          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-29 19:24:07,443          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-29 19:24:08,283          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-29 19:24:08,533          root     INFO: Parsing R7 - Brasil
+2020-11-29 19:24:08,856          root     INFO: Agora que o presidente disse que não disse que a Covid-19 era só uma gripezinha, e que também disse que não existe nenhum vídeo ou áudio onde ele diga isso, abriu-se uma possibilidade para todos os processados e condenados por terem dito o que disseram. Basta dizer: eu não disse. As gravações e os jornais deixam de ser provas. Já não interessa se foi uma piada, um xingamento ou um fato inconveniente que desagradou alguém. A partir do eu-não-disse bolsonariano, a linha de defesa dos acusados fica muito mais simples. É só negar tudo na moral. <del>-Meritíssimo,</del> <ins>—Meritíssimo,</ins> o meu cliente disse que não disse. Danem-se os posts, os tweets e os prints. São as palavras deles contra três palavrinhas definitivas. Eu não disse. Leia mais (11/29/2020 - 16h00)
+2020-11-29 19:24:11,013          root     INFO: Media ready with ids: 1333129645793947650
+2020-11-29 19:24:11,013          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-29 19:24:11,013          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/11/bolsonaro-representa-todos-os-condenados-por-terem-dito-o-que-disseram.shtml
+2020-11-29 19:24:11,024          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/11/bolsonaro-representa-todos-os-condenados-por-terem-dito-o-que-disseram.shtml
+2020-11-29 19:24:11,281          root     INFO: Replying to: 1333129648344064000
+2020-11-29 19:24:11,570          root     INFO: Id to store: 1333129649388392452
+2020-11-29 19:24:16,212          root     INFO: Finished script
