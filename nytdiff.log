@@ -1,6 +1,13 @@
-2020-11-30 03:47:18,851          root     INFO: Starting script
-2020-11-30 03:47:19,737          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-30 03:47:20,394          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-30 03:47:21,043          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-30 03:47:21,290          root     INFO: Parsing R7 - Brasil
-2020-11-30 03:47:26,253          root     INFO: Finished script
+2020-11-30 03:57:50,907          root     INFO: Starting script
+2020-11-30 03:57:51,802          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-30 03:57:52,486          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-30 03:57:53,174          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-30 03:57:53,428          root     INFO: Parsing R7 - Brasil
+2020-11-30 03:57:55,995          root     INFO: Com o segundo lugar na disputa pela Prefeitura de São Paulo, Guilherme Boulos <del>(PSOL)</del> <ins>(PSOL), 38,</ins> sai da eleição de 2020 com uma derrota eleitoral para Bruno Covas (PSDB), mas afirma ter colhido uma vitória <del>política.</del> <ins>política e faz acenos nacionais ao falar de futuro.</ins> Leia mais (11/29/2020 - 20h48)
+2020-11-30 03:57:57,867          root     INFO: Media ready with ids: 1333258943565602817
+2020-11-30 03:57:57,867          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-30 03:57:57,868          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/a-gente-saiu-vitorioso-e-o-inicio-de-um-ciclo-diz-boulos-derrotado-em-sp-apontando-para-cenario-nacional.shtml
+2020-11-30 03:57:57,875          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/a-gente-saiu-vitorioso-e-o-inicio-de-um-ciclo-diz-boulos-derrotado-em-sp-apontando-para-cenario-nacional.shtml
+2020-11-30 03:57:58,051          root     INFO: Replying to: 1333258945289465856
+2020-11-30 03:57:58,271          root     INFO: Id to store: 1333258945973063686
+2020-11-30 03:58:01,080          root     INFO: Finished script
