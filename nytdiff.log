@@ -1,45 +1,30 @@
-2020-11-30 02:32:32,625          root     INFO: Starting script
-2020-11-30 02:32:33,456          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-30 02:32:34,135          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-30 02:32:34,814          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-30 02:32:35,028          root     INFO: Parsing R7 - Brasil
-2020-11-30 02:32:36,896          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/salles-pede-para-ter-acesso-a-imagens-de-satelite-da-amazonia-que-nao-sao-do-inpe.shtml
-2020-11-30 02:32:36,911          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/operacoes-suspeitas-dobram-e-coaf-tera-recorde-historico-na-producao-de-relatorios.shtml
-2020-11-30 02:32:36,928          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/resultado-em-sp-alca-guilherme-boulos-a-ator-indispensavel-em-costura-da-esquerda-para-2022.shtml
-2020-11-30 02:32:36,937          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/ex-candidata-questiona-pt-sobre-comprometimento-com-renovacao-em-2024.shtml
-2020-11-30 02:32:36,965          root     INFO: Bruno Covas avança mais em áreas ricas das zonas leste e norte da capital <ins>paulista</ins>
-2020-11-30 02:32:38,703          root     INFO: Media ready with ids: 1333237472445296641
-2020-11-30 02:32:38,704          root     INFO: Text to tweet: Modificação do Título
-2020-11-30 02:32:38,704          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-covas-avanca-mais-em-areas-ricas-das-zonas-leste-e-norte-da-capital.shtml
-2020-11-30 02:32:38,710          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-covas-avanca-mais-em-areas-ricas-das-zonas-leste-e-norte-da-capital.shtml
-2020-11-30 02:32:38,908          root     INFO: Replying to: 1333237474118742017
-2020-11-30 02:32:39,157          root     INFO: Id to store: 1333237474903138304
-2020-11-30 02:32:39,163          root     INFO: O atual prefeito <del>deSão</del> <ins>de São</ins> Paulo, Bruno Covas (PSDB), conseguiu neste segundo turno forte crescimento em regiões com perfil alto e médio de renda, especialmente nas zonas leste e norte. O candidato derrotado Guilherme Boulos (PSOL) avançou na periferia, mas de forma insuficiente. Leia mais (11/29/2020 - 23h15)
-2020-11-30 02:32:40,895          root     INFO: Media ready with ids: 1333237481702121472
-2020-11-30 02:32:40,895          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-30 02:32:40,895          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-covas-avanca-mais-em-areas-ricas-das-zonas-leste-e-norte-da-capital.shtml
-2020-11-30 02:32:40,913          root     INFO: Replying to: 1333237474903138304
-2020-11-30 02:32:41,152          root     INFO: Id to store: 1333237483321118728
-2020-11-30 02:32:41,264          root     INFO: Empurrado pela vitória em São Paulo, o PSDB se manterá como o partido que governa <del>o</del> <ins>uma parcela</ins> maior <del>número de eleitores</del> <ins>da população</ins> nos municípios do país, embora tenha perdido o controle de importantes metrópoles nos estados. Leia mais (11/29/2020 - 23h15)
-2020-11-30 02:32:43,005          root     INFO: Media ready with ids: 1333237490409500673
-2020-11-30 02:32:43,006          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-30 02:32:43,006          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/psdb-tera-maior-populacao-governada-pelo-pais-e-poder-fica-mais-pulverizado.shtml
-2020-11-30 02:32:43,015          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/psdb-tera-maior-populacao-governada-pelo-pais-e-poder-fica-mais-pulverizado.shtml
-2020-11-30 02:32:43,184          root     INFO: Replying to: 1333237492049469440
-2020-11-30 02:32:43,420          root     INFO: Id to store: 1333237492758310915
-2020-11-30 02:32:46,700          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/bolsonaristas-alvos-do-stf-e-eduardo-bolsonaro-foram-os-que-mais-espalharam-fake-news-contra-eleicoes-diz-fgv.shtml
-2020-11-30 02:32:46,703          root     INFO: Removed http://noticias.r7.com/brasil/a-pf-esta-de-parabens-diz-barroso-sobre-prisao-de-hacker-29112020
-2020-11-30 02:32:46,706          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apoiadores-de-covas-apontam-radicalismo-de-boulos-e-psolistas-veem-elitismo-em-tucano.shtml
-2020-11-30 02:32:46,709          root     INFO: Removed http://noticias.r7.com/brasil/pais-registra-296-ocorrencias-e-64-prisoes-diz-ministerio-da-justica-29112020
-2020-11-30 02:32:46,711          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-2020-votacao-e-encerrada-e-comeca-a-apuracao-do-2-turno-29112020
-2020-11-30 02:32:46,714          root     INFO: Removed http://noticias.r7.com/brasil/ibope-diz-que-nao-divulgara-a-boca-de-urna-do-2-turno-29112020
-2020-11-30 02:32:46,716          root     INFO: Removed http://noticias.r7.com/brasil/604-mil-eleitores-ja-justificaram-ausencia-por-e-titulo-no-2-turno-29112020
-2020-11-30 02:32:46,719          root     INFO: Removed http://noticias.r7.com/brasil/adilo-didomenico-psdb-e-eleito-prefeito-de-caxias-de-sul-rs-29112020
-2020-11-30 02:32:46,722          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/distante-do-2o-turno-bolsonaro-foca-em-eleicao-da-camara-e-escolha-de-um-partido-para-2022.shtml
-2020-11-30 02:32:46,724          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/popularidade-de-bolsonaro-entre-os-mais-pobres-recua-em-algumas-capitais.shtml
-2020-11-30 02:32:46,727          root     INFO: Removed http://noticias.r7.com/brasil/desembargadora-presa-recebe-quase-meio-milhao-de-tj-ba-29112020
-2020-11-30 02:32:46,730          root     INFO: Removed http://noticias.r7.com/brasil/ponta-grossa-prof-elizabeth-vence-na-unica-disputa-entre-mulheres-29112020
-2020-11-30 02:32:46,733          root     INFO: Removed http://noticias.r7.com/brasil/diretor-geral-da-pf-se-reune-com-barroso-no-predio-do-tse-29112020
-2020-11-30 02:32:46,735          root     INFO: Removed http://noticias.r7.com/brasil/pais-registra-197-crimes-eleitorais-diz-ministerio-da-justica-29112020
-2020-11-30 02:32:46,738          root     INFO: Removed http://noticias.r7.com/brasil/cicero-lucena-pp-e-eleito-para-retornar-a-prefeitura-de-joao-pessoa-29112020
-2020-11-30 02:32:46,739          root     INFO: Finished script
+2020-11-30 02:46:53,062          root     INFO: Starting script
+2020-11-30 02:46:53,874          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-30 02:46:54,527          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-30 02:46:55,175          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-30 02:46:55,376          root     INFO: Parsing R7 - Brasil
+2020-11-30 02:46:55,658          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/11/corretamente-politico.shtml
+2020-11-30 02:46:55,892          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/11/mae-eu-to-cum-medo.shtml
+2020-11-30 02:46:57,273          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/11/corretamente-politico.shtml
+2020-11-30 02:46:57,534          root     INFO: Covas vence em 50 das 58 <del>seções da cidade,</del> <ins>zonas eleitorais de SP,</ins> e Boulos tem ganhos na periferia
+2020-11-30 02:46:59,359          root     INFO: Media ready with ids: 1333241082419818496
+2020-11-30 02:46:59,359          root     INFO: Text to tweet: Modificação do Título
+2020-11-30 02:46:59,359          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-vence-em-50-das-58-secoes-da-cidade-e-boulos-tem-ganhos-na-periferia.shtml
+2020-11-30 02:46:59,365          root     INFO: Replying to: 1333235525633912832
+2020-11-30 02:46:59,569          root     INFO: Id to store: 1333241083795484672
+2020-11-30 02:47:00,932          root     INFO: José Sarto <ins>(PDT)</ins> bate Capitão Wagner e será prefeito de <del>Fortaleza, projeta Datafolha</del> <ins>Fortaleza</ins>
+2020-11-30 02:47:02,563          root     INFO: Media ready with ids: 1333241095971610625
+2020-11-30 02:47:02,563          root     INFO: Text to tweet: Modificação do Título
+2020-11-30 02:47:02,563          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
+2020-11-30 02:47:02,572          root     INFO: Replying to: 1333223815271288835
+2020-11-30 02:47:02,783          root     INFO: Id to store: 1333241097234096129
+2020-11-30 02:47:02,787          root     INFO: O médico e deputado estadual José Sarto (PDT) <del>será o</del> <ins>foi eleito como</ins> novo prefeito de Fortaleza pelos próximos quatro <del>anos, segundo projeção do Datafolha.</del> <ins>anos.</ins> Com <del>50%</del> <ins>100%</ins> das urnas apuradas na capital do <del>Ceará até as 18h deste domingo (29),</del> <ins>Ceará,</ins> Sarto registrou <del>52%</del> <ins>51,69%</ins> dos votos válidos e superou o deputado federal Capitão Wagner <del>(Pros).</del> <ins>(PROS), que obteve 48,31%.</ins> A vitória de Sarto representa o sucesso de uma ampla frente que se formou em torno do candidato <del>neste</del> <ins>nesse</ins> segundo turno, com o apoio de partidos que que vão da esquerda <del>de</del> <ins>do</ins> PT <ins>-do governador Camilo Santana, que declarou apoio-</ins> e PSOL até a centro-direita de DEM e <del>PSDB.</del> <ins>PSDB, além dos irmãos Ciro e Cid Gomes, que tiveram presença tímida na campanha.</ins> Leia mais (11/29/2020 - 18h06)
+2020-11-30 02:47:04,632          root     INFO: Media ready with ids: 1333241104251179010
+2020-11-30 02:47:04,633          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-30 02:47:04,633          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
+2020-11-30 02:47:04,639          root     INFO: Replying to: 1333241097234096129
+2020-11-30 02:47:04,858          root     INFO: Id to store: 1333241105924632577
+2020-11-30 02:47:07,242          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2020/11/o-que-o-mundo-pode-aprender-com-a-pandemia-de-covid-19.shtml
+2020-11-30 02:47:07,245          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/11/maradona-e-tao-amado-por-ter-sido-o-mais-humano-dos-imortais.shtml
+2020-11-30 02:47:07,248          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2020/11/a-impunidade-do-governo-esta-assegurada-protegida-pelo-esquecimento-facil.shtml
+2020-11-30 02:47:07,248          root     INFO: Finished script
