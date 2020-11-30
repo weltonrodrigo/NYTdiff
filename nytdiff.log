@@ -1,18 +1,6 @@
-2020-11-30 11:46:51,109          root     INFO: Starting script
-2020-11-30 11:46:51,928          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-30 11:46:52,598          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-30 11:46:53,250          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-30 11:46:53,490          root     INFO: Parsing R7 - Brasil
-2020-11-30 11:46:55,491          root     INFO: Bruno Covas avança mais em áreas ricas das zonas leste e norte <del>da capital</del> <ins>de São Paulo</ins>
-2020-11-30 11:46:57,163          root     INFO: Media ready with ids: 1333376968675438592
-2020-11-30 11:46:57,164          root     INFO: Text to tweet: Modificação do Título
-2020-11-30 11:46:57,164          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-covas-avanca-mais-em-areas-ricas-das-zonas-leste-e-norte-da-capital.shtml
-2020-11-30 11:46:57,170          root     INFO: Replying to: 1333237483321118728
-2020-11-30 11:46:57,381          root     INFO: Id to store: 1333376970063802368
-2020-11-30 11:46:57,386          root     INFO: O atual prefeito <del>deSão</del> <ins>de São</ins> Paulo, Bruno Covas (PSDB), conseguiu neste segundo turno forte crescimento em regiões com perfil alto e médio de renda, especialmente nas zonas leste e norte. O candidato derrotado Guilherme Boulos (PSOL) avançou na periferia, mas de forma insuficiente. Leia mais (11/29/2020 - 23h15)
-2020-11-30 11:46:59,121          root     INFO: Media ready with ids: 1333376976678219776
-2020-11-30 11:46:59,122          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-30 11:46:59,123          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bruno-covas-avanca-mais-em-areas-ricas-das-zonas-leste-e-norte-da-capital.shtml
-2020-11-30 11:46:59,129          root     INFO: Replying to: 1333376970063802368
-2020-11-30 11:46:59,336          root     INFO: Id to store: 1333376978213277696
-2020-11-30 11:47:02,576          root     INFO: Finished script
+2020-11-30 11:57:49,404          root     INFO: Starting script
+2020-11-30 11:57:50,315          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-30 11:57:50,957          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-30 11:57:51,604          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-30 11:57:51,856          root     INFO: Parsing R7 - Brasil
+2020-11-30 11:57:55,571          root     INFO: Finished script
