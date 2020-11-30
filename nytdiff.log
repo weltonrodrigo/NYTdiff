@@ -1,23 +1,21 @@
-2020-11-30 17:06:35,045          root     INFO: Starting script
-2020-11-30 17:06:35,869          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-30 17:06:36,540          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-30 17:06:37,215          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-30 17:06:37,431          root     INFO: Parsing R7 - Brasil
-2020-11-30 17:06:39,298          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/grupos-diferentes-podem-ter-atacado-sistema-do-tse-diz-barroso.shtml
-2020-11-30 17:06:42,344          root     INFO: New article tracked: http://noticias.r7.com/brasil/moro-entra-como-socio-em-consultoria-e-nega-conflito-30112020
-2020-11-30 17:06:42,353          root     INFO: New article tracked: http://noticias.r7.com/brasil/consumo-de-plasticos-explode-na-pandemia-e-brasil-recicla-menos-de-2-do-material-30112020
-2020-11-30 17:06:42,362          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacao-faz-caixa-seguradora-abrir-investigacao-interna-por-fraudes-30112020
-2020-11-30 17:06:42,371          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacao-contra-hackers-que-invadiram-tse-mirou-tres-brasileiros-30112020
-2020-11-30 17:06:42,380          root     INFO: New article tracked: http://noticias.r7.com/brasil/doria-adia-debate-sobre-2022-e-foca-na-vacina-30112020
-2020-11-30 17:06:42,388          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-diz-que-e-preciso-repensar-voto-obrigatorio-no-pais-30112020
-2020-11-30 17:06:42,397          root     INFO: New article tracked: http://noticias.r7.com/brasil/mercado-financeiro-estima-queda-de-450-para-pib-em-2020-30112020
-2020-11-30 17:06:42,407          root     INFO: New article tracked: http://noticias.r7.com/brasil/trf1-libera-acesso-a-alguns-sistemas-apos-ataque-hacker-30112020
-2020-11-30 17:06:42,416          root     INFO: New article tracked: http://noticias.r7.com/brasil/mesmo-sem-estrelas-mdb-tem-resultado-consistente-30112020
-2020-11-30 17:06:42,425          root     INFO: New article tracked: http://noticias.r7.com/brasil/partido-novo-elege-apenas-1-prefeito-em-todo-o-pais-30112020
-2020-11-30 17:06:42,435          root     INFO: New article tracked: http://noticias.r7.com/brasil/entenda-tudo-sobre-o-decimo-terceiro-salario-30112020
-2020-11-30 17:06:42,445          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-faca-o-que-quiser-desde-que-nos-obedeca-30112020
-2020-11-30 17:06:42,458          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-comemora-desempenho-de-deputados-em-eleicoes-municipais-30112020
-2020-11-30 17:06:42,467          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-municipais-derrotas-de-aliados-mostram-que-bolsonaro-nao-e-mais-o-mesmo-de-2018-diz-cientista-politico-30112020
-2020-11-30 17:06:42,481          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-diz-que-abstencao-de-eleitores-foi-maior-que-o-desejavel-30112020
-2020-11-30 17:06:42,568          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/bolsonaro-nao-se-beneficiou-de-fraude-eleitoral-em-1994.shtml
-2020-11-30 17:06:42,570          root     INFO: Finished script
+2020-11-30 17:27:26,077          root     INFO: Starting script
+2020-11-30 17:27:26,917          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-30 17:27:27,590          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-30 17:27:28,278          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-30 17:27:28,446          root     INFO: Parsing R7 - Brasil
+2020-11-30 17:27:33,888          root     INFO: Removed http://noticias.r7.com/brasil/barroso-diz-que-abstencao-de-eleitores-foi-maior-que-o-desejavel-30112020
+2020-11-30 17:27:33,892          root     INFO: Removed http://noticias.r7.com/brasil/mesmo-sem-estrelas-mdb-tem-resultado-consistente-30112020
+2020-11-30 17:27:33,895          root     INFO: Removed http://noticias.r7.com/brasil/camara-comemora-desempenho-de-deputados-em-eleicoes-municipais-30112020
+2020-11-30 17:27:33,897          root     INFO: Removed http://noticias.r7.com/brasil/moro-entra-como-socio-em-consultoria-e-nega-conflito-30112020
+2020-11-30 17:27:33,900          root     INFO: Removed http://noticias.r7.com/brasil/entenda-tudo-sobre-o-decimo-terceiro-salario-30112020
+2020-11-30 17:27:33,903          root     INFO: Removed http://noticias.r7.com/brasil/operacao-contra-hackers-que-invadiram-tse-mirou-tres-brasileiros-30112020
+2020-11-30 17:27:33,906          root     INFO: Removed http://noticias.r7.com/brasil/analise-faca-o-que-quiser-desde-que-nos-obedeca-30112020
+2020-11-30 17:27:33,909          root     INFO: Removed http://noticias.r7.com/brasil/mercado-financeiro-estima-queda-de-450-para-pib-em-2020-30112020
+2020-11-30 17:27:33,912          root     INFO: Removed http://noticias.r7.com/brasil/mourao-diz-que-e-preciso-repensar-voto-obrigatorio-no-pais-30112020
+2020-11-30 17:27:33,914          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-municipais-derrotas-de-aliados-mostram-que-bolsonaro-nao-e-mais-o-mesmo-de-2018-diz-cientista-politico-30112020
+2020-11-30 17:27:33,933          root     INFO: Removed http://noticias.r7.com/brasil/consumo-de-plasticos-explode-na-pandemia-e-brasil-recicla-menos-de-2-do-material-30112020
+2020-11-30 17:27:33,937          root     INFO: Removed http://noticias.r7.com/brasil/trf1-libera-acesso-a-alguns-sistemas-apos-ataque-hacker-30112020
+2020-11-30 17:27:33,940          root     INFO: Removed http://noticias.r7.com/brasil/partido-novo-elege-apenas-1-prefeito-em-todo-o-pais-30112020
+2020-11-30 17:27:33,943          root     INFO: Removed http://noticias.r7.com/brasil/doria-adia-debate-sobre-2022-e-foca-na-vacina-30112020
+2020-11-30 17:27:33,945          root     INFO: Removed http://noticias.r7.com/brasil/operacao-faz-caixa-seguradora-abrir-investigacao-interna-por-fraudes-30112020
+2020-11-30 17:27:33,946          root     INFO: Finished script
