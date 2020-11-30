@@ -1,30 +1,12 @@
-2020-11-30 02:46:53,062          root     INFO: Starting script
-2020-11-30 02:46:53,874          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-30 02:46:54,527          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-30 02:46:55,175          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-30 02:46:55,376          root     INFO: Parsing R7 - Brasil
-2020-11-30 02:46:55,658          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/11/corretamente-politico.shtml
-2020-11-30 02:46:55,892          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/11/mae-eu-to-cum-medo.shtml
-2020-11-30 02:46:57,273          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/11/corretamente-politico.shtml
-2020-11-30 02:46:57,534          root     INFO: Covas vence em 50 das 58 <del>seções da cidade,</del> <ins>zonas eleitorais de SP,</ins> e Boulos tem ganhos na periferia
-2020-11-30 02:46:59,359          root     INFO: Media ready with ids: 1333241082419818496
-2020-11-30 02:46:59,359          root     INFO: Text to tweet: Modificação do Título
-2020-11-30 02:46:59,359          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/covas-vence-em-50-das-58-secoes-da-cidade-e-boulos-tem-ganhos-na-periferia.shtml
-2020-11-30 02:46:59,365          root     INFO: Replying to: 1333235525633912832
-2020-11-30 02:46:59,569          root     INFO: Id to store: 1333241083795484672
-2020-11-30 02:47:00,932          root     INFO: José Sarto <ins>(PDT)</ins> bate Capitão Wagner e será prefeito de <del>Fortaleza, projeta Datafolha</del> <ins>Fortaleza</ins>
-2020-11-30 02:47:02,563          root     INFO: Media ready with ids: 1333241095971610625
-2020-11-30 02:47:02,563          root     INFO: Text to tweet: Modificação do Título
-2020-11-30 02:47:02,563          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
-2020-11-30 02:47:02,572          root     INFO: Replying to: 1333223815271288835
-2020-11-30 02:47:02,783          root     INFO: Id to store: 1333241097234096129
-2020-11-30 02:47:02,787          root     INFO: O médico e deputado estadual José Sarto (PDT) <del>será o</del> <ins>foi eleito como</ins> novo prefeito de Fortaleza pelos próximos quatro <del>anos, segundo projeção do Datafolha.</del> <ins>anos.</ins> Com <del>50%</del> <ins>100%</ins> das urnas apuradas na capital do <del>Ceará até as 18h deste domingo (29),</del> <ins>Ceará,</ins> Sarto registrou <del>52%</del> <ins>51,69%</ins> dos votos válidos e superou o deputado federal Capitão Wagner <del>(Pros).</del> <ins>(PROS), que obteve 48,31%.</ins> A vitória de Sarto representa o sucesso de uma ampla frente que se formou em torno do candidato <del>neste</del> <ins>nesse</ins> segundo turno, com o apoio de partidos que que vão da esquerda <del>de</del> <ins>do</ins> PT <ins>-do governador Camilo Santana, que declarou apoio-</ins> e PSOL até a centro-direita de DEM e <del>PSDB.</del> <ins>PSDB, além dos irmãos Ciro e Cid Gomes, que tiveram presença tímida na campanha.</ins> Leia mais (11/29/2020 - 18h06)
-2020-11-30 02:47:04,632          root     INFO: Media ready with ids: 1333241104251179010
-2020-11-30 02:47:04,633          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-30 02:47:04,633          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/jose-sarto-bate-capitao-wagner-e-sera-prefeito-de-fortaleza-projeta-datafolha.shtml
-2020-11-30 02:47:04,639          root     INFO: Replying to: 1333241097234096129
-2020-11-30 02:47:04,858          root     INFO: Id to store: 1333241105924632577
-2020-11-30 02:47:07,242          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2020/11/o-que-o-mundo-pode-aprender-com-a-pandemia-de-covid-19.shtml
-2020-11-30 02:47:07,245          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/11/maradona-e-tao-amado-por-ter-sido-o-mais-humano-dos-imortais.shtml
-2020-11-30 02:47:07,248          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2020/11/a-impunidade-do-governo-esta-assegurada-protegida-pelo-esquecimento-facil.shtml
-2020-11-30 02:47:07,248          root     INFO: Finished script
+2020-11-30 02:57:51,061          root     INFO: Starting script
+2020-11-30 02:57:51,935          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-30 02:57:52,612          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-30 02:57:53,293          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-30 02:57:53,566          root     INFO: Parsing R7 - Brasil
+2020-11-30 02:57:53,876          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/11/equidistancia-politica.shtml
+2020-11-30 02:57:55,424          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/horas-apos-vitoria-tucanos-invertem-papel-e-bruno-covas-ja-vira-cabo-eleitoral-de-doria-para-2022.shtml
+2020-11-30 02:57:55,433          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/11/equidistancia-politica.shtml
+2020-11-30 02:57:58,693          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apos-vistas-grossas-a-covid-covas-e-boulos-chegam-ao-dia-da-eleicao-desafiados-pela-pandemia.shtml
+2020-11-30 02:57:58,697          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/11/o-holofotismo-de-lewandowski-ao-dar-prazo-para-um-plano-de-vacinacao.shtml
+2020-11-30 02:57:58,699          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/mundo/2020/11/trump-vai-suas-sementes-ficam.shtml
+2020-11-30 02:57:58,700          root     INFO: Finished script
