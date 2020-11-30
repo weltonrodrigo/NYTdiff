@@ -1,20 +1,18 @@
-2020-11-30 19:57:47,379          root     INFO: Starting script
-2020-11-30 19:57:48,264          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-30 19:57:48,909          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-30 19:57:49,553          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-30 19:57:49,786          root     INFO: Parsing R7 - Brasil
-2020-11-30 19:57:51,469          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/goiania-vive-incerteza-com-prefeito-eleito-em-hospital.shtml
-2020-11-30 19:57:52,919          root     INFO: Desmatamento na Amazônia volta a bater recorde e cresce <del>9%</del> <ins>9,5% entre 2019 e 2020</ins>
-2020-11-30 19:57:54,784          root     INFO: Media ready with ids: 1333500522813399045
-2020-11-30 19:57:54,785          root     INFO: Text to tweet: Modificação do Título
-2020-11-30 19:57:54,785          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/desmatamento-na-amazonia-volta-a-bater-recorde-e-cresce-9.shtml
-2020-11-30 19:57:54,794          root     INFO: Replying to: 1333497826416930816
-2020-11-30 19:57:55,048          root     INFO: Id to store: 1333500524335951872
-2020-11-30 19:57:55,053          root     INFO: O desmatamento na Amazônia cresceu <del>9%</del> <ins>cerca de 9,5%</ins> entre agosto de 2019 e julho de 2020 em comparação ao período anterior, entre 2018 e 2019 -no total, foram derrubados 11.088 km² de floresta nesse intervalo de tempo. O expressivo salto ocorre mesmo com a presença do Exército na floresta, sob a Operação Verde Brasil 2. Leia mais (11/30/2020 - 16h22)
-2020-11-30 19:57:56,839          root     INFO: Media ready with ids: 1333500531222966277
-2020-11-30 19:57:56,840          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-30 19:57:56,840          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/desmatamento-na-amazonia-volta-a-bater-recorde-e-cresce-9.shtml
-2020-11-30 19:57:56,846          root     INFO: Replying to: 1333500524335951872
-2020-11-30 19:57:57,071          root     INFO: Id to store: 1333500532841992196
-2020-11-30 19:57:58,679          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405552
-2020-11-30 19:57:58,680          root     INFO: Finished script
+2020-11-30 20:22:11,015          root     INFO: Starting script
+2020-11-30 20:22:12,160          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-30 20:22:12,834          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-30 20:22:13,504          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-30 20:22:13,661          root     INFO: Parsing R7 - Brasil
+2020-11-30 20:22:17,607          root     INFO: Desmatamento na Amazônia volta a bater recorde e cresce <del>9%</del> <ins>9,5% de 2019 a 2020</ins>
+2020-11-30 20:22:19,448          root     INFO: Media ready with ids: 1333506665908473859
+2020-11-30 20:22:19,448          root     INFO: Text to tweet: Modificação do Título
+2020-11-30 20:22:19,448          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/desmatamento-na-amazonia-volta-a-bater-recorde-e-cresce-9.shtml
+2020-11-30 20:22:19,458          root     INFO: Replying to: 1333500532841992196
+2020-11-30 20:22:19,675          root     INFO: Id to store: 1333506667519086596
+2020-11-30 20:22:19,680          root     INFO: O desmatamento na Amazônia cresceu <del>9%</del> <ins>cerca de 9,5%</ins> entre agosto de 2019 e julho de 2020 em comparação ao período anterior, entre 2018 e 2019 -no total, foram derrubados 11.088 km² de floresta nesse intervalo de tempo. O expressivo salto ocorre mesmo com a presença do Exército na floresta, sob a Operação Verde Brasil 2. Leia mais (11/30/2020 - 16h22)
+2020-11-30 20:22:21,499          root     INFO: Media ready with ids: 1333506674330660868
+2020-11-30 20:22:21,499          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-30 20:22:21,499          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/desmatamento-na-amazonia-volta-a-bater-recorde-e-cresce-9.shtml
+2020-11-30 20:22:21,530          root     INFO: Replying to: 1333506667519086596
+2020-11-30 20:22:21,940          root     INFO: Id to store: 1333506676289384459
+2020-11-30 20:22:24,028          root     INFO: Finished script
