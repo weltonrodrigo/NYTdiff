@@ -1,12 +1,13 @@
-2020-11-30 02:57:51,061          root     INFO: Starting script
-2020-11-30 02:57:51,935          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-30 02:57:52,612          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-30 02:57:53,293          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-30 02:57:53,566          root     INFO: Parsing R7 - Brasil
-2020-11-30 02:57:53,876          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/11/equidistancia-politica.shtml
-2020-11-30 02:57:55,424          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/11/horas-apos-vitoria-tucanos-invertem-papel-e-bruno-covas-ja-vira-cabo-eleitoral-de-doria-para-2022.shtml
-2020-11-30 02:57:55,433          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/11/equidistancia-politica.shtml
-2020-11-30 02:57:58,693          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/apos-vistas-grossas-a-covid-covas-e-boulos-chegam-ao-dia-da-eleicao-desafiados-pela-pandemia.shtml
-2020-11-30 02:57:58,697          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/11/o-holofotismo-de-lewandowski-ao-dar-prazo-para-um-plano-de-vacinacao.shtml
-2020-11-30 02:57:58,699          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/mundo/2020/11/trump-vai-suas-sementes-ficam.shtml
-2020-11-30 02:57:58,700          root     INFO: Finished script
+2020-11-30 03:21:28,640          root     INFO: Starting script
+2020-11-30 03:21:29,532          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-30 03:21:30,218          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-30 03:21:30,921          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-30 03:21:31,157          root     INFO: Parsing R7 - Brasil
+2020-11-30 03:21:33,808          root     INFO: O atual prefeito <ins>de São Paulo,</ins> Bruno Covas (PSDB), reeleito neste domingo (29), conquistou 50 das 58 zonas eleitorais da capital ao derrotar Guilherme Boulos (PSOL) no segundo turno da eleição paulistana. Leia mais (11/29/2020 - 21h08)
+2020-11-30 03:21:35,615          root     INFO: Media ready with ids: 1333249790570881025
+2020-11-30 03:21:35,616          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-30 03:21:35,616          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://agora.folha.uol.com.br/sao-paulo/2020/11/covas-vence-em-50-das-58-zonas-eleitorais-boulos-ganha-nos-extremos-das-zonas-sul-e-leste.shtml
+2020-11-30 03:21:35,623          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://agora.folha.uol.com.br/sao-paulo/2020/11/covas-vence-em-50-das-58-zonas-eleitorais-boulos-ganha-nos-extremos-das-zonas-sul-e-leste.shtml
+2020-11-30 03:21:35,795          root     INFO: Replying to: 1333249792269545473
+2020-11-30 03:21:36,094          root     INFO: Id to store: 1333249793301372933
+2020-11-30 03:21:39,512          root     INFO: Finished script
