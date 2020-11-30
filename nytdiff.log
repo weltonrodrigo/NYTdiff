@@ -1,6 +1,28 @@
-2020-11-30 22:33:42,539          root     INFO: Starting script
-2020-11-30 22:33:43,399          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-30 22:33:44,072          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-30 22:33:44,760          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-30 22:33:44,971          root     INFO: Parsing R7 - Brasil
-2020-11-30 22:33:49,869          root     INFO: Finished script
+2020-11-30 22:46:51,205          root     INFO: Starting script
+2020-11-30 22:46:52,223          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-30 22:46:53,057          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-30 22:46:53,895          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-30 22:46:54,152          root     INFO: Parsing R7 - Brasil
+2020-11-30 22:46:56,012          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/candidatas-triunfam-nas-tres-disputas-de-segundo-turno-com-mulheres-em-mg.shtml
+2020-11-30 22:46:57,606          root     INFO: Desmatamento na Amazônia volta a bater recorde e cresce <del>9%</del> <ins>9,5% de 2019 a 2020</ins>
+2020-11-30 22:46:59,474          root     INFO: Media ready with ids: 1333543072609816578
+2020-11-30 22:46:59,475          root     INFO: Text to tweet: Modificação do Título
+2020-11-30 22:46:59,475          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/desmatamento-na-amazonia-volta-a-bater-recorde-e-cresce-9.shtml
+2020-11-30 22:46:59,483          root     INFO: Replying to: 1333509064844828672
+2020-11-30 22:46:59,771          root     INFO: Id to store: 1333543074442719233
+2020-11-30 22:46:59,778          root     INFO: O desmatamento na Amazônia cresceu <del>9% entre</del> <ins>cerca de 9,5% de</ins> agosto de 2019 <del>e</del> <ins>a</ins> julho de 2020 em comparação <del>ao</del> <ins>com o</ins> período anterior, <del>entre</del> <ins>de</ins> 2018 <del>e 2019 -no</del> <ins>a 2019. No</ins> total, foram derrubados 11.088 km² de floresta nesse intervalo de <del>tempo. O expressivo salto ocorre mesmo com a</del> <ins>tempo apesar da</ins> presença do Exército na floresta, sob a Operação Verde Brasil 2. Leia mais (11/30/2020 - 16h22)
+2020-11-30 22:47:01,712          root     INFO: Media ready with ids: 1333543081644351488
+2020-11-30 22:47:01,712          root     INFO: Text to tweet: Modificação da Descrição
+2020-11-30 22:47:01,712          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/desmatamento-na-amazonia-volta-a-bater-recorde-e-cresce-9.shtml
+2020-11-30 22:47:01,718          root     INFO: Replying to: 1333543074442719233
+2020-11-30 22:47:02,003          root     INFO: Id to store: 1333543083754074114
+2020-11-30 22:47:03,466          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibovespa-fecha-em-queda-mas-tem-melhor-novembro-desde-1999-30112020
+2020-11-30 22:47:03,476          root     INFO: New article tracked: http://noticias.r7.com/brasil/desmatamento-na-amazonia-salta-ao-maior-nivel-em-12-anos-diz-inpe-30112020
+2020-11-30 22:47:03,485          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-conversa-pela-1-vez-com-o-novo-presidente-da-argentina-30112020
+2020-11-30 22:47:03,494          root     INFO: New article tracked: http://noticias.r7.com/brasil/sob-suspeita-de-ataque-hacker-trf1-tira-pagina-na-internet-do-ar-30112020
+2020-11-30 22:47:03,503          root     INFO: New article tracked: http://noticias.r7.com/brasil/a-derrocada-do-pt-um-partido-que-se-esfacela-nas-urnas-30112020
+2020-11-30 22:47:03,510          root     INFO: New article tracked: http://noticias.r7.com/brasil/goiania-iris-rezende-sugere-que-filho-de-maguito-assuma-prefeitura-30112020
+2020-11-30 22:47:03,519          root     INFO: New article tracked: http://noticias.r7.com/brasil/luiz-fux-conduz-agenda-de-contraponto-ao-governo-no-stf-30112020
+2020-11-30 22:47:03,527          root     INFO: New article tracked: http://noticias.r7.com/brasil/abastecer-veiculo-com-gasolina-fica-mais-vantajoso-em-sao-paulo-30112020
+2020-11-30 22:47:03,735          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405561
+2020-11-30 22:47:03,736          root     INFO: Finished script
