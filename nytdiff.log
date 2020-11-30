@@ -1,13 +1,13 @@
-2020-11-30 12:28:34,627          root     INFO: Starting script
-2020-11-30 12:28:35,506          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-11-30 12:28:36,164          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-11-30 12:28:36,815          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-11-30 12:28:37,028          root     INFO: Parsing R7 - Brasil
-2020-11-30 12:28:37,497          root     INFO: Abel Ferreira não impressiona apenas por ter chegado ao Brasil demonstrando conhecer o Palmeiras, em sua história e alma. Sua personalidade é diferente <ins>da</ins> de Jorge Jesus. O brilhante treinador rubro-negro da temporada passada é mais espalhafatoso. Abel, mais sóbrio. Leia mais (11/29/2020 - 23h15)
-2020-11-30 12:28:39,414          root     INFO: Media ready with ids: 1333387463428100097
-2020-11-30 12:28:39,415          root     INFO: Text to tweet: Modificação da Descrição
-2020-11-30 12:28:39,415          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/11/as-multifuncoes-do-palmeiras-de-abel-ferreira.shtml
-2020-11-30 12:28:39,422          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/11/as-multifuncoes-do-palmeiras-de-abel-ferreira.shtml
-2020-11-30 12:28:39,600          root     INFO: Replying to: 1333387465319714816
-2020-11-30 12:28:39,819          root     INFO: Id to store: 1333387465982431232
-2020-11-30 12:28:44,946          root     INFO: Finished script
+2020-11-30 12:53:04,232          root     INFO: Starting script
+2020-11-30 12:53:05,052          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-11-30 12:53:05,723          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-11-30 12:53:06,388          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-11-30 12:53:06,505          root     INFO: Parsing R7 - Brasil
+2020-11-30 12:53:07,084          root     INFO: 'Mãe, eu tô <del>cum</del> <ins>com</ins> medo'
+2020-11-30 12:53:08,735          root     INFO: Media ready with ids: 1333393626718740480
+2020-11-30 12:53:08,736          root     INFO: Text to tweet: Modificação do Título
+2020-11-30 12:53:08,736          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/11/mae-eu-to-cum-medo.shtml
+2020-11-30 12:53:08,741          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/11/mae-eu-to-cum-medo.shtml
+2020-11-30 12:53:08,917          root     INFO: Replying to: 1333393628039929858
+2020-11-30 12:53:09,129          root     INFO: Id to store: 1333393628752998400
+2020-11-30 12:53:13,255          root     INFO: Finished script
