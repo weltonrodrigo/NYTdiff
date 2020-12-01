@@ -1,6 +1,10 @@
-2020-12-01 20:07:36,921          root     INFO: Starting script
-2020-12-01 20:07:38,154          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-01 20:07:39,165          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-01 20:07:40,167          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-01 20:07:40,315          root     INFO: Parsing R7 - Brasil
-2020-12-01 20:07:44,907          root     INFO: Finished script
+2020-12-01 20:32:04,444          root     INFO: Starting script
+2020-12-01 20:32:05,239          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-01 20:32:05,879          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-01 20:32:06,522          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-01 20:32:06,774          root     INFO: Parsing R7 - Brasil
+2020-12-01 20:32:12,034          root     INFO: Removed http://noticias.r7.com/brasil/nao-e-nosso-vizinho-e-nosso-irmao-diz-bolsonaro-sobre-paraguai-01122020
+2020-12-01 20:32:12,043          root     INFO: Removed http://noticias.r7.com/brasil/fraudes-no-seguro-desemprego-sao-alvo-da-pf-no-para-01122020
+2020-12-01 20:32:12,048          root     INFO: Removed http://noticias.r7.com/brasil/china-e-brasil-o-pragmatismo-que-salva-economias-01122020
+2020-12-01 20:32:12,051          root     INFO: Removed http://noticias.r7.com/brasil/helicoptero-do-ibama-cai-no-pantanal-e-piloto-morre-no-acidente-01122020
+2020-12-01 20:32:12,051          root     INFO: Finished script
