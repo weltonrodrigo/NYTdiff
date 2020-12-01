@@ -1,6 +1,12 @@
-2020-12-01 18:59:13,128          root     INFO: Starting script
-2020-12-01 18:59:14,184          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-01 18:59:14,834          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-01 18:59:15,493          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-01 18:59:15,683          root     INFO: Parsing R7 - Brasil
-2020-12-01 18:59:20,794          root     INFO: Finished script
+2020-12-01 19:28:06,019          root     INFO: Starting script
+2020-12-01 19:28:07,243          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-01 19:28:08,238          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-01 19:28:09,244          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-01 19:28:09,570          root     INFO: Parsing R7 - Brasil
+2020-12-01 19:28:11,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/reportagens-da-folha-ganham-premio-cnt-de-jornalismo-na-categoria-impresso.shtml
+2020-12-01 19:28:13,808          root     INFO: New article tracked: http://noticias.r7.com/brasil/china-e-brasil-o-pragmatismo-que-salva-economias-01122020
+2020-12-01 19:28:13,817          root     INFO: New article tracked: http://noticias.r7.com/brasil/nao-e-nosso-vizinho-e-nosso-irmao-diz-bolsonaro-sobre-paraguai-01122020
+2020-12-01 19:28:13,824          root     INFO: New article tracked: http://noticias.r7.com/brasil/fraudes-no-seguro-desemprego-sao-alvo-da-pf-no-para-01122020
+2020-12-01 19:28:13,833          root     INFO: New article tracked: http://noticias.r7.com/brasil/helicoptero-do-ibama-cai-no-pantanal-e-piloto-morre-no-acidente-01122020
+2020-12-01 19:28:14,057          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/caio-cunha-podemos-e-eleito-prefeito-de-mogi-das-cruzes-projeta-datafolha.shtml
+2020-12-01 19:28:14,058          root     INFO: Finished script
