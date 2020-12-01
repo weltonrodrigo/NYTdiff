@@ -1,10 +1,82 @@
-2020-12-01 22:25:55,673          root     INFO: Starting script
-2020-12-01 22:25:56,847          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-01 22:25:57,683          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-01 22:25:58,520          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-01 22:25:58,856          root     INFO: Parsing R7 - Brasil
-2020-12-01 22:25:59,164          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2020/12/gilmar-toma-la-maia-da-ca.shtml
-2020-12-01 22:26:00,767          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2020/12/gilmar-toma-la-maia-da-ca.shtml
-2020-12-01 22:26:04,193          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2020/11/pelo-fim-da-banalidade-da-violencia-contra-pessoas-negras-e-por-justicaparajoaoalberto.shtml
-2020-12-01 22:26:04,196          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/marcelo-oliveira-pt-e-eleito-prefeito-de-maua.shtml
-2020-12-01 22:26:04,197          root     INFO: Finished script
+2020-12-01 22:34:19,908          root     INFO: Starting script
+2020-12-01 22:34:20,913          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-01 22:34:21,735          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-01 22:34:22,556          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-01 22:34:22,823          root     INFO: Parsing R7 - Brasil
+2020-12-01 22:34:26,960          root     INFO: New article tracked: http://noticias.r7.com/brasil/balanca-comercial-tem-saldo-positivo-de-r-196-bi-em-novembro-01122020
+2020-12-01 22:34:26,970          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-agradece-apoio-do-paraguai-no-combate-ao-crime-01122020
+2020-12-01 22:34:26,977          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-marca-para-dia-11-inicio-de-julgamento-sobre-vacina-obrigatoria-01122020
+2020-12-01 22:34:26,984          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-denuncia-tatuador-por-ameaca-contra-jair-bolsonaro-em-minas-01122020
+2020-12-01 22:34:26,990          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-nao-pode-ter-ideologia-em-comercio-com-outros-paises-diz-cna-01122020
+2020-12-01 22:34:27,009          root     INFO: New article tracked: http://noticias.r7.com/brasil/salles-manifesta-solidariedade-por-morte-de-piloto-do-ibama-01122020
+2020-12-01 22:34:27,015          root     INFO: New article tracked: http://noticias.r7.com/brasil/habilitacoes-vencidas-em-2020-terao-um-ano-a-mais-de-validade-01122020
+2020-12-01 22:34:27,040          root     INFO: Diante de um 2021 cheio de desafios, as relações comerciais entre China e Brasil devem ser pautadas <del>pela lucidez. E as cifras devem falar mais alto que as</del> <ins>pelo pragmatismo, sem espaço para</ins> rusgas ideológicas
+2020-12-01 22:34:28,818          root     INFO: Media ready with ids: 1333902311941353473
+2020-12-01 22:34:28,819          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-01 22:34:28,819          root     INFO: Article id: http://noticias.r7.com/brasil/china-e-brasil-o-pragmatismo-que-salva-economias-01122020
+2020-12-01 22:34:28,825          root     INFO: Tweeting url: http://noticias.r7.com/brasil/china-e-brasil-o-pragmatismo-que-salva-economias-01122020
+2020-12-01 22:34:29,004          root    ERROR: Tweet text failed
+Traceback (most recent call last):
+  File "nytdiff.py", line 131, in tweet_text
+    tweet_id = self.api.update_status(status=text)
+  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/api.py", line 215, in update_status
+    )(*args, **kwargs)
+  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/binder.py", line 252, in _call
+    return method.execute()
+  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2020-12-01 22:34:29,006          root    ERROR: Error tweeting for article_id:
+'bool' object has no attribute 'id'
+Traceback (most recent call last):
+  File "nytdiff.py", line 151, in tweet
+    reply_to = tweet.id if not TESTING else time.time()
+AttributeError: 'bool' object has no attribute 'id'
+2020-12-01 22:34:29,006          root     INFO: <ins>Celso Fonseca</ins> Do R7
+2020-12-01 22:34:30,754          root     INFO: Media ready with ids: 1333902319973511184
+2020-12-01 22:34:30,755          root     INFO: Text to tweet: Modificação do autor
+2020-12-01 22:34:30,755          root     INFO: Article id: http://noticias.r7.com/brasil/china-e-brasil-o-pragmatismo-que-salva-economias-01122020
+2020-12-01 22:34:30,760          root     INFO: Tweeting url: http://noticias.r7.com/brasil/china-e-brasil-o-pragmatismo-que-salva-economias-01122020
+2020-12-01 22:34:30,926          root    ERROR: Tweet text failed
+Traceback (most recent call last):
+  File "nytdiff.py", line 131, in tweet_text
+    tweet_id = self.api.update_status(status=text)
+  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/api.py", line 215, in update_status
+    )(*args, **kwargs)
+  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/binder.py", line 252, in _call
+    return method.execute()
+  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2020-12-01 22:34:30,926          root    ERROR: Error tweeting for article_id:
+'bool' object has no attribute 'id'
+Traceback (most recent call last):
+  File "nytdiff.py", line 151, in tweet
+    reply_to = tweet.id if not TESTING else time.time()
+AttributeError: 'bool' object has no attribute 'id'
+2020-12-01 22:34:30,977          root     INFO: <del>Piloto</del> <ins>Mauro Tadeu</ins> da <del>aeronave</del> <ins>Silva Oliveira</ins> era funcionário da empresa contratada para prestar serviços de helicópteros ao <del>órgão. Três tripulantes sobreviveram</del> <ins>órgão</ins>
+2020-12-01 22:34:32,724          root     INFO: Media ready with ids: 1333902328387280896
+2020-12-01 22:34:32,724          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-01 22:34:32,724          root     INFO: Article id: http://noticias.r7.com/brasil/helicoptero-do-ibama-cai-no-pantanal-e-piloto-morre-no-acidente-01122020
+2020-12-01 22:34:32,730          root     INFO: Tweeting url: http://noticias.r7.com/brasil/helicoptero-do-ibama-cai-no-pantanal-e-piloto-morre-no-acidente-01122020
+2020-12-01 22:34:32,899          root    ERROR: Tweet text failed
+Traceback (most recent call last):
+  File "nytdiff.py", line 131, in tweet_text
+    tweet_id = self.api.update_status(status=text)
+  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/api.py", line 215, in update_status
+    )(*args, **kwargs)
+  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/binder.py", line 252, in _call
+    return method.execute()
+  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2020-12-01 22:34:32,899          root    ERROR: Error tweeting for article_id:
+'bool' object has no attribute 'id'
+Traceback (most recent call last):
+  File "nytdiff.py", line 151, in tweet
+    reply_to = tweet.id if not TESTING else time.time()
+AttributeError: 'bool' object has no attribute 'id'
+2020-12-01 22:34:33,053          root     INFO: Finished script
+<class 'tweepy.error.TweepError'>
+<class 'tweepy.error.TweepError'>
+<class 'tweepy.error.TweepError'>
