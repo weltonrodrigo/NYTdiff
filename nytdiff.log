@@ -1,12 +1,8 @@
-2020-12-01 15:27:50,500          root     INFO: Starting script
-2020-12-01 15:27:51,316          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-01 15:27:51,988          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-01 15:27:52,657          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-01 15:27:52,895          root     INFO: Parsing R7 - Brasil
-2020-12-01 15:27:53,196          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2020/12/eleicoes-municipais-mostraram-que-a-esquerda-tem-muito-chao-pela-frente.shtml
-2020-12-01 15:27:54,660          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/centrao-espera-que-stf-adie-julgamento-que-pode-abrir-brecha-a-reeleicao-de-maia.shtml
-2020-12-01 15:27:54,671          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/veja-o-desempenho-de-cada-partido-por-estado-nas-eleicoes-municipais.shtml
-2020-12-01 15:27:57,812          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/emanuel-pinheiro-e-reeleito-em-cuiaba-em-disputa-contra-vereador.shtml
-2020-12-01 15:27:57,821          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/11/inflacao-da-comida-auxilio-no-fim-e-falta-de-emprego-desanimam-brasileiro.shtml
-2020-12-01 15:27:57,824          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/prefeito-de-guarulhos-e-reeleito-aponta-datafolha.shtml
-2020-12-01 15:27:57,825          root     INFO: Finished script
+2020-12-01 15:40:20,343          root     INFO: Starting script
+2020-12-01 15:40:21,392          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-01 15:40:22,230          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-01 15:40:23,085          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-01 15:40:23,378          root     INFO: Parsing R7 - Brasil
+2020-12-01 15:40:25,511          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/na-grande-sp-pt-ganha-respiro-em-meio-a-derrotas-de-caciques-da-regiao.shtml
+2020-12-01 15:40:29,377          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/duarte-nogueira-e-reeleito-prefeito-de-ribeirao-preto-projeta-datafolha.shtml
+2020-12-01 15:40:29,380          root     INFO: Finished script
