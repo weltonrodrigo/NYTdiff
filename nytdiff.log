@@ -1,6 +1,24 @@
-2020-12-01 10:57:42,951          root     INFO: Starting script
-2020-12-01 10:57:43,789          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-01 10:57:44,430          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-01 10:57:45,079          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-01 10:57:45,251          root     INFO: Parsing R7 - Brasil
-2020-12-01 10:57:49,381          root     INFO: Finished script
+2020-12-01 11:20:17,966          root     INFO: Starting script
+2020-12-01 11:20:18,808          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-01 11:20:19,493          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-01 11:20:20,193          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-01 11:20:20,396          root     INFO: Parsing R7 - Brasil
+2020-12-01 11:20:20,709          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/doacao-muito-alem-do-dinheiro.shtml
+2020-12-01 11:20:22,485          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3773
+2020-12-01 11:20:22,588          root     INFO: A soma de abstenções, votos brancos e nulos na cidade de São Paulo superou a votação recebida por Bruno Covas (PSDB), reeleito no segundo turno deste domingo (29). O atual prefeito teve 3.169.121 votos, enquanto o montante <del>acumula</del> <ins>acumulado</ins> dos que não escolheram nenhum candidato chegou a 3,6 milhões. Leia mais (11/30/2020 - 23h15)
+2020-12-01 11:20:24,465          root     INFO: Media ready with ids: 1333732675572674561
+2020-12-01 11:20:24,465          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-01 11:20:24,465          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/abstencoes-brancos-e-nulos-em-sp-superam-votos-em-covas-no-2o-turno.shtml
+2020-12-01 11:20:24,475          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/abstencoes-brancos-e-nulos-em-sp-superam-votos-em-covas-no-2o-turno.shtml
+2020-12-01 11:20:24,662          root     INFO: Replying to: 1333732677736869890
+2020-12-01 11:20:24,910          root     INFO: Id to store: 1333732678517075968
+2020-12-01 11:20:25,013          root     INFO: Presidente do Ibope pede desculpas por imprecisão em Porto <del>Alegre</del> <ins>Alegre; confira últimas pesquisas e placar das urnas</ins>
+2020-12-01 11:20:26,700          root     INFO: Media ready with ids: 1333732685630623745
+2020-12-01 11:20:26,700          root     INFO: Text to tweet: Modificação do Título
+2020-12-01 11:20:26,700          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/presidente-do-ibope-pede-desculpas-por-imprecisao-em-porto-alegre.shtml
+2020-12-01 11:20:26,707          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/presidente-do-ibope-pede-desculpas-por-imprecisao-em-porto-alegre.shtml
+2020-12-01 11:20:26,899          root     INFO: Replying to: 1333732687086030848
+2020-12-01 11:20:27,140          root     INFO: Id to store: 1333732687912296448
+2020-12-01 11:20:30,701          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/diplomacia-da-extrema-direita-aproxima-o-pais-de-prejuizos-reais.shtml
+2020-12-01 11:20:30,706          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/vitoria-de-covas-e-abertura-do-jogo-de-doria-contra-bolsonaro-em-2022.shtml
+2020-12-01 11:20:30,707          root     INFO: Finished script
