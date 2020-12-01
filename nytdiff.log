@@ -1,8 +1,13 @@
-2020-12-01 15:40:20,343          root     INFO: Starting script
-2020-12-01 15:40:21,392          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-01 15:40:22,230          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-01 15:40:23,085          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-01 15:40:23,378          root     INFO: Parsing R7 - Brasil
-2020-12-01 15:40:25,511          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/na-grande-sp-pt-ganha-respiro-em-meio-a-derrotas-de-caciques-da-regiao.shtml
-2020-12-01 15:40:29,377          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/duarte-nogueira-e-reeleito-prefeito-de-ribeirao-preto-projeta-datafolha.shtml
-2020-12-01 15:40:29,380          root     INFO: Finished script
+2020-12-01 15:54:14,379          root     INFO: Starting script
+2020-12-01 15:54:15,383          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-01 15:54:16,204          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-01 15:54:17,023          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-01 15:54:17,254          root     INFO: Parsing R7 - Brasil
+2020-12-01 15:54:17,559          root     INFO: Claro que, para a esquerda, é frustrante não ter vencido em São <del>Paulo, Porto Alegre</del> <ins>Paulo</ins> ou <del>Belém;</del> <ins>Porto Alegre;</ins> seria a oportunidade para dar "a volta por cima", depois do massacre bolsonarista de dois anos atrás. Leia mais (12/01/2020 - 12h00)
+2020-12-01 15:54:19,857          root     INFO: Media ready with ids: 1333801610519093248
+2020-12-01 15:54:19,858          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-01 15:54:19,858          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2020/12/eleicoes-municipais-mostraram-que-a-esquerda-tem-muito-chao-pela-frente.shtml
+2020-12-01 15:54:19,864          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2020/12/eleicoes-municipais-mostraram-que-a-esquerda-tem-muito-chao-pela-frente.shtml
+2020-12-01 15:54:20,222          root     INFO: Replying to: 1333801613262110724
+2020-12-01 15:54:20,581          root     INFO: Id to store: 1333801614465851392
+2020-12-01 15:54:24,618          root     INFO: Finished script
