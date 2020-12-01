@@ -1,21 +1,6 @@
-2020-12-01 07:57:51,474          root     INFO: Starting script
-2020-12-01 07:57:52,282          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-01 07:57:56,757          root    ERROR: RSS
-Traceback (most recent call last):
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/feedparser.py", line 398, in __getattr__
-    return self.__getitem__(key)
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/feedparser.py", line 356, in __getitem__
-    return dict.__getitem__(self, key)
-KeyError: 'title'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "nytdiff.py", line 527, in main
-    rss.parse_rss()
-  File "nytdiff.py", line 491, in parse_rss
-    logging.info('Parsing %s', r.feed.title)
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/feedparser.py", line 400, in __getattr__
-    raise AttributeError("object has no attribute '%s'" % key)
-AttributeError: object has no attribute 'title'
-2020-12-01 07:57:56,759          root     INFO: Finished script
+2020-12-01 08:26:45,903          root     INFO: Starting script
+2020-12-01 08:26:47,127          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-01 08:26:47,766          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-01 08:26:48,405          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-01 08:26:48,625          root     INFO: Parsing R7 - Brasil
+2020-12-01 08:26:52,606          root     INFO: Finished script
