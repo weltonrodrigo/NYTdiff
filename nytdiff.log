@@ -1,31 +1,13 @@
-2020-12-02 11:28:56,680          root     INFO: Starting script
-2020-12-02 11:28:57,493          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-02 11:28:58,158          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-02 11:28:58,824          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-02 11:28:58,983          root     INFO: Parsing R7 - Brasil
-2020-12-02 11:29:01,194          root     INFO: <del>Órgão vota a favor de</del> <ins>Sob resistência,</ins> paridade de <del>gênero, mas apenas 15% de cotas</del> <ins>gênero avança na OAB, e cota</ins> para negros <ins>fica</ins> em <del>disputa eleitoral na OAB</del> <ins>só 15%</ins>
-2020-12-02 11:29:02,821          root     INFO: Media ready with ids: 1334097238302273538
-2020-12-02 11:29:02,822          root     INFO: Text to tweet: Modificação do Título
-2020-12-02 11:29:02,822          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/orgao-vota-a-favor-de-paridade-de-genero-mas-apenas-15-de-cotas-para-negros-em-disputa-eleitoral-na-oab.shtml
-2020-12-02 11:29:02,828          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/orgao-vota-a-favor-de-paridade-de-genero-mas-apenas-15-de-cotas-para-negros-em-disputa-eleitoral-na-oab.shtml
-2020-12-02 11:29:02,986          root     INFO: Replying to: 1334097239619350529
-2020-12-02 11:29:03,205          root     INFO: Id to store: 1334097240273674240
-2020-12-02 11:29:03,211          root     INFO: <del>O</del> <ins>Em decisão consultiva nesta terça-feira (1º), o</ins> Colégio de Presidentes da OAB (Ordem dos Advogados do <del>Brasil), em decisão consultiva,</del> <ins>Brasil)</ins> votou favoravelmente à paridade de gênero <del>nos órgãos da entidade</del> e a cotas raciais de <del>15%, nesta terça-feira (1º ).</del> <ins>15% nos órgãos da entidade.</ins> Leia mais (12/01/2020 - 23h36)
-2020-12-02 11:29:04,962          root     INFO: Media ready with ids: 1334097246896459776
-2020-12-02 11:29:04,962          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-02 11:29:04,962          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/orgao-vota-a-favor-de-paridade-de-genero-mas-apenas-15-de-cotas-para-negros-em-disputa-eleitoral-na-oab.shtml
-2020-12-02 11:29:04,970          root     INFO: Replying to: 1334097240273674240
-2020-12-02 11:29:05,240          root     INFO: Id to store: 1334097248796422144
-2020-12-02 11:29:05,389          root     INFO: Combate à Covid é ativo eleitoral, e PSDB deve sentar <del>na</del> <ins>à</ins> mesa principal para 2022, diz Doria
-2020-12-02 11:29:07,069          root     INFO: Media ready with ids: 1334097256061018112
-2020-12-02 11:29:07,070          root     INFO: Text to tweet: Modificação do Título
-2020-12-02 11:29:07,070          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/combate-a-covid-e-ativo-eleitoral-e-psdb-deve-sentar-na-mesa-principal-para-2022-diz-doria.shtml
-2020-12-02 11:29:07,078          root     INFO: Replying to: 1334095205868466178
-2020-12-02 11:29:07,284          root     INFO: Id to store: 1334097257445126144
-2020-12-02 11:29:07,288          root     INFO: O PSDB tem de estar sentado <del>na</del> <ins>à</ins> mesa principal das discussões sobre a frente contra Jair Bolsonaro e a esquerda em <del>2022,</del> <ins>2022</ins> e disposto a abrir mão da sua joia da coroa, o governo paulista. <ins>A avaliação é do principal nome da sigla, o governador João Doria (PSDB-SP).</ins> Leia mais (12/01/2020 - 23h15)
-2020-12-02 11:29:08,977          root     INFO: Media ready with ids: 1334097263891795968
-2020-12-02 11:29:08,978          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-02 11:29:08,978          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/combate-a-covid-e-ativo-eleitoral-e-psdb-deve-sentar-na-mesa-principal-para-2022-diz-doria.shtml
-2020-12-02 11:29:08,984          root     INFO: Replying to: 1334097257445126144
-2020-12-02 11:29:09,213          root     INFO: Id to store: 1334097265540161536
-2020-12-02 11:29:12,642          root     INFO: Finished script
+2020-12-02 11:46:52,224          root     INFO: Starting script
+2020-12-02 11:46:53,050          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-02 11:46:53,717          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-02 11:46:54,383          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-02 11:46:54,460          root     INFO: Parsing R7 - Brasil
+2020-12-02 11:46:56,338          root     INFO: "Alô, meu presidente. Agradeço imensamente o seu apoio e pode ter certeza que nós não vamos decepcionar o senhor", disse o vereador Gustavo Nunes (PSL), 26, em um vídeo no qual reagia ao apoio de Jair Bolsonaro (sem partido) à sua candidatura à Prefeitura de <del>Ipatinga (Vale</del> <ins>Ipatinga, no Vale</ins> do Aço de Minas <del>Gerais).</del> <ins>Gerais.</ins> Leia mais (12/01/2020 - 23h15)
+2020-12-02 11:46:58,256          root     INFO: Media ready with ids: 1334101748538101760
+2020-12-02 11:46:58,257          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-02 11:46:58,257          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/aos-26-anos-eleito-do-psl-em-reduto-petista-tem-apoio-de-ministro-denunciado-e-bencao-de-luciano-hang.shtml
+2020-12-02 11:46:58,263          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/aos-26-anos-eleito-do-psl-em-reduto-petista-tem-apoio-de-ministro-denunciado-e-bencao-de-luciano-hang.shtml
+2020-12-02 11:46:58,429          root     INFO: Replying to: 1334101750341627905
+2020-12-02 11:46:58,643          root     INFO: Id to store: 1334101751021105153
+2020-12-02 11:47:01,531          root     INFO: Finished script
