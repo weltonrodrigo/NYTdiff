@@ -1,6 +1,26 @@
-2020-12-02 10:58:02,058          root     INFO: Starting script
-2020-12-02 10:58:02,973          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-02 10:58:03,639          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-02 10:58:04,311          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-02 10:58:04,580          root     INFO: Parsing R7 - Brasil
-2020-12-02 10:58:09,173          root     INFO: Finished script
+2020-12-02 11:20:49,316          root     INFO: Starting script
+2020-12-02 11:20:50,243          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-02 11:20:50,895          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-02 11:20:51,547          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-02 11:20:51,860          root     INFO: Parsing R7 - Brasil
+2020-12-02 11:20:53,845          root     INFO: Combate à Covid é ativo eleitoral, e PSDB deve sentar <del>na</del> <ins>à</ins> mesa principal para 2022, diz Doria
+2020-12-02 11:20:55,724          root     INFO: Media ready with ids: 1334095195101655045
+2020-12-02 11:20:55,725          root     INFO: Text to tweet: Modificação do Título
+2020-12-02 11:20:55,725          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/combate-a-covid-e-ativo-eleitoral-e-psdb-deve-sentar-na-mesa-principal-para-2022-diz-doria.shtml
+2020-12-02 11:20:55,730          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/combate-a-covid-e-ativo-eleitoral-e-psdb-deve-sentar-na-mesa-principal-para-2022-diz-doria.shtml
+2020-12-02 11:20:55,900          root     INFO: Replying to: 1334095196666146816
+2020-12-02 11:20:56,139          root     INFO: Id to store: 1334095197450416129
+2020-12-02 11:20:56,143          root     INFO: O PSDB tem de estar sentado <del>na</del> <ins>à</ins> mesa principal das discussões sobre a frente contra Jair Bolsonaro e a esquerda em 2022, e disposto a abrir mão da sua joia da coroa, o governo paulista. Leia mais (12/01/2020 - 23h15)
+2020-12-02 11:20:57,909          root     INFO: Media ready with ids: 1334095204152995841
+2020-12-02 11:20:57,910          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-02 11:20:57,910          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/combate-a-covid-e-ativo-eleitoral-e-psdb-deve-sentar-na-mesa-principal-para-2022-diz-doria.shtml
+2020-12-02 11:20:57,916          root     INFO: Replying to: 1334095197450416129
+2020-12-02 11:20:58,140          root     INFO: Id to store: 1334095205868466178
+2020-12-02 11:20:58,187          root     INFO: <del>Uma</del> <ins>1</ins> em cada <del>dez</del> <ins>10</ins> Câmaras <del>Municipais</del> terá <del>apenas</del> <ins>só</ins> dois <del>partidos</del> <ins>partidos, resultado do fim das coligações eleitorais</ins>
+2020-12-02 11:20:59,982          root     INFO: Media ready with ids: 1334095213200109569
+2020-12-02 11:20:59,983          root     INFO: Text to tweet: Modificação do Título
+2020-12-02 11:20:59,983          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/uma-em-cada-dez-camaras-municipais-tera-apenas-dois-partidos.shtml
+2020-12-02 11:20:59,989          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/uma-em-cada-dez-camaras-municipais-tera-apenas-dois-partidos.shtml
+2020-12-02 11:21:00,176          root     INFO: Replying to: 1334095214571556866
+2020-12-02 11:21:00,417          root     INFO: Id to store: 1334095215364349959
+2020-12-02 11:21:03,849          root     INFO: Finished script
