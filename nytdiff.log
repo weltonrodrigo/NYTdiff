@@ -1,15 +1,14 @@
-2020-12-02 17:59:30,451          root     INFO: Starting script
-2020-12-02 17:59:31,530          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-02 17:59:32,360          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-02 17:59:33,186          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-02 17:59:33,642          root     INFO: Parsing R7 - Brasil
-2020-12-02 17:59:38,061          root     INFO: New article tracked: http://noticias.r7.com/brasil/venda-de-veiculos-em-novembro-sobe-465-ante-outubro-02122020
-2020-12-02 17:59:38,074          root     INFO: New article tracked: http://noticias.r7.com/brasil/petrobras-reduz-preco-da-gasolina-em-2-nesta-quinta-em-refinarias-02122020
-2020-12-02 17:59:38,082          root     INFO: New article tracked: http://noticias.r7.com/brasil/recebi-dinheiro-de-dois-candidatos-e-nao-votei-em-nenhum-como-a-compra-de-votos-no-brasil-ainda-resiste-em-2020-02122020
-2020-12-02 17:59:38,091          root     INFO: New article tracked: http://noticias.r7.com/brasil/14-senadores-divulgam-carta-contra-reeleicao-de-maia-e-alcolumbre-02122020
-2020-12-02 17:59:38,105          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-conversa-com-ministro-sobre-decreto-de-transportes-02122020
-2020-12-02 17:59:38,112          root     INFO: New article tracked: http://noticias.r7.com/brasil/pais-tera-15-mi-de-doses-da-vacina-de-oxford-em-janeiro-diz-pazuello-02122020
-2020-12-02 17:59:38,120          root     INFO: New article tracked: http://noticias.r7.com/brasil/sobe-percentual-de-municipios-com-guarda-municipal-armada-em-2019-02122020
-2020-12-02 17:59:38,128          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-operacao-contra-grupo-que-fraudava-beneficios-do-inss-02122020
-2020-12-02 17:59:38,136          root     INFO: New article tracked: http://noticias.r7.com/brasil/cade-abre-inquerito-contra-o-grupo-globo-02122020
-2020-12-02 17:59:38,305          root     INFO: Finished script
+2020-12-02 18:21:02,832          root     INFO: Starting script
+2020-12-02 18:21:03,912          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-02 18:21:04,745          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-02 18:21:05,583          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-02 18:21:05,784          root     INFO: Parsing R7 - Brasil
+2020-12-02 18:21:06,108          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2020/12/mudanca-na-cupula-da-globo-mostra-preocupacao-com-a-teledramaturgia.shtml
+2020-12-02 18:21:07,679          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/consultoria-que-contratou-moro-ja-faturou-r-176-milhoes-com-crise-da-odebrecht.shtml
+2020-12-02 18:21:07,688          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/twitter-passa-a-mirar-linguagem-racista-e-xenofobica-em-sua-politica-contra-propagacao-de-odio.shtml
+2020-12-02 18:21:07,697          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48687
+2020-12-02 18:21:10,988          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2020/10/08/5937-acompanhe-as-noticias-sobre-as-eleicoes-municipais-em-todo-o-pais.shtml#post405601
+2020-12-02 18:21:10,993          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/veja-a-integra-do-discurso-da-vitoria-de-bruno-covas-apos-reeleicao-em-sao-paulo.shtml
+2020-12-02 18:21:10,997          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/cinco-partidos-de-centro-direita-conquistam-maioria-das-grandes-cidades-pt-fica-sem-capitais.shtml
+2020-12-02 18:21:10,999          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/11/em-silencio-bolsonaro-sugere-nao-ter-motivos-para-se-preocupar-com-inquerito.shtml
+2020-12-02 18:21:11,000          root     INFO: Finished script
