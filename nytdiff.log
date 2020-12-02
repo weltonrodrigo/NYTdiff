@@ -1,20 +1,6 @@
-2020-12-02 14:25:45,977          root     INFO: Starting script
-2020-12-02 14:25:46,831          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-02 14:25:47,514          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-02 14:25:48,189          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-02 14:25:48,292          root     INFO: Parsing R7 - Brasil
-2020-12-02 14:25:49,977          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/cercados-documentario-coloca-no-espelho-noticiario-jornalistico-na-pandemia.shtml
-2020-12-02 14:25:50,177          root     INFO: Aos 26 anos, eleito do PSL em reduto petista tem apoio de ministro denunciado e <del>benção</del> <ins>bênção</ins> de Luciano Hang
-2020-12-02 14:25:51,935          root     INFO: Media ready with ids: 1334141735828660224
-2020-12-02 14:25:51,936          root     INFO: Text to tweet: Modificação do Título
-2020-12-02 14:25:51,936          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/aos-26-anos-eleito-do-psl-em-reduto-petista-tem-apoio-de-ministro-denunciado-e-bencao-de-luciano-hang.shtml
-2020-12-02 14:25:51,941          root     INFO: Replying to: 1334101751021105153
-2020-12-02 14:25:52,166          root     INFO: Id to store: 1334141737481211904
-2020-12-02 14:25:52,170          root     INFO: "Alô, meu presidente. Agradeço imensamente o seu apoio e pode ter certeza que nós não vamos decepcionar o senhor", disse o vereador Gustavo Nunes (PSL), 26, em um vídeo no qual reagia ao apoio de Jair Bolsonaro (sem partido) à sua candidatura à Prefeitura de <del>Ipatinga (Vale</del> <ins>Ipatinga, no Vale</ins> do Aço de Minas <del>Gerais).</del> <ins>Gerais.</ins> Leia mais (12/01/2020 - 23h15)
-2020-12-02 14:25:53,979          root     INFO: Media ready with ids: 1334141744255004672
-2020-12-02 14:25:53,979          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-02 14:25:53,979          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/aos-26-anos-eleito-do-psl-em-reduto-petista-tem-apoio-de-ministro-denunciado-e-bencao-de-luciano-hang.shtml
-2020-12-02 14:25:53,985          root     INFO: Replying to: 1334141737481211904
-2020-12-02 14:25:54,260          root     INFO: Id to store: 1334141746213740544
-2020-12-02 14:25:57,243          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/ex-prefeito-alexandre-ferreira-volta-ao-cargo-apos-quatro-anos-em-franca-sp.shtml
-2020-12-02 14:25:57,244          root     INFO: Finished script
+2020-12-02 14:36:29,687          root     INFO: Starting script
+2020-12-02 14:36:30,558          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-02 14:36:31,209          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-02 14:36:31,856          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-02 14:36:32,085          root     INFO: Parsing R7 - Brasil
+2020-12-02 14:36:36,973          root     INFO: Finished script
