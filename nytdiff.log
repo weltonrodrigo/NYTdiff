@@ -1,6 +1,10 @@
-2020-12-02 14:59:58,967          root     INFO: Starting script
-2020-12-02 15:00:00,097          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-02 15:00:00,940          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-02 15:00:01,777          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-02 15:00:02,037          root     INFO: Parsing R7 - Brasil
-2020-12-02 15:00:07,015          root     INFO: Finished script
+2020-12-02 15:31:41,384          root     INFO: Starting script
+2020-12-02 15:31:42,216          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-02 15:31:42,883          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-02 15:31:43,553          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-02 15:31:43,682          root     INFO: Parsing R7 - Brasil
+2020-12-02 15:31:45,626          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/minoria-prefeitos-rejeitados-nas-urnas-em-sp-culpam-pandemia-e-falta-de-agua.shtml
+2020-12-02 15:31:45,639          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10546
+2020-12-02 15:31:49,018          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/a-gente-saiu-vitorioso-e-o-inicio-de-um-ciclo-diz-boulos-derrotado-em-sp-apontando-para-cenario-nacional.shtml
+2020-12-02 15:31:49,021          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/objetivo-e-unir-fortaleza-diz-prefeito-eleito-do-pdt.shtml
+2020-12-02 15:31:49,021          root     INFO: Finished script
