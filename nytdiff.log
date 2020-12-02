@@ -1,10 +1,9 @@
-2020-12-02 15:31:41,384          root     INFO: Starting script
-2020-12-02 15:31:42,216          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-02 15:31:42,883          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-02 15:31:43,553          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-02 15:31:43,682          root     INFO: Parsing R7 - Brasil
-2020-12-02 15:31:45,626          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/minoria-prefeitos-rejeitados-nas-urnas-em-sp-culpam-pandemia-e-falta-de-agua.shtml
-2020-12-02 15:31:45,639          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10546
-2020-12-02 15:31:49,018          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/a-gente-saiu-vitorioso-e-o-inicio-de-um-ciclo-diz-boulos-derrotado-em-sp-apontando-para-cenario-nacional.shtml
-2020-12-02 15:31:49,021          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/objetivo-e-unir-fortaleza-diz-prefeito-eleito-do-pdt.shtml
-2020-12-02 15:31:49,021          root     INFO: Finished script
+2020-12-02 16:07:02,767          root     INFO: Starting script
+2020-12-02 16:07:03,555          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-02 16:07:04,197          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-02 16:07:04,845          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-02 16:07:04,968          root     INFO: Parsing R7 - Brasil
+2020-12-02 16:07:05,267          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/12/eliminacao-do-flamengo-mostra-como-esta-fragil-o-planeta-bola-sob-a-pandemia.shtml
+2020-12-02 16:07:07,804          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/tribunal-europeu-da-luz-verde-para-processo-movido-por-jovens-portugueses-contra-aquecimento-global.shtml
+2020-12-02 16:07:09,244          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/11/no-futuro-de-bolsonaro-som-e-furia-nao-pagam-as-contas.shtml
+2020-12-02 16:07:09,249          root     INFO: Finished script
