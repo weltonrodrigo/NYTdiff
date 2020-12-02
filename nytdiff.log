@@ -1,10 +1,26 @@
-2020-12-02 21:46:55,892          root     INFO: Starting script
-2020-12-02 21:46:56,680          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-02 21:46:57,319          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-02 21:46:57,955          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-02 21:46:58,094          root     INFO: Parsing R7 - Brasil
-2020-12-02 21:46:59,864          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/procurador-pede-quebra-de-sigilo-de-hang-e-coleta-de-provas-em-acoes-contra-chapa-bolsonaro-mourao.shtml
-2020-12-02 21:46:59,875          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/tribunal-de-justica-de-sao-paulo-aprova-auxilio-saude-para-magistrados-e-servidores.shtml
-2020-12-02 21:47:03,007          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/barroso-ironiza-criticas-as-urnas-eletronicas-e-enaltece-eleicao-em-meio-a-pandemia.shtml
-2020-12-02 21:47:03,010          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/primeira-fala-de-covas-ecoa-biden-e-mostra-prefeito-de-sp-como-cabo-eleitoral-de-doria.shtml
-2020-12-02 21:47:03,011          root     INFO: Finished script
+2020-12-02 21:57:58,707          root     INFO: Starting script
+2020-12-02 21:57:59,537          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-02 21:58:00,215          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-02 21:58:00,897          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-02 21:58:01,023          root     INFO: Parsing R7 - Brasil
+2020-12-02 21:58:03,163          root     INFO: Com 655 prefeituras conquistadas em 2020, o PSD virou o terceiro partido com mais comandos de municípios no país, apenas atrás de MDB e <del>Progressistas.</del> <ins>PP.</ins> Leia mais (12/02/2020 - 13h56)
+2020-12-02 21:58:04,909          root     INFO: Media ready with ids: 1334255539782610949
+2020-12-02 21:58:04,910          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-02 21:58:04,910          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/com-129-prefeituras-no-parana-ratinho-jr-vira-maior-cabo-eleitoral-do-psd.shtml
+2020-12-02 21:58:04,917          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/com-129-prefeituras-no-parana-ratinho-jr-vira-maior-cabo-eleitoral-do-psd.shtml
+2020-12-02 21:58:05,093          root     INFO: Replying to: 1334255541435183109
+2020-12-02 21:58:05,327          root     INFO: Id to store: 1334255542135640073
+2020-12-02 21:58:05,590          root     INFO: Defensor de aliança com PSB, senador petista reclama de campanha suja <del>em</del> <ins>no</ins> Recife
+2020-12-02 21:58:07,231          root     INFO: Media ready with ids: 1334255549786034180
+2020-12-02 21:58:07,231          root     INFO: Text to tweet: Modificação do Título
+2020-12-02 21:58:07,231          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/defensor-de-alianca-com-psb-senador-petista-reclama-de-campanha-suja-em-recife.shtml
+2020-12-02 21:58:07,238          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/defensor-de-alianca-com-psb-senador-petista-reclama-de-campanha-suja-em-recife.shtml
+2020-12-02 21:58:07,424          root     INFO: Replying to: 1334255551149117441
+2020-12-02 21:58:07,672          root     INFO: Id to store: 1334255552034172928
+2020-12-02 21:58:07,677          root     INFO: Até o senador Humberto Costa, principal defensor no PT de aliança com o PSB <del>em</del> <ins>no</ins> Recife, condenou o tom usado contra a candidata do partido, Marília Arraes, na disputa. "Foi uma campanha de vale tudo, de rasteira, de apregoar o ódio e o fundamentalismo. Isso obviamente torna difícil o relacionamento entre os partidos". Leia mais (12/01/2020 - 23h15)
+2020-12-02 21:58:09,488          root     INFO: Media ready with ids: 1334255558925426689
+2020-12-02 21:58:09,488          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-02 21:58:09,489          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/defensor-de-alianca-com-psb-senador-petista-reclama-de-campanha-suja-em-recife.shtml
+2020-12-02 21:58:09,495          root     INFO: Replying to: 1334255552034172928
+2020-12-02 21:58:09,739          root     INFO: Id to store: 1334255560703827970
+2020-12-02 21:58:12,872          root     INFO: Finished script
