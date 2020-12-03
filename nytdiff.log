@@ -1,6 +1,16 @@
-2020-12-03 04:27:26,532          root     INFO: Starting script
-2020-12-03 04:27:27,404          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-03 04:27:28,065          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-03 04:27:28,717          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-03 04:27:28,903          root     INFO: Parsing R7 - Brasil
-2020-12-03 04:27:32,744          root     INFO: Finished script
+2020-12-03 04:50:02,085          root     INFO: Starting script
+2020-12-03 04:50:03,219          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-03 04:50:04,039          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-03 04:50:04,859          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-03 04:50:05,063          root     INFO: Parsing R7 - Brasil
+2020-12-03 04:50:09,182          root     INFO: Removed http://noticias.r7.com/brasil/brasil-soma-174515-mortes-e-6436650-casos-de-covid-19-02122020
+2020-12-03 04:50:09,187          root     INFO: Removed http://noticias.r7.com/brasil/comandante-do-exercito-e-diagnosticado-com-covid-19-02122020
+2020-12-03 04:50:09,191          root     INFO: Removed http://noticias.r7.com/brasil/fmi-recomenda-manter-teto-de-gastos-mas-sem-interromper-auxilio-emergencial-02122020
+2020-12-03 04:50:09,194          root     INFO: Removed http://noticias.r7.com/brasil/supremo-rejeita-queixa-crime-do-greenpeace-contra-salles-02122020
+2020-12-03 04:50:09,196          root     INFO: Removed http://noticias.r7.com/brasil/fachin-avalia-que-trabalho-intermitente-e-inconstitucional-02122020
+2020-12-03 04:50:09,199          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-mp-que-libera-r-19-bi-para-vacina-da-covid-19-02122020
+2020-12-03 04:50:09,202          root     INFO: Removed http://noticias.r7.com/brasil/damares-lanca-cartilha-da-maconha-contra-uso-medicinal-02122020
+2020-12-03 04:50:09,204          root     INFO: Removed http://noticias.r7.com/brasil/sp-pede-extincao-de-acao-que-cobra-r-108-milhoes-por-supersalarios-02122020
+2020-12-03 04:50:09,207          root     INFO: Removed http://noticias.r7.com/brasil/papa-autoriza-mst-a-invadir-propriedades-da-igreja-catolica-02122020
+2020-12-03 04:50:09,210          root     INFO: Removed http://noticias.r7.com/brasil/pge-pede-unificacao-de-acoes-contra-chapa-bolsonaro-mourao-02122020
+2020-12-03 04:50:09,211          root     INFO: Finished script
