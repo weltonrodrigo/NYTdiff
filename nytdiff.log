@@ -1,24 +1,7 @@
-2020-12-03 03:48:26,683          root     INFO: Starting script
-2020-12-03 03:48:27,721          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-03 03:48:28,550          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-03 03:48:29,383          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-03 03:48:29,662          root     INFO: Parsing R7 - Brasil
-2020-12-03 03:48:34,313          root     INFO: New article tracked: http://noticias.r7.com/brasil/petrobras-diz-que-ja-recebeu-ofertas-finais-para-compra-de-4-refinarias-02122020
-2020-12-03 03:48:34,326          root     INFO: New article tracked: http://noticias.r7.com/brasil/comandante-do-exercito-e-diagnosticado-com-covid-19-02122020
-2020-12-03 03:48:34,336          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-avalia-que-trabalho-intermitente-e-inconstitucional-02122020
-2020-12-03 03:48:34,345          root     INFO: New article tracked: http://noticias.r7.com/brasil/pge-pede-unificacao-de-acoes-contra-chapa-bolsonaro-mourao-02122020
-2020-12-03 03:48:34,365          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-soma-174515-mortes-e-6436650-casos-de-covid-19-02122020
-2020-12-03 03:48:34,373          root     INFO: New article tracked: http://noticias.r7.com/brasil/papa-autoriza-mst-a-invadir-propriedades-da-igreja-catolica-02122020
-2020-12-03 03:48:34,380          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-mp-que-libera-r-19-bi-para-vacina-da-covid-19-02122020
-2020-12-03 03:48:34,388          root     INFO: New article tracked: http://noticias.r7.com/brasil/damares-lanca-cartilha-da-maconha-contra-uso-medicinal-02122020
-2020-12-03 03:48:34,395          root     INFO: New article tracked: http://noticias.r7.com/brasil/fmi-recomenda-manter-teto-de-gastos-mas-sem-interromper-auxilio-emergencial-02122020
-2020-12-03 03:48:34,402          root     INFO: New article tracked: http://noticias.r7.com/brasil/sp-pede-extincao-de-acao-que-cobra-r-108-milhoes-por-supersalarios-02122020
-2020-12-03 03:48:34,409          root     INFO: New article tracked: http://noticias.r7.com/brasil/supremo-rejeita-queixa-crime-do-greenpeace-contra-salles-02122020
-2020-12-03 03:48:34,550          root     INFO: Ação do <del>orgão</del> <ins>órgão</ins> está <del>relacionado a</del> <ins>ligada à</ins> prática <del>conhecida como</del> <ins>chamada</ins> Bônus de Volume, considerada "anticoncorrencial" e <del>que pode ser tratada como</del> <ins>passível de</ins> "infração de ordem econômica"
-2020-12-03 03:48:36,419          root     INFO: Media ready with ids: 1334343752375209984
-2020-12-03 03:48:36,420          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-03 03:48:36,420          root     INFO: Article id: http://noticias.r7.com/brasil/cade-abre-inquerito-contra-o-grupo-globo-02122020
-2020-12-03 03:48:36,427          root     INFO: Tweeting url: http://noticias.r7.com/brasil/cade-abre-inquerito-contra-o-grupo-globo-02122020
-2020-12-03 03:48:36,683          root     INFO: Replying to: 1334343754342395904
-2020-12-03 03:48:36,981          root     INFO: Id to store: 1334343755328081920
-2020-12-03 03:48:36,991          root     INFO: Finished script
+2020-12-03 03:57:57,747          root     INFO: Starting script
+2020-12-03 03:57:58,579          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-03 03:57:59,262          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-03 03:57:59,940          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-03 03:58:00,087          root     INFO: Parsing R7 - Brasil
+2020-12-03 03:58:05,410          root     INFO: Removed http://noticias.r7.com/brasil/petrobras-diz-que-ja-recebeu-ofertas-finais-para-compra-de-4-refinarias-02122020
+2020-12-03 03:58:05,411          root     INFO: Finished script
