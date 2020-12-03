@@ -1,15 +1,6 @@
-2020-12-03 22:39:30,149          root     INFO: Starting script
-2020-12-03 22:39:31,385          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-03 22:39:32,207          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-03 22:39:33,041          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-03 22:39:33,280          root     INFO: Parsing R7 - Brasil
-2020-12-03 22:39:33,576          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2020/12/desejo-forca-as-mulheres-mas-tambem-o-direito-ao-choro-e-a-humanidade.shtml
-2020-12-03 22:39:35,093          root     INFO: PT aciona Ministério <del>Púbico</del> <ins>Público</ins> para investigar possível atraso de Doria em recuo do Plano SP
-2020-12-03 22:39:36,922          root     INFO: Media ready with ids: 1334628380059242496
-2020-12-03 22:39:36,923          root     INFO: Text to tweet: Modificação do Título
-2020-12-03 22:39:36,924          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/pt-aciona-ministerio-pubico-para-investigar-possivel-atraso-de-doria-em-recuo-do-plano-sp.shtml
-2020-12-03 22:39:36,932          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/pt-aciona-ministerio-pubico-para-investigar-possivel-atraso-de-doria-em-recuo-do-plano-sp.shtml
-2020-12-03 22:39:37,176          root     INFO: Replying to: 1334628381862866952
-2020-12-03 22:39:37,461          root     INFO: Id to store: 1334628382856933384
-2020-12-03 22:39:40,297          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/11/dificil-achar-explicacao-para-campanhas-do-santos-em-meio-a-tanta-confusao.shtml
-2020-12-03 22:39:40,298          root     INFO: Finished script
+2020-12-03 22:47:43,795          root     INFO: Starting script
+2020-12-03 22:47:44,607          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-03 22:47:45,256          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-03 22:47:45,919          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-03 22:47:46,118          root     INFO: Parsing R7 - Brasil
+2020-12-03 22:47:51,040          root     INFO: Finished script
