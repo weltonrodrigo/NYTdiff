@@ -1,6 +1,20 @@
-2020-12-04 10:34:23,413          root     INFO: Starting script
-2020-12-04 10:34:24,262          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-04 10:34:24,941          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-04 10:34:25,617          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-04 10:34:25,807          root     INFO: Parsing R7 - Brasil
-2020-12-04 10:34:30,407          root     INFO: Finished script
+2020-12-04 10:48:23,359          root     INFO: Starting script
+2020-12-04 10:48:24,191          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-04 10:48:24,876          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-04 10:48:25,559          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-04 10:48:25,695          root     INFO: Parsing R7 - Brasil
+2020-12-04 10:48:26,221          root     INFO: China está para bater os EUA com vacina em seu quintal, diz militar <ins>americano</ins>
+2020-12-04 10:48:27,948          root     INFO: Media ready with ids: 1334811801331118081
+2020-12-04 10:48:27,949          root     INFO: Text to tweet: Modificação do Título
+2020-12-04 10:48:27,949          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/12/china-esta-para-bater-os-eua-com-vacina-em-seu-quintal-diz-militar.shtml
+2020-12-04 10:48:27,955          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2020/12/china-esta-para-bater-os-eua-com-vacina-em-seu-quintal-diz-militar.shtml
+2020-12-04 10:48:28,127          root     INFO: Replying to: 1334811802786557958
+2020-12-04 10:48:28,359          root     INFO: Id to store: 1334811803566665730
+2020-12-04 10:48:29,968          root     INFO: O STF (Supremo Tribunal Federal) <del>começa</del> <ins>começou</ins> a julgar <del>nesta</del> <ins>na madrugada desta</ins> sexta-feira (4) se permite que os presidentes da Câmara, Rodrigo Maia (DEM-RJ), e do Senado, Davi Alcolumbre (DEM-AP), disputem a reeleição para se manterem no cargo até fevereiro de 2023. Leia mais (12/03/2020 - 23h15)
+2020-12-04 10:48:31,671          root     INFO: Media ready with ids: 1334811816921362432
+2020-12-04 10:48:31,672          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-04 10:48:31,672          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/stf-comeca-a-avaliar-drible-na-constituicao-para-reeleicao-de-maia-e-alcolumbre.shtml
+2020-12-04 10:48:31,677          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/stf-comeca-a-avaliar-drible-na-constituicao-para-reeleicao-de-maia-e-alcolumbre.shtml
+2020-12-04 10:48:31,839          root     INFO: Replying to: 1334811818376695810
+2020-12-04 10:48:32,052          root     INFO: Id to store: 1334811819056259072
+2020-12-04 10:48:35,629          root     INFO: Finished script
