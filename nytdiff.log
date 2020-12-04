@@ -1,23 +1,6 @@
-2020-12-04 11:22:15,478          root     INFO: Starting script
-2020-12-04 11:22:16,565          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-04 11:22:17,216          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-04 11:22:17,869          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-04 11:22:18,041          root     INFO: Parsing R7 - Brasil
-2020-12-04 11:22:18,350          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2020/12/das-pernas-de-marilyn-aos-surtos-de-fitzgerald-a-saga-do-whisky-sour.shtml
-2020-12-04 11:22:19,893          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3780
-2020-12-04 11:22:20,045          root     INFO: <del>De</del> <ins>Aumento da abstenção reflete contrastes de SP, de</ins> reação do centro a desalento da <del>periferia, aumento da abstenção reflete contrastes de SP</del> <ins>periferia</ins>
-2020-12-04 11:22:21,826          root     INFO: Media ready with ids: 1334820331882680321
-2020-12-04 11:22:21,827          root     INFO: Text to tweet: Modificação do Título
-2020-12-04 11:22:21,828          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/de-reacao-do-centro-a-desalento-da-periferia-aumento-da-abstencao-reflete-contrastes-de-sp.shtml
-2020-12-04 11:22:21,836          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/de-reacao-do-centro-a-desalento-da-periferia-aumento-da-abstencao-reflete-contrastes-de-sp.shtml
-2020-12-04 11:22:22,036          root     INFO: Replying to: 1334820333648556034
-2020-12-04 11:22:22,248          root     INFO: Id to store: 1334820334349000704
-2020-12-04 11:22:22,253          root     INFO: Bruno Covas (PSDB) conseguiu mais de 52 mil votos na zona eleitoral do Jardim Paulista, região de alta renda da capital paulista. Nessa área, em votos válidos, deu de lavada em Guilherme Boulos (PSOL) ?73% contra 27%. <del>Em números absolutos, o prefeito poderia ter ficado com menos se o padrão de abstenção do primeiro turno se repetisse ?o comparecimento nessa zona foi maior no segundo do que no primeiro.</del> Leia mais (12/03/2020 - 23h15)
-2020-12-04 11:22:24,003          root     INFO: Media ready with ids: 1334820341101813768
-2020-12-04 11:22:24,003          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-04 11:22:24,003          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/de-reacao-do-centro-a-desalento-da-periferia-aumento-da-abstencao-reflete-contrastes-de-sp.shtml
-2020-12-04 11:22:24,009          root     INFO: Replying to: 1334820334349000704
-2020-12-04 11:22:24,222          root     INFO: Id to store: 1334820342594998272
-2020-12-04 11:22:27,396          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/os-desafios-do-retorno-as-aulas-presenciais.shtml
-2020-12-04 11:22:27,399          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleicao-virulenta-entre-primos-no-recife-acentua-feridas-nacionais-de-pt-e-psb.shtml
-2020-12-04 11:22:27,399          root     INFO: Finished script
+2020-12-04 11:31:39,793          root     INFO: Starting script
+2020-12-04 11:31:40,706          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-04 11:31:41,381          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-04 11:31:42,059          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-04 11:31:42,211          root     INFO: Parsing R7 - Brasil
+2020-12-04 11:31:47,796          root     INFO: Finished script
