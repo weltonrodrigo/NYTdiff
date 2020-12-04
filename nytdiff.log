@@ -1,19 +1,12 @@
-2020-12-04 12:55:40,206          root     INFO: Starting script
-2020-12-04 12:55:41,211          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-04 12:55:42,029          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-04 12:55:42,849          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-04 12:55:43,220          root     INFO: Parsing R7 - Brasil
-2020-12-04 12:55:47,636          root     INFO: New article tracked: http://noticias.r7.com/brasil/senadores-reagem-a-votos-do-stf-por-reeleicao-no-congresso-golpe-04122020
-2020-12-04 12:55:47,647          root     INFO: New article tracked: http://noticias.r7.com/brasil/mobilidade-urbana-e-tema-do-estudio-news-deste-sabado-05-04122020
-2020-12-04 12:55:47,654          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-justica-faz-operacao-contra-maus-tratos-a-idosos-04122020
-2020-12-04 12:55:47,661          root     INFO: New article tracked: http://noticias.r7.com/brasil/policia-federal-faz-operacao-contra-o-trafico-de-animais-silvestres-04122020
-2020-12-04 12:55:47,669          root     INFO: New article tracked: http://noticias.r7.com/brasil/toffoli-e-moraes-seguem-gilmar-por-reeleicao-na-camara-e-senado-04122020
-2020-12-04 12:55:47,686          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-comeca-a-discutir-se-maia-e-alcolumbre-podem-ser-reeleitos-04122020
-2020-12-04 12:55:47,709          root     INFO: <del>Do R7</del> <ins>Agência Estado</ins>
-2020-12-04 12:55:49,500          root     INFO: Media ready with ids: 1334843852369391618
-2020-12-04 12:55:49,500          root     INFO: Text to tweet: Modificação do autor
-2020-12-04 12:55:49,501          root     INFO: Article id: http://noticias.r7.com/brasil/senado-aprova-projeto-sobre-vacinacao-gratuita-contra-covid-19-03122020
-2020-12-04 12:55:49,506          root     INFO: Tweeting url: http://noticias.r7.com/brasil/senado-aprova-projeto-sobre-vacinacao-gratuita-contra-covid-19-03122020
-2020-12-04 12:55:49,737          root     INFO: Replying to: 1334843854017736704
-2020-12-04 12:55:50,012          root     INFO: Id to store: 1334843854923722752
-2020-12-04 12:55:50,222          root     INFO: Finished script
+2020-12-04 13:00:30,316          root     INFO: Starting script
+2020-12-04 13:00:31,122          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-04 13:00:31,777          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-04 13:00:32,431          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-04 13:00:32,608          root     INFO: Parsing R7 - Brasil
+2020-12-04 13:00:36,541          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-justica-faz-operacao-contra-maus-tratos-a-idosos-04122020
+2020-12-04 13:00:36,545          root     INFO: Removed http://noticias.r7.com/brasil/senadores-reagem-a-votos-do-stf-por-reeleicao-no-congresso-golpe-04122020
+2020-12-04 13:00:36,549          root     INFO: Removed http://noticias.r7.com/brasil/mobilidade-urbana-e-tema-do-estudio-news-deste-sabado-05-04122020
+2020-12-04 13:00:36,551          root     INFO: Removed http://noticias.r7.com/brasil/stf-comeca-a-discutir-se-maia-e-alcolumbre-podem-ser-reeleitos-04122020
+2020-12-04 13:00:36,554          root     INFO: Removed http://noticias.r7.com/brasil/policia-federal-faz-operacao-contra-o-trafico-de-animais-silvestres-04122020
+2020-12-04 13:00:36,556          root     INFO: Removed http://noticias.r7.com/brasil/toffoli-e-moraes-seguem-gilmar-por-reeleicao-na-camara-e-senado-04122020
+2020-12-04 13:00:36,557          root     INFO: Finished script
