@@ -1,33 +1,19 @@
-2020-12-04 19:47:00,174          root     INFO: Starting script
-2020-12-04 19:47:01,047          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-04 19:47:01,691          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-04 19:47:02,335          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-04 19:47:02,560          root     INFO: Parsing R7 - Brasil
-2020-12-04 19:47:06,985          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-fuga-capital-estrangeiro-volta-ao-brasil-mas-pais-esta-entre-ultimas-opcoes-dos-investidores-04122020
-2020-12-04 19:47:06,997          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/onibus-de-turismo-cai-de-viaduto-em-mg-veja-imagens-04122020
-2020-12-04 19:47:07,006          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/veja-imagens-de-pm-de-sp-apontando-arma-para-outro-pm-04122020
-2020-12-04 19:47:07,017          root     INFO: New article tracked: http://noticias.r7.com/brasil/nao-vamos-admitir-ficar-para-tras-diz-tebet-sobre-vacinacao-em-marco-04122020
-2020-12-04 19:47:07,031          root     INFO: New article tracked: http://noticias.r7.com/brasil/a-tentacao-do-golpe-por-quem-deveria-zelar-pela-democracia-04122020
-2020-12-04 19:47:07,038          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-critica-possibilidade-de-reeleicao-na-camara-e-no-senado-04122020
-2020-12-04 19:47:07,045          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-rasga-a-constituicao-dizem-deputados-bolsonaristas-04122020
-2020-12-04 19:47:07,054          root     INFO: New article tracked: http://noticias.r7.com/brasil/lider-do-governo-na-camara-stf-nao-deveria-legislar-04122020
-2020-12-04 19:47:07,062          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-lewandowski-da-quinto-voto-a-favor-de-reeleicoes-no-congresso-04122020
-2020-12-04 19:47:07,069          root     INFO: New article tracked: http://noticias.r7.com/brasil/nunes-marques-diz-que-alternancia-de-poder-e-um-principio-republicano-04122020
-2020-12-04 19:47:07,085          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-19-stf-adia-analise-que-obriga-governo-a-ter-plano-de-vacinacao-04122020
-2020-12-04 19:47:07,094          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-incoerencias-da-sociedade-moderna-que-nem-freud-explica-04122020
-2020-12-04 19:47:07,101          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-municipais-em-macapa-serao-neste-domingo-6-04122020
-2020-12-04 19:47:07,128          root     INFO: Senadores reagem a votos do STF por reeleição no Congresso: <del>"golpe"</del> <ins>"Golpe"</ins>
-2020-12-04 19:47:08,998          root     INFO: Media ready with ids: 1334947365573324803
-2020-12-04 19:47:08,999          root     INFO: Text to tweet: Modificação do Título
-2020-12-04 19:47:08,999          root     INFO: Article id: http://noticias.r7.com/brasil/senadores-reagem-a-votos-do-stf-por-reeleicao-no-congresso-golpe-04122020
-2020-12-04 19:47:09,005          root     INFO: Tweeting url: http://noticias.r7.com/brasil/senadores-reagem-a-votos-do-stf-por-reeleicao-no-congresso-golpe-04122020
-2020-12-04 19:47:09,166          root     INFO: Replying to: 1334947367099969538
-2020-12-04 19:47:09,371          root     INFO: Id to store: 1334947367745957889
-2020-12-04 19:47:09,418          root     INFO: Ministério da Justiça faz operação contra <del>maus tratos</del> <ins>maus-tratos</ins> a idosos
-2020-12-04 19:47:11,069          root     INFO: Media ready with ids: 1334947374289063946
-2020-12-04 19:47:11,070          root     INFO: Text to tweet: Modificação do Título
-2020-12-04 19:47:11,070          root     INFO: Article id: http://noticias.r7.com/brasil/ministerio-da-justica-faz-operacao-contra-maus-tratos-a-idosos-04122020
-2020-12-04 19:47:11,075          root     INFO: Tweeting url: http://noticias.r7.com/brasil/ministerio-da-justica-faz-operacao-contra-maus-tratos-a-idosos-04122020
-2020-12-04 19:47:11,232          root     INFO: Replying to: 1334947375773782016
-2020-12-04 19:47:11,449          root     INFO: Id to store: 1334947376411406336
-2020-12-04 19:47:11,539          root     INFO: Finished script
+2020-12-04 19:58:14,943          root     INFO: Starting script
+2020-12-04 19:58:16,148          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-04 19:58:16,815          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-04 19:58:17,474          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-04 19:58:17,716          root     INFO: Parsing R7 - Brasil
+2020-12-04 19:58:23,275          root     INFO: Removed http://noticias.r7.com/brasil/nunes-marques-diz-que-alternancia-de-poder-e-um-principio-republicano-04122020
+2020-12-04 19:58:23,280          root     INFO: Removed http://noticias.r7.com/brasil/apos-fuga-capital-estrangeiro-volta-ao-brasil-mas-pais-esta-entre-ultimas-opcoes-dos-investidores-04122020
+2020-12-04 19:58:23,283          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-municipais-em-macapa-serao-neste-domingo-6-04122020
+2020-12-04 19:58:23,285          root     INFO: Removed http://noticias.r7.com/brasil/analise-incoerencias-da-sociedade-moderna-que-nem-freud-explica-04122020
+2020-12-04 19:58:23,289          root     INFO: Removed http://noticias.r7.com/brasil/nao-vamos-admitir-ficar-para-tras-diz-tebet-sobre-vacinacao-em-marco-04122020
+2020-12-04 19:58:23,292          root     INFO: Removed http://noticias.r7.com/brasil/lider-do-governo-na-camara-stf-nao-deveria-legislar-04122020
+2020-12-04 19:58:23,296          root     INFO: Removed http://noticias.r7.com/brasil/stf-rasga-a-constituicao-dizem-deputados-bolsonaristas-04122020
+2020-12-04 19:58:23,318          root     INFO: Removed http://noticias.r7.com/brasil/videos/veja-imagens-de-pm-de-sp-apontando-arma-para-outro-pm-04122020
+2020-12-04 19:58:23,322          root     INFO: Removed http://noticias.r7.com/brasil/stf-lewandowski-da-quinto-voto-a-favor-de-reeleicoes-no-congresso-04122020
+2020-12-04 19:58:23,327          root     INFO: Removed http://noticias.r7.com/brasil/mourao-critica-possibilidade-de-reeleicao-na-camara-e-no-senado-04122020
+2020-12-04 19:58:23,331          root     INFO: Removed http://noticias.r7.com/brasil/a-tentacao-do-golpe-por-quem-deveria-zelar-pela-democracia-04122020
+2020-12-04 19:58:23,336          root     INFO: Removed http://noticias.r7.com/brasil/covid-19-stf-adia-analise-que-obriga-governo-a-ter-plano-de-vacinacao-04122020
+2020-12-04 19:58:23,340          root     INFO: Removed http://noticias.r7.com/brasil/videos/onibus-de-turismo-cai-de-viaduto-em-mg-veja-imagens-04122020
+2020-12-04 19:58:23,341          root     INFO: Finished script
