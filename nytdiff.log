@@ -1,19 +1,10 @@
-2020-12-04 19:58:14,943          root     INFO: Starting script
-2020-12-04 19:58:16,148          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-04 19:58:16,815          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-04 19:58:17,474          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-04 19:58:17,716          root     INFO: Parsing R7 - Brasil
-2020-12-04 19:58:23,275          root     INFO: Removed http://noticias.r7.com/brasil/nunes-marques-diz-que-alternancia-de-poder-e-um-principio-republicano-04122020
-2020-12-04 19:58:23,280          root     INFO: Removed http://noticias.r7.com/brasil/apos-fuga-capital-estrangeiro-volta-ao-brasil-mas-pais-esta-entre-ultimas-opcoes-dos-investidores-04122020
-2020-12-04 19:58:23,283          root     INFO: Removed http://noticias.r7.com/brasil/eleicoes-municipais-em-macapa-serao-neste-domingo-6-04122020
-2020-12-04 19:58:23,285          root     INFO: Removed http://noticias.r7.com/brasil/analise-incoerencias-da-sociedade-moderna-que-nem-freud-explica-04122020
-2020-12-04 19:58:23,289          root     INFO: Removed http://noticias.r7.com/brasil/nao-vamos-admitir-ficar-para-tras-diz-tebet-sobre-vacinacao-em-marco-04122020
-2020-12-04 19:58:23,292          root     INFO: Removed http://noticias.r7.com/brasil/lider-do-governo-na-camara-stf-nao-deveria-legislar-04122020
-2020-12-04 19:58:23,296          root     INFO: Removed http://noticias.r7.com/brasil/stf-rasga-a-constituicao-dizem-deputados-bolsonaristas-04122020
-2020-12-04 19:58:23,318          root     INFO: Removed http://noticias.r7.com/brasil/videos/veja-imagens-de-pm-de-sp-apontando-arma-para-outro-pm-04122020
-2020-12-04 19:58:23,322          root     INFO: Removed http://noticias.r7.com/brasil/stf-lewandowski-da-quinto-voto-a-favor-de-reeleicoes-no-congresso-04122020
-2020-12-04 19:58:23,327          root     INFO: Removed http://noticias.r7.com/brasil/mourao-critica-possibilidade-de-reeleicao-na-camara-e-no-senado-04122020
-2020-12-04 19:58:23,331          root     INFO: Removed http://noticias.r7.com/brasil/a-tentacao-do-golpe-por-quem-deveria-zelar-pela-democracia-04122020
-2020-12-04 19:58:23,336          root     INFO: Removed http://noticias.r7.com/brasil/covid-19-stf-adia-analise-que-obriga-governo-a-ter-plano-de-vacinacao-04122020
-2020-12-04 19:58:23,340          root     INFO: Removed http://noticias.r7.com/brasil/videos/onibus-de-turismo-cai-de-viaduto-em-mg-veja-imagens-04122020
-2020-12-04 19:58:23,341          root     INFO: Finished script
+2020-12-04 20:22:25,731          root     INFO: Starting script
+2020-12-04 20:22:26,766          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-04 20:22:27,424          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-04 20:22:28,080          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-04 20:22:28,283          root     INFO: Parsing R7 - Brasil
+2020-12-04 20:22:28,588          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2020/12/condicao-de-brasileira-esta-desligada-da-dimensao-universal-de-clarice.shtml
+2020-12-04 20:22:30,166          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/deputado-do-pt-questiona-ao-gsi-presenca-de-eduardo-bolsonaro-armado-no-gabinete-do-pai.shtml
+2020-12-04 20:22:33,508          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/11/bolsonaro-representa-todos-os-condenados-por-terem-dito-o-que-disseram.shtml
+2020-12-04 20:22:33,511          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2020/11/o-brasil-optou-pela-politica-mas-sera-a-velha-ou-a-nova.shtml
+2020-12-04 20:22:33,512          root     INFO: Finished script
