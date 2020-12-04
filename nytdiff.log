@@ -1,19 +1,23 @@
-2020-12-04 10:58:04,399          root     INFO: Starting script
-2020-12-04 10:58:05,238          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-04 10:58:05,915          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-04 10:58:06,596          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-04 10:58:06,741          root     INFO: Parsing R7 - Brasil
-2020-12-04 10:58:08,830          root     INFO: Acordo entre Doria e <del>Rodrigo Garcia</del> <ins>seu vice</ins> embaralha disputa pelo Governo de SP em 2022
-2020-12-04 10:58:10,586          root     INFO: Media ready with ids: 1334814245016526848
-2020-12-04 10:58:10,587          root     INFO: Text to tweet: Modificação do Título
-2020-12-04 10:58:10,587          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/acordo-entre-doria-e-rodrigo-garcia-embaralha-disputa-pelo-governo-de-sp-em-2022.shtml
-2020-12-04 10:58:10,594          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/acordo-entre-doria-e-rodrigo-garcia-embaralha-disputa-pelo-governo-de-sp-em-2022.shtml
-2020-12-04 10:58:10,766          root     INFO: Replying to: 1334814246560018432
-2020-12-04 10:58:10,994          root     INFO: Id to store: 1334814247256272897
-2020-12-04 10:58:10,999          root     INFO: A eleição municipal de 2020 <del>acabou</del> <ins>acabou,</ins> e João Doria (PSDB) não é candidato à reeleição em 2022. Com o resultado do pleito local e a informação sobre o futuro do governador, dirigentes e líderes partidários já começam a vislumbrar a disputa para o Governo do Estado de São Paulo levando em conta que o <del>vice-governador</del> <ins>vice-governador,</ins> Rodrigo Garcia <del>(DEM)</del> <ins>(DEM),</ins> é personagem central. Leia mais (12/03/2020 - 23h15)
-2020-12-04 10:58:12,781          root     INFO: Media ready with ids: 1334814254059413505
-2020-12-04 10:58:12,782          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-04 10:58:12,782          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/acordo-entre-doria-e-rodrigo-garcia-embaralha-disputa-pelo-governo-de-sp-em-2022.shtml
-2020-12-04 10:58:12,788          root     INFO: Replying to: 1334814247256272897
-2020-12-04 10:58:13,127          root     INFO: Id to store: 1334814255858610177
-2020-12-04 10:58:16,337          root     INFO: Finished script
+2020-12-04 11:22:15,478          root     INFO: Starting script
+2020-12-04 11:22:16,565          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-04 11:22:17,216          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-04 11:22:17,869          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-04 11:22:18,041          root     INFO: Parsing R7 - Brasil
+2020-12-04 11:22:18,350          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2020/12/das-pernas-de-marilyn-aos-surtos-de-fitzgerald-a-saga-do-whisky-sour.shtml
+2020-12-04 11:22:19,893          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3780
+2020-12-04 11:22:20,045          root     INFO: <del>De</del> <ins>Aumento da abstenção reflete contrastes de SP, de</ins> reação do centro a desalento da <del>periferia, aumento da abstenção reflete contrastes de SP</del> <ins>periferia</ins>
+2020-12-04 11:22:21,826          root     INFO: Media ready with ids: 1334820331882680321
+2020-12-04 11:22:21,827          root     INFO: Text to tweet: Modificação do Título
+2020-12-04 11:22:21,828          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/de-reacao-do-centro-a-desalento-da-periferia-aumento-da-abstencao-reflete-contrastes-de-sp.shtml
+2020-12-04 11:22:21,836          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/de-reacao-do-centro-a-desalento-da-periferia-aumento-da-abstencao-reflete-contrastes-de-sp.shtml
+2020-12-04 11:22:22,036          root     INFO: Replying to: 1334820333648556034
+2020-12-04 11:22:22,248          root     INFO: Id to store: 1334820334349000704
+2020-12-04 11:22:22,253          root     INFO: Bruno Covas (PSDB) conseguiu mais de 52 mil votos na zona eleitoral do Jardim Paulista, região de alta renda da capital paulista. Nessa área, em votos válidos, deu de lavada em Guilherme Boulos (PSOL) ?73% contra 27%. <del>Em números absolutos, o prefeito poderia ter ficado com menos se o padrão de abstenção do primeiro turno se repetisse ?o comparecimento nessa zona foi maior no segundo do que no primeiro.</del> Leia mais (12/03/2020 - 23h15)
+2020-12-04 11:22:24,003          root     INFO: Media ready with ids: 1334820341101813768
+2020-12-04 11:22:24,003          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-04 11:22:24,003          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/de-reacao-do-centro-a-desalento-da-periferia-aumento-da-abstencao-reflete-contrastes-de-sp.shtml
+2020-12-04 11:22:24,009          root     INFO: Replying to: 1334820334349000704
+2020-12-04 11:22:24,222          root     INFO: Id to store: 1334820342594998272
+2020-12-04 11:22:27,396          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/11/os-desafios-do-retorno-as-aulas-presenciais.shtml
+2020-12-04 11:22:27,399          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/11/eleicao-virulenta-entre-primos-no-recife-acentua-feridas-nacionais-de-pt-e-psb.shtml
+2020-12-04 11:22:27,399          root     INFO: Finished script
