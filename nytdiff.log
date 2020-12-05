@@ -1,19 +1,6 @@
-2020-12-05 15:34:24,883          root     INFO: Starting script
-2020-12-05 15:34:25,715          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-05 15:34:26,392          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-05 15:34:27,064          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-05 15:34:27,245          root     INFO: Parsing R7 - Brasil
-2020-12-05 15:34:27,583          root     INFO: 'Vacina chinesa' está para sair, dizem países que compraram e fazem a <del>Coronovac</del> <ins>Coronavac</ins>
-2020-12-05 15:34:29,326          root     INFO: Media ready with ids: 1335246169103101954
-2020-12-05 15:34:29,327          root     INFO: Text to tweet: Modificação do Título
-2020-12-05 15:34:29,327          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/12/vacina-chinesa-esta-para-sair-dizem-paises-que-compraram-e-fazem-a-coronovac.shtml
-2020-12-05 15:34:29,334          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/12/vacina-chinesa-esta-para-sair-dizem-paises-que-compraram-e-fazem-a-coronovac.shtml
-2020-12-05 15:34:29,532          root     INFO: Replying to: 1335246170793324546
-2020-12-05 15:34:29,744          root     INFO: Id to store: 1335246171481235461
-2020-12-05 15:34:29,750          root     INFO: O governo chinês diz que <del>“em breve”</del> <ins>"em breve"</ins> haverá um <del>“grande anúncio”</del> <ins>"grande anúncio"</ins> a respeito de vacinas com <del>“vírus inativados”.</del> <ins>"vírus inativados".</ins> Trata-se das vacinas da Sinovac e da Sinopharm. Meios de comunicação chineses dizem que o anúncio dessas vacinas é <del>“iminente”</del> <ins>"iminente"</ins> e que uma aprovação oficial deve ocorrer até o fim do ano <del>—tratam</del> <ins>-tratam</ins> do Brasil, sem o dizer. São Paulo comprou a Sinovac. Leia mais (12/05/2020 - 12h00)
-2020-12-05 15:34:31,540          root     INFO: Media ready with ids: 1335246178275954688
-2020-12-05 15:34:31,541          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-05 15:34:31,541          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/12/vacina-chinesa-esta-para-sair-dizem-paises-que-compraram-e-fazem-a-coronovac.shtml
-2020-12-05 15:34:31,549          root     INFO: Replying to: 1335246171481235461
-2020-12-05 15:34:31,803          root     INFO: Id to store: 1335246180071206918
-2020-12-05 15:34:37,481          root     INFO: Finished script
+2020-12-05 15:50:33,666          root     INFO: Starting script
+2020-12-05 15:50:34,790          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-05 15:50:35,625          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-05 15:50:36,455          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-05 15:50:36,665          root     INFO: Parsing R7 - Brasil
+2020-12-05 15:50:41,824          root     INFO: Finished script
