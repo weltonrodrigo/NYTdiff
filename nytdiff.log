@@ -1,6 +1,13 @@
-2020-12-05 05:46:48,768          root     INFO: Starting script
-2020-12-05 05:46:49,930          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-05 05:46:50,570          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-05 05:46:51,222          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-05 05:46:51,482          root     INFO: Parsing R7 - Brasil
-2020-12-05 05:46:56,201          root     INFO: Finished script
+2020-12-05 05:58:07,155          root     INFO: Starting script
+2020-12-05 05:58:08,120          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-05 05:58:08,774          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-05 05:58:09,424          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-05 05:58:09,621          root     INFO: Parsing R7 - Brasil
+2020-12-05 05:58:10,156          root     INFO: Fósforo, editora gestada na pandemia, começa a publicar <ins>seus livros</ins> no ano que vem
+2020-12-05 05:58:12,087          root     INFO: Media ready with ids: 1335101141764501504
+2020-12-05 05:58:12,087          root     INFO: Text to tweet: Modificação do Título
+2020-12-05 05:58:12,088          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2020/12/fosforo-editora-gestada-na-pandemia-comeca-a-publicar-no-ano-que-vem.shtml
+2020-12-05 05:58:12,094          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2020/12/fosforo-editora-gestada-na-pandemia-comeca-a-publicar-no-ano-que-vem.shtml
+2020-12-05 05:58:12,282          root     INFO: Replying to: 1335101143316357120
+2020-12-05 05:58:12,503          root     INFO: Id to store: 1335101144029388801
+2020-12-05 05:58:17,048          root     INFO: Finished script
