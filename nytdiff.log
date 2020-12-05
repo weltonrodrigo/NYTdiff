@@ -1,6 +1,13 @@
-2020-12-05 22:58:14,643          root     INFO: Starting script
-2020-12-05 22:58:15,496          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-05 22:58:16,181          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-05 22:58:31,891          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-05 22:58:32,189          root     INFO: Parsing R7 - Brasil
-2020-12-05 22:58:37,029          root     INFO: Finished script
+2020-12-05 23:22:33,010          root     INFO: Starting script
+2020-12-05 23:22:33,856          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-05 23:22:34,513          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-05 23:22:35,170          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-05 23:22:35,445          root     INFO: Parsing R7 - Brasil
+2020-12-05 23:22:37,279          root     INFO: Rosa vota contra drible à Constituição, e placar no STF <del>agora</del> é de 4 a 3 por brecha à reeleição de Maia e Alcolumbre
+2020-12-05 23:22:39,054          root     INFO: Media ready with ids: 1335363986079031297
+2020-12-05 23:22:39,055          root     INFO: Text to tweet: Modificação do Título
+2020-12-05 23:22:39,055          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/rosa-vota-contra-drible-a-constituicao-e-placar-no-stf-agora-e-de-4-a-3-por-brecha-a-reeleicao-de-maia-e-alcolumbre.shtml
+2020-12-05 23:22:39,067          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/rosa-vota-contra-drible-a-constituicao-e-placar-no-stf-agora-e-de-4-a-3-por-brecha-a-reeleicao-de-maia-e-alcolumbre.shtml
+2020-12-05 23:22:39,248          root     INFO: Replying to: 1335363987593195526
+2020-12-05 23:22:39,473          root     INFO: Id to store: 1335363988280971267
+2020-12-05 23:22:42,739          root     INFO: Finished script
