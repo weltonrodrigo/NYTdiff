@@ -1,6 +1,14 @@
-2020-12-06 02:57:49,114          root     INFO: Starting script
-2020-12-06 02:57:49,948          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-06 02:57:50,632          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-06 02:57:51,310          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-06 02:57:51,524          root     INFO: Parsing R7 - Brasil
-2020-12-06 02:57:56,703          root     INFO: Finished script
+2020-12-06 03:24:05,467          root     INFO: Starting script
+2020-12-06 03:24:06,819          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-06 03:24:07,656          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-06 03:24:08,497          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-06 03:24:08,729          root     INFO: Parsing R7 - Brasil
+2020-12-06 03:24:13,406          root     INFO: Removed http://noticias.r7.com/brasil/emily-de-4-anos-e-rebeca-de-7-sao-mortas-em-tiroteio-no-rio-05122020
+2020-12-06 03:24:13,412          root     INFO: Removed http://noticias.r7.com/brasil/policia-do-rio-intima-william-bonner-e-renata-vasconcellos-para-depor-05122020
+2020-12-06 03:24:13,415          root     INFO: Removed http://noticias.r7.com/brasil/ninguem-acerta-seis-dezenas-e-mega-sena-acumula-em-r-32-mi-05122020
+2020-12-06 03:24:13,417          root     INFO: Removed http://noticias.r7.com/brasil/secretarios-querem-que-ministerio-adquira-todas-vacinas-contra-covid-05122020
+2020-12-06 03:24:13,419          root     INFO: Removed http://noticias.r7.com/brasil/brasil-soma-176628-mortes-e-6577177-casos-de-covid-19-05122020
+2020-12-06 03:24:13,421          root     INFO: Removed http://noticias.r7.com/brasil/policia-prende-12-suspeito-de-participar-de-assalto-em-criciuma-05122020
+2020-12-06 03:24:13,450          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-vai-a-formatura-na-aman-com-aglomeracao-e-pouca-mascara-05122020
+2020-12-06 03:24:13,453          root     INFO: Removed http://noticias.r7.com/brasil/rosa-weber-vota-contra-reeleicao-de-alcolumbre-e-maia-05122020
+2020-12-06 03:24:13,453          root     INFO: Finished script
