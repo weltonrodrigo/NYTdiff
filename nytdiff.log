@@ -1,6 +1,8 @@
-2020-12-06 15:57:59,868          root     INFO: Starting script
-2020-12-06 15:58:00,778          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-06 15:58:01,440          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-06 15:58:02,103          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-06 15:58:02,396          root     INFO: Parsing R7 - Brasil
-2020-12-06 15:58:08,402          root     INFO: Finished script
+2020-12-06 16:35:28,763          root     INFO: Starting script
+2020-12-06 16:35:29,644          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-06 16:35:30,296          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-06 16:35:30,954          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-06 16:35:31,152          root     INFO: Parsing R7 - Brasil
+2020-12-06 16:35:31,436          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2020/12/juros-internacionais-negativos.shtml
+2020-12-06 16:35:36,218          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/doacao-muito-alem-do-dinheiro.shtml
+2020-12-06 16:35:36,219          root     INFO: Finished script
