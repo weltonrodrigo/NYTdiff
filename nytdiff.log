@@ -1,9 +1,13 @@
-2020-12-07 19:20:01,691          root     INFO: Starting script
-2020-12-07 19:20:02,697          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-07 19:20:03,510          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-07 19:20:04,335          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-07 19:20:04,570          root     INFO: Parsing R7 - Brasil
-2020-12-07 19:20:04,860          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2020/12/casos-de-j-p-cuenca-e-monteiro-lobato-revelam-males-literalismo-e-censura.shtml
-2020-12-07 19:20:07,670          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/conpresp-decide-abrir-tombamento-de-area-de-mata-atlantica-em-sp.shtml
-2020-12-07 19:20:09,270          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/12/e-se-a-esquerda-chegar-dividida-a-eleicao-de-2022.shtml
-2020-12-07 19:20:09,271          root     INFO: Finished script
+2020-12-07 19:30:33,324          root     INFO: Starting script
+2020-12-07 19:30:34,366          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-07 19:30:35,022          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-07 19:30:35,673          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-07 19:30:35,898          root     INFO: Parsing R7 - Brasil
+2020-12-07 19:30:39,402          root     INFO: <ins>Por unanimidade,</ins> Conpresp decide abrir tombamento de área de mata atlântica em SP
+2020-12-07 19:30:41,219          root     INFO: Media ready with ids: 1336030386158247938
+2020-12-07 19:30:41,219          root     INFO: Text to tweet: Modificação do Título
+2020-12-07 19:30:41,220          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/conpresp-decide-abrir-tombamento-de-area-de-mata-atlantica-em-sp.shtml
+2020-12-07 19:30:41,231          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/conpresp-decide-abrir-tombamento-de-area-de-mata-atlantica-em-sp.shtml
+2020-12-07 19:30:41,439          root     INFO: Replying to: 1336030387815014405
+2020-12-07 19:30:41,655          root     INFO: Id to store: 1336030388502867971
+2020-12-07 19:30:43,478          root     INFO: Finished script
