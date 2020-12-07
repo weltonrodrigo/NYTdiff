@@ -1,17 +1,6 @@
-2020-12-07 15:27:00,277          root     INFO: Starting script
-2020-12-07 15:27:01,076          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-07 15:27:01,727          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-07 15:27:02,378          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-07 15:27:02,615          root     INFO: Parsing R7 - Brasil
-2020-12-07 15:27:04,614          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/sem-alcolumbre-bolsonaro-avalia-apoio-a-nomes-do-mdb-para-comando-do-senado.shtml
-2020-12-07 15:27:04,625          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10555
-2020-12-07 15:27:04,661          root     INFO: <del>O</del> <ins>Um dia após o STF (Supremo Tribunal Federal) ter evitado um atropelo à Constituição ao barrar a possibilidade de reeleição da atual cúpula do Congresso, o</ins> presidente da Câmara, Rodrigo Maia (DEM-RJ), <del>defendeu nesta segunda-feira (7) que, na eleição do comando da Casa, os deputados escolham um candidato</del> <ins>afirmou</ins> que <del>garanta</del> <ins>não tinha</ins> a <del>independência em relação aos outros Poderes.</del> <ins>intenção de concorrer a mais um mandato à frente da Câmara.</ins> Leia mais (12/07/2020 - 11h50)
-2020-12-07 15:27:06,557          root     INFO: Media ready with ids: 1335969087562919936
-2020-12-07 15:27:06,557          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-07 15:27:06,557          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/apos-veto-do-stf-maia-diz-que-permanecer-no-poder-nunca-esteve-em-seus-planos.shtml
-2020-12-07 15:27:06,566          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/apos-veto-do-stf-maia-diz-que-permanecer-no-poder-nunca-esteve-em-seus-planos.shtml
-2020-12-07 15:27:06,786          root     INFO: Replying to: 1335969089467133955
-2020-12-07 15:27:07,015          root     INFO: Id to store: 1335969090213699585
-2020-12-07 15:27:10,514          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/presidente-da-assembleia-diz-a-colegas-que-em-breve-virara-secretario-da-gestao-doria.shtml
-2020-12-07 15:27:10,517          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/forcas-regionais-herdam-espolios-do-pt-em-prefeituras-pelo-pais.shtml
-2020-12-07 15:27:10,518          root     INFO: Finished script
+2020-12-07 15:36:52,892          root     INFO: Starting script
+2020-12-07 15:36:53,796          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-07 15:36:54,459          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-07 15:36:55,132          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-07 15:36:55,271          root     INFO: Parsing R7 - Brasil
+2020-12-07 15:37:00,201          root     INFO: Finished script
