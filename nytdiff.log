@@ -1,19 +1,13 @@
-2020-12-07 13:04:15,033          root     INFO: Starting script
-2020-12-07 13:04:15,927          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-07 13:04:16,614          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-07 13:04:17,304          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-07 13:04:17,986          root     INFO: Parsing R7 - Brasil
-2020-12-07 13:04:23,666          root     INFO: New article tracked: http://noticias.r7.com/brasil/policia-federal-investiga-propinas-na-construcao-do-metro-do-rio-07122020
-2020-12-07 13:04:23,678          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-define-regras-para-envio-de-alerta-sobre-risco-de-desastre-07122020
-2020-12-07 13:04:23,686          root     INFO: New article tracked: http://noticias.r7.com/brasil/temperatura-em-novembro-de-2020-e-a-mais-alta-ja-registrada-07122020
-2020-12-07 13:04:23,715          root     INFO: New article tracked: http://noticias.r7.com/brasil/entenda-como-e-feita-a-renovacao-da-carteira-de-motorista-07122020
-2020-12-07 13:04:23,724          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-cria-programa-de-apoio-e-protecao-ao-aleitamento-materno-07122020
-2020-12-07 13:04:23,798          root     INFO: Deputado Marcos Pereira (Republicanos-SP) elogiou decisão do <del>que</del> Supremo que barrou possibilidade de reeleição de Rodrigo Maia e Davi Alcolumbre
-2020-12-07 13:04:25,599          root     INFO: Media ready with ids: 1335933180612923395
-2020-12-07 13:04:25,600          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-07 13:04:25,601          root     INFO: Article id: http://noticias.r7.com/brasil/vice-presidente-da-camara-diz-que-stf-agiu-com-responsabilidade-07122020
-2020-12-07 13:04:25,608          root     INFO: Tweeting url: http://noticias.r7.com/brasil/vice-presidente-da-camara-diz-que-stf-agiu-com-responsabilidade-07122020
-2020-12-07 13:04:25,801          root     INFO: Replying to: 1335933182164819968
-2020-12-07 13:04:26,170          root     INFO: Id to store: 1335933183070617600
-2020-12-07 13:04:26,275          root     INFO: New article tracked: http://noticias.r7.com/brasil/policia-civil-confirma-19-morte-em-acidente-com-onibus-em-minas-07122020
-2020-12-07 13:04:26,403          root     INFO: Finished script
+2020-12-07 13:27:19,847          root     INFO: Starting script
+2020-12-07 13:27:20,794          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-07 13:27:21,453          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-07 13:27:22,108          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-07 13:27:22,262          root     INFO: Parsing R7 - Brasil
+2020-12-07 13:27:25,815          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/3-entre-10-madeireiras-investigadas-da-amazonia-transportaram-toras-dentro-do-pais-em-2020.shtml
+2020-12-07 13:27:27,691          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-define-regras-para-envio-de-alerta-sobre-risco-de-desastre-07122020
+2020-12-07 13:27:27,696          root     INFO: Removed http://noticias.r7.com/brasil/policia-federal-investiga-propinas-na-construcao-do-metro-do-rio-07122020
+2020-12-07 13:27:27,699          root     INFO: Removed http://noticias.r7.com/brasil/entenda-como-e-feita-a-renovacao-da-carteira-de-motorista-07122020
+2020-12-07 13:27:27,701          root     INFO: Removed http://noticias.r7.com/brasil/temperatura-em-novembro-de-2020-e-a-mais-alta-ja-registrada-07122020
+2020-12-07 13:27:27,703          root     INFO: Removed http://noticias.r7.com/brasil/governo-cria-programa-de-apoio-e-protecao-ao-aleitamento-materno-07122020
+2020-12-07 13:27:27,706          root     INFO: Removed http://noticias.r7.com/brasil/policia-civil-confirma-19-morte-em-acidente-com-onibus-em-minas-07122020
+2020-12-07 13:27:27,706          root     INFO: Finished script
