@@ -1,19 +1,6 @@
-2020-12-08 10:50:08,544          root     INFO: Starting script
-2020-12-08 10:50:09,390          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-08 10:50:10,081          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-08 10:50:10,759          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-08 10:50:11,056          root     INFO: Parsing R7 - Brasil
-2020-12-08 10:50:13,148          root     INFO: <del>Isolado, voto</del> <ins>Voto</ins> de Kassio sobre reeleição no Congresso <del>coincidiu com desejo do governo</del> <ins>agradou</ins> Bolsonaro <ins>e isolou ministro no STF</ins>
-2020-12-08 10:50:14,915          root     INFO: Media ready with ids: 1336261801282035712
-2020-12-08 10:50:14,916          root     INFO: Text to tweet: Modificação do Título
-2020-12-08 10:50:14,916          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/isolado-voto-de-kassio-sobre-reeleicao-no-congresso-coincidiu-com-desejo-do-governo-bolsonaro.shtml
-2020-12-08 10:50:14,923          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/isolado-voto-de-kassio-sobre-reeleicao-no-congresso-coincidiu-com-desejo-do-governo-bolsonaro.shtml
-2020-12-08 10:50:15,080          root     INFO: Replying to: 1336261802896879616
-2020-12-08 10:50:15,300          root     INFO: Id to store: 1336261803580514307
-2020-12-08 10:50:15,305          root     INFO: O voto do ministro Kassio Nunes sobre a <ins>possibilidade de</ins> reeleição <del>na</del> <ins>da</ins> cúpula do Congresso agradou o Palácio do Planalto, mas o deixou isolado dentro do STF (Supremo Tribunal Federal). Leia mais (12/07/2020 - 23h15)
-2020-12-08 10:50:17,038          root     INFO: Media ready with ids: 1336261810295549952
-2020-12-08 10:50:17,038          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-08 10:50:17,038          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/isolado-voto-de-kassio-sobre-reeleicao-no-congresso-coincidiu-com-desejo-do-governo-bolsonaro.shtml
-2020-12-08 10:50:17,045          root     INFO: Replying to: 1336261803580514307
-2020-12-08 10:50:17,272          root     INFO: Id to store: 1336261811885264898
-2020-12-08 10:50:20,938          root     INFO: Finished script
+2020-12-08 10:58:01,056          root     INFO: Starting script
+2020-12-08 10:58:01,946          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-08 10:58:02,625          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-08 10:58:03,311          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-08 10:58:03,525          root     INFO: Parsing R7 - Brasil
+2020-12-08 10:58:09,283          root     INFO: Finished script
