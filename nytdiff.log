@@ -1,6 +1,20 @@
-2020-12-08 10:27:56,703          root     INFO: Starting script
-2020-12-08 10:27:57,558          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-08 10:27:58,245          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-08 10:27:58,927          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-08 10:27:59,114          root     INFO: Parsing R7 - Brasil
-2020-12-08 10:28:04,937          root     INFO: Finished script
+2020-12-08 10:40:09,105          root     INFO: Starting script
+2020-12-08 10:40:09,951          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-08 10:40:10,596          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-08 10:40:11,246          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-08 10:40:11,559          root     INFO: Parsing R7 - Brasil
+2020-12-08 10:40:13,317          root     INFO: <del>Voto</del> <ins>Ministros veem traição</ins> de <del>Fux sobre reeleição no Congresso amplia racha</del> <ins>Fux, expõem mal-estar</ins> no STF e <del>deve atrapalhar gestão da corte</del> <ins>já preparam retaliação</ins>
+2020-12-08 10:40:15,086          root     INFO: Media ready with ids: 1336259285433671680
+2020-12-08 10:40:15,087          root     INFO: Text to tweet: Modificação do Título
+2020-12-08 10:40:15,087          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/voto-de-fux-sobre-reeleicao-no-congresso-amplia-racha-no-stf-e-deve-atrapalhar-gestao-da-corte.shtml
+2020-12-08 10:40:15,092          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/voto-de-fux-sobre-reeleicao-no-congresso-amplia-racha-no-stf-e-deve-atrapalhar-gestao-da-corte.shtml
+2020-12-08 10:40:15,299          root     INFO: Replying to: 1336259287212027906
+2020-12-08 10:40:15,573          root     INFO: Id to store: 1336259287958630407
+2020-12-08 10:40:15,732          root     INFO: Após veto do STF à reeleição no Congresso, DEM perde <del>força,</del> <ins>força</ins> e MDB ganha projeção
+2020-12-08 10:40:17,387          root     INFO: Media ready with ids: 1336259295277625344
+2020-12-08 10:40:17,388          root     INFO: Text to tweet: Modificação do Título
+2020-12-08 10:40:17,388          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/apos-veto-do-stf-a-reeleicao-no-congresso-dem-perde-forca-e-mdb-ganha-projecao.shtml
+2020-12-08 10:40:17,396          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/apos-veto-do-stf-a-reeleicao-no-congresso-dem-perde-forca-e-mdb-ganha-projecao.shtml
+2020-12-08 10:40:17,585          root     INFO: Replying to: 1336259296770871299
+2020-12-08 10:40:17,829          root     INFO: Id to store: 1336259297546743812
+2020-12-08 10:40:20,821          root     INFO: Finished script
