@@ -1,15 +1,17 @@
-2020-12-09 02:50:44,801          root     INFO: Starting script
-2020-12-09 02:50:45,829          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-09 02:50:46,664          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-09 02:50:47,502          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-09 02:50:47,743          root     INFO: Parsing R7 - Brasil
-2020-12-09 02:50:52,601          root     INFO: New article tracked: http://noticias.r7.com/brasil/juizes-estaduais-podem-receber-salario-de-ate-r-39200-diz-stf-08122020
-2020-12-09 02:50:52,616          root     INFO: New article tracked: http://noticias.r7.com/brasil/casa-verde-e-amarela-e-aprovada-pelo-senado-e-segue-para-sancao-08122020
-2020-12-09 02:50:52,657          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-vacina-e-para-proteger-populacao-nao-para-fins-politicos-08122020
-2020-12-09 02:50:52,671          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-lancara-frente-mista-em-defesa-dos-diretos-humanos-08122020
-2020-12-09 02:50:52,680          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-brasil-tem-300-mi-de-doses-garantidas-de-vacina-contra-covid-19-08122020
-2020-12-09 02:50:52,692          root     INFO: New article tracked: http://noticias.r7.com/brasil/urgencia-do-fundeb-e-aprovada-e-relator-confia-em-placar-amplo-08122020
-2020-12-09 02:50:52,702          root     INFO: New article tracked: http://noticias.r7.com/brasil/ha-perfeita-harmonia-entre-governo-e-congresso-diz-bolsonaro-08122020
-2020-12-09 02:50:52,710          root     INFO: New article tracked: http://noticias.r7.com/brasil/maior-ajuda-que-judiciario-pode-dar-e-respeitar-constituicao-diz-fux-08122020
-2020-12-09 02:50:52,719          root     INFO: New article tracked: http://noticias.r7.com/brasil/relatorio-da-mp-da-alianca-global-da-vacina-sera-entregue-ate-quinta-08122020
-2020-12-09 02:50:52,877          root     INFO: Finished script
+2020-12-09 02:57:42,947          root     INFO: Starting script
+2020-12-09 02:57:43,787          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-09 02:57:44,460          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-09 02:57:45,131          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-09 02:57:45,333          root     INFO: Parsing R7 - Brasil
+2020-12-09 02:57:47,228          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/apos-conversa-com-bolsonaro-alcolumbre-diz-a-aliados-que-seu-candidato-tera-apoio-do-planalto.shtml
+2020-12-09 02:57:50,690          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-brasil-tem-300-mi-de-doses-garantidas-de-vacina-contra-covid-19-08122020
+2020-12-09 02:57:50,692          root     INFO: Removed http://noticias.r7.com/brasil/urgencia-do-fundeb-e-aprovada-e-relator-confia-em-placar-amplo-08122020
+2020-12-09 02:57:50,695          root     INFO: Removed http://noticias.r7.com/brasil/casa-verde-e-amarela-e-aprovada-pelo-senado-e-segue-para-sancao-08122020
+2020-12-09 02:57:50,697          root     INFO: Removed http://noticias.r7.com/brasil/relatorio-da-mp-da-alianca-global-da-vacina-sera-entregue-ate-quinta-08122020
+2020-12-09 02:57:50,699          root     INFO: Removed http://noticias.r7.com/brasil/juizes-estaduais-podem-receber-salario-de-ate-r-39200-diz-stf-08122020
+2020-12-09 02:57:50,701          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-vacina-e-para-proteger-populacao-nao-para-fins-politicos-08122020
+2020-12-09 02:57:50,704          root     INFO: Removed http://noticias.r7.com/brasil/maior-ajuda-que-judiciario-pode-dar-e-respeitar-constituicao-diz-fux-08122020
+2020-12-09 02:57:50,706          root     INFO: Removed http://noticias.r7.com/brasil/ha-perfeita-harmonia-entre-governo-e-congresso-diz-bolsonaro-08122020
+2020-12-09 02:57:50,708          root     INFO: Removed http://noticias.r7.com/brasil/deputado-lancara-frente-mista-em-defesa-dos-diretos-humanos-08122020
+2020-12-09 02:57:50,711          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/grupo-de-maia-quer-formar-bloco-para-demonstrar-uniao-em-disputa-pela-camara.shtml
+2020-12-09 02:57:50,711          root     INFO: Finished script
