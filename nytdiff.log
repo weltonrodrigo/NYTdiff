@@ -1,20 +1,35 @@
-2020-12-09 23:23:30,788          root     INFO: Starting script
-2020-12-09 23:23:31,658          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-09 23:23:32,343          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-09 23:23:33,048          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-09 23:23:33,305          root     INFO: Parsing R7 - Brasil
-2020-12-09 23:23:35,522          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/stf-mantem-equiparacao-entre-juizes-federais-e-estaduais-e-confirma-elevacao-de-teto-salarial.shtml
-2020-12-09 23:23:35,634          root     INFO: Bolsonaro <del>decide demitir</del> <ins>demite</ins> Marcelo Álvaro Antônio, ministro do Turismo e pivô dos laranjas do PSL
-2020-12-09 23:23:37,384          root     INFO: Media ready with ids: 1336813782065172485
-2020-12-09 23:23:37,385          root     INFO: Text to tweet: Modificação do Título
-2020-12-09 23:23:37,385          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/bolsonaro-decide-demitir-ministro-do-turismo-marcelo-alvaro-antonio.shtml
-2020-12-09 23:23:37,391          root     INFO: Replying to: 1336768576171159554
-2020-12-09 23:23:37,620          root     INFO: Id to store: 1336813783650619392
-2020-12-09 23:23:37,626          root     INFO: O presidente Jair Bolsonaro (sem partido) <del>decidiu demitir,</del> <ins>demitiu</ins> nesta quarta-feira <del>(9),</del> <ins>(9)</ins> o ministro do Turismo, Marcelo Álvaro Antônio. <ins>Ele foi informado da decisão pelo próprio presidente, no início da tarde, em audiência no Palácio do Planalto.</ins> Leia mais (12/09/2020 - 15h01)
-2020-12-09 23:23:39,338          root     INFO: Media ready with ids: 1336813790411829249
-2020-12-09 23:23:39,338          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-09 23:23:39,339          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/bolsonaro-decide-demitir-ministro-do-turismo-marcelo-alvaro-antonio.shtml
-2020-12-09 23:23:39,345          root     INFO: Replying to: 1336813783650619392
-2020-12-09 23:23:39,590          root     INFO: Id to store: 1336813791825244162
-2020-12-09 23:23:43,550          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/campanha-de-bruno-covas-recebeu-pelo-menos-40-doacoes-de-funcionarios-da-prefeitura-de-sp.shtml
-2020-12-09 23:23:43,551          root     INFO: Finished script
+2020-12-09 23:34:41,498          root     INFO: Starting script
+2020-12-09 23:34:42,527          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-09 23:34:43,368          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-09 23:34:44,213          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-09 23:34:44,485          root     INFO: Parsing R7 - Brasil
+2020-12-09 23:34:46,507          root     INFO: <del>Candidato</del> <ins>Preferido</ins> de Bolsonaro, Arthur Lira lança candidatura à presidência da Câmara
+2020-12-09 23:34:48,367          root     INFO: Media ready with ids: 1336816596527034369
+2020-12-09 23:34:48,368          root     INFO: Text to tweet: Modificação do Título
+2020-12-09 23:34:48,368          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/candidato-de-bolsonaro-arthur-lira-lanca-candidatura-a-presidencia-da-camara.shtml
+2020-12-09 23:34:48,375          root     INFO: Replying to: 1336768559750459392
+2020-12-09 23:34:48,635          root     INFO: Id to store: 1336816598116659203
+2020-12-09 23:34:48,640          root     INFO: Apoiado pelo presidente Jair <del>Bolsonaro,</del> <ins>Bolsonaro (sem partido),</ins> o deputado Arthur Lira (PP-AL) lançou nesta quarta-feira (9) sua candidatura à presidência da Câmara. Lira é líder do PP na Casa e também do centrão <del>-grupo</del> <ins>—grupo</ins> de partidos que se aproximou do governo após a liberação de cargos e emendas. Leia mais (12/09/2020 - 16h07)
+2020-12-09 23:34:50,467          root     INFO: Media ready with ids: 1336816605238599682
+2020-12-09 23:34:50,467          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-09 23:34:50,467          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/candidato-de-bolsonaro-arthur-lira-lanca-candidatura-a-presidencia-da-camara.shtml
+2020-12-09 23:34:50,473          root     INFO: Replying to: 1336816598116659203
+2020-12-09 23:34:50,737          root     INFO: Id to store: 1336816606907936770
+2020-12-09 23:34:53,993          root     INFO: New article tracked: http://noticias.r7.com/brasil/apenas-justica-pode-bloquear-bens-de-devedores-do-governo-decide-stf-09122020
+2020-12-09 23:34:54,016          root     INFO: New article tracked: http://noticias.r7.com/brasil/gilson-machado-e-escolhido-para-assumir-o-ministerio-do-turismo-09122020
+2020-12-09 23:34:54,025          root     INFO: New article tracked: http://noticias.r7.com/brasil/isolamento-em-29-igualaria-renda-a-periodo-pre-pandemia-diz-governo-09122020
+2020-12-09 23:34:54,033          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-reverte-queda-e-fecha-em-firme-alta-com-piora-externa-09122020
+2020-12-09 23:34:54,041          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-carta-ministro-do-turismo-chama-ramos-de-traira-09122020
+2020-12-09 23:34:54,049          root     INFO: New article tracked: http://noticias.r7.com/brasil/azul-disponibiliza-avioes-para-transportar-vacinas-contra-covid-09122020
+2020-12-09 23:34:54,058          root     INFO: New article tracked: http://noticias.r7.com/brasil/congresso-deve-votar-nova-medida-provisoria-da-vacina-amanha-09122020
+2020-12-09 23:34:54,066          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-homologa-acordo-que-busca-zerar-fila-por-beneficios-do-inss-09122020
+2020-12-09 23:34:54,076          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/marcelo-alvaro-antonio-e-o-14-ministro-a-deixar-governo-bolsonaro-09122020
+2020-12-09 23:34:54,084          root     INFO: New article tracked: http://noticias.r7.com/brasil/arthur-lira-oficializa-candidatura-a-presidencia-da-camara-09122020
+2020-12-09 23:34:54,091          root     INFO: New article tracked: http://noticias.r7.com/brasil/o-que-significa-o-fim-da-era-maia-na-camara-dos-deputados-09122020
+2020-12-09 23:34:54,098          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-forcas-armadas-estao-prontas-para-cumprir-dever-09122020
+2020-12-09 23:34:54,106          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-demite-ministro-do-turismo-marcelo-alvaro-antonio-09122020
+2020-12-09 23:34:54,115          root     INFO: New article tracked: http://noticias.r7.com/brasil/kim-kataguiri-e-mbl-acionam-justica-contra-ministro-eduardo-pazuello-09122020
+2020-12-09 23:34:54,123          root     INFO: New article tracked: http://noticias.r7.com/brasil/oab-pede-ao-stf-que-governo-adote-vacina-mesmo-sem-aval-da-anvisa-09122020
+2020-12-09 23:34:54,130          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-saude-exclui-presos-da-lista-de-prioridades-para-vacinacao-09122020
+2020-12-09 23:34:54,138          root     INFO: New article tracked: http://noticias.r7.com/brasil/tse-deve-deixar-julgamento-da-chapa-bolsonaro-mourao-para-2021-09122020
+2020-12-09 23:34:54,203          root     INFO: Finished script
