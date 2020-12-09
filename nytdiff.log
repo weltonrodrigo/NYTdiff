@@ -1,6 +1,33 @@
-2020-12-09 10:27:10,055          root     INFO: Starting script
-2020-12-09 10:27:10,862          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-09 10:27:11,519          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-09 10:27:12,175          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-09 10:27:12,282          root     INFO: Parsing R7 - Brasil
-2020-12-09 10:27:17,164          root     INFO: Finished script
+2020-12-09 10:50:23,404          root     INFO: Starting script
+2020-12-09 10:50:24,445          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-09 10:50:25,307          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-09 10:50:26,160          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-09 10:50:26,353          root     INFO: Parsing R7 - Brasil
+2020-12-09 10:50:28,637          root     INFO: <del>Com apoio</del> <ins>Apoio</ins> de Bolsonaro <del>na eleição da Câmara, Arthur Lira enfrenta</del> <ins>provoca</ins> resistência <del>de siglas</del> da oposição <ins>a Lira para o comando da Câmara</ins>
+2020-12-09 10:50:30,524          root     INFO: Media ready with ids: 1336624254700425216
+2020-12-09 10:50:30,524          root     INFO: Text to tweet: Modificação do Título
+2020-12-09 10:50:30,524          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/com-apoio-de-bolsonaro-na-eleicao-da-camara-arthur-lira-enfrenta-resistencia-de-siglas-da-oposicao.shtml
+2020-12-09 10:50:30,531          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/com-apoio-de-bolsonaro-na-eleicao-da-camara-arthur-lira-enfrenta-resistencia-de-siglas-da-oposicao.shtml
+2020-12-09 10:50:30,784          root     INFO: Replying to: 1336624256550105088
+2020-12-09 10:50:31,075          root     INFO: Id to store: 1336624257556750336
+2020-12-09 10:50:31,081          root     INFO: Se, por um lado, ser o candidato do presidente Jair Bolsonaro (sem partido) abre portas para o deputado Arthur Lira (PP-AL) na disputa pela presidência da Câmara diante da disposição do governo em negociar cargos, por outro, tem dificultado o trabalho do parlamentar na tentativa de atrair partidos da oposição. O deputado do PP começou a rodar o país em busca de votos. Nesta segunda-feira (7), foi ao Recife e se reuniu com o governador de Pernambuco, Paulo Câmara (PSB), e com deputados da legenda, a segunda maior da oposição, com 31 cadeiras. De acordo com relatos feitos à Folha, Lira reconheceu a proximidade do PP com o governo, mas tentou emplacar o discurso de que, se eleito, comandará a Câmara com <del>independência, o que nem o Palácio do Planalto indica acreditar e, por isso, apoia o deputado, abrindo a possibilidade de negociar espaços no primeiro escalão.</del> <ins>independência.</ins> Leia mais (12/08/2020 - 23h15)
+2020-12-09 10:50:33,176          root     INFO: Media ready with ids: 1336624265358168064
+2020-12-09 10:50:33,177          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-09 10:50:33,177          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/com-apoio-de-bolsonaro-na-eleicao-da-camara-arthur-lira-enfrenta-resistencia-de-siglas-da-oposicao.shtml
+2020-12-09 10:50:33,183          root     INFO: Replying to: 1336624257556750336
+2020-12-09 10:50:33,542          root     INFO: Id to store: 1336624267543318528
+2020-12-09 10:50:34,095          root     INFO: Além de avaliar uma reforma ministerial para atrair votos à candidatura de Arthur Lira (PP-AL) ao comando da Câmara dos Deputados, o Palácio do Planalto tem associado a liberação de recursos de emendas parlamentares ao apoio <del>ao</del> <ins>para o</ins> candidato do presidente Jair Bolsonaro (sem partido). Leia mais (12/08/2020 - 23h15)
+2020-12-09 10:50:35,958          root     INFO: Media ready with ids: 1336624277404213249
+2020-12-09 10:50:35,959          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-09 10:50:35,959          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/governo-bolsonaro-barra-liberacao-de-emendas-e-condiciona-dinheiro-a-voto-em-lira-na-eleicao-da-camara.shtml
+2020-12-09 10:50:35,965          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/governo-bolsonaro-barra-liberacao-de-emendas-e-condiciona-dinheiro-a-voto-em-lira-na-eleicao-da-camara.shtml
+2020-12-09 10:50:36,219          root     INFO: Replying to: 1336624279258009600
+2020-12-09 10:50:36,523          root     INFO: Id to store: 1336624280340209666
+2020-12-09 10:50:38,272          root     INFO: O ministro do Meio Ambiente, Ricardo Salles, <del>afirmou</del> <ins>afirmou,</ins> nesta terça-feira <del>(8)</del> <ins>(8),</ins> que o Brasil <del>pode antecipar meta prevista no Acordo</del> <ins>manterá as metas</ins> de <del>Paris</del> <ins>redução</ins> de <del>neutralidade na emissão de gases causadores do efeito estufa.</del> <ins>emissões já indicadas no governo Dilma Rousseff (PT), em 2015.</ins> Leia mais (12/08/2020 - 21h20)
+2020-12-09 10:50:40,062          root     INFO: Media ready with ids: 1336624294697250816
+2020-12-09 10:50:40,063          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-09 10:50:40,063          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/apesar-de-alta-no-desmate-salles-diz-que-brasil-pode-neutralizar-emissao-de-gases-estufa-antes-de-2060.shtml
+2020-12-09 10:50:40,070          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/apesar-de-alta-no-desmate-salles-diz-que-brasil-pode-neutralizar-emissao-de-gases-estufa-antes-de-2060.shtml
+2020-12-09 10:50:40,335          root     INFO: Replying to: 1336624296509181954
+2020-12-09 10:50:40,627          root     INFO: Id to store: 1336624297540988929
+2020-12-09 10:50:42,760          root     INFO: Finished script
