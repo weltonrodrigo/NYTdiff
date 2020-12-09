@@ -1,6 +1,13 @@
-2020-12-09 20:57:54,429          root     INFO: Starting script
-2020-12-09 20:57:55,242          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-09 20:57:55,903          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-09 20:57:56,559          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-09 20:57:56,739          root     INFO: Parsing R7 - Brasil
-2020-12-09 20:58:01,049          root     INFO: Finished script
+2020-12-09 21:29:12,561          root     INFO: Starting script
+2020-12-09 21:29:13,367          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-09 21:29:14,022          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-09 21:29:14,681          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-09 21:29:14,878          root     INFO: Parsing R7 - Brasil
+2020-12-09 21:29:16,793          root     INFO: Maioria do PSB <del>vota</del> <ins>se manifestou</ins> favoravelmente a apoiar Arthur Lira (PP-AL) na disputa pela presidência da Câmara Federal, candidato favorito do governo Jair Bolsonaro. Em reunião da bancada nesta quarta-feira (9), dezoito defenderam a adesão, em 30 parlamentares presentes. Leia mais (12/09/2020 - 17h01)
+2020-12-09 21:29:18,536          root     INFO: Media ready with ids: 1336785013917036547
+2020-12-09 21:29:18,537          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-09 21:29:18,537          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/psb-decide-apoiar-arthur-lira-para-a-presidencia-da-camara.shtml
+2020-12-09 21:29:18,543          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/psb-decide-apoiar-arthur-lira-para-a-presidencia-da-camara.shtml
+2020-12-09 21:29:18,764          root     INFO: Replying to: 1336785015636684802
+2020-12-09 21:29:18,994          root     INFO: Id to store: 1336785016483930117
+2020-12-09 21:29:22,269          root     INFO: Finished script
