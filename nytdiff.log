@@ -1,29 +1,6 @@
-2020-12-09 11:23:20,386          root     INFO: Starting script
-2020-12-09 11:23:21,213          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-09 11:23:21,883          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-09 11:23:22,558          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-09 11:23:22,738          root     INFO: Parsing R7 - Brasil
-2020-12-09 11:23:23,063          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/henrique-gomes/2020/12/2020-tambem-sera-lembrado-por-salto-da-inteligencia-artificial-que-pode-transformar-a-medicina.shtml
-2020-12-09 11:23:24,561          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/gestao-bolsonaro-paralisa-413-processos-de-reforma-agraria-e-entidades-preparam-acao-no-supremo.shtml
-2020-12-09 11:23:24,588          root     INFO: Após externar sua insatisfação com a atuação do Palácio do Planalto no processo em que o STF <del>(Supremo Tribunal Federal)</del> barrou a possibilidade de sua reeleição para o cargo, o presidente do Senado, Davi Alcolumbre (DEM-AP), reuniu-se com o presidente Jair Bolsonaro (sem partido) na noite desta terça-feira (8). Leia mais (12/08/2020 - 23h49)
-2020-12-09 11:23:26,365          root     INFO: Media ready with ids: 1336632541915312128
-2020-12-09 11:23:26,366          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-09 11:23:26,366          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/apos-conversa-com-bolsonaro-alcolumbre-diz-a-aliados-que-seu-candidato-tera-apoio-do-planalto.shtml
-2020-12-09 11:23:26,373          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/apos-conversa-com-bolsonaro-alcolumbre-diz-a-aliados-que-seu-candidato-tera-apoio-do-planalto.shtml
-2020-12-09 11:23:26,549          root     INFO: Replying to: 1336632543584657411
-2020-12-09 11:23:26,773          root     INFO: Id to store: 1336632544264073219
-2020-12-09 11:23:28,284          root     INFO: <del>Apesar de alta no desmate,</del> <ins>Com desmate em alta,</ins> Salles diz que Brasil <del>pode</del> <ins>vai</ins> neutralizar emissão de gases-estufa <del>antes de</del> <ins>até</ins> 2060
-2020-12-09 11:23:29,977          root     INFO: Media ready with ids: 1336632557274861568
-2020-12-09 11:23:29,977          root     INFO: Text to tweet: Modificação do Título
-2020-12-09 11:23:29,977          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/apesar-de-alta-no-desmate-salles-diz-que-brasil-pode-neutralizar-emissao-de-gases-estufa-antes-de-2060.shtml
-2020-12-09 11:23:29,985          root     INFO: Replying to: 1336624297540988929
-2020-12-09 11:23:30,218          root     INFO: Id to store: 1336632558646415360
-2020-12-09 11:23:30,223          root     INFO: O ministro do Meio Ambiente, Ricardo Salles, <del>afirmou</del> <ins>afirmou,</ins> nesta terça-feira <del>(8)</del> <ins>(8),</ins> que o Brasil <del>pode antecipar meta prevista no Acordo</del> <ins>manterá as metas</ins> de <del>Paris</del> <ins>redução</ins> de <del>neutralidade na emissão de gases causadores do efeito estufa.</del> <ins>emissões já indicadas no governo Dilma Rousseff (PT), em 2015.</ins> Leia mais (12/08/2020 - 21h20)
-2020-12-09 11:23:31,910          root     INFO: Media ready with ids: 1336632565344690177
-2020-12-09 11:23:31,910          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-09 11:23:31,910          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/apesar-de-alta-no-desmate-salles-diz-que-brasil-pode-neutralizar-emissao-de-gases-estufa-antes-de-2060.shtml
-2020-12-09 11:23:31,916          root     INFO: Replying to: 1336632558646415360
-2020-12-09 11:23:32,125          root     INFO: Id to store: 1336632566745624577
-2020-12-09 11:23:33,866          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2020/12/os-eleitos-e-a-gestao-publica-para-alem-do-discurso.shtml
-2020-12-09 11:23:33,871          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/lupa-em-zonas-eleitorais-mostra-ilhas-de-boulos-e-crivella-em-redutos-de-covas-e-paes-veja-mapas.shtml
-2020-12-09 11:23:33,871          root     INFO: Finished script
+2020-12-09 11:32:07,282          root     INFO: Starting script
+2020-12-09 11:32:08,245          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-09 11:32:08,899          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-09 11:32:09,554          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-09 11:32:09,760          root     INFO: Parsing R7 - Brasil
+2020-12-09 11:32:14,767          root     INFO: Finished script
