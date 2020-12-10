@@ -1,25 +1,18 @@
-2020-12-10 22:27:59,670          root     INFO: Starting script
-2020-12-10 22:28:00,515          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-10 22:28:01,188          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-10 22:28:01,858          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-10 22:28:02,089          root     INFO: Parsing R7 - Brasil
-2020-12-10 22:28:02,466          root     INFO: Formatura <del>on-line</del> <ins>online</ins> é insuficiente como rito de passagem; o que fazer?
-2020-12-10 22:28:04,194          root     INFO: Media ready with ids: 1337162189468266499
-2020-12-10 22:28:04,195          root     INFO: Text to tweet: Modificação do Título
-2020-12-10 22:28:04,195          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/laura-mattos/2020/12/formatura-on-line-e-insuficiente-como-rito-de-passagem-o-que-fazer.shtml
-2020-12-10 22:28:04,202          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/laura-mattos/2020/12/formatura-on-line-e-insuficiente-como-rito-de-passagem-o-que-fazer.shtml
-2020-12-10 22:28:04,374          root     INFO: Replying to: 1337162191104069632
-2020-12-10 22:28:04,587          root     INFO: Id to store: 1337162191787724803
-2020-12-10 22:28:06,368          root     INFO: Oposição leva caso Renan Bolsonaro à <del>Procuradoria,</del> <ins>Procuradoria e ao TCU,</ins> e especialista vê violação da impessoalidade
-2020-12-10 22:28:08,034          root     INFO: Media ready with ids: 1337162205750550529
-2020-12-10 22:28:08,035          root     INFO: Text to tweet: Modificação do Título
-2020-12-10 22:28:08,035          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/oposicao-leva-caso-renan-bolsonaro-a-procuradoria-e-especialista-ve-violacao-da-impessoalidade.shtml
-2020-12-10 22:28:08,042          root     INFO: Replying to: 1337074088355958792
-2020-12-10 22:28:08,348          root     INFO: Id to store: 1337162207281471496
-2020-12-10 22:28:08,352          root     INFO: <del>O ex-presidente da Comissão</del> <ins>A revelação pela Folha</ins> de <del>Ética Pública da Presidência da República Mauro Menezes diz</del> que <del>é "um exemplo claro de violação à impessoalidade" o acordo feito entre</del> a <ins>cobertura com fotos e vídeos da festa de inauguração de uma</ins> empresa de <ins>Jair</ins> Renan Bolsonaro, 22, <del>o filho 04 do presidente Jair Bolsonaro, e</del> <ins>foi realizada gratuitamente por</ins> uma produtora <ins>de conteúdo digital e comunicação corporativa</ins> que presta serviços ao <del>governo.</del> <ins>governo federal provocou a reação da oposição.</ins> Leia mais (12/10/2020 - 12h10)
-2020-12-10 22:28:10,108          root     INFO: Media ready with ids: 1337162214227275778
-2020-12-10 22:28:10,108          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-10 22:28:10,108          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/oposicao-leva-caso-renan-bolsonaro-a-procuradoria-e-especialista-ve-violacao-da-impessoalidade.shtml
-2020-12-10 22:28:10,114          root     INFO: Replying to: 1337162207281471496
-2020-12-10 22:28:10,345          root     INFO: Id to store: 1337162215879827457
-2020-12-10 22:28:13,733          root     INFO: Finished script
+2020-12-10 22:53:28,215          root     INFO: Starting script
+2020-12-10 22:53:29,003          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-10 22:53:29,645          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-10 22:53:30,283          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-10 22:53:30,453          root     INFO: Parsing R7 - Brasil
+2020-12-10 22:53:32,385          root     INFO: Ainda sem candidato à sucessão, Maia foca <del>em</del> consequências de apoio do Planalto a Lira
+2020-12-10 22:53:34,181          root     INFO: Media ready with ids: 1337168606740746240
+2020-12-10 22:53:34,181          root     INFO: Text to tweet: Modificação do Título
+2020-12-10 22:53:34,181          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/ainda-sem-candidato-a-sucessao-maia-foca-em-consequencias-de-apoio-do-planalto-a-lira.shtml
+2020-12-10 22:53:34,187          root     INFO: Replying to: 1337130857501429786
+2020-12-10 22:53:34,413          root     INFO: Id to store: 1337168608326275072
+2020-12-10 22:53:34,423          root     INFO: Ainda sem a definição de quem será o candidato do seu grupo político ao comando da Câmara, o presidente da Casa, Rodrigo Maia (DEM-RJ), tem enfatizado as consequências das ações do presidente Jair Bolsonaro e sua equipe para impulsionar a candidatura do líder do <del>PP,</del> <ins>PP e do centrão,</ins> Arthur Lira (AL). Leia mais (12/10/2020 - 16h43)
+2020-12-10 22:53:36,211          root     INFO: Media ready with ids: 1337168614898675716
+2020-12-10 22:53:36,212          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-10 22:53:36,212          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/ainda-sem-candidato-a-sucessao-maia-foca-em-consequencias-de-apoio-do-planalto-a-lira.shtml
+2020-12-10 22:53:36,219          root     INFO: Replying to: 1337168608326275072
+2020-12-10 22:53:36,468          root     INFO: Id to store: 1337168616924516354
+2020-12-10 22:53:39,718          root     INFO: Finished script
