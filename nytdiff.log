@@ -1,10 +1,8 @@
-2020-12-10 01:02:03,613          root     INFO: Starting script
-2020-12-10 01:02:04,430          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-10 01:02:05,097          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-10 01:02:05,761          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-10 01:02:05,971          root     INFO: Parsing R7 - Brasil
-2020-12-10 01:02:06,293          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2020/12/milton-friedman-estava-errado-sobre-as-corporacoes.shtml
-2020-12-10 01:02:08,168          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48728
-2020-12-10 01:02:12,140          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2020/12/a-historia-que-se-repete-ate-mesmo-no-combate-as-doencas-raras.shtml
-2020-12-10 01:02:12,143          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/folha-e-condenada-a-indenizar-empresario-jornal-vai-recorrer.shtml
-2020-12-10 01:02:12,144          root     INFO: Finished script
+2020-12-10 01:50:27,213          root     INFO: Starting script
+2020-12-10 01:50:28,320          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-10 01:50:29,176          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-10 01:50:30,018          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-10 01:50:30,287          root     INFO: Parsing R7 - Brasil
+2020-12-10 01:50:30,576          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/contardocalligaris/2020/12/serie-the-crown-permite-interrogar-de-uma-maneira-singular-as-falhas-paternas.shtml
+2020-12-10 01:50:36,190          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2020/12/celulares-do-maksoud-plaza-sao-cortados-por-falta-de-pagamento.shtml
+2020-12-10 01:50:36,191          root     INFO: Finished script
