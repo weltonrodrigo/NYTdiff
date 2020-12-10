@@ -1,6 +1,13 @@
-2020-12-10 19:30:57,599          root     INFO: Starting script
-2020-12-10 19:30:58,426          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-10 19:30:59,094          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-10 19:30:59,757          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-10 19:30:59,959          root     INFO: Parsing R7 - Brasil
-2020-12-10 19:31:05,818          root     INFO: Finished script
+2020-12-10 19:46:45,387          root     INFO: Starting script
+2020-12-10 19:46:46,181          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-10 19:46:46,855          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-10 19:46:47,503          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-10 19:46:47,734          root     INFO: Parsing R7 - Brasil
+2020-12-10 19:46:49,362          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/ainda-sem-candidato-a-sucessao-maia-foca-em-consequencias-de-apoio-do-planalto-a-lira.shtml
+2020-12-10 19:46:52,035          root     INFO: New article tracked: http://noticias.r7.com/brasil/lava-jato-fachin-coloca-nelson-meurer-junior-em-regime-aberto-10122020
+2020-12-10 19:46:52,042          root     INFO: New article tracked: http://noticias.r7.com/brasil/supremo-derruba-lei-que-limitava-antenas-em-sao-paulo-10122020
+2020-12-10 19:46:52,050          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacao-da-pf-combate-fraudes-no-auxilio-emergencial-em-14-estados-10122020
+2020-12-10 19:46:52,059          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-nomeia-gilson-machado-como-novo-ministro-do-turismo-10122020
+2020-12-10 19:46:52,067          root     INFO: New article tracked: http://noticias.r7.com/brasil/quem-e-marcelo-alvaro-antonio-ministro-do-turismo-demitido-por-bolsonaro-10122020
+2020-12-10 19:46:52,260          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/atropelos-rejeicao-em-sp-e-fragil-identidade-nacional-sao-desafios-de-doria-por-candidatura-em-2022.shtml
+2020-12-10 19:46:52,261          root     INFO: Finished script
