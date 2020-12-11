@@ -1,15 +1,19 @@
-2020-12-11 05:36:04,473          root     INFO: Starting script
-2020-12-11 05:36:05,518          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-11 05:36:06,351          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-11 05:36:07,180          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-11 05:36:07,441          root     INFO: Parsing R7 - Brasil
-2020-12-11 05:36:12,910          root     INFO: Removed http://noticias.r7.com/brasil/fachin-manda-bolsonaro-respeitar-lista-triplice-na-escolha-de-reitores-10122020
-2020-12-11 05:36:12,915          root     INFO: Removed http://noticias.r7.com/brasil/pagamento-de-boletos-com-auxilio-emergencial-supera-saques-10122020
-2020-12-11 05:36:12,919          root     INFO: Removed http://noticias.r7.com/brasil/apos-denuncia-senador-aciona-tcu-e-mpf-contra-filho-de-bolsonaro-10122020
-2020-12-11 05:36:12,922          root     INFO: Removed http://noticias.r7.com/brasil/oposicao-vai-a-pgr-apos-denuncia-contra-filho-de-bolsonaro-10122020
-2020-12-11 05:36:12,925          root     INFO: Removed http://noticias.r7.com/brasil/senado-aprova-criminalizar-ato-preconceituoso-de-agentes-publicos-10122020
-2020-12-11 05:36:12,928          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-texto-base-que-regulamenta-recursos-do-fundeb-10122020
-2020-12-11 05:36:12,931          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-acumula-de-novo-e-premio-sobe-a-r-40-milhoes-10122020
-2020-12-11 05:36:12,933          root     INFO: Removed http://noticias.r7.com/brasil/senado-punicao-a-abordagem-policial-motivada-por-preconceito-10122020
-2020-12-11 05:36:12,936          root     INFO: Removed http://noticias.r7.com/brasil/senado-aprova-nova-lei-de-licitacoes-que-segue-a-sancao-10122020
-2020-12-11 05:36:12,937          root     INFO: Finished script
+2020-12-11 05:47:50,019          root     INFO: Starting script
+2020-12-11 05:47:50,914          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-11 05:47:51,577          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-11 05:47:52,261          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-11 05:47:52,485          root     INFO: Parsing R7 - Brasil
+2020-12-11 05:47:54,515          root     INFO: Em evento do CNJ, Fux chama entidades de <del>"inimigas</del> <ins>'inimigas</ins> da <del>corte</del> <ins>corte'</ins>
+2020-12-11 05:47:56,260          root     INFO: Media ready with ids: 1337272886109802497
+2020-12-11 05:47:56,261          root     INFO: Text to tweet: Modificação do Título
+2020-12-11 05:47:56,261          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/em-evento-do-cnj-fux-chama-entidades-de-inimigas-da-corte.shtml
+2020-12-11 05:47:56,268          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/em-evento-do-cnj-fux-chama-entidades-de-inimigas-da-corte.shtml
+2020-12-11 05:47:56,460          root     INFO: Replying to: 1337272887548514305
+2020-12-11 05:47:56,667          root     INFO: Id to store: 1337272888215429121
+2020-12-11 05:47:56,675          root     INFO: Entidades que participavam de uma sessão do CNJ (Conselho Nacional de Justiça) reclamam de uma fala do presidente do STF, Luiz Fux, em que se refere a elas como <del>"inimigas</del> <ins>“inimigas</ins> da <del>corte".</del> <ins>corte”.</ins> A reunião, em novembro, tratava de audiências de custódia virtuais. Leia mais (12/10/2020 - 23h15)
+2020-12-11 05:47:58,510          root     INFO: Media ready with ids: 1337272895211499521
+2020-12-11 05:47:58,510          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-11 05:47:58,511          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/em-evento-do-cnj-fux-chama-entidades-de-inimigas-da-corte.shtml
+2020-12-11 05:47:58,521          root     INFO: Replying to: 1337272888215429121
+2020-12-11 05:47:58,754          root     INFO: Id to store: 1337272896964734978
+2020-12-11 05:48:02,260          root     INFO: Finished script
