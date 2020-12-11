@@ -1,23 +1,8 @@
-2020-12-11 16:38:40,516          root     INFO: Starting script
-2020-12-11 16:38:41,318          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-11 16:38:41,962          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-11 16:38:42,600          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-11 16:38:42,817          root     INFO: Parsing R7 - Brasil
-2020-12-11 16:38:43,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2020/12/o-brasil-merecia-bolsonaro-e-coronavirus-juntos-num-mesmo-ano.shtml
-2020-12-11 16:38:44,558          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10565
-2020-12-11 16:38:44,598          root     INFO: Abin fez relatórios pra defender Flávio Bolsonaro sobre 'rachadinha', diz <del>revista</del> <ins>revista; agência nega</ins>
-2020-12-11 16:38:46,316          root     INFO: Media ready with ids: 1337436673915940866
-2020-12-11 16:38:46,317          root     INFO: Text to tweet: Modificação do Título
-2020-12-11 16:38:46,317          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/abin-fez-relatorios-pra-defender-flavio-bolsonaro-sobre-rachadinha-diz-revista.shtml
-2020-12-11 16:38:46,323          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/abin-fez-relatorios-pra-defender-flavio-bolsonaro-sobre-rachadinha-diz-revista.shtml
-2020-12-11 16:38:46,514          root     INFO: Replying to: 1337436675350421514
-2020-12-11 16:38:46,759          root     INFO: Id to store: 1337436676143116290
-2020-12-11 16:38:46,764          root     INFO: A Abin (Agência Brasileira de Inteligência) produziu relatórios para ajudar a defender o senador Flávio Bolsonaro (Republicanos) no suposto esquema de "rachadinhas" na Assembleia Legislativa do Rio de <del>Janeiro que levou à denúncia contra o político por lavagem de dinheiro, peculato e organização criminosa.</del> <ins>Janeiro, segundo reportagem desta sexta-feira (11) pela revista Época.</ins> Leia mais (12/11/2020 - 11h20)
-2020-12-11 16:38:48,466          root     INFO: Media ready with ids: 1337436682631737344
-2020-12-11 16:38:48,466          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-11 16:38:48,466          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/abin-fez-relatorios-pra-defender-flavio-bolsonaro-sobre-rachadinha-diz-revista.shtml
-2020-12-11 16:38:48,473          root     INFO: Replying to: 1337436676143116290
-2020-12-11 16:38:48,704          root     INFO: Id to store: 1337436684250730501
-2020-12-11 16:38:51,654          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/12/o-rosto-do-lider-do-brasileiro-tem-passe-e-chute-a-gol.shtml
-2020-12-11 16:38:51,656          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/apos-veto-do-stf-maia-diz-que-permanecer-no-poder-nunca-esteve-em-seus-planos.shtml
-2020-12-11 16:38:51,657          root     INFO: Finished script
+2020-12-11 17:07:14,024          root     INFO: Starting script
+2020-12-11 17:07:14,813          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-11 17:07:15,452          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-11 17:07:16,108          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-11 17:07:16,239          root     INFO: Parsing R7 - Brasil
+2020-12-11 17:07:18,193          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48751
+2020-12-11 17:07:21,659          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10555
+2020-12-11 17:07:21,660          root     INFO: Finished script
