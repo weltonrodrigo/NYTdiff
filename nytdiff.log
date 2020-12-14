@@ -1,6 +1,26 @@
-2020-12-14 16:39:05,537          root     INFO: Starting script
-2020-12-14 16:39:06,552          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-14 16:39:07,384          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-14 16:39:08,214          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-14 16:39:08,558          root     INFO: Parsing R7 - Brasil
-2020-12-14 16:39:13,736          root     INFO: Finished script
+2020-12-14 17:08:27,494          root     INFO: Starting script
+2020-12-14 17:08:28,300          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-14 17:08:28,937          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-14 17:08:29,577          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-14 17:08:29,875          root     INFO: Parsing R7 - Brasil
+2020-12-14 17:08:34,649          root     INFO: New article tracked: http://noticias.r7.com/brasil/estou-angustiado-tambem-quero-ser-vacinado-diz-mourao-14122020
+2020-12-14 17:08:34,659          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-descarta-substituir-chanceler-ernesto-araujo-14122020
+2020-12-14 17:08:34,666          root     INFO: New article tracked: http://noticias.r7.com/brasil/oab-pede-ao-stf-que-force-governo-a-comprar-vacinas-contra-a-covid-19-14122020
+2020-12-14 17:08:34,674          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-lanca-painel-com-dados-sobre-violacoes-de-direitos-humanos-14122020
+2020-12-14 17:08:34,681          root     INFO: New article tracked: http://noticias.r7.com/brasil/maia-defende-suspensao-do-recesso-parlamentar-de-janeiro-14122020
+2020-12-14 17:08:34,689          root     INFO: New article tracked: http://noticias.r7.com/brasil/orcamento-de-2021-recebe-2205-emendas-e-deve-ser-votado-quarta-14122020
+2020-12-14 17:08:34,697          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-pf-lhe-da-seguranca-para-mudar-o-brasil-14122020
+2020-12-14 17:08:34,739          root     INFO: <ins>Novas fases da Operação Faroeste miram duas desembargadoras do Tribunal de Justiça.</ins> Estão sendo cumpridos 36 mandados de busca e apreensão <del>nas cidades de Salvador, Barreiras, Catu, Uibaí, além do Distrito Federal</del>
+2020-12-14 17:08:36,511          root     INFO: Media ready with ids: 1338531345937666048
+2020-12-14 17:08:36,512          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-14 17:08:36,512          root     INFO: Article id: http://noticias.r7.com/brasil/pf-faz-acao-contra-esquema-de-venda-de-decisoes-judiciais-na-bahia-14122020
+2020-12-14 17:08:36,519          root     INFO: Tweeting url: http://noticias.r7.com/brasil/pf-faz-acao-contra-esquema-de-venda-de-decisoes-judiciais-na-bahia-14122020
+2020-12-14 17:08:36,705          root     INFO: Replying to: 1338531347565043712
+2020-12-14 17:08:36,941          root     INFO: Id to store: 1338531348244541442
+2020-12-14 17:08:36,946          root     INFO: <del>Do R7</del> <ins>Agência Estado</ins>
+2020-12-14 17:08:38,654          root     INFO: Media ready with ids: 1338531354775072773
+2020-12-14 17:08:38,654          root     INFO: Text to tweet: Modificação do autor
+2020-12-14 17:08:38,654          root     INFO: Article id: http://noticias.r7.com/brasil/pf-faz-acao-contra-esquema-de-venda-de-decisoes-judiciais-na-bahia-14122020
+2020-12-14 17:08:38,662          root     INFO: Replying to: 1338531348244541442
+2020-12-14 17:08:38,870          root     INFO: Id to store: 1338531356444389379
+2020-12-14 17:08:39,056          root     INFO: Finished script
