@@ -1,6 +1,8 @@
-2020-12-14 13:06:31,264          root     INFO: Starting script
-2020-12-14 13:06:32,057          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-14 13:06:32,696          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-14 13:06:33,337          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-14 13:06:33,564          root     INFO: Parsing R7 - Brasil
-2020-12-14 13:06:38,617          root     INFO: Finished script
+2020-12-14 13:25:17,168          root     INFO: Starting script
+2020-12-14 13:25:18,026          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-14 13:25:18,706          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-14 13:25:19,372          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-14 13:25:19,566          root     INFO: Parsing R7 - Brasil
+2020-12-14 13:25:21,545          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10568
+2020-12-14 13:25:24,937          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/mbl-e-kim-kataguiri-vao-a-justica-contra-ministro-da-saude.shtml
+2020-12-14 13:25:24,938          root     INFO: Finished script
