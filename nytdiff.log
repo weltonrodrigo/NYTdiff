@@ -1,6 +1,25 @@
-2020-12-15 16:04:36,717          root     INFO: Starting script
-2020-12-15 16:04:37,561          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-15 16:04:38,244          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-15 16:04:38,939          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-15 16:04:39,235          root     INFO: Parsing R7 - Brasil
-2020-12-15 16:04:45,791          root     INFO: Finished script
+2020-12-15 16:43:19,697          root     INFO: Starting script
+2020-12-15 16:43:20,525          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-15 16:43:21,189          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-15 16:43:21,861          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-15 16:43:21,992          root     INFO: Parsing R7 - Brasil
+2020-12-15 16:43:24,100          root     INFO: O ministro <del>do STF (Supremo Tribunal Federal)</del> Luís Roberto Barroso <ins>(STF)</ins> homologou a delação premiada de José Seripieri Filho, fundador da Qualicorp, gigante do ramo de seguro de saúde. Leia mais (12/15/2020 - 12h43)
+2020-12-15 16:43:25,830          root     INFO: Media ready with ids: 1338887397656977415
+2020-12-15 16:43:25,831          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-15 16:43:25,831          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/barroso-do-stf-homologa-delacao-premiada-de-fundador-da-qualicorp.shtml
+2020-12-15 16:43:25,841          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/barroso-do-stf-homologa-delacao-premiada-de-fundador-da-qualicorp.shtml
+2020-12-15 16:43:26,014          root     INFO: Replying to: 1338887399120773121
+2020-12-15 16:43:26,291          root     INFO: Id to store: 1338887399817011205
+2020-12-15 16:43:29,499          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-fara-nova-reuniao-sobre-vacinas-com-estados-e-municipios-15122020
+2020-12-15 16:43:29,511          root     INFO: New article tracked: http://noticias.r7.com/brasil/senadores-fecham-acordo-e-devem-aprovar-fundeb-nesta-terca-15122020
+2020-12-15 16:43:29,520          root     INFO: New article tracked: http://noticias.r7.com/brasil/quatro-em-cada-10-brasileiros-nao-tem-esgoto-tratado-diz-ministerio-15122020
+2020-12-15 16:43:29,528          root     INFO: New article tracked: http://noticias.r7.com/brasil/uma-em-cada-tres-pessoas-quer-consumir-menos-no-ano-que-vem-15122020
+2020-12-15 16:43:29,537          root     INFO: New article tracked: http://noticias.r7.com/brasil/senadora-simone-tebet-disputara-a-presidencia-do-senado-15122020
+2020-12-15 16:43:29,547          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-cobra-abin-e-gsi-e-ve-como-grave-relatorios-a-flavio-bolsonaro-15122020
+2020-12-15 16:43:29,557          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-deve-votar-regulamentacao-do-novo-fundeb-nesta-terca-15122020
+2020-12-15 16:43:29,566          root     INFO: New article tracked: http://noticias.r7.com/brasil/policia-faz-operacao-contra-sonegacao-na-venda-de-etanol-15122020
+2020-12-15 16:43:29,576          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacao-em-minas-apura-desvio-de-verbas-em-obras-rodoviarias-15122020
+2020-12-15 16:43:29,585          root     INFO: New article tracked: http://noticias.r7.com/brasil/campanha-eleitoral-para-2022-comecou-cedo-demais-diz-mourao-15122020
+2020-12-15 16:43:29,594          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-vai-liberar-r-20-bilhoes-para-compra-de-vacinas-15122020
+2020-12-15 16:43:29,604          root     INFO: New article tracked: http://noticias.r7.com/brasil/mesario-que-faltou-no-1-turno-pode-justificar-ausencia-ate-esta-terca-15122020
+2020-12-15 16:43:29,766          root     INFO: Finished script
