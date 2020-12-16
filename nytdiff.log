@@ -1,17 +1,13 @@
-2020-12-16 11:57:54,778          root     INFO: Starting script
-2020-12-16 11:57:55,815          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-16 11:57:56,666          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-16 11:57:57,813          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-16 11:57:58,131          root     INFO: Parsing R7 - Brasil
-2020-12-16 11:58:04,344          root     INFO: New article tracked: http://noticias.r7.com/brasil/a-desigualdade-brasileira-vista-do-alto-em-imagens-impressionantes-16122020
-2020-12-16 11:58:04,359          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-projeto-que-renegocia-divida-dos-estados-16122020
-2020-12-16 11:58:04,370          root     INFO: New article tracked: http://noticias.r7.com/brasil/coronavirus-os-julgamentos-do-stf-sobre-vacinas-que-podem-mudar-o-rumo-do-combate-a-pandemia-16122020
-2020-12-16 11:58:04,382          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-fixa-normas-para-contestacao-de-auxilio-negado-16122020
-2020-12-16 11:58:04,394          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-deve-julgar-nesta-quarta-acoes-sobre-vacinacao-obrigatoria-16122020
-2020-12-16 11:58:04,414          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-apresenta-hoje-plano-de-vacinacao-contra-covid-19-16122020
-2020-12-16 11:58:04,425          root     INFO: New article tracked: http://noticias.r7.com/brasil/congresso-deve-votar-nesta-quarta-diretrizes-para-o-orcamento-de-2021-16122020
-2020-12-16 11:58:04,435          root     INFO: New article tracked: http://noticias.r7.com/brasil/supremo-arquiva-investigacao-contra-ex-senador-eunicio-oliveira-15122020
-2020-12-16 11:58:04,445          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-rejeita-indicacao-de-diplomata-para-cargo-em-genebra-15122020
-2020-12-16 11:58:04,456          root     INFO: New article tracked: http://noticias.r7.com/brasil/heleno-diz-que-relatorio-a-favor-de-flavio-e-narrativa-fantasiosa-15122020
-2020-12-16 11:58:04,472          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-denuncia-wilson-witzel-pastor-everaldo-e-outras-11-pessoas-15122020
-2020-12-16 11:58:04,666          root     INFO: Finished script
+2020-12-16 12:34:08,832          root     INFO: Starting script
+2020-12-16 12:34:09,971          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-16 12:34:10,652          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-16 12:34:11,316          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-16 12:34:11,512          root     INFO: Parsing R7 - Brasil
+2020-12-16 12:34:13,866          root     INFO: O presidente Jair Bolsonaro (sem partido) afirmou <del>em entrevista</del> nesta terça-feira (15) que Fabrício Queiroz, seu amigo e ex-assessor de Flávio <del>Bolsonaro na Assembleia do Rio,</del> <ins>Bolsonaro,</ins> pagava suas contas e está sendo injustiçado na investigação que aponta o ex-policial militar como operador de um esquema de <del>"rachadinha".</del> <ins>"rachadinha" na Assembleia Legislativa do Rio.</ins> Leia mais (12/15/2020 - 20h03)
+2020-12-16 12:34:15,720          root     INFO: Media ready with ids: 1339187080044351489
+2020-12-16 12:34:15,721          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-16 12:34:15,721          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/queiroz-pagava-minhas-contas-e-esta-sendo-injusticado-diz-bolsonaro.shtml
+2020-12-16 12:34:15,728          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/queiroz-pagava-minhas-contas-e-esta-sendo-injusticado-diz-bolsonaro.shtml
+2020-12-16 12:34:15,918          root     INFO: Replying to: 1339187081797660680
+2020-12-16 12:34:16,168          root     INFO: Id to store: 1339187082577768448
+2020-12-16 12:34:19,519          root     INFO: Finished script
