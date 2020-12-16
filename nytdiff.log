@@ -1,6 +1,13 @@
-2020-12-16 10:33:44,247          root     INFO: Starting script
-2020-12-16 10:33:45,305          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-16 10:33:46,118          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-16 10:33:47,232          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-16 10:33:47,493          root     INFO: Parsing R7 - Brasil
-2020-12-16 10:33:51,561          root     INFO: Finished script
+2020-12-16 11:01:40,591          root     INFO: Starting script
+2020-12-16 11:01:41,437          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-16 11:01:42,070          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-16 11:01:42,932          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-16 11:01:43,138          root     INFO: Parsing R7 - Brasil
+2020-12-16 11:01:45,504          root     INFO: <del>Diante de</del> <ins>Com</ins> avanço de Lira, Maia tenta manter esquerda ao seu lado <del>para</del> <ins>em</ins> eleição <del>na</del> <ins>para o comando da</ins> Câmara
+2020-12-16 11:01:47,349          root     INFO: Media ready with ids: 1339163808577835011
+2020-12-16 11:01:47,349          root     INFO: Text to tweet: Modificação do Título
+2020-12-16 11:01:47,349          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/diante-de-avanco-de-lira-maia-tenta-manter-esquerda-ao-seu-lado-para-eleicao-na-camara.shtml
+2020-12-16 11:01:47,357          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/diante-de-avanco-de-lira-maia-tenta-manter-esquerda-ao-seu-lado-para-eleicao-na-camara.shtml
+2020-12-16 11:01:47,540          root     INFO: Replying to: 1339163810150703105
+2020-12-16 11:01:47,779          root     INFO: Id to store: 1339163810939203585
+2020-12-16 11:01:51,405          root     INFO: Finished script
