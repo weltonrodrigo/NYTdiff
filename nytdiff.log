@@ -1,13 +1,9 @@
-2020-12-16 23:57:02,672          root     INFO: Starting script
-2020-12-16 23:57:03,677          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-16 23:57:04,490          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-16 23:57:05,315          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-16 23:57:05,644          root     INFO: Parsing R7 - Brasil
-2020-12-16 23:57:07,514          root     INFO: O presidente do Republicanos, deputado Marcos Pereira (SP), decidiu se juntar ao bloco do líder do PP, Arthur Lira (AL), candidato à presidência da <del>Câmara.</del> <ins>Câmara apoiado pelo presidente Jair Bolsonaro (sem partido).</ins> Leia mais (12/16/2020 - 16h48)
-2020-12-16 23:57:09,359          root     INFO: Media ready with ids: 1339358935770427394
-2020-12-16 23:57:09,360          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-16 23:57:09,361          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/cortejado-por-maia-republicanos-decide-apoiar-lira-na-disputa-pelo-comando-da-camara.shtml
-2020-12-16 23:57:09,369          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/cortejado-por-maia-republicanos-decide-apoiar-lira-na-disputa-pelo-comando-da-camara.shtml
-2020-12-16 23:57:09,609          root     INFO: Replying to: 1339358937842331652
-2020-12-16 23:57:09,891          root     INFO: Id to store: 1339358938760921096
-2020-12-16 23:57:12,949          root     INFO: Finished script
+2020-12-17 00:30:55,952          root     INFO: Starting script
+2020-12-17 00:30:56,987          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-17 00:30:57,819          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-17 00:30:58,652          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-17 00:30:58,951          root     INFO: Parsing R7 - Brasil
+2020-12-17 00:31:02,267          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/advogadas-trans-aliam-profissao-e-ativismo-na-luta-por-seus-direitos-basicos.shtml
+2020-12-17 00:31:02,990          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/senado-aprova-projeto-de-lei-que-cria-programa-de-compensacao-por-servicos-ambientais.shtml
+2020-12-17 00:31:05,035          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/stj-recua-e-admite-analisar-recurso-de-lira-contra-bloqueio-de-r-104-milhoes-na-lava-jato.shtml
+2020-12-17 00:31:05,036          root     INFO: Finished script
