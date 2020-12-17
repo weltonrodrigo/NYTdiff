@@ -1,24 +1,6 @@
-2020-12-17 10:54:10,571          root     INFO: Starting script
-2020-12-17 10:54:11,496          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-17 10:54:12,162          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-17 10:54:12,836          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-17 10:54:12,937          root     INFO: Parsing R7 - Brasil
-2020-12-17 10:54:15,353          root     INFO: Ações <del>no TSE</del> sobre <ins>disparos em massa na</ins> eleição de 2018 <del>completam</del> <ins>fazem</ins> dois anos com investigação capenga
-2020-12-17 10:54:17,138          root     INFO: Media ready with ids: 1339524308364881920
-2020-12-17 10:54:17,140          root     INFO: Text to tweet: Modificação do Título
-2020-12-17 10:54:17,141          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/acoes-no-tse-sobre-eleicao-de-2018-completam-dois-anos-com-investigacao-capenga.shtml
-2020-12-17 10:54:17,148          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/acoes-no-tse-sobre-eleicao-de-2018-completam-dois-anos-com-investigacao-capenga.shtml
-2020-12-17 10:54:17,310          root     INFO: Replying to: 1339524309665124353
-2020-12-17 10:54:17,546          root     INFO: Id to store: 1339524310457835522
-2020-12-17 10:54:17,795          root     INFO: <del>Para barrar o flerte entre o</del> <ins>O presidente do Republicanos,</ins> deputado <ins>Marcos Pereira (SP), decidiu se juntar ao bloco do líder do PP,</ins> Arthur Lira <del>(PP-AL) e a oposição, o presidente</del> <ins>(AL), candidato à presidência</ins> da <del>Câmara, Rodrigo Maia (DEM-RJ), reuniu os partidos de esquerda nesta terça-feira (15) com o objetivo de evitar dissidências que possam fortalecer a candidatura do nome</del> <ins>Câmara</ins> apoiado pelo presidente Jair Bolsonaro (sem partido). Leia mais (12/16/2020 - 12h48)
-2020-12-17 10:54:22,675          root     INFO: Media ready with ids: 1339524331173494791
-2020-12-17 10:54:22,675          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-17 10:54:22,675          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/confira-a-divisao-de-blocos-na-disputa-pela-sucessao-de-maia-na-presidencia-da-camara.shtml
-2020-12-17 10:54:22,682          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/confira-a-divisao-de-blocos-na-disputa-pela-sucessao-de-maia-na-presidencia-da-camara.shtml
-2020-12-17 10:54:22,869          root     INFO: Replying to: 1339524332998057985
-2020-12-17 10:54:23,211          root     INFO: Id to store: 1339524333996306432
-2020-12-17 10:54:26,326          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-contratacoes-em-universidades-durante-pandemia-17122020
-2020-12-17 10:54:26,337          root     INFO: New article tracked: http://noticias.r7.com/brasil/autor-de-mudancas-na-lei-da-improbidade-ameaca-retirar-projeto-17122020
-2020-12-17 10:54:26,346          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-acumula-pela-7-vez-e-pode-pagar-r-52-milhoes-no-sabado-16122020
-2020-12-17 10:54:26,354          root     INFO: New article tracked: http://noticias.r7.com/brasil/stj-autoriza-inquerito-contra-desembargador-que-humilhou-gcm-16122020
-2020-12-17 10:54:26,655          root     INFO: Finished script
+2020-12-17 10:59:44,585          root     INFO: Starting script
+2020-12-17 10:59:45,424          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-17 10:59:46,103          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-17 10:59:46,779          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-17 10:59:46,932          root     INFO: Parsing R7 - Brasil
+2020-12-17 10:59:52,669          root     INFO: Finished script
