@@ -1,10 +1,19 @@
-2020-12-18 16:45:20,988          root     INFO: Starting script
-2020-12-18 16:45:22,400          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-18 16:45:23,229          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-18 16:45:24,060          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-18 16:45:24,353          root     INFO: Parsing R7 - Brasil
-2020-12-18 16:45:24,711          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2020/12/gostaria-de-enviar-os-antivacinas-para-o-passado-da-colera-e-da-febre-tifoide.shtml
-2020-12-18 16:45:26,670          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/doria-convida-lula-e-dilma-para-tomarem-vacina-contra-a-covid.shtml
-2020-12-18 16:45:30,805          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/12/bolsonaro-tomou-vacina-contra-o-horror-que-promove-no-pais.shtml
-2020-12-18 16:45:30,813          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10568
-2020-12-18 16:45:30,814          root     INFO: Finished script
+2020-12-18 17:18:06,815          root     INFO: Starting script
+2020-12-18 17:18:07,990          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-18 17:18:08,626          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-18 17:18:09,266          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-18 17:18:09,499          root     INFO: Parsing R7 - Brasil
+2020-12-18 17:18:10,234          root     INFO: Mesmo em um cenário tão desafiador para o <del>cenário</del> <ins>circuito</ins> cultural quanto o vivido atualmente, algumas artistas conseguem <del>colocar</del> <ins>pôr</ins> de pé projetos lindos que merecem ser conhecidos. Um deles é o mais recente trabalho da grande cantora Aline Wirley, que acaba de publicar seu álbum "Indômita". Com oito faixas, a obra mergulha na mulher selvagem e nos provoca reflexões e viagens junto à melodia e <ins>à</ins> poderosa letra. "Indômita", disponível nas plataformas de música e vídeo na internet, é, além do nome de uma faixa, o título do álbum que traduz com maestria o que Wirley traz após muito tempo de trabalho. Leia mais (12/17/2020 - 15h57)
+2020-12-18 17:18:12,172          root     INFO: Media ready with ids: 1339983311654051848
+2020-12-18 17:18:12,172          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-18 17:18:12,172          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2020/12/aline-wirley-mergulha-no-seu-lado-mulher-selvagem-com-novo-album-indomita.shtml
+2020-12-18 17:18:12,181          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2020/12/aline-wirley-mergulha-no-seu-lado-mulher-selvagem-com-novo-album-indomita.shtml
+2020-12-18 17:18:12,367          root     INFO: Replying to: 1339983313549873157
+2020-12-18 17:18:12,594          root     INFO: Id to store: 1339983314199994368
+2020-12-18 17:18:14,123          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/moraes-do-stf-determina-prisao-de-blogueiro-bolsonarista-oswaldo-eustaquio.shtml
+2020-12-18 17:18:14,132          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/carmen-lucia-manda-pgr-investigar-supostos-relatorios-da-abin-para-flavio-bolsonaro.shtml
+2020-12-18 17:18:14,142          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/deputada-apalpada-por-colega-critica-silencio-de-doria-e-de-presidente-da-assembleia-de-sp.shtml
+2020-12-18 17:18:18,071          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/pf-prende-membros-do-tj-ba-em-operacao-sobre-suposta-venda-de-decisoes-judiciais.shtml
+2020-12-18 17:18:18,075          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/apos-intensa-mobilizacao-oab-aprova-paridade-de-genero-e-cotas-raciais-de-30.shtml
+2020-12-18 17:18:18,078          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/cidades-medias-do-pais-terao-prefeitos-com-vies-bolsonarista-mas-de-fora-da-ala-raiz.shtml
+2020-12-18 17:18:18,079          root     INFO: Finished script
