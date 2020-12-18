@@ -1,15 +1,24 @@
-2020-12-18 01:21:40,569          root     INFO: Starting script
-2020-12-18 01:21:41,405          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-18 01:21:42,044          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-18 01:21:42,685          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-18 01:21:43,026          root     INFO: Parsing R7 - Brasil
-2020-12-18 01:21:45,050          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/empresa-americana-apoiada-por-eduardo-bolsonaro-fara-pistolas-com-o-exercito.shtml
-2020-12-18 01:21:45,085          root     INFO: O controlador-geral do <del>Estado</del> <ins>estado</ins> na gestão de Wilson Witzel (PSC), Hormindo Bicudo Neto, afirmou nesta quinta-feira (17) que o alertou sobre a contratação da organização social Iabas. Ele prestou depoimento ao tribunal misto que julga o impeachment do governador <del>afastado.</del> <ins>afastado do Rio.</ins> Leia mais (12/17/2020 - 20h46)
-2020-12-18 01:21:46,909          root     INFO: Media ready with ids: 1339742620516540417
-2020-12-18 01:21:46,909          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-18 01:21:46,909          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/controlador-geral-na-gestao-witzel-diz-que-alertou-governador-afastado-sobre-contratacao-suspeita.shtml
-2020-12-18 01:21:46,916          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/controlador-geral-na-gestao-witzel-diz-que-alertou-governador-afastado-sobre-contratacao-suspeita.shtml
-2020-12-18 01:21:47,099          root     INFO: Replying to: 1339742622252994561
-2020-12-18 01:21:47,378          root     INFO: Id to store: 1339742622945054721
-2020-12-18 01:21:50,920          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/avaliacao-de-bolsonaro-se-mantem-no-melhor-nivel-mostra-datafolha.shtml
-2020-12-18 01:21:50,921          root     INFO: Finished script
+2020-12-18 02:05:33,432          root     INFO: Starting script
+2020-12-18 02:05:34,276          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-18 02:05:34,944          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-18 02:05:35,613          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-18 02:05:35,982          root     INFO: Parsing R7 - Brasil
+2020-12-18 02:05:41,987          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-vota-para-que-pais-nao-possam-deixar-de-vacinar-filhos-17122020
+2020-12-18 02:05:42,000          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-la-garantia-soy-yo-17122020
+2020-12-18 02:05:42,011          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-manda-presos-do-grupo-de-risco-do-semiaberto-para-casa-17122020
+2020-12-18 02:05:42,022          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-retoma-julgamento-sobre-vacina-obrigatoria-acompanhe-17122020
+2020-12-18 02:05:42,036          root     INFO: New article tracked: http://noticias.r7.com/brasil/setor-da-construcao-estima-crescimento-de-4-em-2021-17122020
+2020-12-18 02:05:42,050          root     INFO: New article tracked: http://noticias.r7.com/brasil/projeto-preve-desoneracao-da-folha-de-pagamento-ate-o-fim-de-2022-17122020
+2020-12-18 02:05:42,063          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-nao-vai-interferir-na-eleicao-da-camara-e-do-senado-17122020
+2020-12-18 02:05:42,078          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-libera-uso-de-fundo-para-internet-rural-17122020
+2020-12-18 02:05:42,090          root     INFO: New article tracked: http://noticias.r7.com/brasil/helena-e-miguel-sao-os-nomes-de-bebes-mais-escolhidos-em-2020-17122020
+2020-12-18 02:05:42,102          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-assina-mp-que-libera-r-20-bilhoes-para-compra-de-vacinas-17122020
+2020-12-18 02:05:42,114          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-posse-gilson-machado-reclama-de-fechamento-de-hoteis-em-buzios-17122020
+2020-12-18 02:05:42,125          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-assina-texto-que-destina-r-20-bilhoes-para-compra-de-vacina-17122020
+2020-12-18 02:05:42,139          root     INFO: New article tracked: http://noticias.r7.com/brasil/estudio-news-debate-futuro-dos-lojistas-de-shoppings-com-pandemia-17122020
+2020-12-18 02:05:42,150          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-conclui-operacao-contra-o-trafico-internacional-de-drogas-no-sul-17122020
+2020-12-18 02:05:42,160          root     INFO: New article tracked: http://noticias.r7.com/brasil/alcolumbre-deve-anunciar-nesta-sexta-feira-inicio-do-recesso-parlamentar-17122020
+2020-12-18 02:05:42,169          root     INFO: New article tracked: http://noticias.r7.com/brasil/governadores-vao-a-bolsonaro-e-congresso-pedir-prorrogacao-do-estado-de-calamidade-17122020
+2020-12-18 02:05:42,180          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-desfigura-mp-do-governo-e-beneficia-pequenas-hidreletricas-17122020
+2020-12-18 02:05:42,191          root     INFO: New article tracked: http://noticias.r7.com/brasil/justica-determina-fechamento-de-hoteis-e-praias-de-buzios-17122020
+2020-12-18 02:05:42,241          root     INFO: Finished script
