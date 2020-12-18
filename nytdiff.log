@@ -1,19 +1,6 @@
-2020-12-18 23:37:11,229          root     INFO: Starting script
-2020-12-18 23:37:12,024          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-18 23:37:12,662          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-18 23:37:13,296          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-18 23:37:13,560          root     INFO: Parsing R7 - Brasil
-2020-12-18 23:37:15,864          root     INFO: <del>Partidos de oposição anunciam</del> <ins>Oposição anuncia</ins> apoio <del>ao</del> <ins>a Maia, que amplia</ins> bloco <ins>contra candidato</ins> de <del>Maia para eleição ao comando da</del> <ins>Bolsonaro na</ins> Câmara
-2020-12-18 23:37:17,566          root     INFO: Media ready with ids: 1340078713032065028
-2020-12-18 23:37:17,566          root     INFO: Text to tweet: Modificação do Título
-2020-12-18 23:37:17,566          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/partidos-de-oposicao-anunciam-apoio-ao-bloco-de-maia-para-eleicao-ao-comando-da-camara.shtml
-2020-12-18 23:37:17,575          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/partidos-de-oposicao-anunciam-apoio-ao-bloco-de-maia-para-eleicao-ao-comando-da-camara.shtml
-2020-12-18 23:37:17,757          root     INFO: Replying to: 1340078714533654528
-2020-12-18 23:37:17,993          root     INFO: Id to store: 1340078715418632192
-2020-12-18 23:37:17,999          root     INFO: <del>O</del> <ins>Quase duas semanas após o Supremo Tribunal Federal fechar a janela que poderia permitir sua reeleição, o</ins> presidente da Câmara, Rodrigo Maia (DEM-RJ), <del>anunciou nesta sexta-feira (18) que partidos de esquerda aderiram ao</del> <ins>conseguiu atrair para o</ins> seu bloco <del>que lançará</del> <ins>a oposição ao governo, anunciando</ins> um <ins>grupo mais robusto que o do deputado Arthur Lira (PP-AL),</ins> candidato <del>à sucessão no comando da Casa.</del> <ins>de Jair Bolsonaro (sem partido).</ins> Leia mais (12/18/2020 - 17h39)
-2020-12-18 23:37:19,744          root     INFO: Media ready with ids: 1340078721856843779
-2020-12-18 23:37:19,745          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-18 23:37:19,745          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/partidos-de-oposicao-anunciam-apoio-ao-bloco-de-maia-para-eleicao-ao-comando-da-camara.shtml
-2020-12-18 23:37:19,755          root     INFO: Replying to: 1340078715418632192
-2020-12-18 23:37:19,954          root     INFO: Id to store: 1340078723631099906
-2020-12-18 23:37:23,967          root     INFO: Finished script
+2020-12-18 23:55:37,875          root     INFO: Starting script
+2020-12-18 23:55:38,940          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-18 23:55:39,778          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-18 23:55:40,608          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-18 23:55:41,039          root     INFO: Parsing R7 - Brasil
+2020-12-18 23:55:46,805          root     INFO: Finished script
