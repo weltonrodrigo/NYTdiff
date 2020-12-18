@@ -1,6 +1,15 @@
-2020-12-18 00:07:54,603          root     INFO: Starting script
-2020-12-18 00:07:55,716          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-18 00:07:56,351          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-18 00:07:56,987          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-18 00:07:57,172          root     INFO: Parsing R7 - Brasil
-2020-12-18 00:08:02,252          root     INFO: Finished script
+2020-12-18 01:21:40,569          root     INFO: Starting script
+2020-12-18 01:21:41,405          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-18 01:21:42,044          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-18 01:21:42,685          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-18 01:21:43,026          root     INFO: Parsing R7 - Brasil
+2020-12-18 01:21:45,050          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/empresa-americana-apoiada-por-eduardo-bolsonaro-fara-pistolas-com-o-exercito.shtml
+2020-12-18 01:21:45,085          root     INFO: O controlador-geral do <del>Estado</del> <ins>estado</ins> na gestão de Wilson Witzel (PSC), Hormindo Bicudo Neto, afirmou nesta quinta-feira (17) que o alertou sobre a contratação da organização social Iabas. Ele prestou depoimento ao tribunal misto que julga o impeachment do governador <del>afastado.</del> <ins>afastado do Rio.</ins> Leia mais (12/17/2020 - 20h46)
+2020-12-18 01:21:46,909          root     INFO: Media ready with ids: 1339742620516540417
+2020-12-18 01:21:46,909          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-18 01:21:46,909          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/controlador-geral-na-gestao-witzel-diz-que-alertou-governador-afastado-sobre-contratacao-suspeita.shtml
+2020-12-18 01:21:46,916          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/controlador-geral-na-gestao-witzel-diz-que-alertou-governador-afastado-sobre-contratacao-suspeita.shtml
+2020-12-18 01:21:47,099          root     INFO: Replying to: 1339742622252994561
+2020-12-18 01:21:47,378          root     INFO: Id to store: 1339742622945054721
+2020-12-18 01:21:50,920          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/avaliacao-de-bolsonaro-se-mantem-no-melhor-nivel-mostra-datafolha.shtml
+2020-12-18 01:21:50,921          root     INFO: Finished script
