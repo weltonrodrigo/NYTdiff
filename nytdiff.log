@@ -1,6 +1,10 @@
-2020-12-18 15:58:34,379          root     INFO: Starting script
-2020-12-18 15:58:35,392          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-18 15:58:36,210          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-18 15:58:37,029          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-18 15:58:37,243          root     INFO: Parsing R7 - Brasil
-2020-12-18 15:58:41,653          root     INFO: Finished script
+2020-12-18 16:45:20,988          root     INFO: Starting script
+2020-12-18 16:45:22,400          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-18 16:45:23,229          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-18 16:45:24,060          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-18 16:45:24,353          root     INFO: Parsing R7 - Brasil
+2020-12-18 16:45:24,711          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2020/12/gostaria-de-enviar-os-antivacinas-para-o-passado-da-colera-e-da-febre-tifoide.shtml
+2020-12-18 16:45:26,670          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/doria-convida-lula-e-dilma-para-tomarem-vacina-contra-a-covid.shtml
+2020-12-18 16:45:30,805          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/12/bolsonaro-tomou-vacina-contra-o-horror-que-promove-no-pais.shtml
+2020-12-18 16:45:30,813          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10568
+2020-12-18 16:45:30,814          root     INFO: Finished script
