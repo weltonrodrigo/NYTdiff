@@ -1,14 +1,8 @@
-2020-12-19 03:56:42,739          root     INFO: Starting script
-2020-12-19 03:56:43,618          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-19 03:56:44,301          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-19 03:56:44,980          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-19 03:56:45,211          root     INFO: Parsing R7 - Brasil
-2020-12-19 03:56:45,571          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/12/no-limite.shtml
-2020-12-19 03:56:45,585          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2020/12/o-jacare-antivacina.shtml
-2020-12-19 03:56:45,596          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2020/12/sobreviver-ate-2022.shtml
-2020-12-19 03:56:47,229          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2020/12/no-limite.shtml
-2020-12-19 03:56:50,730          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/12/balanco-politico-da-pandemia.shtml
-2020-12-19 03:56:50,735          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/governo-witzel-pagou-divida-em-troca-de-propina-diz-pf.shtml
-2020-12-19 03:56:50,740          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2020/12/cdi-menor-do-que-a-selic.shtml
-2020-12-19 03:56:50,745          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/12/centrao-acima-de-tudo-flavio-acima-de-todos.shtml
-2020-12-19 03:56:50,746          root     INFO: Finished script
+2020-12-19 04:12:14,725          root     INFO: Starting script
+2020-12-19 04:12:15,551          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-19 04:12:16,221          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-19 04:12:16,888          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-19 04:12:17,015          root     INFO: Parsing R7 - Brasil
+2020-12-19 04:12:17,364          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2020/12/venda-direta-de-carros-cai-e-varejo-cresce-no-mercado-nacional.shtml
+2020-12-19 04:12:22,276          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/nulo-mas-estavel.shtml
+2020-12-19 04:12:22,277          root     INFO: Finished script
