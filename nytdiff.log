@@ -1,50 +1,6 @@
-2020-12-19 02:41:29,744          root     INFO: Starting script
-2020-12-19 02:41:30,580          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-19 02:41:31,240          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-19 02:41:31,908          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-19 02:41:32,081          root     INFO: Parsing R7 - Brasil
-2020-12-19 02:41:32,434          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2020/12/business-as-usual.shtml
-2020-12-19 02:41:32,453          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/confusao-sem-fim.shtml
-2020-12-19 02:41:32,463          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2020/12/desafios-para-2021.shtml
-2020-12-19 02:41:32,474          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/assedio-na-alesp.shtml
-2020-12-19 02:41:32,484          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/12/bolsonaro-utiliza-uma-versao-vulgarizada-de-lenin-para-praticar-seu-nacionalismo-de-extrema-direita.shtml
-2020-12-19 02:41:32,495          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciorachkorsky/2020/12/conheca-dona-cobra-sr-porco-e-dom-pavao-do-condominio-da-floresta.shtml
-2020-12-19 02:41:32,504          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/as-escolas-privadas-e-filantropicas-como-as-ligadas-a-igrejas-deveriam-receber-mais-verbas-do-fundeb-sim.shtml
-2020-12-19 02:41:32,515          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/as-escolas-privadas-e-filantropicas-como-as-ligadas-a-igrejas-deveriam-receber-mais-verbas-do-fundeb-nao.shtml
-2020-12-19 02:41:33,854          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/brecha-legal-afrouxa-inclusao-de-pessoas-com-deficiencia-em-escritorios-de-advocacia.shtml
-2020-12-19 02:41:33,867          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/prefeitura-de-sp-abre-licitacao-para-terceirizar-pericias-3-dias-apos-vitoria-de-covas.shtml
-2020-12-19 02:41:33,879          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/deputada-contesta-agencia-de-checagem-que-a-acusou-de-espalhar-falsidades-sobre-covid.shtml
-2020-12-19 02:41:33,890          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/12/giannazi-cede-cadeira-a-deputada-em-comissao-que-vai-decidir-sobre-caso-de-parlamentar-apalpada-na-alesp.shtml
-2020-12-19 02:41:33,899          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/mp-da-casa-verde-e-amarela-cria-contribuicao-para-cartorios.shtml
-2020-12-19 02:41:33,909          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/trabalhos-da-folha-recebem-8-medalhas-em-premiacao-internacional-de-design.shtml
-2020-12-19 02:41:33,918          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2020/12/bolsonaro-utiliza-uma-versao-vulgarizada-de-lenin-para-praticar-seu-nacionalismo-de-extrema-direita.shtml
-2020-12-19 02:41:33,927          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/parlamentares-apoiam-colega-que-apalpou-deputada-em-plenario.shtml
-2020-12-19 02:41:33,938          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/republicanos-e-solidariedade-tentam-voltar-a-administracao-covas.shtml
-2020-12-19 02:41:36,842          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/12/bolsonaro-e-o-nosso-ferris-bueller-o-personagem-de-curtindo-a-vida-adoidado.shtml
-2020-12-19 02:41:36,846          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2020/12/mank-explica-kane.shtml
-2020-12-19 02:41:36,851          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/12/corinthians-foi-majestoso-em-triunfo-sobre-o-sao-paulo.shtml
-2020-12-19 02:41:36,854          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2020/12/as-superquadras-como-modelo-para-operacao-de-veiculos-autonomos.shtml
-2020-12-19 02:41:36,858          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/indicado-pelo-mdb-para-conselho-do-ministerio-publico-tem-curriculo-modesto.shtml
-2020-12-19 02:41:36,862          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/major-olimpio-faz-lobby-por-transportadoras-de-valores-em-novo-estatuto.shtml
-2020-12-19 02:41:36,866          root     INFO: Removed http://noticias.r7.com/brasil/videos/tendo-a-vacina-nas-maos-nos-comecamos-diz-mourao-sobre-inicio-de-vacinacao-contra-a-covid-19-18122020
-2020-12-19 02:41:36,868          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/cotas-raciais-e-paridade-de-genero-na-oab.shtml
-2020-12-19 02:41:36,872          root     INFO: Removed http://noticias.r7.com/brasil/maia-e-culpado-por-perda-da-mp-do-13-do-bolsa-familia-diz-bolsonaro-18122020
-2020-12-19 02:41:36,875          root     INFO: Removed http://noticias.r7.com/brasil/governador-de-rondonia-e-primeira-dama-sao-internados-com-covid-19-18122020
-2020-12-19 02:41:36,878          root     INFO: Removed http://noticias.r7.com/brasil/governo-passa-a-exigir-teste-de-covid-negativo-para-entrar-no-pais-18122020
-2020-12-19 02:41:36,881          root     INFO: Removed http://noticias.r7.com/brasil/mourao-diz-que-decisao-do-stf-de-tornar-vacina-obrigatoria-e-normal-18122020
-2020-12-19 02:41:36,884          root     INFO: Removed http://noticias.r7.com/brasil/governo-cria-incentivo-financeiro-para-assistencia-odontologica-18122020
-2020-12-19 02:41:36,887          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3816
-2020-12-19 02:41:36,891          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-operacao-contra-fraudes-em-contratos-publicos-no-df-e-sp-18122020
-2020-12-19 02:41:36,894          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-lima-ombudsman/2020/12/a-cobertura-da-vacina-da-covid.shtml
-2020-12-19 02:41:36,897          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/alckmin-repete-lula-questiona-provas-da-odebrecht-e-pode-travar-acao-em-que-e-reu.shtml
-2020-12-19 02:41:36,900          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2020/12/estudantes-sao-como-chimpanzes-que-ficam-no-centro-de-um-zoologico.shtml
-2020-12-19 02:41:36,903          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/doria-festeja-vitoria-sobre-aliado-de-bolsonaro-em-entidade-de-prefeitos.shtml
-2020-12-19 02:41:36,906          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/em-reuniao-com-pazuello-pesquisadores-tiveram-microfones-silenciados-e-nao-puderam-falar.shtml
-2020-12-19 02:41:36,909          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-sera-relator-de-acao-do-governo-contra-desoneracao-18122020
-2020-12-19 02:41:36,913          root     INFO: Removed http://noticias.r7.com/brasil/para-reduzir-mortes-operacao-une-fiscalizacao-e-educacao-em-rodovias-18122020
-2020-12-19 02:41:36,916          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2020/12/o-sleeping-giants-no-limiar-do-bem-e-do-mal.shtml
-2020-12-19 02:41:36,920          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/renan-defende-nome-do-mdb-para-disputar-presidencia-do-senado.shtml
-2020-12-19 02:41:36,924          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/meu-desafio-ao-mundo-facam-a-paz-e-tirem-me-do-emprego.shtml
-2020-12-19 02:41:36,926          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/ser-reu-nao-significa-que-foi-condenado-diz-ministro-da-justica-ao-defender-apoio-de-bolsonaro-a-lider-do-centrao.shtml
-2020-12-19 02:41:36,929          root     INFO: Removed http://noticias.r7.com/brasil/maior-fabrica-de-fake-news-esta-na-grande-imprensa-diz-bolsonaro-18122020
-2020-12-19 02:41:36,930          root     INFO: Finished script
+2020-12-19 02:58:12,442          root     INFO: Starting script
+2020-12-19 02:58:13,719          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-19 02:58:14,408          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-19 02:58:15,110          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-19 02:58:15,365          root     INFO: Parsing R7 - Brasil
+2020-12-19 02:58:22,166          root     INFO: Finished script
