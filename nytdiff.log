@@ -1,42 +1,6 @@
-2020-12-20 02:57:27,030          root     INFO: Starting script
-2020-12-20 02:57:27,859          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-20 02:57:28,532          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-20 02:57:29,206          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-20 02:57:29,328          root     INFO: Parsing R7 - Brasil
-2020-12-20 02:57:34,897          root     INFO: New article tracked: http://noticias.r7.com/brasil/orgao-dos-eua-confirma-6-reacoes-alergicas-graves-a-vacina-da-pfizer-19122020
-2020-12-20 02:57:34,910          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-premio-acumulado-sai-para-dois-apostadores-de-sp-e-pb-19122020
-2020-12-20 02:57:34,920          root     INFO: New article tracked: http://noticias.r7.com/brasil/america-rj-anuncia-contratacao-do-meia-richarlyson-de-37-anos-19122020
-2020-12-20 02:57:34,931          root     INFO: New article tracked: http://noticias.r7.com/brasil/macapa-pf-apreende-r-30-mil-que-seriam-para-compra-de-votos-19122020
-2020-12-20 02:57:34,944          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-pressa-por-vacina-contra-covid-19-nao-se-justifica-19122020
-2020-12-20 02:57:34,956          root     INFO: New article tracked: http://noticias.r7.com/brasil/coronavirus-brasil-tem-186356-mortes-e-72-milhoes-de-infectados-19122020
-2020-12-20 02:57:34,965          root     INFO: New article tracked: http://noticias.r7.com/brasil/justica-manda-prefeitura-suspender-interdicoes-na-cracolandia-em-sp-19122020
-2020-12-20 02:57:34,979          root     INFO: New article tracked: http://noticias.r7.com/brasil/janaina-paschoal-evita-comentar-sobre-assedio-prudente-aguardar-19122020
-2020-12-20 02:57:34,987          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-quer-mp-que-exclui-500-mil-brasileiros-de-pagamento-do-bpc-19122020
-2020-12-20 02:57:34,996          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/novas-restricoes-no-reino-unido-apos-mutacao-do-coronavirus-e-autorizacao-de-vacina-na-suica-sao-destaques-do-sabado-19-19122020
-2020-12-20 02:57:35,005          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-adia-ferias-em-meio-a-polemica-sobre-13-do-bolsa-familia-19122020
-2020-12-20 02:57:35,014          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-em-macapa-josiel-tem-44-e-dr-furlan-43-diz-pesquisa-19122020
-2020-12-20 02:57:35,024          root     INFO: New article tracked: http://noticias.r7.com/brasil/numero-de-mortos-por-chuvas-em-santa-catarina-sobe-para-15-19122020
-2020-12-20 02:57:35,033          root     INFO: New article tracked: http://noticias.r7.com/brasil/desoneracao-feninfra-participara-de-julgamento-do-stf-19122020
-2020-12-20 02:57:35,043          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sobrevoa-areas-atingidas-por-temporal-em-santa-catarina-19122020
-2020-12-20 02:57:35,052          root     INFO: New article tracked: http://noticias.r7.com/brasil/eduardo-bolsonaro-so-ingenuo-cre-que-maia-fara-sucessor-19122020
-2020-12-20 02:57:35,061          root     INFO: New article tracked: http://noticias.r7.com/brasil/como-militar-da-ativa-bolsonaro-teria-de-se-vacinar-19122020
-2020-12-20 02:57:35,071          root     INFO: New article tracked: http://noticias.r7.com/brasil/ramagem-levou-segurancas-da-campanha-de-bolsonaro-para-abin-19122020
-2020-12-20 02:57:35,080          root     INFO: New article tracked: http://noticias.r7.com/brasil/cheque-especial-e-emprestimo-estao-mais-baratos-do-que-no-inicio-do-ano-19122020
-2020-12-20 02:57:35,092          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/plano-de-vacinacao-contra-a-covid-e-avanco-do-idh-marcam-a-semana-19122020
-2020-12-20 02:57:35,105          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-texto-base-de-mp-para-acesso-a-vacinas-18122020
-2020-12-20 02:57:35,109          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-auxilio-para-acesso-gratuito-de-estudantes-a-internet-18122020
-2020-12-20 02:57:35,114          root     INFO: Removed http://noticias.r7.com/brasil/governo-libera-r-19-bilhao-para-deputados-em-meio-a-disputa-pela-presidencia-da-camara-18122020
-2020-12-20 02:57:35,117          root     INFO: Removed http://noticias.r7.com/brasil/odebrecht-muda-de-nome-e-de-marca-e-passa-a-se-chamar-novonor-18122020
-2020-12-20 02:57:35,121          root     INFO: Removed http://noticias.r7.com/brasil/moro-pede-copia-de-supostos-relatorios-da-abin-a-flavio-bolsonaro-18122020
-2020-12-20 02:57:35,124          root     INFO: Removed http://noticias.r7.com/brasil/oab-aciona-stf-contra-decreto-que-facilita-compartilhamento-de-dados-18122020
-2020-12-20 02:57:35,128          root     INFO: Removed http://noticias.r7.com/brasil/com-pt-e-psl-maia-anuncia-bloco-de-11-partidos-para-eleicao-na-camara-18122020
-2020-12-20 02:57:35,131          root     INFO: Removed http://noticias.r7.com/brasil/carmen-manda-pgr-apurar-supostos-relatorios-da-abin-a-flavio-bolsonaro-18122020
-2020-12-20 02:57:35,134          root     INFO: Removed http://noticias.r7.com/brasil/governadores-pedem-a-bolsonaro-prorrogacao-de-calamidade-publica-18122020
-2020-12-20 02:57:35,137          root     INFO: Removed http://noticias.r7.com/brasil/procuradoria-recorre-de-decisao-que-beneficia-presos-do-grupo-de-risco-18122020
-2020-12-20 02:57:35,140          root     INFO: Removed http://noticias.r7.com/brasil/associacao-critica-ataque-de-jair-bolsonaro-a-imprensa-18122020
-2020-12-20 02:57:35,143          root     INFO: Removed http://noticias.r7.com/brasil/moraes-determina-prisao-preventiva-do-blogueiro-oswaldo-eustaquio-18122020
-2020-12-20 02:57:35,146          root     INFO: Removed http://noticias.r7.com/brasil/justica-recebe-denuncia-contra-sete-envolvidos-em-cartel-no-setor-de-ti-18122020
-2020-12-20 02:57:35,149          root     INFO: Removed http://noticias.r7.com/brasil/mpf-questiona-fiocruz-sobre-capacidade-de-producao-de-vacina-18122020
-2020-12-20 02:57:35,152          root     INFO: Removed http://noticias.r7.com/brasil/maia-diz-que-bolsonaro-mente-sobre-13-do-bolsa-familia-e-cita-minions-18122020
-2020-12-20 02:57:35,155          root     INFO: Removed http://noticias.r7.com/brasil/plenario-do-stf-vai-decidir-pedido-para-suspender-desoneracao-18122020
-2020-12-20 02:57:35,156          root     INFO: Finished script
+2020-12-20 03:27:43,845          root     INFO: Starting script
+2020-12-20 03:27:44,687          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-20 03:27:45,357          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-20 03:27:46,046          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-20 03:27:46,170          root     INFO: Parsing R7 - Brasil
+2020-12-20 03:27:52,039          root     INFO: Finished script
