@@ -1,6 +1,8 @@
-2020-12-20 03:27:43,845          root     INFO: Starting script
-2020-12-20 03:27:44,687          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-20 03:27:45,357          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-20 03:27:46,046          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-20 03:27:46,170          root     INFO: Parsing R7 - Brasil
-2020-12-20 03:27:52,039          root     INFO: Finished script
+2020-12-20 03:56:20,647          root     INFO: Starting script
+2020-12-20 03:56:21,518          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-20 03:56:22,184          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-20 03:56:22,848          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-20 03:56:23,148          root     INFO: Parsing R7 - Brasil
+2020-12-20 03:56:25,673          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48835
+2020-12-20 03:56:30,264          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/12/bolsonaro-pede-que-governo-divulgue-perigos-de-vacinas-contra-a-covid.shtml
+2020-12-20 03:56:30,264          root     INFO: Finished script
