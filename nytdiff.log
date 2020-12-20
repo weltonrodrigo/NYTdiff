@@ -1,8 +1,13 @@
-2020-12-20 21:25:12,195          root     INFO: Starting script
-2020-12-20 21:25:13,020          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-20 21:25:13,692          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-20 21:25:14,364          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-20 21:25:14,454          root     INFO: Parsing R7 - Brasil
-2020-12-20 21:25:16,559          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/de-virada-dr-furlan-vence-irmao-de-alcolumbre-e-e-eleito-prefeito-de-macapa.shtml
-2020-12-20 21:25:20,301          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/flavio-dino-e-guilherme-boulos-fazem-balanco-de-eleicao-e-falam-em-unir-forcas-em-2022.shtml
-2020-12-20 21:25:20,302          root     INFO: Finished script
+2020-12-20 21:37:54,188          root     INFO: Starting script
+2020-12-20 21:37:55,219          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-20 21:37:56,058          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-20 21:37:56,898          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-20 21:37:57,162          root     INFO: Parsing R7 - Brasil
+2020-12-20 21:37:59,583          root     INFO: Dr. Furlan (Cidadania) foi eleito neste domingo (20) prefeito de Macapá, derrotando no segundo turno da eleição Josiel Alcolumbre (DEM), irmão do presidente do Senado, Davi Alcolumbre (DEM-AP). Com <del>99,29%</del> <ins>100%</ins> das urnas apuradas, Furlan teve <del>55,73%,</del> <ins>55,67%,</ins> contra <del>44,27%</del> <ins>44,33%</ins> de Josiel. Leia mais (12/20/2020 - 18h20)
+2020-12-20 21:38:01,408          root     INFO: Media ready with ids: 1340773473644326918
+2020-12-20 21:38:01,409          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-20 21:38:01,409          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/de-virada-dr-furlan-vence-irmao-de-alcolumbre-e-e-eleito-prefeito-de-macapa.shtml
+2020-12-20 21:38:01,418          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/de-virada-dr-furlan-vence-irmao-de-alcolumbre-e-e-eleito-prefeito-de-macapa.shtml
+2020-12-20 21:38:01,687          root     INFO: Replying to: 1340773475431182336
+2020-12-20 21:38:01,970          root     INFO: Id to store: 1340773476462944257
+2020-12-20 21:38:06,288          root     INFO: Finished script
