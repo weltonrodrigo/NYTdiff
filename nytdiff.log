@@ -1,20 +1,6 @@
-2020-12-21 13:53:05,679          root     INFO: Starting script
-2020-12-21 13:53:06,549          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-21 13:53:07,241          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-21 13:53:07,921          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-21 13:53:08,041          root     INFO: Parsing R7 - Brasil
-2020-12-21 13:53:08,515          root     INFO: Em relação às recentes eleições municipais, afirmou-se o centro como vitorioso, gerando-se a expectativa de que essa tendência de fuga dos extremos se mantenha em 2022. <del>Não é difícil constatarmos, no momento político brasileiro, alguns fenômenos abordados por Norberto Bobbio no livro Direita e Esquerda: razões e significados de uma distinção política. Essa fuga dos extremos de que falamos, por exemplo, pode ter resultado do seguinte movimento: o extremismo de esquerda deslocou a esquerda mais para a direita e o extremismo de direita deslocou a direita mais para a esquerda.</del> Leia mais (12/20/2020 - 23h15)
-2020-12-21 13:53:10,335          root     INFO: Media ready with ids: 1341018877770215427
-2020-12-21 13:53:10,336          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-21 13:53:10,336          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/12/o-centro-e-o-centrao.shtml
-2020-12-21 13:53:10,346          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/12/o-centro-e-o-centrao.shtml
-2020-12-21 13:53:10,515          root     INFO: Replying to: 1341018879401881607
-2020-12-21 13:53:10,738          root     INFO: Id to store: 1341018880102322178
-2020-12-21 13:53:12,920          root     INFO: Em relação às recentes eleições municipais, afirmou-se o centro como vitorioso, gerando-se a expectativa de que essa tendência de fuga dos extremos se mantenha em 2022. <del>Não é difícil constatarmos, no momento político brasileiro, alguns fenômenos abordados por Norberto Bobbio no livro Direita e Esquerda: razões e significados de uma distinção política. Essa fuga dos extremos de que falamos, por exemplo, pode ter resultado do seguinte movimento: o extremismo de esquerda deslocou a esquerda mais para a direita e o extremismo de direita deslocou a direita mais para a esquerda.</del> Leia mais (12/20/2020 - 23h15)
-2020-12-21 13:53:14,669          root     INFO: Media ready with ids: 1341018896049070081
-2020-12-21 13:53:14,670          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-21 13:53:14,670          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/12/o-centro-e-o-centrao.shtml
-2020-12-21 13:53:14,678          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/12/o-centro-e-o-centrao.shtml
-2020-12-21 13:53:14,838          root     INFO: Replying to: 1341018897575718913
-2020-12-21 13:53:15,054          root     INFO: Id to store: 1341018898230112257
-2020-12-21 13:53:19,447          root     INFO: Finished script
+2020-12-21 13:59:54,081          root     INFO: Starting script
+2020-12-21 13:59:54,934          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-21 13:59:55,629          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-21 13:59:56,309          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-21 13:59:56,443          root     INFO: Parsing R7 - Brasil
+2020-12-21 14:00:03,232          root     INFO: Finished script
