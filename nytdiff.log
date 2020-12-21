@@ -1,6 +1,11 @@
-2020-12-21 15:58:56,926          root     INFO: Starting script
-2020-12-21 15:58:57,803          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-21 15:58:58,454          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-21 15:58:59,106          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-21 15:58:59,438          root     INFO: Parsing R7 - Brasil
-2020-12-21 15:59:05,565          root     INFO: Finished script
+2020-12-21 16:46:18,695          root     INFO: Starting script
+2020-12-21 16:46:19,693          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-21 16:46:20,508          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-21 16:46:21,314          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-21 16:46:21,578          root     INFO: Parsing R7 - Brasil
+2020-12-21 16:46:23,447          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/vereadores-votam-aumento-salarial-de-46-para-o-prefeito-bruno-covas.shtml
+2020-12-21 16:46:24,899          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/para-proteger-floresta-parlamentares-de-brasil-e-mais-sete-paises-reativam-o-parlamento-amazonico.shtml
+2020-12-21 16:46:26,210          root     INFO: New article tracked: http://noticias.r7.com/brasil/congresso-dos-eua-chega-a-acordo-sobre-pacote-de-apoio-a-economia-20122020
+2020-12-21 16:46:26,480          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48788
+2020-12-21 16:46:26,483          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/10/salles-defende-um-combinado-de-bois-fogo-e-produtos-quimicos-para-evitar-novas-queimadas-no-pantanal.shtml
+2020-12-21 16:46:26,484          root     INFO: Finished script
