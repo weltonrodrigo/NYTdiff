@@ -1,50 +1,10 @@
-2020-12-21 02:50:42,719          root     INFO: Starting script
-2020-12-21 02:50:43,535          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-21 02:50:44,191          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-21 02:50:44,852          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-21 02:50:45,079          root     INFO: Parsing R7 - Brasil
-2020-12-21 02:50:45,431          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/e-os-r-89-mil.shtml
-2020-12-21 02:50:45,443          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2020/12/mentira-se-combate-com-a-verdade.shtml
-2020-12-21 02:50:45,453          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/12/o-centro-e-o-centrao.shtml
-2020-12-21 02:50:45,464          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/12/quem-levara-o-credito.shtml
-2020-12-21 02:50:45,473          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2020/12/brasil-da-salto-em-inclusao-digital.shtml
-2020-12-21 02:50:45,483          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/arco-iris-ambiguo.shtml
-2020-12-21 02:50:45,493          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2020/12/comprar-ou-alugar-imovel.shtml
-2020-12-21 02:50:45,503          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2020/12/mundo-chamado-ontem.shtml
-2020-12-21 02:50:45,512          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/12/sao-paulo-e-flamengo-disputam-titulo-e-podem-fazer-o-maior-jogo-do-confronto.shtml
-2020-12-21 02:50:45,524          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2020/12/como-tornar-permanentes-as-licoes-aprendidas-com-a-pandemia.shtml
-2020-12-21 02:50:45,533          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/nos-nao-vamos-esquecer.shtml
-2020-12-21 02:50:45,561          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/organizar-a-fila-da-vacina.shtml
-2020-12-21 02:50:47,260          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/ministerio-da-defesa-quer-zerar-tarifa-criada-para-evitar-contrabando-de-armas.shtml
-2020-12-21 02:50:47,268          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/por-lira-republicanos-promete-a-lider-do-podemos-apoio-a-vaga-no-senado-em-2022.shtml
-2020-12-21 02:50:47,279          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/bolsonaro-desistiu-de-apoiar-rodrigo-pacheco-no-senado-dizem-parlamentares.shtml
-2020-12-21 02:50:47,288          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/troca-de-partido-de-deputado-que-apalpou-colega-entra-em-banho-maria.shtml
-2020-12-21 02:50:47,297          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/incertezas-sobre-pautas-de-costumes-e-em-alinhamento-com-guedes-rondam-novo-congresso.shtml
-2020-12-21 02:50:47,307          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2020/12/o-centro-e-o-centrao.shtml
-2020-12-21 02:50:47,317          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/12/quem-levara-o-credito.shtml
-2020-12-21 02:50:47,327          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2020/12/apoio-da-esquerda-ao-grupo-de-maia-foi-uma-decisao-acertada.shtml
-2020-12-21 02:50:47,336          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/apesar-de-campanha-de-maia-parlamentares-nao-creem-em-convocacao-para-trabalho-no-recesso.shtml
-2020-12-21 02:50:47,344          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/empresarios-pedem-para-entrar-como-parte-interessada-em-acao-no-stf-contra-desoneracao.shtml
-2020-12-21 02:50:51,205          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/direito-a-blasfemia.shtml
-2020-12-21 02:50:51,209          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/brasil-em-baixa.shtml
-2020-12-21 02:50:51,214          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/a-hora-e-a-vez-da-eficiencia-energetica.shtml
-2020-12-21 02:50:51,217          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2020/12/so-vacinacao-em-massa-pode-salvar-o-pais.shtml
-2020-12-21 02:50:51,219          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/atila-iamarino/2020/12/o-futuro-das-vacinas-acontece-la-fora.shtml
-2020-12-21 02:50:51,223          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/nova-e-grave-suspeita.shtml
-2020-12-21 02:50:51,226          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/mesmo-com-vacina-governo-de-sp-preve-janeiro-de-internacoes-em-alta.shtml
-2020-12-21 02:50:51,229          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2020/12/a-anvisa-no-meio-da-guerra-politica-da-vacina-entre-bolsonaro-e-doria-ouca-podcast.shtml
-2020-12-21 02:50:51,232          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/com-aval-de-bolsonaro-nucleo-ideologico-resiste-a-lider-do-centrao-e-tenta-emplacar-tereza-cristina.shtml
-2020-12-21 02:50:51,235          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/visita-de-bolsonaro-a-sp-e-previa-de-como-sera-campanha-em-2022.shtml
-2020-12-21 02:50:51,238          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/12/bolsonaro-e-mourao-mostram-o-caos.shtml
-2020-12-21 02:50:51,241          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/membros-da-cupula-do-dem-ja-preveem-cenario-em-que-partido-nao-comandara-nem-senado-nem-camara.shtml
-2020-12-21 02:50:51,244          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/ministerio-publico-do-rio-quer-contratar-musicos-para-compor-hino-sem-licitacao.shtml
-2020-12-21 02:50:51,247          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/butantan-negocia-venda-de-vacinas-para-argentina-que-pede-desconto.shtml
-2020-12-21 02:50:51,250          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2020/12/tudo-o-que-presta-num-ser-humano-e-o-que-nao-cabe-num-post-de-instagram.shtml
-2020-12-21 02:50:51,253          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/confira-a-divisao-de-blocos-na-disputa-pela-sucessao-de-maia-na-presidencia-da-camara.shtml
-2020-12-21 02:50:51,256          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48781
-2020-12-21 02:50:51,259          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2020/12/tecnicos-de-grandes-equipes-sentem-se-ainda-mais-importantes-do-que-sao.shtml
-2020-12-21 02:50:51,262          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/economia-solidaria-para-gerar-postos-de-trabalho-e-renda.shtml
-2020-12-21 02:50:51,265          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antoniodelfim/2020/12/o-stf-abaixo-da-constituicao.shtml
-2020-12-21 02:50:51,268          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2020/12/nao-ha-bolha-no-mercado-de-acoes.shtml
-2020-12-21 02:50:51,271          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/12/bolsonaro-pede-que-governo-divulgue-perigos-de-vacinas-contra-a-covid.shtml
-2020-12-21 02:50:51,272          root     INFO: Finished script
+2020-12-21 03:06:10,730          root     INFO: Starting script
+2020-12-21 03:06:11,890          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-21 03:06:12,570          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-21 03:06:14,251          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-21 03:06:14,439          root     INFO: Parsing R7 - Brasil
+2020-12-21 03:06:14,822          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2020/12/a-paridade-de-genero-e-o-melhor-caminho-para-combater-o-machismo-e-o-assedio-no-legislativo.shtml
+2020-12-21 03:06:16,828          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/ditadura-tratou-presos-com-dignidade-afirma-bolsonaro-em-video.shtml
+2020-12-21 03:06:21,027          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/bolsonaro-tem-35-de-otimobom-e-33-de-ruimpessimo-mostra-pesquisa-ibope.shtml
+2020-12-21 03:06:21,032          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/12/como-deve-ser-a-fila-da-vacina.shtml
+2020-12-21 03:06:21,033          root     INFO: Finished script
