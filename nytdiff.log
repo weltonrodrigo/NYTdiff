@@ -1,9 +1,13 @@
-2020-12-21 17:21:02,745          root     INFO: Starting script
-2020-12-21 17:21:03,803          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-21 17:21:04,466          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-21 17:21:05,139          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-21 17:21:05,339          root     INFO: Parsing R7 - Brasil
-2020-12-21 17:21:07,331          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/vereador-de-sp-pede-um-minuto-de-silencio-para-beth-goulart-e-e-advertido.shtml
-2020-12-21 17:21:10,756          root     INFO: Removed http://noticias.r7.com/brasil/congresso-dos-eua-chega-a-acordo-sobre-pacote-de-apoio-a-economia-20122020
-2020-12-21 17:21:10,763          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/para-enfrentar-grupo-de-alcolumbre-mdb-diz-que-tera-candidato-unico-ao-comando-do-senado.shtml
-2020-12-21 17:21:10,763          root     INFO: Finished script
+2020-12-21 17:54:49,879          root     INFO: Starting script
+2020-12-21 17:54:50,699          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-21 17:54:51,377          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-21 17:54:52,050          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-21 17:54:52,159          root     INFO: Parsing R7 - Brasil
+2020-12-21 17:54:54,470          root     INFO: Vereador de SP <ins>comete gafe,</ins> pede um minuto de silêncio para Beth Goulart e é advertido
+2020-12-21 17:54:56,187          root     INFO: Media ready with ids: 1341079719836585984
+2020-12-21 17:54:56,187          root     INFO: Text to tweet: Modificação do Título
+2020-12-21 17:54:56,187          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/vereador-de-sp-pede-um-minuto-de-silencio-para-beth-goulart-e-e-advertido.shtml
+2020-12-21 17:54:56,198          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/vereador-de-sp-pede-um-minuto-de-silencio-para-beth-goulart-e-e-advertido.shtml
+2020-12-21 17:54:56,376          root     INFO: Replying to: 1341079721413636096
+2020-12-21 17:54:56,614          root     INFO: Id to store: 1341079722080518147
+2020-12-21 17:55:00,459          root     INFO: Finished script
