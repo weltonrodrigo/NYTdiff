@@ -1,10 +1,9 @@
-2020-12-22 10:01:29,923          root     INFO: Starting script
-2020-12-22 10:01:31,165          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-22 10:01:32,007          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-22 10:01:32,835          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-22 10:01:33,135          root     INFO: Parsing R7 - Brasil
-2020-12-22 10:01:33,504          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/desigualdades/2020/12/entre-desafios-e-avancos-a-representacao-negra-na-politica-cresce-e-a-violencia-politica-tambem.shtml
-2020-12-22 10:01:35,498          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/prefeito-marcelo-crivella-e-preso-em-casa-no-rio.shtml
-2020-12-22 10:01:39,647          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/melhor-que-nunca.shtml
-2020-12-22 10:01:39,652          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/grupo-direitos-ja-cobra-independencia-do-congresso.shtml
-2020-12-22 10:01:39,653          root     INFO: Finished script
+2020-12-22 10:34:21,577          root     INFO: Starting script
+2020-12-22 10:34:22,618          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-22 10:34:23,472          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-22 10:34:24,312          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-22 10:34:24,722          root     INFO: Parsing R7 - Brasil
+2020-12-22 10:34:25,097          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2020/12/a-saga-de-fazer-um-premio-em-hell-office-em-jornada-100-virtual.shtml
+2020-12-22 10:34:30,976          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/prefeito-marcelo-crivella-e-preso-em-casa-no-rio.shtml
+2020-12-22 10:34:30,981          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/12/bolsonaro-investe-em-pauta-ideologica-para-amenizar-acordo-com-centrao.shtml
+2020-12-22 10:34:30,982          root     INFO: Finished script
