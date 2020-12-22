@@ -1,13 +1,27 @@
-2020-12-22 01:12:19,236          root     INFO: Starting script
-2020-12-22 01:12:20,074          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-22 01:12:20,743          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-22 01:12:21,413          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-22 01:12:21,637          root     INFO: Parsing R7 - Brasil
-2020-12-22 01:12:22,046          root     INFO: Nunca invejei tanto um autor como Nelson Rodrigues. Agora, nos 40 anos da morte, posso confessar. Conheci a prosa de Nelson por via paterna e corri para a máquina de escrever. Meus textos eram polvilhados por confissões violentas, frases que se corrigiam a si próprias ("não, não era isso que eu queria escrever" etc.) e algumas imagens que eram plágios descarados (sol derretendo catedrais; tempestades de quinto ato do "Rigoletto"). O mimetismo era tão intenso, e tão patético, que até relatava as minhas relações com uma úlcera imaginária, que eu tratava a pires de leite. <del>Assim era a adolescência. Só na idade adulta percebemos como Nelson é inimitável. No estilo, sim, mas sobretudo nas obsessões. Se Deus vomita os mornos, Nelson Rodrigues era o antimorno por excelência -o mais russo dos brasileiros, o mais brasileiro dos russos. Nos últimos dias, só para celebrar a efeméride, regressei aos livros dele. Duas conclusões fulminantes: Nelson não envelheceu uma ruga; Nelson seria impublicável na imprensa de hoje. A primeira conclusão está diretamente relacionada com a segunda. Nelson não envelheceu nos textos que importam: aqueles que lidam com a covardia da nossa modernidade. E de onde vem essa covardia? Da emergência implacável do idiota, que o autor relata em tom épico, digno de uma ópera. O idiota, antigamente, sabia que era idiota e não pretendia ser gênio. Havia ali uma humildade prudente. Mas eis que um deles, igual a um macaco de Kubrick, resolveu subir a um caixote para falar as suas imbecilidades. Como um flautista encantado, ele convocou os restantes idiotas para que saíssem da sombra e se reunissem à luz do dia. Foi então que aconteceu a segunda epifania: os idiotas descobriram que eram milhares, milhões. A maioria. O mundo poderia ser moldado segundo as suas vontades e opiniões. Isso, que já é dramático, se tornou trágico com a covardia dos melhores. "O medo começa nos lares, e dos lares passa para a igreja, e da igreja passa para as universidades, e destas para as redações, e daí para o romance, para o teatro, para o cinema", escreve o autor no espantoso texto "O Ex-covarde". E em que consiste a ética do idiota?</del> Leia mais (12/21/2020 - 12h00)
-2020-12-22 01:12:24,366          root     INFO: Media ready with ids: 1341189811932176389
-2020-12-22 01:12:24,367          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-22 01:12:24,367          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2020/12/nelson-rodrigues-nao-envelheceu-uma-ruga-mas-seria-impublicavel-hoje.shtml
-2020-12-22 01:12:24,377          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2020/12/nelson-rodrigues-nao-envelheceu-uma-ruga-mas-seria-impublicavel-hoje.shtml
-2020-12-22 01:12:24,549          root     INFO: Replying to: 1341189814222262272
-2020-12-22 01:12:24,830          root     INFO: Id to store: 1341189814926913538
-2020-12-22 01:12:30,823          root     INFO: Finished script
+2020-12-22 02:10:14,422          root     INFO: Starting script
+2020-12-22 02:10:15,291          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-22 02:10:15,957          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-22 02:10:16,622          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-22 02:10:16,838          root     INFO: Parsing R7 - Brasil
+2020-12-22 02:10:19,285          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/bia-kicis-ameaca-processar-folha-por-artigo-e-diz-que-corre-risco.shtml
+2020-12-22 02:10:23,820          root     INFO: Removed http://noticias.r7.com/brasil/ipea-vacinacao-pode-influenciar-recuperacao-da-economia-21122020
+2020-12-22 02:10:23,825          root     INFO: Removed http://noticias.r7.com/brasil/com-nova-variante-de-coronavirus-fora-de-controle-brasil-continua-a-receber-voos-do-reino-unido-21122020
+2020-12-22 02:10:23,829          root     INFO: Removed http://noticias.r7.com/brasil/justica-prorroga-emprego-da-forca-nacional-em-apoio-a-cinco-estados-21122020
+2020-12-22 02:10:23,833          root     INFO: Removed http://noticias.r7.com/brasil/preco-medio-do-etanol-sobe-na-semana-em-15-estados-diz-anp-21122020
+2020-12-22 02:10:23,836          root     INFO: Removed http://noticias.r7.com/brasil/vale-recebe-licencas-para-inicio-de-construcao-em-minas-gerais-21122020
+2020-12-22 02:10:23,839          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48799
+2020-12-22 02:10:23,842          root     INFO: Removed http://noticias.r7.com/brasil/para-aliados-regimento-do-stf-garante-poder-a-fux-no-recesso-21122020
+2020-12-22 02:10:23,845          root     INFO: Removed http://noticias.r7.com/brasil/pai-da-ficha-limpa-liminar-do-stf-premia-velha-politica-e-corrupcao-21122020
+2020-12-22 02:10:23,849          root     INFO: Removed http://noticias.r7.com/brasil/no-rio-bolsonaro-concentra-agenda-em-evento-militar-21122020
+2020-12-22 02:10:23,855          root     INFO: Removed http://noticias.r7.com/brasil/premio-da-mega-da-virada-deve-chegar-a-r-300-milhoes-21122020
+2020-12-22 02:10:23,859          root     INFO: Removed http://noticias.r7.com/brasil/coral-solidario-apresenta-releitura-da-novela-jesus-ao-vivo-veja-21122020
+2020-12-22 02:10:23,867          root     INFO: Removed http://noticias.r7.com/brasil/consumidores-esperam-inflacao-de-52-em-12-meses-aponta-fgv-21122020
+2020-12-22 02:10:23,871          root     INFO: Removed http://noticias.r7.com/brasil/pgr-recorre-contra-suspensao-de-trecho-da-lei-da-ficha-limpa-21122020
+2020-12-22 02:10:23,874          root     INFO: Removed http://noticias.r7.com/brasil/arrecadacao-de-impostos-tem-melhor-novembro-em-6-anos-21122020
+2020-12-22 02:10:23,877          root     INFO: Removed http://noticias.r7.com/brasil/lei-que-altera-definicao-do-crime-de-denunciacao-caluniosa-e-sancionada-21122020
+2020-12-22 02:10:23,881          root     INFO: Removed http://noticias.r7.com/brasil/aberta-consulta-sobre-flexibilizacao-da-retransmissao-da-voz-do-brasil-21122020
+2020-12-22 02:10:23,884          root     INFO: Removed http://noticias.r7.com/brasil/mourao-ve-como-especulacao-fala-de-hacker-sobre-ministros-do-stf-21122020
+2020-12-22 02:10:23,887          root     INFO: Removed http://noticias.r7.com/brasil/ibovespa-cai-18-e-dolar-sobe-com-temores-sobre-mutacao-de-virus-21122020
+2020-12-22 02:10:23,890          root     INFO: Removed http://noticias.r7.com/brasil/deputado-pede-restricao-da-entrada-de-pessoas-vindas-do-reino-unido-21122020
+2020-12-22 02:10:23,893          root     INFO: Removed http://noticias.r7.com/brasil/governo-bolsonaro-colocou-de-lado-promessas-de-campanha-21122020
+2020-12-22 02:10:23,893          root     INFO: Finished script
