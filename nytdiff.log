@@ -1,15 +1,10 @@
-2020-12-22 16:51:36,427          root     INFO: Starting script
-2020-12-22 16:51:37,324          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-22 16:51:38,007          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-22 16:51:38,685          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-22 16:51:39,005          root     INFO: Parsing R7 - Brasil
-2020-12-22 16:51:41,616          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10582
-2020-12-22 16:51:41,798          root     INFO: O presidente Jair Bolsonaro promoveu na noite desta segunda-feira (21) um jantar de confraternização no Forte Marechal Luz, em São Francisco do Sul (SC). Bolsonaro chegou <del>no</del> <ins>ao</ins> litoral catarinense no sábado, após sobrevoar áreas atingidas pelas fortes chuvas da semana passada. Leia mais (12/21/2020 - 23h15)
-2020-12-22 16:51:43,700          root     INFO: Media ready with ids: 1341426200573599750
-2020-12-22 16:51:43,701          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-22 16:51:43,701          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/sem-mascaras-bolsonaro-organiza-jantar-em-santa-catarina-com-hang-e-ratinho.shtml
-2020-12-22 16:51:43,709          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/sem-mascaras-bolsonaro-organiza-jantar-em-santa-catarina-com-hang-e-ratinho.shtml
-2020-12-22 16:51:43,928          root     INFO: Replying to: 1341426202507141122
-2020-12-22 16:51:44,171          root     INFO: Id to store: 1341426203371180041
-2020-12-22 16:51:48,260          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/governo-acena-com-ministerio-para-republicanos-antes-de-deputado-desistir-de-presidir-camara.shtml
-2020-12-22 16:51:48,261          root     INFO: Finished script
+2020-12-22 17:30:17,978          root     INFO: Starting script
+2020-12-22 17:30:18,843          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-22 17:30:19,519          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-22 17:30:20,414          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-22 17:30:20,605          root     INFO: Parsing R7 - Brasil
+2020-12-22 17:30:20,936          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/um-ano-que-exigiu-coragem-e-esperanca.shtml
+2020-12-22 17:30:20,948          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2020/12/o-que-se-passa-na-cabeca-de-quem-se-embola-para-fazer-compras-de-natal.shtml
+2020-12-22 17:30:27,328          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/mais-que-pirraca.shtml
+2020-12-22 17:30:27,343          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/12/selecao-dos-melhores-jogadores-da-historia-comete-pecados-mortais-insuperaveis.shtml
+2020-12-22 17:30:27,344          root     INFO: Finished script
