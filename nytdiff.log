@@ -1,18 +1,15 @@
-2020-12-22 21:02:00,396          root     INFO: Starting script
-2020-12-22 21:02:01,641          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-22 21:02:02,490          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-22 21:02:03,336          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-22 21:02:03,708          root     INFO: Parsing R7 - Brasil
-2020-12-22 21:02:10,453          root     INFO: Alimentação e bebidas <del>foram, novamente,</del> <ins>foram novamente</ins> os vilões na medição de dezembro. No acumulado de 2020, índice foi de 3,91%, maior taxa anual desde 2016
-2020-12-22 21:02:12,331          root     INFO: Media ready with ids: 1341489235338137600
-2020-12-22 21:02:12,331          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-22 21:02:12,332          root     INFO: Article id: http://noticias.r7.com/brasil/previa-da-inflacao-acelera-e-registra-maior-nivel-desde-junho-de-2018-22122020
-2020-12-22 21:02:12,340          root     INFO: Tweeting url: http://noticias.r7.com/brasil/previa-da-inflacao-acelera-e-registra-maior-nivel-desde-junho-de-2018-22122020
-2020-12-22 21:02:12,636          root     INFO: Replying to: 1341489237544333312
-2020-12-22 21:02:12,920          root     INFO: Id to store: 1341489238500622336
-2020-12-22 21:02:13,248          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-economia-aponta-deficit-primario-de-r-844-bi-em-2020-22122020
-2020-12-22 21:02:13,252          root     INFO: Removed http://noticias.r7.com/brasil/em-nota-republicanos-afirma-acreditar-na-idoneidade-de-crivella-22122020
-2020-12-22 21:02:13,256          root     INFO: Removed http://noticias.r7.com/brasil/por-que-a-apreensao-de-drogas-e-recorde-em-2020-e-o-que-isso-significa-22122020
-2020-12-22 21:02:13,259          root     INFO: Removed http://noticias.r7.com/brasil/medidas-contra-a-covid-19-tiveram-impacto-de-r-6205-bi-22122020
-2020-12-22 21:02:13,263          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-pl-que-cria-fundos-de-investimento-para-fiagro-22122020
-2020-12-22 21:02:13,264          root     INFO: Finished script
+2020-12-22 21:27:44,519          root     INFO: Starting script
+2020-12-22 21:27:45,340          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-22 21:27:45,999          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-22 21:27:46,656          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-22 21:27:46,911          root     INFO: Parsing R7 - Brasil
+2020-12-22 21:27:47,244          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2020/12/e-preciso-cancelar-o-natal-deste-ano-o-sol-ainda-nao-esta-pronto-pra-nascer.shtml
+2020-12-22 21:27:49,304          root     INFO: <del>Diante</del> <ins>Dante</ins> da prisão do prefeito do Rio de Janeiro, Marcelo Crivella (Republicanos)?, nesta terça-feira (22), o Palácio do Planalto tem procurado blindar o presidente Jair Bolsonaro (sem partido), mas reconhece que é difícil evitar o desgaste com a narrativa de mais uma derrota do chefe do Executivo federal. Leia mais (12/22/2020 - 12h10)
+2020-12-22 21:27:51,045          root     INFO: Media ready with ids: 1341495689306619905
+2020-12-22 21:27:51,045          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-22 21:27:51,046          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/planalto-procura-blindar-bolsonaro-mas-reconhece-desgaste-com-prisao-de-crivella.shtml
+2020-12-22 21:27:51,055          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/planalto-procura-blindar-bolsonaro-mas-reconhece-desgaste-com-prisao-de-crivella.shtml
+2020-12-22 21:27:51,225          root     INFO: Replying to: 1341495690871103488
+2020-12-22 21:27:51,454          root     INFO: Id to store: 1341495691563192320
+2020-12-22 21:27:55,712          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/solange-srour/2020/12/pais-do-nem-nem-tem-futuro-incerto.shtml
+2020-12-22 21:27:55,713          root     INFO: Finished script
