@@ -1,21 +1,8 @@
-2020-12-23 18:52:41,336          root     INFO: Starting script
-2020-12-23 18:52:42,136          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-23 18:52:42,773          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-23 18:52:43,417          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-23 18:52:44,025          root     INFO: Parsing R7 - Brasil
-2020-12-23 18:52:50,292          root     INFO: Removed http://noticias.r7.com/brasil/cnj-regulamenta-prisao-domiciliar-a-responsaveis-por-criancas-23122020
-2020-12-23 18:52:50,296          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-rejeita-pedido-do-stf-sobre-7-mil-doses-da-vacina-contra-covid-23122020
-2020-12-23 18:52:50,301          root     INFO: Removed http://noticias.r7.com/brasil/programa-anjos-da-madrugada-leva-ceia-a-167-mil-em-situacao-de-rua-23122020
-2020-12-23 18:52:50,305          root     INFO: Removed http://noticias.r7.com/brasil/stf-pede-7-mil-doses-da-vacina-contra-covid-19-para-funcionarios-23122020
-2020-12-23 18:52:50,308          root     INFO: Removed http://noticias.r7.com/brasil/bancada-liberal-exige-reformas-para-apoiar-candidato-na-camara-23122020
-2020-12-23 18:52:50,310          root     INFO: Removed http://noticias.r7.com/brasil/desemprego-atinge-14-milhoes-em-novembro-maior-nivel-da-pandemia-23122020
-2020-12-23 18:52:50,313          root     INFO: Removed http://noticias.r7.com/brasil/filho-do-fundador-das-casas-bahia-e-acusado-de-estupro-e-aliciamento-23122020
-2020-12-23 18:52:50,317          root     INFO: Removed http://noticias.r7.com/brasil/inss-autoriza-antecipacao-de-pagamentos-de-beneficios-no-ap-23122020
-2020-12-23 18:52:50,320          root     INFO: Removed http://noticias.r7.com/brasil/covid-resolucao-fixa-regras-de-pedidos-para-precificacao-de-vacinas-23122020
-2020-12-23 18:52:50,323          root     INFO: Removed http://noticias.r7.com/brasil/guedes-defende-vacinacao-para-salvar-vidas-e-pela-economia-23122020
-2020-12-23 18:52:50,326          root     INFO: Removed http://noticias.r7.com/brasil/juros-do-cartao-em-novembro-tem-segunda-alta-mensal-seguida-23122020
-2020-12-23 18:52:50,329          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-fara-live-seguida-de-pronunciamento-de-natal-na-quinta-23122020
-2020-12-23 18:52:50,332          root     INFO: Removed http://noticias.r7.com/brasil/terceiro-transformador-de-energia-comeca-a-funcionar-no-amapa-23122020
-2020-12-23 18:52:50,335          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-operacao-para-investigar-ameacas-a-ministros-do-stf-23122020
-2020-12-23 18:52:50,338          root     INFO: Removed http://noticias.r7.com/brasil/camara-encerra-votacoes-de-2020-sem-pec-dos-municipios-23122020
-2020-12-23 18:52:50,338          root     INFO: Finished script
+2020-12-23 19:15:54,998          root     INFO: Starting script
+2020-12-23 19:15:55,827          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-23 19:15:56,497          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-23 19:15:57,169          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-23 19:15:57,382          root     INFO: Parsing R7 - Brasil
+2020-12-23 19:15:59,195          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/rodrigo-maia-diz-a-aliados-que-baleia-rossi-sera-candidato-do-bloco.shtml
+2020-12-23 19:16:02,310          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/kassab-deixa-casa-civil-de-doria-depois-de-quase-2-anos-e-mira-2022.shtml
+2020-12-23 19:16:02,310          root     INFO: Finished script
