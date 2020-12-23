@@ -1,6 +1,34 @@
-2020-12-23 16:55:58,970          root     INFO: Starting script
-2020-12-23 16:55:59,833          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-23 16:56:00,509          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-23 16:56:01,181          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-23 16:56:01,339          root     INFO: Parsing R7 - Brasil
-2020-12-23 16:56:07,958          root     INFO: Finished script
+2020-12-23 17:37:31,812          root     INFO: Starting script
+2020-12-23 17:37:32,651          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-23 17:37:33,336          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-23 17:37:34,015          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-23 17:37:34,155          root     INFO: Parsing R7 - Brasil
+2020-12-23 17:37:34,491          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2020/12/cancoes-de-natal-para-aglomerar-na-pandemia-tem-hits-para-este-ano.shtml
+2020-12-23 17:37:36,320          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48847
+2020-12-23 17:37:36,331          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/tribunal-de-contas-do-amazonas-manda-governo-sustar-pagamentos-por-arvore-de-natal-e-questiona-gastos-na-pandemia.shtml
+2020-12-23 17:37:36,364          root     INFO: <del>Doria tira licença e vai a Miami; vice-governador</del> <ins>Vice-governador</ins> recebe resultado positivo para <del>Covid-19</del> <ins>Covid-19; Doria cancela licença e anuncia retorno de Miami</ins>
+2020-12-23 17:37:38,105          root     INFO: Media ready with ids: 1341800141473378306
+2020-12-23 17:37:38,106          root     INFO: Text to tweet: Modificação do Título
+2020-12-23 17:37:38,106          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/doria-tira-licenca-e-vai-a-miami-vice-governador-recebe-resultado-positivo-para-covid-19.shtml
+2020-12-23 17:37:38,112          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/doria-tira-licenca-e-vai-a-miami-vice-governador-recebe-resultado-positivo-para-covid-19.shtml
+2020-12-23 17:37:38,306          root     INFO: Replying to: 1341800143142739970
+2020-12-23 17:37:38,542          root     INFO: Id to store: 1341800143935451137
+2020-12-23 17:37:42,108          root     INFO: New article tracked: http://noticias.r7.com/brasil/bancada-liberal-exige-reformas-para-apoiar-candidato-na-camara-23122020
+2020-12-23 17:37:42,128          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-fara-live-seguida-de-pronunciamento-de-natal-na-quinta-23122020
+2020-12-23 17:37:42,141          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-defende-vacinacao-para-salvar-vidas-e-pela-economia-23122020
+2020-12-23 17:37:42,154          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-rejeita-pedido-do-stf-sobre-7-mil-doses-da-vacina-contra-covid-23122020
+2020-12-23 17:37:42,168          root     INFO: New article tracked: http://noticias.r7.com/brasil/terceiro-transformador-de-energia-comeca-a-funcionar-no-amapa-23122020
+2020-12-23 17:37:42,178          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-operacao-para-investigar-ameacas-a-ministros-do-stf-23122020
+2020-12-23 17:37:42,187          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-encerra-votacoes-de-2020-sem-pec-dos-municipios-23122020
+2020-12-23 17:37:42,197          root     INFO: New article tracked: http://noticias.r7.com/brasil/filho-do-fundador-das-casas-bahia-e-acusado-de-estupro-e-aliciamento-23122020
+2020-12-23 17:37:42,212          root     INFO: New article tracked: http://noticias.r7.com/brasil/juros-do-cartao-em-novembro-tem-segunda-alta-mensal-seguida-23122020
+2020-12-23 17:37:42,241          root     INFO: New article tracked: http://noticias.r7.com/brasil/cnj-regulamenta-prisao-domiciliar-a-responsaveis-por-criancas-23122020
+2020-12-23 17:37:42,250          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-pede-7-mil-doses-da-vacina-contra-covid-19-para-funcionarios-23122020
+2020-12-23 17:37:42,264          root     INFO: New article tracked: http://noticias.r7.com/brasil/programa-anjos-da-madrugada-leva-ceia-a-167-mil-em-situacao-de-rua-23122020
+2020-12-23 17:37:42,274          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-resolucao-fixa-regras-de-pedidos-para-precificacao-de-vacinas-23122020
+2020-12-23 17:37:42,284          root     INFO: New article tracked: http://noticias.r7.com/brasil/inss-autoriza-antecipacao-de-pagamentos-de-beneficios-no-ap-23122020
+2020-12-23 17:37:42,295          root     INFO: New article tracked: http://noticias.r7.com/brasil/desemprego-atinge-14-milhoes-em-novembro-maior-nivel-da-pandemia-23122020
+2020-12-23 17:37:42,399          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/em-selfie-secretario-de-saude-de-sp-aparece-com-mascara-e-ministro-da-saude-sem.shtml
+2020-12-23 17:37:42,402          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/cartolas-agradecem-a-bancada-da-bola-por-congelamento-de-cobrancas-do-profut.shtml
+2020-12-23 17:37:42,405          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/12/sem-vacina-com-mil-mortos-por-dia-brasil-afunda-no-desgoverno-do-anticristao.shtml
+2020-12-23 17:37:42,406          root     INFO: Finished script
