@@ -1,6 +1,13 @@
-2020-12-24 00:02:50,882          root     INFO: Starting script
-2020-12-24 00:02:51,664          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-24 00:02:52,300          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-24 00:02:52,937          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-24 00:02:53,181          root     INFO: Parsing R7 - Brasil
-2020-12-24 00:02:58,487          root     INFO: Finished script
+2020-12-24 01:18:04,197          root     INFO: Starting script
+2020-12-24 01:18:05,356          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-24 01:18:06,009          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-24 01:18:06,674          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-24 01:18:06,875          root     INFO: Parsing R7 - Brasil
+2020-12-24 01:18:09,196          root     INFO: Ignorar isolamento na Covid foi <del>obsessão</del> <ins>ideia fixa</ins> de Bolsonaro; relembre outras desde o início do governo
+2020-12-24 01:18:10,878          root     INFO: Media ready with ids: 1341916041820188672
+2020-12-24 01:18:10,878          root     INFO: Text to tweet: Modificação do Título
+2020-12-24 01:18:10,878          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/04/ignorar-isolamento-e-nova-obsessao-de-bolsonaro-relembre-outras-desde-o-inicio-do-governo.shtml
+2020-12-24 01:18:10,886          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/04/ignorar-isolamento-e-nova-obsessao-de-bolsonaro-relembre-outras-desde-o-inicio-do-governo.shtml
+2020-12-24 01:18:11,049          root     INFO: Replying to: 1341916043309101056
+2020-12-24 01:18:11,268          root     INFO: Id to store: 1341916043942506497
+2020-12-24 01:18:15,188          root     INFO: Finished script
