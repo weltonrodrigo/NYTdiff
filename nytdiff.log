@@ -1,8 +1,22 @@
-2020-12-24 11:30:46,716          root     INFO: Starting script
-2020-12-24 11:30:47,534          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-24 11:30:48,198          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-24 11:30:48,877          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-24 11:30:49,014          root     INFO: Parsing R7 - Brasil
-2020-12-24 11:30:51,275          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/mdb-descarta-abandonar-candidatura-no-senado-para-impulsionar-rossi-na-camara.shtml
-2020-12-24 11:30:55,144          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/doria-convida-lula-e-dilma-para-tomarem-vacina-contra-a-covid.shtml
-2020-12-24 11:30:55,145          root     INFO: Finished script
+2020-12-24 11:53:44,335          root     INFO: Starting script
+2020-12-24 11:53:45,555          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-24 11:53:46,388          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-24 11:53:47,216          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-24 11:53:47,541          root     INFO: Parsing R7 - Brasil
+2020-12-24 11:53:53,303          root     INFO: New article tracked: http://noticias.r7.com/brasil/pedidos-de-cidadania-europeia-dobram-na-pandemia-diz-advogada-24122020
+2020-12-24 11:53:53,325          root     INFO: New article tracked: http://noticias.r7.com/brasil/um-ano-apos-sancao-lei-anticrime-ainda-nao-veta-saidinhas-de-presos-24122020
+2020-12-24 11:53:53,337          root     INFO: New article tracked: http://noticias.r7.com/brasil/so-3-dos-brasileiros-pretendem-viajar-no-fim-de-ano-diz-pesquisa-24122020
+2020-12-24 11:53:53,351          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-deve-citar-acoes-contra-covid-19-em-pronunciamento-24122020
+2020-12-24 11:53:53,364          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacao-da-marinha-apreende-2-milhoes-de-macos-de-cigarros-no-se-23122020
+2020-12-24 11:53:53,378          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-sobe-para-r-520-e-registra-maior-alta-semanal-em-3-meses-23122020
+2020-12-24 11:53:53,388          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/desemprego-no-maior-nivel-na-pandemia-e-ferias-de-doria-em-miami-sao-destaques-nesta-quarta-feira-23-23122020
+2020-12-24 11:53:53,400          root     INFO: New article tracked: http://noticias.r7.com/brasil/baleia-rossi-sera-candidato-a-presidencia-da-camara-23122020
+2020-12-24 11:53:53,409          root     INFO: New article tracked: http://noticias.r7.com/brasil/gilmar-mendes-cita-urgencias-da-covid-para-cancelar-recesso-no-stf-23122020
+2020-12-24 11:53:53,440          root     INFO: Deputados que lançam manifesto são do <del>partido</del> Novo, PSL e outros partidos que apoiam a pauta liberal no Congresso
+2020-12-24 11:53:55,243          root     INFO: Media ready with ids: 1342076030773817344
+2020-12-24 11:53:55,244          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-24 11:53:55,244          root     INFO: Article id: http://noticias.r7.com/brasil/bancada-liberal-exige-reformas-para-apoiar-candidato-na-camara-23122020
+2020-12-24 11:53:55,251          root     INFO: Tweeting url: http://noticias.r7.com/brasil/bancada-liberal-exige-reformas-para-apoiar-candidato-na-camara-23122020
+2020-12-24 11:53:55,505          root     INFO: Replying to: 1342076032686370817
+2020-12-24 11:53:55,794          root     INFO: Id to store: 1342076033638535168
+2020-12-24 11:53:56,007          root     INFO: Finished script
