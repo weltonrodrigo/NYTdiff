@@ -1,18 +1,18 @@
-2020-12-25 05:03:40,252          root     INFO: Starting script
-2020-12-25 05:03:41,079          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-25 05:03:41,717          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-25 05:03:42,362          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-25 05:03:42,572          root     INFO: Parsing R7 - Brasil
-2020-12-25 05:03:47,549          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-abre-credito-para-pagar-divida-com-onu-24122020
-2020-12-25 05:03:47,563          root     INFO: New article tracked: http://noticias.r7.com/brasil/parece-que-eficacia-da-vacina-de-sp-esta-la-embaixo-diz-bolsonaro-24122020
-2020-12-25 05:03:47,577          root     INFO: New article tracked: http://noticias.r7.com/brasil/saude-e-economia-andam-juntas-diz-bolsonaro-em-fala-de-natal-24122020
-2020-12-25 05:03:47,586          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-assina-indulto-de-natal-e-livra-policiais-com-crimes-sem-dolo-24122020
-2020-12-25 05:03:47,594          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/coronavac-com-91-de-eficacia-na-turquia-e-desculpas-de-doria-por-ferias-em-miami-sao-destaques-nesta-quinta-24-24122020
-2020-12-25 05:03:47,603          root     INFO: New article tracked: http://noticias.r7.com/brasil/davi-alcolumbre-usou-avioes-da-fab-para-apoiar-irmao-em-macapa-24122020
-2020-12-25 05:03:47,614          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-vai-a-hospital-para-acompanhar-endoscopia-de-filho-24122020
-2020-12-25 05:03:47,624          root     INFO: New article tracked: http://noticias.r7.com/brasil/fux-rejeita-pedido-de-sara-winter-para-tirar-moraes-de-investigacao-24122020
-2020-12-25 05:03:47,634          root     INFO: New article tracked: http://noticias.r7.com/brasil/fux-mantem-rio-de-janeiro-no-regime-de-recuperacao-fiscal-24122020
-2020-12-25 05:03:47,652          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacinacao-em-massa-e-vital-para-a-recuperacao-de-empregos-24122020
-2020-12-25 05:03:47,665          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-deixa-alvorada-e-visita-hospital-privado-em-brasilia-24122020
-2020-12-25 05:03:47,676          root     INFO: New article tracked: http://noticias.r7.com/brasil/fux-defende-reserva-de-7-mil-doses-da-vacina-contra-covid-19-para-stf-24122020
-2020-12-25 05:03:47,809          root     INFO: Finished script
+2020-12-25 05:32:31,294          root     INFO: Starting script
+2020-12-25 05:32:32,472          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-25 05:32:33,138          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-25 05:32:33,806          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-25 05:32:33,954          root     INFO: Parsing R7 - Brasil
+2020-12-25 05:32:40,238          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-abre-credito-para-pagar-divida-com-onu-24122020
+2020-12-25 05:32:40,245          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-vai-a-hospital-para-acompanhar-endoscopia-de-filho-24122020
+2020-12-25 05:32:40,251          root     INFO: Removed http://noticias.r7.com/brasil/vacinacao-em-massa-e-vital-para-a-recuperacao-de-empregos-24122020
+2020-12-25 05:32:40,254          root     INFO: Removed http://noticias.r7.com/brasil/davi-alcolumbre-usou-avioes-da-fab-para-apoiar-irmao-em-macapa-24122020
+2020-12-25 05:32:40,258          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-deixa-alvorada-e-visita-hospital-privado-em-brasilia-24122020
+2020-12-25 05:32:40,261          root     INFO: Removed http://noticias.r7.com/brasil/saude-e-economia-andam-juntas-diz-bolsonaro-em-fala-de-natal-24122020
+2020-12-25 05:32:40,264          root     INFO: Removed http://noticias.r7.com/brasil/fux-rejeita-pedido-de-sara-winter-para-tirar-moraes-de-investigacao-24122020
+2020-12-25 05:32:40,268          root     INFO: Removed http://noticias.r7.com/brasil/parece-que-eficacia-da-vacina-de-sp-esta-la-embaixo-diz-bolsonaro-24122020
+2020-12-25 05:32:40,272          root     INFO: Removed http://noticias.r7.com/brasil/fotos/coronavac-com-91-de-eficacia-na-turquia-e-desculpas-de-doria-por-ferias-em-miami-sao-destaques-nesta-quinta-24-24122020
+2020-12-25 05:32:40,277          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-assina-indulto-de-natal-e-livra-policiais-com-crimes-sem-dolo-24122020
+2020-12-25 05:32:40,281          root     INFO: Removed http://noticias.r7.com/brasil/fux-defende-reserva-de-7-mil-doses-da-vacina-contra-covid-19-para-stf-24122020
+2020-12-25 05:32:40,284          root     INFO: Removed http://noticias.r7.com/brasil/fux-mantem-rio-de-janeiro-no-regime-de-recuperacao-fiscal-24122020
+2020-12-25 05:32:40,285          root     INFO: Finished script
