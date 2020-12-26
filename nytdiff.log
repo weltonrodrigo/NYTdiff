@@ -1,6 +1,12 @@
-2020-12-26 04:02:09,353          root     INFO: Starting script
-2020-12-26 04:02:10,185          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-26 04:02:10,849          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-26 04:02:11,538          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-26 04:02:11,779          root     INFO: Parsing R7 - Brasil
-2020-12-26 04:02:17,722          root     INFO: Finished script
+2020-12-26 04:37:14,232          root     INFO: Starting script
+2020-12-26 04:37:15,064          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-26 04:37:15,717          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-26 04:37:16,370          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-26 04:37:16,547          root     INFO: Parsing R7 - Brasil
+2020-12-26 04:37:16,911          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2020/12/industria-do-pneu-tem-recuperacao-rapida-e-busca-regularizar-fornecimento-a-montadoras.shtml
+2020-12-26 04:37:22,935          root     INFO: Removed http://noticias.r7.com/brasil/chegada-da-pandemia-mostra-que-e-possivel-viver-gastando-menos-25122020
+2020-12-26 04:37:22,940          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-assina-decreto-do-novo-marco-do-saneamento-25122020
+2020-12-26 04:37:22,944          root     INFO: Removed http://noticias.r7.com/brasil/parece-que-eficacia-da-vacina-de-sp-esta-la-embaixo-diz-bolsonaro-25122020
+2020-12-26 04:37:22,948          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-lima-ombudsman/2020/12/folha-busca-intimidar-bolsonaro-mas-ele-e-imbativel-na-retorica.shtml
+2020-12-26 04:37:22,951          root     INFO: Removed http://noticias.r7.com/brasil/voltamos-tres-casas-na-ideia-de-renovacao-assume-joao-amoedo-25122020
+2020-12-26 04:37:22,952          root     INFO: Finished script
