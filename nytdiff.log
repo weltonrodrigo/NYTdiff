@@ -1,13 +1,6 @@
-2020-12-27 18:51:11,854          root     INFO: Starting script
-2020-12-27 18:51:12,727          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-27 18:51:13,394          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-27 18:51:14,069          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-27 18:51:14,317          root     INFO: Parsing R7 - Brasil
-2020-12-27 18:51:14,691          root     INFO: É tradição as agências de notícias e os jornais escolherem as imagens do ano quando a virada se aproxima. E, como também é tradicional, a maioria dessas imagens entala na garganta do leitor. Quase todas tão indigestas quanto um panetone gourmet. No Brasil, a retrospectiva certamente trará balas perdidas (o certo é dizer assassinatos), abusos, golpes, desvios, escândalos, crimes ambientais, tragédias. <del>Não tem sido fácil chegar ao final de um ano. Não tem sido fácil fazer piada ao final de um ano. Mas 2020 exagerou, com seus quase 200 mil mortos oficiais e um dos piores, para não dizer o pior, enfrentamentos da pandemia em todo o mundo. Nesse contexto, a coluna escolhe como imagem do ano uma cena de fazer o peru voltar em uma golfada. De trancar na goela as uvas passas do arroz à grega. A live da véspera de Natal, com Bolsonaro e Romero Britto, o pintor dos presidentes, um luxo em seu terno verde. Ao fundo, para completar o quadro, um sujeito qualquer com a camisa da seleção.</del> Leia mais (12/27/2020 - 15h05)
-2020-12-27 18:51:16,748          root     INFO: Media ready with ids: 1343268225715417090
-2020-12-27 18:51:16,749          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-27 18:51:16,749          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/12/o-verde-do-terno-de-romero-britto-na-live-de-bolsonaro-ja-nao-representa-a-esperanca.shtml
-2020-12-27 18:51:16,758          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/12/o-verde-do-terno-de-romero-britto-na-live-de-bolsonaro-ja-nao-representa-a-esperanca.shtml
-2020-12-27 18:51:16,951          root     INFO: Replying to: 1343268227758120961
-2020-12-27 18:51:17,217          root     INFO: Id to store: 1343268228567588864
-2020-12-27 18:51:23,155          root     INFO: Finished script
+2020-12-27 19:13:19,394          root     INFO: Starting script
+2020-12-27 19:13:20,274          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-27 19:13:20,974          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-27 19:13:21,643          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-27 19:13:21,849          root     INFO: Parsing R7 - Brasil
+2020-12-27 19:13:27,606          root     INFO: Finished script
