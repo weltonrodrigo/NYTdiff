@@ -1,25 +1,6 @@
-2020-12-28 20:55:44,119          root     INFO: Starting script
-2020-12-28 20:55:44,955          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-28 20:55:45,634          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-28 20:55:46,322          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-28 20:55:46,594          root     INFO: Parsing R7 - Brasil
-2020-12-28 20:55:46,954          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2020/12/lamento-morar-num-pais-que-nao-esta-preparado-para-receber-voce-vacina.shtml
-2020-12-28 20:55:48,800          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/em-reuniao-com-lideres-da-esquerda-baleia-sinaliza-que-ira-respeitar-espaco-da-oposicao-na-camara.shtml
-2020-12-28 20:55:48,811          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/tribunal-suspende-prazo-de-afastamento-de-witzel-apos-decisao-de-ministro-do-stf.shtml
-2020-12-28 20:55:50,649          root     INFO: Em dois anos, Bolsonaro <del>promove desmonte no meio ambiente, Funai</del> <ins>esvaziou órgãos que cuidam de questões ambientais, indígenas</ins> e <del>reforma agrária</del> <ins>agrárias</ins>
-2020-12-28 20:55:52,375          root     INFO: Media ready with ids: 1343661969128251393
-2020-12-28 20:55:52,376          root     INFO: Text to tweet: Modificação do Título
-2020-12-28 20:55:52,376          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/em-dois-anos-bolsonaro-promove-desmonte-no-meio-ambiente-funai-e-reforma-agraria.shtml
-2020-12-28 20:55:52,385          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/em-dois-anos-bolsonaro-promove-desmonte-no-meio-ambiente-funai-e-reforma-agraria.shtml
-2020-12-28 20:55:52,572          root     INFO: Replying to: 1343661970663337990
-2020-12-28 20:55:52,846          root     INFO: Id to store: 1343661971447672837
-2020-12-28 20:55:52,851          root     INFO: Cumprindo promessas e indicativos que deu durante a campanha eleitoral de 2018 e em boa parte de sua carreira política, Jair <del>Bolsoanro</del> <ins>Bolsonaro</ins> ampliou de forma expressiva em seus dois primeiros anos de governo um processo de desmonte e esvaziamento dos órgãos responsáveis por cuidar do meio ambiente e das questões indígena e agrária. Leia mais (12/28/2020 - 16h00)
-2020-12-28 20:55:54,784          root     INFO: Media ready with ids: 1343661978758344704
-2020-12-28 20:55:54,785          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-28 20:55:54,786          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/em-dois-anos-bolsonaro-promove-desmonte-no-meio-ambiente-funai-e-reforma-agraria.shtml
-2020-12-28 20:55:54,797          root     INFO: Replying to: 1343661971447672837
-2020-12-28 20:55:55,040          root     INFO: Id to store: 1343661980775804928
-2020-12-28 20:55:57,122          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/entenda-a-lei-da-ficha-limpa-a-decisao-de-kassio-no-stf-e-os-questionamentos-de-grupos-anticorrupcao.shtml
-2020-12-28 20:55:57,125          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/investigacao-deve-seguir-com-independencia-diz-ministro-sobre-suposta-acao-da-abin-para-flavio.shtml
-2020-12-28 20:55:57,128          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2020/12/safra-proxima-faz-arroz-se-acomodar-mas-com-preco-em-novo-patamar.shtml
-2020-12-28 20:55:57,129          root     INFO: Finished script
+2020-12-28 21:04:24,804          root     INFO: Starting script
+2020-12-28 21:04:25,677          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-28 21:04:26,342          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-28 21:04:27,002          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-28 21:04:27,254          root     INFO: Parsing R7 - Brasil
+2020-12-28 21:04:33,597          root     INFO: Finished script
