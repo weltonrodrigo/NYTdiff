@@ -1,15 +1,18 @@
-2020-12-28 13:55:33,781          root     INFO: Starting script
-2020-12-28 13:55:34,841          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-28 13:55:35,671          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-28 13:55:36,497          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-28 13:55:36,802          root     INFO: Parsing R7 - Brasil
-2020-12-28 13:55:39,166          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/mourao-teve-febre-e-dor-antes-de-fazer-teste-da-covid-diz-vice-presidencia.shtml
-2020-12-28 13:55:39,199          root     INFO: <del>Dos 20 políticos e apoiadores</del> <ins>Bolsonaristas foram os que</ins> mais <del>influentes</del> <ins>mobilizaram a opinião pública nas redes</ins> em 2020, <del>14 são bolsonaristas</del> <ins>diz levantamento</ins>
-2020-12-28 13:55:41,015          root     INFO: Media ready with ids: 1343556224848175107
-2020-12-28 13:55:41,016          root     INFO: Text to tweet: Modificação do Título
-2020-12-28 13:55:41,016          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/12/dos-20-politicos-e-apoiadores-mais-influentes-em-2020-14-sao-bolsonaristas.shtml
-2020-12-28 13:55:41,024          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/12/dos-20-politicos-e-apoiadores-mais-influentes-em-2020-14-sao-bolsonaristas.shtml
-2020-12-28 13:55:41,314          root     INFO: Replying to: 1343556226907561986
-2020-12-28 13:55:41,593          root     INFO: Id to store: 1343556227855486976
-2020-12-28 13:55:45,765          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/governadores-e-secretarios-querem-restricoes-para-viajantes-do-reino-unido.shtml
-2020-12-28 13:55:45,766          root     INFO: Finished script
+2020-12-28 14:03:43,047          root     INFO: Starting script
+2020-12-28 14:03:43,887          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-28 14:03:44,572          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-28 14:03:45,252          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-28 14:03:45,377          root     INFO: Parsing R7 - Brasil
+2020-12-28 14:03:46,134          root     INFO: O verde do terno de Romero Britto na live de Bolsonaro <del>já</del> não representa <del>a</del> esperança
+2020-12-28 14:03:47,848          root     INFO: Media ready with ids: 1343558266840821760
+2020-12-28 14:03:47,848          root     INFO: Text to tweet: Modificação do Título
+2020-12-28 14:03:47,848          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/12/o-verde-do-terno-de-romero-britto-na-live-de-bolsonaro-ja-nao-representa-a-esperanca.shtml
+2020-12-28 14:03:47,855          root     INFO: Replying to: 1343268228567588864
+2020-12-28 14:03:48,067          root     INFO: Id to store: 1343558268384399360
+2020-12-28 14:03:48,074          root     INFO: É tradição as agências de notícias e os jornais escolherem as imagens do ano quando a virada se aproxima. E, como também é tradicional, a maioria dessas imagens entala na garganta do leitor. Quase todas tão indigestas quanto um panetone gourmet. No Brasil, a retrospectiva certamente trará balas perdidas (o certo é dizer assassinatos), abusos, golpes, desvios, escândalos, crimes ambientais, tragédias. <del>Não tem sido fácil chegar ao final de um ano. Não tem sido fácil fazer piada ao final de um ano. Mas 2020 exagerou, com seus quase 200 mil mortos oficiais e um dos piores, para não dizer o pior, enfrentamentos da pandemia em todo o mundo. Nesse contexto, a coluna escolhe como imagem do ano uma cena de fazer o peru voltar em uma golfada. De trancar na goela as uvas passas do arroz à grega. A live da véspera de Natal, com Bolsonaro e Romero Britto, o pintor dos presidentes, um luxo em seu terno verde. Ao fundo, para completar o quadro, um sujeito qualquer com a camisa da seleção.</del> Leia mais (12/27/2020 - 15h05)
+2020-12-28 14:03:49,937          root     INFO: Media ready with ids: 1343558275304984578
+2020-12-28 14:03:49,937          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-28 14:03:49,938          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/12/o-verde-do-terno-de-romero-britto-na-live-de-bolsonaro-ja-nao-representa-a-esperanca.shtml
+2020-12-28 14:03:49,943          root     INFO: Replying to: 1343558268384399360
+2020-12-28 14:03:50,174          root     INFO: Id to store: 1343558277125332992
+2020-12-28 14:03:55,670          root     INFO: Finished script
