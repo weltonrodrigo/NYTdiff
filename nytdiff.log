@@ -1,20 +1,8 @@
-2020-12-28 14:33:31,594          root     INFO: Starting script
-2020-12-28 14:33:32,427          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-28 14:33:33,105          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-28 14:33:33,779          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-28 14:33:34,034          root     INFO: Parsing R7 - Brasil
-2020-12-28 14:33:34,767          root     INFO: Hoje, eu queria desejar um feliz Ano-Novo. Mas não para todo mundo. Apenas para algumas tribos delirantes: veganos, gente que acredita em teorias conspiratórias e seus primos irmãos, os antivacinas. Um parque temático que incluísse essas atrações seria ilustrativo da nossa irracionalidade. Nunca subestime a estupidez humana, pois ela pode ser mortal. Leia mais (12/27/2020 - 17h00)
-2020-12-28 14:33:36,613          root     INFO: Media ready with ids: 1343565769385369601
-2020-12-28 14:33:36,613          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-28 14:33:36,614          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2020/12/quem-cre-em-conspiracoes-acha-que-e-einstein-mas-nao-come-ninguem.shtml
-2020-12-28 14:33:36,622          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2020/12/quem-cre-em-conspiracoes-acha-que-e-einstein-mas-nao-come-ninguem.shtml
-2020-12-28 14:33:36,823          root     INFO: Replying to: 1343565771155402757
-2020-12-28 14:33:37,076          root     INFO: Id to store: 1343565771939704832
-2020-12-28 14:33:38,853          root     INFO: O vice-presidente <ins>da República, general</ins> Hamilton Mourão, 67, teve febre e dores no corpo e na cabeça antes de ser diagnosticado com Covid-19. Leia mais (12/28/2020 - 10h49)
-2020-12-28 14:33:40,595          root     INFO: Media ready with ids: 1343565786024173569
-2020-12-28 14:33:40,596          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-28 14:33:40,596          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/mourao-teve-febre-e-dor-antes-de-fazer-teste-da-covid-diz-vice-presidencia.shtml
-2020-12-28 14:33:40,607          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/mourao-teve-febre-e-dor-antes-de-fazer-teste-da-covid-diz-vice-presidencia.shtml
-2020-12-28 14:33:40,795          root     INFO: Replying to: 1343565787706044419
-2020-12-28 14:33:41,017          root     INFO: Id to store: 1343565788486238210
-2020-12-28 14:33:45,488          root     INFO: Finished script
+2020-12-28 14:55:44,143          root     INFO: Starting script
+2020-12-28 14:55:45,011          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-28 14:55:45,675          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-28 14:55:46,347          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-28 14:55:46,601          root     INFO: Parsing R7 - Brasil
+2020-12-28 14:55:48,768          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/bolsonaro-lidera-com-folga-popularidade-digital-em-2020-seguido-por-huck-e-lula-doria-e-8o.shtml
+2020-12-28 14:55:52,588          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/planalto-procura-blindar-bolsonaro-mas-reconhece-desgaste-com-prisao-de-crivella.shtml
+2020-12-28 14:55:52,589          root     INFO: Finished script
