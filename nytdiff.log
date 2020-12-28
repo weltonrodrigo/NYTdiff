@@ -1,6 +1,13 @@
-2020-12-28 12:38:43,427          root     INFO: Starting script
-2020-12-28 12:38:44,304          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-28 12:38:44,990          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-28 12:38:45,660          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-28 12:38:45,865          root     INFO: Parsing R7 - Brasil
-2020-12-28 12:38:52,103          root     INFO: Finished script
+2020-12-28 13:10:19,034          root     INFO: Starting script
+2020-12-28 13:10:19,871          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-28 13:10:20,544          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-28 13:10:21,215          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-28 13:10:21,352          root     INFO: Parsing R7 - Brasil
+2020-12-28 13:10:22,043          root     INFO: O presidente do Grêmio, Romildo Bolzan, considera que será heroico se <ins>o</ins> seu clube vencer o São Paulo no Morumbi e avançar à decisão da Copa do Brasil. Uma das razões é o cansaço. Nenhum time brasileiro joga às quartas e domingos, sem nenhum meio de semana de folga, há tanto tempo quanto o Grêmio. Desde 22 de julho, sempre. Leia mais (12/27/2020 - 21h00)
+2020-12-28 13:10:23,858          root     INFO: Media ready with ids: 1343544828169216003
+2020-12-28 13:10:23,859          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-28 13:10:23,859          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/12/sao-paulo-e-o-mais-forte-do-brasileiro-mas-nao-invencivel.shtml
+2020-12-28 13:10:23,872          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/12/sao-paulo-e-o-mais-forte-do-brasileiro-mas-nao-invencivel.shtml
+2020-12-28 13:10:24,067          root     INFO: Replying to: 1343544830014709761
+2020-12-28 13:10:24,284          root     INFO: Id to store: 1343544830731948033
+2020-12-28 13:10:30,017          root     INFO: Finished script
