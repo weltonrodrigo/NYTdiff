@@ -1,8 +1,13 @@
-2020-12-28 15:34:11,976          root     INFO: Starting script
-2020-12-28 15:34:12,800          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-28 15:34:13,488          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-28 15:34:14,157          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-28 15:34:14,396          root     INFO: Parsing R7 - Brasil
-2020-12-28 15:34:16,589          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/bolsonaro-da-informacao-falsa-sobre-eleicao-na-camara-em-nova-defesa-do-voto-impresso.shtml
-2020-12-28 15:34:20,458          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10582
-2020-12-28 15:34:20,460          root     INFO: Finished script
+2020-12-28 16:03:25,435          root     INFO: Starting script
+2020-12-28 16:03:26,272          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-28 16:03:26,954          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-28 16:03:27,640          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-28 16:03:27,842          root     INFO: Parsing R7 - Brasil
+2020-12-28 16:03:30,295          root     INFO: Numa nova defesa do voto impresso, o presidente Jair Bolsonaro (sem partido) disse que as eleições para a presidência da Câmara dos Deputados ocorrem <del>pelo voto impresso,</del> <ins>no "papelzinho",</ins> quando na verdade o processo de escolha é eletrônico desde 2007. Leia mais (12/28/2020 - 12h07)
+2020-12-28 16:03:32,120          root     INFO: Media ready with ids: 1343588399744249856
+2020-12-28 16:03:32,121          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-28 16:03:32,121          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/bolsonaro-da-informacao-falsa-sobre-eleicao-na-camara-em-nova-defesa-do-voto-impresso.shtml
+2020-12-28 16:03:32,130          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/bolsonaro-da-informacao-falsa-sobre-eleicao-na-camara-em-nova-defesa-do-voto-impresso.shtml
+2020-12-28 16:03:32,312          root     INFO: Replying to: 1343588401459638279
+2020-12-28 16:03:32,542          root     INFO: Id to store: 1343588402164338694
+2020-12-28 16:03:36,870          root     INFO: Finished script
