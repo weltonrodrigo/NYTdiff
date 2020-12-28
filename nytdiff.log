@@ -1,45 +1,11 @@
-2020-12-28 02:55:05,650          root     INFO: Starting script
-2020-12-28 02:55:06,653          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-28 02:55:07,478          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-28 02:55:08,301          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-28 02:55:08,643          root     INFO: Parsing R7 - Brasil
-2020-12-28 02:55:08,980          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/divorcio-amigavel.shtml
-2020-12-28 02:55:08,990          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2020/12/a-escolha-do-financiamento-imobiliario.shtml
-2020-12-28 02:55:08,999          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/aborto-como-direito-humano.shtml
-2020-12-28 02:55:09,009          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2020/12/o-melhor-album-musical-de-2020.shtml
-2020-12-28 02:55:09,017          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2020/12/a-utilizacao-etica-das-informacoes-nas-cidades-inteligentes.shtml
-2020-12-28 02:55:09,025          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2020/12/vai-passar.shtml
-2020-12-28 02:55:09,033          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2020/12/o-sao-paulo-acelera-e-caminho-seguro-no-covidao-2020.shtml
-2020-12-28 02:55:09,041          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/ciencia-paulista.shtml
-2020-12-28 02:55:10,826          root     INFO: <del>Apoiadoras de Bolsonaro</del> <ins>Bolsonaristas</ins> declaram apoio em Lira na sucessão da Câmara e Janaina Paschoal rebate
-2020-12-28 02:55:12,557          root     INFO: Media ready with ids: 1343390011299868672
-2020-12-28 02:55:12,558          root     INFO: Text to tweet: Modificação do Título
-2020-12-28 02:55:12,558          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/apoiadoras-de-bolsonaro-declaram-apoio-em-lira-na-sucessao-da-camara-e-janaina-paschoal-rebate.shtml
-2020-12-28 02:55:12,567          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/apoiadoras-de-bolsonaro-declaram-apoio-em-lira-na-sucessao-da-camara-e-janaina-paschoal-rebate.shtml
-2020-12-28 02:55:12,800          root     INFO: Replying to: 1343390012856004611
-2020-12-28 02:55:13,205          root     INFO: Id to store: 1343390013996769282
-2020-12-28 02:55:13,212          root     INFO: Consideradas apoiadoras do núcleo mais radical <del>do presidente</del> <ins>de</ins> Jair <del>Bolsonaro (sem partido),</del> <ins>Bolsonaro,</ins> as deputadas Carla Zambelli (PSL-SP) e Alê Silva (PSL-MG) declararam <del>apoio a</del> <ins>que vão votar em</ins> Arthur Lira <del>(PP-AL), candidato apoiado pelo governo à presidência</del> <ins>(PP-AL) na eleição para presidente</ins> da Câmara. <ins>O líder do PP é o candidato do presidente.</ins> Leia mais (12/27/2020 - 19h04)
-2020-12-28 02:55:18,125          root     INFO: Media ready with ids: 1343390034397954049
-2020-12-28 02:55:18,125          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-28 02:55:18,125          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/apoiadoras-de-bolsonaro-declaram-apoio-em-lira-na-sucessao-da-camara-e-janaina-paschoal-rebate.shtml
-2020-12-28 02:55:18,133          root     INFO: Replying to: 1343390013996769282
-2020-12-28 02:55:18,404          root     INFO: Id to store: 1343390036197330946
-2020-12-28 02:55:21,275          root     INFO: New article tracked: http://noticias.r7.com/brasil/vice-presidente-hamilton-mourao-e-diagnosticado-com-covid-19-27122020
-2020-12-28 02:55:21,284          root     INFO: New article tracked: http://noticias.r7.com/brasil/aes-tiete-compra-parques-eolicos-da-cubico-brasil-por-r-806-milhoes-27122020
-2020-12-28 02:55:21,292          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-tem-7484-milhoes-de-casos-de-covid-19-e-191139-mil-mortes-27122020
-2020-12-28 02:55:21,334          root     INFO: Bolsonaro: <del>'caso</del> <ins>'Caso</ins> exercesse pressão, seria acusado de interferência'
-2020-12-28 02:55:23,075          root     INFO: Media ready with ids: 1343390055210115072
-2020-12-28 02:55:23,076          root     INFO: Text to tweet: Modificação do Título
-2020-12-28 02:55:23,076          root     INFO: Article id: http://noticias.r7.com/brasil/bolsonaro-caso-exercesse-pressao-seria-acusado-de-interferencia-27122020
-2020-12-28 02:55:23,087          root     INFO: Tweeting url: http://noticias.r7.com/brasil/bolsonaro-caso-exercesse-pressao-seria-acusado-de-interferencia-27122020
-2020-12-28 02:55:23,305          root     INFO: Replying to: 1343390056963330048
-2020-12-28 02:55:23,572          root     INFO: Id to store: 1343390057890254850
-2020-12-28 02:55:23,825          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2020/12/o-fantasma-das-futuras-sabotagens-na-politica-economica-dos-eua.shtml
-2020-12-28 02:55:23,828          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/vacina-do-butantan-e-segura-e-eficiente.shtml
-2020-12-28 02:55:23,831          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/violencia-sexual-infantil-a-um-clique.shtml
-2020-12-28 02:55:23,834          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2020/12/a-saga-de-fazer-um-premio-em-hell-office-em-jornada-100-virtual.shtml
-2020-12-28 02:55:23,838          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/12/viva-a-imigracao.shtml
-2020-12-28 02:55:23,842          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2020/12/o-que-se-passa-na-cabeca-de-quem-se-embola-para-fazer-compras-de-natal.shtml
-2020-12-28 02:55:23,845          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/um-ano-que-exigiu-coragem-e-esperanca.shtml
-2020-12-28 02:55:23,847          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2020/12/e-preciso-cancelar-o-natal-deste-ano-o-sol-ainda-nao-esta-pronto-pra-nascer.shtml
-2020-12-28 02:55:23,848          root     INFO: Finished script
+2020-12-28 03:10:54,647          root     INFO: Starting script
+2020-12-28 03:10:55,471          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-28 03:10:56,142          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-28 03:10:56,821          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-28 03:10:57,055          root     INFO: Parsing R7 - Brasil
+2020-12-28 03:10:57,395          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2020/12/na-falta-de-outra-a-marca-de-covas-foi-aumentar-seu-salario-e-da-elite-do-funcionalismo.shtml
+2020-12-28 03:11:03,370          root     INFO: Removed http://noticias.r7.com/brasil/aes-tiete-compra-parques-eolicos-da-cubico-brasil-por-r-806-milhoes-27122020
+2020-12-28 03:11:03,374          root     INFO: Removed http://noticias.r7.com/brasil/vice-presidente-hamilton-mourao-e-diagnosticado-com-covid-19-27122020
+2020-12-28 03:11:03,377          root     INFO: Removed http://noticias.r7.com/brasil/brasil-tem-7484-milhoes-de-casos-de-covid-19-e-191139-mil-mortes-27122020
+2020-12-28 03:11:03,380          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2020/12/juro-zero-e-unicornio-do-comercio.shtml
+2020-12-28 03:11:03,381          root     INFO: Finished script
