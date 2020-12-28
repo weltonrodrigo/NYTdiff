@@ -1,18 +1,20 @@
-2020-12-28 14:03:43,047          root     INFO: Starting script
-2020-12-28 14:03:43,887          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-28 14:03:44,572          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-28 14:03:45,252          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-28 14:03:45,377          root     INFO: Parsing R7 - Brasil
-2020-12-28 14:03:46,134          root     INFO: O verde do terno de Romero Britto na live de Bolsonaro <del>já</del> não representa <del>a</del> esperança
-2020-12-28 14:03:47,848          root     INFO: Media ready with ids: 1343558266840821760
-2020-12-28 14:03:47,848          root     INFO: Text to tweet: Modificação do Título
-2020-12-28 14:03:47,848          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/12/o-verde-do-terno-de-romero-britto-na-live-de-bolsonaro-ja-nao-representa-a-esperanca.shtml
-2020-12-28 14:03:47,855          root     INFO: Replying to: 1343268228567588864
-2020-12-28 14:03:48,067          root     INFO: Id to store: 1343558268384399360
-2020-12-28 14:03:48,074          root     INFO: É tradição as agências de notícias e os jornais escolherem as imagens do ano quando a virada se aproxima. E, como também é tradicional, a maioria dessas imagens entala na garganta do leitor. Quase todas tão indigestas quanto um panetone gourmet. No Brasil, a retrospectiva certamente trará balas perdidas (o certo é dizer assassinatos), abusos, golpes, desvios, escândalos, crimes ambientais, tragédias. <del>Não tem sido fácil chegar ao final de um ano. Não tem sido fácil fazer piada ao final de um ano. Mas 2020 exagerou, com seus quase 200 mil mortos oficiais e um dos piores, para não dizer o pior, enfrentamentos da pandemia em todo o mundo. Nesse contexto, a coluna escolhe como imagem do ano uma cena de fazer o peru voltar em uma golfada. De trancar na goela as uvas passas do arroz à grega. A live da véspera de Natal, com Bolsonaro e Romero Britto, o pintor dos presidentes, um luxo em seu terno verde. Ao fundo, para completar o quadro, um sujeito qualquer com a camisa da seleção.</del> Leia mais (12/27/2020 - 15h05)
-2020-12-28 14:03:49,937          root     INFO: Media ready with ids: 1343558275304984578
-2020-12-28 14:03:49,937          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-28 14:03:49,938          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2020/12/o-verde-do-terno-de-romero-britto-na-live-de-bolsonaro-ja-nao-representa-a-esperanca.shtml
-2020-12-28 14:03:49,943          root     INFO: Replying to: 1343558268384399360
-2020-12-28 14:03:50,174          root     INFO: Id to store: 1343558277125332992
-2020-12-28 14:03:55,670          root     INFO: Finished script
+2020-12-28 14:33:31,594          root     INFO: Starting script
+2020-12-28 14:33:32,427          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-28 14:33:33,105          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-28 14:33:33,779          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-28 14:33:34,034          root     INFO: Parsing R7 - Brasil
+2020-12-28 14:33:34,767          root     INFO: Hoje, eu queria desejar um feliz Ano-Novo. Mas não para todo mundo. Apenas para algumas tribos delirantes: veganos, gente que acredita em teorias conspiratórias e seus primos irmãos, os antivacinas. Um parque temático que incluísse essas atrações seria ilustrativo da nossa irracionalidade. Nunca subestime a estupidez humana, pois ela pode ser mortal. Leia mais (12/27/2020 - 17h00)
+2020-12-28 14:33:36,613          root     INFO: Media ready with ids: 1343565769385369601
+2020-12-28 14:33:36,613          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-28 14:33:36,614          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2020/12/quem-cre-em-conspiracoes-acha-que-e-einstein-mas-nao-come-ninguem.shtml
+2020-12-28 14:33:36,622          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2020/12/quem-cre-em-conspiracoes-acha-que-e-einstein-mas-nao-come-ninguem.shtml
+2020-12-28 14:33:36,823          root     INFO: Replying to: 1343565771155402757
+2020-12-28 14:33:37,076          root     INFO: Id to store: 1343565771939704832
+2020-12-28 14:33:38,853          root     INFO: O vice-presidente <ins>da República, general</ins> Hamilton Mourão, 67, teve febre e dores no corpo e na cabeça antes de ser diagnosticado com Covid-19. Leia mais (12/28/2020 - 10h49)
+2020-12-28 14:33:40,595          root     INFO: Media ready with ids: 1343565786024173569
+2020-12-28 14:33:40,596          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-28 14:33:40,596          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/mourao-teve-febre-e-dor-antes-de-fazer-teste-da-covid-diz-vice-presidencia.shtml
+2020-12-28 14:33:40,607          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/mourao-teve-febre-e-dor-antes-de-fazer-teste-da-covid-diz-vice-presidencia.shtml
+2020-12-28 14:33:40,795          root     INFO: Replying to: 1343565787706044419
+2020-12-28 14:33:41,017          root     INFO: Id to store: 1343565788486238210
+2020-12-28 14:33:45,488          root     INFO: Finished script
