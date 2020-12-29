@@ -1,6 +1,13 @@
-2020-12-29 11:55:27,673          root     INFO: Starting script
-2020-12-29 11:55:28,512          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-29 11:55:29,184          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-29 11:55:29,844          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-29 11:55:29,979          root     INFO: Parsing R7 - Brasil
-2020-12-29 11:55:35,736          root     INFO: Finished script
+2020-12-29 12:04:20,716          root     INFO: Starting script
+2020-12-29 12:04:21,553          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-29 12:04:22,223          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-29 12:04:22,879          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-29 12:04:22,985          root     INFO: Parsing R7 - Brasil
+2020-12-29 12:04:23,392          root     INFO: <ins>Ah, que linda a diferença entre o animal humano, definido por sua biologia, e a humanidade, construída em conjunto pelos feitos, descobertas, conquistas e</ins> esforços de cerca de cem bilhões de indivíduos ao longo da nossa história comum. Gosto do paralelo: já somos, coletivamente e integrados ao longo do tempo, mais humanos no planeta do que há neurônios em cada um de nossos cérebros. E assim como um neurônio sozinho não gera comportamento flexível e complexo, portanto inteligente, não há como um humano só conter em si tudo o que nossa espécie já criou e aprendeu. Leia mais (12/29/2020 - 01h58)
+2020-12-29 12:04:25,241          root     INFO: Media ready with ids: 1343890612249047041
+2020-12-29 12:04:25,242          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-29 12:04:25,242          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2020/12/eu-vou-tomar-vacina.shtml
+2020-12-29 12:04:25,252          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2020/12/eu-vou-tomar-vacina.shtml
+2020-12-29 12:04:25,434          root     INFO: Replying to: 1343890614203654144
+2020-12-29 12:04:25,683          root     INFO: Id to store: 1343890614962823168
+2020-12-29 12:04:30,995          root     INFO: Finished script
