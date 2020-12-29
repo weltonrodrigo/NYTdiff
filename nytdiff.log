@@ -1,8 +1,32 @@
-2020-12-29 01:21:08,909          root     INFO: Starting script
-2020-12-29 01:21:09,720          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-29 01:21:10,383          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-29 01:21:11,044          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-29 01:21:11,221          root     INFO: Parsing R7 - Brasil
-2020-12-29 01:21:13,555          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2020/12/stj-autoriza-ida-de-crivella-que-cumpre-prisao-domiciliar-a-enterro-da-mae-em-mg.shtml
-2020-12-29 01:21:17,674          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2020/12/a-vacina-da-revolta-sustenta-bolsonaro.shtml
-2020-12-29 01:21:17,679          root     INFO: Finished script
+2020-12-29 02:21:25,895          root     INFO: Starting script
+2020-12-29 02:21:26,731          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-29 02:21:27,411          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-29 02:21:28,094          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-29 02:21:28,234          root     INFO: Parsing R7 - Brasil
+2020-12-29 02:21:28,573          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/nao-e-gratis.shtml
+2020-12-29 02:21:28,584          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2020/12/alem-da-pandemia-olimpiada-de-toquio-enfrenta-debate-sobre-protestos.shtml
+2020-12-29 02:21:28,594          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/por-uma-nova-politica-de-seguranca.shtml
+2020-12-29 02:21:28,611          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/soberba-tucana.shtml
+2020-12-29 02:21:28,621          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nizanguanaes/2020/12/voce-aguenta-ser-feliz.shtml
+2020-12-29 02:21:28,631          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2020/12/maduro-sao-paulo-com-a-cara-de-diniz-dobra-numero-de-gols-em-2020.shtml
+2020-12-29 02:21:28,641          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/a-imprensa-e-a-hidroxicloroquina.shtml
+2020-12-29 02:21:30,615          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/camara-restringe-acesso-e-faz-posse-virtual-em-sp-no-rio-vereadores-evitam-cerimonia-presencial.shtml
+2020-12-29 02:21:30,626          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/bloco-de-sucessao-na-camara-e-sinal-forte-sobre-alianca-para-2022-diz-maia.shtml
+2020-12-29 02:21:30,636          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/procurador-diz-que-bolsonaro-usa-linguagem-agressiva-em-decisao-favoravel-a-critico-do-presidente.shtml
+2020-12-29 02:21:30,645          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/03/veja-o-que-bolsonaro-ja-fez-para-confrontar-medidas-de-combate-ao-coronavirus.shtml
+2020-12-29 02:21:30,656          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/servidores-do-stf-dizem-que-exonerado-por-fux-nao-era-o-responsavel-por-avisa-lo-de-pedido-para-fiocruz.shtml
+2020-12-29 02:21:32,673          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/12/vi-um-pantanal-desfigurado-sem-vida-silencioso-conta-fotografo-joao-farkas.shtml
+2020-12-29 02:21:35,030          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/petistas-lembram-impeachment-dizem-que-mdb-descumpre-acordos-e-embolam-de-novo-briga-na-camara.shtml
+2020-12-29 02:21:35,033          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2020/12/economia-deve-fraquejar-no-verao-vermelho-da-covid-19.shtml
+2020-12-29 02:21:35,037          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/fux-discorda-de-kassio-sobre-ficha-limpa-diz-a-colegas-que-nao-vai-cassar-liminar-mas-busca-revisao.shtml
+2020-12-29 02:21:35,040          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/12/jogo-bruto-na-eleicao-da-camara-aumenta-riscos-para-bolsonaro-e-oposicao.shtml
+2020-12-29 02:21:35,043          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2020/12/a-vacina-da-revolta-sustenta-bolsonaro.shtml
+2020-12-29 02:21:35,046          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/natal-recolhido.shtml
+2020-12-29 02:21:35,049          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2020/12/vergonha-ou-orgulho.shtml
+2020-12-29 02:21:35,052          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/merito-da-pf.shtml
+2020-12-29 02:21:35,056          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/governadores-pedem-a-pazuello-suspensao-imediata-de-voos-do-reino-unido-holanda-dinamarca-e-australia.shtml
+2020-12-29 02:21:35,060          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/12/jogo-bruto-na-eleicao-da-camara-aumenta-riscos-para-bolsonaro-e-oposicao.shtml
+2020-12-29 02:21:35,063          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/10/ambientalista-e-notificado-judicialmente-a-pedido-da-agu-por-criticas-a-salles.shtml
+2020-12-29 02:21:35,066          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2020/12/o-doido-que-querem-tirar-de-lisca-e-o-de-criativo-inventivo-espontaneo.shtml
+2020-12-29 02:21:35,069          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/12/espera-se-que-os-militares-nao-se-metam-nas-confusoes-do-governo-em-2021.shtml
+2020-12-29 02:21:35,070          root     INFO: Finished script
