@@ -1,8 +1,10 @@
-2020-12-29 04:10:48,350          root     INFO: Starting script
-2020-12-29 04:10:49,191          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-29 04:10:49,845          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-29 04:10:50,499          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-29 04:10:50,605          root     INFO: Parsing R7 - Brasil
-2020-12-29 04:10:50,956          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/12/abaixo-o-tribunal-do-juri.shtml
-2020-12-29 04:10:55,935          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/12/espera-se-que-os-militares-nao-se-metam-nas-confusoes-do-governo-em-2021.shtml
-2020-12-29 04:10:55,936          root     INFO: Finished script
+2020-12-29 04:52:51,329          root     INFO: Starting script
+2020-12-29 04:52:52,155          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-29 04:52:52,832          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-29 04:52:53,505          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-29 04:52:53,652          root     INFO: Parsing R7 - Brasil
+2020-12-29 04:52:53,997          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2020/12/para-renascer-o-centro-do-rio-nao-precisa-vir-abaixo.shtml
+2020-12-29 04:52:54,010          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2020/12/feliz-ano-velho.shtml
+2020-12-29 04:53:00,521          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/esper-kallas/2020/12/as-vacinas-para-covid-19-no-fim-de-2021.shtml
+2020-12-29 04:53:00,525          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helio-beltrao/2020/12/o-stf-e-as-vacinas.shtml
+2020-12-29 04:53:00,526          root     INFO: Finished script
