@@ -1,12 +1,12 @@
-2020-12-29 20:34:30,336          root     INFO: Starting script
-2020-12-29 20:34:31,164          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-29 20:34:31,864          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-29 20:34:32,529          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-29 20:34:32,761          root     INFO: Parsing R7 - Brasil
-2020-12-29 20:34:34,980          root     INFO: O PT decidiu deixar para janeiro a definição <del>de seu eventual</del> <ins>do</ins> apoio à candidatura do deputado federal Baleia Rossi (MDB- SP) <del>ao comando</del> <ins>à presidência</ins> da <del>Câmara dos Deputados.</del> <ins>Câmara.</ins> Leia mais (12/29/2020 - <del>13h33)</del> <ins>13h34)</ins>
-2020-12-29 20:34:36,674          root     INFO: Media ready with ids: 1344019006265683968
-2020-12-29 20:34:36,674          root     INFO: Text to tweet: Modificação da Descrição
-2020-12-29 20:34:36,674          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/pt-deixa-para-janeiro-definicao-sobre-apoio-a-baleia-na-eleicao-da-camara.shtml
-2020-12-29 20:34:36,680          root     INFO: Replying to: 1343980573451292673
-2020-12-29 20:34:36,916          root     INFO: Id to store: 1344019007821721600
-2020-12-29 20:34:40,387          root     INFO: Finished script
+2020-12-29 20:57:43,674          root     INFO: Starting script
+2020-12-29 20:57:44,535          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-29 20:57:45,195          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-29 20:57:45,862          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-29 20:57:46,105          root     INFO: Parsing R7 - Brasil
+2020-12-29 20:57:48,471          root     INFO: O PT decidiu deixar para janeiro a definição <del>de seu eventual</del> <ins>do</ins> apoio à candidatura do deputado federal Baleia Rossi <del>(MDB- SP) ao comando</del> <ins>(MDB-SP) à presidência</ins> da <del>Câmara dos Deputados.</del> <ins>Câmara.</ins> Leia mais (12/29/2020 - <del>13h33)</del> <ins>13h34)</ins>
+2020-12-29 20:57:50,339          root     INFO: Media ready with ids: 1344024851535822849
+2020-12-29 20:57:50,340          root     INFO: Text to tweet: Modificação da Descrição
+2020-12-29 20:57:50,340          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/pt-deixa-para-janeiro-definicao-sobre-apoio-a-baleia-na-eleicao-da-camara.shtml
+2020-12-29 20:57:50,353          root     INFO: Replying to: 1344019007821721600
+2020-12-29 20:57:50,578          root     INFO: Id to store: 1344024853268082696
+2020-12-29 20:57:54,565          root     INFO: Finished script
