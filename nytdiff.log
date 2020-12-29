@@ -1,8 +1,10 @@
-2020-12-29 15:09:19,497          root     INFO: Starting script
-2020-12-29 15:09:20,283          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-29 15:09:20,923          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-29 15:09:21,558          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-29 15:09:21,730          root     INFO: Parsing R7 - Brasil
-2020-12-29 15:09:24,148          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48879
-2020-12-29 15:09:27,995          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/reporter-da-folha-e-a-jornalista-mais-premiada-do-pais-em-2020-segundo-ranking.shtml
-2020-12-29 15:09:27,995          root     INFO: Finished script
+2020-12-29 15:42:19,403          root     INFO: Starting script
+2020-12-29 15:42:20,283          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-29 15:42:20,937          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-29 15:42:21,587          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-29 15:42:21,751          root     INFO: Parsing R7 - Brasil
+2020-12-29 15:42:24,105          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/solidariedade-procura-maia-e-sinaliza-apoio-a-candidatura-de-baleia-rossi.shtml
+2020-12-29 15:42:24,119          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://brasil.blogfolha.uol.com.br/?p=4105
+2020-12-29 15:42:28,073          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2020/12/os-impactos-e-os-questionamentos-sobre-a-lei-da-ficha-limpa-ouca-podcast.shtml
+2020-12-29 15:42:28,078          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/apos-dois-meses-dem-ainda-nao-decidiu-o-que-fazer-com-senador-flagrado-com-dinheiro-na-cueca.shtml
+2020-12-29 15:42:28,079          root     INFO: Finished script
