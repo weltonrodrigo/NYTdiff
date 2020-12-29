@@ -1,10 +1,8 @@
-2020-12-29 15:42:19,403          root     INFO: Starting script
-2020-12-29 15:42:20,283          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-29 15:42:20,937          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-29 15:42:21,587          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-29 15:42:21,751          root     INFO: Parsing R7 - Brasil
-2020-12-29 15:42:24,105          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/solidariedade-procura-maia-e-sinaliza-apoio-a-candidatura-de-baleia-rossi.shtml
-2020-12-29 15:42:24,119          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://brasil.blogfolha.uol.com.br/?p=4105
-2020-12-29 15:42:28,073          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2020/12/os-impactos-e-os-questionamentos-sobre-a-lei-da-ficha-limpa-ouca-podcast.shtml
-2020-12-29 15:42:28,078          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/apos-dois-meses-dem-ainda-nao-decidiu-o-que-fazer-com-senador-flagrado-com-dinheiro-na-cueca.shtml
-2020-12-29 15:42:28,079          root     INFO: Finished script
+2020-12-29 16:05:41,490          root     INFO: Starting script
+2020-12-29 16:05:42,500          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-29 16:05:43,329          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-29 16:05:44,153          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-29 16:05:44,564          root     INFO: Parsing R7 - Brasil
+2020-12-29 16:05:49,478          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsa-familia-renda-brasil-cidada-ou-auxilio-qual-chegara-a-2021-29122020
+2020-12-29 16:05:49,798          root     INFO: Removed http://noticias.r7.com/brasil/defesa-de-lula-tera-acesso-a-mensagens-da-operacao-spoofing-28122020
+2020-12-29 16:05:49,803          root     INFO: Finished script
