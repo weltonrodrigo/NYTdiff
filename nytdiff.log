@@ -1,32 +1,13 @@
-2020-12-30 23:08:37,856          root     INFO: Starting script
-2020-12-30 23:08:38,673          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-30 23:08:39,335          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-30 23:08:39,992          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-30 23:08:40,168          root     INFO: Parsing R7 - Brasil
-2020-12-30 23:08:42,460          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/para-deputados-lewandowski-interfere-em-decisao-do-legislativo-ao-estender-calamidade-em-saude.shtml
-2020-12-30 23:08:46,462          root     INFO: New article tracked: http://noticias.r7.com/brasil/carteira-digital-de-transito-vai-permitir-transferir-veiculos-em-2021-30122020
-2020-12-30 23:08:46,480          root     INFO: New article tracked: http://noticias.r7.com/brasil/secretario-proximo-a-bolsonaro-e-internado-em-sp-com-covid-19-30122020
-2020-12-30 23:08:46,491          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-prorroga-medidas-sanitarias-de-combate-a-covid-19-30122020
-2020-12-30 23:08:46,502          root     INFO: New article tracked: http://noticias.r7.com/brasil/numero-de-brasileiros-em-missoes-de-paz-cai-72-em-2020-30122020
-2020-12-30 23:08:46,513          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/caixas-dagua-desabam-no-es-e-moradores-sao-retirados-de-predio-30122020
-2020-12-30 23:08:46,523          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-lewandowski-restabelece-suspensao-de-despejos-no-rio-30122020
-2020-12-30 23:08:46,532          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-alta-de-infeccoes-por-covid-festas-viram-briga-na-justica-30122020
-2020-12-30 23:08:46,543          root     INFO: New article tracked: http://noticias.r7.com/brasil/home-office-no-executivo-espacos-fisicos-e-alugueis-serao-revistos-30122020
-2020-12-30 23:08:46,553          root     INFO: New article tracked: http://noticias.r7.com/brasil/de-olho-em-corte-de-gastos-executivo-vai-manter-home-office-30122020
-2020-12-30 23:08:46,564          root     INFO: New article tracked: http://noticias.r7.com/brasil/universal-nos-presidios-prepara-detentos-para-voltar-a-viver-em-sociedade-30122020
-2020-12-30 23:08:46,574          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-caminha-na-praia-e-diz-que-vida-tem-que-seguir-30122020
-2020-12-30 23:08:46,587          root     INFO: New article tracked: http://noticias.r7.com/brasil/policia-rodoviaria-federal-reforcara-fiscalizacao-nas-estradas-30122020
-2020-12-30 23:08:46,755          root     INFO: Removed http://noticias.r7.com/brasil/inteligencia-emocional-e-tema-do-estudio-news-neste-sabado-29122020
-2020-12-30 23:08:46,759          root     INFO: Removed http://noticias.r7.com/brasil/cnj-quer-tipificar-stalking-e-pena-maior-para-ameacas-contra-mulher-29122020
-2020-12-30 23:08:46,762          root     INFO: Removed http://noticias.r7.com/brasil/mourao-tem-dores-leves-e-se-recupera-bem-da-covid-19-diz-nota-29122020
-2020-12-30 23:08:46,766          root     INFO: Removed http://noticias.r7.com/brasil/cnj-quer-tipificar-perseguicao-e-pena-maior-para-ameaca-contra-mulher-29122020
-2020-12-30 23:08:46,769          root     INFO: Removed http://noticias.r7.com/brasil/respeito-a-hierarquia-do-stf-diz-medico-exonerado-por-fux-29122020
-2020-12-30 23:08:46,772          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/alcolumbre-leva-candidato-a-presidente-do-senado-para-receber-bencao-de-bolsonaro.shtml
-2020-12-30 23:08:46,775          root     INFO: Removed http://noticias.r7.com/brasil/ibovespa-futuro-avanca-com-manutencao-do-risco-global-29122020
-2020-12-30 23:08:46,779          root     INFO: Removed http://noticias.r7.com/brasil/como-a-lei-de-cotas-incentivou-a-migracao-de-alunos-para-o-ensino-medio-publico-29122020
-2020-12-30 23:08:46,782          root     INFO: Removed http://noticias.r7.com/brasil/dolar-abre-em-queda-e-investidores-miram-volatilidade-e-reajustes-29122020
-2020-12-30 23:08:46,786          root     INFO: Removed http://noticias.r7.com/brasil/governo-ve-tres-desafios-economicos-para-2021-veja-quais-29122020
-2020-12-30 23:08:46,790          root     INFO: Removed http://noticias.r7.com/brasil/miguel-e-maria-eduarda-foram-nomes-mais-registrados-da-ultima-decada-29122020
-2020-12-30 23:08:46,794          root     INFO: Removed http://noticias.r7.com/brasil/contas-do-governo-central-tem-rombo-de-r-182-bi-em-novembro-29122020
-2020-12-30 23:08:46,798          root     INFO: Removed http://noticias.r7.com/brasil/governo-prorroga-tarifa-zero-na-importacao-de-medicamento-contra-covid-29122020
-2020-12-30 23:08:46,798          root     INFO: Finished script
+2020-12-30 23:47:22,894          root     INFO: Starting script
+2020-12-30 23:47:24,269          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-30 23:47:24,917          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-30 23:47:25,562          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-30 23:47:25,786          root     INFO: Parsing R7 - Brasil
+2020-12-30 23:47:26,148          root     INFO: <del>Brasileiro se apega a qualquer coisa</del> <ins>Confira as melhores simpatias</ins> para <del>que 2021 não seja tão trágico</del> <ins>o desfecho de um ano bem desastroso</ins>
+2020-12-30 23:47:27,893          root     INFO: Media ready with ids: 1344429927366594565
+2020-12-30 23:47:27,893          root     INFO: Text to tweet: Modificação do Título
+2020-12-30 23:47:27,893          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2020/12/brasileiro-se-apega-a-qualquer-coisa-para-que-2021-nao-seja-tao-tragico.shtml
+2020-12-30 23:47:27,900          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2020/12/brasileiro-se-apega-a-qualquer-coisa-para-que-2021-nao-seja-tao-tragico.shtml
+2020-12-30 23:47:28,096          root     INFO: Replying to: 1344429928943656984
+2020-12-30 23:47:28,332          root     INFO: Id to store: 1344429929736400896
+2020-12-30 23:47:33,728          root     INFO: Finished script
