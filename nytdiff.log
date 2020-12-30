@@ -1,6 +1,42 @@
-2020-12-30 00:08:44,924          root     INFO: Starting script
-2020-12-30 00:08:46,085          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2020-12-30 00:08:46,735          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2020-12-30 00:08:47,388          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2020-12-30 00:08:47,548          root     INFO: Parsing R7 - Brasil
-2020-12-30 00:08:53,271          root     INFO: Finished script
+2020-12-30 01:35:49,744          root     INFO: Starting script
+2020-12-30 01:35:50,552          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2020-12-30 01:35:51,239          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2020-12-30 01:35:51,897          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2020-12-30 01:35:52,096          root     INFO: Parsing R7 - Brasil
+2020-12-30 01:35:54,222          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/apos-ataque-a-dilma-primo-dos-bolsonaros-publica-montagem-com-presidente-agredindo-estudante-na-ditadura.shtml
+2020-12-30 01:35:57,552          root     INFO: New article tracked: http://noticias.r7.com/brasil/stj-diz-que-aprovou-reserva-de-vacinas-para-servidores-do-stf-29122020
+2020-12-30 01:35:57,562          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-prorroga-pagamento-de-auxilio-para-o-setor-cultural-29122020
+2020-12-30 01:35:57,571          root     INFO: New article tracked: http://noticias.r7.com/brasil/gilmar-adia-aplicacao-de-novo-entendimento-sobre-inelegibilidade-29122020
+2020-12-30 01:35:57,583          root     INFO: New article tracked: http://noticias.r7.com/brasil/maguito-vilela-podera-tomar-posse-dentro-da-uti-do-albert-einstein-29122020
+2020-12-30 01:35:57,592          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-garante-menos-de-3-das-seringas-que-precisa-para-vacinacao-29122020
+2020-12-30 01:35:57,602          root     INFO: New article tracked: http://noticias.r7.com/brasil/termina-hoje-prazo-para-retirada-de-propaganda-eleitoral-29122020
+2020-12-30 01:35:57,612          root     INFO: New article tracked: http://noticias.r7.com/brasil/cnj-quer-tipificar-perseguicao-e-pena-maior-para-ameaca-contra-mulher-29122020
+2020-12-30 01:35:57,624          root     INFO: New article tracked: http://noticias.r7.com/brasil/cnj-quer-tipificar-stalking-e-pena-maior-para-ameacas-contra-mulher-29122020
+2020-12-30 01:35:57,635          root     INFO: New article tracked: http://noticias.r7.com/brasil/respeito-a-hierarquia-do-stf-diz-medico-exonerado-por-fux-29122020
+2020-12-30 01:35:57,645          root     INFO: New article tracked: http://noticias.r7.com/brasil/como-a-lei-de-cotas-incentivou-a-migracao-de-alunos-para-o-ensino-medio-publico-29122020
+2020-12-30 01:35:57,653          root     INFO: New article tracked: http://noticias.r7.com/brasil/contas-do-governo-central-tem-rombo-de-r-182-bi-em-novembro-29122020
+2020-12-30 01:35:57,662          root     INFO: New article tracked: http://noticias.r7.com/brasil/miguel-e-maria-eduarda-foram-nomes-mais-registrados-da-ultima-decada-29122020
+2020-12-30 01:35:57,670          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-ve-tres-desafios-economicos-para-2021-veja-quais-29122020
+2020-12-30 01:35:57,679          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-prorroga-tarifa-zero-na-importacao-de-medicamento-contra-covid-29122020
+2020-12-30 01:35:57,690          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-tem-dores-leves-e-se-recupera-bem-da-covid-19-diz-nota-29122020
+2020-12-30 01:35:57,699          root     INFO: New article tracked: http://noticias.r7.com/brasil/inteligencia-emocional-e-tema-do-estudio-news-neste-sabado-29122020
+2020-12-30 01:35:57,708          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibovespa-futuro-avanca-com-manutencao-do-risco-global-29122020
+2020-12-30 01:35:57,717          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-abre-em-queda-e-investidores-miram-volatilidade-e-reajustes-29122020
+2020-12-30 01:35:57,760          root     INFO: Removed http://noticias.r7.com/brasil/tj-rj-suspende-prazo-para-conclusao-de-impeachment-de-wilson-witzel-28122020
+2020-12-30 01:35:57,763          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/doria-tira-licenca-e-vai-a-miami-vice-governador-recebe-resultado-positivo-para-covid-19.shtml
+2020-12-30 01:35:57,766          root     INFO: Removed http://noticias.r7.com/brasil/desconto-na-mensalidade-da-rede-privada-e-inconstitucional-diz-stf-28122020
+2020-12-30 01:35:57,771          root     INFO: Removed http://noticias.r7.com/brasil/analise-presentes-do-governo-de-sp-para-os-paulistas-28122020
+2020-12-30 01:35:57,774          root     INFO: Removed http://noticias.r7.com/brasil/fux-exonera-secretario-que-pediu-reserva-de-vacina-da-covid-19-28122020
+2020-12-30 01:35:57,778          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-veste-camisa-10-e-faz-gol-em-partida-beneficente-em-santos-28122020
+2020-12-30 01:35:57,782          root     INFO: Removed http://noticias.r7.com/brasil/quem-ja-foi-infectado-tem-que-tomar-a-vacina-diz-bolsonaro-28122020
+2020-12-30 01:35:57,786          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-deve-pedir-registro-de-vacina-ate-a-proxima-semana-28122020
+2020-12-30 01:35:57,790          root     INFO: Removed http://noticias.r7.com/brasil/baleia-rossi-se-diz-otimista-com-uniao-para-eleicao-da-camara-28122020
+2020-12-30 01:35:57,795          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-marca-um-gol-em-jogo-beneficente-na-vila-belmiro-28122020
+2020-12-30 01:35:57,798          root     INFO: Removed http://noticias.r7.com/brasil/alimento-para-a-alma-nao-so-o-corpo-a-producao-agricola-das-80-rocas-indigenas-na-maior-cidade-do-brasil-28122020
+2020-12-30 01:35:57,803          root     INFO: Removed http://noticias.r7.com/brasil/governadores-pedem-prorrogacao-do-estado-de-calamidade-no-pais-28122020
+2020-12-30 01:35:57,806          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-oferece-canal-para-viajantes-brasileiros-no-reino-unido-28122020
+2020-12-30 01:35:57,810          root     INFO: Removed http://noticias.r7.com/brasil/ha-vacina-contra-o-ataque-da-etica-a-moral-28122020
+2020-12-30 01:35:57,814          root     INFO: Removed http://noticias.r7.com/brasil/expectativa-de-vida-no-pais-deve-cair-ate-2-anos-por-causa-da-covid-28122020
+2020-12-30 01:35:57,817          root     INFO: Removed http://noticias.r7.com/brasil/stf-plenario-confirma-suspensao-do-decreto-da-educacao-especial-28122020
+2020-12-30 01:35:57,821          root     INFO: Removed http://noticias.r7.com/brasil/stj-determina-cumprimento-de-prisao-domiciliar-humanitaria-28122020
+2020-12-30 01:35:57,821          root     INFO: Finished script
