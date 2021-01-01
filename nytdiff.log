@@ -1,14 +1,8 @@
-2021-01-01 22:35:51,721          root     INFO: Starting script
-2021-01-01 22:35:52,735          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-01 22:35:53,564          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-01 22:35:54,394          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-01 22:35:54,690          root     INFO: Parsing R7 - Brasil
-2021-01-01 22:35:56,813          root     INFO: O presidente Jair Bolsonaro (sem partido) voltou a provocar aglomeração no litoral sul de São Paulo nesta sexta-feira (1º). Durante a tarde, ele registrou em suas redes sociais um passeio de barco em Praia Grande, cidade vizinha a Guarujá, onde <del>Bolsonaro</del> passa o feriado de Ano-Novo em uma base militar. Leia mais (01/01/2021 - 18h25)
-2021-01-01 22:35:58,716          root     INFO: Media ready with ids: 1345136712931041281
-2021-01-01 22:35:58,717          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-01 22:35:58,718          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-abre-2021-com-nova-aglomeracao-em-praia-de-sp-desta-vez-dentro-dagua.shtml
-2021-01-01 22:35:58,726          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-abre-2021-com-nova-aglomeracao-em-praia-de-sp-desta-vez-dentro-dagua.shtml
-2021-01-01 22:35:58,945          root     INFO: Replying to: 1345136714646499328
-2021-01-01 22:35:59,238          root     INFO: Id to store: 1345136715632144385
-2021-01-01 22:36:03,029          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-veta-trecho-de-lei-que-dava-mais-poder-a-parlamentares-sobre-gastos-01012021
-2021-01-01 22:36:03,030          root     INFO: Finished script
+2021-01-01 23:10:01,546          root     INFO: Starting script
+2021-01-01 23:10:02,569          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-01 23:10:03,399          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-01 23:10:04,232          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-01 23:10:04,530          root     INFO: Parsing R7 - Brasil
+2021-01-01 23:10:10,044          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-veta-trecho-da-ldo-que-dava-mais-poder-a-parlamentares-01012021
+2021-01-01 23:10:10,050          root     INFO: Removed http://noticias.r7.com/brasil/divida-publica-que-vence-em-2021-ja-chega-a-r-131-tri-01012021
+2021-01-01 23:10:10,051          root     INFO: Finished script
