@@ -1,16 +1,11 @@
-2021-01-01 16:05:57,021          root     INFO: Starting script
-2021-01-01 16:05:58,082          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-01 16:05:58,913          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-01 16:05:59,742          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-01 16:06:00,068          root     INFO: Parsing R7 - Brasil
-2021-01-01 16:06:00,481          root     INFO: A festa <del>e</del> <ins>,</ins> o novo ano <ins>e o que queremos superar</ins>
-2021-01-01 16:06:02,261          root     INFO: Media ready with ids: 1345038581262381058
-2021-01-01 16:06:02,262          root     INFO: Text to tweet: Modificação do Título
-2021-01-01 16:06:02,262          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2020/12/a-festa-e-o-novo-ano.shtml
-2021-01-01 16:06:02,269          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2020/12/a-festa-e-o-novo-ano.shtml
-2021-01-01 16:06:02,532          root     INFO: Replying to: 1345038582952701952
-2021-01-01 16:06:02,811          root     INFO: Id to store: 1345038583929991168
-2021-01-01 16:06:07,988          root     INFO: New article tracked: http://noticias.r7.com/brasil/jair-bolsonaro-sanciona-lei-de-diretrizes-orcamentarias-para-2021-31122020
-2021-01-01 16:06:07,999          root     INFO: New article tracked: http://noticias.r7.com/brasil/regras-de-reembolso-de-passagens-aereas-sao-renovadas-ate-outubro-31122020
-2021-01-01 16:06:08,008          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-19-o-que-muda-ou-nao-no-combate-a-pandemia-com-a-nova-variante-do-coronavirus-no-brasil-31122020
-2021-01-01 16:06:08,340          root     INFO: Finished script
+2021-01-01 17:05:20,092          root     INFO: Starting script
+2021-01-01 17:05:20,922          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-01 17:05:21,598          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-01 17:05:22,275          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-01 17:05:22,445          root     INFO: Parsing R7 - Brasil
+2021-01-01 17:05:22,823          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/01/venda-de-veiculos-leves-e-pesados-cai-262-em-2020.shtml
+2021-01-01 17:05:28,942          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/12/palavras-de-bolsonaro-produzem-agenda-destrutiva-da-seguranca-a-vacinacao.shtml
+2021-01-01 17:05:28,945          root     INFO: Removed http://noticias.r7.com/brasil/regras-de-reembolso-de-passagens-aereas-sao-renovadas-ate-outubro-31122020
+2021-01-01 17:05:28,950          root     INFO: Removed http://noticias.r7.com/brasil/jair-bolsonaro-sanciona-lei-de-diretrizes-orcamentarias-para-2021-31122020
+2021-01-01 17:05:28,954          root     INFO: Removed http://noticias.r7.com/brasil/covid-19-o-que-muda-ou-nao-no-combate-a-pandemia-com-a-nova-variante-do-coronavirus-no-brasil-31122020
+2021-01-01 17:05:28,954          root     INFO: Finished script
