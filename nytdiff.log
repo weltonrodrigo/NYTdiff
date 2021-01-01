@@ -1,10 +1,16 @@
-2021-01-01 15:32:13,541          root     INFO: Starting script
-2021-01-01 15:32:14,828          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-01 15:32:15,497          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-01 15:32:16,162          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-01 15:32:16,402          root     INFO: Parsing R7 - Brasil
-2021-01-01 15:32:16,770          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2021/01/bolsa-2021-120-mil-votos-de-confianca-e-32-milhoes-de-esperancosos.shtml
-2021-01-01 15:32:18,680          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/entenda-os-recessos-do-congresso-e-do-supremo-as-justificativas-e-os-excessos.shtml
-2021-01-01 15:32:22,672          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2020/12/sem-vacina.shtml
-2021-01-01 15:32:22,682          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/senadores-pressionam-bolsonaro-por-nome-do-norte-no-supremo-em-2021.shtml
-2021-01-01 15:32:22,682          root     INFO: Finished script
+2021-01-01 16:05:57,021          root     INFO: Starting script
+2021-01-01 16:05:58,082          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-01 16:05:58,913          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-01 16:05:59,742          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-01 16:06:00,068          root     INFO: Parsing R7 - Brasil
+2021-01-01 16:06:00,481          root     INFO: A festa <del>e</del> <ins>,</ins> o novo ano <ins>e o que queremos superar</ins>
+2021-01-01 16:06:02,261          root     INFO: Media ready with ids: 1345038581262381058
+2021-01-01 16:06:02,262          root     INFO: Text to tweet: Modificação do Título
+2021-01-01 16:06:02,262          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2020/12/a-festa-e-o-novo-ano.shtml
+2021-01-01 16:06:02,269          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2020/12/a-festa-e-o-novo-ano.shtml
+2021-01-01 16:06:02,532          root     INFO: Replying to: 1345038582952701952
+2021-01-01 16:06:02,811          root     INFO: Id to store: 1345038583929991168
+2021-01-01 16:06:07,988          root     INFO: New article tracked: http://noticias.r7.com/brasil/jair-bolsonaro-sanciona-lei-de-diretrizes-orcamentarias-para-2021-31122020
+2021-01-01 16:06:07,999          root     INFO: New article tracked: http://noticias.r7.com/brasil/regras-de-reembolso-de-passagens-aereas-sao-renovadas-ate-outubro-31122020
+2021-01-01 16:06:08,008          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-19-o-que-muda-ou-nao-no-combate-a-pandemia-com-a-nova-variante-do-coronavirus-no-brasil-31122020
+2021-01-01 16:06:08,340          root     INFO: Finished script
