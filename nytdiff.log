@@ -1,8 +1,15 @@
-2021-01-02 16:05:06,396          root     INFO: Starting script
-2021-01-02 16:05:07,428          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-02 16:05:08,273          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-02 16:05:09,109          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-02 16:05:09,441          root     INFO: Parsing R7 - Brasil
-2021-01-02 16:05:09,795          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/01/fernando-diniz-tera-de-aprender-que-as-vezes-e-preciso-mudar-conviccoes.shtml
-2021-01-02 16:05:15,381          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2020/12/feliz-ano-novo-que-perigo.shtml
-2021-01-02 16:05:15,383          root     INFO: Finished script
+2021-01-02 17:01:06,493          root     INFO: Starting script
+2021-01-02 17:01:07,524          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-02 17:01:08,372          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-02 17:01:09,220          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-02 17:01:09,524          root     INFO: Parsing R7 - Brasil
+2021-01-02 17:01:09,879          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/01/era-uma-vez-o-bloody-mary-como-solucao-para-ressaca.shtml
+2021-01-02 17:01:12,199          root     INFO: Almirante Flávio Rocha <del>é diagnosticado</del> <ins>está</ins> com Covid-19 e diz se tratar com hidroxicloroquina
+2021-01-02 17:01:14,073          root     INFO: Media ready with ids: 1345414859354206216
+2021-01-02 17:01:14,073          root     INFO: Text to tweet: Modificação do Título
+2021-01-02 17:01:14,073          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/almirante-flavio-rocha-e-diagnosticado-com-covid-19-e-diz-se-tratar-com-hidroxicloroquina.shtml
+2021-01-02 17:01:14,082          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/almirante-flavio-rocha-e-diagnosticado-com-covid-19-e-diz-se-tratar-com-hidroxicloroquina.shtml
+2021-01-02 17:01:14,321          root     INFO: Replying to: 1345414861451382785
+2021-01-02 17:01:14,729          root     INFO: Id to store: 1345414862579539968
+2021-01-02 17:01:19,252          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2020/12/olhando-para-frente-e-para-tras.shtml
+2021-01-02 17:01:19,253          root     INFO: Finished script
