@@ -1,6 +1,13 @@
-2021-01-03 22:01:22,087          root     INFO: Starting script
-2021-01-03 22:01:22,905          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-03 22:01:23,560          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-03 22:01:24,211          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-03 22:01:24,465          root     INFO: Parsing R7 - Brasil
-2021-01-03 22:01:30,882          root     INFO: Finished script
+2021-01-03 22:35:44,090          root     INFO: Starting script
+2021-01-03 22:35:44,910          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-03 22:35:45,583          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-03 22:35:46,247          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-03 22:35:46,423          root     INFO: Parsing R7 - Brasil
+2021-01-03 22:35:46,798          root     INFO: O River Plate chega às semifinais da Libertadores com o melhor ataque da história do torneio. São 31 gols. O Palmeiras era o detentor do recorde até os 28 minutos do segundo tempo do último jogo das quartas de final. Foi o momento em que o River marcou seu quinto gol no 6 a 2 contra o Nacional (URU). <del>Segundo ataque desta Libertadores e da história, o Palmeiras já marcou 29 vezes. Mas jogou mal seus últimos quatro jogos, contra o América-MG (duas vezes), Bragantino e Internacional. Obteve vitória de time grande contras os mineiros, daquelas que vêm apenas da confiança de ser melhor. Se o duelo entre River e Palmeiras tem os dois ataques mais positivos, o Santos enfrentará a defesa menos vazada dos semifinalistas. O Boca Juniors sofreu apenas três gols, um a menos do que o time de Abel Ferreira. Se a estatística tivesse peso, o Santos seria o patinho feio, por possuir o segundo pior ataque e o maior número de gols sofridos, comparados os quatro semifinalistas.</del> Leia mais (01/03/2021 - 17h26)
+2021-01-03 22:35:48,784          root     INFO: Media ready with ids: 1345861446538825730
+2021-01-03 22:35:48,785          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-03 22:35:48,785          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/palmeiras-e-river-plate-farao-duelo-do-ataque-na-libertadores.shtml
+2021-01-03 22:35:48,796          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/palmeiras-e-river-plate-farao-duelo-do-ataque-na-libertadores.shtml
+2021-01-03 22:35:48,990          root     INFO: Replying to: 1345861448640196608
+2021-01-03 22:35:49,247          root     INFO: Id to store: 1345861449424515074
+2021-01-03 22:35:55,018          root     INFO: Finished script
