@@ -1,16 +1,8 @@
-2021-01-04 18:56:42,927          root     INFO: Starting script
-2021-01-04 18:56:43,792          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-04 18:56:44,443          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-04 18:56:45,096          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-04 18:56:45,265          root     INFO: Parsing R7 - Brasil
-2021-01-04 18:56:45,623          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/01/precisamos-de-mais-dandies-e-menos-plagiarios-na-falsa-diversidade-que-vivemos.shtml
-2021-01-04 18:56:51,594          root     INFO: New article tracked: http://noticias.r7.com/brasil/o-coronel-assassinado-por-nao-tolerar-o-crime-04012021
-2021-01-04 18:56:51,608          root     INFO: New article tracked: http://noticias.r7.com/brasil/celso-russomanno-assume-presidencia-do-parlasul-04012021
-2021-01-04 18:56:51,619          root     INFO: New article tracked: http://noticias.r7.com/brasil/bancos-esperam-reduzir-pela-metade-expansao-do-credito-04012021
-2021-01-04 18:56:51,630          root     INFO: New article tracked: http://noticias.r7.com/brasil/stj-mantem-na-prisao-vereador-acusado-de-comandar-jogo-do-bicho-04012021
-2021-01-04 18:56:51,640          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibovespa-inicia-2020-em-alta-com-otimismo-por-vacinas-contra-covid-04012021
-2021-01-04 18:56:51,650          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-comeca-2021-em-queda-ante-real-com-otimismo-internacional-04012021
-2021-01-04 18:56:51,664          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-feriado-bolsonaro-retorna-a-brasilia-nesta-segunda-feira-04012021
-2021-01-04 18:56:51,697          root     INFO: New article tracked: http://noticias.r7.com/brasil/inglaterra-completa-1-mes-de-vacinacao-brasil-segue-sem-definir-data-04012021
-2021-01-04 18:56:51,934          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2020/12/quem-sabe-em-2021-o-seculo-20-consegue-finalmente-virar-21.shtml
-2021-01-04 18:56:51,935          root     INFO: Finished script
+2021-01-04 19:26:48,864          root     INFO: Starting script
+2021-01-04 19:26:49,749          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-04 19:26:50,435          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-04 19:26:51,125          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-04 19:26:51,332          root     INFO: Parsing R7 - Brasil
+2021-01-04 19:26:55,855          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/01/areas-urbanas-do-mediterraneo-dos-eua-e-do-brasil-podem-ficar-50c-mais-quentes-ate-2100.shtml
+2021-01-04 19:26:58,208          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2020/10/acordo-mercosul-ue-por-uma-clausula-ambiental-vinculativa.shtml
+2021-01-04 19:26:58,209          root     INFO: Finished script
