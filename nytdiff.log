@@ -1,13 +1,13 @@
-2021-01-04 14:36:36,503          root     INFO: Starting script
-2021-01-04 14:36:37,301          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-04 14:36:37,945          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-04 14:36:38,590          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-04 14:36:38,832          root     INFO: Parsing R7 - Brasil
-2021-01-04 14:36:45,464          root     INFO: Removed http://noticias.r7.com/brasil/ipc-s-avanca-a-107-em-dezembro-e-fecha-ano-em-517-diz-fgv-04012021
-2021-01-04 14:36:45,469          root     INFO: Removed http://noticias.r7.com/brasil/dolar-abre-em-queda-contra-o-real-com-otimismo-internacional-04012021
-2021-01-04 14:36:45,477          root     INFO: Removed http://noticias.r7.com/brasil/governo-restringe-exportacao-de-agulhas-e-seringas-para-vacinacao-03012021
-2021-01-04 14:36:45,482          root     INFO: Removed http://noticias.r7.com/brasil/dia-mundial-do-braile-alerta-para-inclusao-na-escrita-e-na-leitura-04012021
-2021-01-04 14:36:45,490          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-lida-com-reformas-e-vacina-em-2-tempo-de-mandato-04012021
-2021-01-04 14:36:45,497          root     INFO: Removed http://noticias.r7.com/brasil/inglaterra-completa-um-mes-de-vacinacao-brasil-segue-sem-fixar-data-04012021
-2021-01-04 14:36:45,502          root     INFO: Removed http://noticias.r7.com/brasil/pandemia-fez-diminuir-denuncias-de-violencia-sexual-contra-menores-04012021
-2021-01-04 14:36:45,502          root     INFO: Finished script
+2021-01-04 14:58:39,415          root     INFO: Starting script
+2021-01-04 14:58:40,229          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-04 14:58:40,897          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-04 14:58:41,563          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-04 14:58:41,762          root     INFO: Parsing R7 - Brasil
+2021-01-04 14:58:44,285          root     INFO: <del>Já o</del> <ins>O</ins> PSOL está dividido ao meio entre apoiar Baleia Rossi <ins>(MDB)</ins> ou lançar candidatura <del>própria,</del> <ins>própria à presidência da Câmara,</ins> diz Sâmia Bomfim, líder do <del>partido,</del> <ins>partido na Casa,</ins> que conta com dez parlamentares. Leia mais (01/03/2021 - 23h15)
+2021-01-04 14:58:47,483          root     INFO: Media ready with ids: 1346108821513641984
+2021-01-04 14:58:47,484          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-04 14:58:47,485          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/psol-esta-divido-ao-meio-sobre-eleicao-na-camara-mas-lider-defende-apoio-a-baleia-rossi.shtml
+2021-01-04 14:58:47,493          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/psol-esta-divido-ao-meio-sobre-eleicao-na-camara-mas-lider-defende-apoio-a-baleia-rossi.shtml
+2021-01-04 14:58:47,925          root     INFO: Replying to: 1346108824252514304
+2021-01-04 14:58:48,180          root     INFO: Id to store: 1346108825024262145
+2021-01-04 14:58:52,150          root     INFO: Finished script
