@@ -1,15 +1,13 @@
-2021-01-04 22:02:40,862          root     INFO: Starting script
-2021-01-04 22:02:41,661          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-04 22:02:42,328          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-04 22:02:42,985          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-04 22:02:43,231          root     INFO: Parsing R7 - Brasil
-2021-01-04 22:02:43,663          root     INFO: O presidente mesmo disse que a melhor vacina é o <del>vírus</del> <ins>vírus, você deve se informar</ins>
-2021-01-04 22:02:45,438          root     INFO: Media ready with ids: 1346215516231360518
-2021-01-04 22:02:45,438          root     INFO: Text to tweet: Modificação do Título
-2021-01-04 22:02:45,438          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/01/o-presidente-mesmo-disse-que-a-melhor-vacina-e-o-virus.shtml
-2021-01-04 22:02:45,449          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/01/o-presidente-mesmo-disse-que-a-melhor-vacina-e-o-virus.shtml
-2021-01-04 22:02:45,653          root     INFO: Replying to: 1346215517799985152
-2021-01-04 22:02:45,950          root     INFO: Id to store: 1346215518605373440
-2021-01-04 22:02:48,064          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/procuradores-do-ministerio-publico-do-rio-discutem-reacao-a-declaracao-de-bolsonaro-em-live.shtml
-2021-01-04 22:02:52,437          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/servidores-do-stf-dizem-que-exonerado-por-fux-nao-era-o-responsavel-por-avisa-lo-de-pedido-para-fiocruz.shtml
-2021-01-04 22:02:52,438          root     INFO: Finished script
+2021-01-04 22:37:43,565          root     INFO: Starting script
+2021-01-04 22:37:44,374          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-04 22:37:45,032          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-04 22:37:45,693          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-04 22:37:45,901          root     INFO: Parsing R7 - Brasil
+2021-01-04 22:37:48,241          root     INFO: A bancada do PT, a maior da Câmara, com 52 deputados, decidiu nesta segunda-feira (4) apoiar a candidatura de Baleia Rossi (MDB-SP) ao comando da Casa. <del>Baleia</del> <ins>Ele</ins> é o candidato do atual presidente, Rodrigo Maia (DEM-RJ). Leia mais (01/04/2021 - 17h34)
+2021-01-04 22:37:49,997          root     INFO: Media ready with ids: 1346224343207059458
+2021-01-04 22:37:49,997          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-04 22:37:49,998          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/em-votacao-apertada-pt-decide-apoiar-baleia-rossi-candidato-de-maia-na-eleicao-da-camara.shtml
+2021-01-04 22:37:50,005          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/em-votacao-apertada-pt-decide-apoiar-baleia-rossi-candidato-de-maia-na-eleicao-da-camara.shtml
+2021-01-04 22:37:50,170          root     INFO: Replying to: 1346224344784121858
+2021-01-04 22:37:50,453          root     INFO: Id to store: 1346224345467772929
+2021-01-04 22:37:54,512          root     INFO: Finished script
