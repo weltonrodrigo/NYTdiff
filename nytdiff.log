@@ -1,13 +1,13 @@
-2021-01-04 14:04:55,589          root     INFO: Starting script
-2021-01-04 14:04:56,806          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-04 14:04:57,649          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-04 14:04:58,488          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-04 14:04:58,802          root     INFO: Parsing R7 - Brasil
-2021-01-04 14:05:04,549          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-abre-em-queda-contra-o-real-com-otimismo-internacional-04012021
-2021-01-04 14:05:04,562          root     INFO: New article tracked: http://noticias.r7.com/brasil/inglaterra-completa-um-mes-de-vacinacao-brasil-segue-sem-fixar-data-04012021
-2021-01-04 14:05:04,572          root     INFO: New article tracked: http://noticias.r7.com/brasil/ipc-s-avanca-a-107-em-dezembro-e-fecha-ano-em-517-diz-fgv-04012021
-2021-01-04 14:05:04,582          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-lida-com-reformas-e-vacina-em-2-tempo-de-mandato-04012021
-2021-01-04 14:05:04,591          root     INFO: New article tracked: http://noticias.r7.com/brasil/dia-mundial-do-braile-alerta-para-inclusao-na-escrita-e-na-leitura-04012021
-2021-01-04 14:05:04,600          root     INFO: New article tracked: http://noticias.r7.com/brasil/pandemia-fez-diminuir-denuncias-de-violencia-sexual-contra-menores-04012021
-2021-01-04 14:05:04,610          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-restringe-exportacao-de-agulhas-e-seringas-para-vacinacao-03012021
-2021-01-04 14:05:04,858          root     INFO: Finished script
+2021-01-04 14:36:36,503          root     INFO: Starting script
+2021-01-04 14:36:37,301          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-04 14:36:37,945          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-04 14:36:38,590          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-04 14:36:38,832          root     INFO: Parsing R7 - Brasil
+2021-01-04 14:36:45,464          root     INFO: Removed http://noticias.r7.com/brasil/ipc-s-avanca-a-107-em-dezembro-e-fecha-ano-em-517-diz-fgv-04012021
+2021-01-04 14:36:45,469          root     INFO: Removed http://noticias.r7.com/brasil/dolar-abre-em-queda-contra-o-real-com-otimismo-internacional-04012021
+2021-01-04 14:36:45,477          root     INFO: Removed http://noticias.r7.com/brasil/governo-restringe-exportacao-de-agulhas-e-seringas-para-vacinacao-03012021
+2021-01-04 14:36:45,482          root     INFO: Removed http://noticias.r7.com/brasil/dia-mundial-do-braile-alerta-para-inclusao-na-escrita-e-na-leitura-04012021
+2021-01-04 14:36:45,490          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-lida-com-reformas-e-vacina-em-2-tempo-de-mandato-04012021
+2021-01-04 14:36:45,497          root     INFO: Removed http://noticias.r7.com/brasil/inglaterra-completa-um-mes-de-vacinacao-brasil-segue-sem-fixar-data-04012021
+2021-01-04 14:36:45,502          root     INFO: Removed http://noticias.r7.com/brasil/pandemia-fez-diminuir-denuncias-de-violencia-sexual-contra-menores-04012021
+2021-01-04 14:36:45,502          root     INFO: Finished script
