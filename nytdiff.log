@@ -1,10 +1,8 @@
-2021-01-05 23:12:05,383          root     INFO: Starting script
-2021-01-05 23:12:06,420          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-05 23:12:07,059          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-05 23:12:07,702          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-05 23:12:07,868          root     INFO: Parsing R7 - Brasil
-2021-01-05 23:12:09,962          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/deputado-preterido-por-maia-agora-apoia-lira-e-integra-comitiva-de-candidato-de-bolsonaro.shtml
-2021-01-05 23:12:09,975          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/deputado-de-sp-que-apalpou-colega-diz-nao-saber-do-que-e-acusado-e-contesta-processo-do-partido.shtml
-2021-01-05 23:12:13,584          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/12/seguir-cada-detalhe-da-partida-de-trump-sera-um-grande-espetaculo.shtml
-2021-01-05 23:12:13,588          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/12/bolsonaro-emporcalha-a-presidencia-ate-durante-as-ferias.shtml
-2021-01-05 23:12:13,588          root     INFO: Finished script
+2021-01-05 23:48:02,955          root     INFO: Starting script
+2021-01-05 23:48:03,774          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-05 23:48:04,446          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-05 23:48:05,112          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-05 23:48:05,404          root     INFO: Parsing R7 - Brasil
+2021-01-05 23:48:07,684          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/deputado-que-apalpou-colega-cita-huck-como-possivel-motivo-para-punicao-do-cidadania.shtml
+2021-01-05 23:48:11,648          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/igualdade-de-genero-precisa-chegar-as-tarefas-de-casa-diz-1a-mulher-eleita-presidente-de-associacao-de-advogados.shtml
+2021-01-05 23:48:11,653          root     INFO: Finished script
