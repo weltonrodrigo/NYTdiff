@@ -1,6 +1,8 @@
-2021-01-05 21:00:15,653          root     INFO: Starting script
-2021-01-05 21:00:16,666          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-05 21:00:17,498          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-05 21:00:18,334          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-05 21:00:18,697          root     INFO: Parsing R7 - Brasil
-2021-01-05 21:00:24,953          root     INFO: Finished script
+2021-01-05 21:28:21,521          root     INFO: Starting script
+2021-01-05 21:28:23,160          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-05 21:28:23,992          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-05 21:28:24,824          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-05 21:28:25,182          root     INFO: Parsing R7 - Brasil
+2021-01-05 21:28:25,522          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/01/deve-haver-alguma-fraude-atras-de-tanta-fralda-nas-farmacias-por-todo-lado.shtml
+2021-01-05 21:28:31,319          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2020/12/2020-foi-o-ano-em-que-o-reaganismo-morreu.shtml
+2021-01-05 21:28:31,319          root     INFO: Finished script
