@@ -1,13 +1,37 @@
-2021-01-06 11:45:28,503          root     INFO: Starting script
-2021-01-06 11:45:29,716          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-06 11:45:30,379          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-06 11:45:31,048          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-06 11:45:31,167          root     INFO: Parsing R7 - Brasil
-2021-01-06 11:45:31,642          root     INFO: A capitalização do produtor agrícola faz com que ele cuide melhor da lavoura. Em 2020, as importações de adubo atingiram o recorde de 34 milhões de toneladas. <del>Nos últimos três anos, as compras externas deste insumo somaram uma média anual de 32 milhões de toneladas, 33% mais do que nos três imediatamente anteriores, segundo dados da Secex (Secretaria de Comércio Exterior). Nas safras de 2018/19 a 2020/21, a área média cultivada no país é de 65 milhões de hectares, apenas 8% a mais do que nas três safras imediatamente anteriores, segundo a Conab (Companhia Nacional de Abastecimento). Já a venda de adubo dos sete primeiros meses do ano passado, em relação a igual período anterior, cresceu 16%, segundo a Anda (Associação Nacional dos Distribuidores de Adubo).</del> Leia mais (01/05/2021 - 23h15)
-2021-01-06 11:45:33,521          root     INFO: Media ready with ids: 1346784968576536576
-2021-01-06 11:45:33,522          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-06 11:45:33,522          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/com-mais-renda-produtor-cuida-melhor-da-lavoura.shtml
-2021-01-06 11:45:33,529          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/com-mais-renda-produtor-cuida-melhor-da-lavoura.shtml
-2021-01-06 11:45:33,693          root     INFO: Replying to: 1346784970245894147
-2021-01-06 11:45:33,911          root     INFO: Id to store: 1346784970883428363
-2021-01-06 11:45:39,202          root     INFO: Finished script
+2021-01-06 12:00:09,702          root     INFO: Starting script
+2021-01-06 12:00:10,755          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-06 12:00:11,606          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-06 12:00:12,478          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-06 12:00:12,802          root     INFO: Parsing R7 - Brasil
+2021-01-06 12:00:19,009          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-bloqueia-bolsa-familia-de-doadores-nas-eleicoes-2020-06012021
+2021-01-06 12:00:19,023          root     INFO: New article tracked: http://noticias.r7.com/brasil/colombia-aprova-uso-emergencial-de-vacina-da-pfizer-contra-covid-19-05012021
+2021-01-06 12:00:19,033          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/reporter-record-investigacao-mostra-o-drama-de-quem-vive-as-margens-da-estrada-de-ferro-caraja-05012021
+2021-01-06 12:00:19,042          root     INFO: New article tracked: http://noticias.r7.com/brasil/banco-mundial-preve-avanco-de-4-no-pib-global-e-de-3-no-do-brasil-05012021
+2021-01-06 12:00:19,051          root     INFO: New article tracked: http://noticias.r7.com/brasil/desembargador-mantem-decreto-de-novo-lockdown-no-amazonas-05012021
+2021-01-06 12:00:19,060          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-fecha-com-leve-queda-apos-saltar-16-durante-o-dia-05012021
+2021-01-06 12:00:19,070          root     INFO: New article tracked: http://noticias.r7.com/brasil/projeto-amplia-estado-de-calamidade-ate-30-de-junho-05012021
+2021-01-06 12:00:19,080          root     INFO: New article tracked: http://noticias.r7.com/brasil/rossi-ira-oficializar-candidatura-a-presidencia-da-camara-na-quarta-05012021
+2021-01-06 12:00:19,090          root     INFO: New article tracked: http://noticias.r7.com/brasil/alianca-do-bloco-de-maia-causa-dissidencias-nos-partidos-05012021
+2021-01-06 12:00:19,106          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiz-da-a-defesa-de-lula-acesso-a-mensagens-da-operacao-spoofing-05012021
+2021-01-06 12:00:19,116          root     INFO: New article tracked: http://noticias.r7.com/brasil/isolado-mourao-se-recupera-da-covid-19-e-deve-retomar-atividades-05012021
+2021-01-06 12:00:19,125          root     INFO: New article tracked: http://noticias.r7.com/brasil/baleia-rossi-reitera-compromisso-com-vacinacao-universal-e-gratuita-05012021
+2021-01-06 12:00:19,145          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-se-recupera-da-covid-e-deve-retomar-atividades-diz-assessoria-05012021
+2021-01-06 12:00:19,170          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-brasil-esta-quebrado-nao-consigo-fazer-nada-05012021
+2021-01-06 12:00:19,180          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-da-justica-vira-socio-rei-do-santos-futebol-clube-05012021
+2021-01-06 12:00:19,190          root     INFO: New article tracked: http://noticias.r7.com/brasil/receita-apreende-670-quilos-de-cocaina-em-carga-de-goiabada-05012021
+2021-01-06 12:00:19,199          root     INFO: New article tracked: http://noticias.r7.com/brasil/fenabrave-preve-alta-de-16-nas-vendas-de-veiculos-em-2021-05012021
+2021-01-06 12:00:19,209          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/receita-encontra-cocaina-em-carga-de-goiabada-no-porto-de-santos-05012021
+2021-01-06 12:00:19,263          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-intima-juiz-que-negou-acesso-de-lula-a-mensagens-04012021
+2021-01-06 12:00:19,266          root     INFO: Removed http://noticias.r7.com/brasil/pt-vai-apoiar-baleia-rossi-para-presidencia-da-camara-04012021
+2021-01-06 12:00:19,269          root     INFO: Removed http://noticias.r7.com/brasil/exportacoes-superam-importacoes-em-r-2677-bilhoes-em-2020-04012021
+2021-01-06 12:00:19,273          root     INFO: Removed http://noticias.r7.com/brasil/oposicao-defende-acesso-universal-a-vacina-ao-apoiar-baleia-rossi-04012021
+2021-01-06 12:00:19,276          root     INFO: Removed http://noticias.r7.com/brasil/contran-autoriza-digitalizacao-de-documentos-de-registro-04012021
+2021-01-06 12:00:19,279          root     INFO: Removed http://noticias.r7.com/brasil/itamaraty-busca-acordo-para-importacao-de-vacinas-da-india-04012021
+2021-01-06 12:00:19,282          root     INFO: Removed http://noticias.r7.com/brasil/cnj-recebe-pedido-para-investigar-juiza-por-apologia-a-aglomeracao-04012021
+2021-01-06 12:00:19,285          root     INFO: Removed http://noticias.r7.com/brasil/mudanca-em-sistema-do-governo-deixa-servidores-sem-salario-04012021
+2021-01-06 12:00:19,289          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-retorna-a-praia-grande-no-ultimo-dia-da-folga-de-fim-de-ano-04012021
+2021-01-06 12:00:19,292          root     INFO: Removed http://noticias.r7.com/brasil/por-uma-nova-era-com-mais-espontaneidade-04012021
+2021-01-06 12:00:19,295          root     INFO: Removed http://noticias.r7.com/brasil/selecoes-de-rachadinhas-04012021
+2021-01-06 12:00:19,299          root     INFO: Removed http://noticias.r7.com/brasil/estradas-federais-registram-903-acidentes-e-67-mortes-no-ano-novo-04012021
+2021-01-06 12:00:19,302          root     INFO: Removed http://noticias.r7.com/brasil/imoveis-residenciais-fecham-2020-com-alta-de-37-nos-precos-05012021
+2021-01-06 12:00:19,303          root     INFO: Finished script
