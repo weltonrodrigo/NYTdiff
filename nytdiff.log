@@ -1,14 +1,10 @@
-2021-01-06 19:01:24,152          root     INFO: Starting script
-2021-01-06 19:01:24,987          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-06 19:01:25,626          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-06 19:01:26,267          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-06 19:01:26,499          root     INFO: Parsing R7 - Brasil
-2021-01-06 19:01:26,786          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/01/como-uma-xoxota-gigante-causa-tanta-polemica-se-a-vida-comeca-por-ela.shtml
-2021-01-06 19:01:28,871          root     INFO: O deputado estadual Fernando Cury (Cidadania-SP), que apalpou a colega Isa Penna (PSOL-SP) no plenário da Assembleia Legislativa de São Paulo, <del>informou nesta terça-feira (5) ter encaminhado à</del> <ins>se defendeu perante a</ins> comissão de ética de seu partido <del>sua defesa no caso.</del> <ins>e contestou a validade do processo aberto para investigá-lo.</ins> Leia mais (01/05/2021 - 19h51)
-2021-01-06 19:01:30,671          root     INFO: Media ready with ids: 1346894679581872129
-2021-01-06 19:01:30,672          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-06 19:01:30,672          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/deputado-de-sp-que-apalpou-colega-diz-nao-saber-do-que-e-acusado-e-contesta-processo-do-partido.shtml
-2021-01-06 19:01:30,680          root     INFO: Replying to: 1346851110523449350
-2021-01-06 19:01:30,960          root     INFO: Id to store: 1346894681448308737
-2021-01-06 19:01:34,451          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2020/12/nao-faz-sentido-que-a-vida-com-toda-sua-complexidade-seja-assim-e-ponto.shtml
-2021-01-06 19:01:34,452          root     INFO: Finished script
+2021-01-06 19:39:58,101          root     INFO: Starting script
+2021-01-06 19:39:59,105          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-06 19:39:59,923          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-06 19:40:00,745          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-06 19:40:01,061          root     INFO: Parsing R7 - Brasil
+2021-01-06 19:40:03,286          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/campanha-de-baleia-rossi-a-presidencia-da-camara-comeca-com-viagem-na-sexta-ao-piaui.shtml
+2021-01-06 19:40:03,300          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/apos-ser-citado-em-defesa-de-deputado-que-apalpou-colega-huck-pede-rigor-da-lei-contra-assediadores.shtml
+2021-01-06 19:40:06,781          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-schuler/2020/12/esqueca-um-pouco-a-politica-e-descubra-as-coisas-interessantes-que-temos-em-comum.shtml
+2021-01-06 19:40:06,784          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2020/12/governo-teve-pressa-com-cloroquina-mas-nega-ao-pais-empenho-na-vacinacao.shtml
+2021-01-06 19:40:06,785          root     INFO: Finished script
