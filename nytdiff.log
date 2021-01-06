@@ -1,8 +1,25 @@
-2021-01-06 22:39:38,418          root     INFO: Starting script
-2021-01-06 22:39:39,220          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-06 22:39:39,880          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-06 22:39:40,540          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-06 22:39:40,729          root     INFO: Parsing R7 - Brasil
-2021-01-06 22:39:41,073          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/01/o-que-sobrou-do-superpoder-americano-produziu-uma-chanchada-de-terror.shtml
-2021-01-06 22:39:46,267          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2020/12/o-que-estraga-o-trabalho-de-tecnicos-no-brasil-somos-todos-nos.shtml
-2021-01-06 22:39:46,267          root     INFO: Finished script
+2021-01-06 23:12:24,380          root     INFO: Starting script
+2021-01-06 23:12:25,187          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-06 23:12:25,841          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-06 23:12:26,487          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-06 23:12:26,718          root     INFO: Parsing R7 - Brasil
+2021-01-06 23:12:27,089          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/golpismo-de-trump-mostra-que-instituicoes-fortes-nem-sempre-conseguem-salvar-a-democracia.shtml
+2021-01-06 23:12:29,093          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/governador-mantem-tradicao-e-indica-mais-votado-para-chefiar-mp-rj-sob-pressao-do-caso-flavio-bolsonaro.shtml
+2021-01-06 23:12:29,106          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/golpismo-de-trump-mostra-que-instituicoes-fortes-nem-sempre-conseguem-salvar-a-democracia.shtml
+2021-01-06 23:12:29,181          root     INFO: Baleia <del>lança candidatura na Câmara</del> <ins>reforça aceno à oposição, tenta conter infiéis</ins> e <del>fala em prorrogar auxílio ou aumentar Bolsa Família na pandemia</del> <ins>pressiona governo Bolsonaro</ins>
+2021-01-06 23:12:30,877          root     INFO: Media ready with ids: 1346957846890622977
+2021-01-06 23:12:30,877          root     INFO: Text to tweet: Modificação do Título
+2021-01-06 23:12:30,877          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/baleia-lanca-candidatura-na-camara-e-fala-em-prorrogar-auxilio-ou-aumentar-bolsa-familia-na-pandemia.shtml
+2021-01-06 23:12:30,886          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/baleia-lanca-candidatura-na-camara-e-fala-em-prorrogar-auxilio-ou-aumentar-bolsa-familia-na-pandemia.shtml
+2021-01-06 23:12:31,109          root     INFO: Replying to: 1346957848555761664
+2021-01-06 23:12:31,395          root     INFO: Id to store: 1346957849407213573
+2021-01-06 23:12:31,400          root     INFO: Em um discurso repleto de críticas indiretas ao governo do presidente Jair <del>Bolsonaro,</del> <ins>Bolsonaro (sem partido),</ins> o deputado federal Baleia Rossi <del>(MDB-SP), candidato ao comando da Câmara, afirmou nesta quarta-feira (6) que o Legislativo não pode ser submisso ao Executivo e defendeu o respeito à ciência no combate à pandemia da Covid-19. "Nós temos o dever de fiscalizar e acompanhar as ações do Executivo. Exatamente por isso, a Câmara dos Deputados não pode ser submissa. Se for submissa, não fiscaliza e não acompanha", afirmou. Em evento no qual</del> <ins>(MDB-SP)</ins> lançou <ins>oficialmente</ins> sua candidatura à <del>sucessão de Rodrigo Maia (DEM-RJ), o deputado emedebista defendeu a necessidade de o Legislativo continuar com um comando independente e pregou que o auxilio emergencial seja estendido neste ano.</del> <ins>presidência da Câmara nesta quarta-feira (6).</ins> Leia mais (01/06/2021 - 16h54)
+2021-01-06 23:12:33,309          root     INFO: Media ready with ids: 1346957856764010503
+2021-01-06 23:12:33,310          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-06 23:12:33,311          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/baleia-lanca-candidatura-na-camara-e-fala-em-prorrogar-auxilio-ou-aumentar-bolsa-familia-na-pandemia.shtml
+2021-01-06 23:12:33,319          root     INFO: Replying to: 1346957849407213573
+2021-01-06 23:12:33,595          root     INFO: Id to store: 1346957858575966208
+2021-01-06 23:12:37,674          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/saude-deixou-para-o-dia-30-habilitacao-de-novos-leitos-de-uti-para-covid-19-nos-estados.shtml
+2021-01-06 23:12:37,677          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/na-mira-do-stf-tribunais-do-juri-levam-quase-5-anos-para-julgar-metade-dos-casos-de-homicidios.shtml
+2021-01-06 23:12:37,681          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2020/12/bridgerton-ousa-na-forma-do-romance-de-epoca-com-negros-no-papel-de-nobres.shtml
+2021-01-06 23:12:37,682          root     INFO: Finished script
