@@ -1,37 +1,18 @@
-2021-01-06 12:00:09,702          root     INFO: Starting script
-2021-01-06 12:00:10,755          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-06 12:00:11,606          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-06 12:00:12,478          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-06 12:00:12,802          root     INFO: Parsing R7 - Brasil
-2021-01-06 12:00:19,009          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-bloqueia-bolsa-familia-de-doadores-nas-eleicoes-2020-06012021
-2021-01-06 12:00:19,023          root     INFO: New article tracked: http://noticias.r7.com/brasil/colombia-aprova-uso-emergencial-de-vacina-da-pfizer-contra-covid-19-05012021
-2021-01-06 12:00:19,033          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/reporter-record-investigacao-mostra-o-drama-de-quem-vive-as-margens-da-estrada-de-ferro-caraja-05012021
-2021-01-06 12:00:19,042          root     INFO: New article tracked: http://noticias.r7.com/brasil/banco-mundial-preve-avanco-de-4-no-pib-global-e-de-3-no-do-brasil-05012021
-2021-01-06 12:00:19,051          root     INFO: New article tracked: http://noticias.r7.com/brasil/desembargador-mantem-decreto-de-novo-lockdown-no-amazonas-05012021
-2021-01-06 12:00:19,060          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-fecha-com-leve-queda-apos-saltar-16-durante-o-dia-05012021
-2021-01-06 12:00:19,070          root     INFO: New article tracked: http://noticias.r7.com/brasil/projeto-amplia-estado-de-calamidade-ate-30-de-junho-05012021
-2021-01-06 12:00:19,080          root     INFO: New article tracked: http://noticias.r7.com/brasil/rossi-ira-oficializar-candidatura-a-presidencia-da-camara-na-quarta-05012021
-2021-01-06 12:00:19,090          root     INFO: New article tracked: http://noticias.r7.com/brasil/alianca-do-bloco-de-maia-causa-dissidencias-nos-partidos-05012021
-2021-01-06 12:00:19,106          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiz-da-a-defesa-de-lula-acesso-a-mensagens-da-operacao-spoofing-05012021
-2021-01-06 12:00:19,116          root     INFO: New article tracked: http://noticias.r7.com/brasil/isolado-mourao-se-recupera-da-covid-19-e-deve-retomar-atividades-05012021
-2021-01-06 12:00:19,125          root     INFO: New article tracked: http://noticias.r7.com/brasil/baleia-rossi-reitera-compromisso-com-vacinacao-universal-e-gratuita-05012021
-2021-01-06 12:00:19,145          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-se-recupera-da-covid-e-deve-retomar-atividades-diz-assessoria-05012021
-2021-01-06 12:00:19,170          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-brasil-esta-quebrado-nao-consigo-fazer-nada-05012021
-2021-01-06 12:00:19,180          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-da-justica-vira-socio-rei-do-santos-futebol-clube-05012021
-2021-01-06 12:00:19,190          root     INFO: New article tracked: http://noticias.r7.com/brasil/receita-apreende-670-quilos-de-cocaina-em-carga-de-goiabada-05012021
-2021-01-06 12:00:19,199          root     INFO: New article tracked: http://noticias.r7.com/brasil/fenabrave-preve-alta-de-16-nas-vendas-de-veiculos-em-2021-05012021
-2021-01-06 12:00:19,209          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/receita-encontra-cocaina-em-carga-de-goiabada-no-porto-de-santos-05012021
-2021-01-06 12:00:19,263          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-intima-juiz-que-negou-acesso-de-lula-a-mensagens-04012021
-2021-01-06 12:00:19,266          root     INFO: Removed http://noticias.r7.com/brasil/pt-vai-apoiar-baleia-rossi-para-presidencia-da-camara-04012021
-2021-01-06 12:00:19,269          root     INFO: Removed http://noticias.r7.com/brasil/exportacoes-superam-importacoes-em-r-2677-bilhoes-em-2020-04012021
-2021-01-06 12:00:19,273          root     INFO: Removed http://noticias.r7.com/brasil/oposicao-defende-acesso-universal-a-vacina-ao-apoiar-baleia-rossi-04012021
-2021-01-06 12:00:19,276          root     INFO: Removed http://noticias.r7.com/brasil/contran-autoriza-digitalizacao-de-documentos-de-registro-04012021
-2021-01-06 12:00:19,279          root     INFO: Removed http://noticias.r7.com/brasil/itamaraty-busca-acordo-para-importacao-de-vacinas-da-india-04012021
-2021-01-06 12:00:19,282          root     INFO: Removed http://noticias.r7.com/brasil/cnj-recebe-pedido-para-investigar-juiza-por-apologia-a-aglomeracao-04012021
-2021-01-06 12:00:19,285          root     INFO: Removed http://noticias.r7.com/brasil/mudanca-em-sistema-do-governo-deixa-servidores-sem-salario-04012021
-2021-01-06 12:00:19,289          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-retorna-a-praia-grande-no-ultimo-dia-da-folga-de-fim-de-ano-04012021
-2021-01-06 12:00:19,292          root     INFO: Removed http://noticias.r7.com/brasil/por-uma-nova-era-com-mais-espontaneidade-04012021
-2021-01-06 12:00:19,295          root     INFO: Removed http://noticias.r7.com/brasil/selecoes-de-rachadinhas-04012021
-2021-01-06 12:00:19,299          root     INFO: Removed http://noticias.r7.com/brasil/estradas-federais-registram-903-acidentes-e-67-mortes-no-ano-novo-04012021
-2021-01-06 12:00:19,302          root     INFO: Removed http://noticias.r7.com/brasil/imoveis-residenciais-fecham-2020-com-alta-de-37-nos-precos-05012021
-2021-01-06 12:00:19,303          root     INFO: Finished script
+2021-01-06 12:42:29,272          root     INFO: Starting script
+2021-01-06 12:42:30,471          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-06 12:42:31,144          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-06 12:42:31,820          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-06 12:42:31,984          root     INFO: Parsing R7 - Brasil
+2021-01-06 12:42:32,313          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2021/01/um-acordo-para-por-fim-as-ilusoes-do-brexit.shtml
+2021-01-06 12:42:38,021          root     INFO: New article tracked: http://noticias.r7.com/brasil/mp-rj-reage-a-comentarios-de-bolsonaro-e-pede-denuncia-formal-06012021
+2021-01-06 12:42:38,031          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-suspende-compra-de-seringas-por-causa-dos-altos-precos-06012021
+2021-01-06 12:42:38,041          root     INFO: New article tracked: http://noticias.r7.com/brasil/fora-da-agenda-bolsonaro-faz-primeira-reuniao-ministerial-do-ano-06012021
+2021-01-06 12:42:38,052          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-pandemia-complicou-mexer-na-tabela-do-ir-06012021
+2021-01-06 12:42:38,062          root     INFO: New article tracked: http://noticias.r7.com/brasil/rodrigo-pacheco-faz-ofensiva-por-votos-na-eleicao-do-senado-06012021
+2021-01-06 12:42:38,071          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-institui-comite-de-crise-em-distrito-indigena-de-manaus-06012021
+2021-01-06 12:42:38,374          root     INFO: Removed http://noticias.r7.com/brasil/fenabrave-preve-alta-de-16-nas-vendas-de-veiculos-em-2021-05012021
+2021-01-06 12:42:38,378          root     INFO: Removed http://noticias.r7.com/brasil/ministro-da-justica-vira-socio-rei-do-santos-futebol-clube-05012021
+2021-01-06 12:42:38,381          root     INFO: Removed http://noticias.r7.com/brasil/videos/receita-encontra-cocaina-em-carga-de-goiabada-no-porto-de-santos-05012021
+2021-01-06 12:42:38,384          root     INFO: Removed http://noticias.r7.com/brasil/receita-apreende-670-quilos-de-cocaina-em-carga-de-goiabada-05012021
+2021-01-06 12:42:38,387          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandre-schneider/2020/12/escola-fechada-tambem-ensina.shtml
+2021-01-06 12:42:38,388          root     INFO: Finished script
