@@ -1,6 +1,24 @@
-2021-01-06 00:10:48,369          root     INFO: Starting script
-2021-01-06 00:10:49,385          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-06 00:10:50,208          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-06 00:10:51,033          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-06 00:10:51,330          root     INFO: Parsing R7 - Brasil
-2021-01-06 00:10:56,887          root     INFO: Finished script
+2021-01-06 01:41:56,064          root     INFO: Starting script
+2021-01-06 01:41:56,848          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-06 01:41:57,487          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-06 01:41:58,124          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-06 01:41:58,281          root     INFO: Parsing R7 - Brasil
+2021-01-06 01:41:59,185          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/vacina-de-onde-vier.shtml
+2021-01-06 01:42:01,079          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/segunda-maior-bancada-do-senado-psd-oficializa-apoio-a-candidato-de-alcolumbre-para-presidencia-da-casa.shtml
+2021-01-06 01:42:01,108          root     INFO: Deputado que apalpou colega cita <ins>Luciano</ins> Huck como <del>possível</del> motivo para punição <del>do Cidadania</del> <ins>de seu partido</ins>
+2021-01-06 01:42:02,780          root     INFO: Media ready with ids: 1346633089892708352
+2021-01-06 01:42:02,781          root     INFO: Text to tweet: Modificação do Título
+2021-01-06 01:42:02,781          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/deputado-que-apalpou-colega-cita-huck-como-possivel-motivo-para-punicao-do-cidadania.shtml
+2021-01-06 01:42:02,788          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/deputado-que-apalpou-colega-cita-huck-como-possivel-motivo-para-punicao-do-cidadania.shtml
+2021-01-06 01:42:02,953          root     INFO: Replying to: 1346633091394252800
+2021-01-06 01:42:03,197          root     INFO: Id to store: 1346633092035997696
+2021-01-06 01:42:03,289          root     INFO: O piauiense Wellington Dias (PT-PI), que preside o consórcio dos governadores do Nordeste e lidera os Estados no tema da vacina contra a Covid-19, afirma que pretende reunir <ins>governadores,</ins> representantes da Anvisa, <ins>dos laboratórios,</ins> o presidente da Câmara, Rodrigo Maia (DEM-RJ), e também integrantes do STF (Supremo Tribunal Federal) na próxima segunda (11) para finalmente definir um cronograma nacional de vacinação. Leia mais (01/05/2021 - 14h29)
+2021-01-06 01:42:08,098          root     INFO: Media ready with ids: 1346633111896002561
+2021-01-06 01:42:08,098          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-06 01:42:08,098          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/governadores-pressionam-por-reuniao-na-proxima-segunda-11-para-definir-cronograma-nacional-de-vacinacao.shtml
+2021-01-06 01:42:08,106          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/governadores-pressionam-por-reuniao-na-proxima-segunda-11-para-definir-cronograma-nacional-de-vacinacao.shtml
+2021-01-06 01:42:08,281          root     INFO: Replying to: 1346633113670189056
+2021-01-06 01:42:08,582          root     INFO: Id to store: 1346633114500653056
+2021-01-06 01:42:12,312          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2020/12/quiz-de-fim-de-ano-teste-sua-memoria-sobre-2020.shtml
+2021-01-06 01:42:12,314          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/a-imprensa-e-a-incerteza-cientifica.shtml
+2021-01-06 01:42:12,315          root     INFO: Finished script
