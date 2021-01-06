@@ -1,8 +1,13 @@
-2021-01-06 15:32:56,019          root     INFO: Starting script
-2021-01-06 15:32:56,884          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-06 15:32:57,541          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-06 15:32:58,199          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-06 15:32:58,327          root     INFO: Parsing R7 - Brasil
-2021-01-06 15:33:00,715          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-apoio-de-pt-e-dem-lider-do-governo-doria-e-considerado-favorito-para-presidir-assembleia-de-sp.shtml
-2021-01-06 15:33:04,708          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/opositor-de-covas-eduardo-suplicy-pede-ajuda-a-marta-para-criar-parque-bixiga.shtml
-2021-01-06 15:33:04,709          root     INFO: Finished script
+2021-01-06 16:08:15,898          root     INFO: Starting script
+2021-01-06 16:08:16,698          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-06 16:08:17,353          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-06 16:08:18,015          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-06 16:08:18,184          root     INFO: Parsing R7 - Brasil
+2021-01-06 16:08:20,634          root     INFO: O deputado estadual Fernando Cury (Cidadania-SP), que apalpou a colega Isa Penna (PSOL-SP) no plenário da Assembleia Legislativa de São Paulo, <del>informou nesta terça-feira (5) ter encaminhado</del> <ins>encaminhou</ins> à comissão de ética de seu partido sua defesa no caso. Leia mais (01/05/2021 - 19h51)
+2021-01-06 16:08:22,396          root     INFO: Media ready with ids: 1346851108141096961
+2021-01-06 16:08:22,396          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-06 16:08:22,396          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/deputado-de-sp-que-apalpou-colega-diz-nao-saber-do-que-e-acusado-e-contesta-processo-do-partido.shtml
+2021-01-06 16:08:22,404          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/deputado-de-sp-que-apalpou-colega-diz-nao-saber-do-que-e-acusado-e-contesta-processo-do-partido.shtml
+2021-01-06 16:08:22,577          root     INFO: Replying to: 1346851109747490816
+2021-01-06 16:08:22,818          root     INFO: Id to store: 1346851110523449350
+2021-01-06 16:08:26,388          root     INFO: Finished script
