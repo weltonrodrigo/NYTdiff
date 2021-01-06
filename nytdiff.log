@@ -1,6 +1,10 @@
-2021-01-06 21:28:37,919          root     INFO: Starting script
-2021-01-06 21:28:38,790          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-06 21:28:39,473          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-06 21:28:40,155          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-06 21:28:40,299          root     INFO: Parsing R7 - Brasil
-2021-01-06 21:28:46,773          root     INFO: Finished script
+2021-01-06 22:03:47,785          root     INFO: Starting script
+2021-01-06 22:03:48,581          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-06 22:03:49,232          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-06 22:03:49,882          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-06 22:03:50,129          root     INFO: Parsing R7 - Brasil
+2021-01-06 22:03:52,387          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/kim-kataguiri-aciona-a-justica-para-anular-acao-de-bolsonaro-que-proiba-compra-de-seringas.shtml
+2021-01-06 22:03:52,398          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/bolsonaristas-silenciam-sobre-invasao-do-congresso-dos-eua-por-manifestantes-pro-trump.shtml
+2021-01-06 22:03:56,398          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/12/folha-agradece-leitores-por-campanha-pela-democracia.shtml
+2021-01-06 22:03:56,402          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/folha-100-anos/2020/12/com-poucos-recursos-olival-costa-fundou-folha-da-noite-em-1921.shtml
+2021-01-06 22:03:56,402          root     INFO: Finished script
