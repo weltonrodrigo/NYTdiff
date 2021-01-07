@@ -1,37 +1,6 @@
-2021-01-07 02:44:51,395          root     INFO: Starting script
-2021-01-07 02:44:52,191          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-07 02:44:52,827          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-07 02:44:53,466          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-07 02:44:53,663          root     INFO: Parsing R7 - Brasil
-2021-01-07 02:44:54,071          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/inferno-pantaneiro.shtml
-2021-01-07 02:44:54,083          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cida-bento/2021/01/aviso.shtml
-2021-01-07 02:44:54,101          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/contardocalligaris/2021/01/canetas-transformaram-a-trivialidade-em-ritual-no-meu-circulo-familiar.shtml
-2021-01-07 02:44:54,110          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/presidente-quebrado.shtml
-2021-01-07 02:44:54,118          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/agricultura-seria-o-setor-mais-afetado-por-aumento-do-icms.shtml
-2021-01-07 02:44:54,126          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/as-trilhas-abertas-da-america-latina.shtml
-2021-01-07 02:44:54,134          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2021/01/21-licoes-de-vida-para-2021.shtml
-2021-01-07 02:44:54,143          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/bolsonaro-o-totalitario.shtml
-2021-01-07 02:44:54,152          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/zecacamargo/2021/01/teimosamente-2021.shtml
-2021-01-07 02:44:54,160          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-tavares/2021/01/2021-o-ano-da-bomba-atomica-juridica.shtml
-2021-01-07 02:44:55,761          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/mdb-do-senado-queixa-se-a-bolsonaro-de-ofertas-feitas-a-opositores-na-eleicao-da-casa.shtml
-2021-01-07 02:44:55,769          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/gestao-doria-promete-retaliar-em-obras-e-investimentos-cidades-que-desrespeitarem-plano-sp.shtml
-2021-01-07 02:44:55,776          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/governador-do-espirito-santo-aciona-plano-b-importa-seringas-e-negocia-vacinas.shtml
-2021-01-07 02:44:55,784          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/governo-doria-corta-em-12-repasses-de-saude-nao-relacionados-a-covid-de-santas-casas-e-hospitais.shtml
-2021-01-07 02:44:55,792          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/deputado-do-psdb-defende-apoio-a-lira-e-diz-que-soube-pela-imprensa-de-escolha-do-partido-por-baleia.shtml
-2021-01-07 02:44:55,801          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/jair-renan-bolsonaro-estreia-programa-no-youtube-com-disputa-de-quem-fez-mais-sexo-e-tese-sobre-racismo.shtml
-2021-01-07 02:44:59,465          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/secretario-de-sp-diz-que-monitora-outros-dois-casos-da-nova-variante-de-coronavirus-mas-nao-considera-elevar-restricoes.shtml
-2021-01-07 02:44:59,468          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/apocalypse-now.shtml
-2021-01-07 02:44:59,471          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2020/12/a-festa-e-o-novo-ano.shtml
-2021-01-07 02:44:59,474          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/01/em-2021-e-provavel-que-a-europa-veja-aparecer-insetos-em-cardapios.shtml
-2021-01-07 02:44:59,477          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/12/parabens-aos-argentinos.shtml
-2021-01-07 02:44:59,480          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/aventuras-na-deep-web-da-naftalina.shtml
-2021-01-07 02:44:59,483          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2021/01/bolsa-2021-120-mil-votos-de-confianca-e-32-milhoes-de-esperancosos.shtml
-2021-01-07 02:44:59,486          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/decisao-de-lewandowski-sobre-estado-de-calamidade-amplifica-criticas-a-inacao-de-bolsonaro-e-congresso.shtml
-2021-01-07 02:44:59,489          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/01/venda-de-veiculos-leves-e-pesados-cai-262-em-2020.shtml
-2021-01-07 02:44:59,492          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48885
-2021-01-07 02:44:59,494          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/nova-decada.shtml
-2021-01-07 02:44:59,497          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/hoje-nao-e-1o-de-janeiro.shtml
-2021-01-07 02:44:59,500          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2020/12/o-brasil-mata-seus-negros-e-negras.shtml
-2021-01-07 02:44:59,503          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/03/relembre-quatro-meses-de-episodios-explosivos-da-crise-politica-em-meio-ao-coronavirus.shtml
-2021-01-07 02:44:59,506          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2020/12/deputada-argentina-rebate-bolsonaro-sobre-aborto-e-cita-marielle.shtml
-2021-01-07 02:44:59,508          root     INFO: Finished script
+2021-01-07 03:20:00,740          root     INFO: Starting script
+2021-01-07 03:20:01,595          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-07 03:20:02,257          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-07 03:20:02,914          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-07 03:20:03,052          root     INFO: Parsing R7 - Brasil
+2021-01-07 03:20:08,369          root     INFO: Finished script
