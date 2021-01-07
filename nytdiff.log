@@ -1,8 +1,10 @@
-2021-01-07 22:39:19,164          root     INFO: Starting script
-2021-01-07 22:39:20,402          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-07 22:39:21,237          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-07 22:39:22,069          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-07 22:39:22,392          root     INFO: Parsing R7 - Brasil
-2021-01-07 22:39:24,776          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/em-silencio-sobre-invasao-do-capitolio-eduardo-bolsonaro-toma-cafe-com-olavo-e-amigos-nos-eua.shtml
-2021-01-07 22:39:29,023          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-abre-2021-com-nova-aglomeracao-em-praia-de-sp-desta-vez-dentro-dagua.shtml
-2021-01-07 22:39:29,027          root     INFO: Finished script
+2021-01-07 23:14:13,445          root     INFO: Starting script
+2021-01-07 23:14:14,379          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-07 23:14:15,047          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-07 23:14:15,716          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-07 23:14:15,977          root     INFO: Parsing R7 - Brasil
+2021-01-07 23:14:16,336          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/com-200-mil-mortos-governo-quer-desinformar-sem-ser-incomodado.shtml
+2021-01-07 23:14:18,307          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/com-200-mil-mortos-governo-quer-desinformar-sem-ser-incomodado.shtml
+2021-01-07 23:14:22,499          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/01/erosao-do-governo-das-leis.shtml
+2021-01-07 23:14:22,503          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/58-consideram-flavio-bolsonaro-culpado-no-caso-das-rachadinhas-diz-datafolha.shtml
+2021-01-07 23:14:22,504          root     INFO: Finished script
