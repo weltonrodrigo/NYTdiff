@@ -1,26 +1,26 @@
-2021-01-07 09:15:58,693          root     INFO: Starting script
-2021-01-07 09:15:59,900          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-07 09:16:00,727          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-07 09:16:01,547          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-07 09:16:01,868          root     INFO: Parsing R7 - Brasil
-2021-01-07 09:16:07,069          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-se-diz-ligado-a-trump-e-fala-em-denuncia-de-fraude-06012021
-2021-01-07 09:16:07,082          root     INFO: New article tracked: http://noticias.r7.com/brasil/associacao-pede-impeachment-do-ministro-eduardo-pazuello-06012021
-2021-01-07 09:16:07,092          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-acumula-e-pode-pagar-r-8-milhoes-no-proximo-sabado-06012021
-2021-01-07 09:16:07,102          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-tem-agulhas-e-seringas-para-iniciar-vacinacao-afirma-pazuello-06012021
-2021-01-07 09:16:07,113          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministra-rosa-weber-nega-prisao-domiciliar-a-desembargadora-da-ba-06012021
-2021-01-07 09:16:07,123          root     INFO: New article tracked: http://noticias.r7.com/brasil/alcolumbre-e-maia-criticam-invasao-no-congresso-dos-eua-06012021
-2021-01-07 09:16:07,132          root     INFO: New article tracked: http://noticias.r7.com/brasil/sindrome-do-trump-diz-rossi-sobre-critica-de-arthur-lira-06012021
-2021-01-07 09:16:07,142          root     INFO: New article tracked: http://noticias.r7.com/brasil/baleia-rossi-defende-convocacao-do-congresso-em-janeiro-para-vacina-06012021
-2021-01-07 09:16:07,152          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-deve-pedir-uso-emergencial-da-vacina-de-oxford-ate-sexta-8-06012021
-2021-01-07 09:16:07,162          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-ano-de-pandemia-previdencia-empaca-em-nove-estados-e-no-df-06012021
-2021-01-07 09:16:07,171          root     INFO: New article tracked: http://noticias.r7.com/brasil/prefeitos-temem-falta-de-seringas-para-vacinas-fora-covid-19-06012021
-2021-01-07 09:16:07,180          root     INFO: New article tracked: http://noticias.r7.com/brasil/receber-apoio-do-pt-e-sinal-de-desespero-diz-eduardo-bolsonaro-06012021
-2021-01-07 09:16:07,189          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-quem-muito-idolatra-se-decepciona-ou-finge-06012021
-2021-01-07 09:16:07,198          root     INFO: New article tracked: http://noticias.r7.com/brasil/investimentos-estrangeiros-voltam-a-bolsa-e-somam-r-56-bilhoes-06012021
-2021-01-07 09:16:07,207          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-federal-zera-imposto-de-importacao-de-agulhas-e-seringas-06012021
-2021-01-07 09:16:07,216          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-dos-deputados-estuda-fazer-eleicao-virtual-06012021
-2021-01-07 09:16:07,226          root     INFO: New article tracked: http://noticias.r7.com/brasil/188-milhoes-de-familias-nao-tem-renda-do-trabalho-diz-ipea-06012021
-2021-01-07 09:16:07,234          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-apoio-de-alcolumbre-pacheco-deve-oficializar-candidatura-dia-18-06012021
-2021-01-07 09:16:07,244          root     INFO: New article tracked: http://noticias.r7.com/brasil/flordelis-e-dinheiro-na-cueca-casos-ficarao-parados-ate-fevereiro-06012021
-2021-01-07 09:16:07,254          root     INFO: New article tracked: http://noticias.r7.com/brasil/dino-dispara-contra-bolsonaro-apos-suspensao-na-compra-de-seringas-06012021
-2021-01-07 09:16:07,264          root     INFO: Finished script
+2021-01-07 09:53:54,807          root     INFO: Starting script
+2021-01-07 09:53:55,653          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-07 09:53:56,305          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-07 09:53:56,964          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-07 09:53:57,215          root     INFO: Parsing R7 - Brasil
+2021-01-07 09:54:03,889          root     INFO: Removed http://noticias.r7.com/brasil/com-apoio-de-alcolumbre-pacheco-deve-oficializar-candidatura-dia-18-06012021
+2021-01-07 09:54:03,894          root     INFO: Removed http://noticias.r7.com/brasil/alcolumbre-e-maia-criticam-invasao-no-congresso-dos-eua-06012021
+2021-01-07 09:54:03,898          root     INFO: Removed http://noticias.r7.com/brasil/ministra-rosa-weber-nega-prisao-domiciliar-a-desembargadora-da-ba-06012021
+2021-01-07 09:54:03,901          root     INFO: Removed http://noticias.r7.com/brasil/brasil-tem-agulhas-e-seringas-para-iniciar-vacinacao-afirma-pazuello-06012021
+2021-01-07 09:54:03,905          root     INFO: Removed http://noticias.r7.com/brasil/analise-quem-muito-idolatra-se-decepciona-ou-finge-06012021
+2021-01-07 09:54:03,908          root     INFO: Removed http://noticias.r7.com/brasil/prefeitos-temem-falta-de-seringas-para-vacinas-fora-covid-19-06012021
+2021-01-07 09:54:03,912          root     INFO: Removed http://noticias.r7.com/brasil/investimentos-estrangeiros-voltam-a-bolsa-e-somam-r-56-bilhoes-06012021
+2021-01-07 09:54:03,916          root     INFO: Removed http://noticias.r7.com/brasil/em-ano-de-pandemia-previdencia-empaca-em-nove-estados-e-no-df-06012021
+2021-01-07 09:54:03,919          root     INFO: Removed http://noticias.r7.com/brasil/188-milhoes-de-familias-nao-tem-renda-do-trabalho-diz-ipea-06012021
+2021-01-07 09:54:03,922          root     INFO: Removed http://noticias.r7.com/brasil/baleia-rossi-defende-convocacao-do-congresso-em-janeiro-para-vacina-06012021
+2021-01-07 09:54:03,926          root     INFO: Removed http://noticias.r7.com/brasil/governo-federal-zera-imposto-de-importacao-de-agulhas-e-seringas-06012021
+2021-01-07 09:54:03,929          root     INFO: Removed http://noticias.r7.com/brasil/receber-apoio-do-pt-e-sinal-de-desespero-diz-eduardo-bolsonaro-06012021
+2021-01-07 09:54:03,933          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-deve-pedir-uso-emergencial-da-vacina-de-oxford-ate-sexta-8-06012021
+2021-01-07 09:54:03,936          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-acumula-e-pode-pagar-r-8-milhoes-no-proximo-sabado-06012021
+2021-01-07 09:54:03,939          root     INFO: Removed http://noticias.r7.com/brasil/flordelis-e-dinheiro-na-cueca-casos-ficarao-parados-ate-fevereiro-06012021
+2021-01-07 09:54:03,943          root     INFO: Removed http://noticias.r7.com/brasil/associacao-pede-impeachment-do-ministro-eduardo-pazuello-06012021
+2021-01-07 09:54:03,948          root     INFO: Removed http://noticias.r7.com/brasil/dino-dispara-contra-bolsonaro-apos-suspensao-na-compra-de-seringas-06012021
+2021-01-07 09:54:03,951          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-se-diz-ligado-a-trump-e-fala-em-denuncia-de-fraude-06012021
+2021-01-07 09:54:03,955          root     INFO: Removed http://noticias.r7.com/brasil/sindrome-do-trump-diz-rossi-sobre-critica-de-arthur-lira-06012021
+2021-01-07 09:54:03,958          root     INFO: Removed http://noticias.r7.com/brasil/camara-dos-deputados-estuda-fazer-eleicao-virtual-06012021
+2021-01-07 09:54:03,958          root     INFO: Finished script
