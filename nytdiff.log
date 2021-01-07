@@ -1,12 +1,13 @@
-2021-01-07 04:02:22,840          root     INFO: Starting script
-2021-01-07 04:02:24,568          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-07 04:02:25,236          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-07 04:02:25,891          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-07 04:02:26,080          root     INFO: Parsing R7 - Brasil
-2021-01-07 04:02:26,432          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/01/puta-nao-e-xingamento.shtml
-2021-01-07 04:02:26,445          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/2021-mais-do-mesmo.shtml
-2021-01-07 04:02:28,504          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/01/os-fantasmasdo-chanceler.shtml
-2021-01-07 04:02:32,641          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-supremo-deveria-por-fim-as-transmissoes-ao-vivo-dos-julgamentos-da-corte-nao.shtml
-2021-01-07 04:02:32,645          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/angela-alonso/2020/12/aviso-de-ferias.shtml
-2021-01-07 04:02:32,649          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/quem-comeca-a-ler-drummond-pela-prosa-periga-nem-chegar-a-poesia.shtml
-2021-01-07 04:02:32,650          root     INFO: Finished script
+2021-01-07 04:50:13,801          root     INFO: Starting script
+2021-01-07 04:50:14,604          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-07 04:50:15,262          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-07 04:50:15,921          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-07 04:50:16,117          root     INFO: Parsing R7 - Brasil
+2021-01-07 04:50:18,106          root     INFO: Os <del>fantasmasdo</del> <ins>fantasmas do</ins> chanceler
+2021-01-07 04:50:19,738          root     INFO: Media ready with ids: 1347042860663762946
+2021-01-07 04:50:19,738          root     INFO: Text to tweet: Modificação do Título
+2021-01-07 04:50:19,738          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/01/os-fantasmasdo-chanceler.shtml
+2021-01-07 04:50:19,745          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/01/os-fantasmasdo-chanceler.shtml
+2021-01-07 04:50:19,920          root     INFO: Replying to: 1347042862123376643
+2021-01-07 04:50:20,121          root     INFO: Id to store: 1347042862794498049
+2021-01-07 04:50:23,501          root     INFO: Finished script
