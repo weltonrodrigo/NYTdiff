@@ -1,8 +1,12 @@
-2021-01-08 13:56:59,911          root     INFO: Starting script
-2021-01-08 13:57:00,720          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-08 13:57:01,372          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-08 13:57:02,025          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-08 13:57:02,156          root     INFO: Parsing R7 - Brasil
-2021-01-08 13:57:02,491          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/01/record-paga-r-52-mil-de-indenizacao-por-exibir-acusados-de-homicidio-em-roupas-intimas.shtml
-2021-01-08 13:57:07,381          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/o-apocalipse-ja-de-bolsonaro-no-meio-da-segunda-onda-de-contagio.shtml
-2021-01-08 13:57:07,383          root     INFO: Finished script
+2021-01-08 14:15:32,024          root     INFO: Starting script
+2021-01-08 14:15:32,866          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-08 14:15:33,565          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-08 14:15:34,241          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-08 14:15:34,402          root     INFO: Parsing R7 - Brasil
+2021-01-08 14:15:36,981          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/mdb-age-para-evitar-apoio-do-pt-a-candidato-de-alcolumbre-no-senado.shtml
+2021-01-08 14:15:36,993          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/veja-o-que-bolsonaro-ja-disse-sobre-urnas-eletronicas-e-fraude-em-eleicao-sem-apresentar-provas.shtml
+2021-01-08 14:15:37,005          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10598
+2021-01-08 14:15:41,426          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/apos-uniao-em-torno-de-boulos-pt-e-psol-se-estranham-em-primeiro-dia-da-camara-de-sp-em-2021.shtml
+2021-01-08 14:15:41,431          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/bolsonarista-oswaldo-eustaquio-diz-se-tratar-com-ozonioterapia-alvo-de-piadas-homofobicas-do-presidente.shtml
+2021-01-08 14:15:41,435          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/deputados-elaboram-manifesto-que-cobra-reformas-economicas-de-candidatos-a-presidencia-da-camara.shtml
+2021-01-08 14:15:41,436          root     INFO: Finished script
