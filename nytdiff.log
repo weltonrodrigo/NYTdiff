@@ -1,54 +1,8 @@
-2021-01-08 02:43:38,330          root     INFO: Starting script
-2021-01-08 02:43:39,160          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-08 02:43:39,825          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-08 02:43:40,503          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-08 02:43:40,692          root     INFO: Parsing R7 - Brasil
-2021-01-08 02:43:41,027          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/ha-um-meio-termo-na-analise-sobre-os-jovens-jogadores-do-brasil.shtml
-2021-01-08 02:43:41,044          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2021/01/mundo-de-racismo-pandemia-e-violencia-e-o-ambiente-natural-de-trump-e-bolsonaro.shtml
-2021-01-08 02:43:41,056          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/assalto-a-democracia.shtml
-2021-01-08 02:43:41,069          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/riscos-municipais.shtml
-2021-01-08 02:43:41,090          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/tribunal-do-juri-esse-ilustre-desconhecido.shtml
-2021-01-08 02:43:41,103          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/vacinas-o-relevante-e-o-irrelevante.shtml
-2021-01-08 02:43:41,136          root     INFO: O colunista está em férias. Volta a escrever no dia 22 de janeiro. Leia mais <del>(12/25/2020</del> <ins>(01/07/2021</ins> - <del>15h29)</del> <ins>23h15)</ins>
-2021-01-08 02:43:42,904          root     INFO: Media ready with ids: 1347373385035214850
-2021-01-08 02:43:42,904          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-08 02:43:42,905          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2020/12/aviso-de-ferias.shtml
-2021-01-08 02:43:42,913          root     INFO: Replying to: 1344834785689145345
-2021-01-08 02:43:43,148          root     INFO: Id to store: 1347373386662555649
-2021-01-08 02:43:45,071          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/fatima-bezerra-pede-a-bolsonaro-que-professores-sejam-vacinados-antes.shtml
-2021-01-08 02:43:45,085          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/infieis-reincidentes-e-esquizofrenicos-diz-deputado-do-psl-sobre-colegas-que-anunciaram-apoio-a-lira.shtml
-2021-01-08 02:43:45,098          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/santos-cruz-diz-que-militares-nao-embarcariam-em-golpe-em-2022-mas-pede-acao-da-justica.shtml
-2021-01-08 02:43:45,110          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/iniciativas-do-stf-empurram-bolsonaro-gradualmente-a-vacinacao.shtml
-2021-01-08 02:43:45,127          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/enquanto-doria-anunciava-a-coronavac-ministerio-da-saude-informou-estados-sobre-previsao-de-chegada-da-vacina-de-oxford.shtml
-2021-01-08 02:43:45,142          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/deputada-bolsonarista-diz-que-lira-se-comprometeu-em-abrir-discussao-sobre-voto-impresso-caso-eleito.shtml
-2021-01-08 02:43:45,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/guilherme-boulos-passa-a-ter-coluna-na-folha.shtml
-2021-01-08 02:43:45,171          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2021/01/mundo-de-racismo-pandemia-e-violencia-e-o-ambiente-natural-de-trump-e-bolsonaro.shtml
-2021-01-08 02:43:45,187          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/candidato-de-bolsonaro-na-camara-lira-e-alvo-de-acoes-penais-no-stf-e-acusado-de-violencia-domestica.shtml
-2021-01-08 02:43:45,201          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/advogados-pedem-que-governo-federal-pague-r-150-mil-de-indenizacao-por-posts-que-promovem-bolsonaro.shtml
-2021-01-08 02:43:45,215          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/novo-chefe-do-mp-rj-deve-comandar-de-perto-apuracoes-com-foro-como-a-de-flavio-bolsonaro.shtml
-2021-01-08 02:43:45,254          root     INFO: O colunista está em férias. Volta a escrever no dia 22 de janeiro. Leia mais <del>(12/25/2020</del> <ins>(01/07/2021</ins> - <del>15h29)</del> <ins>23h15)</ins>
-2021-01-08 02:43:47,014          root     INFO: Media ready with ids: 1347373402198339588
-2021-01-08 02:43:47,014          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-08 02:43:47,014          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2020/12/aviso-de-ferias.shtml
-2021-01-08 02:43:47,021          root     INFO: Replying to: 1344834802688684032
-2021-01-08 02:43:47,256          root     INFO: Id to store: 1347373403884429314
-2021-01-08 02:43:51,389          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/01/janeiro-forte-traz-livros-de-joan-didion-joyce-carol-oates-e-marlon-james.shtml
-2021-01-08 02:43:51,394          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/com-alta-de-casos-de-covid-19-governo-de-sp-voltara-a-recrutar-e-remanejar-funcionarios-da-saude.shtml
-2021-01-08 02:43:51,399          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/01/o-disco-de-nei-lopes-e-uma-rara-alegria-em-tempos-de-tanta-tristeza.shtml
-2021-01-08 02:43:51,404          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/as-palavras-do-presidente.shtml
-2021-01-08 02:43:51,408          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/novas-solucoes-para-velhos-desafios.shtml
-2021-01-08 02:43:51,414          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/entenda-por-que-moro-nao-pode-atuar-como-advogado-em-consultoria-com-clientes-da-lava-jato.shtml
-2021-01-08 02:43:51,418          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/almirante-flavio-rocha-e-diagnosticado-com-covid-19-e-diz-se-tratar-com-hidroxicloroquina.shtml
-2021-01-08 02:43:51,425          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/prefeita-de-praia-grande-minimiza-aglomeracao-de-bolsonaro-e-diz-que-nao-sabe-se-ha-contagio-no-mar.shtml
-2021-01-08 02:43:51,430          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2021/01/america-2021.shtml
-2021-01-08 02:43:51,434          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2021/01/america-2021.shtml
-2021-01-08 02:43:51,438          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/rio-quer-aplicar-meta-que-guedes-deseja-mas-nao-conseguiu-colocar-em-pratica.shtml
-2021-01-08 02:43:51,441          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/covas-faz-discurso-mais-generico-e-mais-politico-do-que-quando-chegou-a-prefeitura-de-sp-em-2018.shtml
-2021-01-08 02:43:51,447          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/limites-do-perdao.shtml
-2021-01-08 02:43:51,451          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/direita-precisa-de-mais-conteudo-e-menos-pancadaria-diz-janaina-paschoal-que-quer-disputar-senado.shtml
-2021-01-08 02:43:51,455          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/01/as-sociedades-nao-podem-ser-reduzidas-a-curvas-de-graficos-epidemiologicos.shtml
-2021-01-08 02:43:51,459          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/ex-tucano-e-ex-bolsonarista-xico-graziano-sera-secretario-do-meio-ambiente-em-ilhabela.shtml
-2021-01-08 02:43:51,463          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/pf-encontra-email-de-falso-invasor-do-stj-pedindo-dinheiro-em-troca-de-arquivos-hackeados.shtml
-2021-01-08 02:43:51,468          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/uniao-quimica-diz-que-esta-entregando-toda-a-documentacao-que-anvisa-pede-sobre-sputnik.shtml
-2021-01-08 02:43:51,471          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/01/quem-ama-nao-mata.shtml
-2021-01-08 02:43:51,472          root     INFO: Finished script
+2021-01-08 03:19:56,980          root     INFO: Starting script
+2021-01-08 03:19:57,842          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-08 03:19:58,517          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-08 03:19:59,199          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-08 03:19:59,476          root     INFO: Parsing R7 - Brasil
+2021-01-08 03:19:59,824          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2021/01/juventude-e-trabalho-educar-melhor-para-um-mundo-incerto.shtml
+2021-01-08 03:20:06,560          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/01/fernando-diniz-tera-de-aprender-que-as-vezes-e-preciso-mudar-conviccoes.shtml
+2021-01-08 03:20:06,561          root     INFO: Finished script
