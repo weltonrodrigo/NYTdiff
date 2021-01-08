@@ -1,22 +1,13 @@
-2021-01-08 21:30:39,825          root     INFO: Starting script
-2021-01-08 21:30:40,608          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-08 21:30:41,244          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-08 21:30:41,887          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-08 21:30:42,159          root     INFO: Parsing R7 - Brasil
-2021-01-08 21:30:42,522          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/aaron-burr-donald-trump-e-o-desprezo-pela-democracia.shtml
-2021-01-08 21:30:42,532          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/01/papel-mais-caro-deve-empurrar-preco-dos-livros-para-cima-dizem-editoras.shtml
-2021-01-08 21:30:44,282          root     INFO: <del>Após Covid,</del> Mourão recebe alta e <del>retoma atividades na próxima semana</del> <ins>se solidariza com vítimas da Covid</ins>
-2021-01-08 21:30:45,985          root     INFO: Media ready with ids: 1347657016731430913
-2021-01-08 21:30:45,985          root     INFO: Text to tweet: Modificação do Título
-2021-01-08 21:30:45,985          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/apos-covid-mourao-recebe-alta-e-retoma-atividades-na-proxima-semana.shtml
-2021-01-08 21:30:45,994          root     INFO: Replying to: 1347649817196040192
-2021-01-08 21:30:46,243          root     INFO: Id to store: 1347657018463707138
-2021-01-08 21:30:46,248          root     INFO: <del>O vice-presidente Hamilton Mourão, 67,</del> <ins>No dia em que</ins> recebeu alta médica <del>nesta sexta-feira (8) e deve retomar suas atividades na próxima semana, informou o gabinete</del> da <del>vice-presidência.</del> <ins>Covid-19, o vice-presidente Hamilton Mourão se solidarizou com familiares de pessoas que morreram pela doença. A fala do vice ocorre no dia seguinte ao Brasil ter atingido a marca de 200 mil óbitos pela doença. "Meus sentimentos e solidariedade a todas as famílias enlutadas pela morte dos seus entes queridos pela Covid-19. São perdas irreparáveis que não encontram consolo na recuperação dos mais de 7 milhões de brasileiros", escreveu Mourão, no Twitter.</ins> Leia mais (01/08/2021 - 17h13)
-2021-01-08 21:30:48,023          root     INFO: Media ready with ids: 1347657025229099012
-2021-01-08 21:30:48,024          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-08 21:30:48,024          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/apos-covid-mourao-recebe-alta-e-retoma-atividades-na-proxima-semana.shtml
-2021-01-08 21:30:48,031          root     INFO: Replying to: 1347657018463707138
-2021-01-08 21:30:48,256          root     INFO: Id to store: 1347657026839703552
-2021-01-08 21:30:51,910          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-momento-do-legislativo.shtml
-2021-01-08 21:30:51,913          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/01/brasil-ainda-pode-ter-sucesso-com-a-vacina-e-alta-do-pib-com-mais-miseria-em-2021.shtml
-2021-01-08 21:30:51,914          root     INFO: Finished script
+2021-01-08 22:04:26,613          root     INFO: Starting script
+2021-01-08 22:04:27,452          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-08 22:04:28,148          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-08 22:04:28,825          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-08 22:04:29,026          root     INFO: Parsing R7 - Brasil
+2021-01-08 22:04:31,347          root     INFO: A liderança do MDB no Senado <del>está agindo</del> <ins>agiu</ins> nesta sexta-feira (8) <del>para</del> para evitar que mais uma bancada importante oficializasse apoio para a candidatura de Rodrigo Pacheco <del>(DEM-MG).</del> <ins>(DEM-MG) à presidência da Casa.</ins> Leia mais (01/08/2021 - 11h13)
+2021-01-08 22:04:33,135          root     INFO: Media ready with ids: 1347665519093153792
+2021-01-08 22:04:33,136          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-08 22:04:33,136          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/mdb-age-para-evitar-apoio-do-pt-a-candidato-de-alcolumbre-no-senado.shtml
+2021-01-08 22:04:33,145          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/mdb-age-para-evitar-apoio-do-pt-a-candidato-de-alcolumbre-no-senado.shtml
+2021-01-08 22:04:33,324          root     INFO: Replying to: 1347665520821198848
+2021-01-08 22:04:33,551          root     INFO: Id to store: 1347665521521659904
+2021-01-08 22:04:37,589          root     INFO: Finished script
