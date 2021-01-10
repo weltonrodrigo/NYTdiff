@@ -1,20 +1,8 @@
-2021-01-10 14:38:50,203          root     INFO: Starting script
-2021-01-10 14:38:50,998          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-10 14:38:51,659          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-10 14:38:52,299          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-10 14:38:52,461          root     INFO: Parsing R7 - Brasil
-2021-01-10 14:38:53,100          root     INFO: O ônibus 422 parou na rua do Catete, Rio de Janeiro. Meu amigo João tirou o olho do livro e deu uma espiada pela janela, pra ver se já era o seu ponto. Não era. Nem o dele nem o de ninguém. O motorista desceu e entrou numa padaria. Uns minutos depois, ele voltou e berrou pro cobrador: "Ô, Nélio: e de refresco, tu quer o quê?!". Mais um tempo e o motora chega com dois pastéis e uma Fanta Uva 2 litros <del>-pro</del> <ins>—pro</ins> Nélio. Leia mais (01/09/2021 - 23h15)
-2021-01-10 14:38:54,983          root     INFO: Media ready with ids: 1348278146915831808
-2021-01-10 14:38:54,984          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-10 14:38:54,984          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/01/capitolio-genocidio-e-fanta-uva.shtml
-2021-01-10 14:38:54,998          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/01/capitolio-genocidio-e-fanta-uva.shtml
-2021-01-10 14:38:55,179          root     INFO: Replying to: 1348278148685770752
-2021-01-10 14:38:55,428          root     INFO: Id to store: 1348278149491154944
-2021-01-10 14:38:56,943          root     INFO: Operação Etiópia-Maranhão para a compra <ins>de</ins> respiradores contra a Covid-19 vira livro
-2021-01-10 14:38:58,619          root     INFO: Media ready with ids: 1348278162527051776
-2021-01-10 14:38:58,620          root     INFO: Text to tweet: Modificação do Título
-2021-01-10 14:38:58,621          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/operacao-etiopia-maranhao-para-a-compra-respiradores-contra-a-covid-19-vira-livro.shtml
-2021-01-10 14:38:58,629          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/operacao-etiopia-maranhao-para-a-compra-respiradores-contra-a-covid-19-vira-livro.shtml
-2021-01-10 14:38:58,793          root     INFO: Replying to: 1348278163827253250
-2021-01-10 14:38:59,013          root     INFO: Id to store: 1348278164569673730
-2021-01-10 14:39:02,441          root     INFO: Finished script
+2021-01-10 15:00:38,009          root     INFO: Starting script
+2021-01-10 15:00:38,845          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-10 15:00:39,523          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-10 15:00:40,196          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-10 15:00:40,347          root     INFO: Parsing R7 - Brasil
+2021-01-10 15:00:42,734          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/gleisi-cobra-baleia-sobre-analise-de-impeachment-de-bolsonaro-e-candidato-diz-que-acordo-com-oposicao-esta-mantido.shtml
+2021-01-10 15:00:46,896          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/preso-em-caso-de-laranjas-do-psl-ganha-cargo-na-prefeitura-de-ipatinga.shtml
+2021-01-10 15:00:46,898          root     INFO: Finished script
