@@ -1,6 +1,46 @@
-2021-01-11 22:06:44,425          root     INFO: Starting script
-2021-01-11 22:06:45,257          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-11 22:06:45,907          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-11 22:06:46,555          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-11 22:06:46,759          root     INFO: Parsing R7 - Brasil
-2021-01-11 22:06:53,314          root     INFO: Finished script
+2021-01-11 22:56:00,563          root     INFO: Starting script
+2021-01-11 22:56:01,752          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-11 22:56:02,419          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-11 22:56:03,091          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-11 22:56:03,253          root     INFO: Parsing R7 - Brasil
+2021-01-11 22:56:05,550          root     INFO: A bancada do PT no Senado decidiu nesta segunda-feira (11) apoiar Rodrigo <del>Pachedo</del> <ins>Pacheco</ins> (DEM-MG) para a presidência da Casa, na eleição que será disputada em fevereiro. Leia mais (01/11/2021 - 14h11)
+2021-01-11 22:56:07,257          root     INFO: Media ready with ids: 1348765660617306114
+2021-01-11 22:56:07,257          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-11 22:56:07,257          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pt-fecha-apoio-a-candidato-de-alcolumbre-e-bolsonaro-para-a-eleicao-no-senado.shtml
+2021-01-11 22:56:07,266          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pt-fecha-apoio-a-candidato-de-alcolumbre-e-bolsonaro-para-a-eleicao-no-senado.shtml
+2021-01-11 22:56:07,429          root     INFO: Replying to: 1348765662102097925
+2021-01-11 22:56:07,645          root     INFO: Id to store: 1348765662743814147
+2021-01-11 22:56:11,106          root     INFO: New article tracked: http://noticias.r7.com/brasil/maia-diz-que-fechamento-da-ford-e-falta-de-credibilidade-do-governo-11012021
+2021-01-11 22:56:11,117          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-nao-pode-mudar-pais-sozinho-e-gastar-acima-do-teto-11012021
+2021-01-11 22:56:11,126          root     INFO: New article tracked: http://noticias.r7.com/brasil/rede-aciona-stf-para-que-anvisa-aprove-coronavac-em-72-horas-11012021
+2021-01-11 22:56:11,135          root     INFO: New article tracked: http://noticias.r7.com/brasil/governadores-se-mobilizam-contra-pl-que-reduz-poder-sobre-a-policia-11012021
+2021-01-11 22:56:11,144          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiz-de-roraima-barra-deportacao-de-55-indigenas-venezuelanos-11012021
+2021-01-11 22:56:11,152          root     INFO: New article tracked: http://noticias.r7.com/brasil/milton-ribeiro-defende-volta-as-aulas-educacao-nao-pode-parar-11012021
+2021-01-11 22:56:11,161          root     INFO: New article tracked: http://noticias.r7.com/brasil/bancos-concedem-r-34-tri-em-credito-na-pandemia-diz-febraban-11012021
+2021-01-11 22:56:11,170          root     INFO: New article tracked: http://noticias.r7.com/brasil/pt-decide-apoiar-rodrigo-pacheco-a-presidencia-do-senado-federal-11012021
+2021-01-11 22:56:11,179          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-apontar-fraude-e-atentado-a-democracia-diz-psol-11012021
+2021-01-11 22:56:11,187          root     INFO: New article tracked: http://noticias.r7.com/brasil/proposta-limita-poder-de-governadores-sobre-policia-11012021
+2021-01-11 22:56:11,196          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacinacao-wajngarten-critica-comparacao-de-israel-com-brasil-11012021
+2021-01-11 22:56:11,205          root     INFO: New article tracked: http://noticias.r7.com/brasil/bb-quer-economizar-r-27-bi-ate-2025-com-programas-de-demissao-11012021
+2021-01-11 22:56:11,214          root     INFO: New article tracked: http://noticias.r7.com/brasil/casos-de-covid-19-entre-indigenas-chegam-a-44680-diz-organizacao-11012021
+2021-01-11 22:56:11,224          root     INFO: New article tracked: http://noticias.r7.com/brasil/cartao-de-vacinacao-de-bolsonaro-tera-sigilo-por-ate-100-anos-11012021
+2021-01-11 22:56:11,232          root     INFO: New article tracked: http://noticias.r7.com/brasil/impeachment-e-prerrogativa-do-parlamento-diz-baleia-rossi-11012021
+2021-01-11 22:56:11,241          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-19-internacoes-em-manaus-aumentaram-72-em-14-dias-11012021
+2021-01-11 22:56:11,250          root     INFO: New article tracked: http://noticias.r7.com/brasil/serasa-vendas-do-varejo-no-natal-tem-pior-desempenho-desde-2003-11012021
+2021-01-11 22:56:11,259          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-sugere-vacinacao-com-apenas-uma-dose-de-imunizante-11012021
+2021-01-11 22:56:11,267          root     INFO: New article tracked: http://noticias.r7.com/brasil/preco-medio-do-etanol-sobe-em-17-estados-na-semana-passada-11012021
+2021-01-11 22:56:11,277          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-bate-maximas-em-dois-meses-contra-real-apos-abertura-11012021
+2021-01-11 22:56:11,288          root     INFO: Removed http://noticias.r7.com/brasil/desembargadora-suspende-acoes-contra-o-ex-governador-beto-richa-09012021
+2021-01-11 22:56:11,292          root     INFO: Removed http://noticias.r7.com/brasil/pressionado-pelo-pt-baleia-recua-sobre-pedidos-de-impeachment-10012021
+2021-01-11 22:56:11,296          root     INFO: Removed http://noticias.r7.com/brasil/operacao-apreende-embarcacao-com-600-m-de-madeira-no-para-09012021
+2021-01-11 22:56:11,299          root     INFO: Removed http://noticias.r7.com/brasil/internacional-vence-o-goias-e-se-aproxima-do-lider-sao-paulo-10012021
+2021-01-11 22:56:11,303          root     INFO: Removed http://noticias.r7.com/brasil/planos-de-vacinacao-incluem-barco-drive-thru-e-ate-freezer-de-peixe-10012021
+2021-01-11 22:56:11,307          root     INFO: Removed http://noticias.r7.com/brasil/brasil-tem-203100-mortes-e-8105790-casos-de-covid-19-10012021
+2021-01-11 22:56:11,310          root     INFO: Removed http://noticias.r7.com/brasil/brasil-soma-202631-mortes-e-8075998-casos-de-covid-19-09012021
+2021-01-11 22:56:11,313          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-faltam-dados-para-autorizar-uso-emergencial-da-coronavac-09012021
+2021-01-11 22:56:11,317          root     INFO: Removed http://noticias.r7.com/brasil/maia-chama-bolsonaro-de-covarde-e-o-culpa-pelas-mortes-da-pandemia-09012021
+2021-01-11 22:56:11,320          root     INFO: Removed http://noticias.r7.com/brasil/conselho-de-etica-pede-expulsao-de-deputado-que-assediou-colega-10012021
+2021-01-11 22:56:11,323          root     INFO: Removed http://noticias.r7.com/brasil/pedido-da-anvisa-nao-altera-prazo-de-liberacao-da-vacina-diz-butantan-09012021
+2021-01-11 22:56:11,328          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-acumula-de-novo-e-premio-sobe-a-r-12-milhoes-09012021
+2021-01-11 22:56:11,332          root     INFO: Removed http://noticias.r7.com/brasil/paraguai-entrega-lider-do-pcc-ao-brasil-apos-tentativa-de-resgate-10012021
+2021-01-11 22:56:11,333          root     INFO: Finished script
