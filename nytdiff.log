@@ -1,6 +1,15 @@
-2021-01-10 23:49:46,571          root     INFO: Starting script
-2021-01-10 23:49:47,385          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-10 23:49:48,046          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-10 23:49:48,711          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-10 23:49:48,904          root     INFO: Parsing R7 - Brasil
-2021-01-10 23:49:54,407          root     INFO: Finished script
+2021-01-11 00:13:17,777          root     INFO: Starting script
+2021-01-11 00:13:18,568          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-11 00:13:19,211          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-11 00:13:19,846          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-11 00:13:20,260          root     INFO: Parsing R7 - Brasil
+2021-01-11 00:13:25,406          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-deixa-alvorada-para-fazer-passeio-de-moto-em-brasilia-10012021
+2021-01-11 00:13:25,417          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-atualiza-status-das-vacinas-do-butantan-e-da-fiocruz-10012021
+2021-01-11 00:13:25,426          root     INFO: New article tracked: http://noticias.r7.com/brasil/dez-anos-apos-tragedia-regiao-serrana-sedia-governo-do-rio-10012021
+2021-01-11 00:13:25,434          root     INFO: New article tracked: http://noticias.r7.com/brasil/violencia-atinge-75-de-candidatas-a-prefeita-em-capitais-10012021
+2021-01-11 00:13:25,443          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-19-chega-a-24-das-residencias-para-idosos-do-brasil-10012021
+2021-01-11 00:13:25,452          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-eleicao-camara-tera-desafio-de-destravar-pauta-economica-10012021
+2021-01-11 00:13:25,461          root     INFO: New article tracked: http://noticias.r7.com/brasil/acompanhe-ao-vivo-a-transmissao-do-santo-culto-em-seu-lar-10012021
+2021-01-11 00:13:25,699          root     INFO: Removed http://noticias.r7.com/brasil/lira-e-baleia-veja-o-que-defendem-os-candidatos-a-camara-09012021
+2021-01-11 00:13:25,703          root     INFO: Removed http://noticias.r7.com/brasil/saude-pede-mobilizacao-de-guerra-a-industria-de-agulhas-e-seringas-09012021
+2021-01-11 00:13:25,704          root     INFO: Finished script
