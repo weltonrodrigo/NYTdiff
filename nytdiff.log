@@ -1,8 +1,10 @@
-2021-01-11 16:08:24,853          root     INFO: Starting script
-2021-01-11 16:08:26,039          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-11 16:08:26,723          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-11 16:08:27,402          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-11 16:08:27,548          root     INFO: Parsing R7 - Brasil
-2021-01-11 16:08:30,257          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/lira-tenta-se-descolar-de-bolsonaro-e-insinua-que-postura-de-maia-e-projeto-para-2022.shtml
-2021-01-11 16:08:35,326          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/sem-conseguir-fazer-nada-bolsonaro-fabrica-inimigos-para-preservar-apoio.shtml
-2021-01-11 16:08:35,327          root     INFO: Finished script
+2021-01-11 17:26:42,143          root     INFO: Starting script
+2021-01-11 17:26:42,948          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-11 17:26:43,596          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-11 17:26:44,245          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-11 17:26:45,227          root     INFO: Parsing R7 - Brasil
+2021-01-11 17:26:45,611          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/eleicao-na-camara-pode-repetir-fenomeno-maluf.shtml
+2021-01-11 17:26:47,618          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pt-fecha-apoio-a-candidato-de-alcolumbre-e-bolsonaro-para-a-eleicao-no-senado.shtml
+2021-01-11 17:26:51,755          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/pf-deve-repassar-mensagens-da-lava-jato-a-lula-ate-o-fim-da-semana.shtml
+2021-01-11 17:26:51,760          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/com-mais-renda-produtor-cuida-melhor-da-lavoura.shtml
+2021-01-11 17:26:51,761          root     INFO: Finished script
