@@ -1,8 +1,13 @@
-2021-01-12 11:20:21,222          root     INFO: Starting script
-2021-01-12 11:20:22,226          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-12 11:20:23,046          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-12 11:20:23,870          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-12 11:20:24,108          root     INFO: Parsing R7 - Brasil
-2021-01-12 11:20:26,237          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3877
-2021-01-12 11:20:29,953          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/governador-do-espirito-santo-aciona-plano-b-importa-seringas-e-negocia-vacinas.shtml
-2021-01-12 11:20:29,954          root     INFO: Finished script
+2021-01-12 11:57:03,270          root     INFO: Starting script
+2021-01-12 11:57:04,151          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-12 11:57:04,794          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-12 11:57:05,432          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-12 11:57:05,766          root     INFO: Parsing R7 - Brasil
+2021-01-12 11:57:07,992          root     INFO: Diante da acirrada polarização na eleição para o comando da Câmara uma espécie de "acordo de cavalheiros" que vigorou nas últimas disputas pode ir por água <del>abaixo</del> <ins>abaixo.</ins> Leia mais (01/11/2021 - 23h15)
+2021-01-12 11:57:09,753          root     INFO: Media ready with ids: 1348962216289169411
+2021-01-12 11:57:09,754          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-12 11:57:09,754          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/disputa-acirrada-na-camara-abre-espaco-para-candidaturas-avulsas-para-mesa-diretora.shtml
+2021-01-12 11:57:09,761          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/disputa-acirrada-na-camara-abre-espaco-para-candidaturas-avulsas-para-mesa-diretora.shtml
+2021-01-12 11:57:09,928          root     INFO: Replying to: 1348962217643941888
+2021-01-12 11:57:10,176          root     INFO: Id to store: 1348962218428280835
+2021-01-12 11:57:13,942          root     INFO: Finished script
