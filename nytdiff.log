@@ -1,6 +1,9 @@
-2021-01-12 03:30:38,584          root     INFO: Starting script
-2021-01-12 03:30:39,478          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-12 03:30:40,129          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-12 03:30:40,787          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-12 03:30:40,914          root     INFO: Parsing R7 - Brasil
-2021-01-12 03:30:45,860          root     INFO: Finished script
+2021-01-12 04:20:22,926          root     INFO: Starting script
+2021-01-12 04:20:23,923          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-12 04:20:24,743          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-12 04:20:25,568          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-12 04:20:25,888          root     INFO: Parsing R7 - Brasil
+2021-01-12 04:20:27,923          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/justica-suspende-contrato-de-r-100-milhoes-da-prefeitura-de-sao-paulo-para-realizacao-da-f1.shtml
+2021-01-12 04:20:31,420          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-vacina-e-uma-questao-coletiva-nao-individual-11012021
+2021-01-12 04:20:31,432          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/governo-doria-corta-em-12-repasses-de-saude-nao-relacionados-a-covid-de-santas-casas-e-hospitais.shtml
+2021-01-12 04:20:31,433          root     INFO: Finished script
