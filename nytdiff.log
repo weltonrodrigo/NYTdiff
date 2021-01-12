@@ -1,10 +1,13 @@
-2021-01-12 12:25:26,289          root     INFO: Starting script
-2021-01-12 12:25:27,133          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-12 12:25:27,783          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-12 12:25:28,431          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-12 12:25:28,681          root     INFO: Parsing R7 - Brasil
-2021-01-12 12:25:30,961          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/lava-jato-apura-lavagem-de-propina-em-obras-de-arte-filho-de-lobao-e-alvo.shtml
-2021-01-12 12:25:30,978          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/ministerio-da-saude-pressiona-manaus-e-diz-ser-inadmissivel-nao-usar-cloroquina-contra-covid-19.shtml
-2021-01-12 12:25:35,009          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/01/os-fantasmasdo-chanceler.shtml
-2021-01-12 12:25:35,014          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/gestao-doria-promete-retaliar-em-obras-e-investimentos-cidades-que-desrespeitarem-plano-sp.shtml
-2021-01-12 12:25:35,016          root     INFO: Finished script
+2021-01-12 13:13:06,131          root     INFO: Starting script
+2021-01-12 13:13:06,952          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-12 13:13:07,620          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-12 13:13:08,282          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-12 13:13:08,409          root     INFO: Parsing R7 - Brasil
+2021-01-12 13:13:08,794          root     INFO: A região metropolitana de Tóquio enfrenta outra vez estado de emergência por causa da pandemia <del>do novo coronavírus (Covid-19),</del> <ins>de Covid-19,</ins> que disparou em várias regiões do Japão. Leia mais (01/11/2021 - 23h25)
+2021-01-12 13:13:10,569          root     INFO: Media ready with ids: 1348981345540861955
+2021-01-12 13:13:10,569          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-12 13:13:10,570          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/01/com-novo-estado-de-emergencia-toquio-luta-para-garantir-olimpiada.shtml
+2021-01-12 13:13:10,580          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/01/com-novo-estado-de-emergencia-toquio-luta-para-garantir-olimpiada.shtml
+2021-01-12 13:13:10,746          root     INFO: Replying to: 1348981347084361728
+2021-01-12 13:13:10,983          root     INFO: Id to store: 1348981347793178624
+2021-01-12 13:13:16,919          root     INFO: Finished script
