@@ -1,8 +1,10 @@
-2021-01-12 18:34:21,769          root     INFO: Starting script
-2021-01-12 18:34:22,613          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-12 18:34:23,283          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-12 18:34:23,969          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-12 18:34:24,132          root     INFO: Parsing R7 - Brasil
-2021-01-12 18:34:26,740          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48929
-2021-01-12 18:34:31,538          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/rose-de-freitas-e-veneziano-formalizam-mudanca-para-o-mdb-na-proxima-semana.shtml
-2021-01-12 18:34:31,539          root     INFO: Finished script
+2021-01-12 19:31:17,388          root     INFO: Starting script
+2021-01-12 19:31:18,235          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-12 19:31:18,888          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-12 19:31:19,538          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-12 19:31:19,701          root     INFO: Parsing R7 - Brasil
+2021-01-12 19:31:20,051          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/desigualdades/2021/01/desigualdades-no-centro-do-debate-climatico.shtml
+2021-01-12 19:31:22,177          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-admite-simpatia-por-pacheco-no-senado-e-volta-a-cobrar-ruralistas-por-apoio-a-lira.shtml
+2021-01-12 19:31:26,583          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/jorge-oliveira-e-questionado-por-conflito-de-interesses-em-estreia-no-tcu.shtml
+2021-01-12 19:31:26,588          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/presidente-quebrado.shtml
+2021-01-12 19:31:26,589          root     INFO: Finished script
