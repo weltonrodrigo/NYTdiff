@@ -1,8 +1,26 @@
-2021-01-11 23:25:16,092          root     INFO: Starting script
-2021-01-11 23:25:17,301          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-11 23:25:17,947          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-11 23:25:18,592          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-11 23:25:18,970          root     INFO: Parsing R7 - Brasil
-2021-01-11 23:25:22,961          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/01/ministerio-do-meio-ambiente-realiza-1o-leilao-de-parques-nacionais-com-proposta-de-r-20-milhoes.shtml
-2021-01-11 23:25:24,881          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/10/governo-dribla-cobranca-e-prioriza-comissao-amiga-sobre-pantanal-no-congresso.shtml
-2021-01-11 23:25:24,882          root     INFO: Finished script
+2021-01-12 00:03:32,064          root     INFO: Starting script
+2021-01-12 00:03:32,861          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-12 00:03:33,510          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-12 00:03:34,155          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-12 00:03:34,393          root     INFO: Parsing R7 - Brasil
+2021-01-12 00:03:40,767          root     INFO: Removed http://noticias.r7.com/brasil/rede-aciona-stf-para-que-anvisa-aprove-coronavac-em-72-horas-11012021
+2021-01-12 00:03:40,772          root     INFO: Removed http://noticias.r7.com/brasil/milton-ribeiro-defende-volta-as-aulas-educacao-nao-pode-parar-11012021
+2021-01-12 00:03:40,776          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-nao-pode-mudar-pais-sozinho-e-gastar-acima-do-teto-11012021
+2021-01-12 00:03:40,780          root     INFO: Removed http://noticias.r7.com/brasil/casos-de-covid-19-entre-indigenas-chegam-a-44680-diz-organizacao-11012021
+2021-01-12 00:03:40,784          root     INFO: Removed http://noticias.r7.com/brasil/juiz-de-roraima-barra-deportacao-de-55-indigenas-venezuelanos-11012021
+2021-01-12 00:03:40,787          root     INFO: Removed http://noticias.r7.com/brasil/serasa-vendas-do-varejo-no-natal-tem-pior-desempenho-desde-2003-11012021
+2021-01-12 00:03:40,791          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-sugere-vacinacao-com-apenas-uma-dose-de-imunizante-11012021
+2021-01-12 00:03:40,794          root     INFO: Removed http://noticias.r7.com/brasil/pt-decide-apoiar-rodrigo-pacheco-a-presidencia-do-senado-federal-11012021
+2021-01-12 00:03:40,798          root     INFO: Removed http://noticias.r7.com/brasil/covid-19-internacoes-em-manaus-aumentaram-72-em-14-dias-11012021
+2021-01-12 00:03:40,801          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-apontar-fraude-e-atentado-a-democracia-diz-psol-11012021
+2021-01-12 00:03:40,804          root     INFO: Removed http://noticias.r7.com/brasil/vacinacao-wajngarten-critica-comparacao-de-israel-com-brasil-11012021
+2021-01-12 00:03:40,808          root     INFO: Removed http://noticias.r7.com/brasil/bb-quer-economizar-r-27-bi-ate-2025-com-programas-de-demissao-11012021
+2021-01-12 00:03:40,812          root     INFO: Removed http://noticias.r7.com/brasil/dolar-bate-maximas-em-dois-meses-contra-real-apos-abertura-11012021
+2021-01-12 00:03:40,816          root     INFO: Removed http://noticias.r7.com/brasil/impeachment-e-prerrogativa-do-parlamento-diz-baleia-rossi-11012021
+2021-01-12 00:03:40,819          root     INFO: Removed http://noticias.r7.com/brasil/governadores-se-mobilizam-contra-pl-que-reduz-poder-sobre-a-policia-11012021
+2021-01-12 00:03:40,822          root     INFO: Removed http://noticias.r7.com/brasil/maia-diz-que-fechamento-da-ford-e-falta-de-credibilidade-do-governo-11012021
+2021-01-12 00:03:40,826          root     INFO: Removed http://noticias.r7.com/brasil/preco-medio-do-etanol-sobe-em-17-estados-na-semana-passada-11012021
+2021-01-12 00:03:40,829          root     INFO: Removed http://noticias.r7.com/brasil/proposta-limita-poder-de-governadores-sobre-policia-11012021
+2021-01-12 00:03:40,832          root     INFO: Removed http://noticias.r7.com/brasil/bancos-concedem-r-34-tri-em-credito-na-pandemia-diz-febraban-11012021
+2021-01-12 00:03:40,837          root     INFO: Removed http://noticias.r7.com/brasil/cartao-de-vacinacao-de-bolsonaro-tera-sigilo-por-ate-100-anos-11012021
+2021-01-12 00:03:40,837          root     INFO: Finished script
