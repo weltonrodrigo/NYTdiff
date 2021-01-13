@@ -1,10 +1,46 @@
-2021-01-13 16:24:06,676          root     INFO: Starting script
-2021-01-13 16:24:07,477          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-13 16:24:08,126          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-13 16:24:08,778          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-13 16:24:08,977          root     INFO: Parsing R7 - Brasil
-2021-01-13 16:24:11,308          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pp-anuncia-apoio-a-pacheco-e-amplia-forca-de-candidato-de-alcolumbre-e-bolsonaro-no-senado.shtml
-2021-01-13 16:24:11,319          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/russos-pretendem-fazer-o-pedido-de-registro-emergencial-da-sputnik-v-na-anvisa-ainda-nesta-semana.shtml
-2021-01-13 16:24:15,291          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/baleia-rossi-e-citado-em-investigacoes-contra-fraudes-em-contratos-de-prefeitura-e-em-delacao-da-jbs.shtml
-2021-01-13 16:24:15,296          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48907
-2021-01-13 16:24:15,297          root     INFO: Finished script
+2021-01-13 17:46:32,537          root     INFO: Starting script
+2021-01-13 17:46:33,568          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-13 17:46:34,405          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-13 17:46:35,247          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-13 17:46:35,476          root     INFO: Parsing R7 - Brasil
+2021-01-13 17:46:38,325          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/prefeitura-de-salvador-vai-fazer-lavagem-do-bonfim-on-line-quem-tem-fe-fica-em-casa-diz-slogan.shtml
+2021-01-13 17:46:43,156          root     INFO: New article tracked: http://noticias.r7.com/brasil/militares-das-forcas-armadas-rejeitam-status-de-general-para-pms-13012021
+2021-01-13 17:46:43,176          root     INFO: New article tracked: http://noticias.r7.com/brasil/despesa-menor-com-previdencia-e-pessoal-deve-ajudar-a-manter-teto-13012021
+2021-01-13 17:46:43,195          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-volta-a-atacar-kalil-e-diz-que-prefeito-faz-barbaridades-13012021
+2021-01-13 17:46:43,220          root     INFO: New article tracked: http://noticias.r7.com/brasil/meu-melhor-amigo-partiu-diz-filho-de-maguito-vilela-13012021
+2021-01-13 17:46:43,245          root     INFO: New article tracked: http://noticias.r7.com/brasil/alcolumbre-lamenta-morte-de-maguito-vilela-grande-brasileiro-13012021
+2021-01-13 17:46:43,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/voce-vai-tomar-vacina-contra-a-covid-19-vote-13012021
+2021-01-13 17:46:43,284          root     INFO: New article tracked: http://noticias.r7.com/brasil/ford-governo-da-bahia-anuncia-programa-de-recolocacao-13012021
+2021-01-13 17:46:43,303          root     INFO: New article tracked: http://noticias.r7.com/brasil/forcas-armadas-transportam-cilindros-de-oxigenio-para-manaus-13012021
+2021-01-13 17:46:43,320          root     INFO: New article tracked: http://noticias.r7.com/brasil/no-cara-ou-coroa-da-vacina-chinesa-os-dois-lados-sao-confusos-13012021
+2021-01-13 17:46:43,339          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibovespa-aponta-leve-baixa-focado-em-retirada-de-estimulos-nos-eua-13012021
+2021-01-13 17:46:43,357          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-sanciona-com-vetos-projeto-sobre-recursos-a-ciencia-13012021
+2021-01-13 17:46:43,380          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sobre-coronavac-agora-estao-ouvindo-a-verdade-13012021
+2021-01-13 17:46:43,394          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-lamenta-morte-de-maguito-lideranca-nacional-expressiva-13012021
+2021-01-13 17:46:43,413          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-abre-em-alta-apos-registrar-maior-queda-em-dois-anos-e-meio-13012021
+2021-01-13 17:46:43,430          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibge-safra-de-2020-bate-recorde-com-245-milhoes-de-toneladas-13012021
+2021-01-13 17:46:43,447          root     INFO: New article tracked: http://noticias.r7.com/brasil/um-dia-apos-anuncio-de-saida-ford-se-reune-com-presidente-do-tst-13012021
+2021-01-13 17:46:43,464          root     INFO: New article tracked: http://noticias.r7.com/brasil/lider-ruralista-critica-pressao-de-bolsonaro-por-apoio-a-lira-13012021
+2021-01-13 17:46:43,481          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-morte-de-maguito-quem-assume-prefeitura-de-goiania-13012021
+2021-01-13 17:46:43,503          root     INFO: New article tracked: http://noticias.r7.com/brasil/morre-prefeito-de-goiania-maguito-vilela-por-complicacoes-da-covid-19-13012021
+2021-01-13 17:46:43,526          root     INFO: New article tracked: http://noticias.r7.com/brasil/programa-oferece-914-vagas-de-estagio-com-bolsas-de-ate-r-2-mil-13012021
+2021-01-13 17:46:43,549          root     INFO: Removed http://noticias.r7.com/brasil/morre-aos-94-anos-o-banqueiro-antonio-carlos-de-almeida-braga-12012021
+2021-01-13 17:46:43,557          root     INFO: Removed http://noticias.r7.com/brasil/marcos-pereira-lamenta-saida-da-ford-e-cobra-economia-11012021
+2021-01-13 17:46:43,566          root     INFO: Removed http://noticias.r7.com/brasil/dolar-comeca-negocios-em-queda-seguindo-pausa-externa-12012021
+2021-01-13 17:46:43,574          root     INFO: Removed http://noticias.r7.com/brasil/dados-da-fgv-indicam-ociosidade-superior-a-30-no-setor-automotivo-12012021
+2021-01-13 17:46:43,584          root     INFO: Removed http://noticias.r7.com/brasil/senador-defende-punicao-a-ford-apos-fechamento-de-fabricas-12012021
+2021-01-13 17:46:43,591          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-reza-para-nao-fecharem-tudo-de-novo-no-pais-12012021
+2021-01-13 17:46:43,598          root     INFO: Removed http://noticias.r7.com/brasil/balanca-comercial-do-agronegocio-tem-o-2-maior-valor-da-historia-12012021
+2021-01-13 17:46:43,609          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/01/futuro-da-democracia-nos-eua-depende-do-desenlace-da-guerra-pela-alma-do-partido-republicano.shtml
+2021-01-13 17:46:43,615          root     INFO: Removed http://noticias.r7.com/brasil/mourao-critica-ford-por-sair-do-brasil-e-seguir-na-argentina-12012021
+2021-01-13 17:46:43,626          root     INFO: Removed http://noticias.r7.com/brasil/saida-da-ford-e-ducha-de-agua-fria-em-retomada-dizem-economistas-12012021
+2021-01-13 17:46:43,639          root     INFO: Removed http://noticias.r7.com/brasil/primeira-caderneta-de-poupanca-completa-hoje-160-anos-de-historia-12012021
+2021-01-13 17:46:43,650          root     INFO: Removed http://noticias.r7.com/brasil/videos/video-mostra-operacao-da-policia-federal-contra-fraudes-na-petrobras-12012021
+2021-01-13 17:46:43,656          root     INFO: Removed http://noticias.r7.com/brasil/mourao-diz-que-ford-deveria-ter-esperado-para-sair-do-brasil-11012021
+2021-01-13 17:46:43,670          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sobre-ford-faltou-a-verdade-querem-subsidios-12012021
+2021-01-13 17:46:43,676          root     INFO: Removed http://noticias.r7.com/brasil/psl-acata-abertura-de-processos-que-podem-expulsar-20-deputados-12012021
+2021-01-13 17:46:43,683          root     INFO: Removed http://noticias.r7.com/brasil/senado-ex-aliado-de-bolsonaro-major-olimpio-lanca-candidatura-12012021
+2021-01-13 17:46:43,689          root     INFO: Removed http://noticias.r7.com/brasil/tse-define-prazos-para-solicitacoes-de-liberacao-de-recursos-12012021
+2021-01-13 17:46:43,698          root     INFO: Removed http://noticias.r7.com/brasil/gilmar-encerra-inqueritos-de-andre-esteves-com-delacao-de-palocci-11012021
+2021-01-13 17:46:43,703          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-operacao-contra-fraudes-na-petrobras-em-3-estados-e-no-df-12012021
+2021-01-13 17:46:43,705          root     INFO: Finished script
