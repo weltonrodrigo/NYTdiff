@@ -1,42 +1,6 @@
-2021-01-13 18:47:47,612          root     INFO: Starting script
-2021-01-13 18:47:48,492          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-13 18:47:49,173          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-13 18:47:50,089          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-13 18:47:50,196          root     INFO: Parsing R7 - Brasil
-2021-01-13 18:47:52,430          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/empresario-cita-reuniao-com-mandetta-ex-secretario-e-entidade-pivo-de-impeachment-de-witzel.shtml
-2021-01-13 18:47:52,466          root     INFO: Prefeitura de Salvador vai fazer Lavagem do Bonfim on-line; 'quem tem <del>fé,</del> <ins>fé</ins> fica em casa', diz slogan
-2021-01-13 18:47:54,241          root     INFO: Media ready with ids: 1349427970444824578
-2021-01-13 18:47:54,242          root     INFO: Text to tweet: Modificação do Título
-2021-01-13 18:47:54,242          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/prefeitura-de-salvador-vai-fazer-lavagem-do-bonfim-on-line-quem-tem-fe-fica-em-casa-diz-slogan.shtml
-2021-01-13 18:47:54,253          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/prefeitura-de-salvador-vai-fazer-lavagem-do-bonfim-on-line-quem-tem-fe-fica-em-casa-diz-slogan.shtml
-2021-01-13 18:47:54,454          root     INFO: Replying to: 1349427972130934788
-2021-01-13 18:47:54,700          root     INFO: Id to store: 1349427972953006082
-2021-01-13 18:47:54,798          root     INFO: A juíza Thaissa de Mourã Guimarães, da 20ª Vara Cível de Brasília, atendeu ao pedido do deputado estadual Fernando Cury (Cidadania) e suspendeu <ins>na noite desta terça-feira (12)</ins> o processo da comissão de ética do partido que recomendou sua expulsão da sigla por ter apalpado a colega Isa Penna (PSOL) no <del>plenário.</del> <ins>plenário da Assembleia Legislativa de São Paulo.</ins> Leia mais (01/13/2021 - 12h25)
-2021-01-13 18:47:56,604          root     INFO: Media ready with ids: 1349427980230144002
-2021-01-13 18:47:56,605          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-13 18:47:56,605          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/juiza-suspende-processo-interno-do-cidadania-sobre-expulsao-de-deputado-que-apalpou-colega-em-sp.shtml
-2021-01-13 18:47:56,613          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/juiza-suspende-processo-interno-do-cidadania-sobre-expulsao-de-deputado-que-apalpou-colega-em-sp.shtml
-2021-01-13 18:47:56,811          root     INFO: Replying to: 1349427982021111811
-2021-01-13 18:47:57,071          root     INFO: Id to store: 1349427982822219779
-2021-01-13 18:48:01,351          root     INFO: Removed http://noticias.r7.com/brasil/alcolumbre-lamenta-morte-de-maguito-vilela-grande-brasileiro-13012021
-2021-01-13 18:48:01,357          root     INFO: Removed http://noticias.r7.com/brasil/ibovespa-aponta-leve-baixa-focado-em-retirada-de-estimulos-nos-eua-13012021
-2021-01-13 18:48:01,361          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sobre-coronavac-agora-estao-ouvindo-a-verdade-13012021
-2021-01-13 18:48:01,365          root     INFO: Removed http://noticias.r7.com/brasil/despesa-menor-com-previdencia-e-pessoal-deve-ajudar-a-manter-teto-13012021
-2021-01-13 18:48:01,368          root     INFO: Removed http://noticias.r7.com/brasil/ford-governo-da-bahia-anuncia-programa-de-recolocacao-13012021
-2021-01-13 18:48:01,372          root     INFO: Removed http://noticias.r7.com/brasil/militares-das-forcas-armadas-rejeitam-status-de-general-para-pms-13012021
-2021-01-13 18:48:01,375          root     INFO: Removed http://noticias.r7.com/brasil/programa-oferece-914-vagas-de-estagio-com-bolsas-de-ate-r-2-mil-13012021
-2021-01-13 18:48:01,379          root     INFO: Removed http://noticias.r7.com/brasil/presidente-sanciona-com-vetos-projeto-sobre-recursos-a-ciencia-13012021
-2021-01-13 18:48:01,383          root     INFO: Removed http://noticias.r7.com/brasil/mourao-lamenta-morte-de-maguito-lideranca-nacional-expressiva-13012021
-2021-01-13 18:48:01,387          root     INFO: Removed http://noticias.r7.com/brasil/forcas-armadas-transportam-cilindros-de-oxigenio-para-manaus-13012021
-2021-01-13 18:48:01,391          root     INFO: Removed http://noticias.r7.com/brasil/lider-ruralista-critica-pressao-de-bolsonaro-por-apoio-a-lira-13012021
-2021-01-13 18:48:01,394          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/mdb-do-senado-cogita-antecipar-escolha-de-seu-candidato-a-presidencia-da-casa.shtml
-2021-01-13 18:48:01,398          root     INFO: Removed http://noticias.r7.com/brasil/meu-melhor-amigo-partiu-diz-filho-de-maguito-vilela-13012021
-2021-01-13 18:48:01,401          root     INFO: Removed http://noticias.r7.com/brasil/com-morte-de-maguito-quem-assume-prefeitura-de-goiania-13012021
-2021-01-13 18:48:01,405          root     INFO: Removed http://noticias.r7.com/brasil/ibge-safra-de-2020-bate-recorde-com-245-milhoes-de-toneladas-13012021
-2021-01-13 18:48:01,409          root     INFO: Removed http://noticias.r7.com/brasil/no-cara-ou-coroa-da-vacina-chinesa-os-dois-lados-sao-confusos-13012021
-2021-01-13 18:48:01,412          root     INFO: Removed http://noticias.r7.com/brasil/um-dia-apos-anuncio-de-saida-ford-se-reune-com-presidente-do-tst-13012021
-2021-01-13 18:48:01,416          root     INFO: Removed http://noticias.r7.com/brasil/morre-prefeito-de-goiania-maguito-vilela-por-complicacoes-da-covid-19-13012021
-2021-01-13 18:48:01,420          root     INFO: Removed http://noticias.r7.com/brasil/voce-vai-tomar-vacina-contra-a-covid-19-vote-13012021
-2021-01-13 18:48:01,424          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-volta-a-atacar-kalil-e-diz-que-prefeito-faz-barbaridades-13012021
-2021-01-13 18:48:01,427          root     INFO: Removed http://noticias.r7.com/brasil/dolar-abre-em-alta-apos-registrar-maior-queda-em-dois-anos-e-meio-13012021
-2021-01-13 18:48:01,428          root     INFO: Finished script
+2021-01-13 19:46:23,640          root     INFO: Starting script
+2021-01-13 19:46:24,719          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-13 19:46:25,571          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-13 19:46:26,487          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-13 19:46:26,709          root     INFO: Parsing R7 - Brasil
+2021-01-13 19:46:33,454          root     INFO: Finished script
