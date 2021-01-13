@@ -1,6 +1,14 @@
-2021-01-13 14:57:42,362          root     INFO: Starting script
-2021-01-13 14:57:43,214          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-13 14:57:43,897          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-13 14:57:44,583          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-13 14:57:44,729          root     INFO: Parsing R7 - Brasil
-2021-01-13 14:57:51,268          root     INFO: Finished script
+2021-01-13 15:32:42,557          root     INFO: Starting script
+2021-01-13 15:32:43,377          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-13 15:32:44,029          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-13 15:32:44,664          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-13 15:32:44,852          root     INFO: Parsing R7 - Brasil
+2021-01-13 15:32:45,209          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/01/sequelada-de-covid-19.shtml
+2021-01-13 15:32:47,028          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/juiza-suspende-processo-interno-do-cidadania-sobre-expulsao-de-deputado-que-apalpou-colega-em-sp.shtml
+2021-01-13 15:32:47,047          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pgr-inicia-transicao-para-fim-das-forcas-tarefas-da-lava-jato-sob-argumento-de-precariedade-do-modelo.shtml
+2021-01-13 15:32:47,058          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10609
+2021-01-13 15:32:50,828          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/apos-covid-mourao-recebe-alta-e-retoma-atividades-na-proxima-semana.shtml
+2021-01-13 15:32:50,833          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2021/01/juventude-e-trabalho-educar-melhor-para-um-mundo-incerto.shtml
+2021-01-13 15:32:50,837          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/psl-convoca-reuniao-da-executiva-para-a-proxima-terca-12-para-avaliar-punicao-a-rebeldes.shtml
+2021-01-13 15:32:50,841          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/psol-aciona-stf-para-que-bolsonaro-mostre-provas-sobre-acusacao-de-fraude-nas-eleicoes-de-2018.shtml
+2021-01-13 15:32:50,841          root     INFO: Finished script
