@@ -1,8 +1,11 @@
-2021-01-14 18:44:31,712          root     INFO: Starting script
-2021-01-14 18:44:32,712          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-14 18:44:33,529          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-14 18:44:34,350          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-14 18:44:34,565          root     INFO: Parsing R7 - Brasil
-2021-01-14 18:44:39,987          root     INFO: New article tracked: http://noticias.r7.com/brasil/anfavea-rebate-bolsonaro-e-diz-que-empresas-querem-competitividade-13012021
-2021-01-14 18:44:40,000          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-se-cala-sobre-futuro-do-presidente-do-banco-do-brasil-14012021
-2021-01-14 18:44:40,002          root     INFO: Finished script
+2021-01-14 19:42:25,623          root     INFO: Starting script
+2021-01-14 19:42:26,456          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-14 19:42:27,111          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-14 19:42:27,762          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-14 19:42:28,047          root     INFO: Parsing R7 - Brasil
+2021-01-14 19:42:28,424          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/01/como-semear-a-esperanca-de-um-ano-melhor-num-pais-que-nao-nos-permite-viver-o-amanha.shtml
+2021-01-14 19:42:30,367          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48934
+2021-01-14 19:42:34,467          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/operacao-etiopia-maranhao-para-a-compra-respiradores-contra-a-covid-19-vira-livro.shtml
+2021-01-14 19:42:34,470          root     INFO: Removed http://noticias.r7.com/brasil/anfavea-rebate-bolsonaro-e-diz-que-empresas-querem-competitividade-13012021
+2021-01-14 19:42:34,475          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/caprichos-vacinais.shtml
+2021-01-14 19:42:34,476          root     INFO: Finished script
