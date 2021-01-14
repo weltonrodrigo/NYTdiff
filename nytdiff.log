@@ -1,13 +1,10 @@
-2021-01-14 12:02:25,335          root     INFO: Starting script
-2021-01-14 12:02:26,147          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-14 12:02:26,799          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-14 12:02:27,455          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-14 12:02:27,858          root     INFO: Parsing R7 - Brasil
-2021-01-14 12:02:28,333          root     INFO: A Conab trouxe preocupação para o mercado de milho nesta quarta-feira (13). Pelos dados atuais do órgão, produção e importação caem, enquanto consumo interno e exportação sobem. O resultado seria menos produto no mercado. <del>O consumo interno, em ritmo crescente, deverá ir a 72 milhões de toneladas neste ano, 5% mais. Pelos números atuais, os estoques finais desta safra cairiam para apenas 7,3 milhões de toneladas, 33% menos do que na anterior. Se concretizado, será o menor volume desde 2016. Os dados da Conab refletem um cenário apertado porque levam em consideração a queda de produção na primeira safra do cereal, mas ainda não incluem os números do esperado aumento de área na safrinha. Esta, apesar do nome, passou a ser a principal do país em volume produzido. A safra de verão, menos importante atualmente, foi afetada por clima ruim, e consequente redução de produtividade. A produção gaúcha deve recuar para apenas 3,6 milhões de toneladas, 37% menos do que era previsto inicialmente.</del> Leia mais (01/13/2021 - 23h15)
-2021-01-14 12:02:30,368          root     INFO: Media ready with ids: 1349688336303194112
-2021-01-14 12:02:30,369          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-14 12:02:30,369          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/dados-iniciais-de-producao-de-milho-da-conab-assustam.shtml
-2021-01-14 12:02:30,378          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/dados-iniciais-de-producao-de-milho-da-conab-assustam.shtml
-2021-01-14 12:02:30,575          root     INFO: Replying to: 1349688338295435265
-2021-01-14 12:02:30,849          root     INFO: Id to store: 1349688339067236354
-2021-01-14 12:02:37,533          root     INFO: Finished script
+2021-01-14 12:58:45,192          root     INFO: Starting script
+2021-01-14 12:58:46,022          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-14 12:58:46,661          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-14 12:58:47,300          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-14 12:58:47,485          root     INFO: Parsing R7 - Brasil
+2021-01-14 12:58:48,018          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/0202/01/rodrigo-maia-conivente.shtml
+2021-01-14 12:58:51,302          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://ambiencia.blogfolha.uol.com.br/?p=873
+2021-01-14 12:58:53,239          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/10/megaoperacao-da-pf-contra-garimpo-mira-empresario-da-aviacao-no-pa.shtml
+2021-01-14 12:58:53,246          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2021/01/acao-trumpista-trouxe-a-hiperpotencia-rotulo-de-republica-de-bananas.shtml
+2021-01-14 12:58:53,247          root     INFO: Finished script
