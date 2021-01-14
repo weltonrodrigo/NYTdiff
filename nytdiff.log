@@ -1,8 +1,38 @@
-2021-01-14 01:48:16,211          root     INFO: Starting script
-2021-01-14 01:48:17,017          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-14 01:48:17,670          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-14 01:48:18,326          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-14 01:48:18,541          root     INFO: Parsing R7 - Brasil
-2021-01-14 01:48:18,957          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/contardocalligaris/2021/01/trump-e-morto-como-ines-mas-como-interpretar-a-politica-americana-agora.shtml
-2021-01-14 01:48:24,413          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/01/record-paga-r-52-mil-de-indenizacao-por-exibir-acusados-de-homicidio-em-roupas-intimas.shtml
-2021-01-14 01:48:24,415          root     INFO: Finished script
+2021-01-14 03:00:10,391          root     INFO: Starting script
+2021-01-14 03:00:11,210          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-14 03:00:11,872          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-14 03:00:12,544          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-14 03:00:12,625          root     INFO: Parsing R7 - Brasil
+2021-01-14 03:00:12,948          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2021/01/dizer-nao-ao-sexo-e-uma-nova-revolucao-das-mulheres.shtml
+2021-01-14 03:00:12,962          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/solange-srour/2021/01/a-2a-onda-do-auxilio-e-mais-contagiosa.shtml
+2021-01-14 03:00:12,972          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2021/01/ano-novo-vida-nova.shtml
+2021-01-14 03:00:12,986          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/e-melhor-remover-um-lunatico-da-arena-politica-ou-derrota-lo-nas-urnas.shtml
+2021-01-14 03:00:12,999          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/punir-a-petulancia.shtml
+2021-01-14 03:00:13,008          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/posse-e-porte-de-armas-o-bom-senso-precisa-prevalecer.shtml
+2021-01-14 03:00:13,018          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/apesar-dos-tropecos-a-ciencia-impera-temos-vacinas-e-devemos-nos-vacinar.shtml
+2021-01-14 03:00:13,026          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/enem-no-domingo.shtml
+2021-01-14 03:00:13,038          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josimarmelo/2021/01/avenida-para-o-futuro.shtml
+2021-01-14 03:00:14,842          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/estados-reclamam-de-recuo-da-anvisa-e-dizem-que-agencia-vai-atrasar-vacina-russa.shtml
+2021-01-14 03:00:14,853          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2021/01/ano-novo-vida-nova.shtml
+2021-01-14 03:00:14,863          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/deputados-formam-grupo-na-assembleia-para-rever-gastos-de-doria-e-travam-embates-com-governador.shtml
+2021-01-14 03:00:14,873          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/e-melhor-remover-um-lunatico-da-arena-politica-ou-derrota-lo-nas-urnas.shtml
+2021-01-14 03:00:14,883          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-psdb-dividido-candidato-de-alcolumbre-mantem-dianteira-na-disputa-a-presidencia-do-senado.shtml
+2021-01-14 03:00:14,893          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-schuler/2021/01/as-big-techs-assumiram-a-curadoria-civilizacao-ou-distopia.shtml
+2021-01-14 03:00:14,904          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/01/bolsonaro-tem-roteiro-para-o-golpe.shtml
+2021-01-14 03:00:18,691          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2021/01/o-pazuello-ja-definiu-a-data-para-o-plano-de-vacinacao-30-de-fevereiro.shtml
+2021-01-14 03:00:18,695          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/espiritos-fortes-tiozinhos-mocorongos-e-abobados-se-embolaram-em-washington.shtml
+2021-01-14 03:00:18,700          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2021/01/motins-politicos.shtml
+2021-01-14 03:00:18,705          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/nao-podemos-mais-aceitar-um-ministro-que-nao-entende-de-saude-e-um-presidente-irresponsavel-diz-maia.shtml
+2021-01-14 03:00:18,709          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/huck-compreende-os-problemas-do-brasil-mas-candidatura-e-decisao-dificil-diz-fundador-do-renovabr.shtml
+2021-01-14 03:00:18,715          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/aaron-burr-donald-trump-e-o-desprezo-pela-democracia.shtml
+2021-01-14 03:00:18,718          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/eduardo-paes-ensaia-dobradinha-com-covas-em-acoes-na-area-da-cultura.shtml
+2021-01-14 03:00:18,721          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/em-reuniao-com-lider-do-governo-bolsonaro-confirma-apoio-a-candidato-de-alcolumbre-para-o-senado.shtml
+2021-01-14 03:00:18,726          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/01/enquanto-voce-estiver-vivo-vai-ter-louca.shtml
+2021-01-14 03:00:18,730          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/fernando-haddad/2021/01/despedida.shtml
+2021-01-14 03:00:18,733          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/maia-chama-bolsonaro-de-covarde-em-meio-a-disputas-da-vacinacao-e-na-camara.shtml
+2021-01-14 03:00:18,737          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/lobato-nao-era-racista.shtml
+2021-01-14 03:00:18,741          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/clinicas-particulares-devem-aplicar-vacina-contra-o-coronavirus-nao.shtml
+2021-01-14 03:00:18,746          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/01/papel-mais-caro-deve-empurrar-preco-dos-livros-para-cima-dizem-editoras.shtml
+2021-01-14 03:00:18,752          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/clinicas-particulares-devem-aplicar-vacina-contra-o-coronavirus-sim.shtml
+2021-01-14 03:00:18,757          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/replica-a-miseria-da-critica-jornalistica.shtml
+2021-01-14 03:00:18,759          root     INFO: Finished script
