@@ -1,8 +1,17 @@
-2021-01-15 20:22:22,865          root     INFO: Starting script
-2021-01-15 20:22:23,651          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-15 20:22:24,293          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-15 20:22:24,931          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-15 20:22:25,227          root     INFO: Parsing R7 - Brasil
-2021-01-15 20:22:25,583          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2021/01/acaba-de-sair-o-indice-de-eficacia-do-ministro-da-saude-100-tapado.shtml
-2021-01-15 20:22:31,157          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/01/saida-para-trump-matar-se.shtml
-2021-01-15 20:22:31,160          root     INFO: Finished script
+2021-01-15 21:05:00,450          root     INFO: Starting script
+2021-01-15 21:05:01,472          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-15 21:05:02,310          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-15 21:05:03,146          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-15 21:05:03,395          root     INFO: Parsing R7 - Brasil
+2021-01-15 21:05:04,581          root     INFO: O mais grave ataque sofrido pelos EUA neste século <del>?não</del> <ins>–não</ins> o mais <del>sangrento?</del> <ins>sangrento–</ins> foi transmitido ao vivo pelos próprios terroristas. E por que não escondiam os rostos com balaclavas? Porque moram num país onde não precisam ser clandestinos. Leia mais (01/13/2021 - 19h01)
+2021-01-15 21:05:06,543          root     INFO: Media ready with ids: 1350187274739322880
+2021-01-15 21:05:06,543          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-15 21:05:06,543          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/01/e-a-identidade-estupido.shtml
+2021-01-15 21:05:06,550          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/01/e-a-identidade-estupido.shtml
+2021-01-15 21:05:06,843          root     INFO: Replying to: 1350187276962308096
+2021-01-15 21:05:07,181          root     INFO: Id to store: 1350187277910220800
+2021-01-15 21:05:08,439          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/amazonas-diz-que-conseguiu-oxigenio-por-mais-48h-e-suspende-transferencia-de-bebes.shtml
+2021-01-15 21:05:12,867          root     INFO: Removed http://noticias.r7.com/brasil/disputa-por-poucas-vacinas-sao-novo-problema-para-pazuello-15012021
+2021-01-15 21:05:12,871          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10603
+2021-01-15 21:05:12,875          root     INFO: Removed http://noticias.r7.com/brasil/dolar-sobe-apos-3-quedas-por-temores-sobre-coronavirus-15012021
+2021-01-15 21:05:12,875          root     INFO: Finished script
