@@ -1,15 +1,40 @@
-2021-01-15 12:15:47,414          root     INFO: Starting script
-2021-01-15 12:15:48,501          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-15 12:15:49,173          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-15 12:15:49,858          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-15 12:15:50,081          root     INFO: Parsing R7 - Brasil
-2021-01-15 12:15:52,699          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/investigacao-contra-ex-ministro-em-caso-das-rachadinhas-na-assembleia-do-rj-e-arquivada.shtml
-2021-01-15 12:15:52,986          root     INFO: Principal aposta da Procuradoria-Geral da República para assumir investigações de forças-tarefas como as da Lava Jato, os Gaecos <del>(grupos de atuação de combate ao crime organizado)</del> <ins>do MPF (Ministério Público Federal)</ins> não estão estruturados para demandas dessa complexidade, segundo três dos cinco coordenadores desses <del>grupos no MPF (Ministério Público Federal).</del> <ins>grupos.</ins> Leia mais (01/14/2021 - 23h15)
-2021-01-15 12:15:55,316          root     INFO: Media ready with ids: 1350054100579323904
-2021-01-15 12:15:55,316          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-15 12:15:55,318          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/modelo-da-pgr-para-substituir-forcas-tarefas-da-lava-jato-esbarra-em-estrutura.shtml
-2021-01-15 12:15:55,326          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/modelo-da-pgr-para-substituir-forcas-tarefas-da-lava-jato-esbarra-em-estrutura.shtml
-2021-01-15 12:15:55,518          root     INFO: Replying to: 1350054102168989696
-2021-01-15 12:15:55,739          root     INFO: Id to store: 1350054102999445506
-2021-01-15 12:16:00,369          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/deputados-dizem-que-discurso-contra-machismo-ajudaria-fernando-cury-cidadania.shtml
-2021-01-15 12:16:00,370          root     INFO: Finished script
+2021-01-15 13:15:06,669          root     INFO: Starting script
+2021-01-15 13:15:07,937          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-15 13:15:08,767          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-15 13:15:09,597          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-15 13:15:09,795          root     INFO: Parsing R7 - Brasil
+2021-01-15 13:15:12,293          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3892
+2021-01-15 13:15:16,345          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-veta-alivio-para-dividas-de-estados-e-municipios-15012021
+2021-01-15 13:15:16,359          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-anuncia-medidas-para-combater-covid-19-entre-criancas-15012021
+2021-01-15 13:15:16,369          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-mantem-operacao-para-buscar-doses-de-vacina-na-india-15012021
+2021-01-15 13:15:16,380          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-da-venezuela-coloca-oxigenio-a-disposicao-do-amazonas-14012021
+2021-01-15 13:15:16,390          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-pede-intervencao-federal-na-saude-do-amazonas-14012021
+2021-01-15 13:15:16,400          root     INFO: New article tracked: http://noticias.r7.com/brasil/porta-voz-indiano-coloca-em-duvida-vacinas-para-o-brasil-14012021
+2021-01-15 13:15:16,409          root     INFO: New article tracked: http://noticias.r7.com/brasil/parintins-tem-tanque-de-oxigenio-sequestrado-em-manaus-14012021
+2021-01-15 13:15:16,418          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-cita-novo-colapso-no-am-e-vai-enviar-seis-avioes-com-oxigenio-14012021
+2021-01-15 13:15:16,428          root     INFO: New article tracked: http://noticias.r7.com/brasil/vamos-tentar-isentar-ir-de-quem-recebe-ate-r-3000-diz-bolsonaro-14012021
+2021-01-15 13:15:16,438          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-faz-exames-de-rotina-em-hospital-e-esta-bem-diz-planalto-14012021
+2021-01-15 13:15:16,448          root     INFO: New article tracked: http://noticias.r7.com/brasil/g1-e-globonews-feriram-principios-editoriais-diz-wajngarten-14012021
+2021-01-15 13:15:16,458          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiz-arquiva-acoes-contra-lives-de-bolsonaro-durante-eleicao-14012021
+2021-01-15 13:15:16,467          root     INFO: New article tracked: http://noticias.r7.com/brasil/novo-lanca-van-hattem-como-candidato-a-presidencia-da-camara-14012021
+2021-01-15 13:15:16,482          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-tenta-usar-aviao-militar-dos-eua-para-levar-oxigenio-ao-am-14012021
+2021-01-15 13:15:16,497          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-pede-que-estados-informem-estoques-de-seringas-em-5-dias-14012021
+2021-01-15 13:15:16,507          root     INFO: New article tracked: http://noticias.r7.com/brasil/estados-dizem-que-pazuello-errou-dados-sobre-seringas-e-agulhas-14012021
+2021-01-15 13:15:16,517          root     INFO: New article tracked: http://noticias.r7.com/brasil/amazonas-suspende-transporte-coletivo-e-decreta-toque-de-recolher-14012021
+2021-01-15 13:15:16,526          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/forcas-armadas-transportam-oxigenio-a-manaus-14012021
+2021-01-15 13:15:16,536          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-novo-apagao-no-ap-senador-vai-a-justica-contra-aneel-e-ons-14012021
+2021-01-15 13:15:16,546          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-ministro-nelson-teich-critica-plano-de-vacinacao-contra-covid-19-14012021
+2021-01-15 13:15:16,558          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-preve-nova-politica-de-servicos-ambientais-13012021
+2021-01-15 13:15:16,562          root     INFO: Removed http://noticias.r7.com/brasil/em-campanha-por-lira-bolsonaro-recebe-em-um-so-dia-8-deputados-13012021
+2021-01-15 13:15:16,565          root     INFO: Removed http://noticias.r7.com/brasil/prefeitos-se-reunem-com-pazuello-para-debater-inicio-da-vacinacao-14012021
+2021-01-15 13:15:16,569          root     INFO: Removed http://noticias.r7.com/brasil/desconhecimento-diz-ministerio-sobre-declaracao-de-macron-13012021
+2021-01-15 13:15:16,572          root     INFO: Removed http://noticias.r7.com/brasil/aposta-do-interior-da-bahia-fatura-r-118-milhoes-na-mega-sena-13012021
+2021-01-15 13:15:16,576          root     INFO: Removed http://noticias.r7.com/brasil/ex-deputado-e-ex-governador-do-df-negocia-producao-da-vacina-russa-13012021
+2021-01-15 13:15:16,579          root     INFO: Removed http://noticias.r7.com/brasil/saida-da-ford-nao-deve-impactar-precos-de-pecas-no-pais-14012021
+2021-01-15 13:15:16,583          root     INFO: Removed http://noticias.r7.com/brasil/juiz-anula-provas-contra-suspeitos-de-pagar-propina-a-ex-ministros-13012021
+2021-01-15 13:15:16,586          root     INFO: Removed http://noticias.r7.com/brasil/doria-diz-que-bolsonaro-ironiza-a-vacina-ao-falar-da-coronavac-13012021
+2021-01-15 13:15:16,590          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-valida-apoio-a-estados-e-municipios-endividados-13012021
+2021-01-15 13:15:16,593          root     INFO: Removed http://noticias.r7.com/brasil/justica-suspende-realizacao-do-enem-no-am-por-causa-da-covid-19-13012021
+2021-01-15 13:15:16,597          root     INFO: Removed http://noticias.r7.com/brasil/apoiado-por-bolsonaro-arthur-lira-diz-que-nao-tem-chefe-nem-dono-13012021
+2021-01-15 13:15:16,601          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/eduardo-bolsonaro-compara-twitter-a-hitler-e-critica-pai-de-baleia-rossi-em-rede-social-de-direita.shtml
+2021-01-15 13:15:16,602          root     INFO: Finished script
