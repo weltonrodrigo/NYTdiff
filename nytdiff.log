@@ -1,8 +1,17 @@
-2021-01-15 16:18:45,029          root     INFO: Starting script
-2021-01-15 16:18:45,854          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-15 16:18:46,519          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-15 16:18:47,193          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-15 16:18:47,312          root     INFO: Parsing R7 - Brasil
-2021-01-15 16:18:47,677          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/01/bigs-techs-viraram-tribunais-aleatorios-e-privados.shtml
-2021-01-15 16:18:54,328          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/01/os-privilegios-tributarios.shtml
-2021-01-15 16:18:54,331          root     INFO: Finished script
+2021-01-15 17:53:41,379          root     INFO: Starting script
+2021-01-15 17:53:42,296          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-15 17:53:42,953          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-15 17:53:43,609          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-15 17:53:43,797          root     INFO: Parsing R7 - Brasil
+2021-01-15 17:53:44,132          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/obra-prima-o-poderoso-chefao-ultrapassa-o-genero-filmes-de-gangster.shtml
+2021-01-15 17:53:44,170          root     INFO: <del>Bigs</del> <ins>Big</ins> techs viraram tribunais aleatórios e privados
+2021-01-15 17:53:46,121          root     INFO: Media ready with ids: 1350139122279706627
+2021-01-15 17:53:46,122          root     INFO: Text to tweet: Modificação do Título
+2021-01-15 17:53:46,122          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/01/bigs-techs-viraram-tribunais-aleatorios-e-privados.shtml
+2021-01-15 17:53:46,132          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/01/bigs-techs-viraram-tribunais-aleatorios-e-privados.shtml
+2021-01-15 17:53:46,369          root     INFO: Replying to: 1350139124263624706
+2021-01-15 17:53:46,615          root     INFO: Id to store: 1350139125203169288
+2021-01-15 17:53:48,782          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/novo-chefe-do-mp-rj-nao-garante-manter-questionamento-ao-foro-de-flavio-bolsonaro.shtml
+2021-01-15 17:53:53,014          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/bolsonaro-nunca-falou-tanto-quanto-agora-sobre-o-risco-de-perder-a-eleicao-em-2022.shtml
+2021-01-15 17:53:53,020          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/arthur-lira-que-ja-criticou-bolsonaro-costurou-alianca-para-ter-apoio-e-tem-hoje-fidelidade-elogiada.shtml
+2021-01-15 17:53:53,021          root     INFO: Finished script
