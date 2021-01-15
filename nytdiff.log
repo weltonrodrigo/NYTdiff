@@ -1,6 +1,13 @@
-2021-01-15 09:58:40,517          root     INFO: Starting script
-2021-01-15 09:58:41,339          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-15 09:58:42,014          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-15 09:58:42,677          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-15 09:58:42,908          root     INFO: Parsing R7 - Brasil
-2021-01-15 09:58:48,633          root     INFO: Finished script
+2021-01-15 11:01:43,664          root     INFO: Starting script
+2021-01-15 11:01:44,495          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-15 11:01:45,134          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-15 11:01:45,780          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-15 11:01:45,945          root     INFO: Parsing R7 - Brasil
+2021-01-15 11:01:46,479          root     INFO: Mudança no algodão tira valor de produção da casa do <del>R$1</del> <ins>R$ 1</ins> trilhão neste ano
+2021-01-15 11:01:48,278          root     INFO: Media ready with ids: 1350035448345874432
+2021-01-15 11:01:48,278          root     INFO: Text to tweet: Modificação do Título
+2021-01-15 11:01:48,278          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/mudanca-no-algodao-tira-valor-de-producao-da-casa-do-r1-trilhao-neste-ano.shtml
+2021-01-15 11:01:48,285          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/mudanca-no-algodao-tira-valor-de-producao-da-casa-do-r1-trilhao-neste-ano.shtml
+2021-01-15 11:01:48,468          root     INFO: Replying to: 1350035450036154369
+2021-01-15 11:01:48,704          root     INFO: Id to store: 1350035450828890112
+2021-01-15 11:01:54,189          root     INFO: Finished script
