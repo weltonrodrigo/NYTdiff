@@ -1,17 +1,14 @@
-2021-01-15 18:42:48,698          root     INFO: Starting script
-2021-01-15 18:42:49,543          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-15 18:42:50,229          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-15 18:42:51,145          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-15 18:42:51,295          root     INFO: Parsing R7 - Brasil
-2021-01-15 18:42:51,638          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/nao-e-facil-apoiar-baleia-rossi-mas-e-o-correto.shtml
-2021-01-15 18:42:51,680          root     INFO: No primeiro ato de "O Poderoso Chefão", Don Vito (Marlon Brando), o patriarca dos Corleone, repreende o filho Sonny (James Caan), que divergiu dele numa conversa com mafiosos de outro bando. "Nunca diga o que está pensando fora da família," ensina-lhe o pai. Leia mais (01/15/2021 - 14h00)
-2021-01-15 18:42:53,541          root     INFO: Media ready with ids: 1350151484835565569
-2021-01-15 18:42:53,541          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-15 18:42:53,542          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/obra-prima-o-poderoso-chefao-ultrapassa-o-genero-filmes-de-gangster.shtml
-2021-01-15 18:42:53,549          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/obra-prima-o-poderoso-chefao-ultrapassa-o-genero-filmes-de-gangster.shtml
-2021-01-15 18:42:53,736          root     INFO: Replying to: 1350151486563614722
-2021-01-15 18:42:54,204          root     INFO: Id to store: 1350151487243104258
-2021-01-15 18:42:56,234          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/crise-da-covid-em-manaus-eleva-pressao-por-volta-do-congresso-no-recesso-e-centrao-resiste.shtml
-2021-01-15 18:43:00,713          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pt-vira-fiel-da-balanca-em-disputa-por-comando-do-congresso.shtml
-2021-01-15 18:43:00,717          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/a-batalha-dos-generos.shtml
-2021-01-15 18:43:00,718          root     INFO: Finished script
+2021-01-15 19:38:07,576          root     INFO: Starting script
+2021-01-15 19:38:08,543          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-15 19:38:09,211          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-15 19:38:09,870          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-15 19:38:10,088          root     INFO: Parsing R7 - Brasil
+2021-01-15 19:38:10,509          root     INFO: <del>Bigs</del> <ins>Big</ins> techs <del>viraram</del> <ins>se tornaram</ins> tribunais aleatórios <del>e</del> <ins>sujeitos a delírios</ins> privados
+2021-01-15 19:38:12,557          root     INFO: Media ready with ids: 1350165405386608646
+2021-01-15 19:38:12,558          root     INFO: Text to tweet: Modificação do Título
+2021-01-15 19:38:12,558          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/01/bigs-techs-viraram-tribunais-aleatorios-e-privados.shtml
+2021-01-15 19:38:12,566          root     INFO: Replying to: 1350139125203169288
+2021-01-15 19:38:12,792          root     INFO: Id to store: 1350165407508951044
+2021-01-15 19:38:14,899          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/psol-decide-lancar-erundina-para-presidencia-da-camara-e-nanicos-entram-na-disputa.shtml
+2021-01-15 19:38:19,349          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48913
+2021-01-15 19:38:19,351          root     INFO: Finished script
