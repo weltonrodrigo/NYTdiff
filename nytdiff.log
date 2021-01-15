@@ -1,8 +1,15 @@
-2021-01-15 11:52:49,851          root     INFO: Starting script
-2021-01-15 11:52:50,652          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-15 11:52:51,307          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-15 11:52:51,958          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-15 11:52:52,156          root     INFO: Parsing R7 - Brasil
-2021-01-15 11:52:52,514          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/01/drinque-mai-tai-passa-por-ataque-a-pearl-harbor-e-filme-com-elvis-presley.shtml
-2021-01-15 11:52:58,254          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/01/palmeiras-e-santos-coroarao-o-apelido-do-maracana-se-fizerem-a-final-continental.shtml
-2021-01-15 11:52:58,255          root     INFO: Finished script
+2021-01-15 12:15:47,414          root     INFO: Starting script
+2021-01-15 12:15:48,501          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-15 12:15:49,173          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-15 12:15:49,858          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-15 12:15:50,081          root     INFO: Parsing R7 - Brasil
+2021-01-15 12:15:52,699          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/investigacao-contra-ex-ministro-em-caso-das-rachadinhas-na-assembleia-do-rj-e-arquivada.shtml
+2021-01-15 12:15:52,986          root     INFO: Principal aposta da Procuradoria-Geral da República para assumir investigações de forças-tarefas como as da Lava Jato, os Gaecos <del>(grupos de atuação de combate ao crime organizado)</del> <ins>do MPF (Ministério Público Federal)</ins> não estão estruturados para demandas dessa complexidade, segundo três dos cinco coordenadores desses <del>grupos no MPF (Ministério Público Federal).</del> <ins>grupos.</ins> Leia mais (01/14/2021 - 23h15)
+2021-01-15 12:15:55,316          root     INFO: Media ready with ids: 1350054100579323904
+2021-01-15 12:15:55,316          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-15 12:15:55,318          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/modelo-da-pgr-para-substituir-forcas-tarefas-da-lava-jato-esbarra-em-estrutura.shtml
+2021-01-15 12:15:55,326          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/modelo-da-pgr-para-substituir-forcas-tarefas-da-lava-jato-esbarra-em-estrutura.shtml
+2021-01-15 12:15:55,518          root     INFO: Replying to: 1350054102168989696
+2021-01-15 12:15:55,739          root     INFO: Id to store: 1350054102999445506
+2021-01-15 12:16:00,369          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/deputados-dizem-que-discurso-contra-machismo-ajudaria-fernando-cury-cidadania.shtml
+2021-01-15 12:16:00,370          root     INFO: Finished script
