@@ -1,6 +1,10 @@
-2021-01-16 12:01:50,389          root     INFO: Starting script
-2021-01-16 12:01:51,637          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-16 12:01:52,476          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-16 12:01:53,308          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-16 12:01:53,693          root     INFO: Parsing R7 - Brasil
-2021-01-16 12:02:00,523          root     INFO: Finished script
+2021-01-16 12:55:43,945          root     INFO: Starting script
+2021-01-16 12:55:44,778          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-16 12:55:45,456          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-16 12:55:46,136          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-16 12:55:46,278          root     INFO: Parsing R7 - Brasil
+2021-01-16 12:55:48,643          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/apoiadores-de-bolsonaro-convocam-caravanas-pelo-pais-a-favor-de-arthur-lira-e-voto-impresso.shtml
+2021-01-16 12:55:52,486          root     INFO: New article tracked: http://noticias.r7.com/brasil/am-recebe-oxigenio-e-espera-normalizar-abastecimento-neste-sabado-16012021
+2021-01-16 12:55:52,895          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/impeachment-de-bolsonaro-depende-de-pressao-das-ruas-acredita-oab.shtml
+2021-01-16 12:55:52,900          root     INFO: Removed http://noticias.r7.com/brasil/transferencia-de-pacientes-do-am-cabe-a-uniao-decide-juiza-15012021
+2021-01-16 12:55:52,901          root     INFO: Finished script
