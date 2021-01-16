@@ -1,6 +1,42 @@
-2021-01-16 10:09:15,438          root     INFO: Starting script
-2021-01-16 10:09:16,754          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-16 10:09:17,584          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-16 10:09:18,424          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-16 10:09:18,662          root     INFO: Parsing R7 - Brasil
-2021-01-16 10:09:23,990          root     INFO: Finished script
+2021-01-16 11:07:29,998          root     INFO: Starting script
+2021-01-16 11:07:31,212          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-16 11:07:32,057          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-16 11:07:32,898          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-16 11:07:33,241          root     INFO: Parsing R7 - Brasil
+2021-01-16 11:07:40,104          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/saida-da-ford-do-brasil-e-falta-de-oxigenio-no-am-marcam-a-semana-16012021
+2021-01-16 11:07:40,126          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-promete-pagar-r-13-milhoes-neste-sabado-16012021
+2021-01-16 11:07:40,140          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-resposta-a-butantan-ministerio-reitera-controle-total-sobre-vacinas-16012021
+2021-01-16 11:07:40,151          root     INFO: New article tracked: http://noticias.r7.com/brasil/aviao-que-iria-buscar-vacinas-na-india-vai-levar-oxigenio-para-o-am-15012021
+2021-01-16 11:07:40,168          root     INFO: New article tracked: http://noticias.r7.com/brasil/igreja-universal-organiza-ajuda-humanitaria-em-manaus-15012021
+2021-01-16 11:07:40,184          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-zera-imposto-para-importacao-de-cilindros-de-oxigenio-15012021
+2021-01-16 11:07:40,197          root     INFO: New article tracked: http://noticias.r7.com/brasil/medico-anthony-wong-morre-em-sp-de-parada-cardiorrespiratoria-15012021
+2021-01-16 11:07:40,209          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-determina-que-governo-forneca-oxigenio-ao-am-15012021
+2021-01-16 11:07:40,221          root     INFO: New article tracked: http://noticias.r7.com/brasil/voo-para-buscar-vacinas-na-india-nao-saira-mais-nesta-sexta-15012021
+2021-01-16 11:07:40,233          root     INFO: New article tracked: http://noticias.r7.com/brasil/decreto-reabre-credito-de-r-16-bi-para-aquisicao-de-vacinas-15012021
+2021-01-16 11:07:40,246          root     INFO: New article tracked: http://noticias.r7.com/brasil/nenhum-compatriota-pode-morrer-por-falta-de-ar-diz-fux-15012021
+2021-01-16 11:07:40,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/discutir-impeachment-de-bolsonaro-sera-inevitavel-no-futuro-diz-maia-15012021
+2021-01-16 11:07:40,269          root     INFO: New article tracked: http://noticias.r7.com/brasil/itamaraty-confirma-que-india-atrasara-entrega-de-vacinas-15012021
+2021-01-16 11:07:40,281          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-pede-entrega-imediata-de-6-mi-de-doses-da-coronavac-15012021
+2021-01-16 11:07:40,293          root     INFO: New article tracked: http://noticias.r7.com/brasil/fabricante-de-oxigenio-ve-crise-sem-precedentes-no-amazonas-15012021
+2021-01-16 11:07:40,307          root     INFO: New article tracked: http://noticias.r7.com/brasil/maia-pede-a-alcolumbre-reuniao-para-discutir-situacao-de-manaus-15012021
+2021-01-16 11:07:40,321          root     INFO: New article tracked: http://noticias.r7.com/brasil/ha-risco-de-crise-nacional-por-oxigenio-diz-secretario-do-am-15012021
+2021-01-16 11:07:40,332          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacinacao-em-massa-e-fundamental-para-retomada-economica-diz-cni-15012021
+2021-01-16 11:07:40,348          root     INFO: New article tracked: http://noticias.r7.com/brasil/am-parlamentares-pressionam-bolsonaro-a-decretar-intervencao-15012021
+2021-01-16 11:07:40,360          root     INFO: New article tracked: http://noticias.r7.com/brasil/transferencia-de-pacientes-do-am-cabe-a-uniao-decide-juiza-15012021
+2021-01-16 11:07:40,375          root     INFO: Removed http://noticias.r7.com/brasil/governo-mantem-operacao-para-buscar-doses-de-vacina-na-india-15012021
+2021-01-16 11:07:40,379          root     INFO: Removed http://noticias.r7.com/brasil/deputado-pede-intervencao-federal-na-saude-do-amazonas-14012021
+2021-01-16 11:07:40,383          root     INFO: Removed http://noticias.r7.com/brasil/parintins-tem-tanque-de-oxigenio-sequestrado-em-manaus-14012021
+2021-01-16 11:07:40,387          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-faz-exames-de-rotina-em-hospital-e-esta-bem-diz-planalto-14012021
+2021-01-16 11:07:40,391          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-cita-novo-colapso-no-am-e-vai-enviar-seis-avioes-com-oxigenio-14012021
+2021-01-16 11:07:40,395          root     INFO: Removed http://noticias.r7.com/brasil/amazonas-suspende-transporte-coletivo-e-decreta-toque-de-recolher-14012021
+2021-01-16 11:07:40,400          root     INFO: Removed http://noticias.r7.com/brasil/brasil-tenta-usar-aviao-militar-dos-eua-para-levar-oxigenio-ao-am-14012021
+2021-01-16 11:07:40,405          root     INFO: Removed http://noticias.r7.com/brasil/juiz-arquiva-acoes-contra-lives-de-bolsonaro-durante-eleicao-14012021
+2021-01-16 11:07:40,410          root     INFO: Removed http://noticias.r7.com/brasil/vamos-tentar-isentar-ir-de-quem-recebe-ate-r-3000-diz-bolsonaro-14012021
+2021-01-16 11:07:40,416          root     INFO: Removed http://noticias.r7.com/brasil/estados-dizem-que-pazuello-errou-dados-sobre-seringas-e-agulhas-14012021
+2021-01-16 11:07:40,420          root     INFO: Removed http://noticias.r7.com/brasil/porta-voz-indiano-coloca-em-duvida-vacinas-para-o-brasil-14012021
+2021-01-16 11:07:40,425          root     INFO: Removed http://noticias.r7.com/brasil/stf-pede-que-estados-informem-estoques-de-seringas-em-5-dias-14012021
+2021-01-16 11:07:40,429          root     INFO: Removed http://noticias.r7.com/brasil/novo-lanca-van-hattem-como-candidato-a-presidencia-da-camara-14012021
+2021-01-16 11:07:40,433          root     INFO: Removed http://noticias.r7.com/brasil/g1-e-globonews-feriram-principios-editoriais-diz-wajngarten-14012021
+2021-01-16 11:07:40,437          root     INFO: Removed http://noticias.r7.com/brasil/governo-da-venezuela-coloca-oxigenio-a-disposicao-do-amazonas-14012021
+2021-01-16 11:07:40,441          root     INFO: Removed http://noticias.r7.com/brasil/videos/forcas-armadas-transportam-oxigenio-a-manaus-14012021
+2021-01-16 11:07:40,442          root     INFO: Finished script
