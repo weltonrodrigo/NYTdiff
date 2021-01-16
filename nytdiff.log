@@ -1,6 +1,19 @@
-2021-01-16 15:41:29,635          root     INFO: Starting script
-2021-01-16 15:41:33,169          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-16 15:41:33,822          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-16 15:41:34,476          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-16 15:41:34,657          root     INFO: Parsing R7 - Brasil
-2021-01-16 15:41:40,802          root     INFO: Finished script
+2021-01-16 16:15:31,379          root     INFO: Starting script
+2021-01-16 16:15:32,490          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-16 16:15:33,143          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-16 16:15:33,814          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-16 16:15:34,023          root     INFO: Parsing R7 - Brasil
+2021-01-16 16:15:36,230          root     INFO: Transporte de vacinas pode ter que ser feito por terra <del>em</del> <ins>para</ins> ao menos sete estados
+2021-01-16 16:15:37,956          root     INFO: Media ready with ids: 1350476813601021953
+2021-01-16 16:15:37,957          root     INFO: Text to tweet: Modificação do Título
+2021-01-16 16:15:37,957          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/transporte-de-vacinas-pode-ter-que-ser-feito-por-terra-em-ao-menos-sete-estados.shtml
+2021-01-16 16:15:37,969          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/transporte-de-vacinas-pode-ter-que-ser-feito-por-terra-em-ao-menos-sete-estados.shtml
+2021-01-16 16:15:38,134          root     INFO: Replying to: 1350476815240978432
+2021-01-16 16:15:38,355          root     INFO: Id to store: 1350476815937187842
+2021-01-16 16:15:38,362          root     INFO: Em reunião nesta sexta (15), o Ministério da Justiça informou secretários de Segurança que o transporte de vacinas contra Covid-19 pode ter que ser feito via <del>terrestre</del> <ins>terrestre,</ins> e não por aviões, para pelo menos sete estados. Leia mais (01/16/2021 - 00h04)
+2021-01-16 16:15:40,069          root     INFO: Media ready with ids: 1350476822522302468
+2021-01-16 16:15:40,070          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-16 16:15:40,070          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/transporte-de-vacinas-pode-ter-que-ser-feito-por-terra-em-ao-menos-sete-estados.shtml
+2021-01-16 16:15:40,080          root     INFO: Replying to: 1350476815937187842
+2021-01-16 16:15:40,297          root     INFO: Id to store: 1350476824065798148
+2021-01-16 16:15:43,989          root     INFO: Finished script
