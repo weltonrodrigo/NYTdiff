@@ -1,26 +1,6 @@
-2021-01-15 23:05:06,873          root     INFO: Starting script
-2021-01-15 23:05:07,958          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-15 23:05:08,596          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-15 23:05:09,230          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-15 23:05:09,461          root     INFO: Parsing R7 - Brasil
-2021-01-15 23:05:09,809          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/01/web-du-bois-teorico-essencial-do-movimento-negro-tem-obras-resgatadas.shtml
-2021-01-15 23:05:11,542          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/oposicao-decide-entrar-com-novo-pedido-de-impeachment-de-bolsonaro-por-crise-em-manaus.shtml
-2021-01-15 23:05:11,608          root     INFO: Após reunião da executiva nacional nesta sexta-feira (15), o PSOL decidiu lançar a candidatura da deputada <del>Luiz</del> <ins>Luiza</ins> Erundina (SP) para concorrer à presidência da Câmara. Leia mais (01/15/2021 - 16h34)
-2021-01-15 23:05:13,312          root     INFO: Media ready with ids: 1350217502412963841
-2021-01-15 23:05:13,312          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-15 23:05:13,312          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/psol-decide-lancar-erundina-para-presidencia-da-camara-e-nanicos-entram-na-disputa.shtml
-2021-01-15 23:05:13,320          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/psol-decide-lancar-erundina-para-presidencia-da-camara-e-nanicos-entram-na-disputa.shtml
-2021-01-15 23:05:13,490          root     INFO: Replying to: 1350217503897772038
-2021-01-15 23:05:13,728          root     INFO: Id to store: 1350217504656916482
-2021-01-15 23:05:14,029          root     INFO: Estados ainda <del>aguardam, porém,</del> <ins>aguardam</ins> a definição sobre quais serão os critérios para a divisão do número de vacinas. Eduardo Pazuello (Saúde) havia indicado que a distribuição seria feita de acordo com o tamanho dos grupos prioritários em cada estado, mas ainda não deu certeza. Leia mais (01/14/2021 - 23h15)
-2021-01-15 23:05:15,755          root     INFO: Media ready with ids: 1350217512613531648
-2021-01-15 23:05:15,756          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-15 23:05:15,756          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/estados-cobram-ministerio-da-saude-criterios-sobre-a-divisao-das-vacinas.shtml
-2021-01-15 23:05:15,763          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/estados-cobram-ministerio-da-saude-criterios-sobre-a-divisao-das-vacinas.shtml
-2021-01-15 23:05:15,918          root     INFO: Replying to: 1350217514064740361
-2021-01-15 23:05:16,175          root     INFO: Id to store: 1350217514840678400
-2021-01-15 23:05:19,517          root     INFO: Removed http://noticias.r7.com/brasil/ford-governo-avalia-programa-de-requalificacao-para-metalurgicos-14012021
-2021-01-15 23:05:19,520          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2021/01/nao-adianta-xingar-os-invasores-do-capitolio-eles-nao-acreditam-em-nos.shtml
-2021-01-15 23:05:19,524          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/lira-tenta-se-descolar-de-bolsonaro-e-insinua-que-postura-de-maia-e-projeto-para-2022.shtml
-2021-01-15 23:05:19,527          root     INFO: Removed http://noticias.r7.com/brasil/importadores-de-carros-fecham-ano-com-queda-de-207-nas-vendas-14012021
-2021-01-15 23:05:19,528          root     INFO: Finished script
+2021-01-15 23:59:51,627          root     INFO: Starting script
+2021-01-15 23:59:52,641          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-15 23:59:53,468          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-15 23:59:54,582          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-15 23:59:54,796          root     INFO: Parsing R7 - Brasil
+2021-01-16 00:00:00,259          root     INFO: Finished script
