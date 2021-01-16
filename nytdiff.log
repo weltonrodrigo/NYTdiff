@@ -1,12 +1,40 @@
-2021-01-16 01:46:07,169          root     INFO: Starting script
-2021-01-16 01:46:07,994          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-16 01:46:08,662          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-16 01:46:09,340          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-16 01:46:09,484          root     INFO: Parsing R7 - Brasil
-2021-01-16 01:46:11,802          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/anac-amplia-jornada-de-pilotos-em-manaus-e-estuda-viabilizar-transporte-de-oxigenio-liquido.shtml
-2021-01-16 01:46:11,817          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/laboratorio-submete-a-anvisa-pedido-para-uso-emergencial-da-sputnik.shtml
-2021-01-16 01:46:11,827          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/01/com-panelacos-brasileiros-criticam-falta-de-vacina-e-oxigenio-e-pedem-impeachment-de-bolsonaro.shtml
-2021-01-16 01:46:15,747          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pt-fecha-apoio-a-candidato-de-alcolumbre-e-bolsonaro-para-a-eleicao-no-senado.shtml
-2021-01-16 01:46:15,750          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48922
-2021-01-16 01:46:15,754          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-cobra-apoio-da-bancada-ruralista-a-arthur-lira-em-disputa-na-camara.shtml
-2021-01-16 01:46:15,754          root     INFO: Finished script
+2021-01-16 02:57:33,863          root     INFO: Starting script
+2021-01-16 02:57:34,700          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-16 02:57:35,339          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-16 02:57:35,978          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-16 02:57:36,122          root     INFO: Parsing R7 - Brasil
+2021-01-16 02:57:36,488          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/o-general-pazuello-e-a-minha-vo.shtml
+2021-01-16 02:57:36,499          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/01/bolsonaro-merece-um-tribunal-de-nuremberg.shtml
+2021-01-16 02:57:36,510          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/as-estatuas-e-a-gloria-feita-de-selfies.shtml
+2021-01-16 02:57:36,521          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/01/ralos.shtml
+2021-01-16 02:57:36,531          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/ataque-a-siria.shtml
+2021-01-16 02:57:36,539          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/01/progressistas-que-celebram-cancelamento-da-conta-de-trump-buscam-pacto-com-plutocratas-da-internet.shtml
+2021-01-16 02:57:36,548          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/01/vandalismo-constitucional.shtml
+2021-01-16 02:57:36,556          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/manaus-brasil.shtml
+2021-01-16 02:57:36,566          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/01/bolhas-nao-protegem-e-campeonatos-expoem-meses-de-treinamentos-precarios.shtml
+2021-01-16 02:57:36,575          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciorachkorsky/2021/01/com-mais-despesas-nos-predios-condominio-vai-aumentar-em-2021.shtml
+2021-01-16 02:57:36,584          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/a-volta-as-aulas-em-sao-paulo-deve-ser-presencial-mesmo-com-o-agravamento-da-pandemia-sim.shtml
+2021-01-16 02:57:36,593          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/a-volta-as-aulas-em-sao-paulo-deve-ser-presencial-mesmo-com-o-agravamento-da-pandemia-nao.shtml
+2021-01-16 02:57:38,267          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/podiam-levar-os-feijoes-do-pastor-valdemiro-diz-sanitarista-sobre-forca-tarefa-da-cloroquina-montada-por-pazuello.shtml
+2021-01-16 02:57:38,276          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/com-manaus-sem-oxigenio-pazuello-montou-e-financiou-forca-tarefa-para-disseminar-cloroquina-em-ubss.shtml
+2021-01-16 02:57:38,287          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/aliados-de-tebet-poem-em-duvida-sua-forca-e-dao-prazo-para-candidatura-ao-comando-do-senado-decolar.shtml
+2021-01-16 02:57:38,295          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/01/progressistas-que-celebram-cancelamento-da-conta-de-trump-buscam-pacto-com-plutocratas-da-internet.shtml
+2021-01-16 02:57:38,304          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/na-pandemia-assembleia-de-sp-vira-canteiro-de-obras-e-preve-gastos-de-r-30-mi.shtml
+2021-01-16 02:57:42,150          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/aras-evita-denunciar-bolsonaro-e-prefere-debater-medidas-para-aumentar-confianca-nas-urnas-eletronicas.shtml
+2021-01-16 02:57:42,153          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/01/amiga-querida.shtml
+2021-01-16 02:57:42,156          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/deputados-do-pt-fazem-representacao-contra-doria-para-saber-de-onde-saiu-dinheiro-para-coronavac.shtml
+2021-01-16 02:57:42,160          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2021/01/ja-ha-quem-se-imagine-com-um-chapeu-de-chifres-em-2022.shtml
+2021-01-16 02:57:42,163          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2021/01/reflexoes-sobre-uma-cidade-integradora.shtml
+2021-01-16 02:57:42,166          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-tamanho-e-a-ordem-de-grandeza-de-cada-pais.shtml
+2021-01-16 02:57:42,169          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/supremo-acumula-denuncias-da-pgr-a-espera-de-julgamento-ha-mais-de-tres-anos.shtml
+2021-01-16 02:57:42,172          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/01/chegou-a-hora-de-separar-adultos-de-criancas-o-tricolor-sabera-enfrenta-la.shtml
+2021-01-16 02:57:42,175          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-apoio-do-pt-candidato-de-alcolumbre-e-bolsonaro-amplia-bloco-no-senado.shtml
+2021-01-16 02:57:42,179          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/sao-paulo-vive-seu-momento-mais-dificil.shtml
+2021-01-16 02:57:42,182          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/01/incompetencia-mata.shtml
+2021-01-16 02:57:42,186          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/gratuidade-do-transporte-para-idosos-o-que-diz-a-ciencia.shtml
+2021-01-16 02:57:42,192          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2021/01/quem-tem-sorte-fica-velho.shtml
+2021-01-16 02:57:42,195          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/servico-de-ex-socio-de-lulinha-teve-sobrepreco-de-r-47-mi-em-gestoes-de-paes-diz-tribunal.shtml
+2021-01-16 02:57:42,198          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/01/o-capitolio-e-a-turba.shtml
+2021-01-16 02:57:42,201          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/sufoco-a-hong-kong.shtml
+2021-01-16 02:57:42,204          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2021/01/georgia-on-my-mind.shtml
+2021-01-16 02:57:42,205          root     INFO: Finished script
