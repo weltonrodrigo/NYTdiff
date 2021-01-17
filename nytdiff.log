@@ -1,45 +1,6 @@
-2021-01-17 07:59:09,870          root     INFO: Starting script
-2021-01-17 07:59:10,727          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-17 07:59:11,364          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-17 07:59:12,001          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-17 07:59:12,249          root     INFO: Parsing R7 - Brasil
-2021-01-17 07:59:17,845          root     INFO: New article tracked: http://noticias.r7.com/brasil/acoes-sobre-vacina-contra-covid-19-viram-foco-da-pauta-do-stf-17012021
-2021-01-17 07:59:17,858          root     INFO: New article tracked: http://noticias.r7.com/brasil/simone-tebet-tenta-manter-hegemonia-do-mdb-no-senado-17012021
-2021-01-17 07:59:17,867          root     INFO: New article tracked: http://noticias.r7.com/brasil/veja-como-garantir-o-acesso-aos-beneficios-da-previdencia-social-17012021
-2021-01-17 07:59:17,889          root     INFO: New article tracked: http://noticias.r7.com/brasil/acompanhe-ao-vivo-a-transmissao-do-santo-culto-em-seu-lar-17012021
-2021-01-17 07:59:17,899          root     INFO: New article tracked: http://noticias.r7.com/brasil/acompanhe-ao-vivo-a-transmissao-do-santo-culto-em-seu-lar-17012021-1
-2021-01-17 07:59:17,909          root     INFO: New article tracked: http://noticias.r7.com/brasil/am-aras-pede-investigacao-sobre-possivel-omissao-de-autoridades-16012021
-2021-01-17 07:59:17,918          root     INFO: New article tracked: http://noticias.r7.com/brasil/manaus-governo-reduz-busca-por-oxigenio-em-64-nas-ultimas-24-h-16012021
-2021-01-17 07:59:17,928          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-acumula-e-vai-pagar-r-17-milhoes-na-proxima-4-16012021
-2021-01-17 07:59:17,937          root     INFO: New article tracked: http://noticias.r7.com/brasil/twitter-classifica-post-do-ministerio-da-saude-como-enganoso-16012021
-2021-01-17 07:59:17,947          root     INFO: New article tracked: http://noticias.r7.com/brasil/manaus-am-recebe-80-cilindros-de-oxigenio-em-meio-a-crise-na-saude-16012021
-2021-01-17 07:59:17,955          root     INFO: New article tracked: http://noticias.r7.com/brasil/sao-luis-recebe-mais-11-pacientes-com-covid-19-vindos-de-manaus-16012021
-2021-01-17 07:59:17,964          root     INFO: New article tracked: http://noticias.r7.com/brasil/am-agencia-flexibiliza-regras-para-transporte-de-cargas-de-oxigenio-16012021
-2021-01-17 07:59:17,972          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-caos-em-manaus-vai-muito-alem-do-virus-16012021
-2021-01-17 07:59:17,981          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-pede-abertura-de-cpmi-para-apurar-colapso-em-manaus-16012021
-2021-01-17 07:59:17,999          root     INFO: New article tracked: http://noticias.r7.com/brasil/sergio-moro-volta-as-redes-sociais-e-lamenta-situacao-de-manaus-16012021
-2021-01-17 07:59:18,007          root     INFO: New article tracked: http://noticias.r7.com/brasil/marinha-envia-40-respiradores-de-baixo-custo-para-manaus-16012021
-2021-01-17 07:59:18,015          root     INFO: New article tracked: http://noticias.r7.com/brasil/secretaria-do-consumidor-faz-acao-contra-pirataria-de-vacina-16012021
-2021-01-17 07:59:18,023          root     INFO: New article tracked: http://noticias.r7.com/brasil/inss-prazo-para-recorrer-de-auxilio-doenca-negado-termina-hoje-16012021
-2021-01-17 07:59:18,031          root     INFO: New article tracked: http://noticias.r7.com/brasil/india-da-a-largada-a-maior-vacinacao-do-planeta-16012021
-2021-01-17 07:59:18,039          root     INFO: New article tracked: http://noticias.r7.com/brasil/am-recebe-oxigenio-e-espera-normalizar-hoje-o-abastecimento-16012021
-2021-01-17 07:59:18,050          root     INFO: Removed http://noticias.r7.com/brasil/nenhum-compatriota-pode-morrer-por-falta-de-ar-diz-fux-15012021
-2021-01-17 07:59:18,053          root     INFO: Removed http://noticias.r7.com/brasil/medico-anthony-wong-morre-em-sp-de-parada-cardiorrespiratoria-15012021
-2021-01-17 07:59:18,056          root     INFO: Removed http://noticias.r7.com/brasil/decreto-reabre-credito-de-r-16-bi-para-aquisicao-de-vacinas-15012021
-2021-01-17 07:59:18,059          root     INFO: Removed http://noticias.r7.com/brasil/itamaraty-confirma-que-india-atrasara-entrega-de-vacinas-15012021
-2021-01-17 07:59:18,061          root     INFO: Removed http://noticias.r7.com/brasil/governo-zera-imposto-para-importacao-de-cilindros-de-oxigenio-15012021
-2021-01-17 07:59:18,065          root     INFO: Removed http://noticias.r7.com/brasil/fotos/saida-da-ford-do-brasil-e-falta-de-oxigenio-no-am-marcam-a-semana-16012021
-2021-01-17 07:59:18,068          root     INFO: Removed http://noticias.r7.com/brasil/aviao-que-iria-buscar-vacinas-na-india-vai-levar-oxigenio-para-o-am-15012021
-2021-01-17 07:59:18,070          root     INFO: Removed http://noticias.r7.com/brasil/am-parlamentares-pressionam-bolsonaro-a-decretar-intervencao-15012021
-2021-01-17 07:59:18,073          root     INFO: Removed http://noticias.r7.com/brasil/em-resposta-a-butantan-ministerio-reitera-controle-total-sobre-vacinas-16012021
-2021-01-17 07:59:18,076          root     INFO: Removed http://noticias.r7.com/brasil/ha-risco-de-crise-nacional-por-oxigenio-diz-secretario-do-am-15012021
-2021-01-17 07:59:18,079          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-promete-pagar-r-13-milhoes-neste-sabado-16012021
-2021-01-17 07:59:18,082          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-determina-que-governo-forneca-oxigenio-ao-am-15012021
-2021-01-17 07:59:18,085          root     INFO: Removed http://noticias.r7.com/brasil/fabricante-de-oxigenio-ve-crise-sem-precedentes-no-amazonas-15012021
-2021-01-17 07:59:18,088          root     INFO: Removed http://noticias.r7.com/brasil/maia-pede-a-alcolumbre-reuniao-para-discutir-situacao-de-manaus-15012021
-2021-01-17 07:59:18,091          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-pede-entrega-imediata-de-6-mi-de-doses-da-coronavac-15012021
-2021-01-17 07:59:18,110          root     INFO: Removed http://noticias.r7.com/brasil/vacinacao-em-massa-e-fundamental-para-retomada-economica-diz-cni-15012021
-2021-01-17 07:59:18,114          root     INFO: Removed http://noticias.r7.com/brasil/discutir-impeachment-de-bolsonaro-sera-inevitavel-no-futuro-diz-maia-15012021
-2021-01-17 07:59:18,117          root     INFO: Removed http://noticias.r7.com/brasil/igreja-universal-organiza-ajuda-humanitaria-em-manaus-15012021
-2021-01-17 07:59:18,120          root     INFO: Removed http://noticias.r7.com/brasil/voo-para-buscar-vacinas-na-india-nao-saira-mais-nesta-sexta-15012021
-2021-01-17 07:59:18,121          root     INFO: Finished script
+2021-01-17 08:57:06,657          root     INFO: Starting script
+2021-01-17 08:57:07,487          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-17 08:57:08,129          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-17 08:57:08,767          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-17 08:57:09,011          root     INFO: Parsing R7 - Brasil
+2021-01-17 08:57:14,531          root     INFO: Finished script
