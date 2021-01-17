@@ -1,21 +1,8 @@
-2021-01-17 22:58:48,636          root     INFO: Starting script
-2021-01-17 22:58:49,441          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-17 22:58:50,093          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-17 22:58:50,744          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-17 22:58:51,860          root     INFO: Parsing R7 - Brasil
-2021-01-17 22:58:52,225          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/01/monica-calazans-corre-o-mundo-ao-tomar-vacina-da-china.shtml
-2021-01-17 22:58:52,260          root     INFO: São Paulo perde o brilho antes das decisões <ins>no Brasileiro</ins>
-2021-01-17 22:58:54,036          root     INFO: Media ready with ids: 1350940687345328130
-2021-01-17 22:58:54,037          root     INFO: Text to tweet: Modificação do Título
-2021-01-17 22:58:54,037          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/sao-paulo-perde-o-brilho-antes-das-decisoes.shtml
-2021-01-17 22:58:54,047          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/sao-paulo-perde-o-brilho-antes-das-decisoes.shtml
-2021-01-17 22:58:54,246          root     INFO: Replying to: 1350940688939167744
-2021-01-17 22:58:54,460          root     INFO: Id to store: 1350940689618661377
-2021-01-17 22:58:54,466          root     INFO: Daniel Alves como atacante foi a maior novidade tática do São Paulo, na Arena da Baixada, contra o <del>Athletico-PR.</del> <ins>Athletico.</ins> Ficou comum ouvir que o time de Fernando Diniz precisa criar algo novo. Precisa mesmo. Leia mais (01/17/2021 - 19h00)
-2021-01-17 22:58:56,215          root     INFO: Media ready with ids: 1350940696224661508
-2021-01-17 22:58:56,216          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-17 22:58:56,216          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/sao-paulo-perde-o-brilho-antes-das-decisoes.shtml
-2021-01-17 22:58:56,227          root     INFO: Replying to: 1350940689618661377
-2021-01-17 22:58:56,489          root     INFO: Id to store: 1350940697923362818
-2021-01-17 22:59:02,717          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/01/nossa-ruina-comecou-em-2009-quando-aprovaram-o-novo-acordo-ortografico.shtml
-2021-01-17 22:59:02,718          root     INFO: Finished script
+2021-01-17 23:54:22,820          root     INFO: Starting script
+2021-01-17 23:54:23,652          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-17 23:54:24,321          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-17 23:54:24,994          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-17 23:54:25,111          root     INFO: Parsing R7 - Brasil
+2021-01-17 23:54:27,338          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/bolsonaro-desaparece-das-redes-sociais-em-dia-de-aprovacao-de-vacina-contra-a-covid-19-para-o-brasil.shtml
+2021-01-17 23:54:31,142          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/doria-fica-mal-na-foto-e-da-municao-a-opositores-alucinados-da-vacina.shtml
+2021-01-17 23:54:31,142          root     INFO: Finished script
