@@ -1,8 +1,10 @@
-2021-01-18 21:05:33,068          root     INFO: Starting script
-2021-01-18 21:05:33,936          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-18 21:05:34,606          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-18 21:05:35,502          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-18 21:05:35,593          root     INFO: Parsing R7 - Brasil
-2021-01-18 21:05:38,138          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/veto-a-chinesa-dia-d-vacina-do-brasil-veja-vaivem-de-bolsonaro-e-pazuello-na-imunizacao-contra-covid.shtml
-2021-01-18 21:05:43,004          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/e-melhor-remover-um-lunatico-da-arena-politica-ou-derrota-lo-nas-urnas.shtml
-2021-01-18 21:05:43,004          root     INFO: Finished script
+2021-01-18 21:45:19,999          root     INFO: Starting script
+2021-01-18 21:45:20,794          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-18 21:45:21,435          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-18 21:45:22,078          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-18 21:45:22,235          root     INFO: Parsing R7 - Brasil
+2021-01-18 21:45:24,309          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/justica-autoriza-abertura-de-investigacao-criminal-contra-deputado-que-apalpou-isa-penna-na-alesp.shtml
+2021-01-18 21:45:24,322          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/nova-ofensiva-pro-impeachment-de-bolsonaro-inclui-haddad-amoedo-vem-pra-rua-e-mbl.shtml
+2021-01-18 21:45:27,916          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/deputados-formam-grupo-na-assembleia-para-rever-gastos-de-doria-e-travam-embates-com-governador.shtml
+2021-01-18 21:45:27,920          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2021/01/ano-novo-vida-nova.shtml
+2021-01-18 21:45:27,921          root     INFO: Finished script
