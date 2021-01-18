@@ -1,6 +1,23 @@
-2021-01-18 00:25:32,050          root     INFO: Starting script
-2021-01-18 00:25:33,079          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-18 00:25:33,916          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-18 00:25:34,757          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-18 00:25:35,063          root     INFO: Parsing R7 - Brasil
-2021-01-18 00:25:41,127          root     INFO: Finished script
+2021-01-18 02:13:28,296          root     INFO: Starting script
+2021-01-18 02:13:29,401          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-18 02:13:30,063          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-18 02:13:30,720          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-18 02:13:30,959          root     INFO: Parsing R7 - Brasil
+2021-01-18 02:13:31,332          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2021/01/ja-temos-vacina-para-combater-o-coronavirus-o-que-falta-para-enfrentar-o-bolsonavirus.shtml
+2021-01-18 02:13:31,367          root     INFO: <del>Mônica</del> <ins>Monica</ins> Calazans corre o mundo ao tomar vacina 'da China'
+2021-01-18 02:13:33,119          root     INFO: Media ready with ids: 1350989672852451328
+2021-01-18 02:13:33,120          root     INFO: Text to tweet: Modificação do Título
+2021-01-18 02:13:33,120          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/01/monica-calazans-corre-o-mundo-ao-tomar-vacina-da-china.shtml
+2021-01-18 02:13:33,127          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/01/monica-calazans-corre-o-mundo-ao-tomar-vacina-da-china.shtml
+2021-01-18 02:13:33,332          root     INFO: Replying to: 1350989674593079296
+2021-01-18 02:13:34,006          root     INFO: Id to store: 1350989675431948292
+2021-01-18 02:13:34,014          root     INFO: A home page do South China Morning Post abriu foto de um lote de vacinas no Instituto Butantan, mas destacando que "a enfermeira <del>Mônica</del> <ins>Monica</ins> Calazans, de 54 anos, se torna a primeira pessoa a ser inoculada no país, recebendo uma injeção da Coronavac, da China". Leia mais (01/17/2021 - 19h23)
+2021-01-18 02:13:35,795          root     INFO: Media ready with ids: 1350989684021800964
+2021-01-18 02:13:35,796          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-18 02:13:35,796          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/01/monica-calazans-corre-o-mundo-ao-tomar-vacina-da-china.shtml
+2021-01-18 02:13:35,807          root     INFO: Replying to: 1350989675431948292
+2021-01-18 02:13:36,057          root     INFO: Id to store: 1350989685825351681
+2021-01-18 02:13:37,730          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/apos-troca-de-farpas-com-pazuello-doria-vai-mandar-vice-para-ato-de-entrega-de-vacinas-com-o-ministro.shtml
+2021-01-18 02:13:41,187          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/fila-unica-para-a-vacina.shtml
+2021-01-18 02:13:41,191          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/bolsonaro-sonha-com-um-problema-na-eleicao-presidencial.shtml
+2021-01-18 02:13:41,192          root     INFO: Finished script
