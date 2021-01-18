@@ -1,8 +1,13 @@
-2021-01-18 13:22:05,952          root     INFO: Starting script
-2021-01-18 13:22:06,738          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-18 13:22:07,375          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-18 13:22:08,013          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-18 13:22:08,166          root     INFO: Parsing R7 - Brasil
-2021-01-18 13:22:10,305          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-derrota-em-vacina-militares-do-governo-veem-desgaste-no-exercito-e-fazem-pressao-contra-pazuello.shtml
-2021-01-18 13:22:14,006          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-e-maia-disputam-apoio-de-partidos-indecisos-em-sucessao-na-camara.shtml
-2021-01-18 13:22:14,006          root     INFO: Finished script
+2021-01-18 14:12:36,735          root     INFO: Starting script
+2021-01-18 14:12:37,551          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-18 14:12:38,203          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-18 14:12:39,096          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-18 14:12:39,236          root     INFO: Parsing R7 - Brasil
+2021-01-18 14:12:41,369          root     INFO: Com derrota em vacina, militares do governo veem desgaste no Exército e <del>fazem pressão contra</del> <ins>defendem saída de</ins> Pazuello
+2021-01-18 14:12:43,068          root     INFO: Media ready with ids: 1351170656864522247
+2021-01-18 14:12:43,068          root     INFO: Text to tweet: Modificação do Título
+2021-01-18 14:12:43,068          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-derrota-em-vacina-militares-do-governo-veem-desgaste-no-exercito-e-fazem-pressao-contra-pazuello.shtml
+2021-01-18 14:12:43,075          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-derrota-em-vacina-militares-do-governo-veem-desgaste-no-exercito-e-fazem-pressao-contra-pazuello.shtml
+2021-01-18 14:12:43,239          root     INFO: Replying to: 1351170658391228425
+2021-01-18 14:12:43,460          root     INFO: Id to store: 1351170659070652418
+2021-01-18 14:12:46,883          root     INFO: Finished script
