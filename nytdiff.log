@@ -1,6 +1,10 @@
-2021-01-18 23:04:25,730          root     INFO: Starting script
-2021-01-18 23:04:26,750          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-18 23:04:27,585          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-18 23:04:28,441          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-18 23:04:28,662          root     INFO: Parsing R7 - Brasil
-2021-01-18 23:04:34,734          root     INFO: Finished script
+2021-01-18 23:58:26,339          root     INFO: Starting script
+2021-01-18 23:58:27,186          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-18 23:58:27,865          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-18 23:58:28,768          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-18 23:58:28,954          root     INFO: Parsing R7 - Brasil
+2021-01-18 23:58:31,546          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/ciro-diz-que-lula-e-mais-bondoso-que-a-burocracia-do-pt-mas-ataca-faz-tudo-com-a-mao-de-gato.shtml
+2021-01-18 23:58:31,559          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/doria-manda-bolsonaro-calar-a-boca-em-portugues-e-em-ingles-no-twitter.shtml
+2021-01-18 23:58:36,276          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/prefeitos-levam-a-pazuello-previsao-de-concluir-vacinacao-de-adultos-ate-novembro.shtml
+2021-01-18 23:58:36,279          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/estados-reclamam-de-recuo-da-anvisa-e-dizem-que-agencia-vai-atrasar-vacina-russa.shtml
+2021-01-18 23:58:36,280          root     INFO: Finished script
