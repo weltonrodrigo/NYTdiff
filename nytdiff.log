@@ -1,13 +1,27 @@
-2021-01-19 11:17:40,187          root     INFO: Starting script
-2021-01-19 11:17:41,228          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-19 11:17:42,061          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-19 11:17:42,906          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-19 11:17:43,101          root     INFO: Parsing R7 - Brasil
-2021-01-19 11:17:43,641          root     INFO: Biden deve aliviar tensão com <del>China,e</del> <ins>China, e</ins> agro brasileiro pode perder terreno
-2021-01-19 11:17:45,469          root     INFO: Media ready with ids: 1351489014642126849
-2021-01-19 11:17:45,469          root     INFO: Text to tweet: Modificação do Título
-2021-01-19 11:17:45,469          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/biden-deve-aliviar-tensao-com-chinae-agro-brasileiro-pode-perder-terreno.shtml
-2021-01-19 11:17:45,476          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/biden-deve-aliviar-tensao-com-chinae-agro-brasileiro-pode-perder-terreno.shtml
-2021-01-19 11:17:45,742          root     INFO: Replying to: 1351489016533815296
-2021-01-19 11:17:46,012          root     INFO: Id to store: 1351489017452363777
-2021-01-19 11:17:51,388          root     INFO: Finished script
+2021-01-19 12:07:14,681          root     INFO: Starting script
+2021-01-19 12:07:15,538          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-19 12:07:16,224          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-19 12:07:17,147          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-19 12:07:17,296          root     INFO: Parsing R7 - Brasil
+2021-01-19 12:07:17,723          root     INFO: A vacina foi aprovada no domingo (17), mas a incerteza sobre a evolução da pandemia nos próximos meses permanece. Ainda vai levar um bom tempo até atingirmos cobertura vacinal ampla. E uma série de outros fatores aponta para um cenário de curto prazo bastante desfavorável, como a nova variante do vírus recentemente descoberta. Leia mais (01/18/2021 - 23h15)
+2021-01-19 12:07:19,479          root     INFO: Media ready with ids: 1351501488523255810
+2021-01-19 12:07:19,480          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-19 12:07:19,480          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/01/asfixia-economica.shtml
+2021-01-19 12:07:19,488          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/01/asfixia-economica.shtml
+2021-01-19 12:07:19,656          root     INFO: Replying to: 1351501490083520513
+2021-01-19 12:07:19,877          root     INFO: Id to store: 1351501490792378371
+2021-01-19 12:07:20,073          root     INFO: Biden deve aliviar tensão com <del>China,e</del> <ins>China, e</ins> agro brasileiro pode perder terreno
+2021-01-19 12:07:21,765          root     INFO: Media ready with ids: 1351501498212036608
+2021-01-19 12:07:21,765          root     INFO: Text to tweet: Modificação do Título
+2021-01-19 12:07:21,765          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/biden-deve-aliviar-tensao-com-chinae-agro-brasileiro-pode-perder-terreno.shtml
+2021-01-19 12:07:21,774          root     INFO: Replying to: 1351489017452363777
+2021-01-19 12:07:21,986          root     INFO: Id to store: 1351501499688493056
+2021-01-19 12:07:21,993          root     INFO: Os agricultores dos Estados Unidos votaram em peso em Donald Trump na eleição de 2016. O seu governo, porém, foi um estrago para o setor. <del>Mesmo diante dos números adversos, seus adeptos continuavam acreditando que as coisas pudessem melhorar no governo do republicano. A saída de Trump do governo, nesta quarta (20), deixará as negociações internacionais de produtos agrícolas em bases mais sustentáveis. Trump saiu de acordos comerciais, desrespeitou regras de comércio, enfrentou grandes compradores de produtos agrícolas e restringiu as negociações comerciais de produtos com quase todos os mercados. Ganhou espaço no Norte da África, onde as negociações são de apenas US$ 1,5 bilhão por ano, mas perdeu nos principais mercados.</del> Leia mais (01/18/2021 - 23h15)
+2021-01-19 12:07:23,788          root     INFO: Media ready with ids: 1351501506437148672
+2021-01-19 12:07:23,789          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-19 12:07:23,789          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/biden-deve-aliviar-tensao-com-chinae-agro-brasileiro-pode-perder-terreno.shtml
+2021-01-19 12:07:23,797          root     INFO: Replying to: 1351501499688493056
+2021-01-19 12:07:24,020          root     INFO: Id to store: 1351501508165185540
+2021-01-19 12:07:26,230          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3900
+2021-01-19 12:07:31,485          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pdt-anuncia-apoio-a-pacheco-e-da-maioria-teorica-a-candidato-de-alcolumbre-e-bolsonaro-no-senado.shtml
+2021-01-19 12:07:31,486          root     INFO: Finished script
