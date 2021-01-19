@@ -1,27 +1,39 @@
-2021-01-19 12:07:14,681          root     INFO: Starting script
-2021-01-19 12:07:15,538          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-19 12:07:16,224          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-19 12:07:17,147          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-19 12:07:17,296          root     INFO: Parsing R7 - Brasil
-2021-01-19 12:07:17,723          root     INFO: A vacina foi aprovada no domingo (17), mas a incerteza sobre a evolução da pandemia nos próximos meses permanece. Ainda vai levar um bom tempo até atingirmos cobertura vacinal ampla. E uma série de outros fatores aponta para um cenário de curto prazo bastante desfavorável, como a nova variante do vírus recentemente descoberta. Leia mais (01/18/2021 - 23h15)
-2021-01-19 12:07:19,479          root     INFO: Media ready with ids: 1351501488523255810
-2021-01-19 12:07:19,480          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-19 12:07:19,480          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/01/asfixia-economica.shtml
-2021-01-19 12:07:19,488          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/01/asfixia-economica.shtml
-2021-01-19 12:07:19,656          root     INFO: Replying to: 1351501490083520513
-2021-01-19 12:07:19,877          root     INFO: Id to store: 1351501490792378371
-2021-01-19 12:07:20,073          root     INFO: Biden deve aliviar tensão com <del>China,e</del> <ins>China, e</ins> agro brasileiro pode perder terreno
-2021-01-19 12:07:21,765          root     INFO: Media ready with ids: 1351501498212036608
-2021-01-19 12:07:21,765          root     INFO: Text to tweet: Modificação do Título
-2021-01-19 12:07:21,765          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/biden-deve-aliviar-tensao-com-chinae-agro-brasileiro-pode-perder-terreno.shtml
-2021-01-19 12:07:21,774          root     INFO: Replying to: 1351489017452363777
-2021-01-19 12:07:21,986          root     INFO: Id to store: 1351501499688493056
-2021-01-19 12:07:21,993          root     INFO: Os agricultores dos Estados Unidos votaram em peso em Donald Trump na eleição de 2016. O seu governo, porém, foi um estrago para o setor. <del>Mesmo diante dos números adversos, seus adeptos continuavam acreditando que as coisas pudessem melhorar no governo do republicano. A saída de Trump do governo, nesta quarta (20), deixará as negociações internacionais de produtos agrícolas em bases mais sustentáveis. Trump saiu de acordos comerciais, desrespeitou regras de comércio, enfrentou grandes compradores de produtos agrícolas e restringiu as negociações comerciais de produtos com quase todos os mercados. Ganhou espaço no Norte da África, onde as negociações são de apenas US$ 1,5 bilhão por ano, mas perdeu nos principais mercados.</del> Leia mais (01/18/2021 - 23h15)
-2021-01-19 12:07:23,788          root     INFO: Media ready with ids: 1351501506437148672
-2021-01-19 12:07:23,789          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-19 12:07:23,789          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/biden-deve-aliviar-tensao-com-chinae-agro-brasileiro-pode-perder-terreno.shtml
-2021-01-19 12:07:23,797          root     INFO: Replying to: 1351501499688493056
-2021-01-19 12:07:24,020          root     INFO: Id to store: 1351501508165185540
-2021-01-19 12:07:26,230          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3900
-2021-01-19 12:07:31,485          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pdt-anuncia-apoio-a-pacheco-e-da-maioria-teorica-a-candidato-de-alcolumbre-e-bolsonaro-no-senado.shtml
-2021-01-19 12:07:31,486          root     INFO: Finished script
+2021-01-19 13:14:11,815          root     INFO: Starting script
+2021-01-19 13:14:12,668          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-19 13:14:13,345          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-19 13:14:14,260          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-19 13:14:14,458          root     INFO: Parsing R7 - Brasil
+2021-01-19 13:14:14,831          root     INFO: Apesar de Bolsonaro, temos vacina e comemoramos 'gol' de <del>Mônica</del> <ins>Monica</ins>
+2021-01-19 13:14:16,639          root     INFO: Media ready with ids: 1351518337658925064
+2021-01-19 13:14:16,640          root     INFO: Text to tweet: Modificação do Título
+2021-01-19 13:14:16,640          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/01/apesar-de-bolsonaro-temos-vacina-e-comemoramos-gol-de-monica.shtml
+2021-01-19 13:14:16,650          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/01/apesar-de-bolsonaro-temos-vacina-e-comemoramos-gol-de-monica.shtml
+2021-01-19 13:14:16,844          root     INFO: Replying to: 1351518339382829057
+2021-01-19 13:14:17,067          root     INFO: Id to store: 1351518340104282114
+2021-01-19 13:14:17,073          root     INFO: Parecia clima de Copa do Mundo. A manhã do domingo, 17 de janeiro de 2021, mobilizou brasileiros à frente da televisão. Não era a seleção brasileira em campo, nem valia título mundial, mas aquele momento marcaria "o início do fim" de uma batalha iniciada dez meses atrás. <del>Quando o árbitro apitou o início da disputa, ainda em março de 2020, o comando técnico acusou que a derrota seria por goleada.</del> Leia mais (01/18/2021 - 23h15)
+2021-01-19 13:14:18,861          root     INFO: Media ready with ids: 1351518346731261954
+2021-01-19 13:14:18,862          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-19 13:14:18,862          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/01/apesar-de-bolsonaro-temos-vacina-e-comemoramos-gol-de-monica.shtml
+2021-01-19 13:14:18,871          root     INFO: Replying to: 1351518340104282114
+2021-01-19 13:14:19,104          root     INFO: Id to store: 1351518348576759809
+2021-01-19 13:14:19,145          root     INFO: O Japão continua pressionado a tomar uma decisão muito delicada sobre o maior encontro esportivo internacional do planeta, os Jogos Olímpicos de Tóquio. Por causa do surgimento e da expansão da pandemia da Covid-19, a competição na capital japonesa foi adiada do ano passado para julho deste ano. <del>Agora corre risco, em posição ainda mais delicada, para confirmar o evento, pois a pandemia ganhou força e aterroriza todos os países. A caótica situação reduz a empolgação dos torcedores em geral e prejudica os próprios atletas, que estão se preparando sob esse clima de incerteza, que deve influir negativamente nos treinamentos. Restando apenas cinco meses e alguns dias para a cerimônia de abertura dos Jogos, apenas os polos interessados diretamente ---o governo e os organizadores japoneses e o COI (Comitê Olímpico Internacional)--- tentam mostrar um lado mais otimista, mas sem argumento forte para convencer que o evento será confirmado e disputado em segurança.</del> Leia mais (01/18/2021 - 23h15)
+2021-01-19 13:14:21,005          root     INFO: Media ready with ids: 1351518355925180416
+2021-01-19 13:14:21,005          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-19 13:14:21,005          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/01/covid-19-cada-vez-mais-encurrala-olimpiada-de-toquio.shtml
+2021-01-19 13:14:21,014          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/01/covid-19-cada-vez-mais-encurrala-olimpiada-de-toquio.shtml
+2021-01-19 13:14:21,183          root     INFO: Replying to: 1351518357590302720
+2021-01-19 13:14:21,522          root     INFO: Id to store: 1351518358752137216
+2021-01-19 13:14:23,856          root     INFO: <del>Maior evento liberal do país discutirá</del> <ins>Tema de Fórum mostra preocupação de liberais com</ins> poder <del>e censura nas</del> <ins>das</ins> mídias sociais
+2021-01-19 13:14:25,655          root     INFO: Media ready with ids: 1351518375718096896
+2021-01-19 13:14:25,655          root     INFO: Text to tweet: Modificação do Título
+2021-01-19 13:14:25,656          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3900
+2021-01-19 13:14:25,664          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3900
+2021-01-19 13:14:25,861          root     INFO: Replying to: 1351518377211293698
+2021-01-19 13:14:26,077          root     INFO: Id to store: 1351518377878163456
+2021-01-19 13:14:26,084          root     INFO: Criado há <del>34</del> <ins>33</ins> anos, quando ser liberal no Brasil era quase uma aventura, o Fórum da Liberdade acaba de anunciar que o tema da edição de 2021 será o impacto das mídias sociais na liberdade de expressão. "Mídias sociais podem bloquear usuários? Esse bloqueio pode ser seletivo, ou precisa ser amplo? Quem é o dono [...] Leia mais (01/19/2021 - 08h29)
+2021-01-19 13:14:27,935          root     INFO: Media ready with ids: 1351518384752652288
+2021-01-19 13:14:27,935          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-19 13:14:27,935          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3900
+2021-01-19 13:14:27,942          root     INFO: Replying to: 1351518377878163456
+2021-01-19 13:14:28,155          root     INFO: Id to store: 1351518386631696387
+2021-01-19 13:14:33,151          root     INFO: Finished script
