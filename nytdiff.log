@@ -1,10 +1,46 @@
-2021-01-18 23:58:26,339          root     INFO: Starting script
-2021-01-18 23:58:27,186          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-18 23:58:27,865          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-18 23:58:28,768          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-18 23:58:28,954          root     INFO: Parsing R7 - Brasil
-2021-01-18 23:58:31,546          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/ciro-diz-que-lula-e-mais-bondoso-que-a-burocracia-do-pt-mas-ataca-faz-tudo-com-a-mao-de-gato.shtml
-2021-01-18 23:58:31,559          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/doria-manda-bolsonaro-calar-a-boca-em-portugues-e-em-ingles-no-twitter.shtml
-2021-01-18 23:58:36,276          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/prefeitos-levam-a-pazuello-previsao-de-concluir-vacinacao-de-adultos-ate-novembro.shtml
-2021-01-18 23:58:36,279          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/estados-reclamam-de-recuo-da-anvisa-e-dizem-que-agencia-vai-atrasar-vacina-russa.shtml
-2021-01-18 23:58:36,280          root     INFO: Finished script
+2021-01-19 01:46:02,104          root     INFO: Starting script
+2021-01-19 01:46:02,917          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-19 01:46:03,577          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-19 01:46:04,466          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-19 01:46:04,689          root     INFO: Parsing R7 - Brasil
+2021-01-19 01:46:11,271          root     INFO: New article tracked: http://noticias.r7.com/brasil/vice-lider-do-pt-na-camara-e-diagnosticado-com-a-covid-19-18012021
+2021-01-19 01:46:11,284          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-diz-que-nao-impediu-governo-de-agir-contra-virus-e-rebate-bolsonaro-18012021
+2021-01-19 01:46:11,293          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-muda-logistica-e-vacina-chega-com-atraso-a-estados-18012021
+2021-01-19 01:46:11,303          root     INFO: New article tracked: http://noticias.r7.com/brasil/o-alto-custo-da-sustentacao-da-democracia-18012021
+2021-01-19 01:46:11,312          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-diz-que-nao-ha-prazo-para-a-chegada-da-vacina-da-india-18012021
+2021-01-19 01:46:11,323          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-mantem-investigacao-contra-eduardo-paes-na-justica-federal-18012021
+2021-01-19 01:46:11,333          root     INFO: New article tracked: http://noticias.r7.com/brasil/registros-de-obitos-fazem-de-2020-ano-com-mais-mortes-no-brasil-18012021
+2021-01-19 01:46:11,342          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-descarta-substituir-pazuello-apesar-de-crise-na-saude-18012021
+2021-01-19 01:46:11,352          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-soube-dia-8-de-escassez-de-oxigenio-em-manaus-diz-agu-18012021
+2021-01-19 01:46:11,361          root     INFO: New article tracked: http://noticias.r7.com/brasil/forcas-armadas-decidem-se-ha-democracia-ou-ditadura-diz-bolsonaro-18012021
+2021-01-19 01:46:11,371          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-encenacao-acima-de-tudo-marketing-acima-de-todos-18012021
+2021-01-19 01:46:11,380          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-oferece-aplicativo-para-acompanhar-vacina-em-tempo-real-18012021
+2021-01-19 01:46:11,389          root     INFO: New article tracked: http://noticias.r7.com/brasil/mesmo-apos-posicao-da-anvisa-bolsonaro-insiste-na-cloroquina-18012021
+2021-01-19 01:46:11,400          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicao-na-camara-solidariedade-decide-apoiar-baleia-rossi-18012021
+2021-01-19 01:46:11,410          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-atrasar-vacina-embaixador-da-india-e-recebido-por-bolsonaro-18012021
+2021-01-19 01:46:11,419          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-cobra-de-pazuello-atualizacao-do-plano-de-vacinacao-18012021
+2021-01-19 01:46:11,429          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-bancada-feminina-envia-carta-aos-candidatos-a-presidencia-18012021
+2021-01-19 01:46:11,438          root     INFO: New article tracked: http://noticias.r7.com/brasil/avaliacao-positiva-de-bolsonaro-cai-6-pontos-percentuais-diz-pesquisa-18012021
+2021-01-19 01:46:11,447          root     INFO: New article tracked: http://noticias.r7.com/brasil/avioes-da-fab-levam-vacina-contra-covid-19-para-11-capitais-18012021
+2021-01-19 01:46:11,457          root     INFO: New article tracked: http://noticias.r7.com/brasil/preco-do-petroleo-cai-por-temores-com-novo-coronavirus-e-dolar-forte-18012021
+2021-01-19 01:46:11,479          root     INFO: Removed http://noticias.r7.com/brasil/concursos-publicos-tem-4-mil-vagas-com-salarios-de-ate-r-5-mil-18012021
+2021-01-19 01:46:11,482          root     INFO: Removed http://noticias.r7.com/brasil/amanha-iniciaremos-a-distribuicao-de-doses-aos-estados-diz-pazuello-17012021
+2021-01-19 01:46:11,486          root     INFO: Removed http://noticias.r7.com/brasil/simone-tebet-tenta-manter-hegemonia-do-mdb-no-senado-17012021
+2021-01-19 01:46:11,489          root     INFO: Removed http://noticias.r7.com/brasil/am-aras-pede-investigacao-sobre-possivel-omissao-de-autoridades-16012021
+2021-01-19 01:46:11,492          root     INFO: Removed http://noticias.r7.com/brasil/acompanhe-ao-vivo-a-transmissao-do-santo-culto-em-seu-lar-17012021-1
+2021-01-19 01:46:11,495          root     INFO: Removed http://noticias.r7.com/brasil/manaus-governo-reduz-busca-por-oxigenio-em-64-nas-ultimas-24-h-16012021
+2021-01-19 01:46:11,498          root     INFO: Removed http://noticias.r7.com/brasil/pf-vai-escoltar-vacinas-e-pms-farao-seguranca-na-distribuicao-17012021
+2021-01-19 01:46:11,502          root     INFO: Removed http://noticias.r7.com/brasil/veja-como-garantir-o-acesso-aos-beneficios-da-previdencia-social-17012021
+2021-01-19 01:46:11,505          root     INFO: Removed http://noticias.r7.com/brasil/am-agencia-flexibiliza-regras-para-transporte-de-cargas-de-oxigenio-16012021
+2021-01-19 01:46:11,508          root     INFO: Removed http://noticias.r7.com/brasil/acoes-sobre-vacina-contra-covid-19-viram-foco-da-pauta-do-stf-17012021
+2021-01-19 01:46:11,514          root     INFO: Removed http://noticias.r7.com/brasil/estudos-da-coronavac-foram-pagos-com-recurso-do-sus-mostra-saude-17012021
+2021-01-19 01:46:11,518          root     INFO: Removed http://noticias.r7.com/brasil/venceu-a-ciencia-diz-maia-sobre-aprovacao-de-uso-emergencial-17012021
+2021-01-19 01:46:11,521          root     INFO: Removed http://noticias.r7.com/brasil/enfermeira-devera-ser-primeira-pessoa-a-tomar-coronavac-no-pais-17012021
+2021-01-19 01:46:11,525          root     INFO: Removed http://noticias.r7.com/brasil/inss-em-duas-semanas-prova-de-vida-volta-a-ser-obrigatoria-18012021
+2021-01-19 01:46:11,528          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-acumula-e-vai-pagar-r-17-milhoes-na-proxima-4-16012021
+2021-01-19 01:46:11,532          root     INFO: Removed http://noticias.r7.com/brasil/twitter-classifica-post-do-ministerio-da-saude-como-enganoso-16012021
+2021-01-19 01:46:11,535          root     INFO: Removed http://noticias.r7.com/brasil/acompanhe-ao-vivo-a-transmissao-do-santo-culto-em-seu-lar-17012021
+2021-01-19 01:46:11,538          root     INFO: Removed http://noticias.r7.com/brasil/sao-luis-recebe-mais-11-pacientes-com-covid-19-vindos-de-manaus-16012021
+2021-01-19 01:46:11,541          root     INFO: Removed http://noticias.r7.com/brasil/pesquisa-ve-pandemia-de-desconfianca-e-desinformacao-17012021
+2021-01-19 01:46:11,545          root     INFO: Removed http://noticias.r7.com/brasil/manaus-am-recebe-80-cilindros-de-oxigenio-em-meio-a-crise-na-saude-16012021
+2021-01-19 01:46:11,545          root     INFO: Finished script
