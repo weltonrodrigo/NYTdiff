@@ -1,66 +1,11 @@
-2021-01-19 02:59:41,563          root     INFO: Starting script
-2021-01-19 02:59:42,375          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-19 02:59:43,040          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-19 02:59:43,701          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-19 02:59:43,837          root     INFO: Parsing R7 - Brasil
-2021-01-19 02:59:44,220          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/01/apesar-de-bolsonaro-temos-vacina-e-comemoramos-gol-de-monica.shtml
-2021-01-19 02:59:44,230          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/01/covid-19-cada-vez-mais-encurrala-olimpiada-de-toquio.shtml
-2021-01-19 02:59:44,238          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/01/asfixia-economica.shtml
-2021-01-19 02:59:44,251          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/01/a-ciencia-derruba-mitos.shtml
-2021-01-19 02:59:44,260          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/doria-derrota-bolsonaro.shtml
-2021-01-19 02:59:44,270          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/banco-do-presidente.shtml
-2021-01-19 02:59:44,280          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/sequelas-do-atraso.shtml
-2021-01-19 02:59:44,292          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/guilhermeboulos/2021/01/doria-estadista.shtml
-2021-01-19 02:59:44,300          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/01/a-crianca-e-uma-criacao-de-si-mesma.shtml
-2021-01-19 02:59:44,310          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/biden-deve-aliviar-tensao-com-chinae-agro-brasileiro-pode-perder-terreno.shtml
-2021-01-19 02:59:44,318          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/eu-sou-voce-amanha.shtml
-2021-01-19 02:59:44,328          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/a-peste-e-outros-bichos.shtml
-2021-01-19 02:59:44,337          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/01/um-dois-tres-carnavais.shtml
-2021-01-19 02:59:45,744          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/sem-autorizacao-da-anvisa-futuro-de-10-milhoes-de-vacinas-sputnik-v-no-brasil-e-incerto.shtml
-2021-01-19 02:59:45,752          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/moraes-pede-a-fgv-que-entregue-estudo-que-aponta-bolsonaristas-como-divulgadores-de-informacoes-falsas-nas-eleicoes.shtml
-2021-01-19 02:59:45,761          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/mesmo-apos-oficializacao-de-apoio-a-baleia-rossi-solidariedade-tem-deputados-ao-lado-de-arthur-lira.shtml
-2021-01-19 02:59:45,769          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/denuncia-bloqueia-bens-de-irmao-de-baleia-rossi-e-cita-entrega-de-r-1-milhao-em-dinheiro-vivo.shtml
-2021-01-19 02:59:45,778          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-aprovacao-de-vacina-bolsonaro-cai-e-doria-cresce-em-popularidade-digital.shtml
-2021-01-19 02:59:45,787          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-condiciona-democracia-a-militares-em-meio-a-pressao-apos-derrota-da-vacina.shtml
-2021-01-19 02:59:45,796          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/01/a-necrochanchada.shtml
-2021-01-19 02:59:49,139          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-tamanho-e-a-ordem-de-grandeza-da-ideologia.shtml
-2021-01-19 02:59:49,142          root     INFO: Removed http://noticias.r7.com/brasil/camara-bancada-feminina-envia-carta-aos-candidatos-a-presidencia-18012021
-2021-01-19 02:59:49,146          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-descarta-substituir-pazuello-apesar-de-crise-na-saude-18012021
-2021-01-19 02:59:49,149          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/apesar-dos-tropecos-a-ciencia-impera-temos-vacinas-e-devemos-nos-vacinar.shtml
-2021-01-19 02:59:49,153          root     INFO: Removed http://noticias.r7.com/brasil/governo-soube-dia-8-de-escassez-de-oxigenio-em-manaus-diz-agu-18012021
-2021-01-19 02:59:49,156          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/entrega-de-alimentos-na-ceagesp-vira-ato-com-criticas-a-joao-doria.shtml
-2021-01-19 02:59:49,160          root     INFO: Removed http://noticias.r7.com/brasil/preco-do-petroleo-cai-por-temores-com-novo-coronavirus-e-dolar-forte-18012021
-2021-01-19 02:59:49,163          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2021/01/alem-de-maguito-vilela-outros-prefeitos-tomaram-posse-na-uti-apos-contrairem-covid-19.shtml
-2021-01-19 02:59:49,167          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/01/massacre-do-river-sobre-o-palmeiras-comprova-que-em-mata-mata-o-melhor-pode-perder.shtml
-2021-01-19 02:59:49,172          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10612
-2021-01-19 02:59:49,176          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-oferece-aplicativo-para-acompanhar-vacina-em-tempo-real-18012021
-2021-01-19 02:59:49,180          root     INFO: Removed http://noticias.r7.com/brasil/eleicao-na-camara-solidariedade-decide-apoiar-baleia-rossi-18012021
-2021-01-19 02:59:49,184          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-cobra-de-pazuello-atualizacao-do-plano-de-vacinacao-18012021
-2021-01-19 02:59:49,420          root     INFO: Removed http://noticias.r7.com/brasil/stf-diz-que-nao-impediu-governo-de-agir-contra-virus-e-rebate-bolsonaro-18012021
-2021-01-19 02:59:49,424          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/henrique-gomes/2021/01/invasao-do-capitolio-mostra-como-teorias-da-conspiracao-podem-ameacar-a-democracia.shtml
-2021-01-19 02:59:49,430          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/contardocalligaris/2021/01/trump-e-morto-como-ines-mas-como-interpretar-a-politica-americana-agora.shtml
-2021-01-19 02:59:49,433          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/entenda-a-mudanca-de-comando-no-mp-rj-e-como-isso-pode-interferir-no-caso-flavio-bolsonaro.shtml
-2021-01-19 02:59:49,436          root     INFO: Removed http://noticias.r7.com/brasil/registros-de-obitos-fazem-de-2020-ano-com-mais-mortes-no-brasil-18012021
-2021-01-19 02:59:49,439          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/contra-seu-partido-esperidiao-amin-apoia-tebet-para-se-contrapor-a-alcolumbre.shtml
-2021-01-19 02:59:49,442          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josimarmelo/2021/01/avenida-para-o-futuro.shtml
-2021-01-19 02:59:49,445          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2021/01/ambiciosa-the-wire-faz-lembrar-que-nem-toda-ficcao-da-tv-e-descartavel.shtml
-2021-01-19 02:59:49,448          root     INFO: Removed http://noticias.r7.com/brasil/avioes-da-fab-levam-vacina-contra-covid-19-para-11-capitais-18012021
-2021-01-19 02:59:49,451          root     INFO: Removed http://noticias.r7.com/brasil/o-alto-custo-da-sustentacao-da-democracia-18012021
-2021-01-19 02:59:49,455          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/enem-no-domingo.shtml
-2021-01-19 02:59:49,460          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/01/quem-nao-tomar-a-vacina-que-e-capricorniana-e-vingativa-tera-problemas.shtml
-2021-01-19 02:59:49,464          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/nova-constituicao-seria-ataque-a-democracia.shtml
-2021-01-19 02:59:49,467          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/01/rodrigo-maia-conivente.shtml
-2021-01-19 02:59:49,470          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-muda-logistica-e-vacina-chega-com-atraso-a-estados-18012021
-2021-01-19 02:59:49,473          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/mpf-cobra-da-pf-detalhes-sobre-arquivos-de-mensagens-da-lava-jato-entregues-a-lula.shtml
-2021-01-19 02:59:49,476          root     INFO: Removed http://noticias.r7.com/brasil/vice-lider-do-pt-na-camara-e-diagnosticado-com-a-covid-19-18012021
-2021-01-19 02:59:49,479          root     INFO: Removed http://noticias.r7.com/brasil/forcas-armadas-decidem-se-ha-democracia-ou-ditadura-diz-bolsonaro-18012021
-2021-01-19 02:59:49,482          root     INFO: Removed http://noticias.r7.com/brasil/stf-mantem-investigacao-contra-eduardo-paes-na-justica-federal-18012021
-2021-01-19 02:59:49,485          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-diz-que-nao-ha-prazo-para-a-chegada-da-vacina-da-india-18012021
-2021-01-19 02:59:49,489          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/sem-saber-como-tratar-o-rio-ministerio-da-economia-deve-sancionar-novo-regime-de-recuperacao-fiscal.shtml
-2021-01-19 02:59:49,492          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/01/e-a-identidade-estupido.shtml
-2021-01-19 02:59:49,495          root     INFO: Removed http://noticias.r7.com/brasil/apos-atrasar-vacina-embaixador-da-india-e-recebido-por-bolsonaro-18012021
-2021-01-19 02:59:49,499          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/01/sequelada-de-covid-19.shtml
-2021-01-19 02:59:49,501          root     INFO: Removed http://noticias.r7.com/brasil/analise-encenacao-acima-de-tudo-marketing-acima-de-todos-18012021
-2021-01-19 02:59:49,504          root     INFO: Removed http://noticias.r7.com/brasil/mesmo-apos-posicao-da-anvisa-bolsonaro-insiste-na-cloroquina-18012021
-2021-01-19 02:59:49,507          root     INFO: Removed http://noticias.r7.com/brasil/avaliacao-positiva-de-bolsonaro-cai-6-pontos-percentuais-diz-pesquisa-18012021
-2021-01-19 02:59:49,508          root     INFO: Finished script
+2021-01-19 04:04:18,888          root     INFO: Starting script
+2021-01-19 04:04:19,733          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-19 04:04:20,420          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-19 04:04:21,101          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-19 04:04:21,381          root     INFO: Parsing R7 - Brasil
+2021-01-19 04:04:23,481          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/criticado-por-conducao-da-pandemia-pazuello-e-visto-como-para-choque-de-jair-bolsonaro-no-palacio-do-planalto.shtml
+2021-01-19 04:04:26,703          root     INFO: New article tracked: http://noticias.r7.com/brasil/anac-lista-25-aereas-que-podem-transportar-cilindros-de-oxigenio-18012021
+2021-01-19 04:04:26,713          root     INFO: New article tracked: http://noticias.r7.com/brasil/trump-suspende-restricoes-de-viagem-de-ue-reino-unido-e-brasil-18012021
+2021-01-19 04:04:26,723          root     INFO: New article tracked: http://noticias.r7.com/brasil/profissionais-de-transportes-entram-no-grupo-prioritario-da-vacinacao-18012021
+2021-01-19 04:04:27,052          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/estados-dizem-que-pazuello-enviou-dados-errados-de-seringas-e-vacinas-para-o-stf.shtml
+2021-01-19 04:04:27,052          root     INFO: Finished script
