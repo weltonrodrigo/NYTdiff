@@ -1,6 +1,12 @@
-2021-01-19 18:34:21,625          root     INFO: Starting script
-2021-01-19 18:34:22,472          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-19 18:34:23,129          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-19 18:34:23,787          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-19 18:34:23,987          root     INFO: Parsing R7 - Brasil
-2021-01-19 18:34:29,023          root     INFO: Finished script
+2021-01-19 19:37:22,806          root     INFO: Starting script
+2021-01-19 19:37:23,599          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-19 19:37:24,239          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-19 19:37:24,875          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-19 19:37:25,051          root     INFO: Parsing R7 - Brasil
+2021-01-19 19:37:27,262          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/fracasso-na-guerra-da-vacina-faz-ate-centrao-falar-de-impeachment.shtml
+2021-01-19 19:37:27,275          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/fhc-diz-a-tucanos-que-voto-em-lira-significa-adeus-as-expectativas-de-ganhar-as-proximas-eleicoes.shtml
+2021-01-19 19:37:28,884          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/01/para-proteger-a-amazonia-biden-deve-apoiar-quem-vivem-na-regiao-e-nao-promover-sancoes.shtml
+2021-01-19 19:37:30,936          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/lira-me-esganou-fez-ameaca-para-mudar-depoimento-e-me-usou-como-laranja-diz-ex-mulher-de-candidato-na-camara.shtml
+2021-01-19 19:37:30,939          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/apos-estados-apontarem-erro-de-pazuello-ministro-do-stf-pede-que-governadores-informem-dados-de-seringas-e-agulhas.shtml
+2021-01-19 19:37:30,942          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/10/quando-atingem-poder-economico-leis-ambientais-sao-vistas-como-mas-diz-herman-benjamin.shtml
+2021-01-19 19:37:30,946          root     INFO: Finished script
