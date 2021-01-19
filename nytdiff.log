@@ -1,10 +1,13 @@
-2021-01-19 14:14:32,710          root     INFO: Starting script
-2021-01-19 14:14:33,571          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-19 14:14:34,245          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-19 14:14:34,920          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-19 14:14:35,215          root     INFO: Parsing R7 - Brasil
-2021-01-19 14:14:36,077          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/01/quem-e-radical-agora-o-caso-dos-salarios-minimos-nos-eua.shtml
-2021-01-19 14:14:38,069          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/nao-vou-dizer-que-sou-excelente-presidente-diz-bolsonaro-sob-pressao-de-vacina-e-de-ofensiva-pro-impeachment.shtml
-2021-01-19 14:14:42,299          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/posse-e-porte-de-armas-o-bom-senso-precisa-prevalecer.shtml
-2021-01-19 14:14:42,304          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/jorge-oliveira-se-declara-impedido-em-estreia-no-tcu-apos-pressao-por-possivel-conflito-de-interesses.shtml
-2021-01-19 14:14:42,305          root     INFO: Finished script
+2021-01-19 14:56:51,556          root     INFO: Starting script
+2021-01-19 14:56:52,574          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-19 14:56:53,409          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-19 14:56:54,549          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-19 14:56:54,786          root     INFO: Parsing R7 - Brasil
+2021-01-19 14:56:57,005          root     INFO: Em meio a críticas sobre a atuação do governo federal na pandemia da Covid-19 e após o governador João Doria (PSDB) ter protagonizado o início da vacinação no Brasil, Jair Bolsonaro <del>disse</del> <ins>afirmou</ins> nesta terça-feira (19) não poder dizer que é um "excelente presidente", mas fez uma contraposição com administrações anteriores. Leia mais (01/19/2021 - 11h04)
+2021-01-19 14:56:58,949          root     INFO: Media ready with ids: 1351544184046497792
+2021-01-19 14:56:58,950          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-19 14:56:58,950          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/nao-vou-dizer-que-sou-excelente-presidente-diz-bolsonaro-sob-pressao-de-vacina-e-de-ofensiva-pro-impeachment.shtml
+2021-01-19 14:56:58,957          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/nao-vou-dizer-que-sou-excelente-presidente-diz-bolsonaro-sob-pressao-de-vacina-e-de-ofensiva-pro-impeachment.shtml
+2021-01-19 14:56:59,218          root     INFO: Replying to: 1351544186215014400
+2021-01-19 14:56:59,506          root     INFO: Id to store: 1351544187141971970
+2021-01-19 14:57:03,720          root     INFO: Finished script
