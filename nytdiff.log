@@ -1,25 +1,8 @@
-2021-01-20 22:11:56,431          root     INFO: Starting script
-2021-01-20 22:11:57,333          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-20 22:11:58,018          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-20 22:11:58,691          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-20 22:11:58,808          root     INFO: Parsing R7 - Brasil
-2021-01-20 22:12:01,096          root     INFO: <del>Cerca de 700</del> <ins>Setecentos</ins> ex-alunos da Faculdade de Medicina da USP pedem impeachment de Bolsonaro
-2021-01-20 22:12:03,042          root     INFO: Media ready with ids: 1352016060560637957
-2021-01-20 22:12:03,043          root     INFO: Text to tweet: Modificação do Título
-2021-01-20 22:12:03,043          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/cerca-de-700-ex-alunos-da-faculdade-de-medicina-da-usp-pedem-impeachment-de-bolsonaro.shtml
-2021-01-20 22:12:03,051          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/cerca-de-700-ex-alunos-da-faculdade-de-medicina-da-usp-pedem-impeachment-de-bolsonaro.shtml
-2021-01-20 22:12:03,243          root     INFO: Replying to: 1352016062330580996
-2021-01-20 22:12:03,475          root     INFO: Id to store: 1352016063035277313
-2021-01-20 22:12:03,584          root     INFO: Mais de <del>300</del> <ins>400</ins> ex-alunos da Escola Paulista de Medicina da Unifesp pedem impeachment de Bolsonaro
-2021-01-20 22:12:05,334          root     INFO: Media ready with ids: 1352016070232727555
-2021-01-20 22:12:05,334          root     INFO: Text to tweet: Modificação do Título
-2021-01-20 22:12:05,335          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/mais-de-300-ex-alunos-da-escola-paulista-de-medicina-da-unifesp-pedem-impeachment-de-bolsonaro.shtml
-2021-01-20 22:12:05,343          root     INFO: Replying to: 1351984510011899905
-2021-01-20 22:12:05,561          root     INFO: Id to store: 1352016071839121412
-2021-01-20 22:12:05,569          root     INFO: ?Um grupo de ex-alunos da Escola Paulista de Medicina da Universidade Federal de São Paulo (Unifesp) divulgou, na terça (19), uma carta aberta pedindo o impeachment do presidente Jair Bolsonaro (sem partido). Até a tarde desta quarta (20), o abaixo-assinado reunia <del>309</del> <ins>402</ins> assinaturas, entre ex-alunos, ex-residentes, professores e docentes de medicina da universidade. Nomes como os infectologistas Reinaldo Salomão e Paulo Roberto Abrão Ferreira, os psiquiatras Jair de Jesus Mari e Marcos Pacheco de Toledo Ferraz, o neurologista Acary Souza Bulle Oliveira, o hematologista Nelson Hamerschlak, o cirurgião plástico Miguel Sabino Neto e a ex-ministras Eleonora Menicucci endossam a carta. Leia mais (01/20/2021 - 15h45)
-2021-01-20 22:12:07,493          root     INFO: Media ready with ids: 1352016079023955973
-2021-01-20 22:12:07,493          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-20 22:12:07,493          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/mais-de-300-ex-alunos-da-escola-paulista-de-medicina-da-unifesp-pedem-impeachment-de-bolsonaro.shtml
-2021-01-20 22:12:07,501          root     INFO: Replying to: 1352016071839121412
-2021-01-20 22:12:07,729          root     INFO: Id to store: 1352016080869470214
-2021-01-20 22:12:11,738          root     INFO: Finished script
+2021-01-20 22:58:59,144          root     INFO: Starting script
+2021-01-20 22:58:59,966          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-20 22:59:00,632          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-20 22:59:01,298          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-20 22:59:01,379          root     INFO: Parsing R7 - Brasil
+2021-01-20 22:59:01,715          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/01/posse-de-biden-traz-celebracao-mas-tambem-pavor-pelo-que-ocorreu-nos-ultimos-4-anos.shtml
+2021-01-20 22:59:07,044          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2021/01/a-importancia-da-transmissao-sem-sintomas-na-covid-19.shtml
+2021-01-20 22:59:07,045          root     INFO: Finished script
