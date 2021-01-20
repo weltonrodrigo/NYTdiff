@@ -1,8 +1,12 @@
-2021-01-20 00:08:07,070          root     INFO: Starting script
-2021-01-20 00:08:07,877          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-20 00:08:08,527          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-20 00:08:09,179          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-20 00:08:09,467          root     INFO: Parsing R7 - Brasil
-2021-01-20 00:08:09,815          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/01/bolsonaro-era-tao-facil-sair-grande-dessa-pandemia-bastava-nao-ser-voce.shtml
-2021-01-20 00:08:16,188          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/e-melhor-remover-um-lunatico-da-arena-politica-ou-derrota-lo-nas-urnas.shtml
-2021-01-20 00:08:16,189          root     INFO: Finished script
+2021-01-20 02:04:49,670          root     INFO: Starting script
+2021-01-20 02:04:50,463          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-20 02:04:51,101          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-20 02:04:51,742          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-20 02:04:51,909          root     INFO: Parsing R7 - Brasil
+2021-01-20 02:04:52,296          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/01/impeachment-pro-vida.shtml
+2021-01-20 02:04:54,388          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3915
+2021-01-20 02:04:54,399          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/01/impeachment-pro-vida.shtml
+2021-01-20 02:04:58,761          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/estados-cobram-ministerio-da-saude-criterios-sobre-a-divisao-das-vacinas.shtml
+2021-01-20 02:04:58,770          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2021/01/ano-novo-vida-nova.shtml
+2021-01-20 02:04:58,776          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/angela-alonso/2021/01/nao-ha-ciencia-que-de-jeito-sem-o-esforco-coletivo-de-usar-mascaras-tomar-vacina-e-lavar-as-maos.shtml
+2021-01-20 02:04:58,777          root     INFO: Finished script
