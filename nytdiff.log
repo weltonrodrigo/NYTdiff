@@ -1,17 +1,10 @@
-2021-01-20 20:06:33,655          root     INFO: Starting script
-2021-01-20 20:06:34,451          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-20 20:06:35,093          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-20 20:06:35,732          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-20 20:06:36,084          root     INFO: Parsing R7 - Brasil
-2021-01-20 20:06:36,457          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/01/bolsonaro-ainda-nao-sabe-brincar-de-vaca-amarela-ate-com-governo-em-jogo.shtml
-2021-01-20 20:06:38,295          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/esporte/2021/01/o-brasil-de-bolsonaro-e-campeao-da-libertadores.shtml
-2021-01-20 20:06:38,327          root     INFO: ?Um grupo de ex-alunos da Escola Paulista de Medicina da Universidade Federal de São Paulo (Unifesp) divulgou, na terça (19), uma carta aberta pedindo o impeachment do presidente Jair Bolsonaro (sem partido). Até a tarde desta quarta (20), o abaixo-assinado reunia <del>309</del> <ins>326</ins> assinaturas, entre ex-alunos, ex-residentes, professores e docentes de medicina da universidade. Nomes como os infectologistas Reinaldo Salomão e Paulo Roberto Abrão Ferreira, os psiquiatras Jair de Jesus Mari e Marcos Pacheco de Toledo Ferraz, o neurologista Acary Souza Bulle Oliveira, o hematologista Nelson Hamerschlak, o cirurgião plástico Miguel Sabino Neto e a ex-ministras Eleonora Menicucci endossam a carta. Leia mais (01/20/2021 - 15h45)
-2021-01-20 20:06:40,217          root     INFO: Media ready with ids: 1351984507457576960
-2021-01-20 20:06:40,218          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-20 20:06:40,218          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/mais-de-300-ex-alunos-da-escola-paulista-de-medicina-da-unifesp-pedem-impeachment-de-bolsonaro.shtml
-2021-01-20 20:06:40,226          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/mais-de-300-ex-alunos-da-escola-paulista-de-medicina-da-unifesp-pedem-impeachment-de-bolsonaro.shtml
-2021-01-20 20:06:40,418          root     INFO: Replying to: 1351984509328240648
-2021-01-20 20:06:40,649          root     INFO: Id to store: 1351984510011899905
-2021-01-20 20:06:44,510          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/psol-decide-lancar-erundina-para-presidencia-da-camara-e-nanicos-entram-na-disputa.shtml
-2021-01-20 20:06:44,514          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/final-da-libertadores-dependera-de-muitas-coisas-que-podem-acontecer-em-17-dias.shtml
-2021-01-20 20:06:44,515          root     INFO: Finished script
+2021-01-20 21:01:02,135          root     INFO: Starting script
+2021-01-20 21:01:03,223          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-20 21:01:03,895          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-20 21:01:04,573          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-20 21:01:04,790          root     INFO: Parsing R7 - Brasil
+2021-01-20 21:01:07,210          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/subprocuradores-rebatem-aras-e-dizem-que-e-atribuicao-da-pgr-investigar-presidente-da-republica.shtml
+2021-01-20 21:01:07,224          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/aras-avisa-que-vai-aliviar-para-bolsonaro-mas-e-o-que-insinua-que-preocupa.shtml
+2021-01-20 21:01:11,518          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/amazonas-diz-que-conseguiu-oxigenio-por-mais-48h-e-suspende-transferencia-de-bebes.shtml
+2021-01-20 21:01:11,521          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/maia-diz-que-discussao-sobre-impeachment-de-bolsonaro-sera-inevitavel-no-futuro.shtml
+2021-01-20 21:01:11,522          root     INFO: Finished script
