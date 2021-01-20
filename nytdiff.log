@@ -1,8 +1,17 @@
-2021-01-20 22:58:59,144          root     INFO: Starting script
-2021-01-20 22:58:59,966          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-20 22:59:00,632          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-20 22:59:01,298          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-20 22:59:01,379          root     INFO: Parsing R7 - Brasil
-2021-01-20 22:59:01,715          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/01/posse-de-biden-traz-celebracao-mas-tambem-pavor-pelo-que-ocorreu-nos-ultimos-4-anos.shtml
-2021-01-20 22:59:07,044          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2021/01/a-importancia-da-transmissao-sem-sintomas-na-covid-19.shtml
-2021-01-20 22:59:07,045          root     INFO: Finished script
+2021-01-20 23:54:48,071          root     INFO: Starting script
+2021-01-20 23:54:48,905          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-20 23:54:49,583          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-20 23:54:50,267          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-20 23:54:50,392          root     INFO: Parsing R7 - Brasil
+2021-01-20 23:54:50,777          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2021/01/e-preciso-dizer-que-uma-mentira-e-uma-mentira-no-combate-a-desinformacao.shtml
+2021-01-20 23:54:52,833          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/candidato-de-bolsonaro-na-camara-lira-deve-ser-recebido-por-covas-em-sp-apesar-de-apoio-do-psdb-a-baleia.shtml
+2021-01-20 23:54:52,887          root     INFO: Integrantes do Conselho Superior do MPF (Ministério Público Federal) rebateram nesta quarta-feira (20) a nota em que a PGR (Procuradoria-Geral da República) afirmou <del>que compete ao</del> <ins>ser competência do</ins> Legislativo a responsabilização da cúpula dos Poderes por eventuais ilícitos no enfrentamento da Covid-19, o que inclui o presidente Jair Bolsonaro (sem partido). Leia mais (01/20/2021 - 17h28)
+2021-01-20 23:54:54,755          root     INFO: Media ready with ids: 1352041946471157766
+2021-01-20 23:54:54,755          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-20 23:54:54,755          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/subprocuradores-rebatem-aras-e-dizem-que-e-atribuicao-da-pgr-investigar-presidente-da-republica.shtml
+2021-01-20 23:54:54,764          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/subprocuradores-rebatem-aras-e-dizem-que-e-atribuicao-da-pgr-investigar-presidente-da-republica.shtml
+2021-01-20 23:54:54,986          root     INFO: Replying to: 1352041948366958594
+2021-01-20 23:54:55,228          root     INFO: Id to store: 1352041949285543936
+2021-01-20 23:54:59,592          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/miopia-a-francesa.shtml
+2021-01-20 23:54:59,597          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/01/com-panelacos-brasileiros-criticam-falta-de-vacina-e-oxigenio-e-pedem-impeachment-de-bolsonaro.shtml
+2021-01-20 23:54:59,598          root     INFO: Finished script
