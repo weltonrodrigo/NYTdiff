@@ -1,10 +1,10 @@
-2021-01-20 14:04:09,336          root     INFO: Starting script
-2021-01-20 14:04:10,139          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-20 14:04:10,805          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-20 14:04:11,460          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-20 14:04:11,652          root     INFO: Parsing R7 - Brasil
-2021-01-20 14:04:17,335          root     INFO: Removed http://noticias.r7.com/brasil/indice-geral-de-precos-acelera-na-2-previa-de-janeiro-diz-fgv-19012021
-2021-01-20 14:04:17,339          root     INFO: Removed http://noticias.r7.com/brasil/fluxo-de-doses-de-vacina-e-novo-desafio-para-manter-campanha-19012021
-2021-01-20 14:04:17,343          root     INFO: Removed http://noticias.r7.com/brasil/ibovespa-avanca-na-abertura-com-apetite-por-risco-19012021
-2021-01-20 14:04:17,346          root     INFO: Removed http://noticias.r7.com/brasil/caminhoneiros-governo-reajusta-tabela-do-frete-rodoviario-19012021
-2021-01-20 14:04:17,347          root     INFO: Finished script
+2021-01-20 14:51:14,100          root     INFO: Starting script
+2021-01-20 14:51:14,923          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-20 14:51:15,597          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-20 14:51:16,267          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-20 14:51:17,061          root     INFO: Parsing R7 - Brasil
+2021-01-20 14:51:19,304          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/nos-militares-seguimos-o-norte-indicado-pela-populacao-diz-bolsonaro-a-integrantes-da-fab.shtml
+2021-01-20 14:51:19,317          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10624
+2021-01-20 14:51:23,402          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3892
+2021-01-20 14:51:23,407          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/investigacao-contra-ex-ministro-em-caso-das-rachadinhas-na-assembleia-do-rj-e-arquivada.shtml
+2021-01-20 14:51:23,408          root     INFO: Finished script
