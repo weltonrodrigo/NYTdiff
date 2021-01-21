@@ -1,10 +1,26 @@
-2021-01-21 12:59:16,905          root     INFO: Starting script
-2021-01-21 12:59:17,746          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-21 12:59:18,421          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-21 12:59:19,103          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-21 12:59:19,288          root     INFO: Parsing R7 - Brasil
-2021-01-21 12:59:21,765          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/se-deus-quiser-vou-continuar-meu-mandato-afirma-bolsonaro.shtml
-2021-01-21 12:59:23,766          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/01/por-que-tantos-migrantes-e-pessoas-deslocadas-na-america-latina.shtml
-2021-01-21 12:59:25,993          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/twitter-marca-publicacao-do-ministerio-da-saude-sobre-tratamento-precoce-como-enganosa.shtml
-2021-01-21 12:59:25,996          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/10/ibama-diz-ter-r-19-mi-em-pendencias-e-interrompe-acao-de-brigadistas-em-combate-a-incendios.shtml
-2021-01-21 12:59:25,997          root     INFO: Finished script
+2021-01-21 14:03:54,642          root     INFO: Starting script
+2021-01-21 14:03:55,554          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-21 14:03:56,227          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-21 14:03:56,900          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-21 14:03:57,000          root     INFO: Parsing R7 - Brasil
+2021-01-21 14:03:57,349          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/01/deuses-ateus-buscando-reconstruir-afeto-numa-sociedade-que-ve-o-homem-negro-como-ameaca.shtml
+2021-01-21 14:03:57,361          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/01/sao-paulo-467-anos-uma-biografia-nao-autorizada-da-cidade.shtml
+2021-01-21 14:03:59,411          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10627
+2021-01-21 14:03:59,877          root     INFO: Mais de <del>300</del> <ins>600</ins> ex-alunos da Escola Paulista de Medicina da Unifesp pedem impeachment de Bolsonaro
+2021-01-21 14:04:01,637          root     INFO: Media ready with ids: 1352255633580584960
+2021-01-21 14:04:01,638          root     INFO: Text to tweet: Modificação do Título
+2021-01-21 14:04:01,638          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/mais-de-300-ex-alunos-da-escola-paulista-de-medicina-da-unifesp-pedem-impeachment-de-bolsonaro.shtml
+2021-01-21 14:04:01,646          root     INFO: Replying to: 1352016080869470214
+2021-01-21 14:04:02,084          root     INFO: Id to store: 1352255635182772225
+2021-01-21 14:04:02,092          root     INFO: ?Um grupo de ex-alunos da Escola Paulista de Medicina da Universidade Federal de São Paulo (Unifesp) divulgou, na terça (19), uma carta aberta pedindo o impeachment do presidente Jair Bolsonaro (sem partido). Até a <del>tarde desta quarta (20),</del> <ins>manhã de quinta (21),</ins> o abaixo-assinado reunia <del>309</del> <ins>617</ins> assinaturas, entre ex-alunos, ex-residentes, professores e docentes de medicina da universidade. Nomes como os infectologistas Reinaldo Salomão e Paulo Roberto Abrão Ferreira, os psiquiatras Jair de Jesus Mari e Marcos Pacheco de Toledo Ferraz, o neurologista Acary Souza Bulle Oliveira, o hematologista Nelson Hamerschlak, o cirurgião plástico Miguel Sabino Neto e a ex-ministras Eleonora Menicucci endossam a carta. Leia mais (01/20/2021 - 15h45)
+2021-01-21 14:04:04,041          root     INFO: Media ready with ids: 1352255643382669315
+2021-01-21 14:04:04,042          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-21 14:04:04,042          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/mais-de-300-ex-alunos-da-escola-paulista-de-medicina-da-unifesp-pedem-impeachment-de-bolsonaro.shtml
+2021-01-21 14:04:04,049          root     INFO: Replying to: 1352255635182772225
+2021-01-21 14:04:04,326          root     INFO: Id to store: 1352255645194579970
+2021-01-21 14:04:05,991          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/01/sao-paulo-467-anos-uma-biografia-nao-autorizada-da-cidade.shtml
+2021-01-21 14:04:08,379          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/governo-da-bahia-busca-stf-para-liberar-vacina-russa-barrada-pela-anvisa.shtml
+2021-01-21 14:04:08,384          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/cotidiano/2020/10/governo-planeja-eliminar-a-meta-de-proteger-100-das-terras-indigenas.shtml
+2021-01-21 14:04:08,387          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/01/bolhas-nao-protegem-e-campeonatos-expoem-meses-de-treinamentos-precarios.shtml
+2021-01-21 14:04:08,391          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/manaus-brasil.shtml
+2021-01-21 14:04:08,392          root     INFO: Finished script
