@@ -1,17 +1,26 @@
-2021-01-20 23:54:48,071          root     INFO: Starting script
-2021-01-20 23:54:48,905          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-20 23:54:49,583          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-20 23:54:50,267          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-20 23:54:50,392          root     INFO: Parsing R7 - Brasil
-2021-01-20 23:54:50,777          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2021/01/e-preciso-dizer-que-uma-mentira-e-uma-mentira-no-combate-a-desinformacao.shtml
-2021-01-20 23:54:52,833          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/candidato-de-bolsonaro-na-camara-lira-deve-ser-recebido-por-covas-em-sp-apesar-de-apoio-do-psdb-a-baleia.shtml
-2021-01-20 23:54:52,887          root     INFO: Integrantes do Conselho Superior do MPF (Ministério Público Federal) rebateram nesta quarta-feira (20) a nota em que a PGR (Procuradoria-Geral da República) afirmou <del>que compete ao</del> <ins>ser competência do</ins> Legislativo a responsabilização da cúpula dos Poderes por eventuais ilícitos no enfrentamento da Covid-19, o que inclui o presidente Jair Bolsonaro (sem partido). Leia mais (01/20/2021 - 17h28)
-2021-01-20 23:54:54,755          root     INFO: Media ready with ids: 1352041946471157766
-2021-01-20 23:54:54,755          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-20 23:54:54,755          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/subprocuradores-rebatem-aras-e-dizem-que-e-atribuicao-da-pgr-investigar-presidente-da-republica.shtml
-2021-01-20 23:54:54,764          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/subprocuradores-rebatem-aras-e-dizem-que-e-atribuicao-da-pgr-investigar-presidente-da-republica.shtml
-2021-01-20 23:54:54,986          root     INFO: Replying to: 1352041948366958594
-2021-01-20 23:54:55,228          root     INFO: Id to store: 1352041949285543936
-2021-01-20 23:54:59,592          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/miopia-a-francesa.shtml
-2021-01-20 23:54:59,597          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/01/com-panelacos-brasileiros-criticam-falta-de-vacina-e-oxigenio-e-pedem-impeachment-de-bolsonaro.shtml
-2021-01-20 23:54:59,598          root     INFO: Finished script
+2021-01-21 00:31:16,719          root     INFO: Starting script
+2021-01-21 00:31:17,521          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-21 00:31:18,292          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-21 00:31:18,944          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-21 00:31:19,124          root     INFO: Parsing R7 - Brasil
+2021-01-21 00:31:25,494          root     INFO: New article tracked: http://noticias.r7.com/brasil/aviao-que-levava-vacinas-quase-colide-com-aeronave-da-gol-no-pr-20012021
+2021-01-21 00:31:25,509          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-busca-de-votos-rossi-e-lira-visitam-assembleias-legislativas-20012021
+2021-01-21 00:31:25,522          root     INFO: New article tracked: http://noticias.r7.com/brasil/saude-exige-que-estados-cumpram-cronograma-de-vacinacao-20012021
+2021-01-21 00:31:25,534          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-tem-reuniao-com-embaixador-chines-sobre-vacina-20012021
+2021-01-21 00:31:25,546          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-cita-boa-relacao-com-china-e-importacao-encaminhada-da-india-20012021
+2021-01-21 00:31:25,558          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-da-posse-a-novos-reitores-de-tres-universidades-federais-20012021
+2021-01-21 00:31:25,568          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-autoriza-cessao-da-gruta-do-lago-azul-em-bonito-ms-20012021
+2021-01-21 00:31:25,580          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacinacao-de-recem-formadas-e-alvo-de-criticas-em-manaus-20012021
+2021-01-21 00:31:25,591          root     INFO: New article tracked: http://noticias.r7.com/brasil/rede-pede-ao-stf-afastamento-imediato-de-eduardo-pazuello-20012021
+2021-01-21 00:31:25,603          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-derruba-portaria-de-moro-que-engajava-prf-contra-o-crime-20012021
+2021-01-21 00:31:25,615          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacinacao-stf-nega-pedido-para-incluir-pessoas-com-deficiencia-20012021
+2021-01-21 00:31:25,627          root     INFO: New article tracked: http://noticias.r7.com/brasil/mp-investiga-suposto-convite-de-vacinacao-a-carlinhos-maia-em-al-20012021
+2021-01-21 00:31:25,640          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-tem-72-horas-para-apresentar-dados-da-sputnik-ao-stf-20012021
+2021-01-21 00:31:25,669          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-diz-que-impeachment-cabe-a-maia-e-se-eleito-abordara-tema-20012021
+2021-01-21 00:31:25,684          root     INFO: New article tracked: http://noticias.r7.com/brasil/maia-descarta-motivo-politico-na-demora-de-envio-de-insumo-chines-20012021
+2021-01-21 00:31:25,699          root     INFO: New article tracked: http://noticias.r7.com/brasil/maia-e-alcolumbre-cumprimentam-joe-biden-e-kamala-harris-por-posse-20012021
+2021-01-21 00:31:25,710          root     INFO: New article tracked: http://noticias.r7.com/brasil/psb-declara-apoio-a-tebet-pacheco-soma-nove-partidos-20012021
+2021-01-21 00:31:25,721          root     INFO: New article tracked: http://noticias.r7.com/brasil/stj-da-48h-para-autoridades-do-am-explicarem-falta-de-oxigenio-20012021
+2021-01-21 00:31:25,734          root     INFO: New article tracked: http://noticias.r7.com/brasil/voces-vao-perder-diz-bolsonaro-sobre-criticos-ao-seu-governo-20012021
+2021-01-21 00:31:25,745          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibovespa-avanca-com-posse-de-biden-e-previsao-de-mais-estimulos-20012021
+2021-01-21 00:31:25,755          root     INFO: Finished script
