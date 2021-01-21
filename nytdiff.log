@@ -1,14 +1,23 @@
-2021-01-21 18:07:17,920          root     INFO: Starting script
-2021-01-21 18:07:18,741          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-21 18:07:19,396          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-21 18:07:20,052          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-21 18:07:20,383          root     INFO: Parsing R7 - Brasil
-2021-01-21 18:07:20,739          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/01/brancos-e-pretos-nao-estao-no-mesmo-barco-na-pandemia-de-coronavirus.shtml
-2021-01-21 18:07:22,842          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pacheco-diz-nao-ver-ameaca-a-democracia-e-que-erros-de-bolsonaro-na-pandemia-sao-escusaveis.shtml
-2021-01-21 18:07:22,853          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/candidato-de-bolsonaro-na-camara-lira-investe-em-reduto-de-doria-e-diz-ter-maioria-em-sp.shtml
-2021-01-21 18:07:22,864          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48965
-2021-01-21 18:07:27,298          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/bolsonaro-falava-em-fluxo-de-hermanos-agora-brasileiros-gostariam-de-ir-para-a-argentina.shtml
-2021-01-21 18:07:27,302          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/live-sobre-vacinacao-reune-cinco-ex-ministros-da-saude-e-luiza-helena-trajano.shtml
-2021-01-21 18:07:27,306          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/01/vandalismo-constitucional.shtml
-2021-01-21 18:07:27,309          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/brandao-do-banco-do-brasil-fez-carreira-na-banca-privada-e-comprou-risco-bolsonaro.shtml
-2021-01-21 18:07:27,310          root     INFO: Finished script
+2021-01-21 19:13:41,380          root     INFO: Starting script
+2021-01-21 19:13:42,404          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-21 19:13:43,233          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-21 19:13:44,073          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-21 19:13:44,285          root     INFO: Parsing R7 - Brasil
+2021-01-21 19:13:44,622          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2021/01/aviso.shtml
+2021-01-21 19:13:46,589          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/cidadania-recorre-de-decisao-que-barrou-processo-de-expulsao-de-deputado-que-apalpou-colega.shtml
+2021-01-21 19:13:46,601          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/stf-tem-de-pedir-o-var-na-acusacao-de-catimba.shtml
+2021-01-21 19:13:46,653          root     INFO: O deputado federal Arthur Lira (PP-AL), candidato à presidência da Câmara dos Deputados, afirmou nesta quinta-feira (21) ter o apoio da maioria dos deputados de São Paulo, apesar de o governador João Doria (PSDB) apoiar seu adversário na disputa, o deputado federal Baleia Rossi (MDB-SP). "São Paulo está do nosso lado. Quem vota na eleição da Câmara são os deputados. Os governadores, eu respeito institucionalmente, cada um pode tomar a sua posição, mas a campanha é feita internamente", afirmou Lira, que criticou o adversário. "Minha campanha é a proposta do nós, acabando com a centralização da pauta e a governabilidade do eu." Lira, candidato apoiado pelo presidente Jair Bolsonaro (sem partido), está percorrendo o país em campanha e chegou à capital paulista na quarta <del>(20), quando jantou com</del> <ins>(20). Segundo seus aliados, um jantar de apoio reuniu</ins> 43 deputados federais de São Paulo e outros 31 de outros estados. Estavam presentes ainda os presidentes de seis partidos -PSD, PP, PL, Podemos, Avante e Republicanos. Leia mais (01/21/2021 - 14h40)
+2021-01-21 19:13:48,991          root     INFO: Media ready with ids: 1352333593599737858
+2021-01-21 19:13:48,992          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-21 19:13:48,992          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/candidato-de-bolsonaro-na-camara-lira-investe-em-reduto-de-doria-e-diz-ter-maioria-em-sp.shtml
+2021-01-21 19:13:49,000          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/candidato-de-bolsonaro-na-camara-lira-investe-em-reduto-de-doria-e-diz-ter-maioria-em-sp.shtml
+2021-01-21 19:13:49,225          root     INFO: Replying to: 1352333596170858496
+2021-01-21 19:13:49,544          root     INFO: Id to store: 1352333597156507651
+2021-01-21 19:13:53,299          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-abre-516-inqueritos-sobre-fraudes-do-auxilio-emergencial-21012021
+2021-01-21 19:13:53,311          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-zera-tarifa-de-importacao-de-pneus-para-transporte-de-cargas-20012021
+2021-01-21 19:13:53,320          root     INFO: New article tracked: http://noticias.r7.com/brasil/pfizer-vai-vacinar-14-mil-voluntarios-que-receberam-placebo-no-brasil-20012021
+2021-01-21 19:13:53,335          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-acumula-e-premio-sera-de-r-22-milhoes-no-sabado-20012021
+2021-01-21 19:13:53,670          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/aliado-de-lira-diz-que-maia-marcou-eleicao-um-dia-depois-do-senado-para-fazer-mais-uma-maldade.shtml
+2021-01-21 19:13:53,676          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/01/progressistas-que-celebram-cancelamento-da-conta-de-trump-buscam-pacto-com-plutocratas-da-internet.shtml
+2021-01-21 19:13:53,681          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/o-xaveco-do-chavismo-bolsonariano.shtml
+2021-01-21 19:13:53,681          root     INFO: Finished script
