@@ -1,21 +1,12 @@
-2021-01-21 14:49:57,313          root     INFO: Starting script
-2021-01-21 14:49:58,157          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-21 14:49:58,634          root    ERROR: RSS
-Traceback (most recent call last):
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/feedparser.py", line 398, in __getattr__
-    return self.__getitem__(key)
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/feedparser.py", line 356, in __getitem__
-    return dict.__getitem__(self, key)
-KeyError: 'title'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "nytdiff.py", line 527, in main
-    rss.parse_rss()
-  File "nytdiff.py", line 491, in parse_rss
-    logging.info('Parsing %s', r.feed.title)
-  File "/home/runner/work/NYTdiff/NYTdiff/venv/lib/python3.6/site-packages/feedparser.py", line 400, in __getattr__
-    raise AttributeError("object has no attribute '%s'" % key)
-AttributeError: object has no attribute 'title'
-2021-01-21 14:49:58,635          root     INFO: Finished script
+2021-01-21 15:18:52,764          root     INFO: Starting script
+2021-01-21 15:18:53,586          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-21 15:18:54,264          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-21 15:18:54,929          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-21 15:18:55,169          root     INFO: Parsing R7 - Brasil
+2021-01-21 15:18:57,581          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/colapso-em-manaus-e-derrapada-na-vacinacao-fortalecem-base-juridica-para-impeachment-de-bolsonaro.shtml
+2021-01-21 15:18:57,597          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/veja-23-situacoes-em-que-bolsonaro-pode-ter-cometido-crime-de-responsabilidade.shtml
+2021-01-21 15:18:57,610          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/marcio-franca-aciona-justica-contra-corte-na-isencao-do-ipva-de-pessoas-com-deficiencia-feito-por-doria.shtml
+2021-01-21 15:19:01,764          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/assassinato-de-rubens-paiva-na-ditadura-faz-50-anos-com-punicao-ainda-sob-debate-na-justica.shtml
+2021-01-21 15:19:01,768          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/01/carta-branca-para-a-morte.shtml
+2021-01-21 15:19:01,772          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/bolsonaro-esta-mais-perto-de-eleger-aliados-no-congresso-do-que-do-impeachment.shtml
+2021-01-21 15:19:01,772          root     INFO: Finished script
