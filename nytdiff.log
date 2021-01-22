@@ -1,6 +1,21 @@
-2021-01-22 16:49:38,686          root     INFO: Starting script
-2021-01-22 16:49:39,524          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-22 16:49:40,207          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-22 16:49:40,876          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-22 16:49:41,000          root     INFO: Parsing R7 - Brasil
-2021-01-22 16:49:47,846          root     INFO: Finished script
+2021-01-22 18:09:50,275          root     INFO: Starting script
+2021-01-22 18:09:51,127          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-22 18:09:51,806          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-22 18:09:52,486          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-22 18:09:52,626          root     INFO: Parsing R7 - Brasil
+2021-01-22 18:09:53,007          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/o-brasil-tem-um-problema-tirar-jair-bolsonaro-da-presidencia-da-republica.shtml
+2021-01-22 18:09:55,386          root     INFO: PSOL na Câmara se divide, Erundina fala em fisiologismo e <del>Melchionna rebate</del> <ins>deputados rebatem</ins>
+2021-01-22 18:09:57,116          root     INFO: Media ready with ids: 1352679910423359489
+2021-01-22 18:09:57,116          root     INFO: Text to tweet: Modificação do Título
+2021-01-22 18:09:57,116          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/psol-na-camara-se-divide-erundina-fala-em-fisiologismo-e-melchionna-rebate.shtml
+2021-01-22 18:09:57,126          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/psol-na-camara-se-divide-erundina-fala-em-fisiologismo-e-melchionna-rebate.shtml
+2021-01-22 18:09:57,318          root     INFO: Replying to: 1352679911929077760
+2021-01-22 18:09:57,570          root     INFO: Id to store: 1352679912726007815
+2021-01-22 18:09:57,578          root     INFO: <del>Deputadas</del> <ins>Deputados</ins> do PSOL protagonizaram briga pública nas redes sociais nesta sexta-feira (22). Luiza Erundina (SP) criticou colegas que vêm defendendo que o partido apoie o candidato Baleia Rossi (MDB-SP) na disputa pela presidência da Câmara. A deputada será a representante do PSOL no pleito. Leia mais (01/22/2021 - 12h18)
+2021-01-22 18:09:59,393          root     INFO: Media ready with ids: 1352679919793426438
+2021-01-22 18:09:59,393          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-22 18:09:59,393          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/psol-na-camara-se-divide-erundina-fala-em-fisiologismo-e-melchionna-rebate.shtml
+2021-01-22 18:09:59,405          root     INFO: Replying to: 1352679912726007815
+2021-01-22 18:09:59,661          root     INFO: Id to store: 1352679921466880000
+2021-01-22 18:10:04,539          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/o-que-fazer-com-as-sandices-que-lideres-populistas-publicam-nas-redes-sociais.shtml
+2021-01-22 18:10:04,540          root     INFO: Finished script
