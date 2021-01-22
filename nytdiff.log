@@ -1,6 +1,10 @@
-2021-01-22 12:57:59,978          root     INFO: Starting script
-2021-01-22 12:58:00,781          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-22 12:58:01,432          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-22 12:58:02,084          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-22 12:58:02,324          root     INFO: Parsing R7 - Brasil
-2021-01-22 12:58:08,883          root     INFO: Finished script
+2021-01-22 14:03:03,195          root     INFO: Starting script
+2021-01-22 14:03:04,025          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-22 14:03:04,703          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-22 14:03:05,382          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-22 14:03:05,603          root     INFO: Parsing R7 - Brasil
+2021-01-22 14:03:05,936          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/01/justica-penhora-contas-da-renascer-por-divida-de-r-931-mil-a-familia-de-vitima-de-desabamento.shtml
+2021-01-22 14:03:08,091          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/vitrine-e-reacao-a-crise-politica-mandatos-coletivos-avancam-mas-ainda-sob-resistencia.shtml
+2021-01-22 14:03:12,521          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/brandao-do-banco-do-brasil-fez-carreira-na-banca-privada-e-comprou-risco-bolsonaro.shtml
+2021-01-22 14:03:12,525          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/proximo-de-bolsonaro-e-acusado-de-rifar-temer-pacheco-busca-sair-da-sombra-de-alcolumbre.shtml
+2021-01-22 14:03:12,526          root     INFO: Finished script
