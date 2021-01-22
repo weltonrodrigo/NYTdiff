@@ -1,8 +1,28 @@
-2021-01-22 00:12:54,344          root     INFO: Starting script
-2021-01-22 00:12:55,138          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-22 00:12:55,784          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-22 00:12:56,431          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-22 00:12:56,516          root     INFO: Parsing R7 - Brasil
-2021-01-22 00:12:58,838          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/forcas-armadas-jamais-aceitariam-convite-de-autoridade-de-plantao-contra-liberdade-diz-bolsonaro.shtml
-2021-01-22 00:13:02,953          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/se-voce-e-mulher-e-faz-politica-sabe-que-vai-sofrer-assedio-diz-isa-penna-apalpada-por-deputado-em-sp.shtml
-2021-01-22 00:13:02,954          root     INFO: Finished script
+2021-01-22 02:05:07,902          root     INFO: Starting script
+2021-01-22 02:05:08,929          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-22 02:05:09,763          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-22 02:05:10,588          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-22 02:05:10,819          root     INFO: Parsing R7 - Brasil
+2021-01-22 02:05:13,182          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/barroso-cita-pandemia-e-derruba-sancoes-a-quem-nao-votou-na-eleicao-decisao-vai-ao-plenario-do-tse.shtml
+2021-01-22 02:05:17,401          root     INFO: Removed http://noticias.r7.com/brasil/lula-teve-covid-em-viagem-e-ficou-de-quarentena-em-cuba-21012021
+2021-01-22 02:05:17,406          root     INFO: Removed http://noticias.r7.com/brasil/covid-19-multiplica-pedidos-de-impeachment-contra-bolsonaro-21012021
+2021-01-22 02:05:17,409          root     INFO: Removed http://noticias.r7.com/brasil/planalto-mantem-aposta-na-diplomacia-para-vacinas-21012021
+2021-01-22 02:05:17,412          root     INFO: Removed http://noticias.r7.com/brasil/camara-oficializa-adesao-de-psl-a-bloco-de-arthur-lira-pp-al-21012021
+2021-01-22 02:05:17,417          root     INFO: Removed http://noticias.r7.com/brasil/governadores-pedem-a-bolsonaro-dialogo-com-a-china-por-vacina-21012021
+2021-01-22 02:05:17,420          root     INFO: Removed http://noticias.r7.com/brasil/numero-de-divorcios-cresce-15-em-2020-apontam-cartorios-21012021
+2021-01-22 02:05:17,424          root     INFO: Removed http://noticias.r7.com/brasil/deputados-defendem-volta-presencial-de-votacoes-na-camara-21012021
+2021-01-22 02:05:17,427          root     INFO: Removed http://noticias.r7.com/brasil/estou-com-a-minha-certeira-de-vacinacao-em-dia-diz-bolsonaro-21012021
+2021-01-22 02:05:17,431          root     INFO: Removed http://noticias.r7.com/brasil/aplicativo-que-indica-tratamento-precoce-contra-covid-19-sai-do-ar-21012021
+2021-01-22 02:05:17,434          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-parabeniza-chanceler-apos-liberacao-de-vacina-pela-india-21012021
+2021-01-22 02:05:17,438          root     INFO: Removed http://noticias.r7.com/brasil/governo-brasileiro-diz-que-incendio-em-fabrica-nao-afeta-vacinas-21012021
+2021-01-22 02:05:17,441          root     INFO: Removed http://noticias.r7.com/brasil/desviar-vacinas-contra-covid-19-e-crime-alerta-ministerio-publico-21012021
+2021-01-22 02:05:17,445          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/general-pazuello-recorreu-a-humor-da-caserna-que-quase-sempre-ironiza-a-ignorancia.shtml
+2021-01-22 02:05:17,448          root     INFO: Removed http://noticias.r7.com/brasil/lira-fala-em-tripe-de-reformas-e-diz-que-votar-orcamento-e-prioridade-21012021
+2021-01-22 02:05:17,452          root     INFO: Removed http://noticias.r7.com/brasil/crescimento-do-e-commerce-e-tema-do-estudio-news-de-sabado-21012021
+2021-01-22 02:05:17,456          root     INFO: Removed http://noticias.r7.com/brasil/homem-que-jogou-carro-contra-o-palacio-da-justica-vira-reu-21012021
+2021-01-22 02:05:17,459          root     INFO: Removed http://noticias.r7.com/brasil/diplomacia-indiana-confirma-envio-iminente-de-vacinas-diz-deputado-21012021
+2021-01-22 02:05:17,463          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-promete-impedir-que-estrangeiros-comprem-terra-no-pais-21012021
+2021-01-22 02:05:17,467          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-nega-afastamento-de-pazuello-do-ministerio-da-saude-21012021
+2021-01-22 02:05:17,471          root     INFO: Removed http://noticias.r7.com/brasil/mp-ve-sobrepreco-em-compra-de-mascaras-pelo-governo-de-sp-21012021
+2021-01-22 02:05:17,475          root     INFO: Removed http://noticias.r7.com/brasil/bahia-mp-pede-multa-a-prefeito-que-furou-fila-da-coronavac-21012021
+2021-01-22 02:05:17,476          root     INFO: Finished script
