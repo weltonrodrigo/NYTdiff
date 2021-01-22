@@ -1,35 +1,8 @@
-2021-01-22 20:05:30,586          root     INFO: Starting script
-2021-01-22 20:05:31,413          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-22 20:05:32,090          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-22 20:05:32,759          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-22 20:05:32,921          root     INFO: Parsing R7 - Brasil
-2021-01-22 20:05:35,197          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10629
-2021-01-22 20:05:35,493          root     INFO: Inquéritos <del>com base</del> <ins>como o do advogado</ins> na <del>Lei de Segurança Nacional</del> <ins>CNN</ins> duplicam e batem novo recorde sob Bolsonaro
-2021-01-22 20:05:37,294          root     INFO: Media ready with ids: 1352709019169923077
-2021-01-22 20:05:37,294          root     INFO: Text to tweet: Modificação do Título
-2021-01-22 20:05:37,295          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/inqueritos-com-base-na-lei-de-seguranca-nacional-duplicam-e-batem-novo-recorde-sob-bolsonaro.shtml
-2021-01-22 20:05:37,307          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/inqueritos-com-base-na-lei-de-seguranca-nacional-duplicam-e-batem-novo-recorde-sob-bolsonaro.shtml
-2021-01-22 20:05:37,475          root     INFO: Replying to: 1352709021057363969
-2021-01-22 20:05:37,696          root     INFO: Id to store: 1352709021770391552
-2021-01-22 20:05:41,068          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-faz-reuniao-com-laboratorio-sobre-uso-de-vacina-russa-no-brasil-22012021
-2021-01-22 20:05:41,079          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputadas-repudiam-retaliacoes-por-dissidencia-na-eleicao-22012021
-2021-01-22 20:05:41,090          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-19-projeto-obriga-deputados-e-senadores-a-tomar-vacina-22012021
-2021-01-22 20:05:41,104          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiza-ve-indicios-de-desvio-e-exige-lista-de-vacinados-em-manaus-22012021
-2021-01-22 20:05:41,116          root     INFO: New article tracked: http://noticias.r7.com/brasil/projeto-preve-prorrogacao-do-auxilio-ate-abril-com-valor-de-r-600-22012021
-2021-01-22 20:05:41,127          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacinas-empresarios-criticam-governo-e-oferecem-ajuda-22012021
-2021-01-22 20:05:41,141          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-relacoes-com-china-nunca-ficaram-estremecidas-22012021
-2021-01-22 20:05:41,157          root     INFO: New article tracked: http://noticias.r7.com/brasil/dilma-rousseff-recusa-convite-de-joao-doria-para-ser-vacinada-22012021
-2021-01-22 20:05:41,168          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-cumprimenta-kamala-harris-vice-presidente-dos-eua-22012021
-2021-01-22 20:05:41,179          root     INFO: New article tracked: http://noticias.r7.com/brasil/rosa-weber-nega-pedido-e-mantem-eleicao-presencial-na-camara-22012021
-2021-01-22 20:05:41,189          root     INFO: New article tracked: http://noticias.r7.com/brasil/familia-de-manaus-usa-oxigenio-em-casa-para-salvar-pai-da-covid-19-22012021
-2021-01-22 20:05:41,201          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacinas-vindas-da-india-serao-enviadas-a-estados-amanha-22012021
-2021-01-22 20:05:41,212          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-reafirma-que-vacinacao-contra-covid-nao-sera-obrigatoria-22012021
-2021-01-22 20:05:41,223          root     INFO: New article tracked: http://noticias.r7.com/brasil/governadores-concordam-em-doar-5-das-vacinas-para-o-amazonas-22012021
-2021-01-22 20:05:41,235          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-preocupacoes-internas-ibovespa-engata-4-queda-seguida-22012021
-2021-01-22 20:05:41,248          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-diz-que-furar-fila-da-vacina-e-falta-de-carater-e-de-solidariedade-22012021
-2021-01-22 20:05:41,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-segue-em-alta-com-riscos-fiscais-e-cautela-no-exterior-22012021
-2021-01-22 20:05:41,271          root     INFO: New article tracked: http://noticias.r7.com/brasil/fazer-propaganda-e-uma-coisa-fazer-a-coisa-acontecer-e-outra-22012021
-2021-01-22 20:05:41,283          root     INFO: New article tracked: http://noticias.r7.com/brasil/teto-de-gastos-nao-pode-ficar-intocado-afirma-rodrigo-pacheco-22012021
-2021-01-22 20:05:41,293          root     INFO: New article tracked: http://noticias.r7.com/brasil/confianca-da-industria-cai-35-pontos-na-previa-de-janeiro-diz-fgv-22012021
-2021-01-22 20:05:41,307          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/vacinacao-adiantada-de-doria-divide-governadores-e-gera-mal-estar-em-grupo-de-whatsapp.shtml
-2021-01-22 20:05:41,308          root     INFO: Finished script
+2021-01-22 20:52:29,771          root     INFO: Starting script
+2021-01-22 20:52:30,585          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-22 20:52:31,238          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-22 20:52:31,889          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-22 20:52:32,209          root     INFO: Parsing R7 - Brasil
+2021-01-22 20:52:32,566          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2021/01/entao-ficamos-assim-humanos-tomam-vacina-e-minions-tomam-cloroquina.shtml
+2021-01-22 20:52:38,715          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/o-xaveco-do-chavismo-bolsonariano.shtml
+2021-01-22 20:52:38,719          root     INFO: Finished script
