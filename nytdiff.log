@@ -1,10 +1,19 @@
-2021-01-23 15:43:15,300          root     INFO: Starting script
-2021-01-23 15:43:16,139          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-23 15:43:16,811          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-23 15:43:17,473          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-23 15:43:17,744          root     INFO: Parsing R7 - Brasil
-2021-01-23 15:43:18,127          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/01/goleada-do-inter-no-sao-paulo-nao-e-causa-mas-consequencia-de-erros-politicos.shtml
-2021-01-23 15:43:20,159          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-apoio-da-oposicao-manifestantes-fazem-carreatas-por-impeachment-pelo-pais.shtml
-2021-01-23 15:43:24,429          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/a-amazonia-e-um-bem-de-todos.shtml
-2021-01-23 15:43:24,433          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/01/a-necrochanchada.shtml
-2021-01-23 15:43:24,434          root     INFO: Finished script
+2021-01-23 16:17:57,480          root     INFO: Starting script
+2021-01-23 16:17:58,319          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-23 16:17:58,994          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-23 16:17:59,671          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-23 16:17:59,769          root     INFO: Parsing R7 - Brasil
+2021-01-23 16:18:02,203          root     INFO: Com apoio da oposição, manifestantes fazem carreatas por impeachment <del>pelo país</del> <ins>de Bolsonaro</ins>
+2021-01-23 16:18:03,999          root     INFO: Media ready with ids: 1353014141364162560
+2021-01-23 16:18:04,000          root     INFO: Text to tweet: Modificação do Título
+2021-01-23 16:18:04,000          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-apoio-da-oposicao-manifestantes-fazem-carreatas-por-impeachment-pelo-pais.shtml
+2021-01-23 16:18:04,008          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-apoio-da-oposicao-manifestantes-fazem-carreatas-por-impeachment-pelo-pais.shtml
+2021-01-23 16:18:04,212          root     INFO: Replying to: 1353014142937001984
+2021-01-23 16:18:04,430          root     INFO: Id to store: 1353014143692001280
+2021-01-23 16:18:04,438          root     INFO: Manifestantes pediram neste sábado (23) o impeachment do presidente Jair Bolsonaro <del>(sem partido)</del> em Brasília. O ato foi impulsionado por partidos de esquerda. Leia mais (01/23/2021 - 12h40)
+2021-01-23 16:18:06,182          root     INFO: Media ready with ids: 1353014150495150084
+2021-01-23 16:18:06,183          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-23 16:18:06,183          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-apoio-da-oposicao-manifestantes-fazem-carreatas-por-impeachment-pelo-pais.shtml
+2021-01-23 16:18:06,192          root     INFO: Replying to: 1353014143692001280
+2021-01-23 16:18:06,452          root     INFO: Id to store: 1353014152080584711
+2021-01-23 16:18:10,768          root     INFO: Finished script
