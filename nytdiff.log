@@ -1,18 +1,18 @@
-2021-01-23 06:04:59,845          root     INFO: Starting script
-2021-01-23 06:05:00,874          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-23 06:05:01,711          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-23 06:05:02,559          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-23 06:05:02,796          root     INFO: Parsing R7 - Brasil
-2021-01-23 06:05:09,536          root     INFO: New article tracked: http://noticias.r7.com/brasil/lote-com-2-milhoes-de-doses-da-vacina-da-oxford-chega-ao-rio-22012021
-2021-01-23 06:05:09,550          root     INFO: New article tracked: http://noticias.r7.com/brasil/5-das-vacinas-da-astrazeneca-vao-para-o-amazonas-garante-pazuello-22012021
-2021-01-23 06:05:09,562          root     INFO: New article tracked: http://noticias.r7.com/brasil/chefe-de-vigilancia-em-saude-do-amazonas-morre-vitima-da-covid-19-22012021
-2021-01-23 06:05:09,574          root     INFO: New article tracked: http://noticias.r7.com/brasil/lote-de-2-milhoes-de-doses-da-vacina-da-oxford-segue-para-o-rio-22012021
-2021-01-23 06:05:09,588          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-recomenda-que-governo-do-am-endureca-medidas-de-isolamento-22012021
-2021-01-23 06:05:09,598          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-envia-a-aras-denuncia-contra-bolsonaro-e-pazuello-por-crise-no-am-22012021
-2021-01-23 06:05:09,609          root     INFO: New article tracked: http://noticias.r7.com/brasil/31-aprovam-e-40-reprovam-governo-bolsonaro-diz-pesquisa-22012021
-2021-01-23 06:05:09,620          root     INFO: New article tracked: http://noticias.r7.com/brasil/area-tecnica-da-anvisa-alerta-sobre-intervalo-entre-doses-da-vacina-22012021
-2021-01-23 06:05:09,631          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-inclui-caminhoneiros-em-grupo-prioritario-para-vacinacao-22012021
-2021-01-23 06:05:09,641          root     INFO: New article tracked: http://noticias.r7.com/brasil/estados-enviam-carta-ao-congresso-pedindo-nova-parcela-do-auxilio-22012021
-2021-01-23 06:05:09,652          root     INFO: New article tracked: http://noticias.r7.com/brasil/aviao-com-2-milhoes-de-doses-de-vacina-da-india-chega-ao-brasil-22012021
-2021-01-23 06:05:09,664          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-diz-que-nao-monitora-jornalistas-e-parlamentares-22012021
-2021-01-23 06:05:09,855          root     INFO: Finished script
+2021-01-23 06:55:26,377          root     INFO: Starting script
+2021-01-23 06:55:27,192          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-23 06:55:27,847          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-23 06:55:28,499          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-23 06:55:28,625          root     INFO: Parsing R7 - Brasil
+2021-01-23 06:55:35,214          root     INFO: Removed http://noticias.r7.com/brasil/governo-inclui-caminhoneiros-em-grupo-prioritario-para-vacinacao-22012021
+2021-01-23 06:55:35,223          root     INFO: Removed http://noticias.r7.com/brasil/stf-envia-a-aras-denuncia-contra-bolsonaro-e-pazuello-por-crise-no-am-22012021
+2021-01-23 06:55:35,235          root     INFO: Removed http://noticias.r7.com/brasil/5-das-vacinas-da-astrazeneca-vao-para-o-amazonas-garante-pazuello-22012021
+2021-01-23 06:55:35,247          root     INFO: Removed http://noticias.r7.com/brasil/pgr-recomenda-que-governo-do-am-endureca-medidas-de-isolamento-22012021
+2021-01-23 06:55:35,252          root     INFO: Removed http://noticias.r7.com/brasil/estados-enviam-carta-ao-congresso-pedindo-nova-parcela-do-auxilio-22012021
+2021-01-23 06:55:35,264          root     INFO: Removed http://noticias.r7.com/brasil/area-tecnica-da-anvisa-alerta-sobre-intervalo-entre-doses-da-vacina-22012021
+2021-01-23 06:55:35,283          root     INFO: Removed http://noticias.r7.com/brasil/governo-diz-que-nao-monitora-jornalistas-e-parlamentares-22012021
+2021-01-23 06:55:35,297          root     INFO: Removed http://noticias.r7.com/brasil/chefe-de-vigilancia-em-saude-do-amazonas-morre-vitima-da-covid-19-22012021
+2021-01-23 06:55:35,307          root     INFO: Removed http://noticias.r7.com/brasil/31-aprovam-e-40-reprovam-governo-bolsonaro-diz-pesquisa-22012021
+2021-01-23 06:55:35,314          root     INFO: Removed http://noticias.r7.com/brasil/aviao-com-2-milhoes-de-doses-de-vacina-da-india-chega-ao-brasil-22012021
+2021-01-23 06:55:35,327          root     INFO: Removed http://noticias.r7.com/brasil/lote-de-2-milhoes-de-doses-da-vacina-da-oxford-segue-para-o-rio-22012021
+2021-01-23 06:55:35,340          root     INFO: Removed http://noticias.r7.com/brasil/lote-com-2-milhoes-de-doses-da-vacina-da-oxford-chega-ao-rio-22012021
+2021-01-23 06:55:35,341          root     INFO: Finished script
