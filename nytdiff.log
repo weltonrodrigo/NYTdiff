@@ -1,8 +1,20 @@
-2021-01-23 17:49:07,509          root     INFO: Starting script
-2021-01-23 17:49:08,533          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-23 17:49:09,366          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-23 17:49:10,189          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-23 17:49:10,403          root     INFO: Parsing R7 - Brasil
-2021-01-23 17:49:12,625          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/com-falta-de-leitos-de-uti-e-fila-de-espera-rondonia-pede-ajuda-para-transferir-pacientes-com-covid-19.shtml
-2021-01-23 17:49:16,503          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-condiciona-democracia-a-militares-em-meio-a-pressao-apos-derrota-da-vacina.shtml
-2021-01-23 17:49:16,505          root     INFO: Finished script
+2021-01-23 18:39:05,059          root     INFO: Starting script
+2021-01-23 18:39:06,291          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-23 18:39:07,126          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-23 18:39:07,974          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-23 18:39:08,205          root     INFO: Parsing R7 - Brasil
+2021-01-23 18:39:10,711          root     INFO: Com apoio da oposição, manifestantes fazem carreatas por impeachment <del>pelo país</del> <ins>de Bolsonaro</ins>
+2021-01-23 18:39:12,717          root     INFO: Media ready with ids: 1353049660953423872
+2021-01-23 18:39:12,718          root     INFO: Text to tweet: Modificação do Título
+2021-01-23 18:39:12,718          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-apoio-da-oposicao-manifestantes-fazem-carreatas-por-impeachment-pelo-pais.shtml
+2021-01-23 18:39:12,728          root     INFO: Replying to: 1353014152080584711
+2021-01-23 18:39:13,047          root     INFO: Id to store: 1353049663469998081
+2021-01-23 18:39:13,060          root     INFO: Manifestantes pediram neste sábado (23) o impeachment do presidente Jair Bolsonaro <del>(sem partido)</del> em <del>Brasília.</del> <ins>carreatas em capitais pelo país.</ins> O ato foi impulsionado por partidos de esquerda. Leia mais (01/23/2021 - 12h40)
+2021-01-23 18:39:17,941          root     INFO: Media ready with ids: 1353049683585871874
+2021-01-23 18:39:17,942          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-23 18:39:17,942          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-apoio-da-oposicao-manifestantes-fazem-carreatas-por-impeachment-pelo-pais.shtml
+2021-01-23 18:39:17,949          root     INFO: Replying to: 1353049663469998081
+2021-01-23 18:39:18,227          root     INFO: Id to store: 1353049685318131719
+2021-01-23 18:39:18,374          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/mst-diz-que-topa-se-juntar-a-huck-e-ayres-britto-contra-bolsonaro.shtml
+2021-01-23 18:39:22,611          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/mst-quer-se-juntar-a-huck-e-ayres-britto-contra-bolsonaro.shtml
+2021-01-23 18:39:22,613          root     INFO: Finished script
