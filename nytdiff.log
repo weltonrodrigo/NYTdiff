@@ -1,21 +1,18 @@
-2021-01-23 05:11:02,688          root     INFO: Starting script
-2021-01-23 05:11:03,910          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-23 05:11:04,574          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-23 05:11:05,235          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-23 05:11:05,493          root     INFO: Parsing R7 - Brasil
-2021-01-23 05:11:05,877          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/01/a-vale-e-o-crime-de-brumadinho.shtml
-2021-01-23 05:11:05,895          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/01/teu-presente-te-condena-general.shtml
-2021-01-23 05:11:08,124          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/abin-adquire-peca-de-decoracao-em-pedra-no-formato-do-mapa-do-brasil-por-r-34-mil.shtml
-2021-01-23 05:11:08,140          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/lira-vai-a-bahia-buscar-votos-e-tem-reuniao-marcada-com-acm-neto.shtml
-2021-01-23 05:11:08,241          root     INFO: Erundina pede a Maia <del>a</del> realização de debate 'democrático' entre <del>os</del> candidatos à Presidência da Câmara
-2021-01-23 05:11:09,989          root     INFO: Media ready with ids: 1352846310278389760
-2021-01-23 05:11:09,989          root     INFO: Text to tweet: Modificação do Título
-2021-01-23 05:11:09,990          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/erundina-pede-a-maia-a-realizacao-de-debate-democratico-entre-os-candidatos-a-presidencia-da-camara.shtml
-2021-01-23 05:11:09,998          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/erundina-pede-a-maia-a-realizacao-de-debate-democratico-entre-os-candidatos-a-presidencia-da-camara.shtml
-2021-01-23 05:11:10,170          root     INFO: Replying to: 1352846311956086784
-2021-01-23 05:11:10,383          root     INFO: Id to store: 1352846312618790912
-2021-01-23 05:11:15,063          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/01/faz-sentido-em-falar-em-golpe-branco-ou-autogolpe.shtml
-2021-01-23 05:11:15,067          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2021/01/como-resolver-a-crise-das-plataformas.shtml
-2021-01-23 05:11:15,070          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/doria-manda-bolsonaro-calar-a-boca-em-portugues-e-em-ingles-no-twitter.shtml
-2021-01-23 05:11:15,074          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/justica-autoriza-abertura-de-investigacao-criminal-contra-deputado-que-apalpou-isa-penna-na-alesp.shtml
-2021-01-23 05:11:15,075          root     INFO: Finished script
+2021-01-23 06:04:59,845          root     INFO: Starting script
+2021-01-23 06:05:00,874          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-23 06:05:01,711          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-23 06:05:02,559          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-23 06:05:02,796          root     INFO: Parsing R7 - Brasil
+2021-01-23 06:05:09,536          root     INFO: New article tracked: http://noticias.r7.com/brasil/lote-com-2-milhoes-de-doses-da-vacina-da-oxford-chega-ao-rio-22012021
+2021-01-23 06:05:09,550          root     INFO: New article tracked: http://noticias.r7.com/brasil/5-das-vacinas-da-astrazeneca-vao-para-o-amazonas-garante-pazuello-22012021
+2021-01-23 06:05:09,562          root     INFO: New article tracked: http://noticias.r7.com/brasil/chefe-de-vigilancia-em-saude-do-amazonas-morre-vitima-da-covid-19-22012021
+2021-01-23 06:05:09,574          root     INFO: New article tracked: http://noticias.r7.com/brasil/lote-de-2-milhoes-de-doses-da-vacina-da-oxford-segue-para-o-rio-22012021
+2021-01-23 06:05:09,588          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-recomenda-que-governo-do-am-endureca-medidas-de-isolamento-22012021
+2021-01-23 06:05:09,598          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-envia-a-aras-denuncia-contra-bolsonaro-e-pazuello-por-crise-no-am-22012021
+2021-01-23 06:05:09,609          root     INFO: New article tracked: http://noticias.r7.com/brasil/31-aprovam-e-40-reprovam-governo-bolsonaro-diz-pesquisa-22012021
+2021-01-23 06:05:09,620          root     INFO: New article tracked: http://noticias.r7.com/brasil/area-tecnica-da-anvisa-alerta-sobre-intervalo-entre-doses-da-vacina-22012021
+2021-01-23 06:05:09,631          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-inclui-caminhoneiros-em-grupo-prioritario-para-vacinacao-22012021
+2021-01-23 06:05:09,641          root     INFO: New article tracked: http://noticias.r7.com/brasil/estados-enviam-carta-ao-congresso-pedindo-nova-parcela-do-auxilio-22012021
+2021-01-23 06:05:09,652          root     INFO: New article tracked: http://noticias.r7.com/brasil/aviao-com-2-milhoes-de-doses-de-vacina-da-india-chega-ao-brasil-22012021
+2021-01-23 06:05:09,664          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-diz-que-nao-monitora-jornalistas-e-parlamentares-22012021
+2021-01-23 06:05:09,855          root     INFO: Finished script
