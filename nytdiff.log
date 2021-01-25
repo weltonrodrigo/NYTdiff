@@ -1,13 +1,8 @@
-2021-01-25 19:37:33,171          root     INFO: Starting script
-2021-01-25 19:37:34,016          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-25 19:37:34,695          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-25 19:37:35,373          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-25 19:37:35,521          root     INFO: Parsing R7 - Brasil
-2021-01-25 19:37:38,316          root     INFO: O vice-presidente Hamilton Mourão (PRTB) atribuiu a queda de popularidade do presidente Jair Bolsonaro (sem partido) a "bastante ruído" envolvendo os problemas na vacinação contra Covid-19 no Brasil e à crise de falta de oxigênio em <del>Manaus (AM).</del> <ins>Manaus.</ins> Leia mais (01/25/2021 - 10h44)
-2021-01-25 19:37:40,165          root     INFO: Media ready with ids: 1353789148545609729
-2021-01-25 19:37:40,166          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-25 19:37:40,166          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/para-mourao-ruido-sobre-vacinacao-e-crise-em-manaus-derrubou-popularidade-de-bolsonaro.shtml
-2021-01-25 19:37:40,174          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/para-mourao-ruido-sobre-vacinacao-e-crise-em-manaus-derrubou-popularidade-de-bolsonaro.shtml
-2021-01-25 19:37:40,360          root     INFO: Replying to: 1353789150315630592
-2021-01-25 19:37:40,603          root     INFO: Id to store: 1353789151099953153
-2021-01-25 19:37:45,362          root     INFO: Finished script
+2021-01-25 20:22:42,289          root     INFO: Starting script
+2021-01-25 20:22:43,103          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-25 20:22:43,762          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-25 20:22:44,415          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-25 20:22:44,640          root     INFO: Parsing R7 - Brasil
+2021-01-25 20:22:45,014          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/01/com-hino-da-vacina-mc-fioti-fez-mais-pela-saude-do-brasil-do-que-pazuello-e-bolsonaro.shtml
+2021-01-25 20:22:51,479          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/estradas-no-limbo.shtml
+2021-01-25 20:22:51,480          root     INFO: Finished script
