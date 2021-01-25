@@ -1,22 +1,7 @@
-2021-01-25 04:26:59,000          root     INFO: Starting script
-2021-01-25 04:26:59,838          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-25 04:27:00,484          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-25 04:27:01,139          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-25 04:27:01,302          root     INFO: Parsing R7 - Brasil
-2021-01-25 04:27:03,680          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/para-tentar-frear-mdb-alcolumbre-cede-e-oferece-ao-partido-candidatura-a-vice-presidencia-do-senado.shtml
-2021-01-25 04:27:03,738          root     INFO: <del>Juíz</del> <ins>Juiz</ins> faz discurso negacionista e contra imprensa em posse como presidente do Tribunal de Justiça de Mato Grosso
-2021-01-25 04:27:05,445          root     INFO: Media ready with ids: 1353559994260713472
-2021-01-25 04:27:05,446          root     INFO: Text to tweet: Modificação do Título
-2021-01-25 04:27:05,446          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/juiz-faz-discurso-negacionista-e-contra-imprensa-em-posse-como-presidente-do-tribunal-de-justica-de-mato-grosso.shtml
-2021-01-25 04:27:05,454          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/juiz-faz-discurso-negacionista-e-contra-imprensa-em-posse-como-presidente-do-tribunal-de-justica-de-mato-grosso.shtml
-2021-01-25 04:27:05,616          root     INFO: Replying to: 1353559995619696640
-2021-01-25 04:27:05,834          root     INFO: Id to store: 1353559996336910336
-2021-01-25 04:27:10,052          root     INFO: Removed http://noticias.r7.com/brasil/grupos-do-fora-dilma-fazem-carreatas-fora-bolsonaro-24012021
-2021-01-25 04:27:10,058          root     INFO: Removed http://noticias.r7.com/brasil/apos-pedido-por-inquerito-pazuello-vai-a-manaus-sem-data-para-voltar-24012021
-2021-01-25 04:27:10,064          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/aras-avisa-que-vai-aliviar-para-bolsonaro-mas-e-o-que-insinua-que-preocupa.shtml
-2021-01-25 04:27:10,068          root     INFO: Removed http://noticias.r7.com/brasil/fotos/carreata-em-sao-paulo-pede-impeachment-de-bolsonaro-24012021
-2021-01-25 04:27:10,072          root     INFO: Removed http://noticias.r7.com/brasil/vacina-de-oxford-sera-distribuida-ao-longo-da-semana-em-sp-24012021
-2021-01-25 04:27:10,076          root     INFO: Removed http://noticias.r7.com/brasil/caminhoes-com-carga-de-oxigenio-de-rondonia-chegam-a-manaus-24012021
-2021-01-25 04:27:10,081          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-faz-passeio-de-moto-e-ignora-queda-de-popularidade-24012021
-2021-01-25 04:27:10,085          root     INFO: Removed http://noticias.r7.com/brasil/estados-e-cidades-burlam-regra-para-reajustar-salario-de-servidores-24012021
-2021-01-25 04:27:10,086          root     INFO: Finished script
+2021-01-25 05:34:40,387          root     INFO: Starting script
+2021-01-25 05:34:41,218          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-25 05:34:41,889          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-25 05:34:42,567          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-25 05:34:42,812          root     INFO: Parsing R7 - Brasil
+2021-01-25 05:34:49,486          root     INFO: New article tracked: http://noticias.r7.com/brasil/baleia-diz-que-analisara-com-equilibrio-pedidos-de-impeachment-24012021
+2021-01-25 05:34:49,895          root     INFO: Finished script
