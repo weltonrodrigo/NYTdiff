@@ -1,25 +1,6 @@
-2021-01-25 12:01:01,700          root     INFO: Starting script
-2021-01-25 12:01:02,903          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-25 12:01:03,723          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-25 12:01:04,534          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-25 12:01:04,760          root     INFO: Parsing R7 - Brasil
-2021-01-25 12:01:07,041          root     INFO: Balanço feito pela organização não governamental Repórteres Sem <del>Fronteira</del> <ins>Fronteiras</ins> mostra que, em 2020, o presidente Jair Bolsonaro e pessoas do seu entorno promoveram 580 ofensas a profissionais e empresas de comunicação. Leia mais (01/25/2021 - 06h01)
-2021-01-25 12:01:08,849          root     INFO: Media ready with ids: 1353674261228093440
-2021-01-25 12:01:08,849          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-25 12:01:08,849          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/relatorio-aponta-que-familia-bolsonaro-lidera-ranking-de-ataque-a-imprensa-em-2020.shtml
-2021-01-25 12:01:08,856          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/relatorio-aponta-que-familia-bolsonaro-lidera-ranking-de-ataque-a-imprensa-em-2020.shtml
-2021-01-25 12:01:09,169          root     INFO: Replying to: 1353674263304220672
-2021-01-25 12:01:09,464          root     INFO: Id to store: 1353674264285687811
-2021-01-25 12:01:09,535          root     INFO: <del>Juíz</del> <ins>Novo presidente</ins> faz discurso negacionista e contra imprensa em <del>posse como presidente do Tribunal</del> <ins>evento</ins> de <del>Justiça</del> <ins>posse do TJ</ins> de Mato Grosso <ins>do Sul</ins>
-2021-01-25 12:01:14,353          root     INFO: Media ready with ids: 1353674284271607809
-2021-01-25 12:01:14,353          root     INFO: Text to tweet: Modificação do Título
-2021-01-25 12:01:14,353          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/juiz-faz-discurso-negacionista-e-contra-imprensa-em-posse-como-presidente-do-tribunal-de-justica-de-mato-grosso.shtml
-2021-01-25 12:01:14,360          root     INFO: Replying to: 1353559996336910336
-2021-01-25 12:01:14,626          root     INFO: Id to store: 1353674286003843073
-2021-01-25 12:01:14,633          root     INFO: O <del>juiz federal</del> <ins>desembargador</ins> Carlos Eduardo Contar fez discurso negacionista na posse como presidente do Tribunal de Justiça de Mato Grosso do Sul. Leia mais (01/25/2021 - 00h16)
-2021-01-25 12:01:16,356          root     INFO: Media ready with ids: 1353674292781842432
-2021-01-25 12:01:16,357          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-25 12:01:16,357          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/juiz-faz-discurso-negacionista-e-contra-imprensa-em-posse-como-presidente-do-tribunal-de-justica-de-mato-grosso.shtml
-2021-01-25 12:01:16,364          root     INFO: Replying to: 1353674286003843073
-2021-01-25 12:01:16,627          root     INFO: Id to store: 1353674294421811202
-2021-01-25 12:01:20,671          root     INFO: Finished script
+2021-01-25 12:58:35,339          root     INFO: Starting script
+2021-01-25 12:58:36,197          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-25 12:58:36,864          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-25 12:58:37,521          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-25 12:58:37,743          root     INFO: Parsing R7 - Brasil
+2021-01-25 12:58:43,929          root     INFO: Finished script
