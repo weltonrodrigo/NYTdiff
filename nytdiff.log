@@ -1,6 +1,15 @@
-2021-01-26 20:00:28,092          root     INFO: Starting script
-2021-01-26 20:00:29,149          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-26 20:00:29,815          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-26 20:00:30,486          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-26 20:00:30,703          root     INFO: Parsing R7 - Brasil
-2021-01-26 20:00:37,275          root     INFO: Finished script
+2021-01-26 20:28:03,743          root     INFO: Starting script
+2021-01-26 20:28:04,586          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-26 20:28:05,393          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-26 20:28:06,072          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-26 20:28:06,296          root     INFO: Parsing R7 - Brasil
+2021-01-26 20:28:06,646          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/ciencia-e-valores-na-atencao-a-saude-mental-no-brasil.shtml
+2021-01-26 20:28:08,827          root     INFO: Em uma reunião fechada ocorrida nesta terça-feira (26), o presidente da <del>Câmara dos Deputados,</del> <ins>Câmara,</ins> Rodrigo Maia (DEM-RJ), manifestou insatisfação com o presidente do seu partido, ACM <del>Neto (BA),</del> <ins>Neto,</ins> expôs a dificuldade interna da legenda em se unir em torno de seu candidato <del>à sua vaga,</del> <ins>ao comando da Casa,</ins> Baleia Rossi (MDB-SP), e chegou a dizer que o DEM corre o risco de ganhar um apelido dado <del>por adversários</del> ao PT no passado, o "partido da boquinha". Leia mais (01/26/2021 - 16h42)
+2021-01-26 20:28:10,666          root     INFO: Media ready with ids: 1354164247358545920
+2021-01-26 20:28:10,667          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-26 20:28:10,667          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/maia-manifesta-insatisfacao-com-acm-neto-e-diz-que-dem-pode-virar-partido-da-boquinha.shtml
+2021-01-26 20:28:10,677          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/maia-manifesta-insatisfacao-com-acm-neto-e-diz-que-dem-pode-virar-partido-da-boquinha.shtml
+2021-01-26 20:28:10,855          root     INFO: Replying to: 1354164249011097603
+2021-01-26 20:28:11,155          root     INFO: Id to store: 1354164249724145665
+2021-01-26 20:28:15,773          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cida-bento/2021/01/vacinacao-e-esquizofrenia.shtml
+2021-01-26 20:28:15,774          root     INFO: Finished script
