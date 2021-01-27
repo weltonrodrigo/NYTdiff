@@ -1,10 +1,28 @@
-2021-01-27 20:32:31,447          root     INFO: Starting script
-2021-01-27 20:32:32,471          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-27 20:32:33,291          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-27 20:32:34,111          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-27 20:32:34,360          root     INFO: Parsing R7 - Brasil
-2021-01-27 20:32:34,728          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/01/bolsonaro-tem-paladar-infantil-mas-gastar-r-15-milhoes-em-doce-foi-demais.shtml
-2021-01-27 20:32:36,663          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48981
-2021-01-27 20:32:40,705          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/vitrine-e-reacao-a-crise-politica-mandatos-coletivos-avancam-mas-ainda-sob-resistencia.shtml
-2021-01-27 20:32:40,709          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/investigue-se.shtml
-2021-01-27 20:32:40,710          root     INFO: Finished script
+2021-01-27 20:56:48,430          root     INFO: Starting script
+2021-01-27 20:56:49,441          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-27 20:56:50,268          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-27 20:56:51,103          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-27 20:56:51,490          root     INFO: Parsing R7 - Brasil
+2021-01-27 20:56:51,883          root     INFO: <ins>Governo</ins> Bolsonaro <del>tem paladar infantil, mas gastar</del> <ins>gasta</ins> R$ <del>15 milhões</del> <ins>1 milhão</ins> em <del>doce foi demais</del> <ins>alfafa; coluna explica por quê</ins>
+2021-01-27 20:56:53,765          root     INFO: Media ready with ids: 1354533862370660355
+2021-01-27 20:56:53,765          root     INFO: Text to tweet: Modificação do Título
+2021-01-27 20:56:53,765          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/01/bolsonaro-tem-paladar-infantil-mas-gastar-r-15-milhoes-em-doce-foi-demais.shtml
+2021-01-27 20:56:53,776          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/01/bolsonaro-tem-paladar-infantil-mas-gastar-r-15-milhoes-em-doce-foi-demais.shtml
+2021-01-27 20:56:54,054          root     INFO: Replying to: 1354533864434257920
+2021-01-27 20:56:54,407          root     INFO: Id to store: 1354533865482838019
+2021-01-27 20:56:56,497          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10637
+2021-01-27 20:56:56,606          root     INFO: Bolsonaro admite interferência <del>do Planalto</del> em eleição <del>para comando da</del> <ins>na</ins> Câmara <ins>e retoma planos de reforma ministerial</ins>
+2021-01-27 20:56:58,364          root     INFO: Media ready with ids: 1354533881811251206
+2021-01-27 20:56:58,365          root     INFO: Text to tweet: Modificação do Título
+2021-01-27 20:56:58,365          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-admite-interferencia-do-planalto-em-eleicao-para-comando-da-camara.shtml
+2021-01-27 20:56:58,373          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-admite-interferencia-do-planalto-em-eleicao-para-comando-da-camara.shtml
+2021-01-27 20:56:58,610          root     INFO: Replying to: 1354533883530915845
+2021-01-27 20:56:58,903          root     INFO: Id to store: 1354533884571099138
+2021-01-27 20:56:58,909          root     INFO: O presidente Jair Bolsonaro (sem partido) <ins>admitiu interferência do Poder Executivo na eleição para o comando da Câmara e</ins> disse <del>nesta quarta-feira (27) que,</del> <ins>que</ins> "se Deus <del>quiser",</del> <ins>quiser" ele</ins> vai <del>"influir</del> <ins>influir</ins> na presidência da <del>Câmara".</del> <ins>Casa.</ins> Leia mais (01/27/2021 - 11h33)
+2021-01-27 20:57:00,746          root     INFO: Media ready with ids: 1354533891651088385
+2021-01-27 20:57:00,747          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-27 20:57:00,747          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-admite-interferencia-do-planalto-em-eleicao-para-comando-da-camara.shtml
+2021-01-27 20:57:00,756          root     INFO: Replying to: 1354533884571099138
+2021-01-27 20:57:01,049          root     INFO: Id to store: 1354533893546913792
+2021-01-27 20:57:05,251          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/ignorantes-politicos-nao-vao-comprometer-relacoes-diz-federacao-de-trabalhadores-chineses-sobre-bolsonaristas.shtml
+2021-01-27 20:57:05,252          root     INFO: Finished script
