@@ -1,6 +1,10 @@
-2021-01-27 20:01:18,945          root     INFO: Starting script
-2021-01-27 20:01:19,741          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-27 20:01:20,380          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-27 20:01:21,021          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-27 20:01:21,343          root     INFO: Parsing R7 - Brasil
-2021-01-27 20:01:27,471          root     INFO: Finished script
+2021-01-27 20:32:31,447          root     INFO: Starting script
+2021-01-27 20:32:32,471          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-27 20:32:33,291          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-27 20:32:34,111          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-27 20:32:34,360          root     INFO: Parsing R7 - Brasil
+2021-01-27 20:32:34,728          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/01/bolsonaro-tem-paladar-infantil-mas-gastar-r-15-milhoes-em-doce-foi-demais.shtml
+2021-01-27 20:32:36,663          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48981
+2021-01-27 20:32:40,705          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/vitrine-e-reacao-a-crise-politica-mandatos-coletivos-avancam-mas-ainda-sob-resistencia.shtml
+2021-01-27 20:32:40,709          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/investigue-se.shtml
+2021-01-27 20:32:40,710          root     INFO: Finished script
