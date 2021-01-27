@@ -1,6 +1,13 @@
-2021-01-27 09:30:36,610          root     INFO: Starting script
-2021-01-27 09:30:37,634          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-27 09:30:38,470          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-27 09:30:39,304          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-27 09:30:39,716          root     INFO: Parsing R7 - Brasil
-2021-01-27 09:30:46,532          root     INFO: Finished script
+2021-01-27 10:00:16,126          root     INFO: Starting script
+2021-01-27 10:00:16,943          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-27 10:00:17,609          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-27 10:00:18,273          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-27 10:00:18,588          root     INFO: Parsing R7 - Brasil
+2021-01-27 10:00:19,060          root     INFO: Após ligar para os governantes de Canadá, México, Reino Unido e França e antes de falar com o da Rússia, Joe Biden telefonou para Angela Merkel (abaixo, em vídeo da agência DPA). Em seguida, a líder alemã falou ao Fórum <del>Econômico.</del> <ins>Econômico Mundial.</ins> Leia mais (01/26/2021 - 23h15)
+2021-01-27 10:00:20,923          root     INFO: Media ready with ids: 1354368636736184322
+2021-01-27 10:00:20,924          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-27 10:00:20,924          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/01/joe-biden-telefona-mas-angela-merkel-fica-do-lado-de-xi-jinping.shtml
+2021-01-27 10:00:20,932          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/01/joe-biden-telefona-mas-angela-merkel-fica-do-lado-de-xi-jinping.shtml
+2021-01-27 10:00:21,130          root     INFO: Replying to: 1354368638615252993
+2021-01-27 10:00:21,342          root     INFO: Id to store: 1354368639307292674
+2021-01-27 10:00:28,293          root     INFO: Finished script
