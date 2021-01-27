@@ -1,37 +1,20 @@
-2021-01-27 16:58:26,627          root     INFO: Starting script
-2021-01-27 16:58:27,657          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-27 16:58:28,489          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-27 16:58:29,327          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-27 16:58:29,578          root     INFO: Parsing R7 - Brasil
-2021-01-27 16:58:32,316          root     INFO: <del>Candidato</del> <ins>Líder do centrão e candidato</ins> do presidente Jair Bolsonaro (sem partido) à Presidência da Câmara, o deputado Arthur Lira <del>(PP-AL), líder do Centrão,</del> <ins>(PP-AL)</ins> demonstrou resistência à criação de <ins>uma</ins> CPI (Comissão Parlamentar de Inquérito) para apurar a gestão do governo <del>da</del> <ins>federal na</ins> pandemia <del>de</del> <ins>da</ins> Covid-19. Leia mais (01/27/2021 - 12h37)
-2021-01-27 16:58:34,301          root     INFO: Media ready with ids: 1354473885782183938
-2021-01-27 16:58:34,301          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-27 16:58:34,302          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/lira-resiste-a-criar-cpi-da-covid-e-diz-que-pandemia-nao-pode-ser-motivo-de-embate-politico.shtml
-2021-01-27 16:58:34,312          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/lira-resiste-a-criar-cpi-da-covid-e-diz-que-pandemia-nao-pode-ser-motivo-de-embate-politico.shtml
-2021-01-27 16:58:34,582          root     INFO: Replying to: 1354473888139378696
-2021-01-27 16:58:34,870          root     INFO: Id to store: 1354473889104076803
-2021-01-27 16:58:34,913          root     INFO: Com base na decisão recente do STF (Supremo Tribunal Federal) de barrar <ins>a</ins> reeleição dentro <del>da</del> <ins>de uma</ins> mesma legislatura para o comando da Câmara dos Deputados e do Senado, o ministro Alexandre de Moraes concedeu liminar <del>(provisória)</del> <ins>(decisão provisória)</ins> para impedir a recondução dos integrantes da Mesa Diretora da Assembleia Legislativa de Roraima. Leia mais (01/27/2021 - 12h30)
-2021-01-27 16:58:36,884          root     INFO: Media ready with ids: 1354473896578310144
-2021-01-27 16:58:36,884          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-27 16:58:36,885          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/decisao-do-stf-que-barra-reeleicao-no-congresso-atinge-assembleias-nos-estados.shtml
-2021-01-27 16:58:36,893          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/decisao-do-stf-que-barra-reeleicao-no-congresso-atinge-assembleias-nos-estados.shtml
-2021-01-27 16:58:37,121          root     INFO: Replying to: 1354473898797051906
-2021-01-27 16:58:37,438          root     INFO: Id to store: 1354473899757625346
-2021-01-27 16:58:41,996          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-suspende-exigencia-de-prova-de-vida-de-aposentados-27012021
-2021-01-27 16:58:42,008          root     INFO: New article tracked: http://noticias.r7.com/brasil/amazonia-mourao-diz-que-esforcos-do-brasil-nao-foram-suficientes-27012021
-2021-01-27 16:58:42,027          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-polemica-com-compras-portal-da-transparencia-sai-do-ar-27012021
-2021-01-27 16:58:42,038          root     INFO: New article tracked: http://noticias.r7.com/brasil/acao-da-pf-combate-exploracao-ilegal-de-madeira-na-amazonia-27012021
-2021-01-27 16:58:42,049          root     INFO: New article tracked: http://noticias.r7.com/brasil/incendio-na-boate-kiss-completa-oito-anos-sem-julgamento-dos-reus-27012021
-2021-01-27 16:58:42,060          root     INFO: New article tracked: http://noticias.r7.com/brasil/heleno-e-araujo-terao-que-explicar-acao-da-abin-na-cupula-do-clima-27012021
-2021-01-27 16:58:42,118          root     INFO: New article tracked: http://noticias.r7.com/brasil/shopping-e-mais-seguro-que-praia-diz-associacao-de-lojas-sobre-covid-27012021
-2021-01-27 16:58:42,154          root     INFO: Atual ministro da Cidadania deve ocupar a Secretaria-Geral da Presidência, abrindo espaço para aliados na Esplanada <del>dos Ministérios</del>
-2021-01-27 16:58:43,951          root     INFO: Media ready with ids: 1354473926739570701
-2021-01-27 16:58:43,952          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-27 16:58:43,952          root     INFO: Article id: http://noticias.r7.com/brasil/onyx-deve-voltar-ao-planalto-na-reforma-ministerial-de-bolsonaro-27012021
-2021-01-27 16:58:43,960          root     INFO: Tweeting url: http://noticias.r7.com/brasil/onyx-deve-voltar-ao-planalto-na-reforma-ministerial-de-bolsonaro-27012021
-2021-01-27 16:58:44,217          root     INFO: Replying to: 1354473928551518213
-2021-01-27 16:58:44,513          root     INFO: Id to store: 1354473929545539594
-2021-01-27 16:58:44,529          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-daniel-silveira-e-retirado-de-voo-por-nao-usar-mascara-27012021
-2021-01-27 16:58:44,760          root     INFO: Removed http://noticias.r7.com/brasil/deputado-daniel-silveira-e-retirado-de-voo-por-nao-usar-mascara-26012021
-2021-01-27 16:58:44,764          root     INFO: Removed http://noticias.r7.com/brasil/shopping-e-mais-seguro-que-praia-diz-associacao-sobre-covid-27012021
-2021-01-27 16:58:44,766          root     INFO: Finished script
+2021-01-27 17:34:45,082          root     INFO: Starting script
+2021-01-27 17:34:45,884          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-27 17:34:46,530          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-27 17:34:47,184          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-27 17:34:47,350          root     INFO: Parsing R7 - Brasil
+2021-01-27 17:34:53,884          root     INFO: Removed http://noticias.r7.com/brasil/bndes-firma-acordos-para-preparar-privatizacao-de-26-parques-26012021
+2021-01-27 17:34:53,888          root     INFO: Removed http://noticias.r7.com/brasil/heleno-e-araujo-terao-que-explicar-acao-da-abin-na-cupula-do-clima-27012021
+2021-01-27 17:34:53,894          root     INFO: Removed http://noticias.r7.com/brasil/onyx-deve-voltar-ao-planalto-na-reforma-ministerial-de-bolsonaro-27012021
+2021-01-27 17:34:53,898          root     INFO: Removed http://noticias.r7.com/brasil/stf-libera-prisao-domiciliar-ao-blogueiro-oswaldo-eustaquio-26012021
+2021-01-27 17:34:53,901          root     INFO: Removed http://noticias.r7.com/brasil/contra-fura-fila-defensoria-recomenda-controle-de-vacinacao-26012021
+2021-01-27 17:34:53,929          root     INFO: Removed http://noticias.r7.com/brasil/com-popularidade-em-queda-bolsonaro-muda-tom-sobre-vacinas-27012021
+2021-01-27 17:34:53,934          root     INFO: Removed http://noticias.r7.com/brasil/governo-suspende-exigencia-de-prova-de-vida-de-aposentados-27012021
+2021-01-27 17:34:53,938          root     INFO: Removed http://noticias.r7.com/brasil/deputado-daniel-silveira-e-retirado-de-voo-por-nao-usar-mascara-27012021
+2021-01-27 17:34:53,942          root     INFO: Removed http://noticias.r7.com/brasil/amazonia-mourao-diz-que-esforcos-do-brasil-nao-foram-suficientes-27012021
+2021-01-27 17:34:53,946          root     INFO: Removed http://noticias.r7.com/brasil/acao-da-pf-combate-exploracao-ilegal-de-madeira-na-amazonia-27012021
+2021-01-27 17:34:53,949          root     INFO: Removed http://noticias.r7.com/brasil/manaus-afirma-que-esta-corrigindo-falhas-em-lista-de-vacinacao-27012021
+2021-01-27 17:34:53,954          root     INFO: Removed http://noticias.r7.com/brasil/apos-polemica-com-compras-portal-da-transparencia-sai-do-ar-27012021
+2021-01-27 17:34:53,958          root     INFO: Removed http://noticias.r7.com/brasil/incendio-na-boate-kiss-completa-oito-anos-sem-julgamento-dos-reus-27012021
+2021-01-27 17:34:53,963          root     INFO: Removed http://noticias.r7.com/brasil/shopping-e-mais-seguro-que-praia-diz-associacao-de-lojas-sobre-covid-27012021
+2021-01-27 17:34:53,964          root     INFO: Finished script
