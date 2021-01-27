@@ -1,24 +1,6 @@
-2021-01-27 11:32:09,737          root     INFO: Starting script
-2021-01-27 11:32:10,526          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-27 11:32:11,167          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-27 11:32:11,809          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-27 11:32:11,995          root     INFO: Parsing R7 - Brasil
-2021-01-27 11:32:12,340          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/tolerar-o-intoleravel-produz-horrores-como-o-holocausto.shtml
-2021-01-27 11:32:12,497          root     INFO: O presidente Joe Biden terá êxito? Como muitas outras pessoas, nos Estados Unidos e no exterior, eu ansiosamente espero que sim. Mas primeiro precisamos concordar com o que significa "êxito". Significa, acima de tudo, restaurar a ordem na política deste país. Isso exige tornar politicamente insustentável a atual direção do Partido Republicano. Sem isso, a esperança de restaurar a estabilidade democrática no país e um papel importante para os EUA no mundo poderá ser vã. Em seu animador discurso de posse na semana passada, tão diferente das arengas sobre a "chacina <del>americana"</del> <ins>norte-americana"</ins> de seu antecessor, Biden declarou: "Aprendemos mais uma vez que a democracia é preciosa. A democracia é frágil. E nesta hora, caros amigos, a democracia prevaleceu". Ele estava certo, sobre todos os pontos. Mas "esta hora" não é para sempre. As forças que levaram Donald Trump ao poder não desapareceram. Como disse o especialista em populismo Jan-Werner Muller, da Universidade Princeton, "Populistas mais inteligentes que Trump sufocam a democracia lentamente com maquinações legais e constitucionais". Trump pode ter partido. O trumpismo não. Como comentou o escritor indiano Kapil Komireddi, a fusão das grandes empresas com a intolerância é poderosa. Os ricos dos Estados Unidos certamente prosperaram. Leia mais (01/26/2021 - 23h15)
-2021-01-27 11:32:14,632          root     INFO: Media ready with ids: 1354391762559762432
-2021-01-27 11:32:14,632          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-27 11:32:14,632          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2021/01/competencia-e-a-melhor-estrategia-de-joe-biden.shtml
-2021-01-27 11:32:14,640          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2021/01/competencia-e-a-melhor-estrategia-de-joe-biden.shtml
-2021-01-27 11:32:14,824          root     INFO: Replying to: 1354391764736606208
-2021-01-27 11:32:15,122          root     INFO: Id to store: 1354391765495795717
-2021-01-27 11:32:15,155          root     INFO: Alysson <del>Paulinelli,</del> <ins>Paolinelli,</ins> ex-ministro da Agricultura, foi oficialmente indicado para o Prêmio Nobel da Paz. Em fevereiro e em março, o comitê norueguês do Nobel faz uma seleção de todos os indicados e, a partir daí, trabalha com uma lista pequena. Em outubro, delibera sobre o vencedor, que será contemplado em dezembro, em Oslo, na Noruega. Nesta terça-feira (26), o comitê organizador da indicação de Paolinelli apresentou o número de entidades e de academias que participaram dessa indicação. Foram 119 cartas de indicação, que vieram de 24 países. Os dados mostram, ainda, a indicação feita por 51 academias e 41 entidades ligadas ao agronegócio. O ex-ministro afirmou nesta terça-feira que o país precisava de uma agricultura voltada para os trópicos na década de 1970, com o objetivo de sair da dependência externa de alimentos. Leia mais (01/26/2021 - 23h15)
-2021-01-27 11:32:17,188          root     INFO: Media ready with ids: 1354391773108449282
-2021-01-27 11:32:17,189          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-27 11:32:17,189          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/indicado-para-o-nobel-da-paz-diz-que-a-ciencia-deve-coordenar-as-acoes.shtml
-2021-01-27 11:32:17,196          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/indicado-para-o-nobel-da-paz-diz-que-a-ciencia-deve-coordenar-as-acoes.shtml
-2021-01-27 11:32:17,378          root     INFO: Replying to: 1354391775423696901
-2021-01-27 11:32:17,584          root     INFO: Id to store: 1354391776073805826
-2021-01-27 11:32:19,223          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-divisao-no-dem-maia-liga-para-general-ramos-e-faz-reclamacao-exaltada-de-interferencia-do-planalto.shtml
-2021-01-27 11:32:22,957          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/comando-do-psl-que-apoia-baleia-ve-debandada-pro-lira-e-centrao-ja-espera-efeito-manada.shtml
-2021-01-27 11:32:22,961          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/01/carta-de-bolsonaro-a-biden-foi-lida-as-gargalhadas.shtml
-2021-01-27 11:32:22,962          root     INFO: Finished script
+2021-01-27 11:57:15,368          root     INFO: Starting script
+2021-01-27 11:57:16,175          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-27 11:57:16,836          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-27 11:57:17,500          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-27 11:57:17,763          root     INFO: Parsing R7 - Brasil
+2021-01-27 11:57:23,883          root     INFO: Finished script
