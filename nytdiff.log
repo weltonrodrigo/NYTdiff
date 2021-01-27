@@ -1,19 +1,25 @@
-2021-01-27 01:07:58,163          root     INFO: Starting script
-2021-01-27 01:07:58,973          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-27 01:07:59,636          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-27 01:08:00,283          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-27 01:08:00,460          root     INFO: Parsing R7 - Brasil
-2021-01-27 01:08:02,667          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2021/01/o-que-significa-a-abertura-de-um-inquerito-contra-pazuello-no-stf-ouca-podcast.shtml
-2021-01-27 01:08:06,155          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-acumula-e-pode-pagar-r-4-milhoes-na-quinta-feira-26012021
-2021-01-27 01:08:06,164          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiza-suspende-entrega-de-vacina-a-manaus-por-falta-de-transparencia-26012021
-2021-01-27 01:08:06,172          root     INFO: New article tracked: http://noticias.r7.com/brasil/9-pessoas-que-viajaram-de-manaus-podem-ter-levado-variante-ao-pr-26012021
-2021-01-27 01:08:06,181          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacinas-ja-distribuidas-atendem-7-dos-publicos-prioritarios-26012021
-2021-01-27 01:08:06,189          root     INFO: New article tracked: http://noticias.r7.com/brasil/congressistas-pedem-que-tcu-investigue-compras-do-executivo-26012021
-2021-01-27 01:08:06,198          root     INFO: New article tracked: http://noticias.r7.com/brasil/tcu-da-cinco-dias-para-governo-explicar-uso-de-cloroquina-no-sus-26012021
-2021-01-27 01:08:06,206          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-do-mp-repudia-desrespeito-a-filas-na-vacinacao-26012021
-2021-01-27 01:08:06,214          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicao-na-camara-lira-e-rossi-articulam-votos-na-reta-final-26012021
-2021-01-27 01:08:06,222          root     INFO: New article tracked: http://noticias.r7.com/brasil/investigado-pazuello-diz-que-crise-no-am-foi-situacao-desconhecida-26012021
-2021-01-27 01:08:06,231          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-pede-informacoes-sobre-vacina-russa-a-laboratorio-26012021
-2021-01-27 01:08:06,238          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-diretrizes-fantasiosas-adiaram-a-volta-as-aulas-26012021
-2021-01-27 01:08:06,409          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/stf-tem-de-pedir-o-var-na-acusacao-de-catimba.shtml
-2021-01-27 01:08:06,410          root     INFO: Finished script
+2021-01-27 02:11:05,131          root     INFO: Starting script
+2021-01-27 02:11:05,955          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-27 02:11:06,637          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-27 02:11:07,314          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-27 02:11:07,538          root     INFO: Parsing R7 - Brasil
+2021-01-27 02:11:09,904          root     INFO: Em plenária realizada nesta terça-feira (26), movimentos e partidos de oposição decidiram convocar uma megacarreata contra Jair Bolsonaro e apoiar a criação de uma CPI para investigar a atuação do ministro da <del>Saúde</del> <ins>Saúde,</ins> Eduardo <del>Pazuello</del> <ins>Pazuello,</ins> durante a pandemia. Leia mais (01/26/2021 - 14h24)
+2021-01-27 02:11:11,695          root     INFO: Media ready with ids: 1354250570517905411
+2021-01-27 02:11:11,696          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-27 02:11:11,696          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/movimentos-de-oposicao-convocam-megacarreata-contra-bolsonaro-e-decidem-apoiar-cpi-da-pandemia.shtml
+2021-01-27 02:11:11,709          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/movimentos-de-oposicao-convocam-megacarreata-contra-bolsonaro-e-decidem-apoiar-cpi-da-pandemia.shtml
+2021-01-27 02:11:11,884          root     INFO: Replying to: 1354250572120158208
+2021-01-27 02:11:12,218          root     INFO: Id to store: 1354250573265195009
+2021-01-27 02:11:16,218          root     INFO: Removed http://noticias.r7.com/brasil/investigado-pazuello-diz-que-crise-no-am-foi-situacao-desconhecida-26012021
+2021-01-27 02:11:16,222          root     INFO: Removed http://noticias.r7.com/brasil/eleicao-na-camara-lira-e-rossi-articulam-votos-na-reta-final-26012021
+2021-01-27 02:11:16,226          root     INFO: Removed http://noticias.r7.com/brasil/congressistas-pedem-que-tcu-investigue-compras-do-executivo-26012021
+2021-01-27 02:11:16,229          root     INFO: Removed http://noticias.r7.com/brasil/conselho-do-mp-repudia-desrespeito-a-filas-na-vacinacao-26012021
+2021-01-27 02:11:16,233          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2021/01/o-que-significa-a-abertura-de-um-inquerito-contra-pazuello-no-stf-ouca-podcast.shtml
+2021-01-27 02:11:16,237          root     INFO: Removed http://noticias.r7.com/brasil/juiza-suspende-entrega-de-vacina-a-manaus-por-falta-de-transparencia-26012021
+2021-01-27 02:11:16,240          root     INFO: Removed http://noticias.r7.com/brasil/analise-diretrizes-fantasiosas-adiaram-a-volta-as-aulas-26012021
+2021-01-27 02:11:16,243          root     INFO: Removed http://noticias.r7.com/brasil/9-pessoas-que-viajaram-de-manaus-podem-ter-levado-variante-ao-pr-26012021
+2021-01-27 02:11:16,247          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-acumula-e-pode-pagar-r-4-milhoes-na-quinta-feira-26012021
+2021-01-27 02:11:16,251          root     INFO: Removed http://noticias.r7.com/brasil/vacinas-ja-distribuidas-atendem-7-dos-publicos-prioritarios-26012021
+2021-01-27 02:11:16,254          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-pede-informacoes-sobre-vacina-russa-a-laboratorio-26012021
+2021-01-27 02:11:16,258          root     INFO: Removed http://noticias.r7.com/brasil/tcu-da-cinco-dias-para-governo-explicar-uso-de-cloroquina-no-sus-26012021
+2021-01-27 02:11:16,259          root     INFO: Finished script
