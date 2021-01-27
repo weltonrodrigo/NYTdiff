@@ -1,20 +1,10 @@
-2021-01-27 17:34:45,082          root     INFO: Starting script
-2021-01-27 17:34:45,884          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-27 17:34:46,530          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-27 17:34:47,184          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-27 17:34:47,350          root     INFO: Parsing R7 - Brasil
-2021-01-27 17:34:53,884          root     INFO: Removed http://noticias.r7.com/brasil/bndes-firma-acordos-para-preparar-privatizacao-de-26-parques-26012021
-2021-01-27 17:34:53,888          root     INFO: Removed http://noticias.r7.com/brasil/heleno-e-araujo-terao-que-explicar-acao-da-abin-na-cupula-do-clima-27012021
-2021-01-27 17:34:53,894          root     INFO: Removed http://noticias.r7.com/brasil/onyx-deve-voltar-ao-planalto-na-reforma-ministerial-de-bolsonaro-27012021
-2021-01-27 17:34:53,898          root     INFO: Removed http://noticias.r7.com/brasil/stf-libera-prisao-domiciliar-ao-blogueiro-oswaldo-eustaquio-26012021
-2021-01-27 17:34:53,901          root     INFO: Removed http://noticias.r7.com/brasil/contra-fura-fila-defensoria-recomenda-controle-de-vacinacao-26012021
-2021-01-27 17:34:53,929          root     INFO: Removed http://noticias.r7.com/brasil/com-popularidade-em-queda-bolsonaro-muda-tom-sobre-vacinas-27012021
-2021-01-27 17:34:53,934          root     INFO: Removed http://noticias.r7.com/brasil/governo-suspende-exigencia-de-prova-de-vida-de-aposentados-27012021
-2021-01-27 17:34:53,938          root     INFO: Removed http://noticias.r7.com/brasil/deputado-daniel-silveira-e-retirado-de-voo-por-nao-usar-mascara-27012021
-2021-01-27 17:34:53,942          root     INFO: Removed http://noticias.r7.com/brasil/amazonia-mourao-diz-que-esforcos-do-brasil-nao-foram-suficientes-27012021
-2021-01-27 17:34:53,946          root     INFO: Removed http://noticias.r7.com/brasil/acao-da-pf-combate-exploracao-ilegal-de-madeira-na-amazonia-27012021
-2021-01-27 17:34:53,949          root     INFO: Removed http://noticias.r7.com/brasil/manaus-afirma-que-esta-corrigindo-falhas-em-lista-de-vacinacao-27012021
-2021-01-27 17:34:53,954          root     INFO: Removed http://noticias.r7.com/brasil/apos-polemica-com-compras-portal-da-transparencia-sai-do-ar-27012021
-2021-01-27 17:34:53,958          root     INFO: Removed http://noticias.r7.com/brasil/incendio-na-boate-kiss-completa-oito-anos-sem-julgamento-dos-reus-27012021
-2021-01-27 17:34:53,963          root     INFO: Removed http://noticias.r7.com/brasil/shopping-e-mais-seguro-que-praia-diz-associacao-de-lojas-sobre-covid-27012021
-2021-01-27 17:34:53,964          root     INFO: Finished script
+2021-01-27 18:11:23,170          root     INFO: Starting script
+2021-01-27 18:11:24,191          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-27 18:11:25,022          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-27 18:11:25,845          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-27 18:11:26,078          root     INFO: Parsing R7 - Brasil
+2021-01-27 18:11:26,508          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-impeachment-e-a-economia.shtml
+2021-01-27 18:11:26,522          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/oportunidades-a-mao.shtml
+2021-01-27 18:11:32,896          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/01/adoracao-da-imprensa-por-joe-biden-ja-causa-aversao.shtml
+2021-01-27 18:11:32,899          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/aplicativo-da-desfacatez.shtml
+2021-01-27 18:11:32,900          root     INFO: Finished script
