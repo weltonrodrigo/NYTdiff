@@ -1,6 +1,30 @@
-2021-01-28 01:08:57,262          root     INFO: Starting script
-2021-01-28 01:08:58,092          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-28 01:08:58,786          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-28 01:08:59,452          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-28 01:08:59,584          root     INFO: Parsing R7 - Brasil
-2021-01-28 01:09:05,892          root     INFO: Finished script
+2021-01-28 02:09:47,671          root     INFO: Starting script
+2021-01-28 02:09:48,488          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-28 02:09:49,165          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-28 02:09:49,835          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-28 02:09:50,168          root     INFO: Parsing R7 - Brasil
+2021-01-28 02:09:55,860          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-publico-do-amazonas-pede-prisao-do-prefeito-de-manaus-27012021
+2021-01-28 02:09:55,872          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/bolsonaro-diz-que-comprou-leite-condensado-para-militares-e-programas-27012021
+2021-01-28 02:09:55,882          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-leite-condensado-e-destinado-a-militares-e-programas-27012021
+2021-01-28 02:09:55,913          root     INFO: New article tracked: http://noticias.r7.com/brasil/psl-quer-major-vitor-hugo-na-vice-presidencia-da-camara-27012021
+2021-01-28 02:09:55,924          root     INFO: New article tracked: http://noticias.r7.com/brasil/maia-diz-que-bolsonaro-quer-tornar-parlamento-anexo-do-planalto-27012021
+2021-01-28 02:09:55,933          root     INFO: New article tracked: http://noticias.r7.com/brasil/oposicao-faz-novo-pedido-de-impeachment-contra-bolsonaro-27012021
+2021-01-28 02:09:55,946          root     INFO: New article tracked: http://noticias.r7.com/brasil/secretario-do-tesouro-ve-espaco-reduzido-para-retorno-do-auxilio-27012021
+2021-01-28 02:09:55,958          root     INFO: New article tracked: http://noticias.r7.com/brasil/pura-fumaca-afirma-mourao-sobre-gastos-do-governo-com-alimentos-27012021
+2021-01-28 02:09:55,969          root     INFO: New article tracked: http://noticias.r7.com/brasil/divida-publica-tem-alta-recorde-e-fecha-2020-em-r-5-trilhoes-27012021
+2021-01-28 02:09:55,983          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-campanha-de-baleia-sofre-com-dissidencias-na-reta-final-27012021
+2021-01-28 02:09:55,993          root     INFO: New article tracked: http://noticias.r7.com/brasil/apoiadores-de-bolsonaro-planejam-caravanas-pro-lira-e-voto-impresso-27012021
+2021-01-28 02:09:56,004          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicao-na-camara-candidatos-defendem-pec-do-foro-privilegiado-27012021
+2021-01-28 02:09:56,013          root     INFO: New article tracked: http://noticias.r7.com/brasil/eduardo-bolsonaro-defende-compra-de-leite-condensado-por-militares-27012021
+2021-01-28 02:09:56,023          root     INFO: New article tracked: http://noticias.r7.com/brasil/caminhoes-governo-quer-cortar-piscofins-do-diesel-e-evitar-greve-27012021
+2021-01-28 02:09:56,031          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-senador-apagao-de-portal-aumenta-suspeita-sobre-gastos-27012021
+2021-01-28 02:09:56,039          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-faz-reuniao-com-psl-para-garantir-apoio-a-arthur-lira-27012021
+2021-01-28 02:09:56,048          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibovespa-oscila-e-dolar-abre-em-alta-em-meio-a-instabilidades-27012021
+2021-01-28 02:09:56,094          root     INFO: Do <del>R7</del> <ins>R7, com informações da Agência Estado</ins>
+2021-01-28 02:09:57,802          root     INFO: Media ready with ids: 1354612648692879362
+2021-01-28 02:09:57,802          root     INFO: Text to tweet: Modificação do autor
+2021-01-28 02:09:57,802          root     INFO: Article id: http://noticias.r7.com/brasil/amazonia-mourao-diz-que-esforcos-do-brasil-nao-foram-suficientes-27012021
+2021-01-28 02:09:57,808          root     INFO: Tweeting url: http://noticias.r7.com/brasil/amazonia-mourao-diz-que-esforcos-do-brasil-nao-foram-suficientes-27012021
+2021-01-28 02:09:57,988          root     INFO: Replying to: 1354612650043449347
+2021-01-28 02:09:58,218          root     INFO: Id to store: 1354612650785861633
+2021-01-28 02:09:58,263          root     INFO: Finished script
