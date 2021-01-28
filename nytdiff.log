@@ -1,13 +1,13 @@
-2021-01-28 17:31:27,427          root     INFO: Starting script
-2021-01-28 17:31:28,271          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-28 17:31:28,928          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-28 17:31:29,566          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-28 17:31:29,776          root     INFO: Parsing R7 - Brasil
-2021-01-28 17:31:30,186          root     INFO: No silêncio do meu mundo, percebo que a conquista da maioria das grandes cidades pelos partidos de centro-direita nas eleições municipais do ano passado dá um prognóstico nada animador para o país, principalmente no que diz respeito às pessoas negras, pobres e faveladas. Fico escandalizado como este cenário não tem servido de alerta para grande parte dos ditos "partidos progressistas". Em vez de fazerem autocrítica e buscarem as razões pelas quais o eleitorado tem migrado os votos para partidos de centro-direita, eles focaram <del>a</del> <ins>na</ins> construção de uma narrativa em que o grande derrotado das eleições foi o "chefe" do Executivo. Essa é uma análise equivocada, pois demonstra o quanto o campo progressista está envolto na própria vaidade e tem sido incapaz de reconhecer o próprio fracasso. Leia mais (01/28/2021 - 11h12)
-2021-01-28 17:31:32,346          root     INFO: Media ready with ids: 1354844570085969921
-2021-01-28 17:31:32,346          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-28 17:31:32,346          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/01/no-silencio-do-meu-mundo.shtml
-2021-01-28 17:31:32,354          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/01/no-silencio-do-meu-mundo.shtml
-2021-01-28 17:31:32,527          root     INFO: Replying to: 1354844572136976394
-2021-01-28 17:31:32,789          root     INFO: Id to store: 1354844572917125124
-2021-01-28 17:31:39,493          root     INFO: Finished script
+2021-01-28 18:12:57,176          root     INFO: Starting script
+2021-01-28 18:12:58,249          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-28 18:12:58,934          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-28 18:12:59,619          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-28 18:12:59,755          root     INFO: Parsing R7 - Brasil
+2021-01-28 18:13:02,627          root     INFO: Um dia após o racha no DEM vir à tona, a quarta-feira (27) também não foi de boas notícias para Rodrigo Maia <del>(DEM-RJ),</del> <ins>(DEM-RJ)</ins> e <del>para</del> o seu candidato, Baleia Rossi (MDB-SP). Leia mais (01/27/2021 - 23h16)
+2021-01-28 18:13:04,414          root     INFO: Media ready with ids: 1354855023063289858
+2021-01-28 18:13:04,415          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-28 18:13:04,415          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/pivo-de-ligacao-exaltada-para-general-ramos-aliado-de-maia-anuncia-apoio-a-lira-e-aumenta-crise.shtml
+2021-01-28 18:13:04,424          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/pivo-de-ligacao-exaltada-para-general-ramos-aliado-de-maia-anuncia-apoio-a-lira-e-aumenta-crise.shtml
+2021-01-28 18:13:04,616          root     INFO: Replying to: 1354855024703188994
+2021-01-28 18:13:04,861          root     INFO: Id to store: 1354855025491800067
+2021-01-28 18:13:09,443          root     INFO: Finished script
