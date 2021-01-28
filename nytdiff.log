@@ -1,15 +1,6 @@
-2021-01-28 00:00:24,390          root     INFO: Starting script
-2021-01-28 00:00:25,216          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-28 00:00:25,879          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-28 00:00:26,541          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-28 00:00:26,661          root     INFO: Parsing R7 - Brasil
-2021-01-28 00:00:27,068          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/01/terror-criado-no-quintal.shtml
-2021-01-28 00:00:29,210          root     INFO: O presidente da Câmara, Rodrigo Maia (DEM-RJ), criticou nesta quarta-feira (27) a interferência do Palácio do Planalto na eleição para a <del>Presidência</del> <ins>presidência</ins> da Casa e afirmou que essa intervenção vai deixar sequelas para os lados envolvidos na disputa. Leia mais (01/27/2021 - 19h06)
-2021-01-28 00:00:30,952          root     INFO: Media ready with ids: 1354580071915384835
-2021-01-28 00:00:30,952          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-28 00:00:30,952          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/maia-reage-a-bolsonaro-e-diz-que-interferencia-do-planalto-na-camara-tera-sequelas-em-qualquer-lado.shtml
-2021-01-28 00:00:30,962          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/maia-reage-a-bolsonaro-e-diz-que-interferencia-do-planalto-na-camara-tera-sequelas-em-qualquer-lado.shtml
-2021-01-28 00:00:31,131          root     INFO: Replying to: 1354580073437929483
-2021-01-28 00:00:31,360          root     INFO: Id to store: 1354580074197102598
-2021-01-28 00:00:35,732          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/biden-e-a-necessidade-de-unir-os-eua.shtml
-2021-01-28 00:00:35,733          root     INFO: Finished script
+2021-01-28 01:08:57,262          root     INFO: Starting script
+2021-01-28 01:08:58,092          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-28 01:08:58,786          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-28 01:08:59,452          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-28 01:08:59,584          root     INFO: Parsing R7 - Brasil
+2021-01-28 01:09:05,892          root     INFO: Finished script
