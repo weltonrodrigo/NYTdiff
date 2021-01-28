@@ -1,13 +1,8 @@
-2021-01-28 18:12:57,176          root     INFO: Starting script
-2021-01-28 18:12:58,249          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-28 18:12:58,934          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-28 18:12:59,619          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-28 18:12:59,755          root     INFO: Parsing R7 - Brasil
-2021-01-28 18:13:02,627          root     INFO: Um dia após o racha no DEM vir à tona, a quarta-feira (27) também não foi de boas notícias para Rodrigo Maia <del>(DEM-RJ),</del> <ins>(DEM-RJ)</ins> e <del>para</del> o seu candidato, Baleia Rossi (MDB-SP). Leia mais (01/27/2021 - 23h16)
-2021-01-28 18:13:04,414          root     INFO: Media ready with ids: 1354855023063289858
-2021-01-28 18:13:04,415          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-28 18:13:04,415          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/pivo-de-ligacao-exaltada-para-general-ramos-aliado-de-maia-anuncia-apoio-a-lira-e-aumenta-crise.shtml
-2021-01-28 18:13:04,424          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/pivo-de-ligacao-exaltada-para-general-ramos-aliado-de-maia-anuncia-apoio-a-lira-e-aumenta-crise.shtml
-2021-01-28 18:13:04,616          root     INFO: Replying to: 1354855024703188994
-2021-01-28 18:13:04,861          root     INFO: Id to store: 1354855025491800067
-2021-01-28 18:13:09,443          root     INFO: Finished script
+2021-01-28 18:50:01,620          root     INFO: Starting script
+2021-01-28 18:50:02,537          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-28 18:50:03,216          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-28 18:50:03,903          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-28 18:50:04,072          root     INFO: Parsing R7 - Brasil
+2021-01-28 18:50:06,634          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/nao-ha-a-menor-chance-de-eu-desistir-da-minha-candidatura-diz-baleia-rossi-em-meio-a-crise-no-bloco.shtml
+2021-01-28 18:50:11,483          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/01/impeachment-de-bolsonaro-ganhou-mais-exposicao-agora-do-que-em-dois-anos.shtml
+2021-01-28 18:50:11,485          root     INFO: Finished script
