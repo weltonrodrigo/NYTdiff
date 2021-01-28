@@ -1,8 +1,24 @@
-2021-01-28 11:28:44,120          root     INFO: Starting script
-2021-01-28 11:28:45,077          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-28 11:28:45,743          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-28 11:28:46,408          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-28 11:28:46,568          root     INFO: Parsing R7 - Brasil
-2021-01-28 11:28:51,628          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/01/com-50-mil-mortes-por-ano-no-pais-poluicao-do-ar-tem-impacto-bilionario-aponta-estudo.shtml
-2021-01-28 11:28:54,180          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/10/rosa-weber-derruba-decisao-de-ricardo-salles-que-tirava-protecao-de-restingas-e-manguezais.shtml
-2021-01-28 11:28:54,181          root     INFO: Finished script
+2021-01-28 11:53:42,015          root     INFO: Starting script
+2021-01-28 11:53:42,831          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-28 11:53:43,490          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-28 11:53:44,161          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-28 11:53:44,312          root     INFO: Parsing R7 - Brasil
+2021-01-28 11:53:44,696          root     INFO: Os países mais rejeitados por Jair Bolsonaro tiveram grande importância para o agronegócio brasileiro no ano passado. Vários produtos saídos das lavouras e das pastagens nacionais tiveram como destino essas nações. <del>Um exemplo típico é o do arroz. Graças aos venezuelanos e cubanos, os gaúchos puderam receber preços recordes pelo cereal no ano passado. E na hora da falta desse cereal internamente, devido ao grande volume exportado, os argentinos e os paraguaios foram os que garantiram o abastecimento dos brasileiros. Bolsonaro deve ter perdido a calma ao ver reluzentes caminhões com a bandeira venezuelana trazerem oxigênio para reduzir os efeitos do descontrole da pandemia em Manaus. Os gastos do Brasil com esse produto na Venezuela, no entanto, deve ter sido pequeno em relação aos US$ 104 milhões despendidos pelos venezuelanos com a compra do cereal brasileiro.</del> Leia mais (01/27/2021 - 23h15)
+2021-01-28 11:53:46,635          root     INFO: Media ready with ids: 1354759569776455681
+2021-01-28 11:53:46,636          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-28 11:53:46,636          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/paises-mais-rejeitados-por-bolsonaro-impulsionam-o-agronegocio.shtml
+2021-01-28 11:53:46,649          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/paises-mais-rejeitados-por-bolsonaro-impulsionam-o-agronegocio.shtml
+2021-01-28 11:53:46,815          root     INFO: Replying to: 1354759571596840961
+2021-01-28 11:53:47,046          root     INFO: Id to store: 1354759572263735298
+2021-01-28 11:53:47,128          root     INFO: Os custos da extensão do auxílio <ins>emergencial</ins>
+2021-01-28 11:53:48,793          root     INFO: Media ready with ids: 1354759579205312514
+2021-01-28 11:53:48,794          root     INFO: Text to tweet: Modificação do Título
+2021-01-28 11:53:48,794          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/solange-srour/2021/01/os-custos-da-extensao-do-auxilio.shtml
+2021-01-28 11:53:48,801          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/solange-srour/2021/01/os-custos-da-extensao-do-auxilio.shtml
+2021-01-28 11:53:48,961          root     INFO: Replying to: 1354759580606148608
+2021-01-28 11:53:49,363          root     INFO: Id to store: 1354759581398835205
+2021-01-28 11:53:51,252          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/aliados-dizem-que-maia-ameaca-dar-aval-a-impeachment-de-bolsonaro-presidente-da-camara-nega.shtml
+2021-01-28 11:53:51,264          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3954
+2021-01-28 11:53:55,313          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/enfermeira-diz-que-tomou-vacina-so-para-viajar-e-vira-alvo-de-investigacao-no-espirito-santo.shtml
+2021-01-28 11:53:55,317          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/oposicao-se-anima-por-impeachment-e-governistas-dizem-que-esperavam-queda-maior-de-bolsonaro.shtml
+2021-01-28 11:53:55,317          root     INFO: Finished script
