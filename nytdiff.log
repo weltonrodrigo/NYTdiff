@@ -1,21 +1,23 @@
-2021-01-28 21:01:55,502          root     INFO: Starting script
-2021-01-28 21:01:56,559          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-28 21:01:57,202          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-28 21:01:57,843          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-28 21:01:58,096          root     INFO: Parsing R7 - Brasil
-2021-01-28 21:02:03,996          root     INFO: New article tracked: http://noticias.r7.com/brasil/arthur-lira-afirma-que-ninguem-influi-na-presidencia-da-camara-28012021
-2021-01-28 21:02:04,008          root     INFO: New article tracked: http://noticias.r7.com/brasil/simone-tebet-lanca-candidatura-independente-para-o-senado-28012021
-2021-01-28 21:02:04,018          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-publico-vai-apurar-perda-de-doses-da-coronavac-28012021
-2021-01-28 21:02:04,041          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-denuncias-de-fura-fila-da-vacina-tce-pede-explicacao-a-sp-28012021
-2021-01-28 21:02:04,055          root     INFO: New article tracked: http://noticias.r7.com/brasil/unicef-55-milhoes-estavam-sem-atividades-escolares-em-outubro-28012021
-2021-01-28 21:02:04,065          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-quer-acelerar-importacao-de-vacinas-contra-a-covid-19-28012021
-2021-01-28 21:02:04,075          root     INFO: New article tracked: http://noticias.r7.com/brasil/o-segundo-homem-do-executivo-diz-bolsonaro-em-apoio-a-lira-28012021
-2021-01-28 21:02:04,085          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-politica-de-fechar-tudo-e-ficar-em-casa-nao-deu-certo-28012021
-2021-01-28 21:02:04,094          root     INFO: New article tracked: http://noticias.r7.com/brasil/entenda-como-vai-funcionar-a-eleicao-a-presidencia-da-camara-28012021
-2021-01-28 21:02:04,103          root     INFO: New article tracked: http://noticias.r7.com/brasil/termina-hoje-prazo-para-justificar-ausencia-no-2-turno-da-eleicoes-28012021
-2021-01-28 21:02:04,112          root     INFO: New article tracked: http://noticias.r7.com/brasil/itamaraty-avanco-da-covid-em-portugal-levou-a-suspensao-de-voos-28012021
-2021-01-28 21:02:04,121          root     INFO: New article tracked: http://noticias.r7.com/brasil/desemprego-estabiliza-mas-atinge-14-milhoes-de-pessoas-diz-ibge-28012021
-2021-01-28 21:02:04,130          root     INFO: New article tracked: http://noticias.r7.com/brasil/contrato-de-aluguel-vencido-em-fevereiro-fica-ate-2574-mais-caro-28012021
-2021-01-28 21:02:04,140          root     INFO: New article tracked: http://noticias.r7.com/brasil/voto-de-nunes-marques-deve-definir-destino-de-lula-no-stf-28012021
-2021-01-28 21:02:04,188          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-amazonas-nao-informou-sobre-fim-de-oxigenio-28012021
-2021-01-28 21:02:04,256          root     INFO: Finished script
+2021-01-28 21:24:53,981          root     INFO: Starting script
+2021-01-28 21:24:55,026          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-28 21:24:55,846          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-28 21:24:56,667          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-28 21:24:56,858          root     INFO: Parsing R7 - Brasil
+2021-01-28 21:24:57,208          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandre-schneider/2021/01/felipe-neto-tem-razao.shtml
+2021-01-28 21:25:02,376          root     INFO: Removed http://noticias.r7.com/brasil/desemprego-estabiliza-mas-atinge-14-milhoes-de-pessoas-diz-ibge-28012021
+2021-01-28 21:25:02,382          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-politica-de-fechar-tudo-e-ficar-em-casa-nao-deu-certo-28012021
+2021-01-28 21:25:02,385          root     INFO: Removed http://noticias.r7.com/brasil/unicef-55-milhoes-estavam-sem-atividades-escolares-em-outubro-28012021
+2021-01-28 21:25:02,389          root     INFO: Removed http://noticias.r7.com/brasil/itamaraty-avanco-da-covid-em-portugal-levou-a-suspensao-de-voos-28012021
+2021-01-28 21:25:02,393          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-publico-vai-apurar-perda-de-doses-da-coronavac-28012021
+2021-01-28 21:25:02,396          root     INFO: Removed http://noticias.r7.com/brasil/senador-quer-acelerar-importacao-de-vacinas-contra-a-covid-19-28012021
+2021-01-28 21:25:02,400          root     INFO: Removed http://noticias.r7.com/brasil/entenda-como-vai-funcionar-a-eleicao-a-presidencia-da-camara-28012021
+2021-01-28 21:25:02,404          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/01/google-parte-para-acoes-perturbadoras-na-australia.shtml
+2021-01-28 21:25:02,409          root     INFO: Removed http://noticias.r7.com/brasil/apos-denuncias-de-fura-fila-da-vacina-tce-pede-explicacao-a-sp-28012021
+2021-01-28 21:25:02,413          root     INFO: Removed http://noticias.r7.com/brasil/termina-hoje-prazo-para-justificar-ausencia-no-2-turno-da-eleicoes-28012021
+2021-01-28 21:25:02,416          root     INFO: Removed http://noticias.r7.com/brasil/contrato-de-aluguel-vencido-em-fevereiro-fica-ate-2574-mais-caro-28012021
+2021-01-28 21:25:02,420          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-amazonas-nao-informou-sobre-fim-de-oxigenio-28012021
+2021-01-28 21:25:02,425          root     INFO: Removed http://noticias.r7.com/brasil/voto-de-nunes-marques-deve-definir-destino-de-lula-no-stf-28012021
+2021-01-28 21:25:02,429          root     INFO: Removed http://noticias.r7.com/brasil/arthur-lira-afirma-que-ninguem-influi-na-presidencia-da-camara-28012021
+2021-01-28 21:25:02,432          root     INFO: Removed http://noticias.r7.com/brasil/o-segundo-homem-do-executivo-diz-bolsonaro-em-apoio-a-lira-28012021
+2021-01-28 21:25:02,436          root     INFO: Removed http://noticias.r7.com/brasil/simone-tebet-lanca-candidatura-independente-para-o-senado-28012021
+2021-01-28 21:25:02,437          root     INFO: Finished script
