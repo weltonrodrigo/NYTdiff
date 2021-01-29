@@ -1,8 +1,28 @@
-2021-01-29 18:14:04,692          root     INFO: Starting script
-2021-01-29 18:14:05,529          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-29 18:14:06,212          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-29 18:14:06,885          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-29 18:14:07,050          root     INFO: Parsing R7 - Brasil
-2021-01-29 18:14:07,434          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/os-filmes-estao-sendo-abalados-pelas-series-ante-nossos-olhos-atonicos.shtml
-2021-01-29 18:14:13,950          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/bolsonaro-perde-ancora-entre-os-mais-ricos-e-fica-pendurado-no-pos-auxilio.shtml
-2021-01-29 18:14:13,951          root     INFO: Finished script
+2021-01-29 18:52:05,971          root     INFO: Starting script
+2021-01-29 18:52:06,803          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-29 18:52:07,475          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-29 18:52:08,151          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-29 18:52:08,391          root     INFO: Parsing R7 - Brasil
+2021-01-29 18:52:10,860          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/abandonada-na-disputa-pelo-senado-tebet-afirma-que-parte-do-mdb-cedeu-ao-toma-la-da-ca-e-ataca-governo-bolsonaro.shtml
+2021-01-29 18:52:14,648          root     INFO: New article tracked: http://noticias.r7.com/brasil/estudio-news-debate-adaptacoes-do-judiciario-durante-a-pandemia-29012021
+2021-01-29 18:52:14,659          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-cogita-recriar-ministerios-apos-eleicao-no-congresso-29012021
+2021-01-29 18:52:14,668          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicao-na-camara-rosangela-gomes-e-candidata-a-vaga-na-mesa-29012021
+2021-01-29 18:52:14,679          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibovespa-recua-com-pressao-de-possivel-greve-de-caminhoneiros-29012021
+2021-01-29 18:52:14,688          root     INFO: New article tracked: http://noticias.r7.com/brasil/estados-pedem-que-bolsonaro-compre-54-mi-de-doses-do-butantan-29012021
+2021-01-29 18:52:14,697          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicao-na-camara-cabines-de-votacao-estao-instaladas-nos-saloes-29012021
+2021-01-29 18:52:14,705          root     INFO: New article tracked: http://noticias.r7.com/brasil/comercio-preve-demissoes-sem-programa-que-reduz-salarios-29012021
+2021-01-29 18:52:14,715          root     INFO: New article tracked: http://noticias.r7.com/brasil/supremo-descarta-prioridade-em-vacina-a-pessoas-com-deficiencia-29012021
+2021-01-29 18:52:14,725          root     INFO: New article tracked: http://noticias.r7.com/brasil/hamilton-mourao-diz-que-faltou-lealdade-a-assessor-demitido-29012021
+2021-01-29 18:52:14,735          root     INFO: New article tracked: http://noticias.r7.com/brasil/setor-publico-tem-rombo-pelo-7-ano-com-recorde-de-r-703-bilhoes-29012021
+2021-01-29 18:52:14,744          root     INFO: New article tracked: http://noticias.r7.com/brasil/republicano-da-bahia-e-mais-cotado-para-ministerio-da-cidanania-29012021
+2021-01-29 18:52:14,755          root     INFO: New article tracked: http://noticias.r7.com/brasil/pandemia-faz-matriculas-recuarem-71-na-rede-particular-do-pais-29012021
+2021-01-29 18:52:14,764          root     INFO: New article tracked: http://noticias.r7.com/brasil/cliente-podera-usar-pix-para-transferir-grana-da-conta-salario-29012021
+2021-01-29 18:52:14,774          root     INFO: New article tracked: http://noticias.r7.com/brasil/volta-de-auxilio-emergencial-vai-quebrar-o-brasil-diz-bolsonaro-29012021
+2021-01-29 18:52:14,783          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-operacao-contra-garimpo-ilegal-em-reserva-indigena-29012021
+2021-01-29 18:52:14,792          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-exonera-ministros-para-reforcar-votacao-em-arthur-lira-29012021
+2021-01-29 18:52:14,802          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-demite-assessor-de-mourao-que-discutia-impeachment-29012021
+2021-01-29 18:52:14,811          root     INFO: New article tracked: http://noticias.r7.com/brasil/economia-autoriza-contratacao-de-207-mil-recenseadores-pelo-ibge-29012021
+2021-01-29 18:52:14,821          root     INFO: New article tracked: http://noticias.r7.com/brasil/prova-do-enem-digital-e-tema-da-live-jr-desta-sexta-feira-29-29012021
+2021-01-29 18:52:14,829          root     INFO: New article tracked: http://noticias.r7.com/brasil/saiba-como-funciona-a-ordem-da-fila-de-vacinacao-contra-a-covid-19-29012021
+2021-01-29 18:52:14,841          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/empresas-buscam-governo-por-aval-para-comprar-33-milhoes-de-doses-da-vacina-de-oxford.shtml
+2021-01-29 18:52:14,842          root     INFO: Finished script
