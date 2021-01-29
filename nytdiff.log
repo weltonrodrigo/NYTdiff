@@ -1,26 +1,22 @@
-2021-01-29 19:13:52,578          root     INFO: Starting script
-2021-01-29 19:13:53,471          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-29 19:13:54,439          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-29 19:13:55,160          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-29 19:13:55,359          root     INFO: Parsing R7 - Brasil
-2021-01-29 19:14:03,173          root     INFO: Removed http://noticias.r7.com/brasil/eleicao-na-camara-rosangela-gomes-e-candidata-a-vaga-na-mesa-29012021
-2021-01-29 19:14:03,179          root     INFO: Removed http://noticias.r7.com/brasil/volta-de-auxilio-emergencial-vai-quebrar-o-brasil-diz-bolsonaro-29012021
-2021-01-29 19:14:03,216          root     INFO: Removed http://noticias.r7.com/brasil/estudio-news-debate-adaptacoes-do-judiciario-durante-a-pandemia-29012021
-2021-01-29 19:14:03,223          root     INFO: Removed http://noticias.r7.com/brasil/republicano-da-bahia-e-mais-cotado-para-ministerio-da-cidanania-29012021
-2021-01-29 19:14:03,228          root     INFO: Removed http://noticias.r7.com/brasil/eleicao-na-camara-cabines-de-votacao-estao-instaladas-nos-saloes-29012021
-2021-01-29 19:14:03,232          root     INFO: Removed http://noticias.r7.com/brasil/economia-autoriza-contratacao-de-207-mil-recenseadores-pelo-ibge-29012021
-2021-01-29 19:14:03,236          root     INFO: Removed http://noticias.r7.com/brasil/estados-pedem-que-bolsonaro-compre-54-mi-de-doses-do-butantan-29012021
-2021-01-29 19:14:03,240          root     INFO: Removed http://noticias.r7.com/brasil/setor-publico-tem-rombo-pelo-7-ano-com-recorde-de-r-703-bilhoes-29012021
-2021-01-29 19:14:03,244          root     INFO: Removed http://noticias.r7.com/brasil/pandemia-faz-matriculas-recuarem-71-na-rede-particular-do-pais-29012021
-2021-01-29 19:14:03,247          root     INFO: Removed http://noticias.r7.com/brasil/ibovespa-recua-com-pressao-de-possivel-greve-de-caminhoneiros-29012021
-2021-01-29 19:14:03,252          root     INFO: Removed http://noticias.r7.com/brasil/supremo-descarta-prioridade-em-vacina-a-pessoas-com-deficiencia-29012021
-2021-01-29 19:14:03,255          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-operacao-contra-garimpo-ilegal-em-reserva-indigena-29012021
-2021-01-29 19:14:03,259          root     INFO: Removed http://noticias.r7.com/brasil/governo-demite-assessor-de-mourao-que-discutia-impeachment-29012021
-2021-01-29 19:14:03,263          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-cogita-recriar-ministerios-apos-eleicao-no-congresso-29012021
-2021-01-29 19:14:03,266          root     INFO: Removed http://noticias.r7.com/brasil/hamilton-mourao-diz-que-faltou-lealdade-a-assessor-demitido-29012021
-2021-01-29 19:14:03,270          root     INFO: Removed http://noticias.r7.com/brasil/comercio-preve-demissoes-sem-programa-que-reduz-salarios-29012021
-2021-01-29 19:14:03,274          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-exonera-ministros-para-reforcar-votacao-em-arthur-lira-29012021
-2021-01-29 19:14:03,278          root     INFO: Removed http://noticias.r7.com/brasil/saiba-como-funciona-a-ordem-da-fila-de-vacinacao-contra-a-covid-19-29012021
-2021-01-29 19:14:03,282          root     INFO: Removed http://noticias.r7.com/brasil/cliente-podera-usar-pix-para-transferir-grana-da-conta-salario-29012021
-2021-01-29 19:14:03,285          root     INFO: Removed http://noticias.r7.com/brasil/prova-do-enem-digital-e-tema-da-live-jr-desta-sexta-feira-29-29012021
-2021-01-29 19:14:03,286          root     INFO: Finished script
+2021-01-29 19:38:41,886          root     INFO: Starting script
+2021-01-29 19:38:42,713          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-29 19:38:43,388          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-29 19:38:44,057          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-29 19:38:44,275          root     INFO: Parsing R7 - Brasil
+2021-01-29 19:38:44,654          root     INFO: Os filmes estão sendo abalados pelas séries ante nossos olhos <del>atônicos</del> <ins>atônitos</ins>
+2021-01-29 19:38:46,442          root     INFO: Media ready with ids: 1355238978203623429
+2021-01-29 19:38:46,443          root     INFO: Text to tweet: Modificação do Título
+2021-01-29 19:38:46,443          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/os-filmes-estao-sendo-abalados-pelas-series-ante-nossos-olhos-atonicos.shtml
+2021-01-29 19:38:46,454          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/os-filmes-estao-sendo-abalados-pelas-series-ante-nossos-olhos-atonicos.shtml
+2021-01-29 19:38:46,656          root     INFO: Replying to: 1355238979717779459
+2021-01-29 19:38:46,905          root     INFO: Id to store: 1355238980678246409
+2021-01-29 19:38:49,158          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/subprocuradores-endossam-pedido-de-artistas-e-juristas-para-que-aras-processe-bolsonaro.shtml
+2021-01-29 19:38:49,303          root     INFO: O vice-presidente Hamilton Mourão (PRTB) exonerou o chefe de sua assessoria parlamentar, Ricardo Roesch Morato Filho, depois que uma conversa em que ele abordava o chefe de gabinete de um deputado federal para discutir a hipótese de impeachment do presidente Jair Bolsonaro (sem partido) foi revelada pelo site O Antagonista. A exoneração foi publicada em edição extra do <del>"Diário</del> <ins>Diário</ins> Oficial da <del>União" de</del> <ins>União desta</ins> quinta-feira (29). O site divulgou as mensagens sem dar o nome do interlocutor de Morato Filho. Leia mais (01/29/2021 - 10h31)
+2021-01-29 19:38:51,213          root     INFO: Media ready with ids: 1355238997837160452
+2021-01-29 19:38:51,213          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-29 19:38:51,215          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/troca-de-mensagens-imprudente-diz-mourao-apos-demitir-assessor-que-conspirou-contra-bolsonaro.shtml
+2021-01-29 19:38:51,225          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/troca-de-mensagens-imprudente-diz-mourao-apos-demitir-assessor-que-conspirou-contra-bolsonaro.shtml
+2021-01-29 19:38:51,426          root     INFO: Replying to: 1355238999842050052
+2021-01-29 19:38:51,684          root     INFO: Id to store: 1355239000550813698
+2021-01-29 19:38:56,125          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/estudo-do-ipea-mostra-que-nova-onda-de-covid-19-nao-e-acompanhada-de-mais-acoes-de-distanciamento.shtml
+2021-01-29 19:38:56,126          root     INFO: Finished script
