@@ -1,6 +1,19 @@
-2021-01-29 22:06:52,897          root     INFO: Starting script
-2021-01-29 22:06:53,734          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-29 22:06:54,403          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-29 22:06:55,085          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-29 22:06:55,324          root     INFO: Parsing R7 - Brasil
-2021-01-29 22:07:01,039          root     INFO: Finished script
+2021-01-29 22:38:58,401          root     INFO: Starting script
+2021-01-29 22:38:59,278          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-29 22:38:59,972          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-29 22:39:00,654          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-29 22:39:00,872          root     INFO: Parsing R7 - Brasil
+2021-01-29 22:39:03,660          root     INFO: <del>Prefeitura</del> <ins>Governo</ins> do Rio vai colocar mais dois jogadores na calçada da fama do Maracanã
+2021-01-29 22:39:05,384          root     INFO: Media ready with ids: 1355284356051460096
+2021-01-29 22:39:05,385          root     INFO: Text to tweet: Modificação do Título
+2021-01-29 22:39:05,385          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/prefeitura-do-rio-vai-colocar-mais-dois-jogadores-na-calcada-da-fama-do-maracana.shtml
+2021-01-29 22:39:05,392          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/prefeitura-do-rio-vai-colocar-mais-dois-jogadores-na-calcada-da-fama-do-maracana.shtml
+2021-01-29 22:39:05,593          root     INFO: Replying to: 1355284357741735942
+2021-01-29 22:39:05,833          root     INFO: Id to store: 1355284358542876674
+2021-01-29 22:39:05,839          root     INFO: <del>A Prefeitura</del> <ins>O governo</ins> do Rio vai homenagear mais dois jogadores neste sábado (30) na calçada da fama do Maracanã. Leia mais (01/29/2021 - 18h32)
+2021-01-29 22:39:07,667          root     INFO: Media ready with ids: 1355284365631238144
+2021-01-29 22:39:07,667          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-29 22:39:07,668          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/prefeitura-do-rio-vai-colocar-mais-dois-jogadores-na-calcada-da-fama-do-maracana.shtml
+2021-01-29 22:39:07,675          root     INFO: Replying to: 1355284358542876674
+2021-01-29 22:39:07,905          root     INFO: Id to store: 1355284367258611714
+2021-01-29 22:39:13,214          root     INFO: Finished script
