@@ -1,19 +1,22 @@
-2021-01-29 20:29:20,880          root     INFO: Starting script
-2021-01-29 20:29:21,696          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-29 20:29:22,360          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-29 20:29:23,022          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-29 20:29:23,209          root     INFO: Parsing R7 - Brasil
-2021-01-29 20:29:25,508          root     INFO: Abandonada na disputa pelo Senado, Tebet afirma que parte do MDB cedeu ao 'toma <del>lá,</del> <ins>lá</ins> dá cá' e ataca governo <del>Bolsonaro</del>
-2021-01-29 20:29:27,277          root     INFO: Media ready with ids: 1355251732159356931
-2021-01-29 20:29:27,277          root     INFO: Text to tweet: Modificação do Título
-2021-01-29 20:29:27,277          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/abandonada-na-disputa-pelo-senado-tebet-afirma-que-parte-do-mdb-cedeu-ao-toma-la-da-ca-e-ataca-governo-bolsonaro.shtml
-2021-01-29 20:29:27,285          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/abandonada-na-disputa-pelo-senado-tebet-afirma-que-parte-do-mdb-cedeu-ao-toma-la-da-ca-e-ataca-governo-bolsonaro.shtml
-2021-01-29 20:29:27,477          root     INFO: Replying to: 1355251733962911744
-2021-01-29 20:29:27,736          root     INFO: Id to store: 1355251734776582152
-2021-01-29 20:29:27,743          root     INFO: Abandonada pelo <del>seu</del> próprio partido na disputa pela presidência do Senado, Simone Tebet (MDB-MS) criticou nesta sexta-feira (29) alguns dos seus companheiros de bancada, afirmando que parte do MDB cedeu à “tentação do fisiologismo, do toma lá dá cá”. Leia mais (01/29/2021 - 15h40)
-2021-01-29 20:29:29,512          root     INFO: Media ready with ids: 1355251741567180801
-2021-01-29 20:29:29,512          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-29 20:29:29,513          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/abandonada-na-disputa-pelo-senado-tebet-afirma-que-parte-do-mdb-cedeu-ao-toma-la-da-ca-e-ataca-governo-bolsonaro.shtml
-2021-01-29 20:29:29,524          root     INFO: Replying to: 1355251734776582152
-2021-01-29 20:29:29,755          root     INFO: Id to store: 1355251743362347016
-2021-01-29 20:29:33,744          root     INFO: Finished script
+2021-01-29 20:54:40,826          root     INFO: Starting script
+2021-01-29 20:54:41,845          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-29 20:54:42,688          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-29 20:54:43,523          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-29 20:54:43,759          root     INFO: Parsing R7 - Brasil
+2021-01-29 20:54:44,128          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/01/perfil-fisico-de-um-ator-e-importante-para-o-papel-que-ele-encarna.shtml
+2021-01-29 20:54:46,316          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/na-reta-final-da-campanha-na-camara-ministros-de-bolsonaro-tentam-interferir-no-dem-em-prol-de-lira.shtml
+2021-01-29 20:54:46,358          root     INFO: <del>Subprocuradores</del> <ins>Ex-procuradores</ins> endossam pedido de artistas e juristas para que Aras processe Bolsonaro
+2021-01-29 20:54:48,260          root     INFO: Media ready with ids: 1355258111712518146
+2021-01-29 20:54:48,260          root     INFO: Text to tweet: Modificação do Título
+2021-01-29 20:54:48,260          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/subprocuradores-endossam-pedido-de-artistas-e-juristas-para-que-aras-processe-bolsonaro.shtml
+2021-01-29 20:54:48,272          root     INFO: Replying to: 1355243509754826754
+2021-01-29 20:54:48,622          root     INFO: Id to store: 1355258113901932544
+2021-01-29 20:54:48,628          root     INFO: Um grupo de <del>subprocuradores</del> <ins>ex-procuradores</ins> entrou com nova representação na Procuradoria-Geral da República contra o presidente Jair Bolsonaro (sem partido), nesta sexta (29). <del>Os subprocuradores</del> <ins>Eles</ins> endossam representação de juristas do grupo Prerrogativas com artistas do grupo 342 Artes, que foi protocolada na PGR na semana passada. Um abaixo-assinado com o conteúdo da petição já reúne mais de 72 mil assinaturas. O documento critica a atuação do governo federal no combate à epidemia da Covid-19. ? Leia mais (01/29/2021 - 16h35)
+2021-01-29 20:54:50,550          root     INFO: Media ready with ids: 1355258121199955969
+2021-01-29 20:54:50,550          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-29 20:54:50,551          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/subprocuradores-endossam-pedido-de-artistas-e-juristas-para-que-aras-processe-bolsonaro.shtml
+2021-01-29 20:54:50,558          root     INFO: Replying to: 1355258113901932544
+2021-01-29 20:54:50,836          root     INFO: Id to store: 1355258123204890624
+2021-01-29 20:54:55,554          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/ex-alunos-da-politecnica-da-usp-atingiram-mil-assinaturas-por-impeachment-de-bolsonaro-em-5-horas-e-esperam-chegar-em-5-mil.shtml
+2021-01-29 20:54:55,559          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/bolsonaro-e-louco.shtml
+2021-01-29 20:54:55,560          root     INFO: Finished script
