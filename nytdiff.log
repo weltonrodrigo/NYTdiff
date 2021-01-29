@@ -1,6 +1,13 @@
-2021-01-29 11:53:44,646          root     INFO: Starting script
-2021-01-29 11:53:45,462          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-29 11:53:46,124          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-29 11:53:46,801          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-29 11:53:46,921          root     INFO: Parsing R7 - Brasil
-2021-01-29 11:53:52,586          root     INFO: Finished script
+2021-01-29 11:58:59,211          root     INFO: Starting script
+2021-01-29 11:59:00,020          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-29 11:59:00,691          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-29 11:59:01,350          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-29 11:59:01,547          root     INFO: Parsing R7 - Brasil
+2021-01-29 11:59:02,076          root     INFO: O boi de melhor qualidade e localizado em regiões mais bem favorecidas de mercado já ultrapassa R$ 300 por arroba no estado de São Paulo. A esperada queda dos preços, após o recuo de dezembro, não ocorreu. <del>Os fatores atuais de alta são os mesmos de 2020. De um lado, não há uma oferta suficiente de boi no pasto para o abate. De outro, a demanda externa pelo produto brasileiro continua. As exportações médias brasileiras nas três primeiras semanas deste mês somaram 85 mil toneladas, uma média diária de 5.671 toneladas. Este volume diário supera em 7% o de janeiro do ano passado. O preço da arroba de boi vai ser definida pelas demandas externa, principalmente a vinda da China, e interna. Esta última ainda está bastante indefinida, devido ao fim do auxílio emergencial e do aumento de desemprego. A avaliação é de Thiago Bernardino de Carvalho, pesquisador do Cepea (Centro de Estudos Avançados em Economia Aplicada).</del> Leia mais (01/28/2021 - 23h15)
+2021-01-29 11:59:03,943          root     INFO: Media ready with ids: 1355123288704503808
+2021-01-29 11:59:03,944          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-29 11:59:03,944          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/arroba-de-boi-atinge-recorde-de-r-300-e-nao-da-alivio-ao-consumidor.shtml
+2021-01-29 11:59:03,951          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/arroba-de-boi-atinge-recorde-de-r-300-e-nao-da-alivio-ao-consumidor.shtml
+2021-01-29 11:59:04,121          root     INFO: Replying to: 1355123290331820034
+2021-01-29 11:59:04,382          root     INFO: Id to store: 1355123291132981248
+2021-01-29 11:59:10,072          root     INFO: Finished script
