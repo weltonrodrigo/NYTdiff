@@ -1,22 +1,13 @@
-2021-01-29 19:38:41,886          root     INFO: Starting script
-2021-01-29 19:38:42,713          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-29 19:38:43,388          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-29 19:38:44,057          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-29 19:38:44,275          root     INFO: Parsing R7 - Brasil
-2021-01-29 19:38:44,654          root     INFO: Os filmes estão sendo abalados pelas séries ante nossos olhos <del>atônicos</del> <ins>atônitos</ins>
-2021-01-29 19:38:46,442          root     INFO: Media ready with ids: 1355238978203623429
-2021-01-29 19:38:46,443          root     INFO: Text to tweet: Modificação do Título
-2021-01-29 19:38:46,443          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/os-filmes-estao-sendo-abalados-pelas-series-ante-nossos-olhos-atonicos.shtml
-2021-01-29 19:38:46,454          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/os-filmes-estao-sendo-abalados-pelas-series-ante-nossos-olhos-atonicos.shtml
-2021-01-29 19:38:46,656          root     INFO: Replying to: 1355238979717779459
-2021-01-29 19:38:46,905          root     INFO: Id to store: 1355238980678246409
-2021-01-29 19:38:49,158          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/subprocuradores-endossam-pedido-de-artistas-e-juristas-para-que-aras-processe-bolsonaro.shtml
-2021-01-29 19:38:49,303          root     INFO: O vice-presidente Hamilton Mourão (PRTB) exonerou o chefe de sua assessoria parlamentar, Ricardo Roesch Morato Filho, depois que uma conversa em que ele abordava o chefe de gabinete de um deputado federal para discutir a hipótese de impeachment do presidente Jair Bolsonaro (sem partido) foi revelada pelo site O Antagonista. A exoneração foi publicada em edição extra do <del>"Diário</del> <ins>Diário</ins> Oficial da <del>União" de</del> <ins>União desta</ins> quinta-feira (29). O site divulgou as mensagens sem dar o nome do interlocutor de Morato Filho. Leia mais (01/29/2021 - 10h31)
-2021-01-29 19:38:51,213          root     INFO: Media ready with ids: 1355238997837160452
-2021-01-29 19:38:51,213          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-29 19:38:51,215          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/troca-de-mensagens-imprudente-diz-mourao-apos-demitir-assessor-que-conspirou-contra-bolsonaro.shtml
-2021-01-29 19:38:51,225          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/troca-de-mensagens-imprudente-diz-mourao-apos-demitir-assessor-que-conspirou-contra-bolsonaro.shtml
-2021-01-29 19:38:51,426          root     INFO: Replying to: 1355238999842050052
-2021-01-29 19:38:51,684          root     INFO: Id to store: 1355239000550813698
-2021-01-29 19:38:56,125          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/estudo-do-ipea-mostra-que-nova-onda-de-covid-19-nao-e-acompanhada-de-mais-acoes-de-distanciamento.shtml
-2021-01-29 19:38:56,126          root     INFO: Finished script
+2021-01-29 19:56:39,357          root     INFO: Starting script
+2021-01-29 19:56:40,197          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-29 19:56:40,872          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-29 19:56:41,544          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-29 19:56:41,755          root     INFO: Parsing R7 - Brasil
+2021-01-29 19:56:44,321          root     INFO: Um grupo de subprocuradores entrou com nova representação na Procuradoria-Geral da República contra o presidente Jair Bolsonaro (sem partido), nesta sexta (29). Os subprocuradores endossam representação de juristas do grupo Prerrogativas com artistas do grupo 342 Artes, que foi protocolada na PGR na semana passada. Um abaixo-assinado com o conteúdo da petição já reúne mais de 72 mil assinaturas. O documento critica a atuação do governo federal no combate à epidemia da Covid-19. ? Leia mais (01/29/2021 - 16h35)
+2021-01-29 19:56:46,153          root     INFO: Media ready with ids: 1355243506726535169
+2021-01-29 19:56:46,153          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-29 19:56:46,153          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/subprocuradores-endossam-pedido-de-artistas-e-juristas-para-que-aras-processe-bolsonaro.shtml
+2021-01-29 19:56:46,164          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/subprocuradores-endossam-pedido-de-artistas-e-juristas-para-que-aras-processe-bolsonaro.shtml
+2021-01-29 19:56:46,503          root     INFO: Replying to: 1355243509050208257
+2021-01-29 19:56:46,736          root     INFO: Id to store: 1355243509754826754
+2021-01-29 19:56:51,474          root     INFO: Finished script
