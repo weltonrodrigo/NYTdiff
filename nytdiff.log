@@ -1,16 +1,17 @@
-2021-01-29 03:07:54,591          root     INFO: Starting script
-2021-01-29 03:07:55,539          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-29 03:07:56,205          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-29 03:07:56,875          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-29 03:07:57,087          root     INFO: Parsing R7 - Brasil
-2021-01-29 03:07:59,687          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/assessor-do-ministerio-da-saude-diz-que-ha-fila-de-mais-de-600-pacientes-em-manaus-e-caso-piorem-vao-morrer-na-rua.shtml
-2021-01-29 03:07:59,704          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/aliados-de-baleia-apostam-em-traicoes-escondidas-em-eleicao-para-o-comando-da-camara.shtml
-2021-01-29 03:07:59,717          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/secretarios-da-saude-se-dividem-sobre-pedido-de-doria-para-usar-estoque-de-vacinas-na-primeira-dose.shtml
-2021-01-29 03:07:59,731          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/centro-academico-de-direito-da-usp-apresenta-denuncia-de-impeachment-contra-bolsonaro.shtml
-2021-01-29 03:07:59,745          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/tribunal-de-contas-de-sp-pede-explicacoes-a-doria-sobre-fura-filas-em-vacinacao-nos-hospitais.shtml
-2021-01-29 03:08:04,518          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/herdeiro-de-empresas-de-onibus-pacheco-atuou-na-defesa-de-negocios-da-familia-no-congresso.shtml
-2021-01-29 03:08:04,523          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/apos-esquerda-grupos-a-direita-promovem-carreatas-contra-bolsonaro.shtml
-2021-01-29 03:08:04,527          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/investigacao-de-wal-do-acai-completa-dois-ano-e-meio-sem-conclusao.shtml
-2021-01-29 03:08:04,532          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/mais-ricos-sao-os-que-mais-discordam-em-avaliacao-sobre-governo-bolsonaro.shtml
-2021-01-29 03:08:04,539          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/retardataria-longa-e-professoral-carta-de-bolsonaro-a-biden-nao-servira-para-nada.shtml
-2021-01-29 03:08:04,540          root     INFO: Finished script
+2021-01-29 03:43:07,395          root     INFO: Starting script
+2021-01-29 03:43:08,237          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-29 03:43:08,936          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-29 03:43:09,618          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-29 03:43:09,847          root     INFO: Parsing R7 - Brasil
+2021-01-29 03:43:12,488          root     INFO: Assessor do Ministério da Saúde diz que há fila de <del>mais de</del> <ins>quase</ins> 600 pacientes em Manaus e, caso piorem, 'vão morrer na rua'
+2021-01-29 03:43:14,252          root     INFO: Media ready with ids: 1354998509410381827
+2021-01-29 03:43:14,252          root     INFO: Text to tweet: Modificação do Título
+2021-01-29 03:43:14,253          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/assessor-do-ministerio-da-saude-diz-que-ha-fila-de-mais-de-600-pacientes-em-manaus-e-caso-piorem-vao-morrer-na-rua.shtml
+2021-01-29 03:43:14,260          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/assessor-do-ministerio-da-saude-diz-que-ha-fila-de-mais-de-600-pacientes-em-manaus-e-caso-piorem-vao-morrer-na-rua.shtml
+2021-01-29 03:43:14,426          root     INFO: Replying to: 1354998511046193157
+2021-01-29 03:43:14,640          root     INFO: Id to store: 1354998511738216450
+2021-01-29 03:43:14,658          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/mourao-fica-irritado-com-ausencia-de-salles-em-encontro-sobre-fim-da-glo-ambiental-na-amazonia.shtml
+2021-01-29 03:43:14,671          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/integrantes-do-dem-articulam-saida-honrosa-para-rodrigo-maia.shtml
+2021-01-29 03:43:19,440          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/criticado-por-postura-na-pandemia-bolsonaro-faz-passeio-de-motocicleta-em-brasilia.shtml
+2021-01-29 03:43:19,447          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48972
+2021-01-29 03:43:19,448          root     INFO: Finished script
