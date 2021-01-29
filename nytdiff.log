@@ -1,15 +1,8 @@
-2021-01-29 16:51:33,582          root     INFO: Starting script
-2021-01-29 16:51:34,390          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-29 16:51:35,045          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-29 16:51:35,701          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-29 16:51:35,944          root     INFO: Parsing R7 - Brasil
-2021-01-29 16:51:36,321          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/01/tetas-censuradas.shtml
-2021-01-29 16:51:38,401          root     INFO: Em <del>um</del> evento com esportistas fechado à <del>imprensa,</del> <ins>imprensa</ins> mas transmitido por seus <del>filhos,</del> <ins>filhos em redes sociais,</ins> o presidente Jair Bolsonaro (sem partido) disse nesta sexta-feira (29) que pretende recriar os Ministérios da Cultura, <ins>o</ins> do Esporte e <ins>o</ins> da Pesca, que hoje <del>são apenas</del> <ins>tem status de</ins> secretarias de seu governo. <del>O presidente também voltou a demonstrar seu interesse em disputar a reeleição e só deixar a Presidência em 1º de janeiro de 2027.</del> Leia mais (01/29/2021 - 12h29)
-2021-01-29 16:51:40,306          root     INFO: Media ready with ids: 1355196925302235136
-2021-01-29 16:51:40,307          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-29 16:51:40,307          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-admite-recriar-3-ministerios-para-abrigar-aliados-e-fala-em-deixar-planalto-em-2027.shtml
-2021-01-29 16:51:40,317          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-admite-recriar-3-ministerios-para-abrigar-aliados-e-fala-em-deixar-planalto-em-2027.shtml
-2021-01-29 16:51:40,557          root     INFO: Replying to: 1355196927244169218
-2021-01-29 16:51:40,802          root     INFO: Id to store: 1355196928158478338
-2021-01-29 16:51:45,166          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/01/procurando-nemo-em-seropedica.shtml
-2021-01-29 16:51:45,167          root     INFO: Finished script
+2021-01-29 17:36:33,620          root     INFO: Starting script
+2021-01-29 17:36:34,648          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-29 17:36:35,502          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-29 17:36:36,345          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-29 17:36:36,669          root     INFO: Parsing R7 - Brasil
+2021-01-29 17:36:39,230          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/na-tv-jovem-apresentador-baleia-rossi-pescava-fazia-merchan-e-entregava-flores.shtml
+2021-01-29 17:36:44,020          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/01/a-nova-politica-da-pandemia.shtml
+2021-01-29 17:36:44,021          root     INFO: Finished script
