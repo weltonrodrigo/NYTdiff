@@ -1,6 +1,19 @@
-2021-01-29 20:05:40,533          root     INFO: Starting script
-2021-01-29 20:05:41,559          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-29 20:05:42,391          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-29 20:05:43,240          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-29 20:05:43,492          root     INFO: Parsing R7 - Brasil
-2021-01-29 20:05:50,445          root     INFO: Finished script
+2021-01-29 20:29:20,880          root     INFO: Starting script
+2021-01-29 20:29:21,696          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-29 20:29:22,360          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-29 20:29:23,022          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-29 20:29:23,209          root     INFO: Parsing R7 - Brasil
+2021-01-29 20:29:25,508          root     INFO: Abandonada na disputa pelo Senado, Tebet afirma que parte do MDB cedeu ao 'toma <del>lá,</del> <ins>lá</ins> dá cá' e ataca governo <del>Bolsonaro</del>
+2021-01-29 20:29:27,277          root     INFO: Media ready with ids: 1355251732159356931
+2021-01-29 20:29:27,277          root     INFO: Text to tweet: Modificação do Título
+2021-01-29 20:29:27,277          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/abandonada-na-disputa-pelo-senado-tebet-afirma-que-parte-do-mdb-cedeu-ao-toma-la-da-ca-e-ataca-governo-bolsonaro.shtml
+2021-01-29 20:29:27,285          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/abandonada-na-disputa-pelo-senado-tebet-afirma-que-parte-do-mdb-cedeu-ao-toma-la-da-ca-e-ataca-governo-bolsonaro.shtml
+2021-01-29 20:29:27,477          root     INFO: Replying to: 1355251733962911744
+2021-01-29 20:29:27,736          root     INFO: Id to store: 1355251734776582152
+2021-01-29 20:29:27,743          root     INFO: Abandonada pelo <del>seu</del> próprio partido na disputa pela presidência do Senado, Simone Tebet (MDB-MS) criticou nesta sexta-feira (29) alguns dos seus companheiros de bancada, afirmando que parte do MDB cedeu à “tentação do fisiologismo, do toma lá dá cá”. Leia mais (01/29/2021 - 15h40)
+2021-01-29 20:29:29,512          root     INFO: Media ready with ids: 1355251741567180801
+2021-01-29 20:29:29,512          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-29 20:29:29,513          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/abandonada-na-disputa-pelo-senado-tebet-afirma-que-parte-do-mdb-cedeu-ao-toma-la-da-ca-e-ataca-governo-bolsonaro.shtml
+2021-01-29 20:29:29,524          root     INFO: Replying to: 1355251734776582152
+2021-01-29 20:29:29,755          root     INFO: Id to store: 1355251743362347016
+2021-01-29 20:29:33,744          root     INFO: Finished script
