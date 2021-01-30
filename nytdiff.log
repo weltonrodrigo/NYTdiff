@@ -1,13 +1,32 @@
-2021-01-30 16:50:08,146          root     INFO: Starting script
-2021-01-30 16:50:08,989          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-30 16:50:09,662          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-30 16:50:10,346          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-30 16:50:10,494          root     INFO: Parsing R7 - Brasil
-2021-01-30 16:50:11,009          root     INFO: O Partido dos Panteras Negras <ins>no século 21</ins>
-2021-01-30 16:50:12,767          root     INFO: Media ready with ids: 1355558945956487170
-2021-01-30 16:50:12,768          root     INFO: Text to tweet: Modificação do Título
-2021-01-30 16:50:12,768          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-partido-dos-panteras-negras.shtml
-2021-01-30 16:50:12,776          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-partido-dos-panteras-negras.shtml
-2021-01-30 16:50:12,980          root     INFO: Replying to: 1355558947885879296
-2021-01-30 16:50:13,237          root     INFO: Id to store: 1355558948670238720
-2021-01-30 16:50:19,144          root     INFO: Finished script
+2021-01-30 17:30:11,631          root     INFO: Starting script
+2021-01-30 17:30:12,646          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-30 17:30:13,478          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-30 17:30:14,326          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-30 17:30:14,575          root     INFO: Parsing R7 - Brasil
+2021-01-30 17:30:14,942          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2021/01/bolsonaro-e-o-grande-responsavel-pela-disseminacao-da-epidemia-no-brasil.shtml
+2021-01-30 17:30:16,839          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/baleia-diz-que-lira-flerta-com-radicais-e-que-governo-tenta-cooptar-deputados-com-emendas.shtml
+2021-01-30 17:30:18,728          root     INFO: Pesquisadores brasileiros reconstruíram ambiente antártico do período <del>cetáceo</del> <ins>cretáceo</ins>
+2021-01-30 17:30:20,593          root     INFO: Media ready with ids: 1355569045421043712
+2021-01-30 17:30:20,593          root     INFO: Text to tweet: Modificação do Título
+2021-01-30 17:30:20,593          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/pesquisadores-brasileiros-reconstruiram-ambiente-antartico-do-periodo-cetaceo.shtml
+2021-01-30 17:30:20,600          root     INFO: Replying to: 1355529812828434440
+2021-01-30 17:30:20,915          root     INFO: Id to store: 1355569047262420998
+2021-01-30 17:30:20,922          root     INFO: Pesquisadores brasileiros reconstruíram o ambiente antártico do período <del>cetáceo.</del> <ins>cretáceo.</ins> Leia mais (01/29/2021 - 23h15)
+2021-01-30 17:30:22,748          root     INFO: Media ready with ids: 1355569054304657408
+2021-01-30 17:30:22,748          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-30 17:30:22,749          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/pesquisadores-brasileiros-reconstruiram-ambiente-antartico-do-periodo-cetaceo.shtml
+2021-01-30 17:30:22,756          root     INFO: Replying to: 1355569047262420998
+2021-01-30 17:30:23,085          root     INFO: Id to store: 1355569056204660737
+2021-01-30 17:30:25,180          root     INFO: Removed http://noticias.r7.com/brasil/governador-anuncia-lockdown-em-duas-regioes-do-para-30012021
+2021-01-30 17:30:25,187          root     INFO: Removed http://noticias.r7.com/brasil/ex-procuradores-pedem-que-aras-ofereca-denuncia-contra-bolsonaro-29012021
+2021-01-30 17:30:25,191          root     INFO: Removed http://noticias.r7.com/brasil/por-furar-fila-ex-secretario-de-saude-vai-pagar-multa-de-r-50-mil-29012021
+2021-01-30 17:30:25,195          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/capita-da-cloroquina-no-ministerio-da-saude-diz-ser-alvo-de-militancia-politica-e-promete-que-continuara-igual.shtml
+2021-01-30 17:30:25,199          root     INFO: Removed http://noticias.r7.com/brasil/remocao-de-pacientes-e-unica-solucao-em-manaus-diz-pazuello-29012021
+2021-01-30 17:30:25,203          root     INFO: Removed http://noticias.r7.com/brasil/governo-federal-nao-vai-colocar-restricoes-a-huawei-em-leilao-do-5g-29012021
+2021-01-30 17:30:25,207          root     INFO: Removed http://noticias.r7.com/brasil/lasier-martins-lanca-candidatura-a-presidencia-do-senado-29012021
+2021-01-30 17:30:25,211          root     INFO: Removed http://noticias.r7.com/brasil/na-reta-final-lira-e-baleia-se-encontram-com-aliados-29012021
+2021-01-30 17:30:25,214          root     INFO: Removed http://noticias.r7.com/brasil/fotos/dados-do-mercado-de-trabalho-e-gastos-do-governo-foram-destaque-30012021
+2021-01-30 17:30:25,219          root     INFO: Removed http://noticias.r7.com/brasil/contra-o-governo-ibama-manda-belo-monte-liberar-agua-30012021
+2021-01-30 17:30:25,223          root     INFO: Removed http://noticias.r7.com/brasil/ernesto-araujo-se-diz-preocupado-com-totalitarismo-tecnologico-29012021
+2021-01-30 17:30:25,227          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/01/a-nova-politica-da-pandemia.shtml
+2021-01-30 17:30:25,228          root     INFO: Finished script
