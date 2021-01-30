@@ -1,12 +1,10 @@
-2021-01-30 04:35:03,661          root     INFO: Starting script
-2021-01-30 04:35:04,686          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-30 04:35:05,531          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-30 04:35:06,361          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-30 04:35:06,597          root     INFO: Parsing R7 - Brasil
-2021-01-30 04:35:06,924          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/01/industria-das-motos-comeca-mal-o-ano-mas-mantem-otimismo.shtml
-2021-01-30 04:35:06,969          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/o-papel-dos-classicos.shtml
-2021-01-30 04:35:06,986          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-partido-dos-panteras-negras.shtml
-2021-01-30 04:35:13,432          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/vidas-e-empregos.shtml
-2021-01-30 04:35:13,439          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/sao-paulo-nao-faz-bem-coisas-que-melhor-sabia-fazer.shtml
-2021-01-30 04:35:13,442          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/01/direita-sem-bolsonaro.shtml
-2021-01-30 04:35:13,444          root     INFO: Finished script
+2021-01-30 05:06:11,930          root     INFO: Starting script
+2021-01-30 05:06:12,860          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-30 05:06:13,575          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-30 05:06:14,279          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-30 05:06:14,444          root     INFO: Parsing R7 - Brasil
+2021-01-30 05:06:14,846          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/01/babando-na-gravata.shtml
+2021-01-30 05:06:16,995          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49007
+2021-01-30 05:06:21,601          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-triunfo-de-doria.shtml
+2021-01-30 05:06:21,605          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/maia-ve-baleia-a-frente-de-lira-mas-admite-traicao-de-um-terco-do-seu-partido-na-eleicao-da-camara.shtml
+2021-01-30 05:06:21,606          root     INFO: Finished script
