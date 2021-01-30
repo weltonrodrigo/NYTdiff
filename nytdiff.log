@@ -1,38 +1,6 @@
-2021-01-30 02:48:39,256          root     INFO: Starting script
-2021-01-30 02:48:40,092          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-30 02:48:40,787          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-30 02:48:41,463          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-30 02:48:41,625          root     INFO: Parsing R7 - Brasil
-2021-01-30 02:48:41,990          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/01/manaus-e-a-prova-de-que-ja-nao-dispomos-de-um-governo-funcional.shtml
-2021-01-30 02:48:42,033          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/01/argumento-de-que-esporte-e-politica-nao-se-misturam-so-vale-para-quem-tem-o-poder.shtml
-2021-01-30 02:48:42,045          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/vacina-informativa.shtml
-2021-01-30 02:48:42,056          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/01/india-se-abre-para-os-eua-e-tem-alivio-ate-na-cobertura.shtml
-2021-01-30 02:48:42,067          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/01/a-troca-da-guarda.shtml
-2021-01-30 02:48:42,077          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/01/solidariedade-social.shtml
-2021-01-30 02:48:42,087          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/violencia-na-quarentena.shtml
-2021-01-30 02:48:42,098          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-voto-secreto-e-o-melhor-modelo-para-as-eleicoes-das-presidencias-da-camara-e-do-senado-sim.shtml
-2021-01-30 02:48:42,108          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-voto-secreto-e-o-melhor-modelo-para-as-eleicoes-das-presidencias-da-camara-e-do-senado-nao.shtml
-2021-01-30 02:48:44,172          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/camara-vai-permitir-que-deputados-levem-celular-para-cabine-e-sigilo-da-eleicao-fica-em-xeque.shtml
-2021-01-30 02:48:44,184          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/cabo-eleitoral-do-mdb-fixa-ponto-no-aeroporto-de-brasilia-para-convencer-parlamentares-a-votar-em-baleia.shtml
-2021-01-30 02:48:44,196          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/01/manaus-e-a-prova-de-que-ja-nao-dispomos-de-um-governo-funcional.shtml
-2021-01-30 02:48:44,211          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/ex-alunos-do-colegio-santa-cruz-enviam-carta-a-maia-pedindo-abertura-de-impeachment-de-bolsonaro.shtml
-2021-01-30 02:48:44,222          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/tribunal-de-justica-de-sp-comecara-a-pagar-auxilio-saude-para-seus-magistrados-a-partir-de-fevereiro.shtml
-2021-01-30 02:48:44,232          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pai-de-baleia-rossi-apresentou-temer-a-joesley-e-e-alvo-de-delacoes.shtml
-2021-01-30 02:48:46,351          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/pesquisadores-brasileiros-reconstruiram-ambiente-antartico-do-periodo-cetaceo.shtml
-2021-01-30 02:48:48,808          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2021/01/aqueles-que-afirmam-nao-estar-a-venda-sao-sempre-os-mais-baratos.shtml
-2021-01-30 02:48:48,813          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/retardataria-longa-e-professoral-carta-de-bolsonaro-a-biden-nao-servira-para-nada.shtml
-2021-01-30 02:48:48,817          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2021/01/compreendendo-os-efeitos-e-as-causas-da-gentrificacao.shtml
-2021-01-30 02:48:48,821          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/cuba-e-eua-uma-nova-oportunidade.shtml
-2021-01-30 02:48:48,824          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/para-tentar-frear-mdb-alcolumbre-cede-e-oferece-ao-partido-candidatura-a-vice-presidencia-do-senado.shtml
-2021-01-30 02:48:48,827          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/relatorio-aponta-que-familia-bolsonaro-lidera-ranking-de-ataque-a-imprensa-em-2020.shtml
-2021-01-30 02:48:48,831          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/01/assistindo-a-estreia-de-casablanca.shtml
-2021-01-30 02:48:48,835          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2021/01/quem-ri-por-ultimo-da-triste-piada-do-chanceler-sao-chineses-e-indianos.shtml
-2021-01-30 02:48:48,839          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/01/e-o-povo-quem-decide.shtml
-2021-01-30 02:48:48,843          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/entenda-o-que-esta-em-jogo-e-quais-as-regras-das-eleicoes-para-presidencias-de-camara-e-senado.shtml
-2021-01-30 02:48:48,848          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10631
-2021-01-30 02:48:48,851          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2021/01/debentures-participativas-de-emissao-da-vale.shtml
-2021-01-30 02:48:48,855          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/parlamentares-pro-arthur-lira-vao-fazer-campanha-por-deputada-em-vaga-no-stf.shtml
-2021-01-30 02:48:48,859          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/para-mourao-ruido-sobre-vacinacao-e-crise-em-manaus-derrubou-popularidade-de-bolsonaro.shtml
-2021-01-30 02:48:48,864          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-conselho-federal-de-medicina-e-a-covid-19.shtml
-2021-01-30 02:48:48,867          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/10/la-nina-retorna-com-tempestades-secas-e-mau-tempo-alerta-onu.shtml
-2021-01-30 02:48:48,868          root     INFO: Finished script
+2021-01-30 03:06:48,762          root     INFO: Starting script
+2021-01-30 03:06:49,628          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-30 03:06:50,325          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-30 03:06:51,017          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-30 03:06:51,299          root     INFO: Parsing R7 - Brasil
+2021-01-30 03:06:57,968          root     INFO: Finished script
