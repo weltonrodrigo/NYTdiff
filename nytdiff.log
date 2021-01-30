@@ -1,8 +1,13 @@
-2021-01-30 14:28:26,080          root     INFO: Starting script
-2021-01-30 14:28:26,955          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-30 14:28:27,634          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-30 14:28:28,305          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-30 14:28:28,432          root     INFO: Parsing R7 - Brasil
-2021-01-30 14:28:30,862          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-diz-que-pode-levar-onyx-para-o-planalto-e-abrir-vaga-na-cidadania-mas-nega-recriar-ministerios.shtml
-2021-01-30 14:28:35,368          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/tebet-busca-repetir-renan-nao-mas-agora-com-senador-alagoano-como-aliado.shtml
-2021-01-30 14:28:35,369          root     INFO: Finished script
+2021-01-30 14:54:18,061          root     INFO: Starting script
+2021-01-30 14:54:18,896          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-30 14:54:19,574          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-30 14:54:20,257          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-30 14:54:20,530          root     INFO: Parsing R7 - Brasil
+2021-01-30 14:54:24,539          root     INFO: Pesquisadores brasileiros reconstruíram ambiente antártico do período <del>cetáceo</del> <ins>cretáceo</ins>
+2021-01-30 14:54:26,240          root     INFO: Media ready with ids: 1355529810353774594
+2021-01-30 14:54:26,240          root     INFO: Text to tweet: Modificação do Título
+2021-01-30 14:54:26,240          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/pesquisadores-brasileiros-reconstruiram-ambiente-antartico-do-periodo-cetaceo.shtml
+2021-01-30 14:54:26,247          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/pesquisadores-brasileiros-reconstruiram-ambiente-antartico-do-periodo-cetaceo.shtml
+2021-01-30 14:54:26,457          root     INFO: Replying to: 1355529812073447424
+2021-01-30 14:54:26,693          root     INFO: Id to store: 1355529812828434440
+2021-01-30 14:54:28,722          root     INFO: Finished script
