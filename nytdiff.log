@@ -1,6 +1,8 @@
-2021-01-30 03:06:48,762          root     INFO: Starting script
-2021-01-30 03:06:49,628          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-30 03:06:50,325          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-30 03:06:51,017          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-30 03:06:51,299          root     INFO: Parsing R7 - Brasil
-2021-01-30 03:06:57,968          root     INFO: Finished script
+2021-01-30 03:41:35,561          root     INFO: Starting script
+2021-01-30 03:41:36,642          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-30 03:41:37,333          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-30 03:41:38,010          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-30 03:41:38,214          root     INFO: Parsing R7 - Brasil
+2021-01-30 03:41:38,609          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/moeda-sempre-se-desmaterializa-e-muda-ao-longo-da-historia.shtml
+2021-01-30 03:41:43,590          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2021/01/a-falacia-da-meritocracia.shtml
+2021-01-30 03:41:43,591          root     INFO: Finished script
