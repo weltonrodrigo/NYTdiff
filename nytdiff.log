@@ -1,8 +1,13 @@
-2021-01-31 23:30:40,973          root     INFO: Starting script
-2021-01-31 23:30:41,806          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-31 23:30:42,472          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-31 23:30:43,145          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-31 23:30:43,351          root     INFO: Parsing R7 - Brasil
-2021-01-31 23:30:45,725          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/84-dos-leitores-aprovam-cobertura-que-a-folha-faz-do-governo-bolsonaro.shtml
-2021-01-31 23:30:49,917          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/entidades-catolicas-e-evangelicas-apresentam-pedido-de-impeachment-contra-bolsonaro.shtml
-2021-01-31 23:30:49,917          root     INFO: Finished script
+2021-01-31 23:59:29,900          root     INFO: Starting script
+2021-01-31 23:59:31,170          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-31 23:59:32,030          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-31 23:59:32,878          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-31 23:59:33,120          root     INFO: Parsing R7 - Brasil
+2021-01-31 23:59:35,985          root     INFO: Se em 2020 Caetano Veloso causou furor ao dizer que mudou de opinião sobre a experiência socialista citando a obra de Domenico Losurdo, um revisionista sobre o stalinismo, o curso de férias da Universidade <del>Marixista</del> <ins>Marxista</ins> do PCO (Partido da Causa Operária) pretende deixar claro que o legado de Josef Stálin (1878-1953) não tem nada de comunista. Leia mais (01/30/2021 - 23h15)
+2021-01-31 23:59:38,045          root     INFO: Media ready with ids: 1356029401289420803
+2021-01-31 23:59:38,046          root     INFO: Text to tweet: Modificação da Descrição
+2021-01-31 23:59:38,046          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/curso-do-pco-sobre-stalinismo-retrata-ditador-sovietico-como-santo-do-capitalismo.shtml
+2021-01-31 23:59:38,055          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/curso-do-pco-sobre-stalinismo-retrata-ditador-sovietico-como-santo-do-capitalismo.shtml
+2021-01-31 23:59:38,302          root     INFO: Replying to: 1356029403256545282
+2021-01-31 23:59:38,595          root     INFO: Id to store: 1356029404275744771
+2021-01-31 23:59:43,484          root     INFO: Finished script
