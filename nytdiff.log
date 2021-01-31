@@ -1,15 +1,15 @@
-2021-01-31 03:06:31,538          root     INFO: Starting script
-2021-01-31 03:06:32,883          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-01-31 03:06:33,788          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-01-31 03:06:34,625          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-01-31 03:06:34,863          root     INFO: Parsing R7 - Brasil
-2021-01-31 03:06:37,464          root     INFO: Uma decisão do TRF-1 <ins>(Tribunal Regional Federal da 1ª Região)</ins> deve colocar de novo o Coaf na berlinda e pode provocar paralisações em série de investigações no país. A terceira turma do tribunal considerou ilegal o Relatório de Inteligência Financeira produzido pelo órgão sobre transações <ins>suspeitas</ins> de Frederick Wassef, advogado ligado ao clã Bolsonaro. A discussão agora é sobre a metodologia de elaboração dos chamados RIFs. Como consequência, o relator do caso, o juiz federal Ney Bello, trancou a investigação em andamento sobre Wassef. Leia mais (01/30/2021 - 23h17)
-2021-01-31 03:06:39,451          root     INFO: Media ready with ids: 1355714079466393604
-2021-01-31 03:06:39,452          root     INFO: Text to tweet: Modificação da Descrição
-2021-01-31 03:06:39,452          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/trf-1-anula-relatorio-do-coaf-que-aponta-suspeitas-sobre-wassef-ex-advogado-de-bolsonaros-e-investigacao-e-encerrada.shtml
-2021-01-31 03:06:39,462          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/trf-1-anula-relatorio-do-coaf-que-aponta-suspeitas-sobre-wassef-ex-advogado-de-bolsonaros-e-investigacao-e-encerrada.shtml
-2021-01-31 03:06:39,758          root     INFO: Replying to: 1355714081626402816
-2021-01-31 03:06:40,034          root     INFO: Id to store: 1355714082536611841
-2021-01-31 03:06:40,326          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/auxiliares-de-bolsonaro-e-executivos-dizem-acreditar-que-compra-de-compra-de-33-milhoes-de-vacinas-vai-ser-investigada.shtml
-2021-01-31 03:06:45,213          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/candidato-de-maia-baleia-rossi-e-alvo-da-lava-jato-nos-casos-de-jbs-e-odebrecht.shtml
-2021-01-31 03:06:45,214          root     INFO: Finished script
+2021-01-31 03:42:11,544          root     INFO: Starting script
+2021-01-31 03:42:12,402          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-01-31 03:42:13,096          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-01-31 03:42:13,794          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-01-31 03:42:13,948          root     INFO: Parsing R7 - Brasil
+2021-01-31 03:42:16,909          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/parlamentares-promovem-festa-e-aglomeracao-em-apoio-a-candidatura-de-arthur-lira.shtml
+2021-01-31 03:42:17,293          root     INFO: Auxiliares de Bolsonaro e executivos dizem acreditar que compra de <del>compra de</del> 33 milhões de vacinas vai ser investigada
+2021-01-31 03:42:18,995          root     INFO: Media ready with ids: 1355723053632794631
+2021-01-31 03:42:18,996          root     INFO: Text to tweet: Modificação do Título
+2021-01-31 03:42:18,996          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/auxiliares-de-bolsonaro-e-executivos-dizem-acreditar-que-compra-de-compra-de-33-milhoes-de-vacinas-vai-ser-investigada.shtml
+2021-01-31 03:42:19,005          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/auxiliares-de-bolsonaro-e-executivos-dizem-acreditar-que-compra-de-compra-de-33-milhoes-de-vacinas-vai-ser-investigada.shtml
+2021-01-31 03:42:19,169          root     INFO: Replying to: 1355723055021043719
+2021-01-31 03:42:19,390          root     INFO: Id to store: 1355723055687983106
+2021-01-31 03:42:24,252          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/dino-apresenta-queixa-crime-contra-bolsonaro-e-questiona-se-ele-pode-costumeiramente-mentir.shtml
+2021-01-31 03:42:24,253          root     INFO: Finished script
