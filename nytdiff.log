@@ -1,6 +1,53 @@
-2021-02-01 11:27:42,550          root     INFO: Starting script
-2021-02-01 11:27:43,384          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-01 11:27:44,067          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-01 11:27:44,745          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-01 11:27:44,899          root     INFO: Parsing R7 - Brasil
-2021-02-01 11:27:51,126          root     INFO: Finished script
+2021-02-01 11:53:02,346          root     INFO: Starting script
+2021-02-01 11:53:03,198          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-01 11:53:03,904          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-01 11:53:04,607          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-01 11:53:04,921          root     INFO: Parsing R7 - Brasil
+2021-02-01 11:53:07,465          root     INFO: Arthur Lira divulga <del>agenda</del> <ins>evento para anunciar apoio</ins> com DEM, mas ACM Neto manda cancelar
+2021-02-01 11:53:09,130          root     INFO: Media ready with ids: 1356208964380319747
+2021-02-01 11:53:09,131          root     INFO: Text to tweet: Modificação do Título
+2021-02-01 11:53:09,131          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/arthur-lira-divulga-agenda-com-dem-mas-acm-neto-manda-cancelar.shtml
+2021-02-01 11:53:09,143          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/arthur-lira-divulga-agenda-com-dem-mas-acm-neto-manda-cancelar.shtml
+2021-02-01 11:53:09,330          root     INFO: Replying to: 1356208965848326144
+2021-02-01 11:53:09,537          root     INFO: Id to store: 1356208966515257346
+2021-02-01 11:53:09,670          root     INFO: Juiz <del>do Pará</del> <ins>federal</ins> impõe multa de R$ 200 mil por dia a policiais federais <ins>que atuaram</ins> em ação contra madeira ilegal
+2021-02-01 11:53:11,344          root     INFO: Media ready with ids: 1356208973473570817
+2021-02-01 11:53:11,345          root     INFO: Text to tweet: Modificação do Título
+2021-02-01 11:53:11,345          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/juiz-do-para-impoe-multa-de-r-200-mil-por-dia-a-policiais-federais-em-acao-contra-madeira-ilegal.shtml
+2021-02-01 11:53:11,353          root     INFO: Replying to: 1356076672634793987
+2021-02-01 11:53:11,566          root     INFO: Id to store: 1356208975012900865
+2021-02-01 11:53:11,571          root     INFO: Em decisão a favor de uma empresa investigada por <del>explorar madeira ilegalmente,</del> <ins>exploração ilegal de madeira,</ins> um juiz federal de Belém (PA) fixou multa diária de R$ 200 mil para cada policial federal envolvido na ação. Ele mandou liberar uma balsa de madeira apreendida. Leia mais (01/31/2021 - 23h15)
+2021-02-01 11:53:13,272          root     INFO: Media ready with ids: 1356208981597954056
+2021-02-01 11:53:13,272          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-01 11:53:13,272          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/juiz-do-para-impoe-multa-de-r-200-mil-por-dia-a-policiais-federais-em-acao-contra-madeira-ilegal.shtml
+2021-02-01 11:53:13,280          root     INFO: Replying to: 1356208975012900865
+2021-02-01 11:53:13,487          root     INFO: Id to store: 1356208983086919683
+2021-02-01 11:53:17,650          root     INFO: New article tracked: http://noticias.r7.com/brasil/caminhoneiros-rodovias-federais-tem-fluxo-livre-afirma-prf-01022021
+2021-02-01 11:53:17,660          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-vai-reforcar-policiamento-durante-eleicoes-no-congresso-01022021
+2021-02-01 11:53:17,670          root     INFO: New article tracked: http://noticias.r7.com/brasil/banco-central-inicia-hoje-primeira-fase-do-open-banking-01022021
+2021-02-01 11:53:17,681          root     INFO: New article tracked: http://noticias.r7.com/brasil/alagoano-arthur-lira-e-apoiado-pelo-planalto-mas-com-ressalvas-01022021
+2021-02-01 11:53:17,693          root     INFO: New article tracked: http://noticias.r7.com/brasil/baleia-rossi-tenta-manter-estilo-maia-na-presidencia-da-camara-01022021
+2021-02-01 11:53:17,715          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicao-da-camara-hoje-pode-mudar-rumo-do-governo-bolsonaro-01022021
+2021-02-01 11:53:17,724          root     INFO: New article tracked: http://noticias.r7.com/brasil/no-senado-simone-tebet-tenta-superar-favorito-rodrigo-pacheco-01022021
+2021-02-01 11:53:17,734          root     INFO: New article tracked: http://noticias.r7.com/brasil/divididos-caminhoneiros-ameacam-parar-nesta-segunda-governo-nega-01022021
+2021-02-01 11:53:17,743          root     INFO: New article tracked: http://noticias.r7.com/brasil/menino-acorrentado-em-tambor-segue-internado-e-devera-ir-a-abrigo-01022021
+2021-02-01 11:53:17,752          root     INFO: New article tracked: http://noticias.r7.com/brasil/caminhoneiros-prometem-atos-em-rodovias-nesta-segunda-feira-01022021
+2021-02-01 11:53:17,762          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicoes-na-camara-e-senado-veja-como-sera-votacao-presencial-01022021
+2021-02-01 11:53:17,772          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-encerra-recesso-em-que-muitos-ministros-nao-pararam-de-trabalhar-01022021
+2021-02-01 11:53:17,783          root     INFO: New article tracked: http://noticias.r7.com/brasil/enem-digital-tem-68-de-abstencao-no-primeiro-dia-de-prova-31012021
+2021-02-01 11:53:17,792          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-greve-de-caminhoneiros-sera-movimento-fraco-31012021
+2021-02-01 11:53:17,801          root     INFO: New article tracked: http://noticias.r7.com/brasil/redacao-do-enem-digital-e-sobre-desafio-de-reduzir-desigualdades-31012021
+2021-02-01 11:53:17,810          root     INFO: New article tracked: http://noticias.r7.com/brasil/baleia-rossi-vamos-ganhar-e-retomar-debate-sobre-auxilio-31012021
+2021-02-01 11:53:17,821          root     INFO: New article tracked: http://noticias.r7.com/brasil/movimentos-de-caminhoneiros-confirmam-paralisacao-amanha-31012021
+2021-02-01 11:53:17,904          root     INFO: Removed http://noticias.r7.com/brasil/lider-da-bancada-da-bala-desiste-de-candidatura-e-vai-apoiar-lira-30012021
+2021-02-01 11:53:17,907          root     INFO: Removed http://noticias.r7.com/brasil/comercio-preve-demissoes-sem-programa-que-reduz-salarios-31012021
+2021-02-01 11:53:17,912          root     INFO: Removed http://noticias.r7.com/brasil/ninguem-acerta-seis-dezenas-e-mega-sena-acumula-em-r-25-mi-30012021
+2021-02-01 11:53:17,915          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-oxigenio-em-manaus-e-obrigacao-estadual-30012021
+2021-02-01 11:53:17,918          root     INFO: Removed http://noticias.r7.com/brasil/maia-reclama-de-ataque-a-faixas-de-baleia-rossi-em-brasilia-30012021
+2021-02-01 11:53:17,922          root     INFO: Removed http://noticias.r7.com/brasil/presidente-passeia-de-moto-em-brasilia-neste-sabado-30-30012021
+2021-02-01 11:53:17,925          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-nega-recriacao-de-ministerios-da-cultura-e-esporte-30012021
+2021-02-01 11:53:17,928          root     INFO: Removed http://noticias.r7.com/brasil/governador-anuncia-lockdown-em-parte-do-para-devido-a-nova-cepa-30012021
+2021-02-01 11:53:17,932          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-pede-que-caminhoneiros-nao-facam-greve-30012021
+2021-02-01 11:53:17,936          root     INFO: Removed http://noticias.r7.com/brasil/juiza-de-sp-proibe-protesto-de-caminhoneiros-na-via-dutra-30012021
+2021-02-01 11:53:17,940          root     INFO: Removed http://noticias.r7.com/brasil/acompanhe-ao-vivo-a-transmissao-do-santo-culto-em-seu-lar-31012021
+2021-02-01 11:53:17,940          root     INFO: Finished script
