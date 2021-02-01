@@ -1,10 +1,22 @@
-2021-02-01 22:00:54,776          root     INFO: Starting script
-2021-02-01 22:00:55,643          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-01 22:00:56,312          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-01 22:00:56,984          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-01 22:00:57,223          root     INFO: Parsing R7 - Brasil
-2021-02-01 22:00:59,799          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/rodrigo-pacheco-e-eleito-presidente-do-senado-com-apoio-de-bolsonaro-e-alcolumbre.shtml
-2021-02-01 22:00:59,830          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/governismo-de-ocasiao-de-alcolumbre-sera-testado-com-pacheco-no-senado.shtml
-2021-02-01 22:01:04,420          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/dallagnol-e-procuradores-pedem-que-stf-impeca-que-lula-tenha-acesso-as-conversas-da-lava-jato.shtml
-2021-02-01 22:01:04,425          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/pivo-de-ligacao-exaltada-para-general-ramos-aliado-de-maia-anuncia-apoio-a-lira-e-aumenta-crise.shtml
-2021-02-01 22:01:04,425          root     INFO: Finished script
+2021-02-01 22:31:16,763          root     INFO: Starting script
+2021-02-01 22:31:17,803          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-01 22:31:18,659          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-01 22:31:19,499          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-01 22:31:19,741          root     INFO: Parsing R7 - Brasil
+2021-02-01 22:31:22,320          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/saiba-quem-e-rodrigo-pacheco-o-novo-presidente-do-senado.shtml
+2021-02-01 22:31:22,360          root     INFO: O senador Rodrigo Pacheco (DEM-MG), 44, venceu nesta segunda-feira <del>(1)</del> <ins>(1º)</ins> a eleição para a presidência do Senado, casa legislativa que vai comandar pelos próximos dois anos. Leia mais (02/01/2021 - 18h58)
+2021-02-01 22:31:24,164          root     INFO: Media ready with ids: 1356369585235222529
+2021-02-01 22:31:24,165          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-01 22:31:24,165          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/rodrigo-pacheco-e-eleito-presidente-do-senado-com-apoio-de-bolsonaro-e-alcolumbre.shtml
+2021-02-01 22:31:24,173          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/rodrigo-pacheco-e-eleito-presidente-do-senado-com-apoio-de-bolsonaro-e-alcolumbre.shtml
+2021-02-01 22:31:24,416          root     INFO: Replying to: 1356369586984280066
+2021-02-01 22:31:24,700          root     INFO: Id to store: 1356369587940560903
+2021-02-01 22:31:24,976          root     INFO: <del>Desde 6 de maio de 1826, quando foi instalado na época do Império, o Senado Federal teve até hoje 72 mandatos (contando interinos) na</del> <ins>O senador Rodrigo Pacheco (DEM-MG), 44, venceu nesta segunda-feira (1) a eleição para a</ins> presidência <del>da Casa, que teve sua primeira sede no Palácio Conde dos Arcos, conhecido como "Paço</del> do <del>Senado", no Rio de Janeiro</del> <ins>Senado, casa legislativa que vai comandar pelos próximos dois anos.</ins> Leia mais (02/01/2021 - 12h03)
+2021-02-01 22:31:26,781          root     INFO: Media ready with ids: 1356369596106891265
+2021-02-01 22:31:26,782          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-01 22:31:26,782          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/conheca-os-presidentes-do-senado-federal-desde-1826.shtml
+2021-02-01 22:31:26,793          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/conheca-os-presidentes-do-senado-federal-desde-1826.shtml
+2021-02-01 22:31:27,037          root     INFO: Replying to: 1356369597964963841
+2021-02-01 22:31:27,331          root     INFO: Id to store: 1356369598979973122
+2021-02-01 22:31:31,635          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3954
+2021-02-01 22:31:31,636          root     INFO: Finished script
