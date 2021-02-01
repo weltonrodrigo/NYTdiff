@@ -1,6 +1,10 @@
-2021-02-01 19:37:41,163          root     INFO: Starting script
-2021-02-01 19:37:42,308          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-01 19:37:43,007          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-01 19:37:43,703          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-01 19:37:43,935          root     INFO: Parsing R7 - Brasil
-2021-02-01 19:37:52,551          root     INFO: Finished script
+2021-02-01 19:55:28,285          root     INFO: Starting script
+2021-02-01 19:55:29,330          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-01 19:55:30,173          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-01 19:55:31,019          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-01 19:55:31,255          root     INFO: Parsing R7 - Brasil
+2021-02-01 19:55:34,045          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/professores-de-direito-da-usp-pedem-impeachment-de-bolsonaro.shtml
+2021-02-01 19:55:34,058          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/implosao-do-dem-afeta-tabuleiro-da-candidatura-de-doria-em-2022.shtml
+2021-02-01 19:55:39,399          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/descontente-com-reajuste-no-diesel-lider-caminhoneiro-manda-mensagem-a-ministro-da-infraestrutura.shtml
+2021-02-01 19:55:39,405          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/governador-do-piaui-quer-que-pazuello-adote-ideia-de-doria-e-tenta-medidas-contra-carnaval.shtml
+2021-02-01 19:55:39,406          root     INFO: Finished script
