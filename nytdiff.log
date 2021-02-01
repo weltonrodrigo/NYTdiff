@@ -1,19 +1,22 @@
-2021-02-01 16:51:45,419          root     INFO: Starting script
-2021-02-01 16:51:46,520          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-01 16:51:47,221          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-01 16:51:47,914          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-01 16:51:48,160          root     INFO: Parsing R7 - Brasil
-2021-02-01 16:51:50,847          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10646
-2021-02-01 16:51:50,859          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/alcolumbre-alega-cuidado-com-a-pandemia-e-cancela-festa-de-transicao-da-presidencia-do-senado.shtml
-2021-02-01 16:51:50,906          root     INFO: Lewandowski levanta sigilo e dá acesso a 50 páginas de conversas de Moro com <del>procuradores</del> <ins>procuradores; leia a troca de mensagens</ins>
-2021-02-01 16:51:52,722          root     INFO: Media ready with ids: 1356284141243949061
-2021-02-01 16:51:52,723          root     INFO: Text to tweet: Modificação do Título
-2021-02-01 16:51:52,723          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-levanta-sigilo-e-novas-conversas-de-moro-com-procuradores-podem-vir-a-publico.shtml
-2021-02-01 16:51:52,731          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-levanta-sigilo-e-novas-conversas-de-moro-com-procuradores-podem-vir-a-publico.shtml
-2021-02-01 16:51:52,950          root     INFO: Replying to: 1356284142867144704
-2021-02-01 16:51:53,190          root     INFO: Id to store: 1356284143747919875
-2021-02-01 16:51:53,206          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49022
-2021-02-01 16:51:58,086          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/01/combate-sem-comando-na-luta-contra-o-virus.shtml
-2021-02-01 16:51:58,091          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/pacientes-transferidos-para-outros-estados-estavam-infectados-com-nova-cepa-do-coronavirus-indica-amazonas.shtml
-2021-02-01 16:51:58,095          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/centrao-deve-ganhar-mais-que-bolsonaro-nas-eleicoes-do-congresso.shtml
-2021-02-01 16:51:58,095          root     INFO: Finished script
+2021-02-01 17:32:17,719          root     INFO: Starting script
+2021-02-01 17:32:18,572          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-01 17:32:19,253          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-01 17:32:19,928          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-01 17:32:20,149          root     INFO: Parsing R7 - Brasil
+2021-02-01 17:32:20,572          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/02/artefatos-do-seculo-7o-estao-mais-vivos-que-muitos-especialistas-do-seculo-21.shtml
+2021-02-01 17:32:22,747          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/pt-aparece-fora-de-bloco-de-baleia-rossi-e-alega-falha-no-sistema-grupo-de-lira-contesta.shtml
+2021-02-01 17:32:22,957          root     INFO: Ao lado de Bolsonaro, Fux <del>critica discurso negacionista</del> <ins>ataca negacionismo</ins> e <ins>se</ins> diz <del>que ciência vencerá obscurantismo na pandemia</del> <ins>estarrecido com discurso compartilhado pelo presidente</ins>
+2021-02-01 17:32:24,716          root     INFO: Media ready with ids: 1356294341753507842
+2021-02-01 17:32:24,717          root     INFO: Text to tweet: Modificação do Título
+2021-02-01 17:32:24,717          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/ao-lado-de-bolsonaro-fux-critica-discurso-negacionista-e-diz-que-ciencia-vencera-obscurantismo-na-pandemia.shtml
+2021-02-01 17:32:24,726          root     INFO: Replying to: 1356255419598045184
+2021-02-01 17:32:24,954          root     INFO: Id to store: 1356294343234113536
+2021-02-01 17:32:24,961          root     INFO: <del>Na</del> <ins>Em cerimônia de</ins> abertura do ano Judiciário nesta segunda-feira (1), o presidente do STF (Supremo Tribunal Federal), Luiz Fux, afirmou que a corte tomou decisões corretas no "caos insondável" da pandemia da Covid-19. Leia mais (02/01/2021 - 11h07)
+2021-02-01 17:32:26,733          root     INFO: Media ready with ids: 1356294350070800384
+2021-02-01 17:32:26,734          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-01 17:32:26,734          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/ao-lado-de-bolsonaro-fux-critica-discurso-negacionista-e-diz-que-ciencia-vencera-obscurantismo-na-pandemia.shtml
+2021-02-01 17:32:26,743          root     INFO: Replying to: 1356294343234113536
+2021-02-01 17:32:26,960          root     INFO: Id to store: 1356294351681445894
+2021-02-01 17:32:31,356          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2021/01/racismo-e-homotransfobia.shtml
+2021-02-01 17:32:31,360          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antoniodelfim/2021/01/a-ford-e-o-befiex.shtml
+2021-02-01 17:32:31,361          root     INFO: Finished script
