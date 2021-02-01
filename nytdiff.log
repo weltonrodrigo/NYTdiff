@@ -1,13 +1,23 @@
-2021-02-01 20:01:52,593          root     INFO: Starting script
-2021-02-01 20:01:53,616          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-01 20:01:54,457          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-01 20:01:55,295          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-01 20:01:55,506          root     INFO: Parsing R7 - Brasil
-2021-02-01 20:01:58,576          root     INFO: Cerca de um mês e meio após a deputada estadual Isa Penna (PSOL) ter denunciado o colega Fernando Cury (Cidadania) por assédio, o processo que pode resultar na cassação do mandato do deputado <del>começará</del> <ins>começou</ins> a tramitar na Assembleia Legislativa de São Paulo, que volta do recesso nesta segunda-feira (1º). Leia mais (01/31/2021 - 23h15)
-2021-02-01 20:02:00,559          root     INFO: Media ready with ids: 1356331988861464579
-2021-02-01 20:02:00,560          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-01 20:02:00,560          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-fim-do-recesso-assembleia-de-sp-inicia-processo-que-pode-cassar-deputado-que-apalpou-colega.shtml
-2021-02-01 20:02:00,570          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-fim-do-recesso-assembleia-de-sp-inicia-processo-que-pode-cassar-deputado-que-apalpou-colega.shtml
-2021-02-01 20:02:00,875          root     INFO: Replying to: 1356331991290040322
-2021-02-01 20:02:01,167          root     INFO: Id to store: 1356331992275701761
-2021-02-01 20:02:04,971          root     INFO: Finished script
+2021-02-01 20:29:52,679          root     INFO: Starting script
+2021-02-01 20:29:53,709          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-01 20:29:54,576          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-01 20:29:55,425          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-01 20:29:55,692          root     INFO: Parsing R7 - Brasil
+2021-02-01 20:29:56,096          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/02/bom-dia-e-sejam-todos-bem-vindos-ao-grupo-de-apoio-aos-problematizadores-anonimos.shtml
+2021-02-01 20:29:58,440          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/camara-municipal-de-sp-reforcara-seguranca-de-vereadores-mas-covereadoras-nao-sao-incluidas.shtml
+2021-02-01 20:29:58,480          root     INFO: Professores de <del>Direito</del> <ins>direito</ins> da USP pedem impeachment de Bolsonaro
+2021-02-01 20:30:00,301          root     INFO: Media ready with ids: 1356339034369511427
+2021-02-01 20:30:00,302          root     INFO: Text to tweet: Modificação do Título
+2021-02-01 20:30:00,302          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/professores-de-direito-da-usp-pedem-impeachment-de-bolsonaro.shtml
+2021-02-01 20:30:00,310          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/professores-de-direito-da-usp-pedem-impeachment-de-bolsonaro.shtml
+2021-02-01 20:30:00,577          root     INFO: Replying to: 1356339036336648193
+2021-02-01 20:30:00,864          root     INFO: Id to store: 1356339037347475464
+2021-02-01 20:30:00,870          root     INFO: Um grupo de 58 professores da Faculdade de Direito do Largo São Francisco, da USP, divulgou nesta segunda (1º) um manifesto pedindo o impeachment do presidente Jair Bolsonaro (sem partido). O texto critica a atuação de Bolsonaro no combate à epidemia da Covid-19. Nomes como Conrado Hübner Mendes, Guilherme Guimarães <del>Feliciano,</del> <ins>Feliciano</ins> e Floriano de Azevedo Marques Neto, diretor da faculdade, aparecem entre os signatários do documento. Leia mais (02/01/2021 - 16h44)
+2021-02-01 20:30:02,780          root     INFO: Media ready with ids: 1356339044473577476
+2021-02-01 20:30:02,780          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-01 20:30:02,780          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/professores-de-direito-da-usp-pedem-impeachment-de-bolsonaro.shtml
+2021-02-01 20:30:02,789          root     INFO: Replying to: 1356339037347475464
+2021-02-01 20:30:03,077          root     INFO: Id to store: 1356339046591700993
+2021-02-01 20:30:08,199          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/01/na-violencia-da-torcida-e-nas-aglomeracoes-responsabilidade-e-jogada-para-o-grupo.shtml
+2021-02-01 20:30:08,205          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/convicto-de-olimpiada-cob-se-une-a-outros-comites-e-cobra-coi-de-definicao-de-protocolos.shtml
+2021-02-01 20:30:08,206          root     INFO: Finished script
