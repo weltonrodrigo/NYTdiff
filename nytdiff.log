@@ -1,6 +1,10 @@
-2021-02-01 21:56:16,279          root     INFO: Starting script
-2021-02-01 21:56:17,107          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-01 21:56:17,794          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-01 21:56:18,472          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-01 21:56:18,713          root     INFO: Parsing R7 - Brasil
-2021-02-01 21:56:25,398          root     INFO: Finished script
+2021-02-01 22:00:54,776          root     INFO: Starting script
+2021-02-01 22:00:55,643          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-01 22:00:56,312          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-01 22:00:56,984          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-01 22:00:57,223          root     INFO: Parsing R7 - Brasil
+2021-02-01 22:00:59,799          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/rodrigo-pacheco-e-eleito-presidente-do-senado-com-apoio-de-bolsonaro-e-alcolumbre.shtml
+2021-02-01 22:00:59,830          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/governismo-de-ocasiao-de-alcolumbre-sera-testado-com-pacheco-no-senado.shtml
+2021-02-01 22:01:04,420          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/dallagnol-e-procuradores-pedem-que-stf-impeca-que-lula-tenha-acesso-as-conversas-da-lava-jato.shtml
+2021-02-01 22:01:04,425          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/pivo-de-ligacao-exaltada-para-general-ramos-aliado-de-maia-anuncia-apoio-a-lira-e-aumenta-crise.shtml
+2021-02-01 22:01:04,425          root     INFO: Finished script
