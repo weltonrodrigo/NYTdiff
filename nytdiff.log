@@ -1,10 +1,13 @@
-2021-02-01 19:55:28,285          root     INFO: Starting script
-2021-02-01 19:55:29,330          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-01 19:55:30,173          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-01 19:55:31,019          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-01 19:55:31,255          root     INFO: Parsing R7 - Brasil
-2021-02-01 19:55:34,045          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/professores-de-direito-da-usp-pedem-impeachment-de-bolsonaro.shtml
-2021-02-01 19:55:34,058          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/implosao-do-dem-afeta-tabuleiro-da-candidatura-de-doria-em-2022.shtml
-2021-02-01 19:55:39,399          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/descontente-com-reajuste-no-diesel-lider-caminhoneiro-manda-mensagem-a-ministro-da-infraestrutura.shtml
-2021-02-01 19:55:39,405          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/governador-do-piaui-quer-que-pazuello-adote-ideia-de-doria-e-tenta-medidas-contra-carnaval.shtml
-2021-02-01 19:55:39,406          root     INFO: Finished script
+2021-02-01 20:01:52,593          root     INFO: Starting script
+2021-02-01 20:01:53,616          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-01 20:01:54,457          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-01 20:01:55,295          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-01 20:01:55,506          root     INFO: Parsing R7 - Brasil
+2021-02-01 20:01:58,576          root     INFO: Cerca de um mês e meio após a deputada estadual Isa Penna (PSOL) ter denunciado o colega Fernando Cury (Cidadania) por assédio, o processo que pode resultar na cassação do mandato do deputado <del>começará</del> <ins>começou</ins> a tramitar na Assembleia Legislativa de São Paulo, que volta do recesso nesta segunda-feira (1º). Leia mais (01/31/2021 - 23h15)
+2021-02-01 20:02:00,559          root     INFO: Media ready with ids: 1356331988861464579
+2021-02-01 20:02:00,560          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-01 20:02:00,560          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-fim-do-recesso-assembleia-de-sp-inicia-processo-que-pode-cassar-deputado-que-apalpou-colega.shtml
+2021-02-01 20:02:00,570          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/com-fim-do-recesso-assembleia-de-sp-inicia-processo-que-pode-cassar-deputado-que-apalpou-colega.shtml
+2021-02-01 20:02:00,875          root     INFO: Replying to: 1356331991290040322
+2021-02-01 20:02:01,167          root     INFO: Id to store: 1356331992275701761
+2021-02-01 20:02:04,971          root     INFO: Finished script
