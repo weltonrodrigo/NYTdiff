@@ -1,23 +1,19 @@
-2021-02-01 15:59:47,800          root     INFO: Starting script
-2021-02-01 15:59:48,625          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-01 15:59:49,309          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-01 15:59:49,983          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-01 15:59:50,182          root     INFO: Parsing R7 - Brasil
-2021-02-01 15:59:50,580          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/digitalizacao-e-o-perigo-do-retrocesso-no-bolsa-familia.shtml
-2021-02-01 15:59:52,580          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-levanta-sigilo-e-novas-conversas-de-moro-com-procuradores-podem-vir-a-publico.shtml
-2021-02-01 15:59:52,849          root     INFO: <del>Conselho</del> <ins>Pressionada por conselho</ins> de <del>ética de grupo político em que</del> <ins>ética,</ins> capitã da cloroquina <del>atua vai analisar seu trabalho no</del> <ins>do</ins> Ministério da Saúde <ins>deixa grupo político</ins>
-2021-02-01 15:59:54,591          root     INFO: Media ready with ids: 1356271062883954688
-2021-02-01 15:59:54,591          root     INFO: Text to tweet: Modificação do Título
-2021-02-01 15:59:54,591          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/conselho-de-etica-de-grupo-politico-em-que-capita-da-cloroquina-atua-vai-analisar-seu-trabalho-no-ministerio-da-saude.shtml
-2021-02-01 15:59:54,599          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/conselho-de-etica-de-grupo-politico-em-que-capita-da-cloroquina-atua-vai-analisar-seu-trabalho-no-ministerio-da-saude.shtml
-2021-02-01 15:59:54,808          root     INFO: Replying to: 1356271064423297028
-2021-02-01 15:59:55,045          root     INFO: Id to store: 1356271065216012291
-2021-02-01 15:59:55,052          root     INFO: <del>O</del> <ins>Pressionada pelo</ins> conselho de ética da RAPS (Rede de Ação Política pela Sustentabilidade), <del>a pedido da direção do grupo, vai avaliar a atuação pública de</del> Mayra Pinheiro, secretária do Ministério da Saúde responsável pela insistência do governo em recomendar remédios sem eficácia comprovada contra a <del>Covid-19.</del> <ins>Covid-19, solicitou seu desligamento do grupo.</ins> Leia mais (01/31/2021 - 23h15)
-2021-02-01 15:59:56,779          root     INFO: Media ready with ids: 1356271071947862017
-2021-02-01 15:59:56,779          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-01 15:59:56,779          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/conselho-de-etica-de-grupo-politico-em-que-capita-da-cloroquina-atua-vai-analisar-seu-trabalho-no-ministerio-da-saude.shtml
-2021-02-01 15:59:56,787          root     INFO: Replying to: 1356271065216012291
-2021-02-01 15:59:57,062          root     INFO: Id to store: 1356271073587769344
-2021-02-01 16:00:01,052          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/ministros-do-supremo-e-politicos-se-movimentam-para-emplacar-aliados-em-vagas-abertas-no-judiciario.shtml
-2021-02-01 16:00:01,057          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/investigacao-contra-pazuello-amarra-bolsonaro-e-militares-ate-o-fim.shtml
-2021-02-01 16:00:01,058          root     INFO: Finished script
+2021-02-01 16:51:45,419          root     INFO: Starting script
+2021-02-01 16:51:46,520          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-01 16:51:47,221          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-01 16:51:47,914          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-01 16:51:48,160          root     INFO: Parsing R7 - Brasil
+2021-02-01 16:51:50,847          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10646
+2021-02-01 16:51:50,859          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/alcolumbre-alega-cuidado-com-a-pandemia-e-cancela-festa-de-transicao-da-presidencia-do-senado.shtml
+2021-02-01 16:51:50,906          root     INFO: Lewandowski levanta sigilo e dá acesso a 50 páginas de conversas de Moro com <del>procuradores</del> <ins>procuradores; leia a troca de mensagens</ins>
+2021-02-01 16:51:52,722          root     INFO: Media ready with ids: 1356284141243949061
+2021-02-01 16:51:52,723          root     INFO: Text to tweet: Modificação do Título
+2021-02-01 16:51:52,723          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-levanta-sigilo-e-novas-conversas-de-moro-com-procuradores-podem-vir-a-publico.shtml
+2021-02-01 16:51:52,731          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-levanta-sigilo-e-novas-conversas-de-moro-com-procuradores-podem-vir-a-publico.shtml
+2021-02-01 16:51:52,950          root     INFO: Replying to: 1356284142867144704
+2021-02-01 16:51:53,190          root     INFO: Id to store: 1356284143747919875
+2021-02-01 16:51:53,206          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49022
+2021-02-01 16:51:58,086          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/01/combate-sem-comando-na-luta-contra-o-virus.shtml
+2021-02-01 16:51:58,091          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/pacientes-transferidos-para-outros-estados-estavam-infectados-com-nova-cepa-do-coronavirus-indica-amazonas.shtml
+2021-02-01 16:51:58,095          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/centrao-deve-ganhar-mais-que-bolsonaro-nas-eleicoes-do-congresso.shtml
+2021-02-01 16:51:58,095          root     INFO: Finished script
