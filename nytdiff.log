@@ -1,20 +1,6 @@
-2021-02-02 11:53:06,881          root     INFO: Starting script
-2021-02-02 11:53:07,750          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-02 11:53:08,460          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-02 11:53:09,159          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-02 11:53:09,474          root     INFO: Parsing R7 - Brasil
-2021-02-02 11:53:10,082          root     INFO: O carro-chefe do agronegócio, a soja, não andou no mês passado, e as exportações totais do setor recuaram 2,6% em relação às de janeiro de 2020. <del>?As vendas externas da oleaginosa caíram 95% em valor e 96% em quantidade no período. Devido ao atraso no plantio e, consequentemente na colheita, as exportações de janeiro somaram apenas 49,5 mil toneladas, o menor volume nos meses de janeiro desde 2014. Dados divulgados nesta segunda-feira (1º) pela AgRural apontam que o atraso na colheita e chuvas constantes em algumas regiões fizeram com que apenas 2,5 milhões de toneladas da oleaginosa tivessem sido colhidos até agora neste ano. No mesmo período de 2020, eram 12 milhões. Essa escassez de produto mantém os preços internos bastante aquecidos. A saca está sendo negociada a R$ 169 no porto de Paranaguá, segundo o Cepea (Centro de Estudos Avançados em Economia Aplicada). Nos últimos 12 meses, o valor da oleaginosa teve alta de 95%.A queda nas exportações de soja foi compensada, em parte, pelas de milho e de açúcar.</del> Leia mais (02/01/2021 - 23h15)
-2021-02-02 11:53:11,956          root     INFO: Media ready with ids: 1356571363746676739
-2021-02-02 11:53:11,957          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-02 11:53:11,957          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/exportacao-de-soja-carro-chefe-do-agronegocio-cai-96-em-janeiro.shtml
-2021-02-02 11:53:11,966          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/exportacao-de-soja-carro-chefe-do-agronegocio-cai-96-em-janeiro.shtml
-2021-02-02 11:53:12,149          root     INFO: Replying to: 1356571365512523778
-2021-02-02 11:53:12,367          root     INFO: Id to store: 1356571366191947776
-2021-02-02 11:53:12,432          root     INFO: Então, dez senadores republicanos estão propondo um pacote econômico que seria uma alternativa ao Plano de Resgate Americano do presidente Joe Biden. A proposta seria supostamente uma fração do tamanho do plano de Biden e cortaria de modo importante o núcleo do auxílio econômico. <del>Os republicanos, porém, querem que Biden ceda à vontade deles em nome do bipartidarismo. Ele deveria? Não, não, 1,9 trilhão de vezes não. Não é apenas que o que sabemos sobre a proposta republicana indica que ela é grotescamente inadequada para um país ainda assolado pela pandemia do coronavírus. Além disso, pelo comportamento deles --não apenas nos últimos meses, mas remontando a dezenas de anos--, os republicanos perderam qualquer direito de jogar a cartada do bipartidarismo, ou mesmo de que lhes concedam qualquer presunção de boa fé. Vamos começar pela substância.</del> Leia mais (02/01/2021 - 23h15)
-2021-02-02 11:53:14,286          root     INFO: Media ready with ids: 1356571373632712705
-2021-02-02 11:53:14,287          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-02 11:53:14,287          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/02/o-plano-economico-republicano-e-um-insulto.shtml
-2021-02-02 11:53:14,294          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/02/o-plano-economico-republicano-e-um-insulto.shtml
-2021-02-02 11:53:14,450          root     INFO: Replying to: 1356571375176196098
-2021-02-02 11:53:14,683          root     INFO: Id to store: 1356571375817916416
-2021-02-02 11:53:21,864          root     INFO: Finished script
+2021-02-02 11:58:21,304          root     INFO: Starting script
+2021-02-02 11:58:22,147          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-02 11:58:22,829          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-02 11:58:23,516          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-02 11:58:23,650          root     INFO: Parsing R7 - Brasil
+2021-02-02 11:58:30,446          root     INFO: Finished script
