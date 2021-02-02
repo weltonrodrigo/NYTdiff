@@ -1,23 +1,40 @@
-2021-02-02 02:06:31,669          root     INFO: Starting script
-2021-02-02 02:06:32,532          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-02 02:06:33,243          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-02 02:06:33,939          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-02 02:06:34,140          root     INFO: Parsing R7 - Brasil
-2021-02-02 02:06:36,649          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/saiba-quem-e-arthur-lira-novo-presidente-da-camara-que-construiu-base-para-bolsonaro.shtml
-2021-02-02 02:06:36,664          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/prazo-de-validade-da-vitoria-de-bolsonaro-com-lira-na-camara-e-curtissimo.shtml
-2021-02-02 02:06:36,676          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/vitoria-de-lira-coroa-serie-de-derrotas-de-maia-que-perde-forca-no-plano-anti-bolsonaro-para-2022.shtml
-2021-02-02 02:06:36,690          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lider-do-centrao-lira-e-eleito-presidente-da-camara-apos-interferencia-de-bolsonaro.shtml
-2021-02-02 02:06:36,704          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/maia-chora-na-despedida-da-camara-e-diz-que-as-brigas-passaram.shtml
-2021-02-02 02:06:37,102          root     INFO: <del>A Câmara dos Deputados</del> <ins>O deputado Arthur Lira (PP-AL), 51, líder do centrão,</ins> foi <del>instituída a partir de decreto imperial de 26 de março de 1824, mas teve sua primeira sessão preparatória em 29 de abril de 1826 e sua primeira sessão de abertura</del> <ins>eleito nesta segunda-feira (1º) presidente</ins> da <del>legislatura em 6</del> <ins>Câmara para um mandato</ins> de <del>maio de 1826.</del> <ins>dois anos.</ins> Leia mais (02/01/2021 - 12h04)
-2021-02-02 02:06:38,920          root     INFO: Media ready with ids: 1356423753526358016
-2021-02-02 02:06:38,920          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-02 02:06:38,921          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2019/02/conheca-os-presidentes-da-camara-dos-deputados-desde-1826.shtml
-2021-02-02 02:06:38,929          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2019/02/conheca-os-presidentes-da-camara-dos-deputados-desde-1826.shtml
-2021-02-02 02:06:39,238          root     INFO: Replying to: 1356423755606630401
-2021-02-02 02:06:39,513          root     INFO: Id to store: 1356423756592410624
-2021-02-02 02:06:43,578          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/governista-lira-contradiz-bolsonaro-e-afirma-que-ninguem-interfere-na-presidencia-da-camara.shtml
-2021-02-02 02:06:43,583          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/nao-ha-a-menor-chance-de-eu-desistir-da-minha-candidatura-diz-baleia-rossi-em-meio-a-crise-no-bloco.shtml
-2021-02-02 02:06:43,587          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/no-nordeste-bolsonaro-pede-voto-em-lider-do-centrao-afaga-ernesto-araujo-e-acena-a-caminhoneiros.shtml
-2021-02-02 02:06:43,591          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10641
-2021-02-02 02:06:43,595          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/stf-ignora-pandemia-e-marca-sessao-presencial-apos-bolsonaro-recusar-convite-virtual.shtml
-2021-02-02 02:06:43,596          root     INFO: Finished script
+2021-02-02 02:44:06,035          root     INFO: Starting script
+2021-02-02 02:44:07,061          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-02 02:44:07,881          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-02 02:44:08,715          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-02 02:44:09,098          root     INFO: Parsing R7 - Brasil
+2021-02-02 02:44:09,512          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/02/torcer-pela-olimpiada-e-tambem-acreditar-na-superacao-da-pandemia.shtml
+2021-02-02 02:44:09,525          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/02/as-pistas-deixadas-pelo-miliciano.shtml
+2021-02-02 02:44:09,537          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/02/bolsonaristas-deveriam-revoltar-se.shtml
+2021-02-02 02:44:09,547          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/guilhermeboulos/2021/02/radicalismo-da-indiferenca.shtml
+2021-02-02 02:44:09,556          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/exportacao-de-soja-carro-chefe-do-agronegocio-cai-96-em-janeiro.shtml
+2021-02-02 02:44:09,566          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/02/mulheres-conquistam-espaco-no-futebol-porque-merecem-nao-porque-sao-mulheres.shtml
+2021-02-02 02:44:09,576          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/02/o-plano-economico-republicano-e-um-insulto.shtml
+2021-02-02 02:44:09,587          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/sem-esquecimento.shtml
+2021-02-02 02:44:09,598          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/enquanto-a-saude-colapsa-dados-seguem-escondidos.shtml
+2021-02-02 02:44:09,608          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/carnaval-da-vacina.shtml
+2021-02-02 02:44:09,616          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/medicina-ciencia-e-etica.shtml
+2021-02-02 02:44:09,626          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/centrao-no-comando.shtml
+2021-02-02 02:44:11,343          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/maia-nao-deve-ficar-no-dem-e-futuro-politico-de-presidente-da-camara-e-incerto-avaliam-parlamentares.shtml
+2021-02-02 02:44:11,353          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-envia-mensagens-de-moro-a-turma-que-vai-julga-lo-so-um-de-740-gb-ja-foi-divulgado.shtml
+2021-02-02 02:44:11,364          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/02/o-bbb-e-nosso-espelho-e-nao-gostamos-do-que-vemos.shtml
+2021-02-02 02:44:11,373          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/ciro-e-marina-debatem-impeachment-de-bolsonaro-apos-eleicoes-na-camara-e-no-senado.shtml
+2021-02-02 02:44:11,382          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/mdb-identifica-um-dos-autores-de-vandalismo-contra-faixas-de-baleia-rossi-bolsonarista-tem-historico-de-ameacas-e-agressoes.shtml
+2021-02-02 02:44:15,259          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/lira-emprega-na-camara-assessor-ligado-a-seu-principal-advogado-particular.shtml
+2021-02-02 02:44:15,263          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/01/o-primeiro-palmeiras-x-santos-e-de-1915-o-mais-importante-sera-agora-no-rio.shtml
+2021-02-02 02:44:15,267          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/assembleia-de-sp-reserva-r-30-milhoes-para-publicidade-em-meio-a-pandemia.shtml
+2021-02-02 02:44:15,271          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/oportunidades-a-mao.shtml
+2021-02-02 02:44:15,274          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-impeachment-e-a-economia.shtml
+2021-02-02 02:44:15,278          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/saida-da-ford-impoe-acelerar-mudancas.shtml
+2021-02-02 02:44:15,281          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/01/lira-nao-e-so-o-antirreforma-ele-e-a-contrarreforma.shtml
+2021-02-02 02:44:15,284          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/01/terror-criado-no-quintal.shtml
+2021-02-02 02:44:15,288          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/01/bolsonaro-tem-paladar-infantil-mas-gastar-r-15-milhoes-em-doce-foi-demais.shtml
+2021-02-02 02:44:15,291          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/mdb-abandona-tebet-e-abre-caminho-para-vitoria-de-aliado-de-bolsonaro-no-senado.shtml
+2021-02-02 02:44:15,294          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2021/01/e-se-as-criancas-fossem-o-principal-grupo-de-risco-da-covid-19.shtml
+2021-02-02 02:44:15,297          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/alem-da-prevencao-e-da-vacina.shtml
+2021-02-02 02:44:15,300          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/deputado-que-apalpou-colega-em-sp-tenta-barrar-investigacao-sobre-o-caso-no-ministerio-publico.shtml
+2021-02-02 02:44:15,304          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2021/01/por-que-ate-agora-as-previsoes-sobre-o-fracasso-da-netflix-deram-errado.shtml
+2021-02-02 02:44:15,307          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josimarmelo/2021/01/gloriosa-barriga-de-porco.shtml
+2021-02-02 02:44:15,311          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/centrao-deve-ganhar-mais-que-bolsonaro-nas-eleicoes-do-congresso.shtml
+2021-02-02 02:44:15,314          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/dobrar-o-alcance.shtml
+2021-02-02 02:44:15,314          root     INFO: Finished script
