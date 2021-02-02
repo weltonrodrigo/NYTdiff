@@ -1,8 +1,10 @@
-2021-02-02 21:36:32,567          root     INFO: Starting script
-2021-02-02 21:36:33,442          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-02 21:36:34,113          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-02 21:36:34,818          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-02 21:36:35,007          root     INFO: Parsing R7 - Brasil
-2021-02-02 21:36:37,785          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/ataque-indireto-de-vereadora-bolsonarista-a-colegas-trans-marca-1a-sessao-da-camara-de-sp-em-2021.shtml
-2021-02-02 21:36:42,589          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/pai-de-baleia-rossi-apresentou-temer-a-joesley-e-e-alvo-de-delacoes.shtml
-2021-02-02 21:36:42,590          root     INFO: Finished script
+2021-02-02 21:53:37,453          root     INFO: Starting script
+2021-02-02 21:53:38,282          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-02 21:53:38,961          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-02 21:53:39,641          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-02 21:53:39,948          root     INFO: Parsing R7 - Brasil
+2021-02-02 21:53:40,335          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/02/o-corrupto-que-chefia-quadrilha-passou-a-ser-tratado-como-desbocado.shtml
+2021-02-02 21:53:42,338          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-cede-chega-a-acordo-com-oposicao-e-coloca-pt-e-psb-na-mesa-de-comando-da-camara.shtml
+2021-02-02 21:53:46,578          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/o-brasil-merece-mais.shtml
+2021-02-02 21:53:46,582          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/tribunal-de-justica-de-sp-comecara-a-pagar-auxilio-saude-para-seus-magistrados-a-partir-de-fevereiro.shtml
+2021-02-02 21:53:46,582          root     INFO: Finished script
