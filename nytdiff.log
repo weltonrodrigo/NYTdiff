@@ -1,8 +1,25 @@
-2021-02-02 03:35:01,724          root     INFO: Starting script
-2021-02-02 03:35:02,755          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-02 03:35:03,603          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-02 03:35:04,436          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-02 03:35:04,656          root     INFO: Parsing R7 - Brasil
-2021-02-02 03:35:07,077          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-1a-decisao-lira-rebaixa-pt-favorece-aliados-e-tira-tucanos-e-rede-do-comando-da-camara.shtml
-2021-02-02 03:35:11,539          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/governo-nao-consegue-apresentar-plano-de-saida-para-o-auxilio-emergencial.shtml
-2021-02-02 03:35:11,541          root     INFO: Finished script
+2021-02-02 04:02:05,195          root     INFO: Starting script
+2021-02-02 04:02:06,224          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-02 04:02:07,059          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-02 04:02:07,899          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-02 04:02:08,208          root     INFO: Parsing R7 - Brasil
+2021-02-02 04:02:10,560          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/ministerio-da-saude-fica-um-mes-sem-atualizar-dados-de-dengue-e-chikungunya-no-pico-das-doencas.shtml
+2021-02-02 04:02:10,577          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/divisao-do-dem-na-camara-fortalece-desconfiancas-de-que-partido-tenta-se-afastar-de-doria-para-2022.shtml
+2021-02-02 04:02:10,586          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/tcu-arquiva-representacao-contra-projeto-da-pgr-de-sala-vip-para-subprocuradores-em-aeroporto.shtml
+2021-02-02 04:02:10,596          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/deputados-veem-dem-como-novo-pp-e-acham-que-partido-escolhera-quem-tiver-mais-chances-em-2022.shtml
+2021-02-02 04:02:10,606          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/acm-neto-nao-tera-mais-a-confianca-dizem-aliados-de-maia-e-ouvem-que-ex-presidente-nao-soube-articular.shtml
+2021-02-02 04:02:10,617          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/opcao-de-dem-por-lira-rompe-elo-com-frente-ampla-contra-bolsonaro-e-com-huck-avalia-cidadania.shtml
+2021-02-02 04:02:10,651          root     INFO: <del>Na primeira decisão como presidente da Câmara, na noite desta segunda-feira (1º),</del> <ins>Apesar do discurso inicial conciliatório e de respeito a todas as forças políticas que</ins> o deputado Arthur Lira (PP-AL) <del>invalidou o registro do bloco do adversário</del> <ins>adotou</ins> na <del>disputa, Baleia Rossi (MDB-SP), anulando a escolha dos</del> <ins>noite desta segunda-feira (1º) assim que foi eleito à presidência da Câmara, seu primeiro ato no posto exclui praticamente todos os adversários de</ins> cargos <del>realizada durante a tarde, baseada na proporcionalidade vigente.</del> <ins>do comando da Casa, trocando-os por aliados.</ins> Leia mais (02/02/2021 - 00h11)
+2021-02-02 04:02:12,524          root     INFO: Media ready with ids: 1356452835261620230
+2021-02-02 04:02:12,524          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-02 04:02:12,525          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-1a-decisao-lira-rebaixa-pt-favorece-aliados-e-tira-tucanos-e-rede-do-comando-da-camara.shtml
+2021-02-02 04:02:12,533          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-1a-decisao-lira-rebaixa-pt-favorece-aliados-e-tira-tucanos-e-rede-do-comando-da-camara.shtml
+2021-02-02 04:02:12,767          root     INFO: Replying to: 1356452837090349057
+2021-02-02 04:02:13,074          root     INFO: Id to store: 1356452838063374336
+2021-02-02 04:02:17,312          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/secretarios-da-saude-se-dividem-sobre-pedido-de-doria-para-usar-estoque-de-vacinas-na-primeira-dose.shtml
+2021-02-02 04:02:17,316          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/tribunal-de-contas-de-sp-pede-explicacoes-a-doria-sobre-fura-filas-em-vacinacao-nos-hospitais.shtml
+2021-02-02 04:02:17,319          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/centro-academico-de-direito-da-usp-apresenta-denuncia-de-impeachment-contra-bolsonaro.shtml
+2021-02-02 04:02:17,323          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/aliados-de-baleia-apostam-em-traicoes-escondidas-em-eleicao-para-o-comando-da-camara.shtml
+2021-02-02 04:02:17,329          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/mourao-fica-irritado-com-ausencia-de-salles-em-encontro-sobre-fim-da-glo-ambiental-na-amazonia.shtml
+2021-02-02 04:02:17,333          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/integrantes-do-dem-articulam-saida-honrosa-para-rodrigo-maia.shtml
+2021-02-02 04:02:17,333          root     INFO: Finished script
