@@ -1,6 +1,10 @@
-2021-02-02 10:59:20,413          root     INFO: Starting script
-2021-02-02 10:59:21,634          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-02 10:59:22,309          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-02 10:59:22,979          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-02 10:59:23,271          root     INFO: Parsing R7 - Brasil
-2021-02-02 10:59:30,057          root     INFO: Finished script
+2021-02-02 11:27:49,677          root     INFO: Starting script
+2021-02-02 11:27:50,521          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-02 11:27:51,215          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-02 11:27:51,896          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-02 11:27:52,223          root     INFO: Parsing R7 - Brasil
+2021-02-02 11:27:52,639          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/dia-de-iemanja-da-festa-a-resistencia.shtml
+2021-02-02 11:27:54,565          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/entenda-decisao-de-arthur-lira-que-favorece-aliados-barra-adversarios-e-pode-chegar-ao-supremo.shtml
+2021-02-02 11:27:58,659          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2021/01/racismo-e-homotransfobia.shtml
+2021-02-02 11:27:58,665          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/para-evitar-vexame-maia-tenta-segurar-apoio-de-dem-e-solidariedade-em-eleicao-na-camara.shtml
+2021-02-02 11:27:58,668          root     INFO: Finished script
