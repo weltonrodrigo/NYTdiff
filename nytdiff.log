@@ -1,6 +1,10 @@
-2021-02-02 22:57:20,197          root     INFO: Starting script
-2021-02-02 22:57:21,043          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-02 22:57:21,725          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-02 22:57:22,415          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-02 22:57:22,546          root     INFO: Parsing R7 - Brasil
-2021-02-02 22:57:28,503          root     INFO: Finished script
+2021-02-02 23:12:51,394          root     INFO: Starting script
+2021-02-02 23:12:52,428          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-02 23:12:53,256          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-02 23:12:54,096          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-02 23:12:54,323          root     INFO: Parsing R7 - Brasil
+2021-02-02 23:12:54,734          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/sites-encolhem-desertos-de-noticia-no-brasil.shtml
+2021-02-02 23:12:56,968          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/mdb-conquista-primeira-vice-presidencia-do-senado-e-evita-crise-para-pacheco.shtml
+2021-02-02 23:13:01,736          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/ex-alunos-do-colegio-santa-cruz-enviam-carta-a-maia-pedindo-abertura-de-impeachment-de-bolsonaro.shtml
+2021-02-02 23:13:01,741          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/desafios-de-um-novo-velho-mundo.shtml
+2021-02-02 23:13:01,741          root     INFO: Finished script
