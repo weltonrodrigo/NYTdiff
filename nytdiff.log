@@ -1,12 +1,13 @@
-2021-02-02 20:26:38,862          root     INFO: Starting script
-2021-02-02 20:26:40,886          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-02 20:26:41,712          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-02 20:26:42,550          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-02 20:26:42,771          root     INFO: Parsing R7 - Brasil
-2021-02-02 20:26:43,168          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/02/diniz-possui-boas-ideias-mas-nao-aprendeu-a-executar-bem-o-que-pretende.shtml
-2021-02-02 20:26:43,182          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/atila-iamarino/2021/02/por-que-variante-de-coronavirus-surgiu-agora-e-em-manaus.shtml
-2021-02-02 20:26:45,191          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/na-contramao-de-tendencia-nacional-prefeitura-de-ilhabela-decide-comprar-kit-covid.shtml
-2021-02-02 20:26:49,357          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/01/anos-de-democracia-nao-bastaram-para-tratar-as-mazelas-do-colonialismo.shtml
-2021-02-02 20:26:49,362          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/01/no-silencio-do-meu-mundo.shtml
-2021-02-02 20:26:49,365          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=48999
-2021-02-02 20:26:49,366          root     INFO: Finished script
+2021-02-02 20:52:01,910          root     INFO: Starting script
+2021-02-02 20:52:02,793          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-02 20:52:03,473          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-02 20:52:04,157          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-02 20:52:04,322          root     INFO: Parsing R7 - Brasil
+2021-02-02 20:52:06,557          root     INFO: Grupo de WhatsApp tem discussão após Kataguiri chamar deputados de <del>tchuchucas</del> <ins>tchutchucas</ins> do centrão
+2021-02-02 20:52:08,464          root     INFO: Media ready with ids: 1356706992392458246
+2021-02-02 20:52:08,465          root     INFO: Text to tweet: Modificação do Título
+2021-02-02 20:52:08,465          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/grupo-de-whatsapp-tem-discussao-apos-kataguiri-chamar-deputados-de-tchuchucas-do-centrao.shtml
+2021-02-02 20:52:08,475          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/grupo-de-whatsapp-tem-discussao-apos-kataguiri-chamar-deputados-de-tchuchucas-do-centrao.shtml
+2021-02-02 20:52:08,680          root     INFO: Replying to: 1356706994766372865
+2021-02-02 20:52:08,942          root     INFO: Id to store: 1356706995441709056
+2021-02-02 20:52:12,606          root     INFO: Finished script
