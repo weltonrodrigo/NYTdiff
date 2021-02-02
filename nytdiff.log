@@ -1,6 +1,13 @@
-2021-02-02 13:39:51,943          root     INFO: Starting script
-2021-02-02 13:39:52,964          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-02 13:39:53,807          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-02 13:39:54,630          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-02 13:39:54,882          root     INFO: Parsing R7 - Brasil
-2021-02-02 13:40:01,028          root     INFO: Finished script
+2021-02-02 13:54:14,963          root     INFO: Starting script
+2021-02-02 13:54:15,799          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-02 13:54:16,486          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-02 13:54:17,177          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-02 13:54:17,439          root     INFO: Parsing R7 - Brasil
+2021-02-02 13:54:17,872          root     INFO: Pelo auxílio <del>emeregencial</del> <ins>emergencial</ins> até o fim da pandemia
+2021-02-02 13:54:19,618          root     INFO: Media ready with ids: 1356601846635331584
+2021-02-02 13:54:19,618          root     INFO: Text to tweet: Modificação do Título
+2021-02-02 13:54:19,618          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/desigualdades/2021/02/pelo-auxilio-emeregencial-ate-o-fim-da-pandemia.shtml
+2021-02-02 13:54:19,628          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/desigualdades/2021/02/pelo-auxilio-emeregencial-ate-o-fim-da-pandemia.shtml
+2021-02-02 13:54:19,794          root     INFO: Replying to: 1356601848216625154
+2021-02-02 13:54:20,001          root     INFO: Id to store: 1356601848879325185
+2021-02-02 13:54:25,920          root     INFO: Finished script
