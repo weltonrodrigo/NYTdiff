@@ -1,8 +1,23 @@
-2021-02-02 01:05:55,740          root     INFO: Starting script
-2021-02-02 01:05:56,756          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-02 01:05:57,596          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-02 01:05:58,429          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-02 01:05:58,695          root     INFO: Parsing R7 - Brasil
-2021-02-02 01:06:00,956          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/mesmo-com-pandemia-eleicao-no-congresso-tem-aglomeracao-de-deputados-e-autoridades-sem-mascara.shtml
-2021-02-02 01:06:04,731          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/01/bolsonaro-volta-a-dizer-que-leite-condensado-e-para-o-rabo-da-imprensa.shtml
-2021-02-02 01:06:04,733          root     INFO: Finished script
+2021-02-02 02:06:31,669          root     INFO: Starting script
+2021-02-02 02:06:32,532          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-02 02:06:33,243          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-02 02:06:33,939          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-02 02:06:34,140          root     INFO: Parsing R7 - Brasil
+2021-02-02 02:06:36,649          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/saiba-quem-e-arthur-lira-novo-presidente-da-camara-que-construiu-base-para-bolsonaro.shtml
+2021-02-02 02:06:36,664          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/prazo-de-validade-da-vitoria-de-bolsonaro-com-lira-na-camara-e-curtissimo.shtml
+2021-02-02 02:06:36,676          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/vitoria-de-lira-coroa-serie-de-derrotas-de-maia-que-perde-forca-no-plano-anti-bolsonaro-para-2022.shtml
+2021-02-02 02:06:36,690          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lider-do-centrao-lira-e-eleito-presidente-da-camara-apos-interferencia-de-bolsonaro.shtml
+2021-02-02 02:06:36,704          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/maia-chora-na-despedida-da-camara-e-diz-que-as-brigas-passaram.shtml
+2021-02-02 02:06:37,102          root     INFO: <del>A Câmara dos Deputados</del> <ins>O deputado Arthur Lira (PP-AL), 51, líder do centrão,</ins> foi <del>instituída a partir de decreto imperial de 26 de março de 1824, mas teve sua primeira sessão preparatória em 29 de abril de 1826 e sua primeira sessão de abertura</del> <ins>eleito nesta segunda-feira (1º) presidente</ins> da <del>legislatura em 6</del> <ins>Câmara para um mandato</ins> de <del>maio de 1826.</del> <ins>dois anos.</ins> Leia mais (02/01/2021 - 12h04)
+2021-02-02 02:06:38,920          root     INFO: Media ready with ids: 1356423753526358016
+2021-02-02 02:06:38,920          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-02 02:06:38,921          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2019/02/conheca-os-presidentes-da-camara-dos-deputados-desde-1826.shtml
+2021-02-02 02:06:38,929          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2019/02/conheca-os-presidentes-da-camara-dos-deputados-desde-1826.shtml
+2021-02-02 02:06:39,238          root     INFO: Replying to: 1356423755606630401
+2021-02-02 02:06:39,513          root     INFO: Id to store: 1356423756592410624
+2021-02-02 02:06:43,578          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/governista-lira-contradiz-bolsonaro-e-afirma-que-ninguem-interfere-na-presidencia-da-camara.shtml
+2021-02-02 02:06:43,583          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/nao-ha-a-menor-chance-de-eu-desistir-da-minha-candidatura-diz-baleia-rossi-em-meio-a-crise-no-bloco.shtml
+2021-02-02 02:06:43,587          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/no-nordeste-bolsonaro-pede-voto-em-lider-do-centrao-afaga-ernesto-araujo-e-acena-a-caminhoneiros.shtml
+2021-02-02 02:06:43,591          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10641
+2021-02-02 02:06:43,595          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/stf-ignora-pandemia-e-marca-sessao-presencial-apos-bolsonaro-recusar-convite-virtual.shtml
+2021-02-02 02:06:43,596          root     INFO: Finished script
