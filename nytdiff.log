@@ -1,10 +1,13 @@
-2021-02-03 13:52:48,503          root     INFO: Starting script
-2021-02-03 13:52:49,313          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-03 13:52:49,972          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-03 13:52:50,633          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-03 13:52:50,757          root     INFO: Parsing R7 - Brasil
-2021-02-03 13:52:53,131          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-e-pacheco-definem-pauta-economica-como-prioridade-e-cobram-agilidade-na-vacinacao.shtml
-2021-02-03 13:52:55,041          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://ambiencia.blogfolha.uol.com.br/?p=893
-2021-02-03 13:52:57,232          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/de-nata-do-que-nao-presta-a-base-aliada-centrao-explica-adesao-a-bolsonaro.shtml
-2021-02-03 13:52:57,240          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/bolsonaro-comemora-liberacao-de-pesca-de-sardinha-em-noronha-acao-que-preocupa-ambientalistas.shtml
-2021-02-03 13:52:57,241          root     INFO: Finished script
+2021-02-03 14:01:27,676          root     INFO: Starting script
+2021-02-03 14:01:28,699          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-03 14:01:29,515          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-03 14:01:30,337          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-03 14:01:30,626          root     INFO: Parsing R7 - Brasil
+2021-02-03 14:01:33,244          root     INFO: ?Os novos presidentes do Senado, Rodrigo Pacheco (DEM-MG), e da Câmara, Arthur Lira (PP-AL), divulgaram nesta quarta-feira (3) uma pauta conjunta que prioriza projetos <del>econômicos e</del> <ins>econômicos. Eles também</ins> defenderam um processo de vacinação mais ágil no país. Leia mais (02/03/2021 - 10h29)
+2021-02-03 14:01:35,156          root     INFO: Media ready with ids: 1356966061107740675
+2021-02-03 14:01:35,157          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-03 14:01:35,157          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-e-pacheco-definem-pauta-economica-como-prioridade-e-cobram-agilidade-na-vacinacao.shtml
+2021-02-03 14:01:35,166          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-e-pacheco-definem-pauta-economica-como-prioridade-e-cobram-agilidade-na-vacinacao.shtml
+2021-02-03 14:01:35,487          root     INFO: Replying to: 1356966063414640642
+2021-02-03 14:01:35,783          root     INFO: Id to store: 1356966064463237123
+2021-02-03 14:01:40,313          root     INFO: Finished script
