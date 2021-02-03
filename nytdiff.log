@@ -1,6 +1,17 @@
-2021-02-03 19:57:50,564          root     INFO: Starting script
-2021-02-03 19:57:51,373          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-03 19:57:52,032          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-03 19:57:52,679          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-03 19:57:52,864          root     INFO: Parsing R7 - Brasil
-2021-02-03 19:57:59,361          root     INFO: Finished script
+2021-02-03 20:27:10,564          root     INFO: Starting script
+2021-02-03 20:27:11,442          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-03 20:27:12,130          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-03 20:27:12,801          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-03 20:27:12,951          root     INFO: Parsing R7 - Brasil
+2021-02-03 20:27:13,366          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/02/pessoas-temem-que-novo-bbb-abra-uma-espiral-no-espaco-tempo.shtml
+2021-02-03 20:27:15,623          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/02/integrante-de-mandato-coletivo-e-destituida-apos-posts-sobre-volta-das-escolas.shtml
+2021-02-03 20:27:15,662          root     INFO: O presidente Jair <del>Bolsoanro</del> <ins>Bolsonaro</ins> (sem partido) foi hostilizado <ins>pela bancada do PSOL,</ins> na tarde desta quarta-feira (3), ao participar da solenidade de abertura dos trabalhos legislativos de 2021. Leia mais (02/03/2021 - 16h44)
+2021-02-03 20:27:17,525          root     INFO: Media ready with ids: 1357063127234445316
+2021-02-03 20:27:17,525          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-03 20:27:17,525          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/nos-encontramos-em-22-diz-bolsonaro-ao-ser-chamado-de-genocida-e-fascista-no-congresso.shtml
+2021-02-03 20:27:17,535          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/nos-encontramos-em-22-diz-bolsonaro-ao-ser-chamado-de-genocida-e-fascista-no-congresso.shtml
+2021-02-03 20:27:17,736          root     INFO: Replying to: 1357063129117716480
+2021-02-03 20:27:17,971          root     INFO: Id to store: 1357063129922998275
+2021-02-03 20:27:22,882          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/01/estrela-da-posse-de-biden-amanda-gorman-tera-milhoes-de-livros-impressos.shtml
+2021-02-03 20:27:22,886          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49015
+2021-02-03 20:27:22,887          root     INFO: Finished script
