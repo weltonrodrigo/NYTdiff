@@ -1,26 +1,6 @@
-2021-02-03 17:01:32,863          root     INFO: Starting script
-2021-02-03 17:01:33,695          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-03 17:01:34,369          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-03 17:01:35,041          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-03 17:01:35,169          root     INFO: Parsing R7 - Brasil
-2021-02-03 17:01:37,763          root     INFO: Bolsonaro <del>cobra de Lira e Pacheco propostas</del> <ins>pede ao Congresso prioridade em projetos</ins> sobre armas e de autorização para <del>policial</del> <ins>militar</ins> matar em serviço
-2021-02-03 17:01:39,529          root     INFO: Media ready with ids: 1357011378163372033
-2021-02-03 17:01:39,530          root     INFO: Text to tweet: Modificação do Título
-2021-02-03 17:01:39,530          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-cobra-de-lira-e-pacheco-propostas-sobre-armas-e-de-autorizacao-para-policial-matar-em-servico.shtml
-2021-02-03 17:01:39,540          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-cobra-de-lira-e-pacheco-propostas-sobre-armas-e-de-autorizacao-para-policial-matar-em-servico.shtml
-2021-02-03 17:01:39,743          root     INFO: Replying to: 1357011379815911424
-2021-02-03 17:01:39,998          root     INFO: Id to store: 1357011380667371526
-2021-02-03 17:01:40,005          root     INFO: O presidente Jair Bolsonaro (sem partido) entregou aos presidentes da Câmara, Arthur Lira (PP-AL), e do Senado, Rodrigo Pacheco (DEM-MG), uma lista de projetos considerados prioritários pelo <del>governo, entre eles propostas que ampliam posse e porte de armas e que prevê excludente de ilicitude (tese sobre autorização para matar em suposta ação de legítima defesa) para militares em operações de garantia da lei e da ordem.</del> <ins>governo.</ins> Leia mais (02/03/2021 - 13h08)
-2021-02-03 17:01:41,833          root     INFO: Media ready with ids: 1357011387608952838
-2021-02-03 17:01:41,834          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-03 17:01:41,834          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-cobra-de-lira-e-pacheco-propostas-sobre-armas-e-de-autorizacao-para-policial-matar-em-servico.shtml
-2021-02-03 17:01:41,843          root     INFO: Replying to: 1357011380667371526
-2021-02-03 17:01:42,098          root     INFO: Id to store: 1357011389441843203
-2021-02-03 17:01:42,139          root     INFO: <del>Os</del> <ins>Em votação secreta, os</ins> deputados federais confirmaram nesta quarta-feira <del>(3), em votação secreta,</del> <ins>(3)</ins> os nomes que vão, ao lado de Arthur Lira (PP-AL), formar o novo comando da Câmara. <del>Três vagas ficaram com aliados do líder do centrão. As outras três serão ocupadas pelos opositores PT e PSDB, além de Luciano Bivar (PSL-PE), ex-aliado do presidente Jair Bolsonaro (sem partido).</del> Leia mais (02/03/2021 - 13h08)
-2021-02-03 17:01:43,946          root     INFO: Media ready with ids: 1357011396496605185
-2021-02-03 17:01:43,947          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-03 17:01:43,947          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/opositores-e-ex-aliado-de-bolsonaro-sao-confirmados-em-cargos-do-comando-da-camara.shtml
-2021-02-03 17:01:43,961          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/opositores-e-ex-aliado-de-bolsonaro-sao-confirmados-em-cargos-do-comando-da-camara.shtml
-2021-02-03 17:01:44,150          root     INFO: Replying to: 1357011398333788165
-2021-02-03 17:01:44,381          root     INFO: Id to store: 1357011399017455619
-2021-02-03 17:01:48,932          root     INFO: Finished script
+2021-02-03 17:43:30,619          root     INFO: Starting script
+2021-02-03 17:43:31,440          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-03 17:43:32,116          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-03 17:43:32,784          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-03 17:43:32,906          root     INFO: Parsing R7 - Brasil
+2021-02-03 17:43:38,842          root     INFO: Finished script
