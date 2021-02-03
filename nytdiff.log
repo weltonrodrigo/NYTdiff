@@ -1,6 +1,13 @@
-2021-02-03 19:24:38,277          root     INFO: Starting script
-2021-02-03 19:24:39,312          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-03 19:24:40,153          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-03 19:24:41,005          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-03 19:24:41,255          root     INFO: Parsing R7 - Brasil
-2021-02-03 19:24:48,278          root     INFO: Finished script
+2021-02-03 19:35:55,350          root     INFO: Starting script
+2021-02-03 19:35:56,189          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-03 19:35:56,861          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-03 19:35:57,537          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-03 19:35:57,660          root     INFO: Parsing R7 - Brasil
+2021-02-03 19:36:00,228          root     INFO: A deputada Marilia Arraes (PT-PE) foi eleita nesta quarta-feira (3) para ocupar a <del>segunda-secretaria</del> <ins>2ª secretaria</ins> da Mesa <ins>Diretora</ins> da Câmara, o que representa uma derrota política do próprio partido e uma vitória do grupo ligado ao presidente da Casa, Arthur Lira (PP-AL). Leia mais (02/03/2021 - 14h56)
+2021-02-03 19:36:02,065          root     INFO: Media ready with ids: 1357050228017418243
+2021-02-03 19:36:02,066          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-03 19:36:02,066          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/aliada-a-lira-deputada-petista-derrota-candidato-oficial-do-pt-em-eleicao-para-cargo-no-comando-da-camara.shtml
+2021-02-03 19:36:02,074          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/aliada-a-lira-deputada-petista-derrota-candidato-oficial-do-pt-em-eleicao-para-cargo-no-comando-da-camara.shtml
+2021-02-03 19:36:02,265          root     INFO: Replying to: 1357050229699325953
+2021-02-03 19:36:02,521          root     INFO: Id to store: 1357050230471065600
+2021-02-03 19:36:06,997          root     INFO: Finished script
