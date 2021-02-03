@@ -1,29 +1,6 @@
-2021-02-03 22:26:48,315          root     INFO: Starting script
-2021-02-03 22:26:49,157          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-03 22:26:49,874          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-03 22:26:50,586          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-03 22:26:50,771          root     INFO: Parsing R7 - Brasil
-2021-02-03 22:26:51,232          root     INFO: <del>Pessoas temem que novo</del> <ins>Cancelamento do cancelamento do</ins> BBB <del>abra uma espiral no espaço-tempo</del> <ins>também foi cancelado</ins>
-2021-02-03 22:26:52,973          root     INFO: Media ready with ids: 1357093223555092481
-2021-02-03 22:26:52,973          root     INFO: Text to tweet: Modificação do Título
-2021-02-03 22:26:52,973          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/02/pessoas-temem-que-novo-bbb-abra-uma-espiral-no-espaco-tempo.shtml
-2021-02-03 22:26:52,981          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/02/pessoas-temem-que-novo-bbb-abra-uma-espiral-no-espaco-tempo.shtml
-2021-02-03 22:26:53,205          root     INFO: Replying to: 1357093225102729218
-2021-02-03 22:26:53,446          root     INFO: Id to store: 1357093226033872896
-2021-02-03 22:26:55,614          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pgr-questiona-decisao-de-lewandowski-que-deu-a-lula-acesso-a-mensagens-da-lava-jato.shtml
-2021-02-03 22:26:55,625          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/apos-dissolver-lava-jato-aras-diz-que-forca-tarefa-so-mudou-de-nome.shtml
-2021-02-03 22:26:55,880          root     INFO: <del>Após sete anos,</del> Lava Jato de Curitiba é <del>dissolvida;</del> <ins>dissolvida após 7 anos;</ins> apuração da força-tarefa segue até outubro
-2021-02-03 22:26:57,579          root     INFO: Media ready with ids: 1357093242915938310
-2021-02-03 22:26:57,580          root     INFO: Text to tweet: Modificação do Título
-2021-02-03 22:26:57,580          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/apos-sete-anos-lava-jato-de-curitiba-e-dissolvida-apuracao-da-forca-tarefa-segue-ate-outubro.shtml
-2021-02-03 22:26:57,589          root     INFO: Replying to: 1357070852370620420
-2021-02-03 22:26:57,828          root     INFO: Id to store: 1357093244442734593
-2021-02-03 22:26:57,835          root     INFO: O grupo de procuradores da Lava Jato do Paraná anunciou nesta quarta-feira (3) o fim da força-tarefa que atuava <ins>na operação</ins> desde 2014. Leia mais (02/03/2021 - 11h51)
-2021-02-03 22:26:59,540          root     INFO: Media ready with ids: 1357093251132620800
-2021-02-03 22:26:59,541          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-03 22:26:59,541          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/apos-sete-anos-lava-jato-de-curitiba-e-dissolvida-apuracao-da-forca-tarefa-segue-ate-outubro.shtml
-2021-02-03 22:26:59,550          root     INFO: Replying to: 1357093244442734593
-2021-02-03 22:26:59,795          root     INFO: Id to store: 1357093252667760643
-2021-02-03 22:27:04,244          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/na-vespera-da-eleicao-dem-abandona-maia-e-decide-ficar-isento-na-disputa-da-camara.shtml
-2021-02-03 22:27:04,249          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/mdb-identifica-um-dos-autores-de-vandalismo-contra-faixas-de-baleia-rossi-bolsonarista-tem-historico-de-ameacas-e-agressoes.shtml
-2021-02-03 22:27:04,251          root     INFO: Finished script
+2021-02-03 22:39:49,411          root     INFO: Starting script
+2021-02-03 22:39:50,321          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-03 22:39:51,138          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-03 22:39:51,941          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-03 22:39:52,108          root     INFO: Parsing R7 - Brasil
+2021-02-03 22:39:58,693          root     INFO: Finished script
