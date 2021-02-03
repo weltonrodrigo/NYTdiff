@@ -1,13 +1,10 @@
-2021-02-03 16:01:44,934          root     INFO: Starting script
-2021-02-03 16:01:45,736          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-03 16:01:46,384          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-03 16:01:47,036          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-03 16:01:47,179          root     INFO: Parsing R7 - Brasil
-2021-02-03 16:01:51,161          root     INFO: Sem avaliação ambiental, leilão de petróleo <del>oferta áreas com espécies ameaçadas</del> <ins>oferece área perto de Fernando de Noronha</ins>
-2021-02-03 16:01:52,858          root     INFO: Media ready with ids: 1356996334524465153
-2021-02-03 16:01:52,858          root     INFO: Text to tweet: Modificação do Título
-2021-02-03 16:01:52,858          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://ambiencia.blogfolha.uol.com.br/?p=893
-2021-02-03 16:01:52,868          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://ambiencia.blogfolha.uol.com.br/?p=893
-2021-02-03 16:01:53,036          root     INFO: Replying to: 1356996336097329153
-2021-02-03 16:01:53,246          root     INFO: Id to store: 1356996336755867655
-2021-02-03 16:01:55,261          root     INFO: Finished script
+2021-02-03 16:12:51,227          root     INFO: Starting script
+2021-02-03 16:12:52,036          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-03 16:12:52,750          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-03 16:12:53,411          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-03 16:12:53,615          root     INFO: Parsing R7 - Brasil
+2021-02-03 16:12:55,861          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-cobra-de-lira-e-pacheco-propostas-sobre-armas-e-de-autorizacao-para-policial-matar-em-servico.shtml
+2021-02-03 16:12:55,874          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/opositores-e-ex-aliado-de-bolsonaro-sao-confirmados-em-cargos-do-comando-da-camara.shtml
+2021-02-03 16:12:59,858          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/vexame-de-compra-de-vacinas-por-empresas-foi-produzido-pela-opcao-preferencial-de-um-governo-disfuncional.shtml
+2021-02-03 16:12:59,866          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/01/corrupcao-contra-impeachment.shtml
+2021-02-03 16:12:59,867          root     INFO: Finished script
