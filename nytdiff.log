@@ -1,6 +1,46 @@
-2021-02-03 06:29:19,031          root     INFO: Starting script
-2021-02-03 06:29:20,051          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-03 06:29:20,884          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-03 06:29:21,710          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-03 06:29:21,995          root     INFO: Parsing R7 - Brasil
-2021-02-03 06:29:28,639          root     INFO: Finished script
+2021-02-03 06:59:16,626          root     INFO: Starting script
+2021-02-03 06:59:17,439          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-03 06:59:18,100          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-03 06:59:18,763          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-03 06:59:18,963          root     INFO: Parsing R7 - Brasil
+2021-02-03 06:59:24,480          root     INFO: New article tracked: http://noticias.r7.com/brasil/supremo-abre-o-ano-com-discussao-sobre-direito-ao-esquecimento-03022021
+2021-02-03 06:59:24,497          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-define-nesta-quarta-nova-mesa-diretora-veja-os-candidatos-03022021
+2021-02-03 06:59:24,512          root     INFO: New article tracked: http://noticias.r7.com/brasil/cerimonia-de-abertura-do-ano-legislativo-tambem-sera-hoje-03022021
+2021-02-03 06:59:24,523          root     INFO: New article tracked: http://noticias.r7.com/brasil/mesa-da-camara-pode-ter-inedita-formacao-com-3-mulheres-03022021
+2021-02-03 06:59:24,533          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonarista-deputada-bia-kicis-vai-comandar-a-ccj-da-camara-02022021
+2021-02-03 06:59:24,543          root     INFO: New article tracked: http://noticias.r7.com/brasil/stj-nega-novo-recurso-de-lula-contra-sentenca-do-triplex-02022021
+2021-02-03 06:59:24,552          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-ira-ao-congresso-para-abertura-do-ano-legislativo-02022021
+2021-02-03 06:59:24,563          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-acordo-partidos-definem-mesa-da-camara-veja-lista-02022021
+2021-02-03 06:59:24,575          root     INFO: New article tracked: http://noticias.r7.com/brasil/uniao-quimica-espera-liberar-testes-da-sputnik-v-ate-proxima-semana-02022021
+2021-02-03 06:59:24,586          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-do-orcamento-comeca-a-ser-discutida-ate-sexta-diz-pacheco-02022021
+2021-02-03 06:59:24,596          root     INFO: New article tracked: http://noticias.r7.com/brasil/critica-de-bolsonaro-joice-hasselmann-vai-a-festa-de-lira-02022021
+2021-02-03 06:59:24,608          root     INFO: New article tracked: http://noticias.r7.com/brasil/eleicao-de-cargos-da-mesa-diretora-da-camara-e-adiada-para-quarta-3-02022021
+2021-02-03 06:59:24,619          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/joice-hasselmann-participa-de-festa-da-vitoria-de-arthur-lira-02022021
+2021-02-03 06:59:24,630          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-ligou-para-rodrigo-pacheco-apos-vitoria-no-senado-02022021
+2021-02-03 06:59:24,640          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-apoiar-pacheco-pt-deve-ficar-com-cargo-na-mesa-do-senado-02022021
+2021-02-03 06:59:24,648          root     INFO: New article tracked: http://noticias.r7.com/brasil/odebrecht-preve-quintuplicar-volume-de-obras-em-dois-anos-02022021
+2021-02-03 06:59:24,657          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/moradores-ribeirinhos-do-amazonas-sao-vacinados-contra-a-covid-19-02022021
+2021-02-03 06:59:24,666          root     INFO: New article tracked: http://noticias.r7.com/brasil/vice-presidencia-do-senado-tem-impasse-entre-mdb-e-psd-02022021
+2021-02-03 06:59:24,676          root     INFO: New article tracked: http://noticias.r7.com/brasil/mp-do-rio-recorre-de-decisao-do-stf-que-beneficiou-flavio-bolsonaro-02022021
+2021-02-03 06:59:24,686          root     INFO: New article tracked: http://noticias.r7.com/brasil/dados-de-bolsonaro-e-ministros-do-stf-estao-a-venda-apos-vazamento-02022021
+2021-02-03 06:59:24,698          root     INFO: Removed http://noticias.r7.com/brasil/pacheco-marca-para-esta-terca-feira-eleicao-da-mesa-do-senado-02022021
+2021-02-03 06:59:24,702          root     INFO: Removed http://noticias.r7.com/brasil/moro-afirma-nao-reconhecer-autenticidade-de-mensagens-01022021
+2021-02-03 06:59:24,707          root     INFO: Removed http://noticias.r7.com/brasil/arthur-lira-e-eleito-presidente-da-camara-com-302-votos-02022021
+2021-02-03 06:59:24,710          root     INFO: Removed http://noticias.r7.com/brasil/primeira-decisao-de-lira-anula-bloco-que-apoiava-baleia-rossi-01022021
+2021-02-03 06:59:24,715          root     INFO: Removed http://noticias.r7.com/brasil/no-primeiro-discurso-lira-defende-neutralidade-a-frente-da-camara-01022021
+2021-02-03 06:59:24,719          root     INFO: Removed http://noticias.r7.com/brasil/caso-eleito-baleia-ira-analisar-todos-os-pedidos-de-impeachment-01022021
+2021-02-03 06:59:24,723          root     INFO: Removed http://noticias.r7.com/brasil/santos-repudia-ex-conselheiro-que-chamou-futebol-feminino-de-lixo-01022021
+2021-02-03 06:59:24,727          root     INFO: Removed http://noticias.r7.com/brasil/baleia-rossi-chega-a-camara-e-diz-acreditar-em-vitoria-em-2-turno-01022021
+2021-02-03 06:59:24,732          root     INFO: Removed http://noticias.r7.com/brasil/com-57-votos-rodrigo-pacheco-e-eleito-presidente-do-senado-01022021
+2021-02-03 06:59:24,736          root     INFO: Removed http://noticias.r7.com/brasil/em-discurso-lira-defende-a-camara-do-coletivo-01022021
+2021-02-03 06:59:24,740          root     INFO: Removed http://noticias.r7.com/brasil/maia-chora-em-discurso-de-despedida-e-e-aplaudido-de-pe-01022021
+2021-02-03 06:59:24,744          root     INFO: Removed http://noticias.r7.com/brasil/em-posse-rodrigo-pacheco-reafirma-independencia-do-senado-01022021
+2021-02-03 06:59:24,748          root     INFO: Removed http://noticias.r7.com/brasil/o-que-esperar-da-gestao-de-rodrigo-pacheco-no-comando-da-casa-01022021
+2021-02-03 06:59:24,752          root     INFO: Removed http://noticias.r7.com/brasil/alexandre-frota-renuncia-a-candidatura-e-apoia-baleia-rossi-01022021
+2021-02-03 06:59:24,756          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-comemora-eleicao-no-senado-em-cedula-de-papel-01022021
+2021-02-03 06:59:24,761          root     INFO: Removed http://noticias.r7.com/brasil/lira-tera-desafio-de-destravar-pauta-de-projetos-de-guedes-na-camara-02022021
+2021-02-03 06:59:24,767          root     INFO: Removed http://noticias.r7.com/brasil/marco-aurelio-passara-por-cirurgia-apos-sofrer-acidente-domestico-01022021
+2021-02-03 06:59:24,772          root     INFO: Removed http://noticias.r7.com/brasil/camara-9-deputados-registram-candidatura-a-presidencia-01022021
+2021-02-03 06:59:24,778          root     INFO: Removed http://noticias.r7.com/brasil/acidentes-diminuem-mas-numero-de-mortes-se-mantem-em-2020-01022021
+2021-02-03 06:59:24,787          root     INFO: Removed http://noticias.r7.com/brasil/cni-reformas-sao-desafios-para-presidentes-da-camara-e-senado-02022021
+2021-02-03 06:59:24,788          root     INFO: Finished script
