@@ -1,6 +1,50 @@
-2021-02-03 01:56:56,745          root     INFO: Starting script
-2021-02-03 01:56:57,622          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-03 01:56:58,292          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-03 01:56:58,964          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-03 01:56:59,253          root     INFO: Parsing R7 - Brasil
-2021-02-03 01:57:05,880          root     INFO: Finished script
+2021-02-03 02:25:06,107          root     INFO: Starting script
+2021-02-03 02:25:07,013          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-03 02:25:07,696          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-03 02:25:08,388          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-03 02:25:08,735          root     INFO: Parsing R7 - Brasil
+2021-02-03 02:25:09,169          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/02/o-enigma-manauara.shtml
+2021-02-03 02:25:09,182          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/precos-externos-de-graos-cedem-mas-ainda-sao-resilientes.shtml
+2021-02-03 02:25:09,195          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/02/receita-de-bolsonaro-sonegar.shtml
+2021-02-03 02:25:09,207          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2021/02/senacon-tenta-silenciar-a-defesa-do-consumidor.shtml
+2021-02-03 02:25:09,217          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antoniodelfim/2021/02/o-que-devemos-esperar-de-2021.shtml
+2021-02-03 02:25:09,227          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helio-beltrao/2021/02/nao-salvem-os-tubaroes.shtml
+2021-02-03 02:25:09,237          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2021/02/conter-a-china-nao-e-uma-opcao-viavel.shtml
+2021-02-03 02:25:09,248          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/02/o-ocaso-de-rodrigo-maia.shtml
+2021-02-03 02:25:09,258          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/russia-festeja-xeque-mate-da-vacina-merkel-fala-com-putin.shtml
+2021-02-03 02:25:09,268          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/02/o-que-bolsonaro-vai-produzir-com-um-pacote-premium-de-governabilidade.shtml
+2021-02-03 02:25:09,278          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/02/crime-de-responsabilidade-acho-que-sim-acho-que-nao.shtml
+2021-02-03 02:25:09,287          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/estrela-cadente.shtml
+2021-02-03 02:25:09,297          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/pandemia-e-infelicidade.shtml
+2021-02-03 02:25:09,305          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/volta-as-aulas.shtml
+2021-02-03 02:25:11,098          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/direito-ao-esquecimento-nao-impede-que-sociedade-tome-conhecimento-de-um-fato-diz-especialista.shtml
+2021-02-03 02:25:11,108          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/02/o-ocaso-de-rodrigo-maia.shtml
+2021-02-03 02:25:11,118          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/02/o-que-bolsonaro-vai-produzir-com-um-pacote-premium-de-governabilidade.shtml
+2021-02-03 02:25:11,128          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/direito-ao-esquecimento-vai-contra-liberdade-de-expressao-diz-advogada-que-atua-em-acao-no-stf.shtml
+2021-02-03 02:25:11,139          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-planeja-reforma-ministerial-a-conta-gotas-para-testar-fidelidade-de-centrao.shtml
+2021-02-03 02:25:11,151          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/02/crime-de-responsabilidade-acho-que-sim-acho-que-nao.shtml
+2021-02-03 02:25:11,174          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/inseguro-sobre-conceito-stf-comeca-a-julgar-se-existe-direito-ao-esquecimento-no-pais.shtml
+2021-02-03 02:25:11,183          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/movimento-livres-recebe-adesao-de-mais-tres-parlamentares.shtml
+2021-02-03 02:25:15,382          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/faixas-de-propaganda-de-baleia-rossi-amanhecem-vandalizadas-e-campanha-aciona-policia.shtml
+2021-02-03 02:25:15,387          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2021/01/o-youtuber-e-machado-de-assis-ou-uma-polemica-bem-vinda.shtml
+2021-02-03 02:25:15,392          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/01/mundo-chama-de-autoritarismo-o-que-xi-trata-por-lideranca.shtml
+2021-02-03 02:25:15,395          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/01/versatil-drinque-tom-collins-da-tom-a-dramas-e-comedias-de-hollywood.shtml
+2021-02-03 02:25:15,399          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/01/governo-nao-consegue-apresentar-plano-de-saida-para-o-auxilio-emergencial.shtml
+2021-02-03 02:25:15,403          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/por-um-congresso-autonomo.shtml
+2021-02-03 02:25:15,406          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/bolsonaro-diz-que-pode-levar-onyx-para-o-planalto-e-abrir-vaga-na-cidadania-mas-nega-recriar-ministerios.shtml
+2021-02-03 02:25:15,410          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/governo-bolsonaro-promete-emendas-e-cargos-para-eleicao-de-lira-na-camara.shtml
+2021-02-03 02:25:15,414          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/auxiliares-de-bolsonaro-e-executivos-dizem-acreditar-que-compra-de-compra-de-33-milhoes-de-vacinas-vai-ser-investigada.shtml
+2021-02-03 02:25:15,417          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/01/saga-gamestop-deixa-wsj-para-tras-e-se-desdobra-online.shtml
+2021-02-03 02:25:15,421          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/01/lira-nao-e-so-o-antirreforma-ele-e-a-contrarreforma.shtml
+2021-02-03 02:25:15,424          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/pauta-retrograda.shtml
+2021-02-03 02:25:15,428          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49007
+2021-02-03 02:25:15,431          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/baleia-diz-que-lira-flerta-com-radicais-e-que-governo-tenta-cooptar-deputados-com-emendas.shtml
+2021-02-03 02:25:15,435          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/biden-ambiental.shtml
+2021-02-03 02:25:15,438          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/cabo-eleitoral-do-mdb-fixa-ponto-no-aeroporto-de-brasilia-para-convencer-parlamentares-a-votar-em-baleia.shtml
+2021-02-03 02:25:15,442          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2021/01/os-riscos-do-alcool-em-gel-para-criancas.shtml
+2021-02-03 02:25:15,446          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/01/arroba-de-boi-atinge-recorde-de-r-300-e-nao-da-alivio-ao-consumidor.shtml
+2021-02-03 02:25:15,449          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/camara-vai-permitir-que-deputados-levem-celular-para-cabine-e-sigilo-da-eleicao-fica-em-xeque.shtml
+2021-02-03 02:25:15,453          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/01/novas-definicoes-para-bolsonaro.shtml
+2021-02-03 02:25:15,456          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/decisao-da-libertadores-tem-dois-treinadores-camaleonicos.shtml
+2021-02-03 02:25:15,460          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/patentes-aceleram-a-inovacao.shtml
+2021-02-03 02:25:15,460          root     INFO: Finished script
