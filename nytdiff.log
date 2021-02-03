@@ -1,17 +1,13 @@
-2021-02-03 15:31:32,212          root     INFO: Starting script
-2021-02-03 15:31:33,048          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-03 15:31:33,725          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-03 15:31:34,402          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-03 15:31:34,583          root     INFO: Parsing R7 - Brasil
-2021-02-03 15:31:34,955          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/02/covas-subiu-no-salto-ao-atribuir-a-hipocrisia-generalizada-as-criticas-por-ter-ido-ao-maracana.shtml
-2021-02-03 15:31:36,923          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/02/covas-subiu-no-salto-ao-atribuir-a-hipocrisia-generalizada-as-criticas-por-ter-ido-ao-maracana.shtml
-2021-02-03 15:31:36,956          root     INFO: O Ministério Público Federal em São Paulo denunciou, sob acusação de fraude a licitações, um dos pivôs da chamada "máfia da merenda", um suposto esquema de desvios em contratos durante a gestão do ex-governador <ins>paulista</ins> Geraldo Alckmin (PSDB). Leia mais (02/03/2021 - 11h55)
-2021-02-03 15:31:39,188          root     INFO: Media ready with ids: 1356988727436992512
-2021-02-03 15:31:39,189          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-03 15:31:39,189          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pivo-da-mafia-da-merenda-e-denunciado-sob-acusacao-de-fraude-a-licitacoes-apuracao-mirou-tucanos-em-sp.shtml
-2021-02-03 15:31:39,198          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pivo-da-mafia-da-merenda-e-denunciado-sob-acusacao-de-fraude-a-licitacoes-apuracao-mirou-tucanos-em-sp.shtml
-2021-02-03 15:31:39,368          root     INFO: Replying to: 1356988729022439426
-2021-02-03 15:31:39,617          root     INFO: Id to store: 1356988729806770177
-2021-02-03 15:31:43,783          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/01/posicao-do-conselho-federal-de-medicina-sobre-cloroquina-contrasta-com-caso-de-pilula-do-cancer-em-2016.shtml
-2021-02-03 15:31:43,787          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/01/os-filmes-estao-sendo-abalados-pelas-series-ante-nossos-olhos-atonicos.shtml
-2021-02-03 15:31:43,788          root     INFO: Finished script
+2021-02-03 16:01:44,934          root     INFO: Starting script
+2021-02-03 16:01:45,736          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-03 16:01:46,384          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-03 16:01:47,036          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-03 16:01:47,179          root     INFO: Parsing R7 - Brasil
+2021-02-03 16:01:51,161          root     INFO: Sem avaliação ambiental, leilão de petróleo <del>oferta áreas com espécies ameaçadas</del> <ins>oferece área perto de Fernando de Noronha</ins>
+2021-02-03 16:01:52,858          root     INFO: Media ready with ids: 1356996334524465153
+2021-02-03 16:01:52,858          root     INFO: Text to tweet: Modificação do Título
+2021-02-03 16:01:52,858          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://ambiencia.blogfolha.uol.com.br/?p=893
+2021-02-03 16:01:52,868          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://ambiencia.blogfolha.uol.com.br/?p=893
+2021-02-03 16:01:53,036          root     INFO: Replying to: 1356996336097329153
+2021-02-03 16:01:53,246          root     INFO: Id to store: 1356996336755867655
+2021-02-03 16:01:55,261          root     INFO: Finished script
