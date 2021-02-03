@@ -1,12 +1,10 @@
-2021-02-03 13:05:59,931          root     INFO: Starting script
-2021-02-03 13:06:00,783          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-03 13:06:01,464          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-03 13:06:02,148          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-03 13:06:02,381          root     INFO: Parsing R7 - Brasil
-2021-02-03 13:06:02,775          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/02/ninguem-deveria-ter-tanto-poder-sobre-nos-e-nossos-dados-nem-empresas-nem-governos.shtml
-2021-02-03 13:06:07,309          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/comandado-por-militares-ibama-destina-r-19-milhoes-a-policia-militar-de-sp.shtml
-2021-02-03 13:06:07,323          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/02/ninguem-deveria-ter-tanto-poder-sobre-nos-e-nossos-dados-nem-empresas-nem-governos.shtml
-2021-02-03 13:06:09,847          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/cotidiano/2020/10/bolsonaro-tem-a-pior-avaliacao-no-brasil-em-combate-ao-desmatamento.shtml
-2021-02-03 13:06:09,852          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/cotidiano/2020/10/a-vida-das-familias-foi-atropelada-ha-cinco-anos-diz-ailton-krenak-sobre-desastre-no-rio-doce.shtml
-2021-02-03 13:06:09,857          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/01/tetas-censuradas.shtml
-2021-02-03 13:06:09,858          root     INFO: Finished script
+2021-02-03 13:32:19,329          root     INFO: Starting script
+2021-02-03 13:32:20,181          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-03 13:32:20,873          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-03 13:32:21,561          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-03 13:32:21,699          root     INFO: Parsing R7 - Brasil
+2021-02-03 13:32:24,231          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/pt-derrota-marilia-arraes-e-escolhe-deputado-joao-daniel-para-2a-secretariada-camara.shtml
+2021-02-03 13:32:24,245          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10651
+2021-02-03 13:32:28,709          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/01/em-meio-a-confusao-de-conceitos-supremo-decide-se-existe-direito-ao-esquecimento-no-brasil.shtml
+2021-02-03 13:32:28,713          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/ideia-do-consorcio-para-compra-de-vacinas-tem-digital-da-gerdau-e-de-skaf.shtml
+2021-02-03 13:32:28,714          root     INFO: Finished script
