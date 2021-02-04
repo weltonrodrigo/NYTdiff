@@ -1,6 +1,17 @@
-2021-02-04 19:58:11,766          root     INFO: Starting script
-2021-02-04 19:58:12,599          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-04 19:58:13,265          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-04 19:58:13,943          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-04 19:58:14,091          root     INFO: Parsing R7 - Brasil
-2021-02-04 19:58:20,796          root     INFO: Finished script
+2021-02-04 20:23:53,980          root     INFO: Starting script
+2021-02-04 20:23:54,868          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-04 20:23:55,553          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-04 20:23:56,221          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-04 20:23:56,387          root     INFO: Parsing R7 - Brasil
+2021-02-04 20:23:56,768          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/laura-mattos/2021/02/e-proibido-defender-as-aulas-presenciais.shtml
+2021-02-04 20:23:58,932          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-lava-as-maos-em-disputa-pela-ccj-para-nao-se-indispor-com-executivo-e-judiciario.shtml
+2021-02-04 20:23:58,989          root     INFO: <ins>Após TRF-1 mandar,</ins> PF abre inquérito para investigar Coaf por relatório sobre advogado dos Bolsonaros
+2021-02-04 20:24:00,790          root     INFO: Media ready with ids: 1357424690017542148
+2021-02-04 20:24:00,791          root     INFO: Text to tweet: Modificação do Título
+2021-02-04 20:24:00,791          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/pf-abre-inquerito-para-investigar-coaf-por-relatorio-sobre-advogado-dos-bolsonaros.shtml
+2021-02-04 20:24:00,800          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/pf-abre-inquerito-para-investigar-coaf-por-relatorio-sobre-advogado-dos-bolsonaros.shtml
+2021-02-04 20:24:01,047          root     INFO: Replying to: 1357424692026609665
+2021-02-04 20:24:01,361          root     INFO: Id to store: 1357424692806754316
+2021-02-04 20:24:05,427          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-levanta-sigilo-e-novas-conversas-de-moro-com-procuradores-podem-vir-a-publico.shtml
+2021-02-04 20:24:05,434          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/vacinacao-atabalhoada.shtml
+2021-02-04 20:24:05,434          root     INFO: Finished script
