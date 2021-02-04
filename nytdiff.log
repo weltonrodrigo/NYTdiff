@@ -1,13 +1,27 @@
-2021-02-04 10:57:56,378          root     INFO: Starting script
-2021-02-04 10:57:57,244          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-04 10:57:57,946          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-04 10:57:58,642          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-04 10:57:58,784          root     INFO: Parsing R7 - Brasil
-2021-02-04 10:58:02,028          root     INFO: Personagem central da crise que abalou a candidatura do deputado Baleia Rossi (MDB-SP) à presidência da Câmara, o presidente do DEM, ACM Neto, diz que a eleição do Legislativo será página virada em breve e <ins>que isso</ins> não interfere nas articulações <ins>para a eleição nacional</ins> de 2022. Leia mais (02/03/2021 - 23h15)
-2021-02-04 10:58:03,805          root     INFO: Media ready with ids: 1357282264288215041
-2021-02-04 10:58:03,805          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-04 10:58:03,805          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/dem-nao-vai-com-extremos-em-2022-mas-nao-posso-descartar-agora-estar-com-bolsonaro-diz-acm-neto.shtml
-2021-02-04 10:58:03,815          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/dem-nao-vai-com-extremos-em-2022-mas-nao-posso-descartar-agora-estar-com-bolsonaro-diz-acm-neto.shtml
-2021-02-04 10:58:03,986          root     INFO: Replying to: 1357282265806553091
-2021-02-04 10:58:04,240          root     INFO: Id to store: 1357282266574118913
-2021-02-04 10:58:08,949          root     INFO: Finished script
+2021-02-04 11:21:58,940          root     INFO: Starting script
+2021-02-04 11:21:59,836          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-04 11:22:00,516          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-04 11:22:01,203          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-04 11:22:01,515          root     INFO: Parsing R7 - Brasil
+2021-02-04 11:22:02,042          root     INFO: Eles se manifestam diante das câmeras de TV suas boas intenções, de agilizar o retorno do auxílio emergencial e de acelerar a vacinação contra a Covid-19. <del>Mas tudo continua rigorosamente paralisado, como no caso do auxílio emergencial. Ou caminha em ritmo lento -o Brasil, país internacionalmente reconhecido pelo sistema de saúde que consegue vacinar 1 milhão de pessoas por dia, está atuando de maneira extremamente descoordenada e lenta, em plena pandemia. Tudo em compasso de espera, enquanto não se assegura que as reformas impostas pelo "mercado" serão realizadas. Essa paralisação e lentidão tem muitos cúmplices e poderosos pagantes, que mantêm a política de morte, hoje em curso no país.É urgente que o auxílio emergencial de R$ 600 seja retomado.</del> Leia mais (02/03/2021 - 23h15)
+2021-02-04 11:22:03,905          root     INFO: Media ready with ids: 1357288304195076096
+2021-02-04 11:22:03,906          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-04 11:22:03,906          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cida-bento/2021/02/tem-gente-com-fome.shtml
+2021-02-04 11:22:03,913          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cida-bento/2021/02/tem-gente-com-fome.shtml
+2021-02-04 11:22:04,081          root     INFO: Replying to: 1357288306015424514
+2021-02-04 11:22:04,307          root     INFO: Id to store: 1357288306673913858
+2021-02-04 11:22:06,389          root     INFO: Num primeiro sinal de instabilidade na aliança entre <ins>o</ins> centrão e o bolsonarismo, a disputa pelo comando da principal comissão da Câmara causou fissuras dos dois lados. Leia mais (02/03/2021 - 23h15)
+2021-02-04 11:22:08,097          root     INFO: Media ready with ids: 1357288322092191744
+2021-02-04 11:22:08,097          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-04 11:22:08,097          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/indicacao-de-bia-kicis-abre-crise-na-camara-e-senado-ja-tem-embates-por-comissoes.shtml
+2021-02-04 11:22:08,105          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/indicacao-de-bia-kicis-abre-crise-na-camara-e-senado-ja-tem-embates-por-comissoes.shtml
+2021-02-04 11:22:08,320          root     INFO: Replying to: 1357288323623112704
+2021-02-04 11:22:08,527          root     INFO: Id to store: 1357288324461953025
+2021-02-04 11:22:08,567          root     INFO: Em luta desde 2019 para não exceder limites de gastos com pessoal e não descumprir a Lei de Responsabilidade Fiscal, o TJ-SP (Tribunal de Justiça de São Paulo) empossará nesta quinta-feira (4) <ins>um grupo de</ins> 83 novos juízes aprovados em concurso. Leia mais (02/03/2021 - 23h15)
+2021-02-04 11:22:10,284          root     INFO: Media ready with ids: 1357288331235713026
+2021-02-04 11:22:10,285          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-04 11:22:10,285          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/tj-sp-preve-beneficios-e-dara-posse-a-83-juizes-apos-fim-de-restricao-de-verbas-na-pandemia.shtml
+2021-02-04 11:22:10,293          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/tj-sp-preve-beneficios-e-dara-posse-a-83-juizes-apos-fim-de-restricao-de-verbas-na-pandemia.shtml
+2021-02-04 11:22:10,443          root     INFO: Replying to: 1357288332712108033
+2021-02-04 11:22:10,650          root     INFO: Id to store: 1357288333345513472
+2021-02-04 11:22:14,717          root     INFO: Finished script
