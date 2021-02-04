@@ -1,6 +1,8 @@
-2021-02-04 00:55:52,293          root     INFO: Starting script
-2021-02-04 00:55:53,324          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-04 00:55:54,177          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-04 00:55:55,035          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-04 00:55:55,245          root     INFO: Parsing R7 - Brasil
-2021-02-04 00:56:02,697          root     INFO: Finished script
+2021-02-04 01:31:42,744          root     INFO: Starting script
+2021-02-04 01:31:43,587          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-04 01:31:44,269          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-04 01:31:44,958          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-04 01:31:45,271          root     INFO: Parsing R7 - Brasil
+2021-02-04 01:31:45,653          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/silviacorrea/2021/02/o-lado-b-da-moralidade.shtml
+2021-02-04 01:31:50,935          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/violencia-na-quarentena.shtml
+2021-02-04 01:31:50,935          root     INFO: Finished script
