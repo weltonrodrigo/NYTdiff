@@ -1,22 +1,8 @@
-2021-02-04 20:57:51,317          root     INFO: Starting script
-2021-02-04 20:57:52,178          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-04 20:57:52,869          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-04 20:57:53,559          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-04 20:57:53,813          root     INFO: Parsing R7 - Brasil
-2021-02-04 20:58:01,500          root     INFO: Removed http://noticias.r7.com/brasil/primeira-sessao-do-senado-tem-mp-da-vacina-covax-facility-04022021
-2021-02-04 20:58:01,509          root     INFO: Removed http://noticias.r7.com/brasil/a-senadores-embaixador-da-china-oferece-mais-uma-vacina-ao-brasil-04022021
-2021-02-04 20:58:01,516          root     INFO: Removed http://noticias.r7.com/brasil/joice-acusa-carla-zambelli-de-pegar-roupa-e-nao-devolver-04022021
-2021-02-04 20:58:01,522          root     INFO: Removed http://noticias.r7.com/brasil/orcamento-impoe-limites-aos-planos-de-gastos-do-centrao-04022021
-2021-02-04 20:58:01,526          root     INFO: Removed http://noticias.r7.com/brasil/dolar-acompanha-exterior-e-avanca-contra-real-na-abertura-do-mercado-04022021
-2021-02-04 20:58:01,530          root     INFO: Removed http://noticias.r7.com/brasil/projeto-de-lei-para-estender-auxilio-de-r-600-ate-abril-e-protocolado-04022021
-2021-02-04 20:58:01,535          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-anuncia-acordo-para-votar-excludente-de-ilicitude-04022021
-2021-02-04 20:58:01,539          root     INFO: Removed http://noticias.r7.com/brasil/com-mais-de-25-milhoes-de-doses-brasil-e-8-em-ranking-de-vacinacao-04022021
-2021-02-04 20:58:01,545          root     INFO: Removed http://noticias.r7.com/brasil/ibovespa-oscila-na-abertura-com-foco-em-dados-da-vale-e-bradesco-04022021
-2021-02-04 20:58:01,549          root     INFO: Removed http://noticias.r7.com/brasil/youtube-encerra-canais-do-bolsonarista-allan-dos-santos-04022021
-2021-02-04 20:58:01,553          root     INFO: Removed http://noticias.r7.com/brasil/pacheco-preve-aprovacao-da-reforma-tributaria-em-oito-meses-04022021
-2021-02-04 20:58:01,557          root     INFO: Removed http://noticias.r7.com/brasil/stf-retoma-julgamento-sobre-direito-ao-esquecimento-04022021
-2021-02-04 20:58:01,562          root     INFO: Removed http://noticias.r7.com/brasil/pf-apura-desvios-de-r-16-milhao-na-saude-e-educacao-em-roraima-04022021
-2021-02-04 20:58:01,567          root     INFO: Removed http://noticias.r7.com/brasil/tribunal-manda-investigar-relatorio-sobre-movimentacoes-de-wassef-04022021
-2021-02-04 20:58:01,576          root     INFO: Removed http://noticias.r7.com/brasil/ex-prefeito-do-rio-marcelo-crivella-vira-reu-acusado-de-corrupcao-04022021
-2021-02-04 20:58:01,581          root     INFO: Removed http://noticias.r7.com/brasil/com-reservatorios-baixos-governo-mantem-usinas-termicas-acionadas-04022021
-2021-02-04 20:58:01,582          root     INFO: Finished script
+2021-02-04 21:19:43,459          root     INFO: Starting script
+2021-02-04 21:19:44,279          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-04 21:19:44,939          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-04 21:19:45,596          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-04 21:19:45,789          root     INFO: Parsing R7 - Brasil
+2021-02-04 21:19:48,081          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/toffoli-cita-liberdade-de-expressao-e-vota-contra-criacao-do-direito-ao-esquecimento-no-brasil.shtml
+2021-02-04 21:19:52,043          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10646
+2021-02-04 21:19:52,046          root     INFO: Finished script
