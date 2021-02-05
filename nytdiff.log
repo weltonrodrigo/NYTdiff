@@ -1,13 +1,23 @@
-2021-02-05 01:32:38,790          root     INFO: Starting script
-2021-02-05 01:32:40,012          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-05 01:32:40,855          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-05 01:32:41,698          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-05 01:32:41,950          root     INFO: Parsing R7 - Brasil
-2021-02-05 01:32:42,395          root     INFO: Foi preciso um tuíte da cantora Rihanna, com <del>imagens</del> <ins>imagem</ins> do protesto dos agricultores indianos em Nova Déli, perguntando: "Por que nós não estamos falando disto?". Leia mais (02/04/2021 - 21h06)
-2021-02-05 01:32:44,231          root     INFO: Media ready with ids: 1357502383111237635
-2021-02-05 01:32:44,231          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-05 01:32:44,231          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/eua-acordam-para-o-cerco-a-liberdade-de-expressao-na-india.shtml
-2021-02-05 01:32:44,239          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/eua-acordam-para-o-cerco-a-liberdade-de-expressao-na-india.shtml
-2021-02-05 01:32:44,476          root     INFO: Replying to: 1357502384881205249
-2021-02-05 01:32:44,753          root     INFO: Id to store: 1357502385816535040
-2021-02-05 01:32:51,409          root     INFO: Finished script
+2021-02-05 02:04:20,938          root     INFO: Starting script
+2021-02-05 02:04:22,573          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-05 02:04:23,274          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-05 02:04:23,973          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-05 02:04:24,204          root     INFO: Parsing R7 - Brasil
+2021-02-05 02:04:30,913          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-fala-a-pf-sobre-acoes-contra-covid-19-no-amazonas-04022021
+2021-02-05 02:04:30,925          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-mp-que-facilita-compra-de-vacina-russa-sputnik-v-04022021
+2021-02-05 02:04:30,937          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-e-congresso-trabalharao-em-perfeita-harmonia-diz-guedes-04022021
+2021-02-05 02:04:30,949          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-texto-da-medida-provisoria-998-do-setor-eletrico-04022021
+2021-02-05 02:04:30,959          root     INFO: New article tracked: http://noticias.r7.com/brasil/toffoli-vota-contra-reconhecimento-do-direito-ao-esquecimento-04022021
+2021-02-05 02:04:30,970          root     INFO: New article tracked: http://noticias.r7.com/brasil/novo-auxilio-so-deve-avancar-apos-aprovacao-do-orcamento-04022021
+2021-02-05 02:04:30,979          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-abre-apuracao-sobre-atuacao-de-bolsonaro-na-pandemia-04022021
+2021-02-05 02:04:30,989          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-deve-votar-autonomia-do-bc-e-crime-para-fura-fila-da-vacina-04022021
+2021-02-05 02:04:30,999          root     INFO: New article tracked: http://noticias.r7.com/brasil/moraes-nega-suspensao-de-liminar-que-vetou-juiz-de-garantias-04022021
+2021-02-05 02:04:31,009          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-inicia-sessao-para-votar-mp-998-que-trata-do-setor-eletrico-04022021
+2021-02-05 02:04:31,019          root     INFO: New article tracked: http://noticias.r7.com/brasil/reforma-tributaria-pacheco-deve-se-encontrar-com-guedes-04022021
+2021-02-05 02:04:31,028          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-protocola-pedido-de-abertura-de-cpi-da-covid-04022021
+2021-02-05 02:04:31,037          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-presta-depoimento-a-pf-sobre-a-crise-em-manaus-04022021
+2021-02-05 02:04:31,048          root     INFO: New article tracked: http://noticias.r7.com/brasil/tse-nega-abuso-de-poder-e-arquiva-pedidos-de-cassacao-de-alcolumbre-04022021
+2021-02-05 02:04:31,060          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-fim-da-lava-jato-delegados-pedem-autonomia-a-procuradores-04022021
+2021-02-05 02:04:31,070          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-festas-de-fim-de-ano-casos-de-covid-19-crescem-no-litoral-baiano-04022021
+2021-02-05 02:04:31,080          root     INFO: New article tracked: http://noticias.r7.com/brasil/sou-contra-o-ativismo-judicial-do-supremo-diz-bia-kicis-04022021
+2021-02-05 02:04:31,155          root     INFO: Finished script
