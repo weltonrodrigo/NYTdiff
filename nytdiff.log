@@ -1,6 +1,18 @@
-2021-02-05 19:29:50,560          root     INFO: Starting script
-2021-02-05 19:29:51,575          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-05 19:29:52,419          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-05 19:29:53,259          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-05 19:29:53,479          root     INFO: Parsing R7 - Brasil
-2021-02-05 19:29:59,389          root     INFO: Finished script
+2021-02-05 19:46:57,100          root     INFO: Starting script
+2021-02-05 19:46:57,952          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-05 19:46:58,638          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-05 19:46:59,342          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-05 19:46:59,565          root     INFO: Parsing R7 - Brasil
+2021-02-05 19:47:02,482          root     INFO: Boulos <ins>reage a Haddad e Lula e</ins> diz que esquerda <del>tem que discutir projetos antes</del> <ins>precisa</ins> de <del>lançar nomes no dia em que Lula endossa candidatura</del> <ins>projeto, e não</ins> de <del>Haddad</del> <ins>nomes</ins>
+2021-02-05 19:47:04,199          root     INFO: Media ready with ids: 1357777780939907072
+2021-02-05 19:47:04,199          root     INFO: Text to tweet: Modificação do Título
+2021-02-05 19:47:04,199          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/boulos-diz-que-esquerda-tem-que-discutir-projetos-antes-de-lancar-nomes-no-dia-em-que-lula-endossa-candidatura-de-haddad.shtml
+2021-02-05 19:47:04,209          root     INFO: Replying to: 1357770926616678401
+2021-02-05 19:47:04,427          root     INFO: Id to store: 1357777782487580672
+2021-02-05 19:47:04,433          root     INFO: ?A notícia de que Lula já endossa o nome de Fernando Haddad para concorrer à Presidência da República em 2022 gerou reação de Guilherme <del>Boulos,</del> <ins>Boulos (PSOL-SP),</ins> uma das novas e mais promissoras lideranças da esquerda no Brasil. Leia mais (02/05/2021 - 15h41)
+2021-02-05 19:47:06,128          root     INFO: Media ready with ids: 1357777789102010372
+2021-02-05 19:47:06,129          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-05 19:47:06,129          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/boulos-diz-que-esquerda-tem-que-discutir-projetos-antes-de-lancar-nomes-no-dia-em-que-lula-endossa-candidatura-de-haddad.shtml
+2021-02-05 19:47:06,138          root     INFO: Replying to: 1357777782487580672
+2021-02-05 19:47:06,361          root     INFO: Id to store: 1357777790590984193
+2021-02-05 19:47:11,468          root     INFO: Finished script
