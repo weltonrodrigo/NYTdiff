@@ -1,23 +1,50 @@
-2021-02-05 02:04:20,938          root     INFO: Starting script
-2021-02-05 02:04:22,573          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-05 02:04:23,274          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-05 02:04:23,973          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-05 02:04:24,204          root     INFO: Parsing R7 - Brasil
-2021-02-05 02:04:30,913          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-fala-a-pf-sobre-acoes-contra-covid-19-no-amazonas-04022021
-2021-02-05 02:04:30,925          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-mp-que-facilita-compra-de-vacina-russa-sputnik-v-04022021
-2021-02-05 02:04:30,937          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-e-congresso-trabalharao-em-perfeita-harmonia-diz-guedes-04022021
-2021-02-05 02:04:30,949          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-texto-da-medida-provisoria-998-do-setor-eletrico-04022021
-2021-02-05 02:04:30,959          root     INFO: New article tracked: http://noticias.r7.com/brasil/toffoli-vota-contra-reconhecimento-do-direito-ao-esquecimento-04022021
-2021-02-05 02:04:30,970          root     INFO: New article tracked: http://noticias.r7.com/brasil/novo-auxilio-so-deve-avancar-apos-aprovacao-do-orcamento-04022021
-2021-02-05 02:04:30,979          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-abre-apuracao-sobre-atuacao-de-bolsonaro-na-pandemia-04022021
-2021-02-05 02:04:30,989          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-deve-votar-autonomia-do-bc-e-crime-para-fura-fila-da-vacina-04022021
-2021-02-05 02:04:30,999          root     INFO: New article tracked: http://noticias.r7.com/brasil/moraes-nega-suspensao-de-liminar-que-vetou-juiz-de-garantias-04022021
-2021-02-05 02:04:31,009          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-inicia-sessao-para-votar-mp-998-que-trata-do-setor-eletrico-04022021
-2021-02-05 02:04:31,019          root     INFO: New article tracked: http://noticias.r7.com/brasil/reforma-tributaria-pacheco-deve-se-encontrar-com-guedes-04022021
-2021-02-05 02:04:31,028          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-protocola-pedido-de-abertura-de-cpi-da-covid-04022021
-2021-02-05 02:04:31,037          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-presta-depoimento-a-pf-sobre-a-crise-em-manaus-04022021
-2021-02-05 02:04:31,048          root     INFO: New article tracked: http://noticias.r7.com/brasil/tse-nega-abuso-de-poder-e-arquiva-pedidos-de-cassacao-de-alcolumbre-04022021
-2021-02-05 02:04:31,060          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-fim-da-lava-jato-delegados-pedem-autonomia-a-procuradores-04022021
-2021-02-05 02:04:31,070          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-festas-de-fim-de-ano-casos-de-covid-19-crescem-no-litoral-baiano-04022021
-2021-02-05 02:04:31,080          root     INFO: New article tracked: http://noticias.r7.com/brasil/sou-contra-o-ativismo-judicial-do-supremo-diz-bia-kicis-04022021
-2021-02-05 02:04:31,155          root     INFO: Finished script
+2021-02-05 02:29:24,495          root     INFO: Starting script
+2021-02-05 02:29:25,698          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-05 02:29:26,517          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-05 02:29:27,347          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-05 02:29:27,588          root     INFO: Parsing R7 - Brasil
+2021-02-05 02:29:27,994          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/02/o-cargo-faz-o-homem.shtml
+2021-02-05 02:29:28,006          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2021/02/como-a-bolsa-comemora-a-interferencia-de-bolsonaro-no-congresso.shtml
+2021-02-05 02:29:28,017          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/02/bolsonaro-adia-medidas-para-os-mais-pobres-mas-corteja-classes-c-e-d.shtml
+2021-02-05 02:29:28,028          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/pandemia-e-preco-elevado-das-commodities-levam-mais-gente-para-a-fome-no-mundo.shtml
+2021-02-05 02:29:28,038          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/02/uma-vida-sabatica.shtml
+2021-02-05 02:29:28,048          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2021/02/amigas-para-sempre-desperdica-katherine-heigl-com-overdose-de-acucar.shtml
+2021-02-05 02:29:28,058          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2021/02/o-padre-e-a-pedra.shtml
+2021-02-05 02:29:28,068          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/a-doenca-misteriosa.shtml
+2021-02-05 02:29:28,079          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/minorias-sob-ataque.shtml
+2021-02-05 02:29:28,090          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2021/02/centrao-e-lava-jato-mostram-como-se-da-a-institucionalizacao-da-barbarie.shtml
+2021-02-05 02:29:28,100          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/o-fim-da-lava-jato.shtml
+2021-02-05 02:29:28,111          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/operacao-spoofing-prova-ilicita-e-imprestavel.shtml
+2021-02-05 02:29:30,056          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/caiado-defende-que-dem-apoie-reeleicao-de-bolsonaro-em-2022.shtml
+2021-02-05 02:29:30,067          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/02/bolsonaro-adia-medidas-para-os-mais-pobres-mas-corteja-classes-c-e-d.shtml
+2021-02-05 02:29:30,077          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/abandonado-pelo-dem-baleia-recebe-mensagem-de-huck-apos-derrota-na-camara.shtml
+2021-02-05 02:29:30,087          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/justica-federal-aceita-recurso-e-recebe-queixa-crime-de-temer-contra-joesley-por-calunia.shtml
+2021-02-05 02:29:30,097          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lula-indica-que-haddad-sera-candidato-a-presidente-caso-ele-nao-possa-concorrer-em-2022.shtml
+2021-02-05 02:29:30,110          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/conselho-de-medicina-do-df-publica-ato-para-proteger-quem-prescreve-cloroquina-contra-covid-19.shtml
+2021-02-05 02:29:30,123          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/frente-anti-bolsonaro-remoi-nova-derrota-apos-eleicao-da-camara-e-preve-obstaculos-para-2022.shtml
+2021-02-05 02:29:30,133          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/racismo-estrutural-virou-alibi-para-justificar-praticas-individuais-e-institucionais-diz-professor.shtml
+2021-02-05 02:29:30,143          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/acm-neto-ja-e-cotado-para-vice-de-bolsonaro-em-2022.shtml
+2021-02-05 02:29:30,153          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2021/02/centrao-e-lava-jato-mostram-como-se-da-a-institucionalizacao-da-barbarie.shtml
+2021-02-05 02:29:34,548          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/01/corrupcao-contra-impeachment.shtml
+2021-02-05 02:29:34,552          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/01/valentoes-e-seus-inimigos-inventados.shtml
+2021-02-05 02:29:34,556          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/rodrigo-pacheco-e-eleito-presidente-do-senado-com-apoio-de-bolsonaro-e-alcolumbre.shtml
+2021-02-05 02:29:34,559          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/01/dois-continentes-musicais.shtml
+2021-02-05 02:29:34,562          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/final-eletrizante-de-jogo-contrastou-com-decisao-previsivel-da-libertadores.shtml
+2021-02-05 02:29:34,566          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/arminio-fraga/2021/01/vamos-insistir.shtml
+2021-02-05 02:29:34,569          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/maia-chora-na-despedida-da-camara-e-diz-que-as-brigas-passaram.shtml
+2021-02-05 02:29:34,572          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/projeto-perigoso.shtml
+2021-02-05 02:29:34,575          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/mesmo-com-pandemia-eleicao-no-congresso-tem-aglomeracao-de-deputados-e-autoridades-sem-mascara.shtml
+2021-02-05 02:29:34,579          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/governismo-de-ocasiao-de-alcolumbre-sera-testado-com-pacheco-no-senado.shtml
+2021-02-05 02:29:34,582          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/saiba-quem-e-rodrigo-pacheco-o-novo-presidente-do-senado.shtml
+2021-02-05 02:29:34,585          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lider-do-centrao-lira-e-eleito-presidente-da-camara-apos-interferencia-de-bolsonaro.shtml
+2021-02-05 02:29:34,588          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/01/shakespeare-na-america.shtml
+2021-02-05 02:29:34,592          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/eleicao-para-presidencia-da-camara-tem-bate-boca-acusacoes-de-tapetao-e-aglomeracoes-na-pandemia.shtml
+2021-02-05 02:29:34,596          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/01/o-carnaval-dos-imbecis.shtml
+2021-02-05 02:29:34,599          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/01/assim-como-palmeiras-x-santos-grandes-finais-costumam-ser-sem-brilho.shtml
+2021-02-05 02:29:34,602          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/vacine-ou-empobreca.shtml
+2021-02-05 02:29:34,605          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/camara-municipal-de-sp-reforcara-seguranca-de-vereadores-mas-covereadoras-nao-sao-incluidas.shtml
+2021-02-05 02:29:34,609          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/ciro-e-marina-debatem-impeachment-de-bolsonaro-depois-de-eleicoes-na-camara-e-no-senado.shtml
+2021-02-05 02:29:34,612          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/maia-encerra-gestao-em-guerra-contra-aliados-e-em-meio-a-rompantes-de-abrir-impeachment-de-bolsonaro.shtml
+2021-02-05 02:29:34,615          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/vexame-de-compra-de-vacinas-por-empresas-foi-produzido-pela-opcao-preferencial-de-um-governo-disfuncional.shtml
+2021-02-05 02:29:34,619          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/01/ideia-do-consorcio-para-compra-de-vacinas-tem-digital-da-gerdau-e-de-skaf.shtml
+2021-02-05 02:29:34,619          root     INFO: Finished script
