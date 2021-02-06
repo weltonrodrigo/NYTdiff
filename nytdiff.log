@@ -1,28 +1,8 @@
-2021-02-06 02:32:14,091          root     INFO: Starting script
-2021-02-06 02:32:15,248          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-06 02:32:16,100          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-06 02:32:16,951          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-06 02:32:17,262          root     INFO: Parsing R7 - Brasil
-2021-02-06 02:32:17,677          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/melhora-efemera.shtml
-2021-02-06 02:32:17,691          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/nova-corrida.shtml
-2021-02-06 02:32:17,702          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/02/biden-tem-oportunidade-de-converter-vacina-em-bem-publico-global.shtml
-2021-02-06 02:32:17,716          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/o-projeto-de-lei-que-da-mais-autonomia-as-policias-militares-e-adequado-sim.shtml
-2021-02-06 02:32:17,727          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/o-projeto-de-lei-que-da-mais-autonomia-as-policias-militares-e-adequado-nao.shtml
-2021-02-06 02:32:19,841          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/proposta-que-poderia-ter-salvo-lava-jato-espera-por-decisao-de-aras-ha-tres-meses.shtml
-2021-02-06 02:32:19,852          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/absolvido-no-mensalao-e-suspeito-em-outro-esquema-de-propina-e-questiona-investigacao.shtml
-2021-02-06 02:32:19,863          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/gestao-bruno-covas-diz-que-mantera-limite-de-35-de-alunos-por-sala-em-sp-e-que-nao-vai-ceder-a-lobby.shtml
-2021-02-06 02:32:19,875          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/apos-eleicao-de-lira-centrao-pressiona-planalto-por-banco-do-brasil-e-casa-da-moeda.shtml
-2021-02-06 02:32:19,886          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/dem-nao-deve-pedir-mandato-de-maia-caso-ele-deixe-o-partido.shtml
-2021-02-06 02:32:19,897          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/02/biden-tem-oportunidade-de-converter-vacina-em-bem-publico-global.shtml
-2021-02-06 02:32:24,591          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/01/eleicoes-e-cooptacao-do-congresso.shtml
-2021-02-06 02:32:24,595          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/01/abel-ferreira-encanta-jogadores-pela-tranquilidade.shtml
-2021-02-06 02:32:24,599          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/opcao-de-dem-por-lira-rompe-elo-com-frente-ampla-contra-bolsonaro-e-com-huck-avalia-cidadania.shtml
-2021-02-06 02:32:24,603          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/tcu-arquiva-representacao-contra-projeto-da-pgr-de-sala-vip-para-subprocuradores-em-aeroporto.shtml
-2021-02-06 02:32:24,607          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/discurso-de-paz-e-amor-de-arthur-lira-durou-10-minutos-diz-doria.shtml
-2021-02-06 02:32:24,610          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2021/01/o-vazamento-de-dados-do-fim-do-mundo.shtml
-2021-02-06 02:32:24,614          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/01/a-espera-do-curio.shtml
-2021-02-06 02:32:24,618          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/deputados-veem-dem-como-novo-pp-e-acham-que-partido-escolhera-quem-tiver-mais-chances-em-2022.shtml
-2021-02-06 02:32:24,621          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2021/01/as-licoes-da-vida-como-ela-e.shtml
-2021-02-06 02:32:24,625          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-1a-decisao-lira-rebaixa-pt-favorece-aliados-e-tira-tucanos-e-rede-do-comando-da-camara.shtml
-2021-02-06 02:32:24,629          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/acm-neto-nao-tera-mais-a-confianca-dizem-aliados-de-maia-e-ouvem-que-ex-presidente-nao-soube-articular.shtml
-2021-02-06 02:32:24,630          root     INFO: Finished script
+2021-02-06 02:49:52,054          root     INFO: Starting script
+2021-02-06 02:49:52,890          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-06 02:49:53,558          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-06 02:49:54,224          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-06 02:50:06,680          root     INFO: Parsing R7 - Brasil
+2021-02-06 02:50:13,602          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-nao-precisa-indicar-1-de-lista-triplice-de-reitores-05022021
+2021-02-06 02:50:13,615          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-tem-reuniao-com-uniao-quimica-sobre-vacina-sputnik-v-05022021
+2021-02-06 02:50:14,053          root     INFO: Finished script
