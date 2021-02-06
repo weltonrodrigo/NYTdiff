@@ -1,35 +1,26 @@
-2021-02-06 00:55:49,507          root     INFO: Starting script
-2021-02-06 00:55:50,510          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-06 00:55:51,332          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-06 00:55:52,147          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-06 00:55:52,447          root     INFO: Parsing R7 - Brasil
-2021-02-06 00:55:52,847          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/um-russo-e-um-chines-tiram-a-primazia-dos-eua-em-aplicativos.shtml
-2021-02-06 00:55:56,592          root     INFO: Contra aquecimento global, cidade no Ártico lança 'candidatura' a Olimpíada de <ins>verão de</ins> 2032
-2021-02-06 00:55:58,379          root     INFO: Media ready with ids: 1357855519034204161
-2021-02-06 00:55:58,379          root     INFO: Text to tweet: Modificação do Título
-2021-02-06 00:55:58,379          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/contra-aquecimento-global-cidade-no-artico-lanca-candidatura-a-olimpiada-de-2032.shtml
-2021-02-06 00:55:58,387          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/contra-aquecimento-global-cidade-no-artico-lanca-candidatura-a-olimpiada-de-2032.shtml
-2021-02-06 00:55:58,655          root     INFO: Replying to: 1357855520858771457
-2021-02-06 00:55:58,943          root     INFO: Id to store: 1357855521718599680
-2021-02-06 00:56:00,696          root     INFO: New article tracked: http://noticias.r7.com/brasil/stj-pede-a-pgr-apuracao-sobre-investigacao-ilegal-de-ministros-05022021
-2021-02-06 00:56:00,706          root     INFO: New article tracked: http://noticias.r7.com/brasil/saude-negocia-compra-de-20-milhoes-de-doses-da-covaxin-05022021
-2021-02-06 00:56:00,715          root     INFO: New article tracked: http://noticias.r7.com/brasil/aras-diz-ao-stf-que-abriu-9-acoes-sobre-conduta-de-bolsonaro-05022021
-2021-02-06 00:56:00,722          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-diz-haver-negociacoes-com-laboratorios-por-outras-4-vacinas-05022021
-2021-02-06 00:56:00,730          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-apresenta-medidas-sobre-amazonia-a-embaixador-americano-05022021
-2021-02-06 00:56:00,738          root     INFO: New article tracked: http://noticias.r7.com/brasil/presos-ha-5-meses-cotinuam-em-lista-de-mais-procurados-do-brasil-05022021
-2021-02-06 00:56:00,747          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-quer-veto-de-mp-que-fixa-prazo-para-liberacao-de-vacinas-05022021
-2021-02-06 00:56:00,754          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-quer-submeter-a-anvisa-em-13-dias-vacina-de-oxford-brasileira-05022021
-2021-02-06 00:56:00,762          root     INFO: New article tracked: http://noticias.r7.com/brasil/condenado-por-corrupcao-lula-escolhe-haddad-para-2022-05022021
-2021-02-06 00:56:00,770          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-abre-licitacao-para-construir-complexo-de-vacinas-e-biofarmacos-05022021
-2021-02-06 00:56:00,778          root     INFO: New article tracked: http://noticias.r7.com/brasil/proposta-sobre-icms-foi-feita-ha-um-ano-mas-nunca-foi-ao-congresso-05022021
-2021-02-06 00:56:00,786          root     INFO: New article tracked: http://noticias.r7.com/brasil/agu-nao-apresenta-a-justica-provas-de-fraude-nas-eleicoes-de-2018-05022021
-2021-02-06 00:56:00,794          root     INFO: New article tracked: http://noticias.r7.com/brasil/sp-anuncia-mais-11-milhao-de-doses-da-coronavac-para-distribuir-05022021
-2021-02-06 00:56:00,802          root     INFO: New article tracked: http://noticias.r7.com/brasil/simone-tebet-e-cortejada-por-partidos-mas-deve-ficar-no-mdb-05022021
-2021-02-06 00:56:00,810          root     INFO: New article tracked: http://noticias.r7.com/brasil/inflacao-e-retomada-economica-sao-temas-do-estudio-news-05022021
-2021-02-06 00:56:00,817          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-propoe-projeto-para-prever-imposto-do-combustivel-05022021
-2021-02-06 00:56:00,825          root     INFO: New article tracked: http://noticias.r7.com/brasil/estados-cobram-reforma-tributaria-ampla-que-inclua-tambem-icms-05022021
-2021-02-06 00:56:00,834          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-abre-em-queda-diante-do-real-e-caminha-para-perda-semanal-05022021
-2021-02-06 00:56:00,844          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-admite-retomada-do-auxilio-a-quase-34-milhoes-de-brasileiros-05022021
-2021-02-06 00:56:00,852          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-federal-quer-alterar-icms-sobre-combustivel-05022021
-2021-02-06 00:56:00,862          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/01/sem-margem-de-erro.shtml
-2021-02-06 00:56:00,863          root     INFO: Finished script
+2021-02-06 01:31:29,199          root     INFO: Starting script
+2021-02-06 01:31:30,111          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-06 01:31:30,818          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-06 01:31:31,520          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-06 01:31:31,713          root     INFO: Parsing R7 - Brasil
+2021-02-06 01:31:39,470          root     INFO: Removed http://noticias.r7.com/brasil/proposta-sobre-icms-foi-feita-ha-um-ano-mas-nunca-foi-ao-congresso-05022021
+2021-02-06 01:31:39,476          root     INFO: Removed http://noticias.r7.com/brasil/estados-cobram-reforma-tributaria-ampla-que-inclua-tambem-icms-05022021
+2021-02-06 01:31:39,480          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-quer-submeter-a-anvisa-em-13-dias-vacina-de-oxford-brasileira-05022021
+2021-02-06 01:31:39,487          root     INFO: Removed http://noticias.r7.com/brasil/mourao-apresenta-medidas-sobre-amazonia-a-embaixador-americano-05022021
+2021-02-06 01:31:39,494          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-quer-veto-de-mp-que-fixa-prazo-para-liberacao-de-vacinas-05022021
+2021-02-06 01:31:39,501          root     INFO: Removed http://noticias.r7.com/brasil/inflacao-e-retomada-economica-sao-temas-do-estudio-news-05022021
+2021-02-06 01:31:39,507          root     INFO: Removed http://noticias.r7.com/brasil/dolar-abre-em-queda-diante-do-real-e-caminha-para-perda-semanal-05022021
+2021-02-06 01:31:39,512          root     INFO: Removed http://noticias.r7.com/brasil/condenado-por-corrupcao-lula-escolhe-haddad-para-2022-05022021
+2021-02-06 01:31:39,516          root     INFO: Removed http://noticias.r7.com/brasil/governo-federal-quer-alterar-icms-sobre-combustivel-05022021
+2021-02-06 01:31:39,520          root     INFO: Removed http://noticias.r7.com/brasil/guedes-admite-retomada-do-auxilio-a-quase-34-milhoes-de-brasileiros-05022021
+2021-02-06 01:31:39,525          root     INFO: Removed http://noticias.r7.com/brasil/presos-ha-5-meses-cotinuam-em-lista-de-mais-procurados-do-brasil-05022021
+2021-02-06 01:31:39,536          root     INFO: Removed http://noticias.r7.com/brasil/simone-tebet-e-cortejada-por-partidos-mas-deve-ficar-no-mdb-05022021
+2021-02-06 01:31:39,541          root     INFO: Removed http://noticias.r7.com/brasil/stj-pede-a-pgr-apuracao-sobre-investigacao-ilegal-de-ministros-05022021
+2021-02-06 01:31:39,546          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-diz-haver-negociacoes-com-laboratorios-por-outras-4-vacinas-05022021
+2021-02-06 01:31:39,550          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-abre-licitacao-para-construir-complexo-de-vacinas-e-biofarmacos-05022021
+2021-02-06 01:31:39,554          root     INFO: Removed http://noticias.r7.com/brasil/aras-diz-ao-stf-que-abriu-9-acoes-sobre-conduta-de-bolsonaro-05022021
+2021-02-06 01:31:39,558          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-propoe-projeto-para-prever-imposto-do-combustivel-05022021
+2021-02-06 01:31:39,565          root     INFO: Removed http://noticias.r7.com/brasil/saude-negocia-compra-de-20-milhoes-de-doses-da-covaxin-05022021
+2021-02-06 01:31:39,570          root     INFO: Removed http://noticias.r7.com/brasil/agu-nao-apresenta-a-justica-provas-de-fraude-nas-eleicoes-de-2018-05022021
+2021-02-06 01:31:39,574          root     INFO: Removed http://noticias.r7.com/brasil/sp-anuncia-mais-11-milhao-de-doses-da-coronavac-para-distribuir-05022021
+2021-02-06 01:31:39,575          root     INFO: Finished script
