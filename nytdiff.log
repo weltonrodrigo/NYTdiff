@@ -1,7 +1,25 @@
-2021-02-07 02:57:48,817          root     INFO: Starting script
-2021-02-07 02:57:49,706          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-07 02:57:50,383          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-07 02:57:51,075          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-07 02:57:51,271          root     INFO: Parsing R7 - Brasil
-2021-02-07 02:57:57,407          root     INFO: Removed http://noticias.r7.com/brasil/sorteio-da-mega-sena-pode-pagar-r-25-milhoes-neste-sabado-06022021
-2021-02-07 02:57:57,409          root     INFO: Finished script
+2021-02-07 03:24:34,194          root     INFO: Starting script
+2021-02-07 03:24:35,217          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-07 03:24:36,066          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-07 03:24:36,898          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-07 03:24:37,143          root     INFO: Parsing R7 - Brasil
+2021-02-07 03:24:39,447          root     INFO: Após rusgas em eleição na Câmara, <ins>Rodrigo</ins> Maia evita ACM Neto e Lira
+2021-02-07 03:24:41,220          root     INFO: Media ready with ids: 1358255331978141702
+2021-02-07 03:24:41,220          root     INFO: Text to tweet: Modificação do Título
+2021-02-07 03:24:41,220          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/apos-rusgas-em-eleicao-na-camara-maia-evita-acm-neto-e-lira.shtml
+2021-02-07 03:24:41,228          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/apos-rusgas-em-eleicao-na-camara-maia-evita-acm-neto-e-lira.shtml
+2021-02-07 03:24:41,504          root     INFO: Replying to: 1358255333823700992
+2021-02-07 03:24:41,795          root     INFO: Id to store: 1358255334796713986
+2021-02-07 03:24:41,801          root     INFO: Ainda não dissiparam as mágoas de Rodrigo Maia (DEM-RJ) com ex-aliados em razão das rusgas ocorridas na eleição da Câmara. <del>Desde então, ele não voltou a falar nem o presidente da sigla, ACM Neto, nem com Arthur Lira (PP-AL).</del> Leia mais (02/06/2021 - 23h15)
+2021-02-07 03:24:46,675          root     INFO: Media ready with ids: 1358255354828709891
+2021-02-07 03:24:46,676          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-07 03:24:46,676          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/apos-rusgas-em-eleicao-na-camara-maia-evita-acm-neto-e-lira.shtml
+2021-02-07 03:24:46,688          root     INFO: Replying to: 1358255334796713986
+2021-02-07 03:24:46,956          root     INFO: Id to store: 1358255356514881536
+2021-02-07 03:24:47,053          root     INFO: Símbolo da Lava <del>Jato, delegado Igor Romário</del> <ins>Jato com Moro, diretor de combate à corrupção</ins> vai deixar cúpula da <del>PF</del> <ins>Polícia Federal</ins>
+2021-02-07 03:24:48,804          root     INFO: Media ready with ids: 1358255363695476742
+2021-02-07 03:24:48,805          root     INFO: Text to tweet: Modificação do Título
+2021-02-07 03:24:48,805          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/ultimo-remanescente-do-grupo-proximo-de-sergio-moro-na-cupula-da-pf-vai-para-o-canada.shtml
+2021-02-07 03:24:48,814          root     INFO: Replying to: 1358247021073809409
+2021-02-07 03:24:49,105          root     INFO: Id to store: 1358255365490696196
+2021-02-07 03:24:52,925          root     INFO: Finished script
