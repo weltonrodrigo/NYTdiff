@@ -1,19 +1,6 @@
-2021-02-08 12:36:25,359          root     INFO: Starting script
-2021-02-08 12:36:26,383          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-08 12:36:27,226          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-08 12:36:28,084          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-08 12:36:28,406          root     INFO: Parsing R7 - Brasil
-2021-02-08 12:36:30,897          root     INFO: Bolsonaro leva de volta ao Planalto amigo da família demitido por uso <del>'imoral'</del> <ins>imoral</ins> de avião da FAB
-2021-02-08 12:36:32,728          root     INFO: Media ready with ids: 1358756599456796677
-2021-02-08 12:36:32,729          root     INFO: Text to tweet: Modificação do Título
-2021-02-08 12:36:32,729          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-leva-de-volta-ao-planalto-amigo-da-familia-demitido-por-uso-imoral-de-aviao-da-fab.shtml
-2021-02-08 12:36:32,738          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-leva-de-volta-ao-planalto-amigo-da-familia-demitido-por-uso-imoral-de-aviao-da-fab.shtml
-2021-02-08 12:36:33,043          root     INFO: Replying to: 1358756601545580550
-2021-02-08 12:36:33,331          root     INFO: Id to store: 1358756602606727168
-2021-02-08 12:36:33,338          root     INFO: O presidente Jair Bolsonaro (sem partido) <del>trouxe</del> <ins>levou</ins> de volta ao Palácio do Planalto José Vicente Santini, amigo da família que foi demitido do posto de secretário-executivo da Casa Civil em janeiro do ano passado após usar um jato da FAB (Força Aérea Brasileira) para uma viagem exclusiva para a Índia. Leia mais (02/08/2021 - 08h51)
-2021-02-08 12:36:35,233          root     INFO: Media ready with ids: 1358756609858617344
-2021-02-08 12:36:35,233          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-08 12:36:35,234          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-leva-de-volta-ao-planalto-amigo-da-familia-demitido-por-uso-imoral-de-aviao-da-fab.shtml
-2021-02-08 12:36:35,242          root     INFO: Replying to: 1358756602606727168
-2021-02-08 12:36:35,537          root     INFO: Id to store: 1358756611762884609
-2021-02-08 12:36:39,833          root     INFO: Finished script
+2021-02-08 12:59:05,737          root     INFO: Starting script
+2021-02-08 12:59:06,572          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-08 12:59:07,250          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-08 12:59:07,925          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-08 12:59:08,221          root     INFO: Parsing R7 - Brasil
+2021-02-08 12:59:15,458          root     INFO: Finished script
