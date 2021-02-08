@@ -1,26 +1,18 @@
-2021-02-08 19:57:46,496          root     INFO: Starting script
-2021-02-08 19:57:47,532          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-08 19:57:48,374          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-08 19:57:49,218          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-08 19:57:49,438          root     INFO: Parsing R7 - Brasil
-2021-02-08 19:57:49,874          root     INFO: A expectativa da Morte era igual <del>a</del> <ins>à</ins> dos demais negacionistas da madrugada
-2021-02-08 19:57:51,701          root     INFO: Media ready with ids: 1358867660390477825
-2021-02-08 19:57:51,702          root     INFO: Text to tweet: Modificação do Título
-2021-02-08 19:57:51,702          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/02/a-expectativa-da-morte-era-igual-a-dos-demais-negacionistas-da-madrugada.shtml
-2021-02-08 19:57:51,714          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/02/a-expectativa-da-morte-era-igual-a-dos-demais-negacionistas-da-madrugada.shtml
-2021-02-08 19:57:51,985          root     INFO: Replying to: 1358867662336634880
-2021-02-08 19:57:52,270          root     INFO: Id to store: 1358867663343214595
-2021-02-08 19:57:59,505          root     INFO: Old or New empty
-2021-02-08 19:57:59,818          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-avanca-ante-real-de-olho-em-estimulo-financeiro-nos-eua-08022021
-2021-02-08 19:57:59,851          root     INFO: New article tracked: http://noticias.r7.com/brasil/sisu-comeca-prazo-de-adesao-de-instituicoes-publicas-de-educacao-08022021
-2021-02-08 19:57:59,865          root     INFO: New article tracked: http://noticias.r7.com/brasil/mercado-ve-inflacao-mais-alta-em-2021-e-crescimento-menor-08022021
-2021-02-08 19:57:59,878          root     INFO: New article tracked: http://noticias.r7.com/brasil/petrobras-vende-refinaria-e-programa-negociar-mais-7-unidades-08022021
-2021-02-08 19:57:59,891          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-estuda-a-criacao-de-auxilio-de-r-200-em-tres-parcelas-08022021
-2021-02-08 19:57:59,904          root     INFO: New article tracked: http://noticias.r7.com/brasil/concursos-tem-quase-6-mil-vagas-com-salarios-de-ate-r-10-mil-08022021
-2021-02-08 19:57:59,920          root     INFO: Removed http://noticias.r7.com/brasil/projeto-que-cria-lideranca-feminina-preve-assento-no-colegio-de-lideres-08022021
-2021-02-08 19:57:59,926          root     INFO: Removed http://noticias.r7.com/brasil/brasileiro-e-extraditado-da-europa-por-trafico-de-mulheres-08022021
-2021-02-08 19:57:59,932          root     INFO: Removed http://noticias.r7.com/brasil/lira-diz-que-camara-votara-amanha-autonomia-do-banco-central-08022021
-2021-02-08 19:57:59,943          root     INFO: Removed http://noticias.r7.com/brasil/defesa-de-lula-envia-ao-stf-pericia-propria-de-mensagens-de-moro-08022021
-2021-02-08 19:57:59,949          root     INFO: Removed http://noticias.r7.com/brasil/desembargadora-estava-de-folga-no-dia-em-que-mandou-deter-crivella-08022021
-2021-02-08 19:57:59,955          root     INFO: Removed http://noticias.r7.com/brasil/terminam-nesta-terca-feira-9-as-inscricoes-para-o-concurso-da-pf-08022021
-2021-02-08 19:57:59,956          root     INFO: Finished script
+2021-02-08 20:24:10,089          root     INFO: Starting script
+2021-02-08 20:24:10,984          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-08 20:24:11,655          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-08 20:24:12,339          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-08 20:24:12,445          root     INFO: Parsing R7 - Brasil
+2021-02-08 20:24:12,841          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/02/negros-trans-e-gays-lideram-hierarquia-da-opressao-mas-e-os-judeus.shtml
+2021-02-08 20:24:12,858          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/02/por-que-o-o-antisemitismo-nao-estaria-no-mesmo-plano-de-outros-racismos.shtml
+2021-02-08 20:24:15,052          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/gestao-covas-consegue-revogacao-de-liminar-do-jockey-club-de-sp-para-nao-pagar-iptu-em-2021.shtml
+2021-02-08 20:24:19,829          root     INFO: Removed http://noticias.r7.com/brasil/concursos-tem-quase-6-mil-vagas-com-salarios-de-ate-r-10-mil-08022021
+2021-02-08 20:24:19,835          root     INFO: Removed http://noticias.r7.com/brasil/dolar-avanca-ante-real-de-olho-em-estimulo-financeiro-nos-eua-08022021
+2021-02-08 20:24:19,839          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/direito-ao-esquecimento-em-debate.shtml
+2021-02-08 20:24:19,844          root     INFO: Removed http://noticias.r7.com/brasil/sisu-comeca-prazo-de-adesao-de-instituicoes-publicas-de-educacao-08022021
+2021-02-08 20:24:19,848          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/02/ligacoes-perigosas.shtml
+2021-02-08 20:24:19,852          root     INFO: Removed http://noticias.r7.com/brasil/governo-estuda-a-criacao-de-auxilio-de-r-200-em-tres-parcelas-08022021
+2021-02-08 20:24:19,857          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/pastores-indigenas-e-vacina-controversias-desinformativas-que-matam.shtml
+2021-02-08 20:24:19,860          root     INFO: Removed http://noticias.r7.com/brasil/mercado-ve-inflacao-mais-alta-em-2021-e-crescimento-menor-08022021
+2021-02-08 20:24:19,864          root     INFO: Removed http://noticias.r7.com/brasil/petrobras-vende-refinaria-e-programa-negociar-mais-7-unidades-08022021
+2021-02-08 20:24:19,865          root     INFO: Finished script
