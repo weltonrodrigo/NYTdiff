@@ -1,13 +1,26 @@
-2021-02-09 21:57:49,863          root     INFO: Starting script
-2021-02-09 21:57:50,889          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-09 21:57:51,724          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-09 21:57:52,560          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-09 21:57:52,803          root     INFO: Parsing R7 - Brasil
-2021-02-09 21:57:53,228          root     INFO: Tenho um defeito <del>seríssimo:</del> <ins>seriíssimo:</ins> detesto não saber do que estão falando. Nas ruas, chego a dar <del>meia-volta</del> <ins>meia volta</ins> pra pescar o resto de uma conversa que ouvi pela metade. Sofro de uma curiosidade insaciável pela vida alheia, que é uma maneira rebuscada de dizer que adoro fofoca. Leia mais (02/09/2021 - 18h29)
-2021-02-09 21:57:55,160          root     INFO: Media ready with ids: 1359260261677490191
-2021-02-09 21:57:55,160          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-09 21:57:55,161          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/02/nao-a-toa-a-pessoa-mais-querida-do-bbb-foi-a-que-nao-topou-jogar-o-jogo.shtml
-2021-02-09 21:57:55,171          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/02/nao-a-toa-a-pessoa-mais-querida-do-bbb-foi-a-que-nao-topou-jogar-o-jogo.shtml
-2021-02-09 21:57:55,455          root     INFO: Replying to: 1359260263795593216
-2021-02-09 21:57:55,789          root     INFO: Id to store: 1359260264810569737
-2021-02-09 21:58:02,696          root     INFO: Finished script
+2021-02-09 22:25:37,139          root     INFO: Starting script
+2021-02-09 22:25:38,194          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-09 22:25:39,051          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-09 22:25:39,896          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-09 22:25:40,127          root     INFO: Parsing R7 - Brasil
+2021-02-09 22:25:42,996          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stj-retoma-julgamento-com-voto-favoravel-a-flavio-bolsonaro-mas-pedido-de-vista-adia-decisao.shtml
+2021-02-09 22:25:43,012          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lula-recebe-alta-apos-ficar-3-dias-internado-em-sp.shtml
+2021-02-09 22:25:43,025          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/ex-ministro-de-sarney-e-ex-governador-da-bahia-roberto-santos-morre-aos-94.shtml
+2021-02-09 22:25:43,111          root     INFO: Moro é alvo de <del>protesto</del> <ins>'pegadinha'</ins> em seminário virtual por mensagens trocadas com procuradores da Lava Jato
+2021-02-09 22:25:44,971          root     INFO: Media ready with ids: 1359267265284345860
+2021-02-09 22:25:44,971          root     INFO: Text to tweet: Modificação do Título
+2021-02-09 22:25:44,971          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/moro-e-alvo-de-protesto-em-seminario-virtual-por-mensagens-trocadas-com-procuradores-da-lava-jato.shtml
+2021-02-09 22:25:44,982          root     INFO: Replying to: 1359236715286781957
+2021-02-09 22:25:45,299          root     INFO: Id to store: 1359267267398279169
+2021-02-09 22:25:45,305          root     INFO: Durante participação em seminário virtual nesta terça-feira (9) sobre a Lava Jato, Sergio Moro foi alvo de <del>um protesto relacionado</del> <ins>uma "pegadinha" relacionada</ins> a mensagens trocadas com procuradores da operação <del>sobre</del> <ins>a respeito de</ins> casos sob sua responsabilidade quando era juiz. Leia mais (02/09/2021 - 15h48)
+2021-02-09 22:25:47,124          root     INFO: Media ready with ids: 1359267274503450624
+2021-02-09 22:25:47,124          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-09 22:25:47,125          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/moro-e-alvo-de-protesto-em-seminario-virtual-por-mensagens-trocadas-com-procuradores-da-lava-jato.shtml
+2021-02-09 22:25:47,132          root     INFO: Replying to: 1359267267398279169
+2021-02-09 22:25:47,438          root     INFO: Id to store: 1359267276206338051
+2021-02-09 22:25:49,751          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/governo-espera-r-32-bi-por-ano-de-iniciativa-privada-para-adocao-de-parques-na-amazonia.shtml
+2021-02-09 22:25:52,604          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/frente-anti-bolsonaro-remoi-nova-derrota-apos-eleicao-da-camara-e-preve-obstaculos-para-2022.shtml
+2021-02-09 22:25:52,608          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/politica-ambiental-nao-muda-segue-o-baile-diz-mourao-diante-de-iminentes-resultados-nos-eua.shtml
+2021-02-09 22:25:52,612          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/acm-neto-ja-e-cotado-para-vice-de-bolsonaro-em-2022.shtml
+2021-02-09 22:25:52,620          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/racismo-estrutural-virou-alibi-para-justificar-praticas-individuais-e-institucionais-diz-professor.shtml
+2021-02-09 22:25:52,623          root     INFO: Finished script
