@@ -1,12 +1,15 @@
-2021-02-09 16:46:52,404          root     INFO: Starting script
-2021-02-09 16:46:53,333          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-09 16:46:54,982          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-09 16:46:55,657          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-09 16:46:55,892          root     INFO: Parsing R7 - Brasil
-2021-02-09 16:46:58,469          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/plano-de-doria-para-unir-psdb-em-torno-de-seu-nome-abre-crise-no-partido.shtml
-2021-02-09 16:46:58,482          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-exclui-mourao-de-reuniao-ministerial.shtml
-2021-02-09 16:46:59,117          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/deputado-questiona-ministro-marcos-pontes-sobre-corte-em-bolsas-de-pesquisadores.shtml
-2021-02-09 16:47:03,024          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/stj-tranca-acao-movida-por-edir-macedo-contra-haddad-por-ser-chamado-de-charlatao.shtml
-2021-02-09 16:47:03,029          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/02/dois-eventos-nesta-semana-evidenciam-um-pais-que-se-acanalhou.shtml
-2021-02-09 16:47:03,033          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/toffoli-cita-liberdade-de-expressao-e-vota-contra-criacao-do-direito-ao-esquecimento-no-brasil.shtml
-2021-02-09 16:47:03,033          root     INFO: Finished script
+2021-02-09 17:11:53,715          root     INFO: Starting script
+2021-02-09 17:11:54,578          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-09 17:11:55,280          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-09 17:11:55,975          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-09 17:11:56,192          root     INFO: Parsing R7 - Brasil
+2021-02-09 17:11:56,557          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/02/na-corrida-pela-vacinacao-psicologos-e-terapeutas-entram-em-surtos.shtml
+2021-02-09 17:11:58,974          root     INFO: A tentativa do governador de São Paulo, João Doria, de enquadrar o PSDB em torno de seu projeto presidencial abriu uma crise no partido e deverá antecipar o debate sobre a candidatura <del>do partido em</del> <ins>tucana de</ins> 2022. Leia mais (02/09/2021 - 13h29)
+2021-02-09 17:12:00,718          root     INFO: Media ready with ids: 1359188310640513024
+2021-02-09 17:12:00,719          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-09 17:12:00,724          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/plano-de-doria-para-unir-psdb-em-torno-de-seu-nome-abre-crise-no-partido.shtml
+2021-02-09 17:12:00,733          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/plano-de-doria-para-unir-psdb-em-torno-de-seu-nome-abre-crise-no-partido.shtml
+2021-02-09 17:12:00,908          root     INFO: Replying to: 1359188312393736195
+2021-02-09 17:12:01,160          root     INFO: Id to store: 1359188313178075144
+2021-02-09 17:12:05,632          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2021/02/quem-ganhar-vai-perder.shtml
+2021-02-09 17:12:05,633          root     INFO: Finished script
