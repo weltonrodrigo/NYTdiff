@@ -1,20 +1,18 @@
-2021-02-09 19:11:21,788          root     INFO: Starting script
-2021-02-09 19:11:22,586          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-09 19:11:23,233          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-09 19:11:23,892          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-09 19:11:24,081          root     INFO: Parsing R7 - Brasil
-2021-02-09 19:11:24,467          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/gestao-financeira-para-as-instituicoes-culturais.shtml
-2021-02-09 19:11:26,307          root     INFO: Plano de Doria para unir PSDB <del>em torno de seu nome</del> <ins>contra Bolsonaro</ins> abre crise no partido
-2021-02-09 19:11:28,021          root     INFO: Media ready with ids: 1359218372664315906
-2021-02-09 19:11:28,021          root     INFO: Text to tweet: Modificação do Título
-2021-02-09 19:11:28,021          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/plano-de-doria-para-unir-psdb-em-torno-de-seu-nome-abre-crise-no-partido.shtml
-2021-02-09 19:11:28,028          root     INFO: Replying to: 1359188313178075144
-2021-02-09 19:11:28,246          root     INFO: Id to store: 1359218374140710916
-2021-02-09 19:11:28,251          root     INFO: <del>A tentativa</del> <ins>O movimento</ins> do governador de São Paulo, João Doria, <del>de enquadrar</del> <ins>para unificar</ins> o PSDB em <del>torno de seu</del> <ins>um</ins> projeto <del>presidencial</del> <ins>de oposição ao presidente Jair Bolsonaro (sem partido)</ins> abriu uma crise no partido e deverá antecipar o debate sobre a candidatura <del>do partido em</del> <ins>tucana de</ins> 2022. Leia mais (02/09/2021 - 13h29)
-2021-02-09 19:11:30,046          root     INFO: Media ready with ids: 1359218380771835905
-2021-02-09 19:11:30,046          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-09 19:11:30,047          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/plano-de-doria-para-unir-psdb-em-torno-de-seu-nome-abre-crise-no-partido.shtml
-2021-02-09 19:11:30,054          root     INFO: Replying to: 1359218374140710916
-2021-02-09 19:11:30,273          root     INFO: Id to store: 1359218382655152128
-2021-02-09 19:11:34,051          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/02/fratura-do-ar-as-minhas-memorias-do-sao-joao.shtml
-2021-02-09 19:11:34,052          root     INFO: Finished script
+2021-02-09 19:19:56,357          root     INFO: Starting script
+2021-02-09 19:19:57,195          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-09 19:19:57,870          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-09 19:19:58,541          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-09 19:19:58,846          root     INFO: Parsing R7 - Brasil
+2021-02-09 19:20:01,809          root     INFO: Plano de Doria para unir PSDB <del>em torno de seu nome</del> <ins>contra Bolsonaro</ins> abre crise no partido
+2021-02-09 19:20:03,530          root     INFO: Media ready with ids: 1359220534786023424
+2021-02-09 19:20:03,530          root     INFO: Text to tweet: Modificação do Título
+2021-02-09 19:20:03,531          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/plano-de-doria-para-unir-psdb-em-torno-de-seu-nome-abre-crise-no-partido.shtml
+2021-02-09 19:20:03,540          root     INFO: Replying to: 1359218382655152128
+2021-02-09 19:20:03,750          root     INFO: Id to store: 1359220536371462148
+2021-02-09 19:20:03,757          root     INFO: <del>A tentativa</del> <ins>O movimento</ins> do governador de São Paulo, João Doria, <del>de enquadrar</del> <ins>para unificar</ins> o PSDB em torno de <del>seu</del> <ins>um</ins> projeto <del>presidencial</del> <ins>de oposição ao Jair Bolsonaro</ins> abriu uma crise no partido e deverá antecipar o debate sobre a candidatura <del>do partido em</del> <ins>presidencial de</ins> 2022. Leia mais (02/09/2021 - 13h29)
+2021-02-09 19:20:05,578          root     INFO: Media ready with ids: 1359220543304724480
+2021-02-09 19:20:05,578          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-09 19:20:05,578          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/plano-de-doria-para-unir-psdb-em-torno-de-seu-nome-abre-crise-no-partido.shtml
+2021-02-09 19:20:05,587          root     INFO: Replying to: 1359220536371462148
+2021-02-09 19:20:05,847          root     INFO: Id to store: 1359220545074692102
+2021-02-09 19:20:11,195          root     INFO: Finished script
