@@ -1,19 +1,13 @@
-2021-02-09 21:49:01,939          root     INFO: Starting script
-2021-02-09 21:49:02,810          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-09 21:49:03,507          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-09 21:49:04,206          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-09 21:49:04,455          root     INFO: Parsing R7 - Brasil
-2021-02-09 21:49:07,075          root     INFO: <ins>Com críticas à Lava Jato,</ins> STF <del>forma maioria para manter</del> <ins>mantém</ins> decisão que autoriza Lula a acessar mensagens <del>da Lava Jato</del>
-2021-02-09 21:49:08,902          root     INFO: Media ready with ids: 1359258054311763972
-2021-02-09 21:49:08,902          root     INFO: Text to tweet: Modificação do Título
-2021-02-09 21:49:08,902          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stf-forma-maioria-para-manter-decisao-que-autoriza-lula-a-acessar-mensagens-da-lava-jato.shtml
-2021-02-09 21:49:08,909          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stf-forma-maioria-para-manter-decisao-que-autoriza-lula-a-acessar-mensagens-da-lava-jato.shtml
-2021-02-09 21:49:09,072          root     INFO: Replying to: 1359258055968448520
-2021-02-09 21:49:09,295          root     INFO: Id to store: 1359258056681488390
-2021-02-09 21:49:09,303          root     INFO: A Segunda Turma do STF (Supremo Tribunal Federal) <del>formou maioria</del> <ins>manteve</ins> nesta terça-feira (9) <del>para manter</del> a decisão que permitiu à defesa do ex-presidente Lula (PT) o acesso a mensagens trocadas entre integrantes da Lava Jato. Leia mais (02/09/2021 - 17h36)
-2021-02-09 21:49:14,140          root     INFO: Media ready with ids: 1359258076260556816
-2021-02-09 21:49:14,140          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-09 21:49:14,140          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stf-forma-maioria-para-manter-decisao-que-autoriza-lula-a-acessar-mensagens-da-lava-jato.shtml
-2021-02-09 21:49:14,151          root     INFO: Replying to: 1359258056681488390
-2021-02-09 21:49:14,394          root     INFO: Id to store: 1359258078068244486
-2021-02-09 21:49:19,085          root     INFO: Finished script
+2021-02-09 21:57:49,863          root     INFO: Starting script
+2021-02-09 21:57:50,889          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-09 21:57:51,724          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-09 21:57:52,560          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-09 21:57:52,803          root     INFO: Parsing R7 - Brasil
+2021-02-09 21:57:53,228          root     INFO: Tenho um defeito <del>seríssimo:</del> <ins>seriíssimo:</ins> detesto não saber do que estão falando. Nas ruas, chego a dar <del>meia-volta</del> <ins>meia volta</ins> pra pescar o resto de uma conversa que ouvi pela metade. Sofro de uma curiosidade insaciável pela vida alheia, que é uma maneira rebuscada de dizer que adoro fofoca. Leia mais (02/09/2021 - 18h29)
+2021-02-09 21:57:55,160          root     INFO: Media ready with ids: 1359260261677490191
+2021-02-09 21:57:55,160          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-09 21:57:55,161          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/02/nao-a-toa-a-pessoa-mais-querida-do-bbb-foi-a-que-nao-topou-jogar-o-jogo.shtml
+2021-02-09 21:57:55,171          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/02/nao-a-toa-a-pessoa-mais-querida-do-bbb-foi-a-que-nao-topou-jogar-o-jogo.shtml
+2021-02-09 21:57:55,455          root     INFO: Replying to: 1359260263795593216
+2021-02-09 21:57:55,789          root     INFO: Id to store: 1359260264810569737
+2021-02-09 21:58:02,696          root     INFO: Finished script
