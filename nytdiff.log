@@ -1,6 +1,12 @@
-2021-02-09 15:57:22,497          root     INFO: Starting script
-2021-02-09 15:57:23,359          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-09 15:57:24,057          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-09 15:57:24,756          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-09 15:57:24,972          root     INFO: Parsing R7 - Brasil
-2021-02-09 15:57:31,674          root     INFO: Finished script
+2021-02-09 16:46:52,404          root     INFO: Starting script
+2021-02-09 16:46:53,333          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-09 16:46:54,982          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-09 16:46:55,657          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-09 16:46:55,892          root     INFO: Parsing R7 - Brasil
+2021-02-09 16:46:58,469          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/plano-de-doria-para-unir-psdb-em-torno-de-seu-nome-abre-crise-no-partido.shtml
+2021-02-09 16:46:58,482          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-exclui-mourao-de-reuniao-ministerial.shtml
+2021-02-09 16:46:59,117          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/deputado-questiona-ministro-marcos-pontes-sobre-corte-em-bolsas-de-pesquisadores.shtml
+2021-02-09 16:47:03,024          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/stj-tranca-acao-movida-por-edir-macedo-contra-haddad-por-ser-chamado-de-charlatao.shtml
+2021-02-09 16:47:03,029          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/02/dois-eventos-nesta-semana-evidenciam-um-pais-que-se-acanalhou.shtml
+2021-02-09 16:47:03,033          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/toffoli-cita-liberdade-de-expressao-e-vota-contra-criacao-do-direito-ao-esquecimento-no-brasil.shtml
+2021-02-09 16:47:03,033          root     INFO: Finished script
