@@ -1,8 +1,20 @@
-2021-02-09 20:36:55,634          root     INFO: Starting script
-2021-02-09 20:36:56,664          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-09 20:36:57,513          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-09 20:36:58,356          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-09 20:36:58,567          root     INFO: Parsing R7 - Brasil
-2021-02-09 20:36:58,984          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/o-lulobolsonarismo-brasileiro.shtml
-2021-02-09 20:37:06,695          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/individualismo-e-preconceito-nao-podem-prevalecer-em-mandatos-coletivos.shtml
-2021-02-09 20:37:06,696          root     INFO: Finished script
+2021-02-09 20:47:56,247          root     INFO: Starting script
+2021-02-09 20:47:57,201          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-09 20:47:57,905          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-09 20:47:58,604          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-09 20:47:58,849          root     INFO: Parsing R7 - Brasil
+2021-02-09 20:48:01,530          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stf-forma-maioria-para-manter-decisao-que-autoriza-lula-a-acessar-mensagens-da-lava-jato.shtml
+2021-02-09 20:48:01,595          root     INFO: Plano de Doria para unir PSDB <del>em torno de seu nome</del> <ins>contra Bolsonaro</ins> abre crise no partido
+2021-02-09 20:48:03,437          root     INFO: Media ready with ids: 1359242680413417473
+2021-02-09 20:48:03,437          root     INFO: Text to tweet: Modificação do Título
+2021-02-09 20:48:03,437          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/plano-de-doria-para-unir-psdb-em-torno-de-seu-nome-abre-crise-no-partido.shtml
+2021-02-09 20:48:03,445          root     INFO: Replying to: 1359220545074692102
+2021-02-09 20:48:03,686          root     INFO: Id to store: 1359242681990471683
+2021-02-09 20:48:03,694          root     INFO: <del>A tentativa</del> <ins>O movimento</ins> do governador de São Paulo, João Doria, <del>de enquadrar</del> <ins>para unificar</ins> o PSDB em torno de <del>seu</del> <ins>um</ins> projeto <del>presidencial</del> <ins>de oposição a Jair Bolsonaro</ins> abriu uma crise no partido e deverá antecipar o debate sobre a candidatura <del>do partido em</del> <ins>presidencial de</ins> 2022. Leia mais (02/09/2021 - 13h29)
+2021-02-09 20:48:05,472          root     INFO: Media ready with ids: 1359242688881647616
+2021-02-09 20:48:05,473          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-09 20:48:05,473          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/plano-de-doria-para-unir-psdb-em-torno-de-seu-nome-abre-crise-no-partido.shtml
+2021-02-09 20:48:05,487          root     INFO: Replying to: 1359242681990471683
+2021-02-09 20:48:05,737          root     INFO: Id to store: 1359242690563616771
+2021-02-09 20:48:10,368          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/o-que-falta-para-condenar-bolsonaro.shtml
+2021-02-09 20:48:10,369          root     INFO: Finished script
