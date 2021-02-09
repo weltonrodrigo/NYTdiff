@@ -1,6 +1,13 @@
-2021-02-09 19:57:48,138          root     INFO: Starting script
-2021-02-09 19:57:48,984          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-09 19:57:49,666          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-09 19:57:50,359          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-09 19:57:50,504          root     INFO: Parsing R7 - Brasil
-2021-02-09 19:57:56,865          root     INFO: Finished script
+2021-02-09 20:24:13,765          root     INFO: Starting script
+2021-02-09 20:24:14,638          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-09 20:24:15,323          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-09 20:24:16,009          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-09 20:24:16,131          root     INFO: Parsing R7 - Brasil
+2021-02-09 20:24:18,895          root     INFO: Durante participação em seminário virtual nesta terça-feira (9) sobre a Lava Jato, Sergio Moro foi alvo de um protesto relacionado a mensagens trocadas com procuradores da operação <del>sobre</del> <ins>a respeito de</ins> casos sob sua responsabilidade quando era juiz. Leia mais (02/09/2021 - 15h48)
+2021-02-09 20:24:20,667          root     INFO: Media ready with ids: 1359236712845705221
+2021-02-09 20:24:20,668          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-09 20:24:20,668          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/moro-e-alvo-de-protesto-em-seminario-virtual-por-mensagens-trocadas-com-procuradores-da-lava-jato.shtml
+2021-02-09 20:24:20,675          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/moro-e-alvo-de-protesto-em-seminario-virtual-por-mensagens-trocadas-com-procuradores-da-lava-jato.shtml
+2021-02-09 20:24:20,876          root     INFO: Replying to: 1359236714498244614
+2021-02-09 20:24:21,141          root     INFO: Id to store: 1359236715286781957
+2021-02-09 20:24:25,941          root     INFO: Finished script
