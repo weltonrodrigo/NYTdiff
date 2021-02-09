@@ -1,44 +1,28 @@
-2021-02-09 14:23:42,796          root     INFO: Starting script
-2021-02-09 14:23:43,642          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-09 14:23:44,328          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-09 14:23:45,002          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-09 14:23:45,270          root     INFO: Parsing R7 - Brasil
-2021-02-09 14:23:45,662          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/02/como-os-democratas-aprenderam-a-aproveitar-as-oportunidades.shtml
-2021-02-09 14:23:47,779          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/justica-nega-pedido-de-indenizacao-de-r-50-mil-de-ciro-gomes-a-fernando-holiday.shtml
-2021-02-09 14:23:51,890          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-chega-cedo-ao-planalto-para-reuniao-com-ministros-09022021
-2021-02-09 14:23:51,903          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-tem-pouca-alteracao-ante-real-com-olhares-voltados-para-brasilia-09022021
-2021-02-09 14:23:51,913          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-recomenda-vacinacao-de-presos-e-servidores-de-presidios-09022021
-2021-02-09 14:23:51,922          root     INFO: New article tracked: http://noticias.r7.com/brasil/conta-de-luz-mais-barata-faz-inflacao-perder-ritmo-em-janeiro-09022021
-2021-02-09 14:23:51,933          root     INFO: New article tracked: http://noticias.r7.com/brasil/republicanos-indicam-joao-roma-para-cidadania-09022021
-2021-02-09 14:23:51,943          root     INFO: New article tracked: http://noticias.r7.com/brasil/pt-pode-assumir-comissao-comandada-por-eduardo-bolsonaro-09022021
-2021-02-09 14:23:51,953          root     INFO: New article tracked: http://noticias.r7.com/brasil/pleno-emprego-e-uma-das-metas-em-projeto-de-autonomia-do-bc-09022021
-2021-02-09 14:23:51,963          root     INFO: New article tracked: http://noticias.r7.com/brasil/supremo-decide-hoje-sobre-acesso-de-lula-a-mensagens-de-moro-09022021
-2021-02-09 14:23:51,973          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-recomenda-vacinacao-de-presos-e-servidores-de-presidios-09022021-1
-2021-02-09 14:23:51,983          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-eua-acordos-assinados-por-trump-nao-devem-ser-rompidos-09022021
-2021-02-09 14:23:51,993          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-vai-a-colombia-tratar-de-meio-ambiente-09022021
-2021-02-09 14:23:52,003          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-decide-hoje-regulamentacao-da-vacina-da-covax-facility-09022021
-2021-02-09 14:23:52,013          root     INFO: New article tracked: http://noticias.r7.com/brasil/inscricoes-para-concurso-da-pf-terminam-nesta-terca-feira-9-09022021
-2021-02-09 14:23:52,023          root     INFO: New article tracked: http://noticias.r7.com/brasil/lava-jato-pede-condenacao-de-jose-dirceu-e-mais-dois-por-corrupcao-08022021
-2021-02-09 14:23:52,033          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-jose-maranhao-mdb-morre-por-complicacoes-da-covid-19-08022021
-2021-02-09 14:23:52,042          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-anuncia-votacao-da-autonomia-do-bc-apos-reuniao-com-guedes-08022021
-2021-02-09 14:23:52,053          root     INFO: New article tracked: http://noticias.r7.com/brasil/supremo-homologa-acordo-que-busca-zerar-fila-do-inss-08022021
-2021-02-09 14:23:52,062          root     INFO: New article tracked: http://noticias.r7.com/brasil/bancada-do-dem-diz-que-saida-de-maia-ajudara-a-pacificar-o-partido-08022021
-2021-02-09 14:23:52,073          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-das-comunicacoes-entra-na-forca-tarefa-pela-vacina-08022021
-2021-02-09 14:23:52,083          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-bolsonaro-e-ruim-para-42-e-bom-para-30-diz-pesquisa-08022021
-2021-02-09 14:23:52,100          root     INFO: Removed http://noticias.r7.com/brasil/maia-afirma-que-vai-deixar-o-dem-para-fazer-oposicao-a-bolsonaro-08022021
-2021-02-09 14:23:52,104          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/flavio-bolsonaro-entrega-loja-de-chocolates-investigada-no-caso-da-rachadinha.shtml
-2021-02-09 14:23:52,108          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-manda-braga-netto-articular-apoio-extra-a-estados-08022021
-2021-02-09 14:23:52,111          root     INFO: Removed http://noticias.r7.com/brasil/queremos-diminuir-os-impostos-sobre-combustiveis-diz-bolsonaro-08022021
-2021-02-09 14:23:52,115          root     INFO: Removed http://noticias.r7.com/brasil/juiza-que-prendeu-crivella-tera-que-explicar-postagem-anti-bolsonaro-08022021
-2021-02-09 14:23:52,119          root     INFO: Removed http://noticias.r7.com/brasil/mec-publica-relacao-de-aprovados-na-segunda-chamada-do-prouni-08022021
-2021-02-09 14:23:52,123          root     INFO: Removed http://noticias.r7.com/brasil/mourao-novo-plano-amazonia-vai-focar-em-areas-em-areas-criticas-08022021
-2021-02-09 14:23:52,126          root     INFO: Removed http://noticias.r7.com/brasil/lira-diz-que-levara-amanha-a-ccj-texto-da-reforma-administrativa-08022021
-2021-02-09 14:23:52,129          root     INFO: Removed http://noticias.r7.com/brasil/doria-diz-que-convidou-rodrigo-maia-dem-rj-para-integrar-psdb-08022021
-2021-02-09 14:23:52,133          root     INFO: Removed http://noticias.r7.com/brasil/republicano-lafayette-andrada-cotado-para-a-ccj-08022021
-2021-02-09 14:23:52,136          root     INFO: Removed http://noticias.r7.com/brasil/ibama-faz-acordo-com-belo-monte-para-amenizar-danos-ambientais-08022021
-2021-02-09 14:23:52,140          root     INFO: Removed http://noticias.r7.com/brasil/falta-de-grandeza-e-deslealdade-diz-acm-neto-sobre-rodrigo-maia-08022021
-2021-02-09 14:23:52,143          root     INFO: Removed http://noticias.r7.com/brasil/ibovespa-oscila-pouco-na-abertura-apos-semana-positiva-08022021
-2021-02-09 14:23:52,149          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/02/bia-kicis-vergonha-da-raca.shtml
-2021-02-09 14:23:52,152          root     INFO: Removed http://noticias.r7.com/brasil/demitido-por-uso-de-aviao-da-fab-assessor-ganha-cargo-no-planalto-08022021
-2021-02-09 14:23:52,161          root     INFO: Removed http://noticias.r7.com/brasil/caiado-reage-com-furia-a-entrevista-de-rodrigo-maia-08022021
-2021-02-09 14:23:52,161          root     INFO: Finished script
+2021-02-09 14:38:12,934          root     INFO: Starting script
+2021-02-09 14:38:13,829          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-09 14:38:14,520          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-09 14:38:15,211          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-09 14:38:15,338          root     INFO: Parsing R7 - Brasil
+2021-02-09 14:38:17,941          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49037
+2021-02-09 14:38:23,036          root     INFO: Removed http://noticias.r7.com/brasil/inscricoes-para-concurso-da-pf-terminam-nesta-terca-feira-9-09022021
+2021-02-09 14:38:23,042          root     INFO: Removed http://noticias.r7.com/brasil/bancada-do-dem-diz-que-saida-de-maia-ajudara-a-pacificar-o-partido-08022021
+2021-02-09 14:38:23,046          root     INFO: Removed http://noticias.r7.com/brasil/senador-jose-maranhao-mdb-morre-por-complicacoes-da-covid-19-08022021
+2021-02-09 14:38:23,050          root     INFO: Removed http://noticias.r7.com/brasil/governo-bolsonaro-e-ruim-para-42-e-bom-para-30-diz-pesquisa-08022021
+2021-02-09 14:38:23,054          root     INFO: Removed http://noticias.r7.com/brasil/ministro-das-comunicacoes-entra-na-forca-tarefa-pela-vacina-08022021
+2021-02-09 14:38:23,058          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-vai-a-colombia-tratar-de-meio-ambiente-09022021
+2021-02-09 14:38:23,062          root     INFO: Removed http://noticias.r7.com/brasil/lava-jato-pede-condenacao-de-jose-dirceu-e-mais-dois-por-corrupcao-08022021
+2021-02-09 14:38:23,066          root     INFO: Removed http://noticias.r7.com/brasil/lira-anuncia-votacao-da-autonomia-do-bc-apos-reuniao-com-guedes-08022021
+2021-02-09 14:38:23,070          root     INFO: Removed http://noticias.r7.com/brasil/supremo-decide-hoje-sobre-acesso-de-lula-a-mensagens-de-moro-09022021
+2021-02-09 14:38:23,074          root     INFO: Removed http://noticias.r7.com/brasil/supremo-homologa-acordo-que-busca-zerar-fila-do-inss-08022021
+2021-02-09 14:38:23,078          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-decide-hoje-regulamentacao-da-vacina-da-covax-facility-09022021
+2021-02-09 14:38:23,082          root     INFO: Removed http://noticias.r7.com/brasil/conta-de-luz-mais-barata-faz-inflacao-perder-ritmo-em-janeiro-09022021
+2021-02-09 14:38:23,086          root     INFO: Removed http://noticias.r7.com/brasil/pt-pode-assumir-comissao-comandada-por-eduardo-bolsonaro-09022021
+2021-02-09 14:38:23,089          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-chega-cedo-ao-planalto-para-reuniao-com-ministros-09022021
+2021-02-09 14:38:23,093          root     INFO: Removed http://noticias.r7.com/brasil/dolar-tem-pouca-alteracao-ante-real-com-olhares-voltados-para-brasilia-09022021
+2021-02-09 14:38:23,097          root     INFO: Removed http://noticias.r7.com/brasil/republicanos-indicam-joao-roma-para-cidadania-09022021
+2021-02-09 14:38:23,101          root     INFO: Removed http://noticias.r7.com/brasil/conselho-recomenda-vacinacao-de-presos-e-servidores-de-presidios-09022021-1
+2021-02-09 14:38:23,105          root     INFO: Removed http://noticias.r7.com/brasil/brasil-eua-acordos-assinados-por-trump-nao-devem-ser-rompidos-09022021
+2021-02-09 14:38:23,109          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-lava-as-maos-em-disputa-pela-ccj-para-nao-se-indispor-com-executivo-e-judiciario.shtml
+2021-02-09 14:38:23,112          root     INFO: Removed http://noticias.r7.com/brasil/conselho-recomenda-vacinacao-de-presos-e-servidores-de-presidios-09022021
+2021-02-09 14:38:23,116          root     INFO: Removed http://noticias.r7.com/brasil/pleno-emprego-e-uma-das-metas-em-projeto-de-autonomia-do-bc-09022021
+2021-02-09 14:38:23,117          root     INFO: Finished script
