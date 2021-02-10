@@ -1,6 +1,32 @@
-2021-02-10 15:54:03,276          root     INFO: Starting script
-2021-02-10 15:54:04,133          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-10 15:54:04,831          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-10 15:54:05,525          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-10 15:54:05,790          root     INFO: Parsing R7 - Brasil
-2021-02-10 15:54:12,666          root     INFO: Finished script
+2021-02-10 15:58:02,426          root     INFO: Starting script
+2021-02-10 15:58:03,566          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-10 15:58:04,395          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-10 15:58:05,232          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-10 15:58:05,496          root     INFO: Parsing R7 - Brasil
+2021-02-10 15:58:11,197          root     INFO: New article tracked: http://noticias.r7.com/brasil/fux-e-guedes-abrem-reuniao-de-projeto-para-destravar-obras-09022021
+2021-02-10 15:58:11,209          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-regime-de-urgencia-para-autonomia-do-banco-central-09022021
+2021-02-10 15:58:11,224          root     INFO: New article tracked: http://noticias.r7.com/brasil/projeto-proibe-empregador-de-exigir-vacinacao-contra-covid-19-09022021
+2021-02-10 15:58:11,247          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-forma-maioria-e-vota-a-favor-do-acesso-a-mensagens-hackeadas-09022021
+2021-02-10 15:58:11,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-suspende-julgamento-sobre-imposto-zero-para-armas-09022021
+2021-02-10 15:58:11,268          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-vota-contra-acesso-as-conversas-hackeadas-de-moro-09022021
+2021-02-10 15:58:11,278          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-assina-decreto-que-altera-politica-sobre-desaparecidos-09022021
+2021-02-10 15:58:11,290          root     INFO: New article tracked: http://noticias.r7.com/brasil/nunes-marques-da-2-voto-a-favor-de-acesso-a-conversas-hackeadas-09022021
+2021-02-10 15:58:11,299          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-vota-por-manter-acesso-a-conversas-hackeadas-09022021
+2021-02-10 15:58:11,310          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-da-inicio-a-sessao-da-camara-com-urgencia-da-autonomia-do-bc-09022021
+2021-02-10 15:58:11,322          root     INFO: New article tracked: http://noticias.r7.com/brasil/cartorios-registram-o-menor-numero-de-nascimentos-da-historia-09022021
+2021-02-10 15:58:11,331          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-debatera-acordo-de-r-37-bilhoes-firmado-entre-vale-e-mg-09022021
+2021-02-10 15:58:11,342          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-presidente-julgou-minha-presenca-desnecessaria-09022021
+2021-02-10 15:58:11,361          root     INFO: Removed http://noticias.r7.com/brasil/em-encontro-com-bolsonaro-presidente-da-anvisa-pede-veto-a-mp-10022021
+2021-02-10 15:58:11,365          root     INFO: Removed http://noticias.r7.com/brasil/frente-parlamentar-faz-ato-em-defesa-do-auxilio-emergencial-10022021
+2021-02-10 15:58:11,369          root     INFO: Removed http://noticias.r7.com/brasil/projetos-de-feiras-literarias-infantis-podem-concorrer-a-patrocinio-10022021
+2021-02-10 15:58:11,372          root     INFO: Removed http://noticias.r7.com/brasil/comercio-despenca-em-dezembro-mas-cresce-pelo-quarto-ano-seguido-10022021
+2021-02-10 15:58:11,375          root     INFO: Removed http://noticias.r7.com/brasil/comissao-do-orcamento-elege-flavia-arruda-como-presidente-10022021
+2021-02-10 15:58:11,379          root     INFO: Removed http://noticias.r7.com/brasil/deputado-reclama-de-aglomeracao-em-comissao-do-orcamento-10022021
+2021-02-10 15:58:11,383          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-saude-ainda-nao-assinou-contrato-para-compra-de-54-milhoes-de-doses-da-coronavac-10022021
+2021-02-10 15:58:11,386          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-escolhe-joao-roma-como-o-novo-ministro-da-cidadania-10022021
+2021-02-10 15:58:11,390          root     INFO: Removed http://noticias.r7.com/brasil/lava-jato-diz-que-stf-nao-atestou-veracidade-de-mensagens-vazadas-10022021
+2021-02-10 15:58:11,393          root     INFO: Removed http://noticias.r7.com/brasil/ibovespa-oscila-na-abertura-com-klabin-entre-maiores-altas-10022021
+2021-02-10 15:58:11,397          root     INFO: Removed http://noticias.r7.com/brasil/mps-questionam-criterios-para-distribuicao-de-vacinas-no-norte-10022021
+2021-02-10 15:58:11,400          root     INFO: Removed http://noticias.r7.com/brasil/oposicao-quer-que-governo-seja-investigado-por-estimular-uso-de-cloroquina-10022021
+2021-02-10 15:58:11,404          root     INFO: Removed http://noticias.r7.com/brasil/mpf-questiona-ibama-sobre-mudancas-na-usina-belo-monte-10022021
+2021-02-10 15:58:11,404          root     INFO: Finished script
