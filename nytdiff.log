@@ -1,13 +1,8 @@
-2021-02-10 12:59:42,174          root     INFO: Starting script
-2021-02-10 12:59:43,026          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-10 12:59:43,718          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-10 12:59:44,402          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-10 12:59:44,609          root     INFO: Parsing R7 - Brasil
-2021-02-10 12:59:47,414          root     INFO: DEM discute lançar <del>candidato a</del> <ins>Mandetta à</ins> presidência para afastar ideia de que apoiará Bolsonaro em 2022
-2021-02-10 12:59:49,162          root     INFO: Media ready with ids: 1359487232265105419
-2021-02-10 12:59:49,163          root     INFO: Text to tweet: Modificação do Título
-2021-02-10 12:59:49,163          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/dem-discute-lancar-candidato-a-presidencia-para-afastar-ideia-de-que-apoiara-bolsonaro-em-2022.shtml
-2021-02-10 12:59:49,172          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/dem-discute-lancar-candidato-a-presidencia-para-afastar-ideia-de-que-apoiara-bolsonaro-em-2022.shtml
-2021-02-10 12:59:49,359          root     INFO: Replying to: 1359487233947037697
-2021-02-10 12:59:49,561          root     INFO: Id to store: 1359487234588696576
-2021-02-10 12:59:54,571          root     INFO: Finished script
+2021-02-10 13:22:54,505          root     INFO: Starting script
+2021-02-10 13:22:55,358          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-10 13:22:56,040          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-10 13:22:56,728          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-10 13:22:56,867          root     INFO: Parsing R7 - Brasil
+2021-02-10 13:22:59,150          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/acm-neto-tenta-fazer-contencao-de-danos-em-jantar-com-doria.shtml
+2021-02-10 13:23:03,090          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/absolvido-no-mensalao-e-suspeito-em-outro-esquema-de-propina-e-questiona-investigacao.shtml
+2021-02-10 13:23:03,092          root     INFO: Finished script
