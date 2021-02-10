@@ -1,22 +1,9 @@
-2021-02-10 17:12:28,338          root     INFO: Starting script
-2021-02-10 17:12:29,247          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-10 17:12:29,957          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-10 17:12:30,660          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-10 17:12:30,886          root     INFO: Parsing R7 - Brasil
-2021-02-10 17:12:31,293          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/contardocalligaris/2021/02/lupin-mostra-o-preco-de-ser-salvador-da-patria-e-virar-vitima-de-um-canalha.shtml
-2021-02-10 17:12:38,015          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-reclama-de-aglomeracao-e-falta-de-distanciamento-em-comissao-10022021
-2021-02-10 17:12:38,478          root     INFO: Removed http://noticias.r7.com/brasil/cartorios-registram-o-menor-numero-de-nascimentos-da-historia-09022021
-2021-02-10 17:12:38,483          root     INFO: Removed http://noticias.r7.com/brasil/mourao-presidente-julgou-minha-presenca-desnecessaria-09022021
-2021-02-10 17:12:38,486          root     INFO: Removed http://noticias.r7.com/brasil/nunes-marques-da-2-voto-a-favor-de-acesso-a-conversas-hackeadas-09022021
-2021-02-10 17:12:38,490          root     INFO: Removed http://noticias.r7.com/brasil/stf-forma-maioria-e-vota-a-favor-do-acesso-a-mensagens-hackeadas-09022021
-2021-02-10 17:12:38,494          root     INFO: Removed http://noticias.r7.com/brasil/comissao-debatera-acordo-de-r-37-bilhoes-firmado-entre-vale-e-mg-09022021
-2021-02-10 17:12:38,498          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-vota-por-manter-acesso-a-conversas-hackeadas-09022021
-2021-02-10 17:12:38,502          root     INFO: Removed http://noticias.r7.com/brasil/barroso-suspende-julgamento-sobre-imposto-zero-para-armas-09022021
-2021-02-10 17:12:38,505          root     INFO: Removed http://noticias.r7.com/brasil/fux-e-guedes-abrem-reuniao-de-projeto-para-destravar-obras-09022021
-2021-02-10 17:12:38,509          root     INFO: Removed http://noticias.r7.com/brasil/lira-da-inicio-a-sessao-da-camara-com-urgencia-da-autonomia-do-bc-09022021
-2021-02-10 17:12:38,513          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2021/02/os-perigosos-dias-quentes.shtml
-2021-02-10 17:12:38,516          root     INFO: Removed http://noticias.r7.com/brasil/projeto-proibe-empregador-de-exigir-vacinacao-contra-covid-19-09022021
-2021-02-10 17:12:38,520          root     INFO: Removed http://noticias.r7.com/brasil/fachin-vota-contra-acesso-as-conversas-hackeadas-de-moro-09022021
-2021-02-10 17:12:38,524          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-assina-decreto-que-altera-politica-sobre-desaparecidos-09022021
-2021-02-10 17:12:38,528          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-regime-de-urgencia-para-autonomia-do-banco-central-09022021
-2021-02-10 17:12:38,529          root     INFO: Finished script
+2021-02-10 17:42:59,214          root     INFO: Starting script
+2021-02-10 17:43:00,232          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-10 17:43:01,065          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-10 17:43:01,901          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-10 17:43:02,183          root     INFO: Parsing R7 - Brasil
+2021-02-10 17:43:06,770          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/governo-decide-retirar-militares-da-amazonia-e-limitar-fiscalizacao-a-11-cidades-de-4-estados.shtml
+2021-02-10 17:43:09,139          root     INFO: Removed http://noticias.r7.com/brasil/deputado-reclama-de-aglomeracao-e-falta-de-distanciamento-em-comissao-10022021
+2021-02-10 17:43:09,145          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/greenpeace-envia-a-embaixadores-rota-alternativa-para-viagem-a-amazonia-com-mourao.shtml
+2021-02-10 17:43:09,146          root     INFO: Finished script
