@@ -1,17 +1,6 @@
-2021-02-10 21:49:38,309          root     INFO: Starting script
-2021-02-10 21:49:39,369          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-10 21:49:40,198          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-10 21:49:41,064          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-10 21:49:41,251          root     INFO: Parsing R7 - Brasil
-2021-02-10 21:49:41,663          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/02/havera-de-fato-algum-resultado-que-o-jogo-da-bola-com-os-pes-nao-permita.shtml
-2021-02-10 21:49:43,782          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/fachin-abre-divergencia-e-stf-tem-4-votos-contra-e-1-a-favor-ao-direito-ao-esquecimento.shtml
-2021-02-10 21:49:45,967          root     INFO: Depois de quase um ano de integrantes das Forças Armadas atuando no combate ao desmatamento na <del>Amazônia,</del> <ins>Amazônia e, mesmo assim, o desmatamento aumentando e atingindo níveis elevados,</ins> o governo federal decidiu retirar os militares da região a partir de 1º de maio e limitar a fiscalização a 11 cidades de quatro estados. Leia mais (02/10/2021 - 14h19)
-2021-02-10 21:49:47,893          root     INFO: Media ready with ids: 1359620605709058054
-2021-02-10 21:49:47,894          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-10 21:49:47,894          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/governo-decide-retirar-militares-da-amazonia-e-limitar-fiscalizacao-a-11-cidades-de-4-estados.shtml
-2021-02-10 21:49:47,902          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/governo-decide-retirar-militares-da-amazonia-e-limitar-fiscalizacao-a-11-cidades-de-4-estados.shtml
-2021-02-10 21:49:48,178          root     INFO: Replying to: 1359620607806222336
-2021-02-10 21:49:48,491          root     INFO: Id to store: 1359620608825430016
-2021-02-10 21:49:50,895          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2021/02/jovens-da-geracao-putin-demonstram-crescente-insatisfacao-com-governo.shtml
-2021-02-10 21:49:50,900          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/02/a-lava-jato-morreu-na-infancia.shtml
-2021-02-10 21:49:50,901          root     INFO: Finished script
+2021-02-10 21:58:01,593          root     INFO: Starting script
+2021-02-10 21:58:02,618          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-10 21:58:03,322          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-10 21:58:04,025          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-10 21:58:04,176          root     INFO: Parsing R7 - Brasil
+2021-02-10 21:58:10,786          root     INFO: Finished script
