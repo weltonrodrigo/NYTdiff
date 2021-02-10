@@ -1,28 +1,8 @@
-2021-02-10 15:24:18,552          root     INFO: Starting script
-2021-02-10 15:24:19,667          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-10 15:24:20,344          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-10 15:24:21,023          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-10 15:24:21,260          root     INFO: Parsing R7 - Brasil
-2021-02-10 15:24:23,503          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/bruno-covas-assina-manifesto-que-pede-retomada-do-auxilio-emergencial-por-bolsonaro.shtml
-2021-02-10 15:24:27,795          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-reclama-de-aglomeracao-em-comissao-do-orcamento-10022021
-2021-02-10 15:24:27,809          root     INFO: New article tracked: http://noticias.r7.com/brasil/frente-parlamentar-faz-ato-em-defesa-do-auxilio-emergencial-10022021
-2021-02-10 15:24:27,833          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-escolhe-joao-roma-como-o-novo-ministro-da-cidadania-10022021
-2021-02-10 15:24:27,847          root     INFO: New article tracked: http://noticias.r7.com/brasil/mps-questionam-criterios-para-distribuicao-de-vacinas-no-norte-10022021
-2021-02-10 15:24:27,857          root     INFO: New article tracked: http://noticias.r7.com/brasil/oposicao-quer-que-governo-seja-investigado-por-estimular-uso-de-cloroquina-10022021
-2021-02-10 15:24:27,867          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-do-orcamento-elege-flavia-arruda-como-presidente-10022021
-2021-02-10 15:24:27,878          root     INFO: New article tracked: http://noticias.r7.com/brasil/lava-jato-diz-que-stf-nao-atestou-veracidade-de-mensagens-vazadas-10022021
-2021-02-10 15:24:27,892          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibovespa-oscila-na-abertura-com-klabin-entre-maiores-altas-10022021
-2021-02-10 15:24:27,906          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-encontro-com-bolsonaro-presidente-da-anvisa-pede-veto-a-mp-10022021
-2021-02-10 15:24:27,918          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-saude-ainda-nao-assinou-contrato-para-compra-de-54-milhoes-de-doses-da-coronavac-10022021
-2021-02-10 15:24:27,930          root     INFO: New article tracked: http://noticias.r7.com/brasil/projetos-de-feiras-literarias-infantis-podem-concorrer-a-patrocinio-10022021
-2021-02-10 15:24:27,942          root     INFO: New article tracked: http://noticias.r7.com/brasil/comercio-despenca-em-dezembro-mas-cresce-pelo-quarto-ano-seguido-10022021
-2021-02-10 15:24:27,954          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-diretor-da-anvisa-reforca-grupo-de-defesa-da-vacina-sputnik-v-10022021
-2021-02-10 15:24:27,965          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-questiona-ibama-sobre-mudancas-na-usina-belo-monte-10022021
-2021-02-10 15:24:27,978          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-paga-hoje-auxilio-residual-a-mais-de-22-mil-brasileiros-10022021
-2021-02-10 15:24:27,989          root     INFO: New article tracked: http://noticias.r7.com/brasil/saude-recebe-45-pedidos-de-grupos-que-querem-vacinacao-prioritaria-10022021
-2021-02-10 15:24:28,000          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-e-instalada-com-auxilio-e-orcamento-entre-prioridades-10022021
-2021-02-10 15:24:28,011          root     INFO: New article tracked: http://noticias.r7.com/brasil/tse-julga-improcedentes-acoes-contra-chapa-bolsonaro-e-mourao-09022021
-2021-02-10 15:24:28,022          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-e-salles-criam-programa-adote-1-parque-para-preservacao-09022021
-2021-02-10 15:24:28,033          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-rejeita-recurso-e-libera-acesso-a-mensagens-vazadas-da-lava-jato-09022021
-2021-02-10 15:24:28,047          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/proposta-que-poderia-ter-salvo-lava-jato-espera-por-decisao-de-aras-ha-tres-meses.shtml
-2021-02-10 15:24:28,047          root     INFO: Finished script
+2021-02-10 15:41:42,168          root     INFO: Starting script
+2021-02-10 15:41:43,005          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-10 15:41:43,666          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-10 15:41:44,320          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-10 15:41:44,440          root     INFO: Parsing R7 - Brasil
+2021-02-10 15:41:46,725          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/assembleia-de-sp-admite-processo-contra-deputado-que-apalpou-colega-relatoria-fica-com-o-pt.shtml
+2021-02-10 15:41:50,755          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/renan-calheiros-diz-nao-ver-chance-de-impeachment-mas-preve-ano-de-impopularidade-para-bolsonaro.shtml
+2021-02-10 15:41:50,755          root     INFO: Finished script
