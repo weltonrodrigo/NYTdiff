@@ -1,10 +1,26 @@
-2021-02-10 00:55:47,099          root     INFO: Starting script
-2021-02-10 00:55:48,002          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-10 00:55:48,700          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-10 00:55:49,405          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-10 00:55:49,675          root     INFO: Parsing R7 - Brasil
-2021-02-10 00:55:50,067          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/argentino-vai-comandar-bolsa-mais-valorizada-do-mundo-na-china.shtml
-2021-02-10 00:55:52,388          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/tse-forma-maioria-para-rejeitar-acoes-do-pdt-contra-bolsonaro-por-disparo-de-mensagens-na-eleicao-de-2018.shtml
-2021-02-10 00:55:57,417          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lula-indica-que-haddad-sera-candidato-a-presidente-caso-ele-nao-possa-concorrer-em-2022.shtml
-2021-02-10 00:55:57,422          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/laura-mattos/2021/02/e-proibido-defender-as-aulas-presenciais.shtml
-2021-02-10 00:55:57,423          root     INFO: Finished script
+2021-02-10 01:27:20,429          root     INFO: Starting script
+2021-02-10 01:27:21,491          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-10 01:27:22,345          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-10 01:27:23,198          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-10 01:27:23,573          root     INFO: Parsing R7 - Brasil
+2021-02-10 01:27:26,514          root     INFO: TSE <del>forma maioria para rejeitar</del> <ins>rejeita</ins> ações do PDT contra Bolsonaro por disparo de mensagens <del>na eleição</del> <ins>nas eleições</ins> de 2018
+2021-02-10 01:27:28,485          root     INFO: Media ready with ids: 1359312997647286277
+2021-02-10 01:27:28,485          root     INFO: Text to tweet: Modificação do Título
+2021-02-10 01:27:28,485          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/tse-forma-maioria-para-rejeitar-acoes-do-pdt-contra-bolsonaro-por-disparo-de-mensagens-na-eleicao-de-2018.shtml
+2021-02-10 01:27:28,494          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/tse-forma-maioria-para-rejeitar-acoes-do-pdt-contra-bolsonaro-por-disparo-de-mensagens-na-eleicao-de-2018.shtml
+2021-02-10 01:27:28,706          root     INFO: Replying to: 1359312999790637061
+2021-02-10 01:27:28,972          root     INFO: Id to store: 1359313000679768064
+2021-02-10 01:27:28,979          root     INFO: O TSE (Tribunal Superior Eleitoral) <del>formou maioria</del> <ins>rejeitou</ins> nesta terça-feira (9) <del>para rejeitar</del> duas ações do PDT que pediam a cassação da chapa do presidente Jair Bolsonaro (sem partido) e do vice Hamilton Mourão (PRTB) por disparo de mensagens em massa pelo WhatsApp durante as eleições de 2018. Leia mais (02/09/2021 - 21h04)
+2021-02-10 01:27:30,827          root     INFO: Media ready with ids: 1359313007801679878
+2021-02-10 01:27:30,827          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-10 01:27:30,827          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/tse-forma-maioria-para-rejeitar-acoes-do-pdt-contra-bolsonaro-por-disparo-de-mensagens-na-eleicao-de-2018.shtml
+2021-02-10 01:27:30,837          root     INFO: Replying to: 1359313000679768064
+2021-02-10 01:27:31,122          root     INFO: Id to store: 1359313009697505283
+2021-02-10 01:27:33,528          root     INFO: Alegando falta de recursos financeiros, o governo federal <del>lançou</del> <ins>assinou</ins> nesta terça-feira (9) um programa pelo qual espera arrecadar R$ 3,2 bilhões por ano da iniciativa privada nacional para a preservação de parques em reservas ambientais na Amazônia. <ins>O projeto, contudo, sem oficialização, vem sendo anunciado -e até servindo para provocações- desde julho de 2020.</ins> O decreto que cria o programa foi assinado pelo presidente Jair Bolsonaro (sem partido) em cerimônia no Palácio do Planalto, sem a presença do vice-presidente da República, Hamilton Mourão (PRTB), presidente do Conselho da <del>Amazônia.</del> <ins>Amazônia, o qual foi segundo evento do dia do qual Mourão não participou. De acordo com o Ministério do Meio Ambiente, todos os integrantes do governo federal foram convidados. Questionado, Mourão disse que "estava trabalhando" na Vice-Presidência.</ins> Leia mais (02/09/2021 - 19h17)
+2021-02-10 01:27:35,554          root     INFO: Media ready with ids: 1359313027439460353
+2021-02-10 01:27:35,554          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-10 01:27:35,554          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/governo-espera-r-32-bi-por-ano-de-iniciativa-privada-para-adocao-de-parques-na-amazonia.shtml
+2021-02-10 01:27:35,562          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/governo-espera-r-32-bi-por-ano-de-iniciativa-privada-para-adocao-de-parques-na-amazonia.shtml
+2021-02-10 01:27:35,833          root     INFO: Replying to: 1359313029649862656
+2021-02-10 01:27:36,208          root     INFO: Id to store: 1359313030660644869
+2021-02-10 01:27:39,027          root     INFO: Finished script
