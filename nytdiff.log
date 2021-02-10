@@ -1,10 +1,8 @@
-2021-02-10 18:26:32,381          root     INFO: Starting script
-2021-02-10 18:26:33,242          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-10 18:26:33,938          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-10 18:26:34,633          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-10 18:26:34,804          root     INFO: Parsing R7 - Brasil
-2021-02-10 18:26:37,629          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/ex-presidentes-de-associacao-de-procuradores-da-republica-apoiam-fim-da-lava-jato.shtml
-2021-02-10 18:26:37,644          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/haddad-fala-em-acordo-geral-de-partidos-para-derrotar-bolsonaro-em-eventual-2o-turno-de-2022.shtml
-2021-02-10 18:26:42,797          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/acm-neto-afirma-que-impressao-de-aproximacao-de-dem-e-bolsonaro-e-falsa-e-que-partido-e-independente.shtml
-2021-02-10 18:26:42,801          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/secretarios-de-saude-cobram-liberacao-de-r-10-bilhoes-por-pazuello-para-combate-a-pandemia.shtml
-2021-02-10 18:26:42,802          root     INFO: Finished script
+2021-02-10 18:58:36,732          root     INFO: Starting script
+2021-02-10 18:58:37,621          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-10 18:58:38,293          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-10 18:58:38,972          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-10 18:58:39,165          root     INFO: Parsing R7 - Brasil
+2021-02-10 18:58:39,589          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2021/02/demonizar-bbb-sem-procurar-entender-seu-sucesso-e-infantil.shtml
+2021-02-10 18:58:46,398          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/02/drinque-oficial-da-semana-de-22-caipirinha-foi-usada-como-remedio-contra-pandemia.shtml
+2021-02-10 18:58:46,399          root     INFO: Finished script
