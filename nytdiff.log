@@ -1,6 +1,12 @@
-2021-02-10 22:41:40,216          root     INFO: Starting script
-2021-02-10 22:41:41,095          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-10 22:41:41,768          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-10 22:41:42,444          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-10 22:41:42,659          root     INFO: Parsing R7 - Brasil
-2021-02-10 22:41:50,647          root     INFO: Finished script
+2021-02-10 22:54:24,617          root     INFO: Starting script
+2021-02-10 22:54:25,496          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-10 22:54:26,208          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-10 22:54:26,905          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-10 22:54:27,095          root     INFO: Parsing R7 - Brasil
+2021-02-10 22:54:32,244          root     INFO: Depois de quase um ano de <ins>atuação de</ins> integrantes das Forças Armadas <del>atuando</del> no combate ao desmatamento na <del>Amazônia,</del> <ins>Amazônia e com dados mostrando um aumento da derrubada da floresta,</ins> o governo federal decidiu retirar os militares da região a partir de 1º de maio e limitar a fiscalização a 11 cidades de quatro estados. Leia mais (02/10/2021 - 14h19)
+2021-02-10 22:54:34,057          root     INFO: Media ready with ids: 1359636905516814339
+2021-02-10 22:54:34,057          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-10 22:54:34,058          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/governo-decide-retirar-militares-da-amazonia-e-limitar-fiscalizacao-a-11-cidades-de-4-estados.shtml
+2021-02-10 22:54:34,069          root     INFO: Replying to: 1359620608825430016
+2021-02-10 22:54:34,307          root     INFO: Id to store: 1359636907169300482
+2021-02-10 22:54:37,138          root     INFO: Finished script
