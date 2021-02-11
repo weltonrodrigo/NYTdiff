@@ -1,6 +1,12 @@
-2021-02-11 21:32:42,857          root     INFO: Starting script
-2021-02-11 21:32:43,910          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-11 21:32:44,767          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-11 21:32:45,629          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-11 21:32:45,842          root     INFO: Parsing R7 - Brasil
-2021-02-11 21:32:54,429          root     INFO: Finished script
+2021-02-11 21:49:30,232          root     INFO: Starting script
+2021-02-11 21:49:31,134          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-11 21:49:31,837          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-11 21:49:32,543          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-11 21:49:32,710          root     INFO: Parsing R7 - Brasil
+2021-02-11 21:49:35,370          root     INFO: O ex-governador Geraldo <del>Alckmin,</del> <ins>Alckmin (PSDB),</ins> 68, recebeu sua primeira dose da vacina contra a Covid-19 nesta quarta-feira (10). Médico, ele faz <del>doutorado e frequenta o</del> <ins>curso de acupuntura no</ins> Hospital das <del>Clínicas, onde</del> <ins>Clínicas e, por isso, atende no ambulatório. Ele também</ins> dá <del>cursos</del> <ins>aulas na Uninove (onde faz doutorado)</ins> e <del>atende.</del> <ins>na Unimes (Universidade Metropolitana de Santos).</ins> Leia mais (02/11/2021 - 15h46)
+2021-02-11 21:49:37,288          root     INFO: Media ready with ids: 1359982949102465030
+2021-02-11 21:49:37,289          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-11 21:49:37,289          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/alckmin-e-vacinado-comemora-com-cafezinho-e-nao-comenta-disputa-no-psdb-aberta-por-doria.shtml
+2021-02-11 21:49:37,297          root     INFO: Replying to: 1359967523370897408
+2021-02-11 21:49:37,517          root     INFO: Id to store: 1359982950788530179
+2021-02-11 21:49:42,119          root     INFO: Finished script
