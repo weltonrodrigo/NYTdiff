@@ -1,18 +1,26 @@
-2021-02-11 11:47:26,046          root     INFO: Starting script
-2021-02-11 11:47:27,132          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-11 11:47:27,977          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-11 11:47:28,825          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-11 11:47:29,083          root     INFO: Parsing R7 - Brasil
-2021-02-11 11:47:29,799          root     INFO: <del>Autonomia</del> <ins>Entenda por que a autonomia</ins> do BC não muda quase nada
-2021-02-11 11:47:31,718          root     INFO: Media ready with ids: 1359831427613921280
-2021-02-11 11:47:31,719          root     INFO: Text to tweet: Modificação do Título
-2021-02-11 11:47:31,719          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/autonomia-do-bc-nao-muda-quase-nada.shtml
-2021-02-11 11:47:31,731          root     INFO: Replying to: 1359686592521261058
-2021-02-11 11:47:32,055          root     INFO: Id to store: 1359831429660758025
-2021-02-11 11:47:32,076          root     INFO: O que muda com o projeto de "autonomia" do Banco Central? Quase nada. Qual a novidade, afora a extinção de uns artigos caducos das confusas leis do sistema financeiro? O presidente e oito diretores do Banco Central terão mandatos fixos de quatro anos. <del>Por dois anos, um presidente da República eleito para um primeiro mandato terá um presidente do BC nomeado pelo seu antecessor. No terceiro ano de mandato, poderá nomear um presidente do BC "seu". No primeiro ano de mandato, poderá também nomear dois diretores; no segundo, mais dois, e assim por diante. No início do terceiro ano, terá nomeado a maioria da diretoria do BC (7 a 2). Se reeleito, terá "maioria" por seis anos. Não muda mais nada. O BC será "independente"? Não. O BC não poderá definir a política monetária (como vai lidar com a flutuação de preços, quais instrumentos vai utilizar e em qual medida etc.).</del> Leia mais (02/10/2021 - 22h02)
-2021-02-11 11:47:34,002          root     INFO: Media ready with ids: 1359831437072080898
-2021-02-11 11:47:34,002          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-11 11:47:34,003          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/autonomia-do-bc-nao-muda-quase-nada.shtml
-2021-02-11 11:47:34,011          root     INFO: Replying to: 1359831429660758025
-2021-02-11 11:47:34,288          root     INFO: Id to store: 1359831438963671044
-2021-02-11 11:47:41,222          root     INFO: Finished script
+2021-02-11 11:58:11,233          root     INFO: Starting script
+2021-02-11 11:58:12,156          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-11 11:58:12,860          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-11 11:58:13,565          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-11 11:58:13,754          root     INFO: Parsing R7 - Brasil
+2021-02-11 11:58:21,843          root     INFO: Removed http://noticias.r7.com/brasil/senado-aprova-emprestimo-de-us-1-bi-para-programa-emergencial-10022021
+2021-02-11 11:58:21,849          root     INFO: Removed http://noticias.r7.com/brasil/entre-infieis-tabata-vota-sim-pela-autonomia-e-aecio-nao-10022021
+2021-02-11 11:58:21,856          root     INFO: Removed http://noticias.r7.com/brasil/governo-anuncia-programa-de-incentivos-financeiros-a-municipios-11022021
+2021-02-11 11:58:21,860          root     INFO: Removed http://noticias.r7.com/brasil/mourao-apresenta-plano-substituto-a-operacao-militar-na-amazonia-10022021
+2021-02-11 11:58:21,864          root     INFO: Removed http://noticias.r7.com/brasil/arroubos-autoritarios-diz-aecio-sobre-ataques-de-joao-doria-10022021
+2021-02-11 11:58:21,867          root     INFO: Removed http://noticias.r7.com/brasil/aras-pede-investigacao-contra-procuradores-da-lava-jato-10022021
+2021-02-11 11:58:21,872          root     INFO: Removed http://noticias.r7.com/brasil/vazamento-expoe-100-milhoes-de-celulares-incluindo-o-de-bolsonaro-10022021
+2021-02-11 11:58:21,876          root     INFO: Removed http://noticias.r7.com/brasil/camara-retoma-discussao-de-projeto-de-autonomia-do-bc-10022021
+2021-02-11 11:58:21,881          root     INFO: Removed http://noticias.r7.com/brasil/doria-diz-que-psdb-sera-oposicao-ao-governo-bolsonaro-e-ataca-aecio-10022021
+2021-02-11 11:58:21,885          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-governo-pode-liberar-mais-dinheiro-a-municipios-10022021
+2021-02-11 11:58:21,889          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sinaliza-novamente-retorno-do-auxilio-emergencial-10022021
+2021-02-11 11:58:21,893          root     INFO: Removed http://noticias.r7.com/brasil/procurador-envolvido-na-operacao-greenfield-e-afastado-do-cargo-10022021
+2021-02-11 11:58:21,898          root     INFO: Removed http://noticias.r7.com/brasil/entenda-porque-e-dificil-reconhecer-um-agressor-sexual-de-menores-e-saiba-como-denunciar-10022021
+2021-02-11 11:58:21,901          root     INFO: Removed http://noticias.r7.com/brasil/projeto-de-renan-calheiros-quer-dar-anistia-aos-hackers-da-lava-jato-10022021
+2021-02-11 11:58:21,905          root     INFO: Removed http://noticias.r7.com/brasil/camara-grupo-que-acompanha-5g-se-reune-com-operadoras-10022021
+2021-02-11 11:58:21,909          root     INFO: Removed http://noticias.r7.com/brasil/juiza-manda-am-e-pazuello-garantirem-leitos-de-uti-em-24h-10022021
+2021-02-11 11:58:21,913          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-projeto-que-da-autonomia-ao-banco-central-10022021
+2021-02-11 11:58:21,918          root     INFO: Removed http://noticias.r7.com/brasil/petroleiros-protestam-contra-venda-de-refinaria-na-bahia-10022021
+2021-02-11 11:58:21,922          root     INFO: Removed http://noticias.r7.com/brasil/pacheco-diz-que-vacinacao-e-auxilio-sao-prioridades-no-senado-10022021
+2021-02-11 11:58:21,926          root     INFO: Removed http://noticias.r7.com/brasil/mourao-anuncia-fim-de-operacao-e-novo-programa-para-a-amazonia-10022021
+2021-02-11 11:58:21,927          root     INFO: Finished script
