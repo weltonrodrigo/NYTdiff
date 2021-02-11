@@ -1,20 +1,18 @@
-2021-02-11 11:31:42,140          root     INFO: Starting script
-2021-02-11 11:31:43,252          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-11 11:31:44,075          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-11 11:31:44,906          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-11 11:31:45,127          root     INFO: Parsing R7 - Brasil
-2021-02-11 11:31:45,691          root     INFO: O PIB (Produto Interno Bruto) do agronegócio registrou recorde no ano passado. É o que mostram os dados apurados até novembro, quando a evolução foi de 19,7% no ano. <del>Os destaques ocorreram dentro da porteira e no setor de agrosserviço, segundo dados do Cepea (Centro de Estudos Avançados em Economia Aplicada) e da CNA (Confederação da Agricultura e Pecuária do Brasil). O setor primário teve aumento de 47,5% nos onze primeiros meses, acima dos 17,1% do segmento de agrosserviços. Já insumos e agroindústria evoluíram menos, somando 3,4% e 5,5%, respectivamente. O acompanhamento de PIB do Cepea difere do sistema do IBGE. As taxas do Cepea consideram evolução de volumes e de preços, apontando a renda real do setor. Já as taxas do IBGE refletem apenas evolução do volume. Se fossem usados apenas os critérios do IBGE, o dados do Cepea de janeiro a novembro registrariam uma queda de 2,15% no PIB do agronegócio.</del> Leia mais (02/10/2021 - 23h15)
-2021-02-11 11:31:47,760          root     INFO: Media ready with ids: 1359827468111208449
-2021-02-11 11:31:47,760          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-11 11:31:47,761          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/apesar-da-pandemia-pib-do-agro-pode-ser-recorde-em-2020.shtml
-2021-02-11 11:31:47,769          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/apesar-da-pandemia-pib-do-agro-pode-ser-recorde-em-2020.shtml
-2021-02-11 11:31:48,049          root     INFO: Replying to: 1359827470229323777
-2021-02-11 11:31:48,337          root     INFO: Id to store: 1359827471244353536
-2021-02-11 11:31:50,534          root     INFO: Em sinal de apoio ao presidente do PSDB, Bruno Araújo, diante da ofensiva do governador João Doria (PSDB) para assumir o comando da sigla, os dirigentes de 26 diretórios estaduais do partido <del>enviaram ofício em que</del> pedem a prorrogação dos mandatos atuais por causa da pandemia da Covid-19. Leia mais (02/10/2021 - 20h35)
-2021-02-11 11:31:52,317          root     INFO: Media ready with ids: 1359827487065321473
-2021-02-11 11:31:52,318          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-11 11:31:52,318          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-oposicao-a-doria-diretorios-estaduais-do-psdb-pedem-prorrogacao-do-mandato-de-bruno-araujo.shtml
-2021-02-11 11:31:52,325          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-oposicao-a-doria-diretorios-estaduais-do-psdb-pedem-prorrogacao-do-mandato-de-bruno-araujo.shtml
-2021-02-11 11:31:52,586          root     INFO: Replying to: 1359827489237979138
-2021-02-11 11:31:52,858          root     INFO: Id to store: 1359827490294874112
-2021-02-11 11:31:57,012          root     INFO: Finished script
+2021-02-11 11:47:26,046          root     INFO: Starting script
+2021-02-11 11:47:27,132          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-11 11:47:27,977          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-11 11:47:28,825          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-11 11:47:29,083          root     INFO: Parsing R7 - Brasil
+2021-02-11 11:47:29,799          root     INFO: <del>Autonomia</del> <ins>Entenda por que a autonomia</ins> do BC não muda quase nada
+2021-02-11 11:47:31,718          root     INFO: Media ready with ids: 1359831427613921280
+2021-02-11 11:47:31,719          root     INFO: Text to tweet: Modificação do Título
+2021-02-11 11:47:31,719          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/autonomia-do-bc-nao-muda-quase-nada.shtml
+2021-02-11 11:47:31,731          root     INFO: Replying to: 1359686592521261058
+2021-02-11 11:47:32,055          root     INFO: Id to store: 1359831429660758025
+2021-02-11 11:47:32,076          root     INFO: O que muda com o projeto de "autonomia" do Banco Central? Quase nada. Qual a novidade, afora a extinção de uns artigos caducos das confusas leis do sistema financeiro? O presidente e oito diretores do Banco Central terão mandatos fixos de quatro anos. <del>Por dois anos, um presidente da República eleito para um primeiro mandato terá um presidente do BC nomeado pelo seu antecessor. No terceiro ano de mandato, poderá nomear um presidente do BC "seu". No primeiro ano de mandato, poderá também nomear dois diretores; no segundo, mais dois, e assim por diante. No início do terceiro ano, terá nomeado a maioria da diretoria do BC (7 a 2). Se reeleito, terá "maioria" por seis anos. Não muda mais nada. O BC será "independente"? Não. O BC não poderá definir a política monetária (como vai lidar com a flutuação de preços, quais instrumentos vai utilizar e em qual medida etc.).</del> Leia mais (02/10/2021 - 22h02)
+2021-02-11 11:47:34,002          root     INFO: Media ready with ids: 1359831437072080898
+2021-02-11 11:47:34,002          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-11 11:47:34,003          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/autonomia-do-bc-nao-muda-quase-nada.shtml
+2021-02-11 11:47:34,011          root     INFO: Replying to: 1359831429660758025
+2021-02-11 11:47:34,288          root     INFO: Id to store: 1359831438963671044
+2021-02-11 11:47:41,222          root     INFO: Finished script
