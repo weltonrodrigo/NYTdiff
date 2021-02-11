@@ -1,6 +1,40 @@
-2021-02-11 10:57:46,153          root     INFO: Starting script
-2021-02-11 10:57:47,397          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-11 10:57:48,084          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-11 10:57:48,773          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-11 10:57:48,952          root     INFO: Parsing R7 - Brasil
-2021-02-11 10:57:55,351          root     INFO: Finished script
+2021-02-11 11:22:44,641          root     INFO: Starting script
+2021-02-11 11:22:45,823          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-11 11:22:46,683          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-11 11:22:47,538          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-11 11:22:47,733          root     INFO: Parsing R7 - Brasil
+2021-02-11 11:22:51,242          root     INFO: O STF (Supremo Tribunal Federal) somou nesta quarta-feira (9) quatro votos contrários e um favorável à existência do <ins>chamado</ins> direito ao esquecimento no Brasil. Leia mais (02/10/2021 - 18h43)
+2021-02-11 11:22:53,236          root     INFO: Media ready with ids: 1359825226389938181
+2021-02-11 11:22:53,236          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-11 11:22:53,236          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/fachin-abre-divergencia-e-stf-tem-4-votos-contra-e-1-a-favor-ao-direito-ao-esquecimento.shtml
+2021-02-11 11:22:53,244          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/fachin-abre-divergencia-e-stf-tem-4-votos-contra-e-1-a-favor-ao-direito-ao-esquecimento.shtml
+2021-02-11 11:22:53,550          root     INFO: Replying to: 1359825228503875587
+2021-02-11 11:22:53,824          root     INFO: Id to store: 1359825229460217857
+2021-02-11 11:22:58,885          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-anuncia-programa-de-incentivos-financeiros-a-municipios-11022021
+2021-02-11 11:22:58,897          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiza-manda-am-e-pazuello-garantirem-leitos-de-uti-em-24h-10022021
+2021-02-11 11:22:58,910          root     INFO: New article tracked: http://noticias.r7.com/brasil/entre-infieis-tabata-vota-sim-pela-autonomia-e-aecio-nao-10022021
+2021-02-11 11:22:58,924          root     INFO: New article tracked: http://noticias.r7.com/brasil/vazamento-expoe-100-milhoes-de-celulares-incluindo-o-de-bolsonaro-10022021
+2021-02-11 11:22:58,935          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-emprestimo-de-us-1-bi-para-programa-emergencial-10022021
+2021-02-11 11:22:58,946          root     INFO: New article tracked: http://noticias.r7.com/brasil/pacheco-diz-que-vacinacao-e-auxilio-sao-prioridades-no-senado-10022021
+2021-02-11 11:22:58,957          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-projeto-que-da-autonomia-ao-banco-central-10022021
+2021-02-11 11:22:58,967          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-apresenta-plano-substituto-a-operacao-militar-na-amazonia-10022021
+2021-02-11 11:22:58,977          root     INFO: New article tracked: http://noticias.r7.com/brasil/entenda-porque-e-dificil-reconhecer-um-agressor-sexual-de-menores-e-saiba-como-denunciar-10022021
+2021-02-11 11:22:58,988          root     INFO: New article tracked: http://noticias.r7.com/brasil/aras-pede-investigacao-contra-procuradores-da-lava-jato-10022021
+2021-02-11 11:22:58,998          root     INFO: New article tracked: http://noticias.r7.com/brasil/projeto-de-renan-calheiros-quer-dar-anistia-aos-hackers-da-lava-jato-10022021
+2021-02-11 11:22:59,008          root     INFO: New article tracked: http://noticias.r7.com/brasil/petroleiros-protestam-contra-venda-de-refinaria-na-bahia-10022021
+2021-02-11 11:22:59,021          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-retoma-discussao-de-projeto-de-autonomia-do-bc-10022021
+2021-02-11 11:22:59,034          root     INFO: New article tracked: http://noticias.r7.com/brasil/procurador-envolvido-na-operacao-greenfield-e-afastado-do-cargo-10022021
+2021-02-11 11:22:59,045          root     INFO: New article tracked: http://noticias.r7.com/brasil/arroubos-autoritarios-diz-aecio-sobre-ataques-de-joao-doria-10022021
+2021-02-11 11:22:59,057          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-governo-pode-liberar-mais-dinheiro-a-municipios-10022021
+2021-02-11 11:22:59,069          root     INFO: New article tracked: http://noticias.r7.com/brasil/doria-diz-que-psdb-sera-oposicao-ao-governo-bolsonaro-e-ataca-aecio-10022021
+2021-02-11 11:22:59,080          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sinaliza-novamente-retorno-do-auxilio-emergencial-10022021
+2021-02-11 11:22:59,091          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-anuncia-fim-de-operacao-e-novo-programa-para-a-amazonia-10022021
+2021-02-11 11:22:59,102          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-grupo-que-acompanha-5g-se-reune-com-operadoras-10022021
+2021-02-11 11:22:59,119          root     INFO: Removed http://noticias.r7.com/brasil/governo-paga-hoje-auxilio-residual-a-mais-de-22-mil-brasileiros-10022021
+2021-02-11 11:22:59,123          root     INFO: Removed http://noticias.r7.com/brasil/stf-rejeita-recurso-e-libera-acesso-a-mensagens-vazadas-da-lava-jato-09022021
+2021-02-11 11:22:59,127          root     INFO: Removed http://noticias.r7.com/brasil/comissao-e-instalada-com-auxilio-e-orcamento-entre-prioridades-10022021
+2021-02-11 11:22:59,131          root     INFO: Removed http://noticias.r7.com/brasil/ex-diretor-da-anvisa-reforca-grupo-de-defesa-da-vacina-sputnik-v-10022021
+2021-02-11 11:22:59,134          root     INFO: Removed http://noticias.r7.com/brasil/saude-recebe-45-pedidos-de-grupos-que-querem-vacinacao-prioritaria-10022021
+2021-02-11 11:22:59,138          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-e-salles-criam-programa-adote-1-parque-para-preservacao-09022021
+2021-02-11 11:22:59,142          root     INFO: Removed http://noticias.r7.com/brasil/tse-julga-improcedentes-acoes-contra-chapa-bolsonaro-e-mourao-09022021
+2021-02-11 11:22:59,143          root     INFO: Finished script
