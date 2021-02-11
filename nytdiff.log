@@ -1,15 +1,10 @@
-2021-02-11 22:25:41,588          root     INFO: Starting script
-2021-02-11 22:25:42,632          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-11 22:25:43,488          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-11 22:25:44,339          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-11 22:25:44,607          root     INFO: Parsing R7 - Brasil
-2021-02-11 22:25:47,433          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/por-refugio-lira-mantem-retirada-de-jornalistas-mas-recua-de-transferi-los-para-sala-sem-janelas.shtml
-2021-02-11 22:25:47,691          root     INFO: A visão pejorativa sobre a classe política brasileira abriu espaço para <del>interferência</del> <ins>interferências</ins> indevidas do Supremo Tribunal Federal nessa esfera, causando uma "lambança completa", avalia o professor titular aposentado do departamento de ciência política da USP, Fernando Limongi. Leia mais (02/11/2021 - 11h00)
-2021-02-11 22:25:49,679          root     INFO: Media ready with ids: 1359992060623921159
-2021-02-11 22:25:49,679          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-11 22:25:49,679          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/intervencao-do-supremo-na-politica-causa-uma-lambanca-completa-diz-cientista-politico.shtml
-2021-02-11 22:25:49,688          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/intervencao-do-supremo-na-politica-causa-uma-lambanca-completa-diz-cientista-politico.shtml
-2021-02-11 22:25:49,993          root     INFO: Replying to: 1359992062897176577
-2021-02-11 22:25:50,311          root     INFO: Id to store: 1359992063996141570
-2021-02-11 22:25:55,152          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/justica-valida-atos-da-receita-e-esvazia-tese-de-flavio-bolsonaro-para-tentar-anular-provas-da-rachadinha.shtml
-2021-02-11 22:25:55,153          root     INFO: Finished script
+2021-02-11 22:40:14,048          root     INFO: Starting script
+2021-02-11 22:40:14,889          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-11 22:40:15,579          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-11 22:40:16,261          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-11 22:40:16,495          root     INFO: Parsing R7 - Brasil
+2021-02-11 22:40:16,877          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/02/maneira-como-se-lida-com-a-derrota-no-brasil-desafia-tecnicos.shtml
+2021-02-11 22:40:19,174          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/deputada-do-psol-vai-ao-stf-para-tentar-impedir-nomeacao-de-carla-zambelli-citada-em-inquerito-na-secom-da-camara.shtml
+2021-02-11 22:40:24,009          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2021/02/biden-injecao-letal-e-bolsonaro.shtml
+2021-02-11 22:40:24,013          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2021/02/bolsonaro-ganha-em-brasilia-enquanto-perde-no-brasil.shtml
+2021-02-11 22:40:24,014          root     INFO: Finished script
