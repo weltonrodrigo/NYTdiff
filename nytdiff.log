@@ -1,6 +1,10 @@
-2021-02-11 17:57:53,689          root     INFO: Starting script
-2021-02-11 17:57:54,592          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-11 17:57:55,286          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-11 17:57:55,975          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-11 17:57:56,110          root     INFO: Parsing R7 - Brasil
-2021-02-11 17:58:02,920          root     INFO: Finished script
+2021-02-11 18:28:32,371          root     INFO: Starting script
+2021-02-11 18:28:33,384          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-11 18:28:34,208          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-11 18:28:35,040          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-11 18:28:35,296          root     INFO: Parsing R7 - Brasil
+2021-02-11 18:28:37,686          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stf-forma-maioria-para-declarar-que-nao-existe-direito-ao-esquecimento-no-brasil.shtml
+2021-02-11 18:28:37,699          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/sair-do-psl-sera-um-livramento-diz-deputado-ameacado-de-expulsao.shtml
+2021-02-11 18:28:41,914          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/republicanos-ensaia-apresentar-nome-alternativo-para-a-ccj.shtml
+2021-02-11 18:28:41,918          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/irmao-de-claudio-castro-tenta-reajustar-salario-em-25-mas-governador-do-rj-pede-revogacao.shtml
+2021-02-11 18:28:41,920          root     INFO: Finished script
