@@ -1,19 +1,6 @@
-2021-02-11 21:21:20,758          root     INFO: Starting script
-2021-02-11 21:21:21,593          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-11 21:21:22,274          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-11 21:21:22,958          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-11 21:21:23,161          root     INFO: Parsing R7 - Brasil
-2021-02-11 21:21:26,185          root     INFO: <del>STF forma maioria para declarar que não existe</del> <ins>Por 9 a 1, Supremo vê risco à liberdade de expressão e barra</ins> direito ao esquecimento no Brasil
-2021-02-11 21:21:28,006          root     INFO: Media ready with ids: 1359975863773782019
-2021-02-11 21:21:28,006          root     INFO: Text to tweet: Modificação do Título
-2021-02-11 21:21:28,006          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stf-forma-maioria-para-declarar-que-nao-existe-direito-ao-esquecimento-no-brasil.shtml
-2021-02-11 21:21:28,015          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stf-forma-maioria-para-declarar-que-nao-existe-direito-ao-esquecimento-no-brasil.shtml
-2021-02-11 21:21:28,213          root     INFO: Replying to: 1359975865527005185
-2021-02-11 21:21:28,515          root     INFO: Id to store: 1359975866344894466
-2021-02-11 21:21:28,521          root     INFO: O STF (Supremo Tribunal Federal) <del>formou maioria nesta quinta-feira (11) para rejeitar</del> <ins>rejeitou, por 9 votos a 1,</ins> a existência do direito ao esquecimento no Brasil. <del>Os ministros entenderam que a criação do instituto jurídico no país poderia botar em risco a liberdade de expressão.</del> Leia mais (02/11/2021 - 15h15)
-2021-02-11 21:21:30,261          root     INFO: Media ready with ids: 1359975873164828673
-2021-02-11 21:21:30,262          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-11 21:21:30,262          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stf-forma-maioria-para-declarar-que-nao-existe-direito-ao-esquecimento-no-brasil.shtml
-2021-02-11 21:21:30,273          root     INFO: Replying to: 1359975866344894466
-2021-02-11 21:21:30,519          root     INFO: Id to store: 1359975875014516736
-2021-02-11 21:21:35,344          root     INFO: Finished script
+2021-02-11 21:32:42,857          root     INFO: Starting script
+2021-02-11 21:32:43,910          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-11 21:32:44,767          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-11 21:32:45,629          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-11 21:32:45,842          root     INFO: Parsing R7 - Brasil
+2021-02-11 21:32:54,429          root     INFO: Finished script
