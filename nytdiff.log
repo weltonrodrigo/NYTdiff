@@ -1,15 +1,8 @@
-2021-02-11 16:40:00,473          root     INFO: Starting script
-2021-02-11 16:40:01,577          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-11 16:40:02,454          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-11 16:40:03,282          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-11 16:40:03,449          root     INFO: Parsing R7 - Brasil
-2021-02-11 16:40:06,088          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/livro-de-ex-chefe-do-exercito-expoe-a-volta-da-politica-aos-quarteis.shtml
-2021-02-11 16:40:06,126          root     INFO: O presidente Jair Bolsonaro (sem partido) exaltou os cinco presidentes militares que o Brasil teve <del>entre</del> <ins>de</ins> 1964 <del>e1985</del> <ins>a 1985</ins> e classificou a <del>Ditadura Militar,</del> <ins>ditadura militar,</ins> período marcado por violações à democracia e aos direitos humanos, como um regime "um pouco diferente do que temos hoje". Leia mais (02/11/2021 - 12h33)
-2021-02-11 16:40:08,159          root     INFO: Media ready with ids: 1359905064442298371
-2021-02-11 16:40:08,160          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-11 16:40:08,160          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-exalta-militares-e-diz-que-brasil-viveu-regime-um-pouco-diferente-na-ditadura.shtml
-2021-02-11 16:40:08,168          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-exalta-militares-e-diz-que-brasil-viveu-regime-um-pouco-diferente-na-ditadura.shtml
-2021-02-11 16:40:08,410          root     INFO: Replying to: 1359905066417852416
-2021-02-11 16:40:08,724          root     INFO: Id to store: 1359905067407732739
-2021-02-11 16:40:13,481          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/dados-das-eleicoes-apontam-suspeitas-de-gastos-anormais-e-ministerio-publico-cobra-tse.shtml
-2021-02-11 16:40:13,482          root     INFO: Finished script
+2021-02-11 17:12:54,712          root     INFO: Starting script
+2021-02-11 17:12:55,625          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-11 17:12:56,329          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-11 17:12:57,039          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-11 17:12:57,241          root     INFO: Parsing R7 - Brasil
+2021-02-11 17:12:57,882          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/02/o-que-houve-em-curitiba-foi-uma-grande-farsa-que-envergonha-imagem-do-pais.shtml
+2021-02-11 17:13:07,231          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/02/o-centrao-e-a-pauta-da-pilhagem.shtml
+2021-02-11 17:13:07,232          root     INFO: Finished script
