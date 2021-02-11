@@ -1,26 +1,8 @@
-2021-02-11 11:58:11,233          root     INFO: Starting script
-2021-02-11 11:58:12,156          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-11 11:58:12,860          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-11 11:58:13,565          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-11 11:58:13,754          root     INFO: Parsing R7 - Brasil
-2021-02-11 11:58:21,843          root     INFO: Removed http://noticias.r7.com/brasil/senado-aprova-emprestimo-de-us-1-bi-para-programa-emergencial-10022021
-2021-02-11 11:58:21,849          root     INFO: Removed http://noticias.r7.com/brasil/entre-infieis-tabata-vota-sim-pela-autonomia-e-aecio-nao-10022021
-2021-02-11 11:58:21,856          root     INFO: Removed http://noticias.r7.com/brasil/governo-anuncia-programa-de-incentivos-financeiros-a-municipios-11022021
-2021-02-11 11:58:21,860          root     INFO: Removed http://noticias.r7.com/brasil/mourao-apresenta-plano-substituto-a-operacao-militar-na-amazonia-10022021
-2021-02-11 11:58:21,864          root     INFO: Removed http://noticias.r7.com/brasil/arroubos-autoritarios-diz-aecio-sobre-ataques-de-joao-doria-10022021
-2021-02-11 11:58:21,867          root     INFO: Removed http://noticias.r7.com/brasil/aras-pede-investigacao-contra-procuradores-da-lava-jato-10022021
-2021-02-11 11:58:21,872          root     INFO: Removed http://noticias.r7.com/brasil/vazamento-expoe-100-milhoes-de-celulares-incluindo-o-de-bolsonaro-10022021
-2021-02-11 11:58:21,876          root     INFO: Removed http://noticias.r7.com/brasil/camara-retoma-discussao-de-projeto-de-autonomia-do-bc-10022021
-2021-02-11 11:58:21,881          root     INFO: Removed http://noticias.r7.com/brasil/doria-diz-que-psdb-sera-oposicao-ao-governo-bolsonaro-e-ataca-aecio-10022021
-2021-02-11 11:58:21,885          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-governo-pode-liberar-mais-dinheiro-a-municipios-10022021
-2021-02-11 11:58:21,889          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sinaliza-novamente-retorno-do-auxilio-emergencial-10022021
-2021-02-11 11:58:21,893          root     INFO: Removed http://noticias.r7.com/brasil/procurador-envolvido-na-operacao-greenfield-e-afastado-do-cargo-10022021
-2021-02-11 11:58:21,898          root     INFO: Removed http://noticias.r7.com/brasil/entenda-porque-e-dificil-reconhecer-um-agressor-sexual-de-menores-e-saiba-como-denunciar-10022021
-2021-02-11 11:58:21,901          root     INFO: Removed http://noticias.r7.com/brasil/projeto-de-renan-calheiros-quer-dar-anistia-aos-hackers-da-lava-jato-10022021
-2021-02-11 11:58:21,905          root     INFO: Removed http://noticias.r7.com/brasil/camara-grupo-que-acompanha-5g-se-reune-com-operadoras-10022021
-2021-02-11 11:58:21,909          root     INFO: Removed http://noticias.r7.com/brasil/juiza-manda-am-e-pazuello-garantirem-leitos-de-uti-em-24h-10022021
-2021-02-11 11:58:21,913          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-projeto-que-da-autonomia-ao-banco-central-10022021
-2021-02-11 11:58:21,918          root     INFO: Removed http://noticias.r7.com/brasil/petroleiros-protestam-contra-venda-de-refinaria-na-bahia-10022021
-2021-02-11 11:58:21,922          root     INFO: Removed http://noticias.r7.com/brasil/pacheco-diz-que-vacinacao-e-auxilio-sao-prioridades-no-senado-10022021
-2021-02-11 11:58:21,926          root     INFO: Removed http://noticias.r7.com/brasil/mourao-anuncia-fim-de-operacao-e-novo-programa-para-a-amazonia-10022021
-2021-02-11 11:58:21,927          root     INFO: Finished script
+2021-02-11 12:38:02,452          root     INFO: Starting script
+2021-02-11 12:38:03,303          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-11 12:38:03,983          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-11 12:38:04,669          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-11 12:38:04,849          root     INFO: Parsing R7 - Brasil
+2021-02-11 12:38:07,083          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/ex-coordenador-de-programa-de-alckmin-declara-apoio-a-governador-do-rs-para-presidente.shtml
+2021-02-11 12:38:11,161          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/doria-troca-comando-do-metro-e-escala-policial-federal.shtml
+2021-02-11 12:38:11,161          root     INFO: Finished script
