@@ -1,8 +1,15 @@
-2021-02-11 01:31:41,482          root     INFO: Starting script
-2021-02-11 01:31:42,515          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-11 01:31:43,353          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-11 01:31:44,190          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-11 01:31:44,698          root     INFO: Parsing R7 - Brasil
-2021-02-11 01:31:45,103          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/autonomia-do-bc-nao-muda-quase-nada.shtml
-2021-02-11 01:31:51,457          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/02/dois-pontos-nova-livraria-100-virtual-quer-destacar-curadoria-para-atrair-leitores.shtml
-2021-02-11 01:31:51,457          root     INFO: Finished script
+2021-02-11 02:11:55,082          root     INFO: Starting script
+2021-02-11 02:11:55,905          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-11 02:11:56,577          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-11 02:11:57,250          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-11 02:11:57,673          root     INFO: Parsing R7 - Brasil
+2021-02-11 02:11:58,075          root     INFO: <del>Autonomia</del> <ins>Entenda por que a autonomia</ins> do BC não muda quase nada
+2021-02-11 02:11:59,815          root     INFO: Media ready with ids: 1359686590059151360
+2021-02-11 02:11:59,816          root     INFO: Text to tweet: Modificação do Título
+2021-02-11 02:11:59,816          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/autonomia-do-bc-nao-muda-quase-nada.shtml
+2021-02-11 02:11:59,824          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/autonomia-do-bc-nao-muda-quase-nada.shtml
+2021-02-11 02:11:59,986          root     INFO: Replying to: 1359686591841763329
+2021-02-11 02:12:00,199          root     INFO: Id to store: 1359686592521261058
+2021-02-11 02:12:02,114          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/moraes-do-stf-decide-que-promotoria-nao-pode-destinar-recursos-de-delacoes-e-multas-da-lava-jato.shtml
+2021-02-11 02:12:06,175          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/acordo-com-centrao-nao-e-solido-diz-general-que-foi-ministro-de-bolsonaro.shtml
+2021-02-11 02:12:06,176          root     INFO: Finished script
