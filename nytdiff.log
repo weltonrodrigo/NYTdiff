@@ -1,10 +1,13 @@
-2021-02-12 21:22:13,428          root     INFO: Starting script
-2021-02-12 21:22:14,474          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-12 21:22:15,325          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-12 21:22:16,163          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-12 21:22:16,402          root     INFO: Parsing R7 - Brasil
-2021-02-12 21:22:19,240          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/barroso-do-stf-vota-para-manter-queixa-crime-contra-lira-e-envia-la-a-justica-do-df.shtml
-2021-02-12 21:22:21,612          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/petroleira-trident-tem-segundo-vazamento-no-litoral-do-rio-em-menos-de-um-mes.shtml
-2021-02-12 21:22:23,904          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/renovabr-lanca-novo-curso-de-formacao-politica-para-candidatos-em-2022.shtml
-2021-02-12 21:22:23,910          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://ambiencia.blogfolha.uol.com.br/?p=855
-2021-02-12 21:22:23,911          root     INFO: Finished script
+2021-02-12 21:32:35,677          root     INFO: Starting script
+2021-02-12 21:32:36,980          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-12 21:32:37,686          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-12 21:32:38,378          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-12 21:32:38,616          root     INFO: Parsing R7 - Brasil
+2021-02-12 21:32:41,168          root     INFO: Barroso, do STF, vota para manter queixa-crime contra Lira e enviá-la à <del>Justiça</del> <ins>Vara de Violência Doméstica</ins> do DF
+2021-02-12 21:32:42,916          root     INFO: Media ready with ids: 1360341082622599172
+2021-02-12 21:32:42,916          root     INFO: Text to tweet: Modificação do Título
+2021-02-12 21:32:42,916          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/barroso-do-stf-vota-para-manter-queixa-crime-contra-lira-e-envia-la-a-justica-do-df.shtml
+2021-02-12 21:32:42,925          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/barroso-do-stf-vota-para-manter-queixa-crime-contra-lira-e-envia-la-a-justica-do-df.shtml
+2021-02-12 21:32:43,138          root     INFO: Replying to: 1360341084245790720
+2021-02-12 21:32:43,369          root     INFO: Id to store: 1360341085034283009
+2021-02-12 21:32:47,798          root     INFO: Finished script
