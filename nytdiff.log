@@ -1,24 +1,6 @@
-2021-02-12 17:13:13,467          root     INFO: Starting script
-2021-02-12 17:13:14,317          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-12 17:13:14,994          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-12 17:13:15,665          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-12 17:13:15,788          root     INFO: Parsing R7 - Brasil
-2021-02-12 17:13:16,172          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/02/a-folha-mudou-muito-ao-longo-dos-anos-mas-continua-inquieta.shtml
-2021-02-12 17:13:18,436          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-provocacao-a-doria-aecio-neves-formaliza-pedido-de-previas-para-2022-no-psdb.shtml
-2021-02-12 17:13:18,472          root     INFO: Bolsonaro diz que foi citado em mensagens hackeadas <del>obtidas por</del> <ins>entregues a</ins> Lula e quer acesso a elas para divulgá-las
-2021-02-12 17:13:20,339          root     INFO: Media ready with ids: 1360275808431050757
-2021-02-12 17:13:20,339          root     INFO: Text to tweet: Modificação do Título
-2021-02-12 17:13:20,339          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-diz-que-foi-citado-em-mensagens-hackeadas-obtidas-por-lula-e-quer-acesso-a-elas-para-divulga-las.shtml
-2021-02-12 17:13:20,348          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-diz-que-foi-citado-em-mensagens-hackeadas-obtidas-por-lula-e-quer-acesso-a-elas-para-divulga-las.shtml
-2021-02-12 17:13:20,542          root     INFO: Replying to: 1360275809970356226
-2021-02-12 17:13:20,787          root     INFO: Id to store: 1360275810779824136
-2021-02-12 17:13:20,827          root     INFO: Em derrota de Doria, PSDB renova mandato de seu <del>presidente</del> <ins>presidente; Aécio pede prévias em 2022</ins>
-2021-02-12 17:13:22,548          root     INFO: Media ready with ids: 1360275817578790912
-2021-02-12 17:13:22,549          root     INFO: Text to tweet: Modificação do Título
-2021-02-12 17:13:22,549          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-derrota-de-doria-psdb-renova-mandato-de-seu-presidente.shtml
-2021-02-12 17:13:22,557          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-derrota-de-doria-psdb-renova-mandato-de-seu-presidente.shtml
-2021-02-12 17:13:22,710          root     INFO: Replying to: 1360275819109769216
-2021-02-12 17:13:22,917          root     INFO: Id to store: 1360275819747299331
-2021-02-12 17:13:27,711          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-vai-remover-area-de-jornalistas-na-camara-para-se-instalar-no-local.shtml
-2021-02-12 17:13:27,716          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/02/hoje-na-composicao-musical-1-1-30.shtml
-2021-02-12 17:13:27,716          root     INFO: Finished script
+2021-02-12 17:36:43,099          root     INFO: Starting script
+2021-02-12 17:36:43,927          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-12 17:36:44,597          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-12 17:36:45,274          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-12 17:36:45,368          root     INFO: Parsing R7 - Brasil
+2021-02-12 17:36:52,229          root     INFO: Finished script
