@@ -1,6 +1,19 @@
-2021-02-12 19:19:50,341          root     INFO: Starting script
-2021-02-12 19:19:51,159          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-12 19:19:51,816          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-12 19:19:52,476          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-12 19:19:52,556          root     INFO: Parsing R7 - Brasil
-2021-02-12 19:19:59,033          root     INFO: Finished script
+2021-02-12 19:29:52,374          root     INFO: Starting script
+2021-02-12 19:29:53,250          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-12 19:29:53,921          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-12 19:29:54,601          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-12 19:29:54,752          root     INFO: Parsing R7 - Brasil
+2021-02-12 19:29:57,258          root     INFO: <del>Sem máscara, prefeita</del> <ins>Com 98% dos leitos</ins> de Bauru <ins>ocupados, prefeita</ins> participa de aglomeração em protesto contra Doria
+2021-02-12 19:29:59,040          root     INFO: Media ready with ids: 1360310196044759043
+2021-02-12 19:29:59,041          root     INFO: Text to tweet: Modificação do Título
+2021-02-12 19:29:59,041          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/sem-mascara-prefeita-de-bauru-participa-de-aglomeracao-em-protesto-contra-doria.shtml
+2021-02-12 19:29:59,050          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/sem-mascara-prefeita-de-bauru-participa-de-aglomeracao-em-protesto-contra-doria.shtml
+2021-02-12 19:29:59,254          root     INFO: Replying to: 1360310197907050501
+2021-02-12 19:29:59,524          root     INFO: Id to store: 1360310198670397447
+2021-02-12 19:29:59,530          root     INFO: A prefeita de Bauru, Suéllen Rosim (Patriota), participou de uma manifestação <ins>pela abertura do comércio na cidade e</ins> contra o governador João Doria (PSDB) nesta sexta-feira (12), ao lado de Luciano Hang, empresário bolsonarista que é dono da rede de lojas Havan. Leia mais (02/12/2021 - 15h41)
+2021-02-12 19:30:01,360          root     INFO: Media ready with ids: 1360310205460938754
+2021-02-12 19:30:01,361          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-12 19:30:01,361          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/sem-mascara-prefeita-de-bauru-participa-de-aglomeracao-em-protesto-contra-doria.shtml
+2021-02-12 19:30:01,369          root     INFO: Replying to: 1360310198670397447
+2021-02-12 19:30:01,580          root     INFO: Id to store: 1360310207436496908
+2021-02-12 19:30:05,991          root     INFO: Finished script
