@@ -1,6 +1,15 @@
-2021-02-12 15:52:49,182          root     INFO: Starting script
-2021-02-12 15:52:50,293          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-12 15:52:50,971          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-12 15:52:51,663          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-12 15:52:51,847          root     INFO: Parsing R7 - Brasil
-2021-02-12 15:52:59,940          root     INFO: Finished script
+2021-02-12 15:57:57,669          root     INFO: Starting script
+2021-02-12 15:57:58,653          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-12 15:57:59,351          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-12 15:58:00,045          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-12 15:58:00,199          root     INFO: Parsing R7 - Brasil
+2021-02-12 15:58:00,654          root     INFO: Quem guarda os guardiões? A pergunta é antiga, mas ela ressurge na minha cabeça sempre que escuto as intenções do poder político de vigiar (e punir) as fake news. Deve ser defeito de formação. Mas a ideia de que a raposa deve controlar o discurso da capoeira sempre me pareceu de um otimismo delirante. Sim, lamento as mentiras danosas que circulam por aí. E, em casos difamatórios, espero que os tribunais façam o que só eles devem fazer. Mais: como escrevo há muito tempo, as plataformas deveriam ser obrigadas a identificar os seus usuários, caso eles sejam processados pelas insanidades que produzem. Se eu, como colunista, posso ser responsabilizado por abuso de liberdade de imprensa -como, de fato, já fui-, não admito que o anonimato covarde das redes tenha outras prerrogativas. Leia mais (02/12/2021 - 11h53)
+2021-02-12 15:58:02,717          root     INFO: Media ready with ids: 1360256859798724610
+2021-02-12 15:58:02,718          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-12 15:58:02,718          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/02/nas-leis-contra-as-fake-news-as-raposas-nao-devem-controlar-a-capoeira.shtml
+2021-02-12 15:58:02,725          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/02/nas-leis-contra-as-fake-news-as-raposas-nao-devem-controlar-a-capoeira.shtml
+2021-02-12 15:58:02,932          root     INFO: Replying to: 1360256861715496960
+2021-02-12 15:58:03,176          root     INFO: Id to store: 1360256862474666001
+2021-02-12 15:58:05,500          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-derrota-de-doria-psdb-renova-mandato-de-seu-presidente.shtml
+2021-02-12 15:58:10,571          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/gestao-covas-consegue-revogacao-de-liminar-do-jockey-club-de-sp-para-nao-pagar-iptu-em-2021.shtml
+2021-02-12 15:58:10,572          root     INFO: Finished script
