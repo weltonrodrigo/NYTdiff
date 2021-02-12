@@ -1,17 +1,8 @@
-2021-02-12 20:25:02,511          root     INFO: Starting script
-2021-02-12 20:25:03,560          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-12 20:25:04,403          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-12 20:25:05,238          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-12 20:25:05,555          root     INFO: Parsing R7 - Brasil
-2021-02-12 20:25:05,950          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/02/direito-a-memoria-nao-ao-esquecimento.shtml
-2021-02-12 20:25:05,966          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2021/02/encher-a-casa-de-glitter-e-fazer-xixi-na-parede-da-aquele-clima-de-carnaval.shtml
-2021-02-12 20:25:08,284          root     INFO: A Justiça do Rio de Janeiro encerrou no dia 21 de janeiro o inquérito que investigava os apresentadores do Jornal Nacional, da TV Globo, William Bonner e Renata Vasconcellos. O procedimento havia sido aberto na Delegacia de Repressão aos Crimes de Informática a partir de notícia-crime apresentada pelo senador Flávio Bolsonaro (Republicanos). Leia mais (02/12/2021 - <del>16h52)</del> <ins>16h56)</ins>
-2021-02-12 20:25:10,253          root     INFO: Media ready with ids: 1360324084253544448
-2021-02-12 20:25:10,254          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-12 20:25:10,254          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/justica-encerra-inquerito-contra-bonner-e-renata-apos-censura-no-caso-da-rachadinha-de-flavio.shtml
-2021-02-12 20:25:10,264          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/justica-encerra-inquerito-contra-bonner-e-renata-apos-censura-no-caso-da-rachadinha-de-flavio.shtml
-2021-02-12 20:25:10,537          root     INFO: Replying to: 1360324086321344512
-2021-02-12 20:25:10,838          root     INFO: Id to store: 1360324087319527428
-2021-02-12 20:25:15,694          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-tajes/2021/02/voce-troca-a-sua-vergonha-na-cara-por-um-puxadinho-no-templo-da-sua-devocao.shtml
-2021-02-12 20:25:15,699          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2021/02/a-felicidade-nunca-venceu-guerras-e-e-pouco-empatica-com-a-realidade.shtml
-2021-02-12 20:25:15,699          root     INFO: Finished script
+2021-02-12 20:34:55,917          root     INFO: Starting script
+2021-02-12 20:34:57,161          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-12 20:34:57,852          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-12 20:34:58,553          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-12 20:34:58,801          root     INFO: Parsing R7 - Brasil
+2021-02-12 20:34:59,201          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/02/centenaria-folha-ajuda-a-levar-temas-do-esporte-para-fora-dos-muros-da-universidade.shtml
+2021-02-12 20:35:06,604          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/02/palmeiras-foi-vitima-de-sua-maratona-emocional-ate-o-qatar.shtml
+2021-02-12 20:35:06,605          root     INFO: Finished script
