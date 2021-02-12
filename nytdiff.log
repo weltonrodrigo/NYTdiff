@@ -1,15 +1,6 @@
-2021-02-12 11:27:11,089          root     INFO: Starting script
-2021-02-12 11:27:11,979          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-12 11:27:12,672          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-12 11:27:13,371          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-12 11:27:13,638          root     INFO: Parsing R7 - Brasil
-2021-02-12 11:27:14,029          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/02/ramos-gim-fizz-famoso-em-festa-americana-e-consolo-para-ausencia-de-carnaval.shtml
-2021-02-12 11:27:14,203          root     INFO: A Conab (Companhia Nacional de Abastecimento refez as estimativas de produção de milho e elevou a safra nacional para 105,5 milhões de toneladas, 3% mais do que em 2020. <del>Essa alta, no entanto, não deixa as empresas usuárias do cereal tranquilas. O uso interno de milho deverá atingir 72 milhões de toneladas, 5% mais do que no ano passado. Por isso, para evitar disputa pelo produto no segundo semestre, quando as exportações também aumentam, as indústrias do setor já adquiriram antecipadamente 20% do que vão consumir. Além disso, a China, praticamente fora desse mercado até então, acelerou muito as importações e deve continuar bastante ativa neste ano. O ritmo de compra antecipada pelas indústrias é superior ao que normalmente o setor vem praticando, segundo Vlamir Brandalizze, da Brandalizze Consulting, de Curitiba. Para ele, as indústrias estão mais agressivas.</del> Leia mais (02/11/2021 - 23h15)
-2021-02-12 11:27:16,169          root     INFO: Media ready with ids: 1360188716694781955
-2021-02-12 11:27:16,169          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-12 11:27:16,169          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/industrias-antecipam-compra-de-milho-neste-ano.shtml
-2021-02-12 11:27:16,185          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/industrias-antecipam-compra-de-milho-neste-ano.shtml
-2021-02-12 11:27:16,347          root     INFO: Replying to: 1360188718666104833
-2021-02-12 11:27:16,568          root     INFO: Id to store: 1360188719324610561
-2021-02-12 11:27:22,950          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/02/labirinto-das-reformas.shtml
-2021-02-12 11:27:22,951          root     INFO: Finished script
+2021-02-12 11:31:49,280          root     INFO: Starting script
+2021-02-12 11:31:50,173          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-12 11:31:50,855          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-12 11:31:51,537          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-12 11:31:51,817          root     INFO: Parsing R7 - Brasil
+2021-02-12 11:31:57,914          root     INFO: Finished script
