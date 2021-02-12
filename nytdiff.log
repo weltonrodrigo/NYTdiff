@@ -1,26 +1,10 @@
-2021-02-12 10:36:48,612          root     INFO: Starting script
-2021-02-12 10:36:49,461          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-12 10:36:50,147          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-12 10:36:50,832          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-12 10:36:51,150          root     INFO: Parsing R7 - Brasil
-2021-02-12 10:36:58,550          root     INFO: New article tracked: http://noticias.r7.com/brasil/pais-perde-r-46-bi-com-barreiras-comerciais-diz-pesquisa-12022021
-2021-02-12 10:36:58,564          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-vai-editar-decreto-sobre-preco-de-combustiveis-12022021
-2021-02-12 10:36:58,575          root     INFO: New article tracked: http://noticias.r7.com/brasil/live-jr-discute-impacto-do-turismo-com-pandemia-e-sem-carnaval-12022021
-2021-02-12 10:36:58,586          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-contraria-agu-e-diz-que-nao-foi-avisado-sobre-oxigenio-11022021
-2021-02-12 10:36:58,598          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-resposta-a-lira-guedes-diz-que-protocolo-do-auxilio-esta-pronto-11022021
-2021-02-12 10:36:58,607          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-deve-votar-mp-de-compra-da-vacina-na-semana-do-carnaval-11022021
-2021-02-12 10:36:58,618          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-e-contra-recurso-de-bolsonaro-em-acao-por-falas-homofobicas-11022021
-2021-02-12 10:36:58,627          root     INFO: New article tracked: http://noticias.r7.com/brasil/por-9x1-stf-rejeita-possibilidade-de-direito-ao-esquecimento-11022021
-2021-02-12 10:36:58,637          root     INFO: New article tracked: http://noticias.r7.com/brasil/araujo-conversa-por-telefone-com-novo-secretario-de-estado-dos-eua-11022021
-2021-02-12 10:36:58,649          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-diz-ao-senado-que-toda-populacao-sera-vacinada-em-2021-11022021
-2021-02-12 10:36:58,659          root     INFO: New article tracked: http://noticias.r7.com/brasil/redes-sociais-tem-feito-ativismo-de-esquerda-diz-deputado-federal-11022021
-2021-02-12 10:36:58,669          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-pena-de-prisao-e-multa-para-quem-fura-fila-da-vacina-11022021
-2021-02-12 10:36:58,678          root     INFO: New article tracked: http://noticias.r7.com/brasil/pacheco-fala-em-estabelecer-consenso-para-auxilio-possivel-11022021
-2021-02-12 10:36:58,689          root     INFO: New article tracked: http://noticias.r7.com/brasil/auxilio-deve-voltar-em-marco-e-por-ate-4-meses-diz-bolsonaro-11022021
-2021-02-12 10:36:58,700          root     INFO: New article tracked: http://noticias.r7.com/brasil/supremo-forma-maioria-contra-direito-ao-esquecimento-11022021
-2021-02-12 10:36:58,710          root     INFO: New article tracked: http://noticias.r7.com/brasil/meio-ambiente-lancara-edital-de-concessao-de-sete-parques-11022021
-2021-02-12 10:36:58,721          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-pandemia-turismo-deixou-de-faturar-r-274-bi-em-11-meses-11022021
-2021-02-12 10:36:58,733          root     INFO: New article tracked: http://noticias.r7.com/brasil/projeto-preve-multa-e-suspensao-de-rede-social-que-censurar-usuario-11022021
-2021-02-12 10:36:58,743          root     INFO: New article tracked: http://noticias.r7.com/brasil/damares-cria-grupo-para-revisar-politica-de-direitos-humanos-11022021
-2021-02-12 10:36:58,754          root     INFO: New article tracked: http://noticias.r7.com/brasil/aras-tenta-barrar-contratacao-de-capelao-sem-concurso-no-ma-11022021
-2021-02-12 10:36:58,765          root     INFO: Finished script
+2021-02-12 10:50:35,092          root     INFO: Starting script
+2021-02-12 10:50:36,098          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-12 10:50:36,917          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-12 10:50:37,736          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-12 10:50:38,097          root     INFO: Parsing R7 - Brasil
+2021-02-12 10:50:44,416          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-nega-ter-pedido-para-fiocruz-produzir-cloroquina-11022021
+2021-02-12 10:50:44,426          root     INFO: New article tracked: http://noticias.r7.com/brasil/bancada-do-dem-ja-reflete-guinada-governista-do-partido-11022021
+2021-02-12 10:50:44,438          root     INFO: Removed http://noticias.r7.com/brasil/pais-perde-r-46-bi-com-barreiras-comerciais-diz-pesquisa-12022021
+2021-02-12 10:50:44,441          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-vai-editar-decreto-sobre-preco-de-combustiveis-12022021
+2021-02-12 10:50:44,442          root     INFO: Finished script
