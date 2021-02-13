@@ -1,30 +1,15 @@
-2021-02-13 02:29:09,380          root     INFO: Starting script
-2021-02-13 02:29:10,330          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-13 02:29:11,035          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-13 02:29:11,742          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-13 02:29:12,045          root     INFO: Parsing R7 - Brasil
-2021-02-13 02:29:12,474          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/a-babel-do-auxilio.shtml
-2021-02-13 02:29:12,487          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/o-papel-de-fux.shtml
-2021-02-13 02:29:12,499          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/02/a-vacinacao-como-espetaculo.shtml
-2021-02-13 02:29:12,514          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/02/simbiose.shtml
-2021-02-13 02:29:12,526          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciorachkorsky/2021/02/folha-100-eu-quase-50-ate-hoje-nao-acredito-que-sou-colunista.shtml
-2021-02-13 02:29:12,538          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/a-taxacao-de-grandes-fortunas-e-uma-medida-fundamental-na-reforma-tributaria-sim.shtml
-2021-02-13 02:29:12,548          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/a-taxacao-de-grandes-fortunas-e-uma-medida-fundamental-na-reforma-tributaria-nao.shtml
-2021-02-13 02:29:14,800          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/proximidade-da-aposentadoria-de-marco-aurelio-mello-intensifica-discussao-sobre-sucessor-no-stf.shtml
-2021-02-13 02:29:14,812          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/psdb-nao-deve-fazer-oposicao-sistematica-a-bolsonaro-diz-eduardo-leite-governador-do-rs.shtml
-2021-02-13 02:29:14,823          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/02/a-vacinacao-como-espetaculo.shtml
-2021-02-13 02:29:14,836          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/carlos-minc-aciona-ministerio-publico-para-barrar-mudancas-de-paes-no-licenciamento-ambiental.shtml
-2021-02-13 02:29:14,848          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/reconhecido-pelo-itamaraty-mas-sem-acesso-a-embaixada-grupo-de-guaido-vira-alvo-de-acoes-trabalhistas-no-brasil.shtml
-2021-02-13 02:29:19,837          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/falta-bom-senso-e-a-volta-as-aulas-em-sp-esta-sendo-acodada-diz-prefeito-de-sao-bernardo-do-campo.shtml
-2021-02-13 02:29:19,841          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/o-brasil-nao-e-so-uma-grande-fazenda.shtml
-2021-02-13 02:29:19,845          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2021/02/novas-formas-de-enxergar-a-densidade-urbana.shtml
-2021-02-13 02:29:19,850          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2021/02/brazilian-depositary-receipts-os-bdrs.shtml
-2021-02-13 02:29:19,854          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/covid-veio-para-ficar-diz-wsj-apos-vacina-fracassar-na-africa.shtml
-2021-02-13 02:29:19,858          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2021/02/efeito-gamestop-veio-para-ficar.shtml
-2021-02-13 02:29:19,862          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49037
-2021-02-13 02:29:19,866          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=3992
-2021-02-13 02:29:19,870          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/02/que-a-opcao-seja-pela-escola.shtml
-2021-02-13 02:29:19,875          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/justica-nega-pedido-de-indenizacao-de-r-50-mil-de-ciro-gomes-a-fernando-holiday.shtml
-2021-02-13 02:29:19,879          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/tse-julga-duas-acoes-pedindo-cassacao-de-bolsonaro-e-de-mourao-por-disparo-de-fake-news.shtml
-2021-02-13 02:29:19,883          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/a-cesar-o-que-e-de-cesar.shtml
-2021-02-13 02:29:19,884          root     INFO: Finished script
+2021-02-13 02:50:57,336          root     INFO: Starting script
+2021-02-13 02:50:58,386          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-13 02:50:59,224          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-13 02:51:00,061          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-13 02:51:00,251          root     INFO: Parsing R7 - Brasil
+2021-02-13 02:51:00,679          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/beatriz-resende/2021/02/o-feminismo-necessario.shtml
+2021-02-13 02:51:02,617          root     INFO: Nomeado novo ministro da Cidadania, João Roma (Republicanos-BA), afirmou ao Painel que <del>preciava</del> <ins>precisava</ins> "cumprir a missão do partido" de aceitar chefiar a pasta e que está sendo afetado por uma briga entre o presidente do DEM, ACM Neto, de quem é aliado, e o ex-presidente da Câmara, Rodrigo Maia (DEM-RJ). Leia mais (02/12/2021 - 20h41)
+2021-02-13 02:51:04,564          root     INFO: Media ready with ids: 1360421200464347137
+2021-02-13 02:51:04,565          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-13 02:51:04,565          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/novo-ministro-da-cidadania-diz-que-esta-sendo-afetado-por-briga-entre-maia-e-acm-neto.shtml
+2021-02-13 02:51:04,575          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/novo-ministro-da-cidadania-diz-que-esta-sendo-afetado-por-briga-entre-maia-e-acm-neto.shtml
+2021-02-13 02:51:04,834          root     INFO: Replying to: 1360421202565734400
+2021-02-13 02:51:05,119          root     INFO: Id to store: 1360421203467505672
+2021-02-13 02:51:08,995          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/hora-da-escola.shtml
+2021-02-13 02:51:08,996          root     INFO: Finished script
