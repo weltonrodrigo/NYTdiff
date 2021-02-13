@@ -1,6 +1,18 @@
-2021-02-13 11:57:48,762          root     INFO: Starting script
-2021-02-13 11:57:49,687          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-13 11:57:50,388          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-13 11:57:51,092          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-13 11:57:51,348          root     INFO: Parsing R7 - Brasil
-2021-02-13 11:57:58,381          root     INFO: Finished script
+2021-02-13 12:31:20,325          root     INFO: Starting script
+2021-02-13 12:31:21,355          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-13 12:31:22,207          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-13 12:31:23,061          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-13 12:31:23,288          root     INFO: Parsing R7 - Brasil
+2021-02-13 12:31:23,878          root     INFO: <del>Simbiose</del> <ins>Livro sobre relações entre Odebrecht e governo é antídoto ao revisionismo</ins>
+2021-02-13 12:31:25,719          root     INFO: Media ready with ids: 1360567250986672131
+2021-02-13 12:31:25,720          root     INFO: Text to tweet: Modificação do Título
+2021-02-13 12:31:25,720          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/02/simbiose.shtml
+2021-02-13 12:31:25,728          root     INFO: Replying to: 1360552128218079232
+2021-02-13 12:31:26,025          root     INFO: Id to store: 1360567253029249026
+2021-02-13 12:31:26,032          root     INFO: Entre 2005 <del>e, tudo 015,</del> <ins>e 2015,</ins> adotaram-se diversas políticas públicas que, ao mesmo tempo, derrubaram a produtividade, comprometeram as finanças públicas, reforçaram a desigualdade de oportunidades e acabaram nos jogando na recessão de 2014-16. Um recorde de equívocos até para um país acostumado a errar muito. <del>Houve fechamento da economia e proteção a oligopólios. Benefícios tributários para setores e indústrias específicas, sem avaliação de impacto e com perda de receita fiscal. Foram alterados, para pior, os marcos regulatórios do setor elétrico e de petróleo. Criaramse empresas estatais desnecessárias. Distribuíram-se subsídios a empresas com capacidade de tomar dinheiro em mercado. A lista é grande, e tomaria todo o espaço da coluna se pretendesse ser exaustiva.</del> Leia mais (02/12/2021 - 23h15)
+2021-02-13 12:31:28,054          root     INFO: Media ready with ids: 1360567260604153859
+2021-02-13 12:31:28,055          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-13 12:31:28,055          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/02/simbiose.shtml
+2021-02-13 12:31:28,063          root     INFO: Replying to: 1360567253029249026
+2021-02-13 12:31:28,337          root     INFO: Id to store: 1360567262688780294
+2021-02-13 12:31:35,227          root     INFO: Finished script
