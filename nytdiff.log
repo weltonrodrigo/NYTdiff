@@ -1,13 +1,8 @@
-2021-02-14 23:26:03,185          root     INFO: Starting script
-2021-02-14 23:26:04,082          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-14 23:26:04,776          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-14 23:26:05,476          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-14 23:26:05,693          root     INFO: Parsing R7 - Brasil
-2021-02-14 23:26:06,145          root     INFO: Vagner Mancini conversou com o elenco para definir a estratégia para enfrentar o Flamengo. A lembrança dos 5 a 1 do primeiro turno e dos 4 a 1 sofridos no Maracanã, na visita que derrubou <del>Fabio</del> <ins>Fábio</ins> Carille em 2019, resultou na ideia de que recuar seria a melhor opção para enfrentar o melhor elenco do Brasil. Leia mais (02/14/2021 - 18h48)
-2021-02-14 23:26:07,980          root     INFO: Media ready with ids: 1361094400793858053
-2021-02-14 23:26:07,981          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-14 23:26:07,981          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/02/flamengo-nao-joga-bem-mas-e-favorito-na-decisao-contra-o-inter.shtml
-2021-02-14 23:26:07,991          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/02/flamengo-nao-joga-bem-mas-e-favorito-na-decisao-contra-o-inter.shtml
-2021-02-14 23:26:08,175          root     INFO: Replying to: 1361094402354143235
-2021-02-14 23:26:08,399          root     INFO: Id to store: 1361094403096514560
-2021-02-14 23:26:15,393          root     INFO: Finished script
+2021-02-14 23:37:07,217          root     INFO: Starting script
+2021-02-14 23:37:08,316          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-14 23:37:08,994          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-14 23:37:09,669          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-14 23:37:09,934          root     INFO: Parsing R7 - Brasil
+2021-02-14 23:37:12,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49067
+2021-02-14 23:37:15,907          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/dem-discute-lancar-candidato-a-presidencia-para-afastar-ideia-de-que-apoiara-bolsonaro-em-2022.shtml
+2021-02-14 23:37:15,908          root     INFO: Finished script
