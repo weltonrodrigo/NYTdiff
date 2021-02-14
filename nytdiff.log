@@ -1,12 +1,8 @@
-2021-02-14 15:58:52,130          root     INFO: Starting script
-2021-02-14 15:58:53,351          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-14 15:58:54,018          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-14 15:58:54,687          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-14 15:58:54,789          root     INFO: Parsing R7 - Brasil
-2021-02-14 15:58:57,307          root     INFO: <del>Teor</del> <ins>Tuíte</ins> do <del>tuíte do Exército</del> <ins>general Villas Bôas</ins> sobre Lula foi <del>atenuado e discutido por hoje</del> <ins>atenuado; atuais</ins> ministros <ins>de Bolsonaro discutiram o texto</ins>
-2021-02-14 15:58:59,058          root     INFO: Media ready with ids: 1360981872252190721
-2021-02-14 15:58:59,059          root     INFO: Text to tweet: Modificação do Título
-2021-02-14 15:58:59,059          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/teor-do-tuite-do-exercito-sobre-lula-foi-atenuado-e-discutido-por-hoje-ministros.shtml
-2021-02-14 15:58:59,069          root     INFO: Replying to: 1360980120924733442
-2021-02-14 15:58:59,309          root     INFO: Id to store: 1360981873783169025
-2021-02-14 15:59:03,864          root     INFO: Finished script
+2021-02-14 16:38:59,413          root     INFO: Starting script
+2021-02-14 16:39:00,320          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-14 16:39:01,011          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-14 16:39:01,703          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-14 16:39:01,864          root     INFO: Parsing R7 - Brasil
+2021-02-14 16:39:04,664          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/tuite-do-general-villas-boas-sobre-lula-foi-atenuado-atuais-ministros-de-bolsonaro-discutiram-o-texto.shtml
+2021-02-14 16:39:09,463          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/teor-do-tuite-do-exercito-sobre-lula-foi-atenuado-e-discutido-por-hoje-ministros.shtml
+2021-02-14 16:39:09,468          root     INFO: Finished script
