@@ -1,6 +1,25 @@
-2021-02-15 02:57:50,005          root     INFO: Starting script
-2021-02-15 02:57:50,880          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-15 02:57:51,564          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-15 02:57:52,249          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-15 02:57:52,391          root     INFO: Parsing R7 - Brasil
-2021-02-15 02:57:58,518          root     INFO: Finished script
+2021-02-15 03:25:21,145          root     INFO: Starting script
+2021-02-15 03:25:22,367          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-15 03:25:23,194          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-15 03:25:24,043          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-15 03:25:24,325          root     INFO: Parsing R7 - Brasil
+2021-02-15 03:25:24,992          root     INFO: Com <del>a chamada</del> <ins>o enunciado</ins> "Diplomacia da vacina eleva influência da China na Europa", o Wall Street Journal noticia que Hungria e Sérvia já estão usando, Montenegro e Macedônia começam em dias e Alemanha e Áustria também querem. Leia mais (02/14/2021 - 21h11)
+2021-02-15 03:25:26,875          root     INFO: Media ready with ids: 1361154626456805376
+2021-02-15 03:25:26,876          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-15 03:25:26,876          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/eua-cortam-vacina-e-empurram-europa-e-america-latina-para-a-china.shtml
+2021-02-15 03:25:26,884          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/eua-cortam-vacina-e-empurram-europa-e-america-latina-para-a-china.shtml
+2021-02-15 03:25:27,118          root     INFO: Replying to: 1361154628163940352
+2021-02-15 03:25:27,403          root     INFO: Id to store: 1361154629111853056
+2021-02-15 03:25:33,317          root     INFO: New article tracked: http://noticias.r7.com/brasil/familia-que-perdeu-bebe-por-inalacao-de-liquido-e-indenizada-14022021
+2021-02-15 03:25:33,329          root     INFO: New article tracked: http://noticias.r7.com/brasil/salvador-tem-domingo-de-carnaval-de-praias-cheias-e-folioes-saudosos-14022021
+2021-02-15 03:25:33,340          root     INFO: New article tracked: http://noticias.r7.com/brasil/governos-e-industria-buscam-saida-para-troller-14022021
+2021-02-15 03:25:33,350          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-dois-meses-brasil-coloca-4-fabricas-de-veiculos-a-venda-14022021
+2021-02-15 03:25:33,362          root     INFO: New article tracked: http://noticias.r7.com/brasil/tropa-de-choque-deixa-reformas-em-2-plano-14022021
+2021-02-15 03:25:33,374          root     INFO: New article tracked: http://noticias.r7.com/brasil/cresce-a-dependencia-do-brasil-para-a-china-14022021
+2021-02-15 03:25:33,385          root     INFO: New article tracked: http://noticias.r7.com/brasil/vice-presidente-da-camara-critica-decretos-de-bolsonaro-sobre-armas-14022021
+2021-02-15 03:25:33,397          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-do-stj-marco-buzzi-e-internado-com-covid-19-em-brasilia-14022021
+2021-02-15 03:25:33,407          root     INFO: New article tracked: http://noticias.r7.com/brasil/desembargador-manda-youtube-reativar-canais-de-bolsonarista-14022021
+2021-02-15 03:25:33,420          root     INFO: New article tracked: http://noticias.r7.com/brasil/clientes-que-encontraram-caco-de-vidro-em-comida-serao-indenizados-14022021
+2021-02-15 03:25:33,434          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-filosofia-do-coletivismo-ignora-a-natureza-humana-14022021
+2021-02-15 03:25:33,447          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-celebra-apreensao-de-drogas-na-bahia-pela-pf-14022021
+2021-02-15 03:25:33,625          root     INFO: Finished script
