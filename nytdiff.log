@@ -1,8 +1,23 @@
-2021-02-16 16:39:58,600          root     INFO: Starting script
-2021-02-16 16:39:59,459          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-16 16:40:00,125          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-16 16:40:00,795          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-16 16:40:00,902          root     INFO: Parsing R7 - Brasil
-2021-02-16 16:40:03,580          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49073
-2021-02-16 16:40:08,258          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/intervencao-do-supremo-na-politica-causa-uma-lambanca-completa-diz-cientista-politico.shtml
-2021-02-16 16:40:08,261          root     INFO: Finished script
+2021-02-16 17:12:45,579          root     INFO: Starting script
+2021-02-16 17:12:46,495          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-16 17:12:47,189          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-16 17:12:47,874          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-16 17:12:48,039          root     INFO: Parsing R7 - Brasil
+2021-02-16 17:12:48,443          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2021/02/lei-geral-de-protecao-de-dados-nao-combina-com-megavazamentos.shtml
+2021-02-16 17:12:48,454          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/02/e-terraplanismo-dizer-que-lobato-nao-era-racista-ou-que-cloroquina-funciona.shtml
+2021-02-16 17:12:50,474          root     INFO: Com comentário de 'três anos depois', Villas Bôas ironiza crítica de Fachin sobre pressão ao <del>STF</del> <ins>Supremo</ins>
+2021-02-16 17:12:52,252          root     INFO: Media ready with ids: 1361725242134179846
+2021-02-16 17:12:52,253          root     INFO: Text to tweet: Modificação do Título
+2021-02-16 17:12:52,253          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/com-comentario-de-tres-anos-depois-villas-boas-ironiza-critica-de-fachin-sobre-pressao-ao-stf.shtml
+2021-02-16 17:12:52,262          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/com-comentario-de-tres-anos-depois-villas-boas-ironiza-critica-de-fachin-sobre-pressao-ao-stf.shtml
+2021-02-16 17:12:52,437          root     INFO: Replying to: 1361725243585417222
+2021-02-16 17:12:52,654          root     INFO: Id to store: 1361725244285812737
+2021-02-16 17:12:52,660          root     INFO: O ex-comandante do Exército Eduardo Villas Bôas <del>ironizou, no Twitter,</del> <ins>ironizou nesta terça-feira (16)</ins> uma crítica <del>do</del> <ins>aos militares feita um dia antes pelo</ins> ministro <ins>Edson Fachin,</ins> do Supremo Tribunal Federal <del>(STF) Edson Fachin aos militares feita nesta segunda-feira (15).</del> <ins>(STF).</ins> Leia mais (02/16/2021 - 12h46)
+2021-02-16 17:12:54,405          root     INFO: Media ready with ids: 1361725250841554949
+2021-02-16 17:12:54,406          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-16 17:12:54,406          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/com-comentario-de-tres-anos-depois-villas-boas-ironiza-critica-de-fachin-sobre-pressao-ao-stf.shtml
+2021-02-16 17:12:54,416          root     INFO: Replying to: 1361725244285812737
+2021-02-16 17:12:54,663          root     INFO: Id to store: 1361725252699627521
+2021-02-16 17:12:58,905          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/02/o-verdadeiro-carnaval.shtml
+2021-02-16 17:12:58,910          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/02/2022-ja-comecou.shtml
+2021-02-16 17:12:58,911          root     INFO: Finished script
