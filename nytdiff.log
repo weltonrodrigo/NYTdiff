@@ -1,9 +1,16 @@
-2021-02-16 11:31:44,672          root     INFO: Starting script
-2021-02-16 11:31:45,699          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-16 11:31:46,536          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-16 11:31:47,380          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-16 11:31:47,661          root     INFO: Parsing R7 - Brasil
-2021-02-16 11:31:55,012          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/veja-os-membros-das-mesas-e-comissoes-da-camara-e-do-senado-16022021
-2021-02-16 11:31:55,029          root     INFO: New article tracked: http://noticias.r7.com/brasil/novas-doses-de-vacina-so-serao-entregues-daqui-a-uma-semana-16022021
-2021-02-16 11:31:55,041          root     INFO: New article tracked: http://noticias.r7.com/brasil/carnaval-sem-festa-e-feriado-saiba-se-voce-pode-folgar-na-data-16022021
-2021-02-16 11:31:55,454          root     INFO: Finished script
+2021-02-16 11:46:49,883          root     INFO: Starting script
+2021-02-16 11:46:50,848          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-16 11:46:51,552          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-16 11:46:52,260          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-16 11:46:52,442          root     INFO: Parsing R7 - Brasil
+2021-02-16 11:46:52,977          root     INFO: Só pra fazer um comentário que é a cara da internet: o único problema com esse livro do Ricardo Terto é que ele acaba. E muito rápido. "Quem é essa gente toda aqui?" faz parte da "Coleção 2020 ? Ensaios sobre a pandemia", que a Todavia lançou ano passado e sobre a qual eu já escrevi quando resenhei "Lupa da alma", da psicanalista Maria Homem. <del>(colocar link aqui)</del> Leia mais (02/15/2021 - 23h15)
+2021-02-16 11:46:54,806          root     INFO: Media ready with ids: 1361643212205678594
+2021-02-16 11:46:54,806          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-16 11:46:54,807          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/02/ricardo-terto-fala-sobre-internet-e-acessibilidade-no-brasil-da-pandemia.shtml
+2021-02-16 11:46:54,815          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/02/ricardo-terto-fala-sobre-internet-e-acessibilidade-no-brasil-da-pandemia.shtml
+2021-02-16 11:46:54,983          root     INFO: Replying to: 1361643213669474304
+2021-02-16 11:46:55,203          root     INFO: Id to store: 1361643214344761345
+2021-02-16 11:47:02,795          root     INFO: Removed http://noticias.r7.com/brasil/fotos/veja-os-membros-das-mesas-e-comissoes-da-camara-e-do-senado-16022021
+2021-02-16 11:47:02,799          root     INFO: Removed http://noticias.r7.com/brasil/carnaval-sem-festa-e-feriado-saiba-se-voce-pode-folgar-na-data-16022021
+2021-02-16 11:47:02,804          root     INFO: Removed http://noticias.r7.com/brasil/novas-doses-de-vacina-so-serao-entregues-daqui-a-uma-semana-16022021
+2021-02-16 11:47:02,805          root     INFO: Finished script
