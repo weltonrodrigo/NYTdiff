@@ -1,6 +1,20 @@
-2021-02-16 21:58:01,696          root     INFO: Starting script
-2021-02-16 21:58:02,603          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-16 21:58:03,295          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-16 21:58:03,981          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-16 21:58:04,124          root     INFO: Parsing R7 - Brasil
-2021-02-16 21:58:11,747          root     INFO: Finished script
+2021-02-16 22:25:53,563          root     INFO: Starting script
+2021-02-16 22:25:54,401          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-16 22:25:55,069          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-16 22:25:55,737          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-16 22:25:55,923          root     INFO: Parsing R7 - Brasil
+2021-02-16 22:25:58,454          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/tec/2021/02/bolsonaro-reclama-por-nao-receber-fotos-no-facebook-mas-usa-configuracao-que-impede.shtml
+2021-02-16 22:25:58,538          root     INFO: <del>Com comentário de 'três anos depois',</del> Villas Bôas ironiza crítica de <del>Fachin sobre pressão ao STF</del> <ins>Fachin; Gilmar vê 'deboche' e diz 'ditadura nunca mais'</ins>
+2021-02-16 22:26:00,273          root     INFO: Media ready with ids: 1361804044726059009
+2021-02-16 22:26:00,273          root     INFO: Text to tweet: Modificação do Título
+2021-02-16 22:26:00,273          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/com-comentario-de-tres-anos-depois-villas-boas-ironiza-critica-de-fachin-sobre-pressao-ao-stf.shtml
+2021-02-16 22:26:00,281          root     INFO: Replying to: 1361725252699627521
+2021-02-16 22:26:00,543          root     INFO: Id to store: 1361804046311575555
+2021-02-16 22:26:00,550          root     INFO: O ex-comandante do Exército Eduardo Villas Bôas <del>ironizou, no Twitter,</del> <ins>ironizou nesta terça-feira (16)</ins> uma crítica <del>do</del> <ins>aos militares feita um dia antes pelo</ins> ministro <ins>Edson Fachin,</ins> do Supremo Tribunal Federal <del>(STF) Edson Fachin aos militares feita nesta segunda-feira (15).</del> <ins>(STF). Sem citar o general, Gilmar Mendes reagiu.</ins> Leia mais (02/16/2021 - 12h46)
+2021-02-16 22:26:02,402          root     INFO: Media ready with ids: 1361804053399937025
+2021-02-16 22:26:02,402          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-16 22:26:02,402          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/com-comentario-de-tres-anos-depois-villas-boas-ironiza-critica-de-fachin-sobre-pressao-ao-stf.shtml
+2021-02-16 22:26:02,411          root     INFO: Replying to: 1361804046311575555
+2021-02-16 22:26:02,678          root     INFO: Id to store: 1361804055253770241
+2021-02-16 22:26:07,054          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/livro-de-ex-chefe-do-exercito-expoe-a-volta-da-politica-aos-quarteis.shtml
+2021-02-16 22:26:07,055          root     INFO: Finished script
