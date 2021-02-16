@@ -1,18 +1,13 @@
-2021-02-16 23:51:49,404          root     INFO: Starting script
-2021-02-16 23:51:50,260          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-16 23:51:50,942          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-16 23:51:51,627          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-16 23:51:51,895          root     INFO: Parsing R7 - Brasil
-2021-02-16 23:51:59,826          root     INFO: Removed http://noticias.r7.com/brasil/ministro-ricardo-salles-tem-teste-positivo-para-covid-19-16022021
-2021-02-16 23:51:59,835          root     INFO: Removed http://noticias.r7.com/brasil/gilmar-mendes-do-stf-rebate-villas-boas-ditadura-nunca-mais-16022021
-2021-02-16 23:51:59,842          root     INFO: Removed http://noticias.r7.com/brasil/senadora-apresenta-projetos-para-sustar-efeitos-de-decretos-de-armas-16022021
-2021-02-16 23:51:59,846          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-aproveita-recesso-e-faz-mergulho-em-santa-catarina-16022021
-2021-02-16 23:51:59,851          root     INFO: Removed http://noticias.r7.com/brasil/apos-fim-de-doses-salvador-suspende-vacinacao-contra-covid-19-16022021
-2021-02-16 23:51:59,856          root     INFO: Removed http://noticias.r7.com/brasil/villas-boas-ironiza-critica-de-fachin-a-pressao-sobre-stf-3-anos-depois-16022021
-2021-02-16 23:51:59,860          root     INFO: Removed http://noticias.r7.com/brasil/teles-tem-15-dias-para-explicar-vazamento-de-dados-de-100-mi-16022021
-2021-02-16 23:51:59,865          root     INFO: Removed http://noticias.r7.com/brasil/equivocos-do-governo-federal-levam-a-falta-de-vacinas-afirma-fnp-16022021
-2021-02-16 23:51:59,872          root     INFO: Removed http://noticias.r7.com/brasil/bombeiros-do-mt-capturam-jiboia-de-2-metros-em-terreno-baldio-16022021
-2021-02-16 23:51:59,876          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-saude-compra-54-milhoes-de-doses-da-coronavac-16022021
-2021-02-16 23:51:59,881          root     INFO: Removed http://noticias.r7.com/brasil/marco-legal-do-cambio-facilitara-entrada-do-brasil-na-ocde-diz-cni-16022021
-2021-02-16 23:51:59,890          root     INFO: Removed http://noticias.r7.com/brasil/assessor-de-bolsonaro-nega-desgaste-de-ernesto-araujo-16022021
-2021-02-16 23:51:59,890          root     INFO: Finished script
+2021-02-16 23:57:58,890          root     INFO: Starting script
+2021-02-16 23:58:00,117          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-16 23:58:00,832          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-16 23:58:01,560          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-16 23:58:01,721          root     INFO: Parsing R7 - Brasil
+2021-02-16 23:58:04,789          root     INFO: Justiça concede liminar para suspender Carnaval <del>Digital</del> <ins>digital</ins> de SP
+2021-02-16 23:58:06,656          root     INFO: Media ready with ids: 1361827223737614337
+2021-02-16 23:58:06,657          root     INFO: Text to tweet: Modificação do Título
+2021-02-16 23:58:06,657          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/justica-concede-liminar-para-suspender-carnaval-digital-de-sp.shtml
+2021-02-16 23:58:06,667          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/justica-concede-liminar-para-suspender-carnaval-digital-de-sp.shtml
+2021-02-16 23:58:06,854          root     INFO: Replying to: 1361827225633439750
+2021-02-16 23:58:07,077          root     INFO: Id to store: 1361827226308730880
+2021-02-16 23:58:12,609          root     INFO: Finished script
