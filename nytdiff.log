@@ -1,15 +1,18 @@
-2021-02-16 23:37:29,815          root     INFO: Starting script
-2021-02-16 23:37:30,666          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-16 23:37:31,359          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-16 23:37:32,053          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-16 23:37:32,188          root     INFO: Parsing R7 - Brasil
-2021-02-16 23:37:35,103          root     INFO: O presidente Jair Bolsonaro (sem partido) tem o recurso de envio de fotos por comentários <del>desativada</del> <ins>desativado</ins> em seu Facebook. Leia mais (02/16/2021 - 19h07)
-2021-02-16 23:37:36,959          root     INFO: Media ready with ids: 1361822066048176129
-2021-02-16 23:37:36,959          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-16 23:37:36,960          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/tec/2021/02/bolsonaro-reclama-por-nao-receber-fotos-no-facebook-mas-usa-configuracao-que-impede.shtml
-2021-02-16 23:37:36,968          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/tec/2021/02/bolsonaro-reclama-por-nao-receber-fotos-no-facebook-mas-usa-configuracao-que-impede.shtml
-2021-02-16 23:37:37,141          root     INFO: Replying to: 1361822067830779906
-2021-02-16 23:37:37,429          root     INFO: Id to store: 1361822068644466700
-2021-02-16 23:37:39,737          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/02/mato-grosso-transforma-seu-destino-com-boom-movido-por-china-fe-e-bolsonaro.shtml
-2021-02-16 23:37:42,482          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/caldo-entornou-diz-mourao-sobre-aumento-do-desmatamento-na-amazonia.shtml
-2021-02-16 23:37:42,484          root     INFO: Finished script
+2021-02-16 23:51:49,404          root     INFO: Starting script
+2021-02-16 23:51:50,260          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-16 23:51:50,942          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-16 23:51:51,627          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-16 23:51:51,895          root     INFO: Parsing R7 - Brasil
+2021-02-16 23:51:59,826          root     INFO: Removed http://noticias.r7.com/brasil/ministro-ricardo-salles-tem-teste-positivo-para-covid-19-16022021
+2021-02-16 23:51:59,835          root     INFO: Removed http://noticias.r7.com/brasil/gilmar-mendes-do-stf-rebate-villas-boas-ditadura-nunca-mais-16022021
+2021-02-16 23:51:59,842          root     INFO: Removed http://noticias.r7.com/brasil/senadora-apresenta-projetos-para-sustar-efeitos-de-decretos-de-armas-16022021
+2021-02-16 23:51:59,846          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-aproveita-recesso-e-faz-mergulho-em-santa-catarina-16022021
+2021-02-16 23:51:59,851          root     INFO: Removed http://noticias.r7.com/brasil/apos-fim-de-doses-salvador-suspende-vacinacao-contra-covid-19-16022021
+2021-02-16 23:51:59,856          root     INFO: Removed http://noticias.r7.com/brasil/villas-boas-ironiza-critica-de-fachin-a-pressao-sobre-stf-3-anos-depois-16022021
+2021-02-16 23:51:59,860          root     INFO: Removed http://noticias.r7.com/brasil/teles-tem-15-dias-para-explicar-vazamento-de-dados-de-100-mi-16022021
+2021-02-16 23:51:59,865          root     INFO: Removed http://noticias.r7.com/brasil/equivocos-do-governo-federal-levam-a-falta-de-vacinas-afirma-fnp-16022021
+2021-02-16 23:51:59,872          root     INFO: Removed http://noticias.r7.com/brasil/bombeiros-do-mt-capturam-jiboia-de-2-metros-em-terreno-baldio-16022021
+2021-02-16 23:51:59,876          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-saude-compra-54-milhoes-de-doses-da-coronavac-16022021
+2021-02-16 23:51:59,881          root     INFO: Removed http://noticias.r7.com/brasil/marco-legal-do-cambio-facilitara-entrada-do-brasil-na-ocde-diz-cni-16022021
+2021-02-16 23:51:59,890          root     INFO: Removed http://noticias.r7.com/brasil/assessor-de-bolsonaro-nega-desgaste-de-ernesto-araujo-16022021
+2021-02-16 23:51:59,890          root     INFO: Finished script
