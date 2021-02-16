@@ -1,6 +1,13 @@
-2021-02-16 12:59:44,451          root     INFO: Starting script
-2021-02-16 12:59:45,348          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-16 12:59:46,053          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-16 12:59:46,762          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-16 12:59:46,968          root     INFO: Parsing R7 - Brasil
-2021-02-16 12:59:54,436          root     INFO: Finished script
+2021-02-16 13:27:55,466          root     INFO: Starting script
+2021-02-16 13:27:56,519          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-16 13:27:57,343          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-16 13:27:58,175          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-16 13:27:58,392          root     INFO: Parsing R7 - Brasil
+2021-02-16 13:28:02,960          root     INFO: <del>Indústria do aço, uma das mais poluentes do mundo, quer melhorar</del> <ins>Siderurgia aposta em 'aço verde' por</ins> sustentabilidade
+2021-02-16 13:28:04,806          root     INFO: Media ready with ids: 1361668671526100992
+2021-02-16 13:28:04,807          root     INFO: Text to tweet: Modificação do Título
+2021-02-16 13:28:04,807          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/02/industria-do-aco-uma-das-mais-poluentes-do-mundo-quer-melhorar-sustentabilidade.shtml
+2021-02-16 13:28:04,818          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/02/industria-do-aco-uma-das-mais-poluentes-do-mundo-quer-melhorar-sustentabilidade.shtml
+2021-02-16 13:28:05,118          root     INFO: Replying to: 1361668673623257092
+2021-02-16 13:28:05,382          root     INFO: Id to store: 1361668674516619264
+2021-02-16 13:28:07,733          root     INFO: Finished script
