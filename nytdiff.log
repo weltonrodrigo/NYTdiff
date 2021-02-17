@@ -1,17 +1,15 @@
-2021-02-17 17:52:57,078          root     INFO: Starting script
-2021-02-17 17:52:58,245          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-17 17:52:58,936          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-17 17:52:59,623          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-17 17:52:59,835          root     INFO: Parsing R7 - Brasil
-2021-02-17 17:53:02,501          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/com-100-de-leitos-ocupados-prefeita-de-bauru-que-e-critica-de-doria-falta-a-reuniao-no-palacio-dos-bandeirantes.shtml
-2021-02-17 17:53:02,539          root     INFO: PGR prepara <del>denuncia</del> <ins>denúncia</ins> contra deputado bolsonarista preso após ataques a ministros do Supremo
-2021-02-17 17:53:04,328          root     INFO: Media ready with ids: 1362097746807816192
-2021-02-17 17:53:04,328          root     INFO: Text to tweet: Modificação do Título
-2021-02-17 17:53:04,329          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pgr-prepara-denuncia-contra-deputado-bolsonarista-preso-apos-ataques-a-ministros-do-supremo.shtml
-2021-02-17 17:53:04,336          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pgr-prepara-denuncia-contra-deputado-bolsonarista-preso-apos-ataques-a-ministros-do-supremo.shtml
-2021-02-17 17:53:04,530          root     INFO: Replying to: 1362097748460322817
-2021-02-17 17:53:04,747          root     INFO: Id to store: 1362097749160779777
-2021-02-17 17:53:04,763          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-da-cinco-dias-para-ministerio-da-justica-dizer-se-cooperacao-internacional-na-lava-jato-foi-oficial.shtml
-2021-02-17 17:53:09,530          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/apos-idas-e-vindas-nomeacao-de-joao-roma-em-ministerio-foi-definida-depois-de-ligacao-de-presidente-do-republicanos-a-ramos.shtml
-2021-02-17 17:53:09,534          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/presidente-do-dem-diz-lamentar-que-aliado-tenha-aceitado-convite-para-ministerio-e-afirma-que-se-mantera-distante-do-governo.shtml
-2021-02-17 17:53:09,535          root     INFO: Finished script
+2021-02-17 17:57:48,462          root     INFO: Starting script
+2021-02-17 17:57:49,307          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-17 17:57:49,982          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-17 17:57:50,655          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-17 17:57:50,763          root     INFO: Parsing R7 - Brasil
+2021-02-17 17:57:53,626          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stf-ratifica-decisao-de-moraes-de-prender-deputado-daniel-silveira-apos-ataques-a-corte.shtml
+2021-02-17 17:57:53,693          root     INFO: O ministro do STF (Supremo Tribunal Federal) Ricardo Lewandowski deu prazo de cinco dias para que o Ministério da Justiça e Segurança Pública realizou ou intermediou cooperação entre procuradores da Lava Jato e órgãos internacionais e órgãos internacionais durante a operação. Leia mais (02/17/2021 - <del>14h07)</del> <ins>14h40)</ins>
+2021-02-17 17:57:55,533          root     INFO: Media ready with ids: 1362098968046501892
+2021-02-17 17:57:55,533          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-17 17:57:55,533          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-da-cinco-dias-para-ministerio-da-justica-dizer-se-cooperacao-internacional-na-lava-jato-foi-oficial.shtml
+2021-02-17 17:57:55,544          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-da-cinco-dias-para-ministerio-da-justica-dizer-se-cooperacao-internacional-na-lava-jato-foi-oficial.shtml
+2021-02-17 17:57:55,726          root     INFO: Replying to: 1362098969795584004
+2021-02-17 17:57:56,009          root     INFO: Id to store: 1362098970772783107
+2021-02-17 17:58:01,173          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/novo-ministro-da-cidadania-diz-que-esta-sendo-afetado-por-briga-entre-maia-e-acm-neto.shtml
+2021-02-17 17:58:01,174          root     INFO: Finished script
