@@ -1,18 +1,6 @@
-2021-02-17 19:47:03,580          root     INFO: Starting script
-2021-02-17 19:47:04,446          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-17 19:47:05,128          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-17 19:47:05,805          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-17 19:47:06,183          root     INFO: Parsing R7 - Brasil
-2021-02-17 19:47:08,984          root     INFO: PGR <del>prepara</del> denuncia <del>contra</del> deputado bolsonarista <del>preso após</del> <ins>por</ins> ataques a ministros do Supremo
-2021-02-17 19:47:10,830          root     INFO: Media ready with ids: 1362126462833278977
-2021-02-17 19:47:10,831          root     INFO: Text to tweet: Modificação do Título
-2021-02-17 19:47:10,831          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pgr-prepara-denuncia-contra-deputado-bolsonarista-preso-apos-ataques-a-ministros-do-supremo.shtml
-2021-02-17 19:47:10,840          root     INFO: Replying to: 1362097749160779777
-2021-02-17 19:47:11,086          root     INFO: Id to store: 1362126464687177731
-2021-02-17 19:47:11,092          root     INFO: A PGR (Procuradoria-Geral da República) <del>prepara uma denúncia contra</del> <ins>denunciou</ins> o deputado <ins>federal</ins> Daniel Silveira <del>(PSL-RJ). A expectativa é que a peça seja enviada ao</del> <ins>(PSL-RJ) nesta quarta-feira (17) sob acusação de praticar agressões verbais e graves ameaças contra ministros do</ins> STF (Supremo Tribunal <del>Federal) nesta quarta-feira (17).</del> <ins>Federal).</ins> Leia mais (02/17/2021 - 14h25)
-2021-02-17 19:47:12,767          root     INFO: Media ready with ids: 1362126471247101957
-2021-02-17 19:47:12,768          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-17 19:47:12,768          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pgr-prepara-denuncia-contra-deputado-bolsonarista-preso-apos-ataques-a-ministros-do-supremo.shtml
-2021-02-17 19:47:12,780          root     INFO: Replying to: 1362126464687177731
-2021-02-17 19:47:13,004          root     INFO: Id to store: 1362126472824119297
-2021-02-17 19:47:17,586          root     INFO: Finished script
+2021-02-17 19:57:49,254          root     INFO: Starting script
+2021-02-17 19:57:50,170          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-17 19:57:50,880          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-17 19:57:51,581          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-17 19:57:51,787          root     INFO: Parsing R7 - Brasil
+2021-02-17 19:57:58,973          root     INFO: Finished script
