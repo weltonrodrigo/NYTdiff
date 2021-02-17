@@ -1,6 +1,10 @@
-2021-02-17 23:52:49,697          root     INFO: Starting script
-2021-02-17 23:52:50,855          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-17 23:52:51,546          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-17 23:52:52,237          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-17 23:52:52,422          root     INFO: Parsing R7 - Brasil
-2021-02-17 23:53:00,066          root     INFO: Finished script
+2021-02-17 23:57:51,093          root     INFO: Starting script
+2021-02-17 23:57:51,943          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-17 23:57:52,618          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-17 23:57:53,288          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-17 23:57:53,455          root     INFO: Parsing R7 - Brasil
+2021-02-17 23:57:53,868          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/02/extremismo-bolsonarista-e-alimentado-e-protegido-pelo-planalto.shtml
+2021-02-17 23:57:55,966          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/02/extremismo-bolsonarista-e-alimentado-e-protegido-pelo-planalto.shtml
+2021-02-17 23:58:00,471          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/02/entenda-se-afinal-os-livros-ficaram-mais-caros-ou-nao-neste-ultimo-ano.shtml
+2021-02-17 23:58:00,475          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/jantar-de-doria-que-abriu-crise-no-psdb-teve-surpresa-acusacoes-de-traicao-e-vinho-de-ultima-hora.shtml
+2021-02-17 23:58:00,476          root     INFO: Finished script
