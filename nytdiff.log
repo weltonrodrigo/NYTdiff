@@ -1,13 +1,10 @@
-2021-02-16 23:57:58,890          root     INFO: Starting script
-2021-02-16 23:58:00,117          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-16 23:58:00,832          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-16 23:58:01,560          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-16 23:58:01,721          root     INFO: Parsing R7 - Brasil
-2021-02-16 23:58:04,789          root     INFO: Justiça concede liminar para suspender Carnaval <del>Digital</del> <ins>digital</ins> de SP
-2021-02-16 23:58:06,656          root     INFO: Media ready with ids: 1361827223737614337
-2021-02-16 23:58:06,657          root     INFO: Text to tweet: Modificação do Título
-2021-02-16 23:58:06,657          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/justica-concede-liminar-para-suspender-carnaval-digital-de-sp.shtml
-2021-02-16 23:58:06,667          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/justica-concede-liminar-para-suspender-carnaval-digital-de-sp.shtml
-2021-02-16 23:58:06,854          root     INFO: Replying to: 1361827225633439750
-2021-02-16 23:58:07,077          root     INFO: Id to store: 1361827226308730880
-2021-02-16 23:58:12,609          root     INFO: Finished script
+2021-02-17 00:57:27,320          root     INFO: Starting script
+2021-02-17 00:57:28,152          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-17 00:57:28,837          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-17 00:57:29,506          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-17 00:57:29,650          root     INFO: Parsing R7 - Brasil
+2021-02-17 00:57:30,031          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/com-a-corda-no-pescoco-general-pesadello-tenta-provar-que-vai-trazer-vacina.shtml
+2021-02-17 00:57:30,048          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/africa-do-sul-tenta-devolver-as-vacinas-da-astrazeneca.shtml
+2021-02-17 00:57:36,736          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/por-duas-horas-biden-e-xi-conversam-sobre-direitos-comercio-e-clima.shtml
+2021-02-17 00:57:36,740          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/02/carta-a-nova-diretora-geral-da-omc.shtml
+2021-02-17 00:57:36,741          root     INFO: Finished script
