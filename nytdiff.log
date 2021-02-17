@@ -1,6 +1,13 @@
-2021-02-17 21:54:17,108          root     INFO: Starting script
-2021-02-17 21:54:18,027          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-17 21:54:18,724          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-17 21:54:19,425          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-17 21:54:19,629          root     INFO: Parsing R7 - Brasil
-2021-02-17 21:54:26,926          root     INFO: Finished script
+2021-02-17 22:16:27,643          root     INFO: Starting script
+2021-02-17 22:16:28,482          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-17 22:16:29,166          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-17 22:16:29,844          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-17 22:16:30,004          root     INFO: Parsing R7 - Brasil
+2021-02-17 22:16:33,084          root     INFO: Preso em flagrante na noite <del>desta</del> <ins>de</ins> terça-feira (16) por determinação do ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), o deputado federal Daniel Silveira (PSL-RJ) causou confusão no IML (Instituto Médico Legal) por resistir a colocar uma máscara, em função da pandemia do novo coronavírus. Leia mais (02/17/2021 - 12h32)
+2021-02-17 22:16:34,832          root     INFO: Media ready with ids: 1362164060842786821
+2021-02-17 22:16:34,833          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-17 22:16:34,833          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/deputado-daniel-silveira-resiste-a-usar-mascara-no-iml-e-levanta-a-voz-para-policial-civil-veja-video.shtml
+2021-02-17 22:16:34,841          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/deputado-daniel-silveira-resiste-a-usar-mascara-no-iml-e-levanta-a-voz-para-policial-civil-veja-video.shtml
+2021-02-17 22:16:35,003          root     INFO: Replying to: 1362164062424092678
+2021-02-17 22:16:35,246          root     INFO: Id to store: 1362164063095111686
+2021-02-17 22:16:39,714          root     INFO: Finished script
