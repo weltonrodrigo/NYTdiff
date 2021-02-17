@@ -1,28 +1,35 @@
-2021-02-17 21:21:19,869          root     INFO: Starting script
-2021-02-17 21:21:21,051          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-17 21:21:21,743          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-17 21:21:22,420          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-17 21:21:22,559          root     INFO: Parsing R7 - Brasil
-2021-02-17 21:21:24,753          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-e-aconselhado-a-evitar-crise-entre-poderes-apesar-de-contrariado-com-prisao-de-aliado.shtml
-2021-02-17 21:21:28,275          root     INFO: New article tracked: http://noticias.r7.com/brasil/partidos-irao-ao-conselho-de-etica-pedir-cassacao-de-daniel-silveira-17022021
-2021-02-17 21:21:28,286          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-presidente-do-senado-prender-parlamentar-so-em-grave-excecao-17022021
-2021-02-17 21:21:28,295          root     INFO: New article tracked: http://noticias.r7.com/brasil/entenda-por-quais-crimes-o-deputado-daniel-silveira-e-acusado-17022021
-2021-02-17 21:21:28,305          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-protocolara-denuncia-contra-daniel-silveira-por-ameacas-ao-stf-17022021
-2021-02-17 21:21:28,315          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-preso-por-atacar-o-stf-nao-sera-cassado-diz-criminalista-17022021
-2021-02-17 21:21:28,323          root     INFO: New article tracked: http://noticias.r7.com/brasil/weintraub-elogia-video-de-ataque-ao-stf-feito-por-deputado-preso-17022021
-2021-02-17 21:21:28,331          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-vai-apresentar-denuncia-contra-deputado-ao-supremo-17022021
-2021-02-17 21:21:28,339          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-confirma-por-unanimidade-prisao-de-daniel-silveira-17022021
-2021-02-17 21:21:28,347          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-inicia-sessao-que-decide-futuro-de-deputado-preso-assista-17022021
-2021-02-17 21:21:28,356          root     INFO: New article tracked: http://noticias.r7.com/brasil/bancada-da-bala-resiste-a-proposta-de-excludente-de-ilicitude-17022021
-2021-02-17 21:21:28,364          root     INFO: New article tracked: http://noticias.r7.com/brasil/mercado-reduz-estimativa-de-alta-do-pib-em-2021-para-343-17022021
-2021-02-17 21:21:28,372          root     INFO: New article tracked: http://noticias.r7.com/brasil/relembre-deputados-que-tambem-foram-presos-durante-mandato-17022021
-2021-02-17 21:21:28,382          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputados-federais-se-dividem-sobre-prisao-de-daniel-silveira-17022021
-2021-02-17 21:21:28,390          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministros-do-stf-acreditam-em-maioria-no-plenario-por-prisao-17022021
-2021-02-17 21:21:28,400          root     INFO: New article tracked: http://noticias.r7.com/brasil/lider-da-bancada-da-bala-no-congresso-declara-apoio-a-silveira-17022021
-2021-02-17 21:21:28,409          root     INFO: New article tracked: http://noticias.r7.com/brasil/prisao-de-daniel-silveira-nao-e-assunto-de-governo-afirma-lider-17022021
-2021-02-17 21:21:28,417          root     INFO: New article tracked: http://noticias.r7.com/brasil/video-deputado-desacata-policial-que-pede-para-ele-usar-mascara-17022021
-2021-02-17 21:21:28,425          root     INFO: New article tracked: http://noticias.r7.com/brasil/supremo-reforca-seguranca-apos-prisao-do-deputado-daniel-silveira-17022021
-2021-02-17 21:21:28,433          root     INFO: New article tracked: http://noticias.r7.com/brasil/demitido-apos-festa-ex-chefe-de-vigilancia-diz-ja-fui-julgado-17022021
-2021-02-17 21:21:28,443          root     INFO: New article tracked: http://noticias.r7.com/brasil/selecionados-na-2-chamada-tem-ate-dia-24-para-matricula-no-prouni-17022021
-2021-02-17 21:21:28,454          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49059
-2021-02-17 21:21:28,455          root     INFO: Finished script
+2021-02-17 21:44:41,153          root     INFO: Starting script
+2021-02-17 21:44:42,047          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-17 21:44:42,754          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-17 21:44:43,450          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-17 21:44:43,641          root     INFO: Parsing R7 - Brasil
+2021-02-17 21:44:44,067          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/02/sucessivos-fiascos-do-poderoso-barcelona-vao-alem-de-crise-tecnica-passageira.shtml
+2021-02-17 21:44:46,471          root     INFO: O presidente do Senado, Rodrigo Pacheco (DEM-MG), considerou nesta quarta-feira (17) gravíssimo os ataques feitos pelo deputado federal Daniel Silveira (PSL-RJ) a ministros do STF (Supremo Tribunal Federal). Por outro lado, também criticou a prisão do parlamentar, afirmando que prender alguém antes de julgamento deve ser tratado como "grave exceção". Pacheco usou suas redes sociais para comentar a prisão do deputado <del>federal.</del> <ins>federal</ins> Daniel Silveira. Na noite de terça-feira, o ministro Alexandre de Moraes determinou a prisão do parlamentar, após a postagem de um vídeo no qual ataca com palavras de baixo calão os ministros da Corte e exalta o Ato Institucional Número 5, que recrudesceu a ditadura militar no Brasil. Leia mais (02/17/2021 - 17h35)
+2021-02-17 21:44:48,446          root     INFO: Media ready with ids: 1362156064536481795
+2021-02-17 21:44:48,448          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-17 21:44:48,451          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/atentar-contra-democracia-e-gravissimo-mas-prisao-antes-de-julgamento-e-excecao-diz-pacheco.shtml
+2021-02-17 21:44:48,462          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/atentar-contra-democracia-e-gravissimo-mas-prisao-antes-de-julgamento-e-excecao-diz-pacheco.shtml
+2021-02-17 21:44:48,696          root     INFO: Replying to: 1362156066822324229
+2021-02-17 21:44:48,956          root     INFO: Id to store: 1362156067631808513
+2021-02-17 21:44:53,907          root     INFO: Removed http://noticias.r7.com/brasil/stf-inicia-sessao-que-decide-futuro-de-deputado-preso-assista-17022021
+2021-02-17 21:44:53,911          root     INFO: Removed http://noticias.r7.com/brasil/ministros-do-stf-acreditam-em-maioria-no-plenario-por-prisao-17022021
+2021-02-17 21:44:53,915          root     INFO: Removed http://noticias.r7.com/brasil/prisao-de-daniel-silveira-nao-e-assunto-de-governo-afirma-lider-17022021
+2021-02-17 21:44:53,919          root     INFO: Removed http://noticias.r7.com/brasil/weintraub-elogia-video-de-ataque-ao-stf-feito-por-deputado-preso-17022021
+2021-02-17 21:44:53,922          root     INFO: Removed http://noticias.r7.com/brasil/supremo-reforca-seguranca-apos-prisao-do-deputado-daniel-silveira-17022021
+2021-02-17 21:44:53,927          root     INFO: Removed http://noticias.r7.com/brasil/pgr-protocolara-denuncia-contra-daniel-silveira-por-ameacas-ao-stf-17022021
+2021-02-17 21:44:53,930          root     INFO: Removed http://noticias.r7.com/brasil/video-deputado-desacata-policial-que-pede-para-ele-usar-mascara-17022021
+2021-02-17 21:44:53,934          root     INFO: Removed http://noticias.r7.com/brasil/stf-confirma-por-unanimidade-prisao-de-daniel-silveira-17022021
+2021-02-17 21:44:53,938          root     INFO: Removed http://noticias.r7.com/brasil/lider-da-bancada-da-bala-no-congresso-declara-apoio-a-silveira-17022021
+2021-02-17 21:44:53,941          root     INFO: Removed http://noticias.r7.com/brasil/mercado-reduz-estimativa-de-alta-do-pib-em-2021-para-343-17022021
+2021-02-17 21:44:53,945          root     INFO: Removed http://noticias.r7.com/brasil/entenda-por-quais-crimes-o-deputado-daniel-silveira-e-acusado-17022021
+2021-02-17 21:44:53,949          root     INFO: Removed http://noticias.r7.com/brasil/relembre-deputados-que-tambem-foram-presos-durante-mandato-17022021
+2021-02-17 21:44:53,955          root     INFO: Removed http://noticias.r7.com/brasil/pgr-vai-apresentar-denuncia-contra-deputado-ao-supremo-17022021
+2021-02-17 21:44:53,959          root     INFO: Removed http://noticias.r7.com/brasil/partidos-irao-ao-conselho-de-etica-pedir-cassacao-de-daniel-silveira-17022021
+2021-02-17 21:44:53,964          root     INFO: Removed http://noticias.r7.com/brasil/selecionados-na-2-chamada-tem-ate-dia-24-para-matricula-no-prouni-17022021
+2021-02-17 21:44:53,968          root     INFO: Removed http://noticias.r7.com/brasil/para-presidente-do-senado-prender-parlamentar-so-em-grave-excecao-17022021
+2021-02-17 21:44:53,974          root     INFO: Removed http://noticias.r7.com/brasil/bancada-da-bala-resiste-a-proposta-de-excludente-de-ilicitude-17022021
+2021-02-17 21:44:53,978          root     INFO: Removed http://noticias.r7.com/brasil/deputado-preso-por-atacar-o-stf-nao-sera-cassado-diz-criminalista-17022021
+2021-02-17 21:44:53,984          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/02/centenaria-folha-ajuda-a-levar-temas-do-esporte-para-fora-dos-muros-da-universidade.shtml
+2021-02-17 21:44:53,988          root     INFO: Removed http://noticias.r7.com/brasil/deputados-federais-se-dividem-sobre-prisao-de-daniel-silveira-17022021
+2021-02-17 21:44:53,993          root     INFO: Removed http://noticias.r7.com/brasil/demitido-apos-festa-ex-chefe-de-vigilancia-diz-ja-fui-julgado-17022021
+2021-02-17 21:44:53,994          root     INFO: Finished script
