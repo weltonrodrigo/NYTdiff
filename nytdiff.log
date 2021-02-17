@@ -1,36 +1,10 @@
-2021-02-17 19:22:38,697          root     INFO: Starting script
-2021-02-17 19:22:39,952          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-17 19:22:40,627          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-17 19:22:41,301          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-17 19:22:41,465          root     INFO: Parsing R7 - Brasil
-2021-02-17 19:22:41,857          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/caso-de-cassacao.shtml
-2021-02-17 19:22:43,016          root     INFO: Pelo fim de janeiro, o ministro do STF, Edson Fachin, disse que a <del>"corrupção</del> <ins>“corrupção</ins> parece triunfar novamente como cupim da <del>República".</del> <ins>República”.</ins> No início de fevereiro, esse triunfo se confirmou com a extinção da força-tarefa da Lava Jato no Paraná e o recrudescimento da perseguição contra juízes e procuradores que atuaram na linha de frente da maior e mais exitosa operação de combate à corrupção da história do Brasil. Leia mais (02/14/2021 - 23h15)
-2021-02-17 19:22:44,844          root     INFO: Media ready with ids: 1362120314264702978
-2021-02-17 19:22:44,844          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-17 19:22:44,844          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/02/cupins-contra-a-lava-jato.shtml
-2021-02-17 19:22:44,852          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/02/cupins-contra-a-lava-jato.shtml
-2021-02-17 19:22:45,035          root     INFO: Replying to: 1362120315967569924
-2021-02-17 19:22:45,253          root     INFO: Id to store: 1362120316634484739
-2021-02-17 19:22:45,587          root     INFO: <del>"Presente</del> <ins>“Presente</ins> da <del>CIA."</del> <ins>CIA.”</ins> Leia mais (02/13/2021 - 23h15)
-2021-02-17 19:22:47,273          root     INFO: Media ready with ids: 1362120324372975622
-2021-02-17 19:22:47,273          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-17 19:22:47,274          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/02/habituados-as-delacoes-traidoras-integrantes-da-lava-jato-se-delataram-em-gravacoes.shtml
-2021-02-17 19:22:47,282          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/02/habituados-as-delacoes-traidoras-integrantes-da-lava-jato-se-delataram-em-gravacoes.shtml
-2021-02-17 19:22:47,460          root     INFO: Replying to: 1362120326059065348
-2021-02-17 19:22:47,770          root     INFO: Id to store: 1362120326935674881
-2021-02-17 19:22:49,789          root     INFO: Pelo fim de janeiro, o ministro do STF, Edson Fachin, disse que a <del>"corrupção</del> <ins>“corrupção</ins> parece triunfar novamente como cupim da <del>República".</del> <ins>República”.</ins> No início de fevereiro, esse triunfo se confirmou com a extinção da força-tarefa da Lava Jato no Paraná e o recrudescimento da perseguição contra juízes e procuradores que atuaram na linha de frente da maior e mais exitosa operação de combate à corrupção da história do Brasil. Leia mais (02/14/2021 - 23h15)
-2021-02-17 19:22:51,564          root     INFO: Media ready with ids: 1362120342282637313
-2021-02-17 19:22:51,564          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-17 19:22:51,564          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/02/cupins-contra-a-lava-jato.shtml
-2021-02-17 19:22:51,572          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/02/cupins-contra-a-lava-jato.shtml
-2021-02-17 19:22:51,757          root     INFO: Replying to: 1362120344174268422
-2021-02-17 19:22:52,019          root     INFO: Id to store: 1362120344845312008
-2021-02-17 19:22:52,330          root     INFO: <del>"Presente</del> <ins>“Presente</ins> da <del>CIA."</del> <ins>CIA.”</ins> Leia mais (02/13/2021 - 23h15)
-2021-02-17 19:22:53,917          root     INFO: Media ready with ids: 1362120352655147013
-2021-02-17 19:22:53,918          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-17 19:22:53,918          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/02/habituados-as-delacoes-traidoras-integrantes-da-lava-jato-se-delataram-em-gravacoes.shtml
-2021-02-17 19:22:53,926          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/02/habituados-as-delacoes-traidoras-integrantes-da-lava-jato-se-delataram-em-gravacoes.shtml
-2021-02-17 19:22:54,102          root     INFO: Replying to: 1362120353942802437
-2021-02-17 19:22:54,376          root     INFO: Id to store: 1362120354676805636
-2021-02-17 19:22:57,107          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/02/a-folha-mudou-muito-ao-longo-dos-anos-mas-continua-inquieta.shtml
-2021-02-17 19:22:57,108          root     INFO: Finished script
+2021-02-17 19:27:59,918          root     INFO: Starting script
+2021-02-17 19:28:00,817          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-17 19:28:01,512          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-17 19:28:02,210          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-17 19:28:02,419          root     INFO: Parsing R7 - Brasil
+2021-02-17 19:28:04,894          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/ataques-de-deputado-extrapolam-liberdade-de-expressao-e-afastam-imunidade-parlamentar-dizem-especialistas.shtml
+2021-02-17 19:28:04,911          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/cupula-da-camara-defende-revogar-prisao-de-daniel-silveira-mas-estabelecer-alguma-punicao.shtml
+2021-02-17 19:28:09,667          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/carlos-minc-aciona-ministerio-publico-para-barrar-mudancas-de-paes-no-licenciamento-ambiental.shtml
+2021-02-17 19:28:09,672          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/02/a-vacinacao-como-espetaculo.shtml
+2021-02-17 19:28:09,673          root     INFO: Finished script
