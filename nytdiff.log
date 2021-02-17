@@ -1,8 +1,12 @@
-2021-02-17 12:59:45,960          root     INFO: Starting script
-2021-02-17 12:59:46,839          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-17 12:59:47,519          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-17 12:59:48,191          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-17 12:59:48,451          root     INFO: Parsing R7 - Brasil
-2021-02-17 12:59:51,301          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/psl-diz-que-vai-expulsar-deputado-daniel-silveira-preso-apos-ataques-ao-supremo.shtml
-2021-02-17 12:59:56,613          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4009
-2021-02-17 12:59:56,613          root     INFO: Finished script
+2021-02-17 13:23:40,605          root     INFO: Starting script
+2021-02-17 13:23:41,500          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-17 13:23:42,196          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-17 13:23:42,899          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-17 13:23:43,118          root     INFO: Parsing R7 - Brasil
+2021-02-17 13:23:43,527          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/02/a-invasao-do-capitolio-a-america-latina-e-aqui-a-america-latina-nao-e-aqui.shtml
+2021-02-17 13:23:46,053          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/defesa-de-silveira-diz-que-prisao-de-deputado-e-violento-ataque-a-liberdade-de-expressao.shtml
+2021-02-17 13:23:46,080          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/revista-time-escolhe-boulos-um-dos-100-lideres-emergentes-globais.shtml
+2021-02-17 13:23:51,158          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49043
+2021-02-17 13:23:51,162          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2021/02/schitts-creek-faz-humor-universal-ao-opor-diferencas-sem-ofender.shtml
+2021-02-17 13:23:51,166          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/precisamos-atingir-lula-na-cabeca-diz-procuradora-em-novas-mensagens-da-lava-jato-entregues-ao-stf.shtml
+2021-02-17 13:23:51,167          root     INFO: Finished script
