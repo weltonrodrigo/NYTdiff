@@ -1,12 +1,23 @@
-2021-02-18 16:46:54,488          root     INFO: Starting script
-2021-02-18 16:46:55,614          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-18 16:46:56,329          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-18 16:46:57,044          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-18 16:46:57,330          root     INFO: Parsing R7 - Brasil
-2021-02-18 16:46:57,459          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/02/informacoes-aparecem-para-nuancar-o-racismo-de-monteiro-lobato.shtml
-2021-02-18 16:46:59,967          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/ministros-querem-acelerar-processo-de-silveira-e-apostam-em-perda-de-mandato-via-supremo-ou-camara.shtml
-2021-02-18 16:46:59,999          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10676
-2021-02-18 16:47:05,258          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/defensores-de-candidaturas-independentes-insistem-em-bandeira-e-veem-causa-mais-forte-pos-eleicao.shtml
-2021-02-18 16:47:05,289          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/02/jogadores-sao-endeusados-e-criticados-por-nao-sustentarem-expectativa-exagerada.shtml
-2021-02-18 16:47:05,305          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49067
-2021-02-18 16:47:05,305          root     INFO: Finished script
+2021-02-18 17:23:23,502          root     INFO: Starting script
+2021-02-18 17:23:24,431          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-18 17:23:25,137          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-18 17:23:25,829          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-18 17:23:26,106          root     INFO: Parsing R7 - Brasil
+2021-02-18 17:23:26,222          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/02/daniel-de-que.shtml
+2021-02-18 17:23:26,264          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/02/centenaria-folha-se-destaca-ao-publicar-vozes-negras-que-dizem-o-que-querem.shtml
+2021-02-18 17:23:28,692          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/jair-bolsonaro-pediu-para-bebianno-processar-carlos-bolsonaro-mostra-video.shtml
+2021-02-18 17:23:28,729          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/presidente-do-conselho-de-etica-preve-votacao-de-caso-silveira-em-ate-60-dias-e-fala-em-delimitar-imunidade-parlamentar.shtml
+2021-02-18 17:23:28,784          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/saiba-quais-crimes-daniel-silveira-pode-ter-cometido-e-qual-a-pena-somada-pelo-ataque-ao-supremo.shtml
+2021-02-18 17:23:28,950          root     INFO: Em encontro com o presidente Jair Bolsonaro (sem partido) nesta <del>quarta-feira (17),</del> <ins>quinta-feira (18),</ins> o presidente da Câmara, Arthur Lira (PP-AL), alertou que o caso Daniel Silveira (PSL-RJ) pode atrasar a tramitação de projetos da pauta econômica no Legislativo. Leia mais (02/18/2021 - 10h42)
+2021-02-18 17:23:31,046          root     INFO: Media ready with ids: 1362452696847024129
+2021-02-18 17:23:31,047          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-18 17:23:31,047          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2021/02/lira-alerta-bolsonaro-que-caso-silveira-pode-atrasar-pauta-economica.shtml
+2021-02-18 17:23:31,059          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2021/02/lira-alerta-bolsonaro-que-caso-silveira-pode-atrasar-pauta-economica.shtml
+2021-02-18 17:23:31,252          root     INFO: Replying to: 1362452698700926985
+2021-02-18 17:23:31,478          root     INFO: Id to store: 1362452699422294023
+2021-02-18 17:23:36,660          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/o-museu-nacional-das-fake-news.shtml
+2021-02-18 17:23:36,675          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/embate-entre-doria-e-bolsonaro-vai-alem-da-vacina-e-atinge-ao-menos-oito-obras-em-sao-paulo.shtml
+2021-02-18 17:23:36,690          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/nova-fabrica-do-butantan-para-producao-de-vacinas-sera-inaugurada-em-30-de-setembro.shtml
+2021-02-18 17:23:36,706          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/as-reiteradas-tentativas-de-silenciar-mulheres.shtml
+2021-02-18 17:23:36,725          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/advogados-fazem-forca-tarefa-para-categorizar-dialogos-hackeados-da-lava-jato.shtml
+2021-02-18 17:23:36,726          root     INFO: Finished script
