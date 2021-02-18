@@ -1,6 +1,13 @@
-2021-02-18 19:05:59,460          root     INFO: Starting script
-2021-02-18 19:06:00,334          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-18 19:06:01,026          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-18 19:06:01,710          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-18 19:06:01,813          root     INFO: Parsing R7 - Brasil
-2021-02-18 19:06:09,251          root     INFO: Finished script
+2021-02-18 19:20:35,109          root     INFO: Starting script
+2021-02-18 19:20:36,337          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-18 19:20:37,036          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-18 19:20:37,732          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-18 19:20:38,072          root     INFO: Parsing R7 - Brasil
+2021-02-18 19:20:41,569          root     INFO: <ins>Bebianno disse que</ins> Jair Bolsonaro pediu <del>para Bebianno processar Carlos Bolsonaro,</del> <ins>a ele que processasse Carlos,</ins> mostra vídeo
+2021-02-18 19:20:43,399          root     INFO: Media ready with ids: 1362482192924966922
+2021-02-18 19:20:43,399          root     INFO: Text to tweet: Modificação do Título
+2021-02-18 19:20:43,400          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/jair-bolsonaro-pediu-para-bebianno-processar-carlos-bolsonaro-mostra-video.shtml
+2021-02-18 19:20:43,409          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/jair-bolsonaro-pediu-para-bebianno-processar-carlos-bolsonaro-mostra-video.shtml
+2021-02-18 19:20:43,580          root     INFO: Replying to: 1362482194401406984
+2021-02-18 19:20:43,867          root     INFO: Id to store: 1362482195206660100
+2021-02-18 19:20:49,332          root     INFO: Finished script
