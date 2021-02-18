@@ -1,13 +1,33 @@
-2021-02-18 19:20:35,109          root     INFO: Starting script
-2021-02-18 19:20:36,337          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-18 19:20:37,036          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-18 19:20:37,732          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-18 19:20:38,072          root     INFO: Parsing R7 - Brasil
-2021-02-18 19:20:41,569          root     INFO: <ins>Bebianno disse que</ins> Jair Bolsonaro pediu <del>para Bebianno processar Carlos Bolsonaro,</del> <ins>a ele que processasse Carlos,</ins> mostra vídeo
-2021-02-18 19:20:43,399          root     INFO: Media ready with ids: 1362482192924966922
-2021-02-18 19:20:43,399          root     INFO: Text to tweet: Modificação do Título
-2021-02-18 19:20:43,400          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/jair-bolsonaro-pediu-para-bebianno-processar-carlos-bolsonaro-mostra-video.shtml
-2021-02-18 19:20:43,409          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/jair-bolsonaro-pediu-para-bebianno-processar-carlos-bolsonaro-mostra-video.shtml
-2021-02-18 19:20:43,580          root     INFO: Replying to: 1362482194401406984
-2021-02-18 19:20:43,867          root     INFO: Id to store: 1362482195206660100
-2021-02-18 19:20:49,332          root     INFO: Finished script
+2021-02-18 19:29:53,277          root     INFO: Starting script
+2021-02-18 19:29:54,320          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-18 19:29:55,172          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-18 19:29:56,022          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-18 19:29:56,250          root     INFO: Parsing R7 - Brasil
+2021-02-18 19:30:03,828          root     INFO: New article tracked: http://noticias.r7.com/brasil/eduardo-bolsonaro-diz-que-vai-votar-pela-libertacao-de-deputado-preso-17022021
+2021-02-18 19:30:03,848          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-afirma-que-vai-baixar-imposto-de-importacao-de-bicicletas-17022021
+2021-02-18 19:30:03,861          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-cobra-ministerio-sobre-cooperacoes-com-a-lava-jato-17022021
+2021-02-18 19:30:03,875          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-propoe-a-daniel-silveira-uso-de-tornozeleira-e-distancia-do-stf-17022021
+2021-02-18 19:30:03,889          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-nao-prorroga-afastamento-de-senador-chico-rodrigues-17022021
+2021-02-18 19:30:03,903          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-marca-audiencia-de-custodia-de-deputado-daniel-silveira-psl-17022021
+2021-02-18 19:30:03,992          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-protocola-denuncia-contra-daniel-silveira-por-ameacas-ao-stf-17022021
+2021-02-18 19:30:04,256          root     INFO: Removed http://noticias.r7.com/brasil/ibge-abre-processo-para-escolher-204-mil-trabalhadores-para-o-censo-18022021
+2021-02-18 19:30:04,263          root     INFO: Removed http://noticias.r7.com/brasil/por-volta-do-auxilio-senado-ira-votar-pec-emergencial-18022021
+2021-02-18 19:30:04,268          root     INFO: Removed http://noticias.r7.com/brasil/videos/vice-da-camara-ataca-reducao-de-impostos-para-exportacao-de-bicicletas-18022021
+2021-02-18 19:30:04,273          root     INFO: Removed http://noticias.r7.com/brasil/vice-da-camara-ataca-reducao-de-impostos-para-bicicletas-18022021
+2021-02-18 19:30:04,278          root     INFO: Removed http://noticias.r7.com/brasil/forca-nacional-de-seguranca-reforca-fronteira-no-acre-18022021
+2021-02-18 19:30:04,282          root     INFO: Removed http://noticias.r7.com/brasil/cupula-da-camara-vai-ao-conselho-de-etica-contra-daniel-silveira-18022021
+2021-02-18 19:30:04,287          root     INFO: Removed http://noticias.r7.com/brasil/senador-flagrado-com-dinheiro-na-cueca-reassume-mandato-18022021
+2021-02-18 19:30:04,292          root     INFO: Removed http://noticias.r7.com/brasil/audiencia-de-custodia-decide-prisao-de-daniel-silveira-nesta-quinta-18022021
+2021-02-18 19:30:04,296          root     INFO: Removed http://noticias.r7.com/brasil/lideres-da-camara-se-reunem-para-discutir-prisao-de-parlamentar-18022021
+2021-02-18 19:30:04,301          root     INFO: Removed http://noticias.r7.com/brasil/prazo-para-verificar-integridade-dos-sistemas-eleitorais-termina-hoje-18022021
+2021-02-18 19:30:04,306          root     INFO: Removed http://noticias.r7.com/brasil/juristas-contestam-prisao-em-flagrante-de-daniel-silveira-18022021
+2021-02-18 19:30:04,316          root     INFO: Removed http://noticias.r7.com/brasil/manifestantes-se-reunem-em-ato-na-paulista-por-auxilio-de-r-600-18022021
+2021-02-18 19:30:04,322          root     INFO: Removed http://noticias.r7.com/brasil/lira-publica-regras-que-reativam-conselho-de-etica-da-camara-18022021
+2021-02-18 19:30:04,326          root     INFO: Removed http://noticias.r7.com/brasil/em-dia-de-retorno-aos-negocios-dolar-opera-em-queda-ante-real-18022021
+2021-02-18 19:30:04,332          root     INFO: Removed http://noticias.r7.com/brasil/estudio-news-debate-o-novo-marco-legal-das-ferrovias-no-brasil-18022021
+2021-02-18 19:30:04,337          root     INFO: Removed http://noticias.r7.com/brasil/aliados-apelam-para-sergio-moro-retornar-ao-cenario-eleitoral-18022021
+2021-02-18 19:30:04,342          root     INFO: Removed http://noticias.r7.com/brasil/governo-ja-preve-corte-de-r-10-bilhoes-no-orcamento-de-2021-18022021
+2021-02-18 19:30:04,346          root     INFO: Removed http://noticias.r7.com/brasil/o-estado-de-direito-precisa-ser-sempre-zelado-alerta-gilmar-18022021
+2021-02-18 19:30:04,352          root     INFO: Removed http://noticias.r7.com/brasil/lira-estuda-saida-para-situacao-de-deputado-preso-daniel-silveira-18022021
+2021-02-18 19:30:04,356          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-operacao-em-quatro-estados-contra-fraudes-no-auxilio-18022021
+2021-02-18 19:30:04,358          root     INFO: Finished script
