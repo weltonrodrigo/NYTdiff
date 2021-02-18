@@ -1,15 +1,20 @@
-2021-02-18 19:57:54,297          root     INFO: Starting script
-2021-02-18 19:57:55,202          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-18 19:57:55,913          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-18 19:57:56,627          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-18 19:57:56,764          root     INFO: Parsing R7 - Brasil
-2021-02-18 19:57:59,957          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/folha-100-anos/2021/01/ininterrupto-jornalismo-da-folha-nao-fecha-os-olhos-nem-de-madrugada.shtml
-2021-02-18 19:58:00,022          root     INFO: <del>Justiça</del> <ins>Juiz</ins> mantém prisão de deputado bolsonarista que fez ataques a ministros do Supremo
-2021-02-18 19:58:01,805          root     INFO: Media ready with ids: 1362491581362823168
-2021-02-18 19:58:01,806          root     INFO: Text to tweet: Modificação do Título
-2021-02-18 19:58:01,806          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/justica-mantem-prisao-de-deputado-bolsonarista-que-fez-ataques-a-ministros-do-supremo.shtml
-2021-02-18 19:58:01,818          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/justica-mantem-prisao-de-deputado-bolsonarista-que-fez-ataques-a-ministros-do-supremo.shtml
-2021-02-18 19:58:02,016          root     INFO: Replying to: 1362491583086661640
-2021-02-18 19:58:02,319          root     INFO: Id to store: 1362491583816491008
-2021-02-18 19:58:07,939          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/02/cupins-contra-a-lava-jato.shtml
-2021-02-18 19:58:07,940          root     INFO: Finished script
+2021-02-18 20:24:31,293          root     INFO: Starting script
+2021-02-18 20:24:32,447          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-18 20:24:33,117          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-18 20:24:33,797          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-18 20:24:33,999          root     INFO: Parsing R7 - Brasil
+2021-02-18 20:24:36,768          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/flagrado-com-dinheiro-na-cueca-chico-rodrigues-reassume-mandato-no-senado-apos-fim-de-licenca.shtml
+2021-02-18 20:24:36,837          root     INFO: <del>Justiça</del> <ins>Juiz</ins> mantém prisão de deputado bolsonarista que fez ataques a ministros do Supremo
+2021-02-18 20:24:38,585          root     INFO: Media ready with ids: 1362498278697431042
+2021-02-18 20:24:38,585          root     INFO: Text to tweet: Modificação do Título
+2021-02-18 20:24:38,585          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/justica-mantem-prisao-de-deputado-bolsonarista-que-fez-ataques-a-ministros-do-supremo.shtml
+2021-02-18 20:24:38,596          root     INFO: Replying to: 1362491583816491008
+2021-02-18 20:24:38,817          root     INFO: Id to store: 1362498280324816911
+2021-02-18 20:24:38,829          root     INFO: Em audiência de custódia realizada nesta quinta-feira (18), o juiz Aírton Vieira, que atua em auxílio ao ministro Alexandre de <del>Moraes,</del> <ins>Moraes (STF),</ins> manteve a prisão <ins>em flagrante</ins> do deputado Daniel Silveira (PSL-RJ). <del>?O parlamentar está preso desde a noite de terça-feira (16), por ordem de Moraes, relator do inquérito das fake news no STF (Supremo Tribunal Federal), após divulgar no Youtube um vídeo com ataques verbais e ameaças a ministros da Corte.</del> Leia mais (02/18/2021 - 16h44)
+2021-02-18 20:24:40,715          root     INFO: Media ready with ids: 1362498287744528389
+2021-02-18 20:24:40,716          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-18 20:24:40,716          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/justica-mantem-prisao-de-deputado-bolsonarista-que-fez-ataques-a-ministros-do-supremo.shtml
+2021-02-18 20:24:40,727          root     INFO: Replying to: 1362498280324816911
+2021-02-18 20:24:40,971          root     INFO: Id to store: 1362498289271242752
+2021-02-18 20:24:45,642          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/lira-promete-relatoria-de-regras-da-eleicao-de-2022-a-presidente-do-podemos.shtml
+2021-02-18 20:24:45,643          root     INFO: Finished script
