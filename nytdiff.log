@@ -1,6 +1,46 @@
-2021-02-18 17:59:01,845          root     INFO: Starting script
-2021-02-18 17:59:03,052          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-18 17:59:03,747          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-18 17:59:04,456          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-18 17:59:04,751          root     INFO: Parsing R7 - Brasil
-2021-02-18 17:59:12,048          root     INFO: Finished script
+2021-02-18 18:27:23,288          root     INFO: Starting script
+2021-02-18 18:27:24,183          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-18 18:27:24,886          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-18 18:27:25,597          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-18 18:27:25,776          root     INFO: Parsing R7 - Brasil
+2021-02-18 18:27:28,728          root     INFO: O ex-presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira que o ministro Edson Fachin (STF) se acovardou três anos atrás <del>com o</del> <ins>diante do</ins> tuíte do general Eduardo Villas Bôas <del>para pressionar</del> <ins>no qual pressionava</ins> o Supremo a derrotar o petista em um julgamento na corte às vésperas da campanha eleitoral. Leia mais (02/18/2021 - 14h47)
+2021-02-18 18:27:30,693          root     INFO: Media ready with ids: 1362468801690927105
+2021-02-18 18:27:30,693          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-18 18:27:30,694          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lula-afirma-que-fachin-se-acovardou-ao-nao-reagir-a-tuite-de-villas-boas-em-2018.shtml
+2021-02-18 18:27:30,702          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lula-afirma-que-fachin-se-acovardou-ao-nao-reagir-a-tuite-de-villas-boas-em-2018.shtml
+2021-02-18 18:27:30,897          root     INFO: Replying to: 1362468803335053323
+2021-02-18 18:27:31,223          root     INFO: Id to store: 1362468804123652097
+2021-02-18 18:27:31,286          root     INFO: Polícia do Rio não vê ofensa nem desacato de deputado ao levantar voz a agente e resistir ao uso <del>da</del> <ins>de</ins> máscara
+2021-02-18 18:27:32,984          root     INFO: Media ready with ids: 1362468811329441793
+2021-02-18 18:27:32,985          root     INFO: Text to tweet: Modificação do Título
+2021-02-18 18:27:32,985          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/policia-do-rio-nao-ve-ofensa-nem-desacato-de-deputado-ao-levantar-voz-a-agente-e-resistir-ao-uso-da-mascara.shtml
+2021-02-18 18:27:32,993          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/policia-do-rio-nao-ve-ofensa-nem-desacato-de-deputado-ao-levantar-voz-a-agente-e-resistir-ao-uso-da-mascara.shtml
+2021-02-18 18:27:33,180          root     INFO: Replying to: 1362468812898111493
+2021-02-18 18:27:33,474          root     INFO: Id to store: 1362468813682401284
+2021-02-18 18:27:33,549          root     INFO: A Polícia Civil do Rio de Janeiro não considerou como desacato os gritos proferidos pelo deputado federal Daniel Silveira <ins>(PSL-RJ)</ins> contra uma agente do IML (Instituto Médico Legal) por resistir a colocar uma máscara, em função da pandemia do novo coronavírus. Leia mais (02/18/2021 - 14h24)
+2021-02-18 18:27:35,297          root     INFO: Media ready with ids: 1362468820988940293
+2021-02-18 18:27:35,298          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-18 18:27:35,298          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/policia-do-rio-nao-ve-ofensa-nem-desacato-de-deputado-ao-levantar-voz-a-agente-e-resistir-ao-uso-da-mascara.shtml
+2021-02-18 18:27:35,306          root     INFO: Replying to: 1362468813682401284
+2021-02-18 18:27:35,526          root     INFO: Id to store: 1362468822482116609
+2021-02-18 18:27:40,992          root     INFO: New article tracked: http://noticias.r7.com/brasil/por-volta-do-auxilio-senado-ira-votar-pec-emergencial-18022021
+2021-02-18 18:27:41,027          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-ja-preve-corte-de-r-10-bilhoes-no-orcamento-de-2021-18022021
+2021-02-18 18:27:41,060          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-flagrado-com-dinheiro-na-cueca-reassume-mandato-18022021
+2021-02-18 18:27:41,098          root     INFO: New article tracked: http://noticias.r7.com/brasil/o-estado-de-direito-precisa-ser-sempre-zelado-alerta-gilmar-18022021
+2021-02-18 18:27:41,132          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-estuda-saida-para-situacao-de-deputado-preso-daniel-silveira-18022021
+2021-02-18 18:27:41,167          root     INFO: New article tracked: http://noticias.r7.com/brasil/manifestantes-se-reunem-em-ato-na-paulista-por-auxilio-de-r-600-18022021
+2021-02-18 18:27:41,199          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-publica-regras-que-reativam-conselho-de-etica-da-camara-18022021
+2021-02-18 18:27:41,231          root     INFO: New article tracked: http://noticias.r7.com/brasil/vice-da-camara-ataca-reducao-de-impostos-para-bicicletas-18022021
+2021-02-18 18:27:41,261          root     INFO: New article tracked: http://noticias.r7.com/brasil/estudio-news-debate-o-novo-marco-legal-das-ferrovias-no-brasil-18022021
+2021-02-18 18:27:41,291          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/vice-da-camara-ataca-reducao-de-impostos-para-exportacao-de-bicicletas-18022021
+2021-02-18 18:27:41,323          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-dia-de-retorno-aos-negocios-dolar-opera-em-queda-ante-real-18022021
+2021-02-18 18:27:41,355          root     INFO: New article tracked: http://noticias.r7.com/brasil/prazo-para-verificar-integridade-dos-sistemas-eleitorais-termina-hoje-18022021
+2021-02-18 18:27:41,387          root     INFO: New article tracked: http://noticias.r7.com/brasil/forca-nacional-de-seguranca-reforca-fronteira-no-acre-18022021
+2021-02-18 18:27:41,421          root     INFO: New article tracked: http://noticias.r7.com/brasil/juristas-contestam-prisao-em-flagrante-de-daniel-silveira-18022021
+2021-02-18 18:27:41,454          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibge-abre-processo-para-escolher-204-mil-trabalhadores-para-o-censo-18022021
+2021-02-18 18:27:41,484          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-operacao-em-quatro-estados-contra-fraudes-no-auxilio-18022021
+2021-02-18 18:27:41,517          root     INFO: New article tracked: http://noticias.r7.com/brasil/aliados-apelam-para-sergio-moro-retornar-ao-cenario-eleitoral-18022021
+2021-02-18 18:27:41,549          root     INFO: New article tracked: http://noticias.r7.com/brasil/cupula-da-camara-vai-ao-conselho-de-etica-contra-daniel-silveira-18022021
+2021-02-18 18:27:41,586          root     INFO: New article tracked: http://noticias.r7.com/brasil/lideres-da-camara-se-reunem-para-discutir-prisao-de-parlamentar-18022021
+2021-02-18 18:27:41,621          root     INFO: New article tracked: http://noticias.r7.com/brasil/audiencia-de-custodia-decide-prisao-de-daniel-silveira-nesta-quinta-18022021
+2021-02-18 18:27:41,654          root     INFO: Finished script
