@@ -1,24 +1,13 @@
-2021-02-18 15:27:06,405          root     INFO: Starting script
-2021-02-18 15:27:07,270          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-18 15:27:07,936          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-18 15:27:08,618          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-18 15:27:08,755          root     INFO: Parsing R7 - Brasil
-2021-02-18 15:27:08,784          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/02/documentario-sobre-pele-na-netflix-mistura-futebol-e-politica-em-tom-nostalgico.shtml
-2021-02-18 15:27:08,839          root     INFO: <del>Douglas Belchior</del> <ins>VÁRIOS AUTORES (nomes ao final do texto)</ins> Leia mais (02/18/2021 - 06h00)
-2021-02-18 15:27:11,133          root     INFO: Media ready with ids: 1362423421158780929
-2021-02-18 15:27:11,134          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-18 15:27:11,134          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/02/movimento-negro-cobra-auxilio-emergencial-de-r-600-e-vacina-para-todos-pelo-sus.shtml
-2021-02-18 15:27:11,142          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/02/movimento-negro-cobra-auxilio-emergencial-de-r-600-e-vacina-para-todos-pelo-sus.shtml
-2021-02-18 15:27:11,312          root     INFO: Replying to: 1362423422689693697
-2021-02-18 15:27:11,525          root     INFO: Id to store: 1362423423356579850
-2021-02-18 15:27:13,833          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/centrao-articula-manter-prisao-de-silveira-e-vice-da-camara-defende-suspensao-ou-cassacao-de-deputado.shtml
-2021-02-18 15:27:13,890          root     INFO: Em carta endereçada ao ministro da Saúde, Eduardo Pazuello, secretários estaduais de Fazenda dizem que a redução de custeio de leitos pelo governo federal aflige os <del>estados.</del> <ins>estados e pedem a liberação de mais recursos para enfrentar a segunda onda da pandemia da Covid-19.</ins> Leia mais (02/18/2021 - 11h48)
-2021-02-18 15:27:15,604          root     INFO: Media ready with ids: 1362423439844335618
-2021-02-18 15:27:15,605          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-18 15:27:15,605          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/secretarios-de-fazenda-cobram-liberacao-de-recursos-por-pazuello-para-lidar-com-a-2a-onda-da-covid-19.shtml
-2021-02-18 15:27:15,613          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/secretarios-de-fazenda-cobram-liberacao-de-recursos-por-pazuello-para-lidar-com-a-2a-onda-da-covid-19.shtml
-2021-02-18 15:27:15,779          root     INFO: Replying to: 1362423441408851971
-2021-02-18 15:27:15,995          root     INFO: Id to store: 1362423442121887744
-2021-02-18 15:27:21,034          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/menudo-de-acm-neto-novo-ministro-de-bolsonaro-tem-raizes-em-pe-ascendeu-na-ba-e-busca-caminho-proprio.shtml
-2021-02-18 15:27:21,039          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/02/flamengo-pode-chegar-a-lideranca-pela-1a-vez-e-rumar-para-o-titulo-do-brasileiro.shtml
-2021-02-18 15:27:21,040          root     INFO: Finished script
+2021-02-18 15:46:52,733          root     INFO: Starting script
+2021-02-18 15:46:53,587          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-18 15:46:54,273          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-18 15:46:54,956          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-18 15:46:55,106          root     INFO: Parsing R7 - Brasil
+2021-02-18 15:46:57,837          root     INFO: Ao mesmo tempo em que o centrão articula não derrubar a decisão do Supremo Tribunal Federal de prisão contra Daniel Silveira (PSL-RJ), o vice-presidente da Câmara, Marcelo Ramos (PL-AM), <del>defendeu</del> <ins>defende</ins> que o deputado bolsonarista seja "punido exemplarmente", com suspensão ou <del>cassação.</del> <ins>cassação de mandato.</ins> Leia mais (02/18/2021 - 12h21)
+2021-02-18 15:46:59,683          root     INFO: Media ready with ids: 1362428406072291328
+2021-02-18 15:46:59,684          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-18 15:46:59,684          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/centrao-articula-manter-prisao-de-silveira-e-vice-da-camara-defende-suspensao-ou-cassacao-de-deputado.shtml
+2021-02-18 15:46:59,692          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/centrao-articula-manter-prisao-de-silveira-e-vice-da-camara-defende-suspensao-ou-cassacao-de-deputado.shtml
+2021-02-18 15:46:59,862          root     INFO: Replying to: 1362428407829716992
+2021-02-18 15:47:00,081          root     INFO: Id to store: 1362428408513331202
+2021-02-18 15:47:05,257          root     INFO: Finished script
