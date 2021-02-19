@@ -1,6 +1,16 @@
-2021-02-19 22:57:55,245          root     INFO: Starting script
-2021-02-19 22:57:56,119          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-19 22:57:56,807          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-19 22:57:57,488          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-19 22:57:57,713          root     INFO: Parsing R7 - Brasil
-2021-02-19 22:58:03,878          root     INFO: Finished script
+2021-02-19 23:25:17,869          root     INFO: Starting script
+2021-02-19 23:25:18,766          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-19 23:25:19,490          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-19 23:25:20,166          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-19 23:25:20,332          root     INFO: Parsing R7 - Brasil
+2021-02-19 23:25:23,059          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/por-364-a-130-camara-confirma-decisao-do-stf-e-mantem-prisao-de-deputado-abandonado-pelo-planalto.shtml
+2021-02-19 23:25:23,072          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/silveira-e-culpado-util-para-centrao-mostrar-poder-na-alianca-com-bolsonaro.shtml
+2021-02-19 23:25:23,114          root     INFO: A Folha completa 100 anos nesta sexta-feira (19). Veja a seguir o que autoridades em geral e diferentes membros da sociedade falam sobre o centenário do maior jornal do país. Leia mais (02/19/2021 - <del>07h05)</del> <ins>19h56)</ins>
+2021-02-19 23:25:24,890          root     INFO: Media ready with ids: 1362906159351554053
+2021-02-19 23:25:24,891          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-19 23:25:24,891          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/veja-manifestacoes-de-parabens-pelos-100-anos-da-folha.shtml
+2021-02-19 23:25:24,901          root     INFO: Replying to: 1362891154946220034
+2021-02-19 23:25:25,153          root     INFO: Id to store: 1362906161029275649
+2021-02-19 23:25:30,054          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/revista-time-escolhe-boulos-um-dos-100-lideres-emergentes-globais.shtml
+2021-02-19 23:25:30,059          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/psl-diz-que-vai-expulsar-deputado-daniel-silveira-preso-apos-ataques-ao-supremo.shtml
+2021-02-19 23:25:30,061          root     INFO: Finished script
