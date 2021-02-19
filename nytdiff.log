@@ -1,8 +1,21 @@
-2021-02-19 18:26:22,545          root     INFO: Starting script
-2021-02-19 18:26:23,449          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-19 18:26:24,157          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-19 18:26:24,859          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-19 18:26:25,014          root     INFO: Parsing R7 - Brasil
-2021-02-19 18:26:25,848          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/02/nova-chefe-dos-jogos-de-toquio-tem-missao-de-desfazer-erros-e-gerenciar-crise.shtml
-2021-02-19 18:26:32,777          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/revisao-perigosa.shtml
-2021-02-19 18:26:32,778          root     INFO: Finished script
+2021-02-19 18:42:00,158          root     INFO: Starting script
+2021-02-19 18:42:01,239          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-19 18:42:02,092          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-19 18:42:02,963          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-19 18:42:03,223          root     INFO: Parsing R7 - Brasil
+2021-02-19 18:42:12,157          root     INFO: Removed http://noticias.r7.com/brasil/ciee-realiza-evento-maratona-de-vagas-com-12-mil-oportunidades-19022021
+2021-02-19 18:42:12,163          root     INFO: Removed http://noticias.r7.com/brasil/mourao-e-submetido-a-cirurgia-de-retirada-de-catarata-19022021
+2021-02-19 18:42:12,167          root     INFO: Removed http://noticias.r7.com/brasil/deputada-do-centrao-sera-a-relatora-da-prisao-de-daniel-silveira-19022021
+2021-02-19 18:42:12,170          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-diz-a-prefeitos-que-vai-alterar-a-estrategia-de-vacinacao-19022021
+2021-02-19 18:42:12,174          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-promete-47-mi-de-doses-de-vacinas-ate-o-inicio-de-marco-19022021
+2021-02-19 18:42:12,178          root     INFO: Removed http://noticias.r7.com/brasil/pesquisa-de-opiniao-brasileiro-esta-dividido-sobre-prisao-de-silveira-19022021
+2021-02-19 18:42:12,183          root     INFO: Removed http://noticias.r7.com/brasil/em-carta-secretarios-de-25-estados-pedem-liberacao-de-recursos-19022021
+2021-02-19 18:42:12,187          root     INFO: Removed http://noticias.r7.com/brasil/moraes-pede-pericia-em-celulares-encontrados-com-deputado-preso-19022021
+2021-02-19 18:42:12,192          root     INFO: Removed http://noticias.r7.com/brasil/ato-de-vandalismo-pode-ter-estragado-vacinas-no-espirito-santo-19022021
+2021-02-19 18:42:12,196          root     INFO: Removed http://noticias.r7.com/brasil/alexandre-manda-bloquear-perfis-de-daniel-silveira-em-redes-sociais-19022021
+2021-02-19 18:42:12,200          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-nomeia-general-heleno-e-skaf-para-conselho-da-republica-19022021
+2021-02-19 18:42:12,204          root     INFO: Removed http://noticias.r7.com/brasil/tucano-se-diz-surpreso-com-troca-na-relatoria-do-caso-silveira-19022021
+2021-02-19 18:42:12,208          root     INFO: Removed http://noticias.r7.com/brasil/toffoli-interrompe-julgamento-do-quadrilhao-do-mdb-no-senado-19022021
+2021-02-19 18:42:12,212          root     INFO: Removed http://noticias.r7.com/brasil/deputado-do-psdb-sera-relator-da-prisao-de-daniel-silveira-na-camara-19022021
+2021-02-19 18:42:12,216          root     INFO: Removed http://noticias.r7.com/brasil/presidente-da-petrobras-nao-planeja-deixar-cargo-apos-pressao-19022021
+2021-02-19 18:42:12,217          root     INFO: Finished script
