@@ -1,8 +1,19 @@
-2021-02-19 21:57:45,290          root     INFO: Starting script
-2021-02-19 21:57:46,168          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-19 21:57:46,859          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-19 21:57:47,558          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-19 21:57:47,714          root     INFO: Parsing R7 - Brasil
-2021-02-19 21:57:50,536          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stj-usa-precedente-do-supremo-e-abre-inquerito-de-oficio-para-apurar-mensagens-da-lava-jato.shtml
-2021-02-19 21:57:54,983          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/entenda-o-que-sao-e-como-estao-os-inqueritos-no-stf-que-envolvem-bolsonaro-e-aliados-como-daniel-silveira.shtml
-2021-02-19 21:57:54,984          root     INFO: Finished script
+2021-02-19 22:25:40,239          root     INFO: Starting script
+2021-02-19 22:25:41,067          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-19 22:25:41,738          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-19 22:25:42,410          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-19 22:25:42,620          root     INFO: Parsing R7 - Brasil
+2021-02-19 22:25:43,037          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/02/as-historias-que-a-folha-nao-conta.shtml
+2021-02-19 22:25:43,051          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/02/marilene-felinto-prepara-livro-inedito-e-relanca-as-mulheres-de-tijucopapo.shtml
+2021-02-19 22:25:45,292          root     INFO: A Folha completa 100 anos nesta sexta-feira (19). Veja a seguir o que autoridades em geral e diferentes membros da sociedade falam sobre o centenário do maior jornal do país. Leia mais (02/19/2021 - <del>07h05)</del> <ins>19h19)</ins>
+2021-02-19 22:25:47,032          root     INFO: Media ready with ids: 1362891152865787909
+2021-02-19 22:25:47,032          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-19 22:25:47,032          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/veja-manifestacoes-de-parabens-pelos-100-anos-da-folha.shtml
+2021-02-19 22:25:47,040          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/veja-manifestacoes-de-parabens-pelos-100-anos-da-folha.shtml
+2021-02-19 22:25:47,205          root     INFO: Replying to: 1362891154266730501
+2021-02-19 22:25:47,428          root     INFO: Id to store: 1362891154946220034
+2021-02-19 22:25:47,447          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/folha-recebe-mais-de-400-interessados-no-primeiro-dia-de-inscricoes-para-programa-de-treinamento-destinado-a-negros.shtml
+2021-02-19 22:25:52,198          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/entenda-a-prisao-do-deputado-daniel-silveira-a-decisao-do-supremo-e-o-que-acontece-agora-na-camara.shtml
+2021-02-19 22:25:52,202          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/o-impacto-da-covid-19-na-cura-do-cancer-infantil.shtml
+2021-02-19 22:25:52,207          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2021/02/os-almocos-de-sexta-feira-com-o-seu-frias-sao-uma-pequena-parte-da-historia-dos-100-anos-da-folha.shtml
+2021-02-19 22:25:52,208          root     INFO: Finished script
