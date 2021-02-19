@@ -1,6 +1,16 @@
-2021-02-18 23:58:00,343          root     INFO: Starting script
-2021-02-18 23:58:01,640          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-18 23:58:02,337          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-18 23:58:03,029          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-18 23:58:03,201          root     INFO: Parsing R7 - Brasil
-2021-02-18 23:58:10,245          root     INFO: Finished script
+2021-02-19 00:58:03,151          root     INFO: Starting script
+2021-02-19 00:58:03,994          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-19 00:58:04,674          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-19 00:58:05,354          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-19 00:58:05,589          root     INFO: Parsing R7 - Brasil
+2021-02-19 00:58:06,003          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/biden-e-merkel-vao-se-reunir-mas-alianca-ja-nao-e-tao-simples.shtml
+2021-02-19 00:58:06,018          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/laura-mattos/2021/02/mae-deve-ser-fiscal-de-distanciamento-na-escola.shtml
+2021-02-19 00:58:08,211          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-se-irrita-com-comentario-na-internet-e-manda-pf-investigar-seguidor.shtml
+2021-02-19 00:58:08,225          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/para-aliados-moro-e-procuradores-estao-blindados-de-acoes-com-uso-de-mensagens-hackeadas.shtml
+2021-02-19 00:58:08,236          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/senador-quer-que-governo-federal-seja-responsabilizado-por-eventuais-efeitos-adversos-de-vacinas.shtml
+2021-02-19 00:58:12,844          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/fachin-reage-a-revelacoes-sobre-tuite-de-villas-boas-e-diz-que-pressao-no-judiciario-e-intoleravel-e-inaceitavel.shtml
+2021-02-19 00:58:12,849          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/bolsonaro-indica-a-aliados-que-nao-deve-desmembrar-ministerio-da-economia-para-evitar-desgaste-com-guedes.shtml
+2021-02-19 00:58:12,853          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/quase-metade-dos-reus-em-acao-sobre-doleiros-se-tornam-delatores.shtml
+2021-02-19 00:58:12,857          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2021/02/aos-20-anos-genoma-beneficia-mais-os-brancos-e-ricos.shtml
+2021-02-19 00:58:12,864          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/02/o-diabo-mora-nos-detalhes.shtml
+2021-02-19 00:58:12,865          root     INFO: Finished script
