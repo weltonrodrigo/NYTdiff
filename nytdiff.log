@@ -1,33 +1,18 @@
-2021-02-19 17:13:49,305          root     INFO: Starting script
-2021-02-19 17:13:50,158          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-19 17:13:50,837          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-19 17:13:51,514          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-19 17:13:51,608          root     INFO: Parsing R7 - Brasil
-2021-02-19 17:13:54,465          root     INFO: A reviravolta na definição da relatoria do caso Daniel Silveira (PSL-RJ) na Câmara dos Deputados, que passou para a deputada Magda Mofatto (PL-GO) após indicação nesta quinta-feira (18) de que ficaria com Carlos Sampaio (PSDB-SP), tem embutida a expectativa de parlamentares bolsonaristas e do <del>Centrão</del> <ins>centrão</ins> de que o documento inclua críticas à atuação do Supremo Tribunal Federal. Leia mais (02/19/2021 - 11h48)
-2021-02-19 17:13:56,355          root     INFO: Media ready with ids: 1362812674036367365
-2021-02-19 17:13:56,355          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-19 17:13:56,356          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/reviravolta-em-relatoria-de-caso-daniel-silveira-na-camara-tem-expectativa-de-inclusao-de-criticas-ao-stf.shtml
-2021-02-19 17:13:56,364          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/reviravolta-em-relatoria-de-caso-daniel-silveira-na-camara-tem-expectativa-de-inclusao-de-criticas-ao-stf.shtml
-2021-02-19 17:13:56,523          root     INFO: Replying to: 1362812675990958080
-2021-02-19 17:13:56,773          root     INFO: Id to store: 1362812676741738504
-2021-02-19 17:14:01,239          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-e-submetido-a-cirurgia-de-retirada-de-catarata-19022021
-2021-02-19 17:14:01,249          root     INFO: New article tracked: http://noticias.r7.com/brasil/alexandre-manda-bloquear-perfis-de-daniel-silveira-em-redes-sociais-19022021
-2021-02-19 17:14:01,262          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-carta-secretarios-de-25-estados-pedem-liberacao-de-recursos-19022021
-2021-02-19 17:14:01,272          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-promete-47-mi-de-doses-de-vacinas-ate-o-inicio-de-marco-19022021
-2021-02-19 17:14:01,282          root     INFO: New article tracked: http://noticias.r7.com/brasil/toffoli-interrompe-julgamento-do-quadrilhao-do-mdb-no-senado-19022021
-2021-02-19 17:14:01,292          root     INFO: New article tracked: http://noticias.r7.com/brasil/pesquisa-de-opiniao-brasileiro-esta-dividido-sobre-prisao-de-silveira-19022021
-2021-02-19 17:14:01,302          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-diz-a-prefeitos-que-vai-alterar-a-estrategia-de-vacinacao-19022021
-2021-02-19 17:14:01,313          root     INFO: New article tracked: http://noticias.r7.com/brasil/tucano-se-diz-surpreso-com-troca-na-relatoria-do-caso-silveira-19022021
-2021-02-19 17:14:01,325          root     INFO: New article tracked: http://noticias.r7.com/brasil/moraes-pede-pericia-em-celulares-encontrados-com-deputado-preso-19022021
-2021-02-19 17:14:01,335          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-da-petrobras-nao-planeja-deixar-cargo-apos-pressao-19022021
-2021-02-19 17:14:01,345          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-nomeia-general-heleno-e-skaf-para-conselho-da-republica-19022021
-2021-02-19 17:14:01,355          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputada-do-centrao-sera-a-relatora-da-prisao-de-daniel-silveira-19022021
-2021-02-19 17:14:01,365          root     INFO: New article tracked: http://noticias.r7.com/brasil/ato-de-vandalismo-pode-ter-estragado-vacinas-no-espirito-santo-19022021
-2021-02-19 17:14:01,375          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-do-psdb-sera-relator-da-prisao-de-daniel-silveira-na-camara-19022021
-2021-02-19 17:14:01,386          root     INFO: New article tracked: http://noticias.r7.com/brasil/ciee-realiza-evento-maratona-de-vagas-com-12-mil-oportunidades-19022021
-2021-02-19 17:14:01,395          root     INFO: New article tracked: http://noticias.r7.com/brasil/situacao-da-pandemia-em-sp-e-tema-da-live-jr-desta-sexta-19-19022021
-2021-02-19 17:14:01,406          root     INFO: New article tracked: http://noticias.r7.com/brasil/sessao-da-camara-decide-nesta-sexta-sobre-prisao-de-daniel-silveira-19022021
-2021-02-19 17:14:01,416          root     INFO: New article tracked: http://noticias.r7.com/brasil/maioria-dos-lideres-deve-votar-pela-manutencao-da-prisao-19022021
-2021-02-19 17:14:01,427          root     INFO: New article tracked: http://noticias.r7.com/brasil/bancos-fecham-1700-agencias-e-5000-caixas-eletronicos-em-2020-19022021
-2021-02-19 17:14:01,440          root     INFO: New article tracked: http://noticias.r7.com/brasil/na-prisao-daniel-silveira-ameaca-novamente-o-stf-19022021
-2021-02-19 17:14:01,450          root     INFO: Finished script
+2021-02-19 17:39:04,103          root     INFO: Starting script
+2021-02-19 17:39:05,172          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-19 17:39:06,018          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-19 17:39:06,854          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-19 17:39:07,245          root     INFO: Parsing R7 - Brasil
+2021-02-19 17:39:09,631          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/descompromisso-com-a-vida-diz-secretario-de-saude-da-paraiba-sobre-passagem-de-bolsonaro-sem-mascara.shtml
+2021-02-19 17:39:13,372          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-de-etica-inicia-analise-de-daniel-silveira-na-terca-19022021
+2021-02-19 17:39:13,385          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-destravar-vacinas-senador-propoe-que-uniao-assuma-risco-19022021
+2021-02-19 17:39:13,395          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-quer-adiantar-13-de-aposentados-e-abono-salarial-19022021
+2021-02-19 17:39:13,407          root     INFO: New article tracked: http://noticias.r7.com/brasil/daniel-silveira-vai-participar-da-sessao-da-camara-sobre-sua-prisao-19022021
+2021-02-19 17:39:13,418          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-reafirma-mudancas-na-petrobras-e-pede-previsibilidade-19022021
+2021-02-19 17:39:13,703          root     INFO: Removed http://noticias.r7.com/brasil/maioria-dos-lideres-deve-votar-pela-manutencao-da-prisao-19022021
+2021-02-19 17:39:13,708          root     INFO: Removed http://noticias.r7.com/brasil/bancos-fecham-1700-agencias-e-5000-caixas-eletronicos-em-2020-19022021
+2021-02-19 17:39:13,712          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/aliados-do-governo-tentam-acelerar-a-tramitacao-de-pecs-que-podem-abrir-espaco-para-auxilio.shtml
+2021-02-19 17:39:13,716          root     INFO: Removed http://noticias.r7.com/brasil/na-prisao-daniel-silveira-ameaca-novamente-o-stf-19022021
+2021-02-19 17:39:13,720          root     INFO: Removed http://noticias.r7.com/brasil/sessao-da-camara-decide-nesta-sexta-sobre-prisao-de-daniel-silveira-19022021
+2021-02-19 17:39:13,724          root     INFO: Removed http://noticias.r7.com/brasil/situacao-da-pandemia-em-sp-e-tema-da-live-jr-desta-sexta-19-19022021
+2021-02-19 17:39:13,724          root     INFO: Finished script
