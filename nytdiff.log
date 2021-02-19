@@ -1,18 +1,18 @@
-2021-02-19 17:39:04,103          root     INFO: Starting script
-2021-02-19 17:39:05,172          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-19 17:39:06,018          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-19 17:39:06,854          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-19 17:39:07,245          root     INFO: Parsing R7 - Brasil
-2021-02-19 17:39:09,631          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/descompromisso-com-a-vida-diz-secretario-de-saude-da-paraiba-sobre-passagem-de-bolsonaro-sem-mascara.shtml
-2021-02-19 17:39:13,372          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-de-etica-inicia-analise-de-daniel-silveira-na-terca-19022021
-2021-02-19 17:39:13,385          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-destravar-vacinas-senador-propoe-que-uniao-assuma-risco-19022021
-2021-02-19 17:39:13,395          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-quer-adiantar-13-de-aposentados-e-abono-salarial-19022021
-2021-02-19 17:39:13,407          root     INFO: New article tracked: http://noticias.r7.com/brasil/daniel-silveira-vai-participar-da-sessao-da-camara-sobre-sua-prisao-19022021
-2021-02-19 17:39:13,418          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-reafirma-mudancas-na-petrobras-e-pede-previsibilidade-19022021
-2021-02-19 17:39:13,703          root     INFO: Removed http://noticias.r7.com/brasil/maioria-dos-lideres-deve-votar-pela-manutencao-da-prisao-19022021
-2021-02-19 17:39:13,708          root     INFO: Removed http://noticias.r7.com/brasil/bancos-fecham-1700-agencias-e-5000-caixas-eletronicos-em-2020-19022021
-2021-02-19 17:39:13,712          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/aliados-do-governo-tentam-acelerar-a-tramitacao-de-pecs-que-podem-abrir-espaco-para-auxilio.shtml
-2021-02-19 17:39:13,716          root     INFO: Removed http://noticias.r7.com/brasil/na-prisao-daniel-silveira-ameaca-novamente-o-stf-19022021
-2021-02-19 17:39:13,720          root     INFO: Removed http://noticias.r7.com/brasil/sessao-da-camara-decide-nesta-sexta-sobre-prisao-de-daniel-silveira-19022021
-2021-02-19 17:39:13,724          root     INFO: Removed http://noticias.r7.com/brasil/situacao-da-pandemia-em-sp-e-tema-da-live-jr-desta-sexta-19-19022021
-2021-02-19 17:39:13,724          root     INFO: Finished script
+2021-02-19 17:52:36,147          root     INFO: Starting script
+2021-02-19 17:52:36,991          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-19 17:52:37,669          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-19 17:52:38,353          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-19 17:52:38,547          root     INFO: Parsing R7 - Brasil
+2021-02-19 17:52:41,018          root     INFO: O presidente Jair Bolsonaro <ins>(sem partido)</ins> teve rápida passagem por Campina Grande (PB) nesta sexta-feira (19), onde fez escala no aeroporto João Suassuna antes de partir para Pernambuco. Ele cumpriria agenda em Sertânia, no interior pernambucano. Leia mais (02/19/2021 - 14h35)
+2021-02-19 17:52:42,763          root     INFO: Media ready with ids: 1362822432093044737
+2021-02-19 17:52:42,764          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-19 17:52:42,764          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/descompromisso-com-a-vida-diz-secretario-de-saude-da-paraiba-sobre-passagem-de-bolsonaro-sem-mascara.shtml
+2021-02-19 17:52:42,773          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/descompromisso-com-a-vida-diz-secretario-de-saude-da-paraiba-sobre-passagem-de-bolsonaro-sem-mascara.shtml
+2021-02-19 17:52:42,935          root     INFO: Replying to: 1362822433657548807
+2021-02-19 17:52:43,327          root     INFO: Id to store: 1362822434445959168
+2021-02-19 17:52:47,730          root     INFO: Removed http://noticias.r7.com/brasil/governo-quer-adiantar-13-de-aposentados-e-abono-salarial-19022021
+2021-02-19 17:52:47,734          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-reafirma-mudancas-na-petrobras-e-pede-previsibilidade-19022021
+2021-02-19 17:52:47,738          root     INFO: Removed http://noticias.r7.com/brasil/para-destravar-vacinas-senador-propoe-que-uniao-assuma-risco-19022021
+2021-02-19 17:52:47,742          root     INFO: Removed http://noticias.r7.com/brasil/daniel-silveira-vai-participar-da-sessao-da-camara-sobre-sua-prisao-19022021
+2021-02-19 17:52:47,746          root     INFO: Removed http://noticias.r7.com/brasil/conselho-de-etica-inicia-analise-de-daniel-silveira-na-terca-19022021
+2021-02-19 17:52:47,747          root     INFO: Finished script
