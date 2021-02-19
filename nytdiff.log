@@ -1,15 +1,6 @@
-2021-02-19 19:46:55,982          root     INFO: Starting script
-2021-02-19 19:46:56,898          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-19 19:46:57,595          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-19 19:46:58,285          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-19 19:46:58,461          root     INFO: Parsing R7 - Brasil
-2021-02-19 19:46:59,181          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2021/02/o-fim-dos-jornais.shtml
-2021-02-19 19:46:59,250          root     INFO: Foi a primeira vez que se viram cartazes de "Proibido Fumar" na parede. Eles foram pregados no auditório no qual o surgeon general, a maior autoridade em saúde pública dos Estados Unidos, divulgou o <del>Relatório</del> <ins>"Relatório</ins> sobre Fumo e <del>Saúde.</del> <ins>Saúde".</ins> Foi em 11 de janeiro de 1964, um sábado. Leia mais (02/19/2021 - 16h00)
-2021-02-19 19:47:01,067          root     INFO: Media ready with ids: 1362851197946908674
-2021-02-19 19:47:01,067          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-19 19:47:01,068          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/02/historiadora-conta-como-ativistas-e-empresarios-apagaram-o-cigarro.shtml
-2021-02-19 19:47:01,075          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/02/historiadora-conta-como-ativistas-e-empresarios-apagaram-o-cigarro.shtml
-2021-02-19 19:47:01,258          root     INFO: Replying to: 1362851199553257476
-2021-02-19 19:47:01,662          root     INFO: Id to store: 1362851200329220097
-2021-02-19 19:47:08,461          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/vagas-intermitentes.shtml
-2021-02-19 19:47:08,462          root     INFO: Finished script
+2021-02-19 19:57:47,493          root     INFO: Starting script
+2021-02-19 19:57:48,352          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-19 19:57:49,051          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-19 19:57:49,750          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-19 19:57:50,037          root     INFO: Parsing R7 - Brasil
+2021-02-19 19:57:57,657          root     INFO: Finished script
