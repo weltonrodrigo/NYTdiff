@@ -1,27 +1,23 @@
-2021-02-19 23:57:44,485          root     INFO: Starting script
-2021-02-19 23:57:45,337          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-19 23:57:46,048          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-19 23:57:46,747          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-19 23:57:47,048          root     INFO: Parsing R7 - Brasil
-2021-02-19 23:57:49,757          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/silveira-ainda-enfrentara-processos-na-camara-no-stf-e-no-psl-saiba-o-que-acontece-a-partir-de-agora.shtml
-2021-02-19 23:57:49,808          root     INFO: A Câmara decidiu nesta sexta-feira (19) manter preso o deputado Daniel Silveira (PSL-RJ), aliado do presidente Jair <del>Bolsonaro.</del> <ins>Bolsonaro (sem partido).</ins> Leia mais (02/19/2021 - 20h19)
-2021-02-19 23:57:51,500          root     INFO: Media ready with ids: 1362914324176654337
-2021-02-19 23:57:51,500          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-19 23:57:51,500          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/por-364-a-130-camara-confirma-decisao-do-stf-e-mantem-prisao-de-deputado-abandonado-pelo-planalto.shtml
-2021-02-19 23:57:51,508          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/por-364-a-130-camara-confirma-decisao-do-stf-e-mantem-prisao-de-deputado-abandonado-pelo-planalto.shtml
-2021-02-19 23:57:51,689          root     INFO: Replying to: 1362914325640413187
-2021-02-19 23:57:51,909          root     INFO: Id to store: 1362914326303145992
-2021-02-19 23:57:52,127          root     INFO: Em fala à Câmara, deputado preso pede <del>desculpas,</del> <ins>desculpas e</ins> diz que se excedeu e não é risco à democracia
-2021-02-19 23:57:53,862          root     INFO: Media ready with ids: 1362914333827756033
-2021-02-19 23:57:53,863          root     INFO: Text to tweet: Modificação do Título
-2021-02-19 23:57:53,863          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-fala-a-camara-deputado-preso-pede-desculpas-diz-que-se-excedeu-e-nao-e-risco-a-democracia.shtml
-2021-02-19 23:57:53,872          root     INFO: Replying to: 1362869083792961542
-2021-02-19 23:57:54,079          root     INFO: Id to store: 1362914335480303619
-2021-02-19 23:57:54,089          root     INFO: Em sua defesa à Câmara, o deputado federal preso Daniel Silveira (PSL-RJ) adotou um tom conciliatório e pediu desculpas pelos ataques ao STF (Supremo Tribunal Federal). <del>"De</del> <ins>“De</ins> maneira alguma me considero um risco à <del>democracia",</del> <ins>democracia”,</ins> disse o parlamentar. Leia mais (02/19/2021 - 17h36)
-2021-02-19 23:57:55,855          root     INFO: Media ready with ids: 1362914342069563394
-2021-02-19 23:57:55,855          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-19 23:57:55,856          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-fala-a-camara-deputado-preso-pede-desculpas-diz-que-se-excedeu-e-nao-e-risco-a-democracia.shtml
-2021-02-19 23:57:55,864          root     INFO: Replying to: 1362914335480303619
-2021-02-19 23:57:56,077          root     INFO: Id to store: 1362914343818571776
-2021-02-19 23:58:00,606          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/defesa-de-silveira-diz-que-prisao-de-deputado-e-violento-ataque-a-liberdade-de-expressao.shtml
-2021-02-19 23:58:00,607          root     INFO: Finished script
+2021-02-20 00:57:28,997          root     INFO: Starting script
+2021-02-20 00:57:29,851          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-20 00:57:30,553          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-20 00:57:31,261          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-20 00:57:31,412          root     INFO: Parsing R7 - Brasil
+2021-02-20 00:57:34,019          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/14-dos-21-deputados-que-fazem-parte-do-conselho-de-etica-votaram-a-favor-da-prisao-de-daniel-silveira.shtml
+2021-02-20 00:57:34,035          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/unidos-centrao-e-oposicao-aplicam-derrota-acachapante-a-bolsonaristas-na-camara-veja-como-cada-um-votou.shtml
+2021-02-20 00:57:34,119          root     INFO: A imolação de Daniel Silveira no altar do centrão foi o preço a pagar por Jair Bolsonaro para manter o arranjo de poder com o qual quer tentar se reeleger em <del>2002,</del> <ins>2022,</ins> mas mostra toda a fragilidade do arcabouço. Leia mais (02/19/2021 - 20h18)
+2021-02-20 00:57:35,867          root     INFO: Media ready with ids: 1362929358088925184
+2021-02-20 00:57:35,868          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-20 00:57:35,868          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/silveira-e-culpado-util-para-centrao-mostrar-poder-na-alianca-com-bolsonaro.shtml
+2021-02-20 00:57:35,875          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/silveira-e-culpado-util-para-centrao-mostrar-poder-na-alianca-com-bolsonaro.shtml
+2021-02-20 00:57:36,075          root     INFO: Replying to: 1362929359602991110
+2021-02-20 00:57:36,316          root     INFO: Id to store: 1362929360399966209
+2021-02-20 00:57:36,727          root     INFO: A Folha completa 100 anos nesta sexta-feira (19). Veja a seguir o que autoridades em geral e diferentes membros da sociedade falam sobre o centenário do maior jornal do país. Leia mais (02/19/2021 - <del>07h05)</del> <ins>07h06)</ins>
+2021-02-20 00:57:38,415          root     INFO: Media ready with ids: 1362929368721469443
+2021-02-20 00:57:38,415          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-20 00:57:38,415          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/veja-manifestacoes-de-parabens-pelos-100-anos-da-folha.shtml
+2021-02-20 00:57:38,423          root     INFO: Replying to: 1362906161029275649
+2021-02-20 00:57:38,632          root     INFO: Id to store: 1362929370172715012
+2021-02-20 00:57:42,782          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-convoca-reuniao-do-comando-da-camara-para-discutir-prisao-de-daniel-silveira.shtml
+2021-02-20 00:57:42,786          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/prisao-de-deputado-mostra-os-custos-do-bolsonarismo-para-os-poderes.shtml
+2021-02-20 00:57:42,787          root     INFO: Finished script
