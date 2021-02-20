@@ -1,23 +1,15 @@
-2021-02-20 00:57:28,997          root     INFO: Starting script
-2021-02-20 00:57:29,851          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-20 00:57:30,553          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-20 00:57:31,261          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-20 00:57:31,412          root     INFO: Parsing R7 - Brasil
-2021-02-20 00:57:34,019          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/14-dos-21-deputados-que-fazem-parte-do-conselho-de-etica-votaram-a-favor-da-prisao-de-daniel-silveira.shtml
-2021-02-20 00:57:34,035          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/unidos-centrao-e-oposicao-aplicam-derrota-acachapante-a-bolsonaristas-na-camara-veja-como-cada-um-votou.shtml
-2021-02-20 00:57:34,119          root     INFO: A imolação de Daniel Silveira no altar do centrão foi o preço a pagar por Jair Bolsonaro para manter o arranjo de poder com o qual quer tentar se reeleger em <del>2002,</del> <ins>2022,</ins> mas mostra toda a fragilidade do arcabouço. Leia mais (02/19/2021 - 20h18)
-2021-02-20 00:57:35,867          root     INFO: Media ready with ids: 1362929358088925184
-2021-02-20 00:57:35,868          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-20 00:57:35,868          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/silveira-e-culpado-util-para-centrao-mostrar-poder-na-alianca-com-bolsonaro.shtml
-2021-02-20 00:57:35,875          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/silveira-e-culpado-util-para-centrao-mostrar-poder-na-alianca-com-bolsonaro.shtml
-2021-02-20 00:57:36,075          root     INFO: Replying to: 1362929359602991110
-2021-02-20 00:57:36,316          root     INFO: Id to store: 1362929360399966209
-2021-02-20 00:57:36,727          root     INFO: A Folha completa 100 anos nesta sexta-feira (19). Veja a seguir o que autoridades em geral e diferentes membros da sociedade falam sobre o centenário do maior jornal do país. Leia mais (02/19/2021 - <del>07h05)</del> <ins>07h06)</ins>
-2021-02-20 00:57:38,415          root     INFO: Media ready with ids: 1362929368721469443
-2021-02-20 00:57:38,415          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-20 00:57:38,415          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/veja-manifestacoes-de-parabens-pelos-100-anos-da-folha.shtml
-2021-02-20 00:57:38,423          root     INFO: Replying to: 1362906161029275649
-2021-02-20 00:57:38,632          root     INFO: Id to store: 1362929370172715012
-2021-02-20 00:57:42,782          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-convoca-reuniao-do-comando-da-camara-para-discutir-prisao-de-daniel-silveira.shtml
-2021-02-20 00:57:42,786          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/prisao-de-deputado-mostra-os-custos-do-bolsonarismo-para-os-poderes.shtml
-2021-02-20 00:57:42,787          root     INFO: Finished script
+2021-02-20 01:48:36,425          root     INFO: Starting script
+2021-02-20 01:48:37,336          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-20 01:48:38,040          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-20 01:48:38,743          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-20 01:48:38,983          root     INFO: Parsing R7 - Brasil
+2021-02-20 01:48:42,348          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-sessao-na-camara-daniel-silveira-se-contradiz-sobre-acusacoes-e-prisao.shtml
+2021-02-20 01:48:42,705          root     INFO: O centenário da Folha foi noticiado pelo <del>jornal O Globo, do Rio, com chamada de primeira página destacando que o "Jornal faz 100 anos reafirmando defesa</del> <ins>Jornal Nacional,</ins> da <del>democracia".</del> <ins>TV Globo, nesta sexta-feira (19), que destacou a publicação como "um dos órgãos de imprensa mais importantes do Brasil".</ins> Leia mais (02/19/2021 - 17h10)
+2021-02-20 01:48:44,503          root     INFO: Media ready with ids: 1362942228679839749
+2021-02-20 01:48:44,503          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-20 01:48:44,504          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/veiculos-noticiam-centenario-da-folha-e-defesa-da-democracia.shtml
+2021-02-20 01:48:44,516          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/veiculos-noticiam-centenario-da-folha-e-defesa-da-democracia.shtml
+2021-02-20 01:48:44,709          root     INFO: Replying to: 1362942230432989184
+2021-02-20 01:48:44,952          root     INFO: Id to store: 1362942231196409856
+2021-02-20 01:48:50,306          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/como-fez-daniel-silveira-referencias-a-ditadura-marcam-governo-bolsonaro-e-seus-aliados-relembre.shtml
+2021-02-20 01:48:50,307          root     INFO: Finished script
