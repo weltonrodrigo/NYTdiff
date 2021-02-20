@@ -1,14 +1,22 @@
-2021-02-20 16:39:49,176          root     INFO: Starting script
-2021-02-20 16:39:50,202          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-20 16:39:51,043          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-20 16:39:51,885          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-20 16:39:52,103          root     INFO: Parsing R7 - Brasil
-2021-02-20 16:39:52,509          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/sob-intervencao.shtml
-2021-02-20 16:39:54,665          root     INFO: Fundador do Novo, o empresário João Amoêdo diz que discorda do posicionamento da bancada do partido nesta sexta-feira (19), quando seus <ins>oito</ins> deputados votaram <del>unanimemente</del> contra a prisão de Daniel Silveira (PSL-RJ). Leia mais (02/20/2021 - 12h38)
-2021-02-20 16:39:56,640          root     INFO: Media ready with ids: 1363166506876559364
-2021-02-20 16:39:56,641          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-20 16:39:56,641          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/amoedo-diz-que-discorda-de-deputados-do-novo-que-votaram-unanimemente-contra-prisao-de-daniel-silveira.shtml
-2021-02-20 16:39:56,648          root     INFO: Replying to: 1363156052146020352
-2021-02-20 16:39:56,978          root     INFO: Id to store: 1363166509099548674
-2021-02-20 16:40:01,597          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/02/sera-possivel-mandar-militares-de-volta-para-os-quarteis.shtml
-2021-02-20 16:40:01,598          root     INFO: Finished script
+2021-02-20 17:12:30,633          root     INFO: Starting script
+2021-02-20 17:12:31,474          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-20 17:12:32,146          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-20 17:12:32,826          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-20 17:12:32,978          root     INFO: Parsing R7 - Brasil
+2021-02-20 17:12:33,388          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/02/carta-aberta-a-abel-ferreira-com-admiracao.shtml
+2021-02-20 17:12:33,408          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernandatorres/2021/02/virei-leitora-da-folha-por-causa-da-ilustrada-e-nela-celebro-o-centenario.shtml
+2021-02-20 17:12:33,717          root     INFO: <del>Merece o mais enérgico repúdio e a mais vigorosa reprovação a fala do</del> <ins>Um</ins> deputado <del>Daniel Silveira (PSL-RJ), que enxovalhou a honra dos ministros</del> <ins>opositor</ins> do <del>Supremo Tribunal Federal e avançou para o campo da ofensa ao Estado democrático</del> <ins>governo Jair Bolsonaro sobe à tribuna do Parlamento e,</ins> de <del>Direito.</del> <ins>lá, estimula seus apoiadores a matá-lo. Estará protegido pela imunidade parlamentar? Poderá, sem qualquer consequência, incitar que matem o presidente da República? Se você acredita que essa hipotética fala seria criminosa, concordamos que a imunidade parlamentar não é absoluta.</ins> Leia mais (02/19/2021 - 23h15)
+2021-02-20 17:12:35,569          root     INFO: Media ready with ids: 1363174723123822594
+2021-02-20 17:12:35,569          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-20 17:12:35,570          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/a-prisao-em-flagrante-e-inafiancavel-do-deputado-daniel-silveira-psl-rj-tem-amparo-legal-sim.shtml
+2021-02-20 17:12:35,580          root     INFO: Replying to: 1363138282704560131
+2021-02-20 17:12:35,863          root     INFO: Id to store: 1363174725128761344
+2021-02-20 17:12:35,909          root     INFO: <del>Um deputado opositor do governo Jair Bolsonaro sobe à tribuna do Parlamento e, de lá, estimula seus apoiadores a matá-lo. Estará protegido pela imunidade parlamentar? Poderá, sem qualquer consequência, incitar que matem</del> <ins>Merece</ins> o <del>presidente da República? Se você acredita que essa hipotética fala seria criminosa, concordamos que</del> <ins>mais enérgico repúdio e</ins> a <del>imunidade parlamentar não é absoluta.</del> <ins>mais vigorosa reprovação a fala do deputado Daniel Silveira (PSL-RJ), que enxovalhou a honra dos ministros do Supremo Tribunal Federal e avançou para o campo da ofensa ao Estado democrático de Direito.</ins> Leia mais (02/19/2021 - 23h15)
+2021-02-20 17:12:37,741          root     INFO: Media ready with ids: 1363174732112216068
+2021-02-20 17:12:37,741          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-20 17:12:37,741          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/a-prisao-em-flagrante-e-inafiancavel-do-deputado-daniel-silveira-psl-rj-tem-amparo-legal-nao.shtml
+2021-02-20 17:12:37,750          root     INFO: Replying to: 1363138291319656450
+2021-02-20 17:12:37,970          root     INFO: Id to store: 1363174734108712960
+2021-02-20 17:12:44,848          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/02/com-jogos-de-toquio-incertos-coi-e-china-promovem-pequim-2022.shtml
+2021-02-20 17:12:44,853          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/02/ricardo-terto-fala-sobre-internet-e-acessibilidade-no-brasil-da-pandemia.shtml
+2021-02-20 17:12:44,853          root     INFO: Finished script
