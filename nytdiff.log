@@ -1,10 +1,13 @@
-2021-02-20 15:52:54,866          root     INFO: Starting script
-2021-02-20 15:52:55,708          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-20 15:52:56,404          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-20 15:52:57,122          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-20 15:52:57,273          root     INFO: Parsing R7 - Brasil
-2021-02-20 15:52:59,865          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/amoedo-diz-que-discorda-de-deputados-do-novo-que-votaram-unanimemente-contra-prisao-de-daniel-silveira.shtml
-2021-02-20 15:52:59,880          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49109
-2021-02-20 15:53:04,735          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pgr-prepara-denuncia-contra-deputado-bolsonarista-preso-apos-ataques-a-ministros-do-supremo.shtml
-2021-02-20 15:53:04,740          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-da-cinco-dias-para-ministerio-da-justica-dizer-se-cooperacao-internacional-na-lava-jato-foi-oficial.shtml
-2021-02-20 15:53:04,742          root     INFO: Finished script
+2021-02-20 15:58:16,102          root     INFO: Starting script
+2021-02-20 15:58:17,011          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-20 15:58:17,714          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-20 15:58:18,425          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-20 15:58:18,552          root     INFO: Parsing R7 - Brasil
+2021-02-20 15:58:21,662          root     INFO: Fundador do Novo, o empresário João Amoêdo diz que discorda do posicionamento da bancada do partido nesta sexta-feira (19), quando seus <ins>oito</ins> deputados votaram unanimemente contra a prisão de Daniel Silveira (PSL-RJ). Leia mais (02/20/2021 - 12h38)
+2021-02-20 15:58:23,403          root     INFO: Media ready with ids: 1363156049793015809
+2021-02-20 15:58:23,403          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-20 15:58:23,403          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/amoedo-diz-que-discorda-de-deputados-do-novo-que-votaram-unanimemente-contra-prisao-de-daniel-silveira.shtml
+2021-02-20 15:58:23,411          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/amoedo-diz-que-discorda-de-deputados-do-novo-que-votaram-unanimemente-contra-prisao-de-daniel-silveira.shtml
+2021-02-20 15:58:23,628          root     INFO: Replying to: 1363156051336519683
+2021-02-20 15:58:23,844          root     INFO: Id to store: 1363156052146020352
+2021-02-20 15:58:29,010          root     INFO: Finished script
