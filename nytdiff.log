@@ -1,6 +1,28 @@
-2021-02-20 13:31:29,217          root     INFO: Starting script
-2021-02-20 13:31:30,055          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-20 13:31:30,742          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-20 13:31:31,416          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-20 13:31:31,640          root     INFO: Parsing R7 - Brasil
-2021-02-20 13:31:38,938          root     INFO: Finished script
+2021-02-20 13:46:52,452          root     INFO: Starting script
+2021-02-20 13:46:53,357          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-20 13:46:54,062          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-20 13:46:54,771          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-20 13:46:55,014          root     INFO: Parsing R7 - Brasil
+2021-02-20 13:46:57,986          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49095
+2021-02-20 13:47:02,650          root     INFO: New article tracked: http://noticias.r7.com/brasil/itamaraty-viabiliza-voo-para-brasileiros-entre-portugal-e-brasil-20022021
+2021-02-20 13:47:02,682          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/prisoes-de-belo-e-daniel-silveira-e-troca-na-petrobras-marcam-semana-20022021
+2021-02-20 13:47:02,712          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-sorteia-premio-de-r-34-milhoes-neste-sabado-20022021
+2021-02-20 13:47:02,745          root     INFO: New article tracked: http://noticias.r7.com/brasil/aposentados-e-pensionistas-ja-podem-consultar-extrato-do-inss-20022021
+2021-02-20 13:47:02,777          root     INFO: New article tracked: http://noticias.r7.com/brasil/petrobras-recebe-oficio-do-governo-solicitando-troca-de-presidente-19022021
+2021-02-20 13:47:02,814          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-ja-aplicou-mais-de-57-milhoes-de-doses-de-vacina-contra-covid-19022021
+2021-02-20 13:47:02,845          root     INFO: New article tracked: http://noticias.r7.com/brasil/general-joaquim-silva-e-luna-o-nome-de-bolsonaro-para-petrobras-19022021
+2021-02-20 13:47:02,877          root     INFO: New article tracked: http://noticias.r7.com/brasil/sera-um-marco-na-mudanca-de-comportamento-interno-diz-lira-19022021
+2021-02-20 13:47:02,907          root     INFO: New article tracked: http://noticias.r7.com/brasil/plenario-da-camara-decide-manter-deputado-daniel-silveira-preso-19022021
+2021-02-20 13:47:02,938          root     INFO: New article tracked: http://noticias.r7.com/brasil/stj-investiga-se-lava-jato-tentou-intimidar-ministros-do-tribunal-19022021
+2021-02-20 13:47:02,973          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-da-mais-5-dias-para-governo-explicar-prioridade-da-vacinacao-19022021
+2021-02-20 13:47:03,002          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-pede-inquerito-para-apurar-conduta-de-silveira-ao-ser-preso-19022021
+2021-02-20 13:47:03,030          root     INFO: New article tracked: http://noticias.r7.com/brasil/advogado-de-deputado-diz-que-prisao-e-ilegal-e-deve-ser-revogada-19022021
+2021-02-20 13:47:03,059          root     INFO: New article tracked: http://noticias.r7.com/brasil/relatora-defende-manutencao-de-prisao-do-deputado-daniel-silveira-19022021
+2021-02-20 13:47:03,092          root     INFO: New article tracked: http://noticias.r7.com/brasil/peco-desculpas-a-todo-o-brasil-diz-daniel-silveira-durante-sessao-19022021
+2021-02-20 13:47:03,120          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-anuncia-comissao-por-mudanca-legal-contra-conflito-com-judiciario-19022021
+2021-02-20 13:47:03,153          root     INFO: New article tracked: http://noticias.r7.com/brasil/sessao-na-camara-decide-sobre-prisao-de-daniel-silveira-assista-19022021
+2021-02-20 13:47:03,185          root     INFO: New article tracked: http://noticias.r7.com/brasil/missao-e-defender-democracia-diz-relatora-do-caso-daniel-silveira-19022021
+2021-02-20 13:47:03,213          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacina-nao-e-solucao-para-altas-taxas-de-transmissao-diz-gabbardo-19022021
+2021-02-20 13:47:03,241          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-de-etica-da-camara-tem-outros-casos-parados-todos-do-psl-19022021
+2021-02-20 13:47:03,273          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/de-censura-a-sigilo-veja-serie-de-controversias-de-inquerito-das-fake-news-no-supremo.shtml
+2021-02-20 13:47:03,274          root     INFO: Finished script
