@@ -1,6 +1,10 @@
-2021-02-20 15:36:26,503          root     INFO: Starting script
-2021-02-20 15:36:27,323          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-20 15:36:27,991          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-20 15:36:28,669          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-20 15:36:28,860          root     INFO: Parsing R7 - Brasil
-2021-02-20 15:36:35,264          root     INFO: Finished script
+2021-02-20 15:52:54,866          root     INFO: Starting script
+2021-02-20 15:52:55,708          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-20 15:52:56,404          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-20 15:52:57,122          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-20 15:52:57,273          root     INFO: Parsing R7 - Brasil
+2021-02-20 15:52:59,865          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/amoedo-diz-que-discorda-de-deputados-do-novo-que-votaram-unanimemente-contra-prisao-de-daniel-silveira.shtml
+2021-02-20 15:52:59,880          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49109
+2021-02-20 15:53:04,735          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pgr-prepara-denuncia-contra-deputado-bolsonarista-preso-apos-ataques-a-ministros-do-supremo.shtml
+2021-02-20 15:53:04,740          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/lewandowski-da-cinco-dias-para-ministerio-da-justica-dizer-se-cooperacao-internacional-na-lava-jato-foi-oficial.shtml
+2021-02-20 15:53:04,742          root     INFO: Finished script
