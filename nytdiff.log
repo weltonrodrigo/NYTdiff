@@ -1,12 +1,7 @@
-2021-02-21 21:49:08,717          root     INFO: Starting script
-2021-02-21 21:49:09,512          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-21 21:49:10,173          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-21 21:49:10,825          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-21 21:49:10,922          root     INFO: Parsing R7 - Brasil
-2021-02-21 21:49:11,297          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/02/governo-atual-se-alimenta-do-combate-a-inimigos-imaginarios.shtml
-2021-02-21 21:49:11,350          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/02/flamengo-dos-craques-se-aproxima-do-titulo-mas-decisao-sera-na-quinta.shtml
-2021-02-21 21:49:13,105          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/supremo-homologa-acordo-entre-pgr-e-onyx-que-tera-de-pagar-r-189-mil-por-caixa-dois.shtml
-2021-02-21 21:49:16,871          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/02/o-golpe-dos-militares.shtml
-2021-02-21 21:49:16,877          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/folha-100-anos/2021/02/mergulhe-na-historia-da-folha-em-100-fatos-marcantes-do-jornal.shtml
-2021-02-21 21:49:16,880          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helio-beltrao/2021/02/os-riscos-da-autonomia.shtml
-2021-02-21 21:49:16,881          root     INFO: Finished script
+2021-02-21 21:57:46,187          root     INFO: Starting script
+2021-02-21 21:57:47,078          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-21 21:57:47,785          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-21 21:57:48,490          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-21 21:57:48,667          root     INFO: Parsing R7 - Brasil
+2021-02-21 21:57:56,921          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/02/governo-atual-se-alimenta-do-combate-a-inimigos-imaginarios.shtml
+2021-02-21 21:57:56,923          root     INFO: Finished script
