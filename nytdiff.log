@@ -1,20 +1,16 @@
-2021-02-21 01:00:46,105          root     INFO: Starting script
-2021-02-21 01:00:47,158          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-21 01:00:47,986          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-21 01:00:48,803          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-21 01:00:49,061          root     INFO: Parsing R7 - Brasil
-2021-02-21 01:00:49,523          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/02/laura.shtml
-2021-02-21 01:00:53,283          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/02/ministro-do-stf-suspende-lei-que-autoriza-uso-de-mercurio-no-garimpo-em-roraima.shtml
-2021-02-21 01:00:55,081          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-10-milhoes-de-casos-brasil-passa-de-245-mil-mortes-por-covid-20022021
-2021-02-21 01:00:55,093          root     INFO: New article tracked: http://noticias.r7.com/brasil/mesmo-apos-indicacao-bolsonaro-nega-interferencia-na-petrobras-20022021
-2021-02-21 01:00:55,105          root     INFO: New article tracked: http://noticias.r7.com/brasil/produzido-100-no-brasil-satelite-amazonia-1-entrara-em-orbita-20022021
-2021-02-21 01:00:55,115          root     INFO: New article tracked: http://noticias.r7.com/brasil/saiba-quais-grupos-ainda-nao-foram-liberados-para-tomar-a-vacina-20022021
-2021-02-21 01:00:55,125          root     INFO: New article tracked: http://noticias.r7.com/brasil/navios-da-marinha-levam-usinas-de-oxigenio-para-interior-do-amazonas-20022021
-2021-02-21 01:00:55,138          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-tem-prerrogativa-para-nomear-militares-diz-pacheco-20022021
-2021-02-21 01:00:55,148          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacoes-policiais-nao-podem-extrapolar-a-lei-diz-pacheco-20022021
-2021-02-21 01:00:55,158          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-alta-de-covid-19-rio-grande-do-sul-suspende-atividades-20022021
-2021-02-21 01:00:55,167          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-autoriza-compra-das-vacinas-sputnik-v-e-covaxin-20022021
-2021-02-21 01:00:55,176          root     INFO: New article tracked: http://noticias.r7.com/brasil/salvo-pelo-senado-em-2017-aecio-vota-por-prisao-de-daniel-silveira-20022021
-2021-02-21 01:00:55,374          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2020/11/justica-da-prisao-preventiva-a-homem-enquadrado-em-lei-de-crimes-ambientais-por-maltratar-pitbull.shtml
-2021-02-21 01:00:55,379          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/principios-do-psdb-garantem-a-uniao-do-partido.shtml
-2021-02-21 01:00:55,380          root     INFO: Finished script
+2021-02-21 01:50:39,645          root     INFO: Starting script
+2021-02-21 01:50:40,657          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-21 01:50:41,477          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-21 01:50:42,296          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-21 01:50:42,510          root     INFO: Parsing R7 - Brasil
+2021-02-21 01:50:49,669          root     INFO: Removed http://noticias.r7.com/brasil/produzido-100-no-brasil-satelite-amazonia-1-entrara-em-orbita-20022021
+2021-02-21 01:50:49,674          root     INFO: Removed http://noticias.r7.com/brasil/com-10-milhoes-de-casos-brasil-passa-de-245-mil-mortes-por-covid-20022021
+2021-02-21 01:50:49,679          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-tem-prerrogativa-para-nomear-militares-diz-pacheco-20022021
+2021-02-21 01:50:49,682          root     INFO: Removed http://noticias.r7.com/brasil/com-alta-de-covid-19-rio-grande-do-sul-suspende-atividades-20022021
+2021-02-21 01:50:49,686          root     INFO: Removed http://noticias.r7.com/brasil/salvo-pelo-senado-em-2017-aecio-vota-por-prisao-de-daniel-silveira-20022021
+2021-02-21 01:50:49,689          root     INFO: Removed http://noticias.r7.com/brasil/governo-autoriza-compra-das-vacinas-sputnik-v-e-covaxin-20022021
+2021-02-21 01:50:49,692          root     INFO: Removed http://noticias.r7.com/brasil/mesmo-apos-indicacao-bolsonaro-nega-interferencia-na-petrobras-20022021
+2021-02-21 01:50:49,697          root     INFO: Removed http://noticias.r7.com/brasil/operacoes-policiais-nao-podem-extrapolar-a-lei-diz-pacheco-20022021
+2021-02-21 01:50:49,702          root     INFO: Removed http://noticias.r7.com/brasil/navios-da-marinha-levam-usinas-de-oxigenio-para-interior-do-amazonas-20022021
+2021-02-21 01:50:49,706          root     INFO: Removed http://noticias.r7.com/brasil/saiba-quais-grupos-ainda-nao-foram-liberados-para-tomar-a-vacina-20022021
+2021-02-21 01:50:49,706          root     INFO: Finished script
