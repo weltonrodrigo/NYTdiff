@@ -1,8 +1,17 @@
-2021-02-22 09:57:51,644          root     INFO: Starting script
-2021-02-22 09:57:52,480          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-22 09:57:53,165          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-22 09:57:53,847          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-22 09:57:53,994          root     INFO: Parsing R7 - Brasil
-2021-02-22 09:57:56,604          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/toffoli-aponta-financiamento-internacional-a-ataques-antidemocraticos-no-brasil.shtml
-2021-02-22 09:58:01,272          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/jair-bolsonaro-pediu-para-bebianno-processar-carlos-bolsonaro-mostra-video.shtml
-2021-02-22 09:58:01,272          root     INFO: Finished script
+2021-02-22 10:22:49,656          root     INFO: Starting script
+2021-02-22 10:22:50,709          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-22 10:22:51,546          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-22 10:22:52,381          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-22 10:22:52,605          root     INFO: Parsing R7 - Brasil
+2021-02-22 10:23:00,709          root     INFO: Removed http://noticias.r7.com/brasil/ir-2021-contribuinte-ja-pode-juntar-documentos-para-declarar-no-inicio-21022021
+2021-02-22 10:23:00,715          root     INFO: Removed http://noticias.r7.com/brasil/concurso-da-policia-civil-e-suspenso-por-risco-de-covid-no-parana-21022021
+2021-02-22 10:23:00,721          root     INFO: Removed http://noticias.r7.com/brasil/pgr-recebe-noticia-crime-contra-bolsonaro-por-indicar-cloroquina-21022021
+2021-02-22 10:23:00,726          root     INFO: Removed http://noticias.r7.com/brasil/em-video-crivella-agradece-decisao-do-stj-e-chora-ao-falar-da-mae-21022021
+2021-02-22 10:23:00,730          root     INFO: Removed http://noticias.r7.com/brasil/pec-para-viabilizar-auxilio-emergencial-deve-ser-apresentada-hoje-22022021
+2021-02-22 10:23:00,752          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-recebe-relatorio-da-pec-que-vai-viabilizar-novo-auxilio-21022021
+2021-02-22 10:23:00,758          root     INFO: Removed http://noticias.r7.com/brasil/stf-homologa-acordo-que-livra-onyx-de-investigacao-sobre-caixa-2-21022021
+2021-02-22 10:23:00,762          root     INFO: Removed http://noticias.r7.com/brasil/videos/apos-cheia-bolsonaro-promete-visitar-o-acre-proxima-quarta-feira-21022021
+2021-02-22 10:23:00,768          root     INFO: Removed http://noticias.r7.com/brasil/pressionado-pazuello-pede-ajuda-do-planalto-para-comprar-vacinas-21022021
+2021-02-22 10:23:00,774          root     INFO: Removed http://noticias.r7.com/brasil/stf-vira-novo-foco-de-oposicao-a-operacao-lava-jato-21022021
+2021-02-22 10:23:00,780          root     INFO: Removed http://noticias.r7.com/brasil/veja-o-que-ja-se-sabe-sobre-o-novo-auxilio-emergencial-22022021
+2021-02-22 10:23:00,781          root     INFO: Finished script
