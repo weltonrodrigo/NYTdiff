@@ -1,13 +1,8 @@
-2021-02-22 16:41:05,026          root     INFO: Starting script
-2021-02-22 16:41:05,901          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-22 16:41:06,575          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-22 16:41:07,261          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-22 16:41:07,388          root     INFO: Parsing R7 - Brasil
-2021-02-22 16:41:14,492          root     INFO: New article tracked: http://noticias.r7.com/brasil/pec-fiscal-abre-espaco-de-ate-r-30-bi-para-auxilio-e-congela-salarios-22022021
-2021-02-22 16:41:14,507          root     INFO: New article tracked: http://noticias.r7.com/brasil/milhoes-para-um-carnaval-fantasma-e-voce-paga-22022021
-2021-02-22 16:41:14,519          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-bolsonaro-e-reprovado-por-355-e-aprovado-por-329-diz-cnt-22022021
-2021-02-22 16:41:14,531          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-cobra-transparencia-e-questiona-salarios-na-petrobras-22022021
-2021-02-22 16:41:14,542          root     INFO: New article tracked: http://noticias.r7.com/brasil/prazo-de-matricula-da-2-chamada-do-prouni-termina-nesta-quarta-24-22022021
-2021-02-22 16:41:14,553          root     INFO: New article tracked: http://noticias.r7.com/brasil/saude-pede-ajuda-a-planalto-para-adquirir-vacinas-da-janssen-e-pfizer-22022021
-2021-02-22 16:41:14,563          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-culpa-falta-de-comunicacao-por-mudanca-na-petrobras-22022021
-2021-02-22 16:41:14,863          root     INFO: Finished script
+2021-02-22 17:14:46,232          root     INFO: Starting script
+2021-02-22 17:14:47,076          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-22 17:14:47,751          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-22 17:14:48,434          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-22 17:14:48,660          root     INFO: Parsing R7 - Brasil
+2021-02-22 17:14:49,056          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/02/aprendi-com-a-folha-que-os-leitores-de-hoje-podem-ser-os-amigos-do-futuro.shtml
+2021-02-22 17:14:56,841          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-tavares/2021/02/sera-possivel-fechar-o-acordo-comercial-mercosul-uniao-europeia.shtml
+2021-02-22 17:14:56,844          root     INFO: Finished script
