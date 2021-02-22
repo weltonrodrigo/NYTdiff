@@ -1,12 +1,8 @@
-2021-02-22 21:21:28,475          root     INFO: Starting script
-2021-02-22 21:21:29,531          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-22 21:21:30,332          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-22 21:21:31,127          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-22 21:21:31,302          root     INFO: Parsing R7 - Brasil
-2021-02-22 21:21:34,379          root     INFO: <ins>'Não sei se dou risada ou se choro', disse</ins> Eduardo Bolsonaro <del>fez piada com</del> <ins>sobre</ins> petistas que gritavam 'o petróleo é nosso' <ins>em 2016</ins>
-2021-02-22 21:21:36,209          root     INFO: Media ready with ids: 1363962164818677761
-2021-02-22 21:21:36,209          root     INFO: Text to tweet: Modificação do Título
-2021-02-22 21:21:36,209          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/eduardo-bolsonaro-fez-piada-com-petistas-que-gritavam-o-petroleo-e-nosso.shtml
-2021-02-22 21:21:36,219          root     INFO: Replying to: 1363956223347990531
-2021-02-22 21:21:36,476          root     INFO: Id to store: 1363962166462840832
-2021-02-22 21:21:42,221          root     INFO: Finished script
+2021-02-22 21:33:15,336          root     INFO: Starting script
+2021-02-22 21:33:16,394          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-22 21:33:17,259          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-22 21:33:18,106          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-22 21:33:18,393          root     INFO: Parsing R7 - Brasil
+2021-02-22 21:33:18,812          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/02/brasil-so-nao-e-melhor-do-mundo-no-futebol-feminino-por-um-detalhe.shtml
+2021-02-22 21:33:26,632          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/bolsonarismo-e-bolsonarices-custam-caro-para-economia-e-pobres.shtml
+2021-02-22 21:33:26,633          root     INFO: Finished script
