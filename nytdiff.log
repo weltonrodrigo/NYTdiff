@@ -1,12 +1,21 @@
-2021-02-23 16:41:17,397          root     INFO: Starting script
-2021-02-23 16:41:18,235          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-23 16:41:18,916          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-23 16:41:19,599          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-23 16:41:19,750          root     INFO: Parsing R7 - Brasil
-2021-02-23 16:41:22,536          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/para-lira-impeachment-nao-e-prioridade-e-nao-ha-clima-para-medida-extrema.shtml
-2021-02-23 16:41:22,548          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-meio-a-pandemia-camara-dos-deputados-tem-fila-e-aglomeracao.shtml
-2021-02-23 16:41:22,563          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/meu-papel-e-fazer-certo-sem-esperar-que-de-certo-diz-vereador-que-pede-ao-stf-prisao-de-ciro-e-freixo.shtml
-2021-02-23 16:41:27,591          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2021/02/um-pais-sem-limites-e-sem-vergonha.shtml
-2021-02-23 16:41:27,599          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/fux-diz-que-ministro-da-defesa-o-procurou-para-amenizar-crise-sobre-tuite-de-villas-boas.shtml
-2021-02-23 16:41:27,604          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/maioria-do-conselho-de-etica-da-camara-diz-que-silveira-extrapolou-imunidade-parlamentar.shtml
-2021-02-23 16:41:27,605          root     INFO: Finished script
+2021-02-23 17:16:10,622          root     INFO: Starting script
+2021-02-23 17:16:11,476          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-23 17:16:12,159          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-23 17:16:12,849          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-23 17:16:12,998          root     INFO: Parsing R7 - Brasil
+2021-02-23 17:16:13,382          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/02/e-preciso-prender-mais-gente-como-daniel-silveira-antes-que-seja-tarde-demais.shtml
+2021-02-23 17:16:15,874          root     INFO: Para Lira, impeachment <ins>de Bolsonaro</ins> não é prioridade e não há clima para medida extrema
+2021-02-23 17:16:17,662          root     INFO: Media ready with ids: 1364262818573389825
+2021-02-23 17:16:17,663          root     INFO: Text to tweet: Modificação do Título
+2021-02-23 17:16:17,663          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/para-lira-impeachment-nao-e-prioridade-e-nao-ha-clima-para-medida-extrema.shtml
+2021-02-23 17:16:17,672          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/para-lira-impeachment-nao-e-prioridade-e-nao-ha-clima-para-medida-extrema.shtml
+2021-02-23 17:16:17,849          root     INFO: Replying to: 1364262820192337928
+2021-02-23 17:16:18,104          root     INFO: Id to store: 1364262821022818305
+2021-02-23 17:16:18,110          root     INFO: O presidente da Câmara, <ins>deputado</ins> Arthur <del>Lira,</del> <ins>Lira (PP-AL),</ins> afirmou nesta terça-feira (23) que a abertura de um processo de impeachment contra o presidente Jair Bolsonaro <ins>(sem partido)</ins> não está entre suas prioridades e que não vê clima para a "medida extrema". Leia mais (02/23/2021 - 13h28)
+2021-02-23 17:16:19,848          root     INFO: Media ready with ids: 1364262827863793665
+2021-02-23 17:16:19,849          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-23 17:16:19,849          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/para-lira-impeachment-nao-e-prioridade-e-nao-ha-clima-para-medida-extrema.shtml
+2021-02-23 17:16:19,858          root     INFO: Replying to: 1364262821022818305
+2021-02-23 17:16:20,084          root     INFO: Id to store: 1364262829327605763
+2021-02-23 17:16:25,405          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/02/silveira-sequestra-turma-do-miolo-mole-ou-a-nossa-moral-e-a-deles.shtml
+2021-02-23 17:16:25,406          root     INFO: Finished script
