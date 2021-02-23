@@ -1,26 +1,12 @@
-2021-02-23 19:00:29,547          root     INFO: Starting script
-2021-02-23 19:00:30,386          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-23 19:00:31,078          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-23 19:00:31,763          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-23 19:00:32,014          root     INFO: Parsing R7 - Brasil
-2021-02-23 19:00:34,985          root     INFO: <del>Ministros viram bombeiros</del> <ins>Para acalmar empresários, governistas prometem medidas liberais</ins> e <del>tentam conter desespero</del> <ins>projeto</ins> de <del>empresários após intervenção de Bolsonaro na Petrobras</del> <ins>privatizar os Correios ainda essa semana</ins>
-2021-02-23 19:00:36,778          root     INFO: Media ready with ids: 1364289070894108674
-2021-02-23 19:00:36,779          root     INFO: Text to tweet: Modificação do Título
-2021-02-23 19:00:36,779          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/ministros-viram-bombeiros-e-tentam-conter-desespero-de-empresarios-apos-intervencao-de-bolsonaro-na-petrobras.shtml
-2021-02-23 19:00:36,788          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/ministros-viram-bombeiros-e-tentam-conter-desespero-de-empresarios-apos-intervencao-de-bolsonaro-na-petrobras.shtml
-2021-02-23 19:00:36,953          root     INFO: Replying to: 1364289072777330697
-2021-02-23 19:00:37,193          root     INFO: Id to store: 1364289073511292930
-2021-02-23 19:00:39,176          root     INFO: Mundo tem última chance de impedir catástrofe climática, diz <del>Kerry</del> <ins>secretário ambiental de Biden</ins>
-2021-02-23 19:00:40,833          root     INFO: Media ready with ids: 1364289088266895361
-2021-02-23 19:00:40,834          root     INFO: Text to tweet: Modificação do Título
-2021-02-23 19:00:40,835          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/02/mundo-tem-ultima-chance-de-impedir-catastrofe-climatica-diz-kerry.shtml
-2021-02-23 19:00:40,842          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/02/mundo-tem-ultima-chance-de-impedir-catastrofe-climatica-diz-kerry.shtml
-2021-02-23 19:00:41,001          root     INFO: Replying to: 1364289089764229126
-2021-02-23 19:00:41,221          root     INFO: Id to store: 1364289090464661505
-2021-02-23 19:00:41,227          root     INFO: Os Estados Unidos vão acelerar a redução das emissões de gás carbônico e negociar compromissos globais para combater a mudança climática, afirmou nesta terça (23) o secretário especial para o Clima do governo <ins>de Joe</ins> Biden, John Kerry. Leia mais (02/23/2021 - 15h16)
-2021-02-23 19:00:42,940          root     INFO: Media ready with ids: 1364289096986861576
-2021-02-23 19:00:42,940          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-23 19:00:42,940          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/02/mundo-tem-ultima-chance-de-impedir-catastrofe-climatica-diz-kerry.shtml
-2021-02-23 19:00:42,949          root     INFO: Replying to: 1364289090464661505
-2021-02-23 19:00:43,169          root     INFO: Id to store: 1364289098610077708
-2021-02-23 19:00:45,551          root     INFO: Finished script
+2021-02-23 19:20:02,892          root     INFO: Starting script
+2021-02-23 19:20:03,728          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-23 19:20:04,404          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-23 19:20:05,087          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-23 19:20:05,304          root     INFO: Parsing R7 - Brasil
+2021-02-23 19:20:08,198          root     INFO: O STJ (Superior Tribunal de Justiça) <del>formou maioria</del> <ins>anulou</ins> nesta terça-feira (24) <del>para declarar</del> a <del>nulidade da</del> quebra de sigilo bancário e fiscal do senador Flávio Bolsonaro (Republicanos-RJ) no âmbito das investigações <del>no</del> <ins>do</ins> caso da “rachadinha” na <del>Alerj (Assembleia</del> <ins>Assembleia</ins> Legislativa do Rio de <del>Janeiro).</del> <ins>Janeiro.</ins> Leia mais (02/23/2021 - 15h32)
+2021-02-23 19:20:10,027          root     INFO: Media ready with ids: 1364293992171638786
+2021-02-23 19:20:10,027          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-23 19:20:10,027          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stj-anula-quebra-de-sigilo-bancario-e-fiscal-de-flavio-bolsonaro-no-caso-das-rachadinhas.shtml
+2021-02-23 19:20:10,037          root     INFO: Replying to: 1364287680243245061
+2021-02-23 19:20:10,293          root     INFO: Id to store: 1364293993912221697
+2021-02-23 19:20:15,342          root     INFO: Finished script
