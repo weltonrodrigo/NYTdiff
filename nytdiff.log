@@ -1,6 +1,12 @@
-2021-02-23 15:58:38,518          root     INFO: Starting script
-2021-02-23 15:58:39,350          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-23 15:58:40,020          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-23 15:58:40,702          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-23 15:58:40,954          root     INFO: Parsing R7 - Brasil
-2021-02-23 15:58:48,279          root     INFO: Finished script
+2021-02-23 16:41:17,397          root     INFO: Starting script
+2021-02-23 16:41:18,235          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-23 16:41:18,916          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-23 16:41:19,599          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-23 16:41:19,750          root     INFO: Parsing R7 - Brasil
+2021-02-23 16:41:22,536          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/para-lira-impeachment-nao-e-prioridade-e-nao-ha-clima-para-medida-extrema.shtml
+2021-02-23 16:41:22,548          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-meio-a-pandemia-camara-dos-deputados-tem-fila-e-aglomeracao.shtml
+2021-02-23 16:41:22,563          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/meu-papel-e-fazer-certo-sem-esperar-que-de-certo-diz-vereador-que-pede-ao-stf-prisao-de-ciro-e-freixo.shtml
+2021-02-23 16:41:27,591          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2021/02/um-pais-sem-limites-e-sem-vergonha.shtml
+2021-02-23 16:41:27,599          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/fux-diz-que-ministro-da-defesa-o-procurou-para-amenizar-crise-sobre-tuite-de-villas-boas.shtml
+2021-02-23 16:41:27,604          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/maioria-do-conselho-de-etica-da-camara-diz-que-silveira-extrapolou-imunidade-parlamentar.shtml
+2021-02-23 16:41:27,605          root     INFO: Finished script
