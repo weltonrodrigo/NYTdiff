@@ -1,6 +1,8 @@
-2021-02-23 11:33:10,640          root     INFO: Starting script
-2021-02-23 11:33:11,525          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-23 11:33:12,215          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-23 11:33:12,928          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-23 11:33:13,140          root     INFO: Parsing R7 - Brasil
-2021-02-23 11:33:21,869          root     INFO: Finished script
+2021-02-23 11:46:48,020          root     INFO: Starting script
+2021-02-23 11:46:49,042          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-23 11:46:49,733          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-23 11:46:50,425          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-23 11:46:50,614          root     INFO: Parsing R7 - Brasil
+2021-02-23 11:46:53,305          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49113
+2021-02-23 11:46:57,571          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/02/aos-100-folha-encara-missao-de-expor-investidas-contra-a-democracia.shtml
+2021-02-23 11:46:57,572          root     INFO: Finished script
