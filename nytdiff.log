@@ -1,6 +1,15 @@
-2021-02-23 02:58:20,350          root     INFO: Starting script
-2021-02-23 02:58:21,241          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-23 02:58:21,942          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-23 02:58:22,645          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-23 02:58:22,822          root     INFO: Parsing R7 - Brasil
-2021-02-23 02:58:30,590          root     INFO: Finished script
+2021-02-23 03:25:44,285          root     INFO: Starting script
+2021-02-23 03:25:45,124          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-23 03:25:45,809          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-23 03:25:46,486          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-23 03:25:46,633          root     INFO: Parsing R7 - Brasil
+2021-02-23 03:25:49,394          root     INFO: A relação feita por Jair Bolsonaro entre o preço dos combustíveis e fraudes não coibidas em postos de gasolina não bate com tese defendida pela Polícia Federal. O presidente citou a presença do PCC no setor e mencionou que o preço poderia ser "no mínimo 15% mais barato". <del>O provável exemplo usado por Bolsonaro, porém, desmente a sua própria tese. A investigação da PF que trata da facção em postos traça cenário contrário: possível prática de concorrência desleal, com preços mais baixos.</del> Leia mais (02/22/2021 - 23h16)
+2021-02-23 03:25:51,271          root     INFO: Media ready with ids: 1364053831420702729
+2021-02-23 03:25:51,272          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-23 03:25:51,273          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/investigacao-da-pf-contradiz-tese-de-bolsonaro-sobre-aumento-de-precos-da-gasolina-por-causa-do-pcc.shtml
+2021-02-23 03:25:51,283          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/investigacao-da-pf-contradiz-tese-de-bolsonaro-sobre-aumento-de-precos-da-gasolina-por-causa-do-pcc.shtml
+2021-02-23 03:25:51,472          root     INFO: Replying to: 1364053833266192384
+2021-02-23 03:25:51,728          root     INFO: Id to store: 1364053834033692672
+2021-02-23 03:25:51,749          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/folha-100-anos/2021/02/a-folha-e-falha-ou-foice-leitores-de-esquerda-centro-e-direita-debatem.shtml
+2021-02-23 03:25:56,631          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/folha-100-anos/2021/02/o-que-dizia-a-primeira-pagina-da-folha-de-100-anos-atras.shtml
+2021-02-23 03:25:56,633          root     INFO: Finished script
