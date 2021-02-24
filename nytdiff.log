@@ -1,8 +1,18 @@
-2021-02-24 17:59:49,402          root     INFO: Starting script
-2021-02-24 17:59:50,266          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-24 17:59:50,944          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-24 17:59:51,613          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-24 17:59:51,714          root     INFO: Parsing R7 - Brasil
-2021-02-24 17:59:52,098          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/02/segunda-temporada-de-cidade-invisivel-tera-o-cidadao-de-bem.shtml
-2021-02-24 17:59:59,084          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/02/marilene-felinto-prepara-livro-inedito-e-relanca-as-mulheres-de-tijucopapo.shtml
-2021-02-24 17:59:59,086          root     INFO: Finished script
+2021-02-24 18:28:03,258          root     INFO: Starting script
+2021-02-24 18:28:04,537          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-24 18:28:05,395          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-24 18:28:06,255          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-24 18:28:06,509          root     INFO: Parsing R7 - Brasil
+2021-02-24 18:28:09,506          root     INFO: Abraço foi gesto de gentileza, diz Cury ao Conselho de <del>Ética;</del> <ins>Ética da Assembleia de SP;</ins> Isa <del>afirma que</del> <ins>vê</ins> prova <del>é</del> indiscutível
+2021-02-24 18:28:11,544          root     INFO: Media ready with ids: 1364643299835928578
+2021-02-24 18:28:11,544          root     INFO: Text to tweet: Modificação do Título
+2021-02-24 18:28:11,545          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/abraco-foi-gesto-de-gentileza-diz-cury-ao-conselho-de-etica-isa-afirma-que-prova-e-indiscutivel.shtml
+2021-02-24 18:28:11,553          root     INFO: Replying to: 1364632445644115975
+2021-02-24 18:28:11,904          root     INFO: Id to store: 1364643302105112578
+2021-02-24 18:28:11,911          root     INFO: O deputado estadual Fernando Cury (Cidadania) afirmou ao Conselho de Ética da Assembleia de São Paulo, nesta quarta (24), que abraçou a deputada Isa Penna (PSOL) como um gesto de gentileza e que não tocou em seu seio. A deputada, por sua vez, afirmou que a prova de assédio é indiscutível. Leia mais (02/24/2021 - <del>14h24)</del> <ins>14h25)</ins>
+2021-02-24 18:28:13,712          root     INFO: Media ready with ids: 1364643309281570826
+2021-02-24 18:28:13,712          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-24 18:28:13,713          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/abraco-foi-gesto-de-gentileza-diz-cury-ao-conselho-de-etica-isa-afirma-que-prova-e-indiscutivel.shtml
+2021-02-24 18:28:13,727          root     INFO: Replying to: 1364643302105112578
+2021-02-24 18:28:14,012          root     INFO: Id to store: 1364643311080849416
+2021-02-24 18:28:19,400          root     INFO: Finished script
