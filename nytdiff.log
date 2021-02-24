@@ -1,15 +1,6 @@
-2021-02-24 03:39:00,719          root     INFO: Starting script
-2021-02-24 03:39:01,639          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-24 03:39:02,330          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-24 03:39:03,025          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-24 03:39:03,297          root     INFO: Parsing R7 - Brasil
-2021-02-24 03:39:06,116          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/procon-de-sp-diz-que-nao-vai-fiscalizar-postos-de-gasolina-que-nao-informarem-icms.shtml
-2021-02-24 03:39:06,236          root     INFO: Promotores que investigam o esquema de rachadinha de Flávio Bolsonaro classificaram como perdido o caso após a decisão do Superior Tribunal de Justiça nesta terça-feira (23). Para eles, trata-se de uma decisão com influência política e não jurídica -e, portanto, difícil de reverter. <del>Mesmo descrentes, eles debatem o que é possível fazer. Há divergências, mas especialistas afirmam que tanto o MP do Rio quanto a Procuradoria-Geral da República podem apresentar recurso ao Supremo.</del> Leia mais (02/23/2021 - 23h20)
-2021-02-24 03:39:08,026          root     INFO: Media ready with ids: 1364419561278291968
-2021-02-24 03:39:08,026          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-24 03:39:08,027          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/investigadores-de-rachadinha-de-flavio-veem-decisao-com-influencia-politica-e-consideram-caso-perdido.shtml
-2021-02-24 03:39:08,038          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/investigadores-de-rachadinha-de-flavio-veem-decisao-com-influencia-politica-e-consideram-caso-perdido.shtml
-2021-02-24 03:39:08,232          root     INFO: Replying to: 1364419562939293697
-2021-02-24 03:39:08,472          root     INFO: Id to store: 1364419563723624450
-2021-02-24 03:39:13,400          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/folha-recebe-mais-de-400-interessados-no-primeiro-dia-de-inscricoes-para-programa-de-treinamento-destinado-a-negros.shtml
-2021-02-24 03:39:13,401          root     INFO: Finished script
+2021-02-24 03:53:04,045          root     INFO: Starting script
+2021-02-24 03:53:04,943          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-24 03:53:05,622          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-24 03:53:06,299          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-24 03:53:06,444          root     INFO: Parsing R7 - Brasil
+2021-02-24 03:53:13,811          root     INFO: Finished script
