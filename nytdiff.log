@@ -1,13 +1,8 @@
-2021-02-24 17:54:25,719          root     INFO: Starting script
-2021-02-24 17:54:26,536          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-24 17:54:27,214          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-24 17:54:27,882          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-24 17:54:28,036          root     INFO: Parsing R7 - Brasil
-2021-02-24 17:54:30,501          root     INFO: Amazonas recebe 76 mil vacinas a <del>menos</del> <ins>menos,</ins> e secretários falam em confusão de Pazuello
-2021-02-24 17:54:32,249          root     INFO: Media ready with ids: 1364634830659543041
-2021-02-24 17:54:32,249          root     INFO: Text to tweet: Modificação do Título
-2021-02-24 17:54:32,249          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/amazonas-recebe-76-mil-vacinas-a-menos-e-secretarios-falam-em-confusao-de-pazuello.shtml
-2021-02-24 17:54:32,258          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/amazonas-recebe-76-mil-vacinas-a-menos-e-secretarios-falam-em-confusao-de-pazuello.shtml
-2021-02-24 17:54:32,432          root     INFO: Replying to: 1364634832232407040
-2021-02-24 17:54:32,647          root     INFO: Id to store: 1364634832895152137
-2021-02-24 17:54:37,036          root     INFO: Finished script
+2021-02-24 17:59:49,402          root     INFO: Starting script
+2021-02-24 17:59:50,266          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-24 17:59:50,944          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-24 17:59:51,613          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-24 17:59:51,714          root     INFO: Parsing R7 - Brasil
+2021-02-24 17:59:52,098          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/02/segunda-temporada-de-cidade-invisivel-tera-o-cidadao-de-bem.shtml
+2021-02-24 17:59:59,084          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/02/marilene-felinto-prepara-livro-inedito-e-relanca-as-mulheres-de-tijucopapo.shtml
+2021-02-24 17:59:59,086          root     INFO: Finished script
