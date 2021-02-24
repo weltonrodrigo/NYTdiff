@@ -1,48 +1,6 @@
-2021-02-24 02:37:56,311          root     INFO: Starting script
-2021-02-24 02:37:57,207          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-24 02:37:57,913          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-24 02:37:58,608          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-24 02:37:58,752          root     INFO: Parsing R7 - Brasil
-2021-02-24 02:37:59,451          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2021/02/pacote-de-us-19-trilhao-de-joe-biden-e-um-experimento-arriscado.shtml
-2021-02-24 02:37:59,489          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helio-beltrao/2021/02/so-sofre-greve-de-caminhoneiro-pais-que-tem-petroleira-estatal.shtml
-2021-02-24 02:37:59,525          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/02/imunidade-parlamentar-e-liberdade-de-expressao-nao-sao-passaportes-para-a-delinquencia-politica.shtml
-2021-02-24 02:37:59,557          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/02/a-radioatividade-do-capitao.shtml
-2021-02-24 02:37:59,592          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/02/cuidado-bolsonaro-a-solta.shtml
-2021-02-24 02:37:59,623          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/02/vacina-e-liberdade.shtml
-2021-02-24 02:37:59,657          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/venda-da-eletrobras-e-leite-condensado-que-bolsonaro-passa-em-guedes.shtml
-2021-02-24 02:37:59,691          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/brasil-pode-reduzir-importacao-de-fertilizantes-pela-metade.shtml
-2021-02-24 02:37:59,724          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antoniodelfim/2021/02/o-papel-da-imprensa.shtml
-2021-02-24 02:37:59,754          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/02/cla-bolsonaro-tem-alivio-nos-tribunais-mas-rachadinha-ja-e-uma-marca-politica.shtml
-2021-02-24 02:37:59,785          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/de-certo-so-o-auxilio.shtml
-2021-02-24 02:37:59,818          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/dilema-equatoriano.shtml
-2021-02-24 02:37:59,853          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/mortalidade-materna-em-tempos-de-pandemia.shtml
-2021-02-24 02:37:59,886          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2021/02/no-pais-do-cdc-folha-e-vital-para-a-defesa-do-consumidor.shtml
-2021-02-24 02:37:59,928          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/130-anos-da-1a-constituicao-da-republica.shtml
-2021-02-24 02:38:01,669          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/folha-100-anos/2021/02/serie-e-eu-aponta-falhas-do-jornalismo-na-cobertura-da-diversidade-brasileira.shtml
-2021-02-24 02:38:01,699          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/02/imunidade-parlamentar-e-liberdade-de-expressao-nao-sao-passaportes-para-a-delinquencia-politica.shtml
-2021-02-24 02:38:01,734          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/02/a-radioatividade-do-capitao.shtml
-2021-02-24 02:38:01,774          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/folha-100-anos/2021/02/autoridades-abusam-do-direito-a-liberdade-de-expressao-dizem-debatedores.shtml
-2021-02-24 02:38:01,810          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/02/cla-bolsonaro-tem-alivio-nos-tribunais-mas-rachadinha-ja-e-uma-marca-politica.shtml
-2021-02-24 02:38:01,848          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/parlamentares-atuaram-em-disputa-de-terra-pivo-para-escandalo-no-judiciario.shtml
-2021-02-24 02:38:06,356          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/mais-soja-nos-eua-aumenta-concorrencia-com-brasil.shtml
-2021-02-24 02:38:06,371          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/entre-despedidas-trouxe-a-folha-minhas-ideias.shtml
-2021-02-24 02:38:06,384          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-visita-relampago-a-pernambuco-bolsonaro-silencia-sobre-prisao-de-deputado-aliado.shtml
-2021-02-24 02:38:06,399          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2021/02/warren-buffet-vs-elon-musk.shtml
-2021-02-24 02:38:06,412          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/02/historiadora-conta-como-ativistas-e-empresarios-apagaram-o-cigarro.shtml
-2021-02-24 02:38:06,426          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2021/02/um-pais-sem-limites-e-sem-vergonha.shtml
-2021-02-24 02:38:06,440          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/folha-100.shtml
-2021-02-24 02:38:06,456          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2021/02/a-mascara-e-necessaria-e-indispensavel.shtml
-2021-02-24 02:38:06,470          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/relatora-na-camara-deve-pedir-manutencao-da-prisao-de-silveira-por-ver-ameacas-serias-ao-stf.shtml
-2021-02-24 02:38:06,484          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/veiculos-noticiam-centenario-da-folha-e-defesa-da-democracia.shtml
-2021-02-24 02:38:06,505          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/02/nova-chefe-dos-jogos-de-toquio-tem-missao-de-desfazer-erros-e-gerenciar-crise.shtml
-2021-02-24 02:38:06,521          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49088
-2021-02-24 02:38:06,535          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/02/a-popularidade-das-politicas-de-punho-de-ferro-no-brasil-e-na-colombia.shtml
-2021-02-24 02:38:06,551          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2021/02/uma-judia-a-quaresma-e-a-campanha-da-fraternidade.shtml
-2021-02-24 02:38:06,565          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/deputado-silveira-envia-recado-a-camara-de-que-fara-revelacoes-bombasticas-sobre-o-stf-na-sessao-que-decidira-sua-prisao.shtml
-2021-02-24 02:38:06,580          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2021/02/o-fim-dos-jornais.shtml
-2021-02-24 02:38:06,599          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/02/saul-klein-prometeu-parar-de-dilapidar-o-patrimonio-da-familia-diz-filho.shtml
-2021-02-24 02:38:06,613          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2021/02/o-medo-da-demencia-e-formas-de-evita-la.shtml
-2021-02-24 02:38:06,628          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/02/o-que-a-folha-me-ensinou.shtml
-2021-02-24 02:38:06,644          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/descompromisso-com-a-vida-diz-secretario-de-saude-da-paraiba-sobre-passagem-de-bolsonaro-sem-mascara.shtml
-2021-02-24 02:38:06,659          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/quanto-tempo-tem-100-anos.shtml
-2021-02-24 02:38:06,659          root     INFO: Finished script
+2021-02-24 02:53:36,949          root     INFO: Starting script
+2021-02-24 02:53:37,777          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-24 02:53:38,450          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-24 02:53:39,116          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-24 02:53:39,266          root     INFO: Parsing R7 - Brasil
+2021-02-24 02:53:46,088          root     INFO: Finished script
