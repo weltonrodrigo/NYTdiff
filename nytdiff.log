@@ -1,10 +1,13 @@
-2021-02-24 19:57:54,271          root     INFO: Starting script
-2021-02-24 19:57:55,097          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-24 19:57:55,781          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-24 19:57:56,450          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-24 19:57:56,600          root     INFO: Parsing R7 - Brasil
-2021-02-24 19:57:57,005          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/02/brasil-nao-deve-ser-celeiro-mas-supermercado-do-mundo.shtml
-2021-02-24 19:57:59,211          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/conselho-de-etica-arquiva-processo-contra-eduardo-bolsonaro-por-ofensas-a-joice-hasselmann.shtml
-2021-02-24 19:58:03,720          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/02/as-historias-que-a-folha-nao-conta.shtml
-2021-02-24 19:58:03,725          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/policia-de-rondonia-contrata-curso-de-pericia-sem-licitacao-e-gera-reacao-de-entidade.shtml
-2021-02-24 19:58:03,725          root     INFO: Finished script
+2021-02-24 20:25:23,123          root     INFO: Starting script
+2021-02-24 20:25:24,167          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-24 20:25:25,007          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-24 20:25:25,850          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-24 20:25:26,063          root     INFO: Parsing R7 - Brasil
+2021-02-24 20:25:28,870          root     INFO: O presidente Jair Bolsonaro (sem partido) encerrou abruptamente uma entrevista coletiva que concedia no aeroporto de Rio Branco (AC) na manhã desta quarta-feira (24) ao ser <del>perguntado</del> <ins>questionado</ins> sobre a decisão do STJ (Superior Tribunal de Justiça) de anular a quebra de sigilo bancário de seu filho Flávio Bolsonaro (Republicanos), senador pelo <del>Rio.</del> <ins>Rio de Janeiro.</ins> Leia mais (02/24/2021 - 14h17)
+2021-02-24 20:25:30,852          root     INFO: Media ready with ids: 1364672825022435336
+2021-02-24 20:25:30,852          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-24 20:25:30,852          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/no-acre-bolsonaro-se-irrita-e-encerra-abruptamente-entrevista-ao-ser-questionado-sobre-caso-flavio.shtml
+2021-02-24 20:25:30,861          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/no-acre-bolsonaro-se-irrita-e-encerra-abruptamente-entrevista-ao-ser-questionado-sobre-caso-flavio.shtml
+2021-02-24 20:25:31,145          root     INFO: Replying to: 1364672827195064321
+2021-02-24 20:25:31,508          root     INFO: Id to store: 1364672828226891777
+2021-02-24 20:25:36,230          root     INFO: Finished script
