@@ -1,8 +1,14 @@
-2021-02-24 02:58:59,258          root     INFO: Starting script
-2021-02-24 02:59:00,432          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-24 02:59:01,129          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-24 02:59:01,825          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-24 02:59:02,075          root     INFO: Parsing R7 - Brasil
-2021-02-24 02:59:05,045          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/investigadores-de-rachadinha-de-flavio-veem-decisao-com-influencia-politica-e-consideram-caso-perdido.shtml
-2021-02-24 02:59:09,884          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/em-fala-a-camara-deputado-preso-pede-desculpas-diz-que-se-excedeu-e-nao-e-risco-a-democracia.shtml
-2021-02-24 02:59:09,885          root     INFO: Finished script
+2021-02-24 03:25:50,246          root     INFO: Starting script
+2021-02-24 03:25:51,259          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-24 03:25:52,093          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-24 03:25:52,923          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-24 03:25:53,100          root     INFO: Parsing R7 - Brasil
+2021-02-24 03:25:55,613          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/caixa-economica-lanca-pacote-de-apoio-ao-acre-com-caminhoes-agencia-e-credito-facilitado.shtml
+2021-02-24 03:25:55,627          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/alunos-pressionam-usp-a-cancelar-matricula-presencial-em-abril-por-causa-de-covid-19-e-fazer-on-line.shtml
+2021-02-24 03:25:55,637          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/campanha-lula-livre-lanca-plataforma-para-pressionar-stf-a-julgar-suspeicao-de-sergio-moro.shtml
+2021-02-24 03:25:55,671          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/apos-decreto-sobre-composicao-de-precos-de-combustivel-secretaria-do-consumidor-reune-procons-para-acao-conjunta.shtml
+2021-02-24 03:26:00,012          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/folha-100-anos/2021/02/serie-de-entrevistas-fuga-para-a-frente-discute-desafios-do-jornalismo-e-da-democracia.shtml
+2021-02-24 03:26:00,016          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/apos-caso-de-silveira-lira-cria-comissao-para-regular-artigo-de-imunidade-parlamentar.shtml
+2021-02-24 03:26:00,020          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pgr-pede-ao-supremo-para-investigar-deputado-bolsonarista-por-desacato.shtml
+2021-02-24 03:26:00,024          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stj-usa-precedente-do-supremo-e-abre-inquerito-de-oficio-para-apurar-mensagens-da-lava-jato.shtml
+2021-02-24 03:26:00,025          root     INFO: Finished script
