@@ -1,21 +1,13 @@
-2021-02-24 11:38:11,561          root     INFO: Starting script
-2021-02-24 11:38:12,593          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-24 11:38:13,423          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-24 11:38:14,262          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-24 11:38:14,470          root     INFO: Parsing R7 - Brasil
-2021-02-24 11:38:15,082          root     INFO: Venda da <del>Eletrobrás</del> <ins>Eletrobras</ins> é leite condensado que Bolsonaro passa em Guedes
-2021-02-24 11:38:17,035          root     INFO: Media ready with ids: 1364540143483432962
-2021-02-24 11:38:17,036          root     INFO: Text to tweet: Modificação do Título
-2021-02-24 11:38:17,037          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/venda-da-eletrobras-e-leite-condensado-que-bolsonaro-passa-em-guedes.shtml
-2021-02-24 11:38:17,047          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/venda-da-eletrobras-e-leite-condensado-que-bolsonaro-passa-em-guedes.shtml
-2021-02-24 11:38:17,275          root     INFO: Replying to: 1364540145131802627
-2021-02-24 11:38:17,568          root     INFO: Id to store: 1364540146125860865
-2021-02-24 11:38:17,574          root     INFO: Jair Bolsonaro não tinha ideia do tamanho da bobagem que fazia com seu chilique da Petrobras. Depois do grande sururu nos mercados financeiros e da desmoralização adicional de Paulo Guedes, resolveu passar um leite condensado no seu faniquito estatista e no ministro amargo e amargurado. Juntou uma corte de ministros e foi no início da noite desta terça-feira ao Congresso entregar ele mesmo uma medida provisória que prevê a privatização da <del>Eletrobrás.</del> <ins>Eletrobras.</ins> Leia mais (02/23/2021 - 23h15)
-2021-02-24 11:38:19,447          root     INFO: Media ready with ids: 1364540153415553024
-2021-02-24 11:38:19,448          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-24 11:38:19,448          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/venda-da-eletrobras-e-leite-condensado-que-bolsonaro-passa-em-guedes.shtml
-2021-02-24 11:38:19,456          root     INFO: Replying to: 1364540146125860865
-2021-02-24 11:38:19,723          root     INFO: Id to store: 1364540155177168897
-2021-02-24 11:38:21,974          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/entenda-julgamento-do-supremo-que-vai-decidir-sobre-depoimento-de-bolsonaro-no-caso-moro.shtml
-2021-02-24 11:38:27,113          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/por-364-a-130-camara-confirma-decisao-do-stf-e-mantem-prisao-de-deputado-abandonado-pelo-planalto.shtml
-2021-02-24 11:38:27,114          root     INFO: Finished script
+2021-02-24 11:51:41,376          root     INFO: Starting script
+2021-02-24 11:51:42,244          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-24 11:51:42,942          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-24 11:51:43,637          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-24 11:51:43,812          root     INFO: Parsing R7 - Brasil
+2021-02-24 11:51:46,608          root     INFO: O plenário do STF (Supremo Tribunal Federal) <del>deve</del> <ins>pode</ins> julgar na tarde desta quarta-feira (24) se o presidente Jair Bolsonaro (sem partido) terá de depor presencialmente ou se poderá fazê-lo por escrito no inquérito que investiga suposta interferência política dele na Polícia Federal. Leia mais (02/24/2021 - 08h29)
+2021-02-24 11:51:48,408          root     INFO: Media ready with ids: 1364543546494230529
+2021-02-24 11:51:48,408          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-24 11:51:48,409          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/entenda-julgamento-do-supremo-que-vai-decidir-sobre-depoimento-de-bolsonaro-no-caso-moro.shtml
+2021-02-24 11:51:48,418          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/entenda-julgamento-do-supremo-que-vai-decidir-sobre-depoimento-de-bolsonaro-no-caso-moro.shtml
+2021-02-24 11:51:48,611          root     INFO: Replying to: 1364543548188741632
+2021-02-24 11:51:48,845          root     INFO: Id to store: 1364543548935331840
+2021-02-24 11:51:53,752          root     INFO: Finished script
