@@ -1,10 +1,18 @@
-2021-02-24 17:32:21,614          root     INFO: Starting script
-2021-02-24 17:32:22,547          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-24 17:32:23,237          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-24 17:32:23,921          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-24 17:32:24,083          root     INFO: Parsing R7 - Brasil
-2021-02-24 17:32:27,044          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/abraco-foi-gesto-de-gentileza-diz-cury-ao-conselho-de-etica-isa-afirma-que-prova-e-indiscutivel.shtml
-2021-02-24 17:32:29,316          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/02/no-acre-bolsonaro-se-irrita-e-encerra-abruptamente-entrevista-ao-ser-questionado-sobre-caso-flavio.shtml
-2021-02-24 17:32:31,910          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/ao-redor-da-br-163-no-pa-62-de-florestas-publicas-sem-uso-definido-sao-registradas-como-privadas.shtml
-2021-02-24 17:32:31,962          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/14-dos-21-deputados-que-fazem-parte-do-conselho-de-etica-votaram-a-favor-da-prisao-de-daniel-silveira.shtml
-2021-02-24 17:32:31,963          root     INFO: Finished script
+2021-02-24 17:44:55,109          root     INFO: Starting script
+2021-02-24 17:44:56,342          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-24 17:44:57,182          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-24 17:44:58,033          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-24 17:44:58,264          root     INFO: Parsing R7 - Brasil
+2021-02-24 17:45:00,984          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/amazonas-recebe-76-mil-vacinas-a-menos-e-secretarios-falam-em-confusao-de-pazuello.shtml
+2021-02-24 17:45:01,023          root     INFO: Abraço foi gesto de gentileza, diz Cury ao Conselho de <del>Ética;</del> <ins>Ética da Assembleia de SP;</ins> Isa <del>afirma que</del> <ins>vê</ins> prova <del>é</del> indiscutível
+2021-02-24 17:45:02,912          root     INFO: Media ready with ids: 1364632442657771520
+2021-02-24 17:45:02,913          root     INFO: Text to tweet: Modificação do Título
+2021-02-24 17:45:02,913          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/abraco-foi-gesto-de-gentileza-diz-cury-ao-conselho-de-etica-isa-afirma-que-prova-e-indiscutivel.shtml
+2021-02-24 17:45:02,924          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/abraco-foi-gesto-de-gentileza-diz-cury-ao-conselho-de-etica-isa-afirma-que-prova-e-indiscutivel.shtml
+2021-02-24 17:45:03,200          root     INFO: Replying to: 1364632444654260224
+2021-02-24 17:45:03,487          root     INFO: Id to store: 1364632445644115975
+2021-02-24 17:45:03,504          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/no-acre-bolsonaro-se-irrita-e-encerra-abruptamente-entrevista-ao-ser-questionado-sobre-caso-flavio.shtml
+2021-02-24 17:45:08,309          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-sessao-na-camara-daniel-silveira-se-contradiz-sobre-acusacoes-e-prisao.shtml
+2021-02-24 17:45:08,313          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/corregedor-investiga-possivel-interferencia-em-eleicao-no-tcu.shtml
+2021-02-24 17:45:08,317          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/02/no-acre-bolsonaro-se-irrita-e-encerra-abruptamente-entrevista-ao-ser-questionado-sobre-caso-flavio.shtml
+2021-02-24 17:45:08,318          root     INFO: Finished script
