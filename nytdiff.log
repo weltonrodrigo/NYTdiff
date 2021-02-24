@@ -1,14 +1,15 @@
-2021-02-24 03:25:50,246          root     INFO: Starting script
-2021-02-24 03:25:51,259          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-24 03:25:52,093          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-24 03:25:52,923          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-24 03:25:53,100          root     INFO: Parsing R7 - Brasil
-2021-02-24 03:25:55,613          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/caixa-economica-lanca-pacote-de-apoio-ao-acre-com-caminhoes-agencia-e-credito-facilitado.shtml
-2021-02-24 03:25:55,627          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/alunos-pressionam-usp-a-cancelar-matricula-presencial-em-abril-por-causa-de-covid-19-e-fazer-on-line.shtml
-2021-02-24 03:25:55,637          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/campanha-lula-livre-lanca-plataforma-para-pressionar-stf-a-julgar-suspeicao-de-sergio-moro.shtml
-2021-02-24 03:25:55,671          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/apos-decreto-sobre-composicao-de-precos-de-combustivel-secretaria-do-consumidor-reune-procons-para-acao-conjunta.shtml
-2021-02-24 03:26:00,012          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/folha-100-anos/2021/02/serie-de-entrevistas-fuga-para-a-frente-discute-desafios-do-jornalismo-e-da-democracia.shtml
-2021-02-24 03:26:00,016          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/apos-caso-de-silveira-lira-cria-comissao-para-regular-artigo-de-imunidade-parlamentar.shtml
-2021-02-24 03:26:00,020          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/pgr-pede-ao-supremo-para-investigar-deputado-bolsonarista-por-desacato.shtml
-2021-02-24 03:26:00,024          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/stj-usa-precedente-do-supremo-e-abre-inquerito-de-oficio-para-apurar-mensagens-da-lava-jato.shtml
-2021-02-24 03:26:00,025          root     INFO: Finished script
+2021-02-24 03:39:00,719          root     INFO: Starting script
+2021-02-24 03:39:01,639          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-24 03:39:02,330          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-24 03:39:03,025          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-24 03:39:03,297          root     INFO: Parsing R7 - Brasil
+2021-02-24 03:39:06,116          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/procon-de-sp-diz-que-nao-vai-fiscalizar-postos-de-gasolina-que-nao-informarem-icms.shtml
+2021-02-24 03:39:06,236          root     INFO: Promotores que investigam o esquema de rachadinha de Flávio Bolsonaro classificaram como perdido o caso após a decisão do Superior Tribunal de Justiça nesta terça-feira (23). Para eles, trata-se de uma decisão com influência política e não jurídica -e, portanto, difícil de reverter. <del>Mesmo descrentes, eles debatem o que é possível fazer. Há divergências, mas especialistas afirmam que tanto o MP do Rio quanto a Procuradoria-Geral da República podem apresentar recurso ao Supremo.</del> Leia mais (02/23/2021 - 23h20)
+2021-02-24 03:39:08,026          root     INFO: Media ready with ids: 1364419561278291968
+2021-02-24 03:39:08,026          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-24 03:39:08,027          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/investigadores-de-rachadinha-de-flavio-veem-decisao-com-influencia-politica-e-consideram-caso-perdido.shtml
+2021-02-24 03:39:08,038          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/investigadores-de-rachadinha-de-flavio-veem-decisao-com-influencia-politica-e-consideram-caso-perdido.shtml
+2021-02-24 03:39:08,232          root     INFO: Replying to: 1364419562939293697
+2021-02-24 03:39:08,472          root     INFO: Id to store: 1364419563723624450
+2021-02-24 03:39:13,400          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/folha-recebe-mais-de-400-interessados-no-primeiro-dia-de-inscricoes-para-programa-de-treinamento-destinado-a-negros.shtml
+2021-02-24 03:39:13,401          root     INFO: Finished script
