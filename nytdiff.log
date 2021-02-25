@@ -1,8 +1,15 @@
-2021-02-25 11:57:53,974          root     INFO: Starting script
-2021-02-25 11:57:54,822          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-25 11:57:55,515          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-25 11:57:56,210          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-25 11:57:56,401          root     INFO: Parsing R7 - Brasil
-2021-02-25 11:57:59,257          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/folha-e-companhia-das-letras-promovem-debate-virtual-sobre-livro-estado-e-democracia.shtml
-2021-02-25 11:58:04,621          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/fundacao-ligada-ao-pt-dara-curso-sobre-historia-do-fascismo-com-mussolini-e-bolsonaro-como-topicos.shtml
-2021-02-25 11:58:04,622          root     INFO: Finished script
+2021-02-25 12:32:45,481          root     INFO: Starting script
+2021-02-25 12:32:46,306          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-25 12:32:46,966          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-25 12:32:47,700          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-25 12:32:47,776          root     INFO: Parsing R7 - Brasil
+2021-02-25 12:32:50,381          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/entenda-a-pec-que-amplia-a-imunidade-parlamentar-e-reduz-as-chances-de-prisao-de-deputados-e-senadores.shtml
+2021-02-25 12:32:50,553          root     INFO: Após pressão de alunos, USP muda método e fará matrículas <del>on-line</del> <ins>online</ins>
+2021-02-25 12:32:52,242          root     INFO: Media ready with ids: 1364916268642500616
+2021-02-25 12:32:52,243          root     INFO: Text to tweet: Modificação do Título
+2021-02-25 12:32:52,243          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/apos-pressao-de-alunos-usp-muda-metodo-e-fara-matriculas-on-line.shtml
+2021-02-25 12:32:52,251          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/apos-pressao-de-alunos-usp-muda-metodo-e-fara-matriculas-on-line.shtml
+2021-02-25 12:32:52,442          root     INFO: Replying to: 1364916270089588737
+2021-02-25 12:32:52,674          root     INFO: Id to store: 1364916270857138176
+2021-02-25 12:32:57,282          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/diagrama-que-pazuello-mostrou-a-prefeitos-tem-menos-da-metade-das-vacinas-confirmadas.shtml
+2021-02-25 12:32:57,282          root     INFO: Finished script
