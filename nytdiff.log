@@ -1,13 +1,8 @@
-2021-02-25 15:02:45,129          root     INFO: Starting script
-2021-02-25 15:02:45,980          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-25 15:02:46,670          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-25 15:02:47,358          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-25 15:02:47,603          root     INFO: Parsing R7 - Brasil
-2021-02-25 15:02:50,366          root     INFO: Após acelerar a tramitação <del>da PEC (Proposta</del> de <del>Emenda à Constituição) da</del> <ins>uma proposta que amplia a</ins> imunidade parlamentar, o presidente da Câmara, Arthur Lira (PP-AL), negou que <del>a proposição</del> <ins>essa PEC</ins> blinde deputados e senadores e disse não <del>ver como o</del> <ins>identificar pontos do</ins> texto <del>pode</del> <ins>que possam</ins> ofender o STF (Supremo Tribunal <del>Federal), em meio a críticas de ministros nos bastidores.</del> <ins>Federal).</ins> Leia mais (02/25/2021 - 11h42)
-2021-02-25 15:02:52,489          root     INFO: Media ready with ids: 1364954017189793801
-2021-02-25 15:02:52,489          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-25 15:02:52,490          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-defende-pec-da-imunidade-nega-conflito-com-stf-e-diz-que-papel-de-legislar-e-do-congresso.shtml
-2021-02-25 15:02:52,499          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-defende-pec-da-imunidade-nega-conflito-com-stf-e-diz-que-papel-de-legislar-e-do-congresso.shtml
-2021-02-25 15:02:52,723          root     INFO: Replying to: 1364954019903508501
-2021-02-25 15:02:53,025          root     INFO: Id to store: 1364954020884992001
-2021-02-25 15:02:57,889          root     INFO: Finished script
+2021-02-25 15:32:05,645          root     INFO: Starting script
+2021-02-25 15:32:06,539          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-25 15:32:07,225          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-25 15:32:07,918          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-25 15:32:08,042          root     INFO: Parsing R7 - Brasil
+2021-02-25 15:32:10,840          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/auditor-e-demitido-por-guedes-e-tese-de-flavio-bolsonaro-sobre-acesso-ilegal-de-seus-dados-perde-forca.shtml
+2021-02-25 15:32:15,184          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/02/daniel-silveira-errou-o-tiro.shtml
+2021-02-25 15:32:15,185          root     INFO: Finished script
