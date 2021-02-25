@@ -1,6 +1,17 @@
-2021-02-25 03:58:04,756          root     INFO: Starting script
-2021-02-25 03:58:05,615          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-25 03:58:06,330          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-25 03:58:07,034          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-25 03:58:07,193          root     INFO: Parsing R7 - Brasil
-2021-02-25 03:58:13,999          root     INFO: Finished script
+2021-02-25 04:30:00,798          root     INFO: Starting script
+2021-02-25 04:30:01,683          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-25 04:30:02,360          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-25 04:30:03,038          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-25 04:30:03,164          root     INFO: Parsing R7 - Brasil
+2021-02-25 04:30:05,794          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/kim-kataguiri-vai-entrar-com-mandado-de-seguranca-para-barrar-pec-da-imunidade-parlamentar.shtml
+2021-02-25 04:30:05,880          root     INFO: Funcionários criam canal para <del>denuncias</del> <ins>denúncias</ins> sobre aglomerações e falta de uso de máscara no Congresso
+2021-02-25 04:30:07,710          root     INFO: Media ready with ids: 1364794782489468928
+2021-02-25 04:30:07,711          root     INFO: Text to tweet: Modificação do Título
+2021-02-25 04:30:07,711          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/funcionarios-criam-canal-para-denuncias-sobre-aglomeracoes-e-falta-de-uso-de-mascara-no-congresso.shtml
+2021-02-25 04:30:07,721          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/funcionarios-criam-canal-para-denuncias-sobre-aglomeracoes-e-falta-de-uso-de-mascara-no-congresso.shtml
+2021-02-25 04:30:07,915          root     INFO: Replying to: 1364794784041304067
+2021-02-25 04:30:08,157          root     INFO: Id to store: 1364794784850845696
+2021-02-25 04:30:08,179          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/visitas-a-folha-em-2021.shtml
+2021-02-25 04:30:12,842          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/estamos-vivendo-uma-tragedia-mas-precisamos-resistir-diz-raduan-nassar-sobre-bolsonaro.shtml
+2021-02-25 04:30:12,846          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/conselho-de-etica-da-camara-que-avaliara-cassacao-de-silveira-tem-historico-de-lentidao-e-penas-brandas.shtml
+2021-02-25 04:30:12,847          root     INFO: Finished script
