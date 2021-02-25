@@ -1,8 +1,15 @@
-2021-02-25 13:57:56,558          root     INFO: Starting script
-2021-02-25 13:57:57,467          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-25 13:57:58,192          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-25 13:57:58,897          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-25 13:57:59,063          root     INFO: Parsing R7 - Brasil
-2021-02-25 13:58:02,208          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/exercito-decide-retirar-tropas-que-fazem-seguranca-da-maior-apreensao-de-madeira-da-historia-do-brasil.shtml
-2021-02-25 13:58:07,697          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/covas-negocia-para-comandar-frente-de-prefeitos-e-ter-mais-exposicao-nacional-mas-tratamento-pode-adiar-plano.shtml
-2021-02-25 13:58:07,698          root     INFO: Finished script
+2021-02-25 14:26:41,921          root     INFO: Starting script
+2021-02-25 14:26:42,820          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-25 14:26:43,528          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-25 14:26:44,245          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-25 14:26:44,403          root     INFO: Parsing R7 - Brasil
+2021-02-25 14:26:45,126          root     INFO: <del>Tem 19 anos e é estudante</del> <ins>Em 2020 nos deparamos com uma situação inesperada: a pandemia, que trouxe uma enorme quantidade</ins> de <del>nutrição na UFRJ (Universidade Federal do Rio</del> <ins>mortes e desemprego. Isto resultou em um cenário</ins> de <del>Janeiro)</del> <ins>fome, obesidade, desnutrição, ansiedade, desabrigo e, para muitos, desespero.</ins> Leia mais (02/25/2021 - 06h00)
+2021-02-25 14:26:46,974          root     INFO: Media ready with ids: 1364944935116566533
+2021-02-25 14:26:46,974          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-25 14:26:46,974          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/02/pandemia-trouxe-cenario-de-fome-e-desespero-aos-brasileiros.shtml
+2021-02-25 14:26:46,983          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/02/pandemia-trouxe-cenario-de-fome-e-desespero-aos-brasileiros.shtml
+2021-02-25 14:26:47,191          root     INFO: Replying to: 1364944937075290112
+2021-02-25 14:26:47,446          root     INFO: Id to store: 1364944937897328641
+2021-02-25 14:26:50,235          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10699
+2021-02-25 14:26:55,862          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/02/quem-ve-campanha-de-turismo-responsavel-do-governo-bolsonaro-pode-pensar-que-e-na-nova-zelandia.shtml
+2021-02-25 14:26:55,863          root     INFO: Finished script
