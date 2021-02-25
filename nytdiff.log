@@ -1,10 +1,13 @@
-2021-02-25 18:07:44,200          root     INFO: Starting script
-2021-02-25 18:07:45,450          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-25 18:07:46,152          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-25 18:07:46,852          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-25 18:07:47,204          root     INFO: Parsing R7 - Brasil
-2021-02-25 18:07:47,885          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandre-schneider/2021/02/auxilio-emergencial-sim-desmonte-nao.shtml
-2021-02-25 18:07:52,494          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ciencia/2021/02/cientistas-criam-o-1o-grande-catalogo-de-genes-dos-microbios-das-aguas-amazonicas.shtml
-2021-02-25 18:07:55,110          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/alemanha-e-franca-compraram-madeira-ilegal-do-brasil-indicam-acoes-da-pf-bolsonaro-ameaca-europeus.shtml
-2021-02-25 18:07:55,122          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2021/02/nao-aceite-diz-fundador-da-gol-apos-propina-delacao-e-terapia.shtml
-2021-02-25 18:07:55,123          root     INFO: Finished script
+2021-02-25 18:32:32,082          root     INFO: Starting script
+2021-02-25 18:32:32,967          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-25 18:32:33,643          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-25 18:32:34,309          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-25 18:32:34,514          root     INFO: Parsing R7 - Brasil
+2021-02-25 18:32:34,981          root     INFO: Em 2018, estive em Berlim a convite da Bienal de <del>Artes</del> <ins>arte</ins> para comparecer às exposições que tiveram como curadores o brasileiro Thiago de Paula Souza e a sul-africana Gabi Ngcobo. Leia mais (02/25/2021 - 14h05)
+2021-02-25 18:32:36,972          root     INFO: Media ready with ids: 1365006801377361923
+2021-02-25 18:32:36,973          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-25 18:32:36,974          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/02/fantasmas-que-assombram-o-brasil-continuam-berrando-em-nossos-ouvidos.shtml
+2021-02-25 18:32:36,985          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/02/fantasmas-que-assombram-o-brasil-continuam-berrando-em-nossos-ouvidos.shtml
+2021-02-25 18:32:37,192          root     INFO: Replying to: 1365006803071868929
+2021-02-25 18:32:37,438          root     INFO: Id to store: 1365006803906551813
+2021-02-25 18:32:43,965          root     INFO: Finished script
