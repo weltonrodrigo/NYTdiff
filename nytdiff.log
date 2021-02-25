@@ -1,6 +1,14 @@
-2021-02-25 05:08:28,281          root     INFO: Starting script
-2021-02-25 05:08:29,122          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-25 05:08:29,806          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-25 05:08:30,483          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-25 05:08:30,721          root     INFO: Parsing R7 - Brasil
-2021-02-25 05:08:38,213          root     INFO: Finished script
+2021-02-25 05:29:44,229          root     INFO: Starting script
+2021-02-25 05:29:45,243          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-25 05:29:46,075          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-25 05:29:46,906          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-25 05:29:47,153          root     INFO: Parsing R7 - Brasil
+2021-02-25 05:29:53,722          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-da-record-tv-participa-de-debate-sobre-fake-news-24022021
+2021-02-25 05:29:53,761          root     INFO: <del>PEC, projetos</del> <ins>PEC altera regras para prisão</ins> de <del>lei e de resolução preveem deliberação sobre detenção</del> <ins>parlamentares em flagrante, resposta da Casa à prisão do deputado Daniel Silveira</ins> pelo <del>Legislativo e até juiz de garantias no Supremo</del> <ins>STF</ins>
+2021-02-25 05:29:55,570          root     INFO: Media ready with ids: 1364809831044022275
+2021-02-25 05:29:55,570          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-25 05:29:55,571          root     INFO: Article id: http://noticias.r7.com/brasil/camara-avanca-em-projeto-para-dificultar-prisoes-de-parlamentares-24022021
+2021-02-25 05:29:55,581          root     INFO: Tweeting url: http://noticias.r7.com/brasil/camara-avanca-em-projeto-para-dificultar-prisoes-de-parlamentares-24022021
+2021-02-25 05:29:55,842          root     INFO: Replying to: 1364809832902049792
+2021-02-25 05:29:56,124          root     INFO: Id to store: 1364809833845829633
+2021-02-25 05:29:56,523          root     INFO: Finished script
