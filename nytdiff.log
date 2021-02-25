@@ -1,15 +1,10 @@
-2021-02-25 17:58:48,986          root     INFO: Starting script
-2021-02-25 17:58:49,884          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-25 17:58:50,587          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-25 17:58:51,305          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-25 17:58:51,585          root     INFO: Parsing R7 - Brasil
-2021-02-25 17:58:52,465          root     INFO: <del>Bolsonarice de meter o 'dedo' no setor elétrico</del> <ins>Autoridades, empresas</ins> e <del>as botas na Petrobras ainda rende</del> <ins>economistas dão sinais de desconfiança final em Bolsonaro</ins>
-2021-02-25 17:58:54,232          root     INFO: Media ready with ids: 1364998317231472651
-2021-02-25 17:58:54,232          root     INFO: Text to tweet: Modificação do Título
-2021-02-25 17:58:54,232          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/bolsonarice-de-meter-o-dedo-no-setor-eletrico-e-as-botas-na-petrobras-ainda-rende.shtml
-2021-02-25 17:58:54,241          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/02/bolsonarice-de-meter-o-dedo-no-setor-eletrico-e-as-botas-na-petrobras-ainda-rende.shtml
-2021-02-25 17:58:54,501          root     INFO: Replying to: 1364998319185911811
-2021-02-25 17:58:54,858          root     INFO: Id to store: 1364998320213516288
-2021-02-25 17:58:57,014          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/bolsonaro-decide-trocar-comando-da-secretaria-de-comunicacao-e-deve-entrega-la-a-militar.shtml
-2021-02-25 17:59:01,959          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/na-terra-de-deputado-bolsonarista-amigos-endossam-ataques-ao-stf-e-veem-mascara-em-silveira.shtml
-2021-02-25 17:59:01,960          root     INFO: Finished script
+2021-02-25 18:07:44,200          root     INFO: Starting script
+2021-02-25 18:07:45,450          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-25 18:07:46,152          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-25 18:07:46,852          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-25 18:07:47,204          root     INFO: Parsing R7 - Brasil
+2021-02-25 18:07:47,885          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandre-schneider/2021/02/auxilio-emergencial-sim-desmonte-nao.shtml
+2021-02-25 18:07:52,494          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ciencia/2021/02/cientistas-criam-o-1o-grande-catalogo-de-genes-dos-microbios-das-aguas-amazonicas.shtml
+2021-02-25 18:07:55,110          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2020/11/alemanha-e-franca-compraram-madeira-ilegal-do-brasil-indicam-acoes-da-pf-bolsonaro-ameaca-europeus.shtml
+2021-02-25 18:07:55,122          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2021/02/nao-aceite-diz-fundador-da-gol-apos-propina-delacao-e-terapia.shtml
+2021-02-25 18:07:55,123          root     INFO: Finished script
