@@ -1,8 +1,13 @@
-2021-02-25 14:53:36,397          root     INFO: Starting script
-2021-02-25 14:53:37,233          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-25 14:53:37,916          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-25 14:53:38,614          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-25 14:53:38,764          root     INFO: Parsing R7 - Brasil
-2021-02-25 14:53:41,632          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-defende-pec-da-imunidade-nega-conflito-com-stf-e-diz-que-papel-de-legislar-e-do-congresso.shtml
-2021-02-25 14:53:46,905          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/dez-deputados-ex-bolsonaristas-votaram-a-favor-da-manutencao-da-prisao-de-daniel-silveira.shtml
-2021-02-25 14:53:46,907          root     INFO: Finished script
+2021-02-25 15:02:45,129          root     INFO: Starting script
+2021-02-25 15:02:45,980          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-25 15:02:46,670          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-25 15:02:47,358          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-25 15:02:47,603          root     INFO: Parsing R7 - Brasil
+2021-02-25 15:02:50,366          root     INFO: Após acelerar a tramitação <del>da PEC (Proposta</del> de <del>Emenda à Constituição) da</del> <ins>uma proposta que amplia a</ins> imunidade parlamentar, o presidente da Câmara, Arthur Lira (PP-AL), negou que <del>a proposição</del> <ins>essa PEC</ins> blinde deputados e senadores e disse não <del>ver como o</del> <ins>identificar pontos do</ins> texto <del>pode</del> <ins>que possam</ins> ofender o STF (Supremo Tribunal <del>Federal), em meio a críticas de ministros nos bastidores.</del> <ins>Federal).</ins> Leia mais (02/25/2021 - 11h42)
+2021-02-25 15:02:52,489          root     INFO: Media ready with ids: 1364954017189793801
+2021-02-25 15:02:52,489          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-25 15:02:52,490          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-defende-pec-da-imunidade-nega-conflito-com-stf-e-diz-que-papel-de-legislar-e-do-congresso.shtml
+2021-02-25 15:02:52,499          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/lira-defende-pec-da-imunidade-nega-conflito-com-stf-e-diz-que-papel-de-legislar-e-do-congresso.shtml
+2021-02-25 15:02:52,723          root     INFO: Replying to: 1364954019903508501
+2021-02-25 15:02:53,025          root     INFO: Id to store: 1364954020884992001
+2021-02-25 15:02:57,889          root     INFO: Finished script
