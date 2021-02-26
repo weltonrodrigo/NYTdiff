@@ -1,13 +1,6 @@
-2021-02-26 18:56:42,429          root     INFO: Starting script
-2021-02-26 18:56:43,271          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-26 18:56:43,941          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-26 18:56:44,612          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-26 18:56:44,803          root     INFO: Parsing R7 - Brasil
-2021-02-26 18:56:45,230          root     INFO: Numa fábula de Kafka, a <del>inércia</del> <ins>letargia</ins> que a pandemia provocou no Brasil
-2021-02-26 18:56:46,932          root     INFO: Media ready with ids: 1365375270929248256
-2021-02-26 18:56:46,933          root     INFO: Text to tweet: Modificação do Título
-2021-02-26 18:56:46,933          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/02/numa-fabula-de-kafka-a-inercia-que-a-pandemia-provocou-no-brasil.shtml
-2021-02-26 18:56:46,941          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/02/numa-fabula-de-kafka-a-inercia-que-a-pandemia-provocou-no-brasil.shtml
-2021-02-26 18:56:47,117          root     INFO: Replying to: 1365375272351117314
-2021-02-26 18:56:47,336          root     INFO: Id to store: 1365375273047363585
-2021-02-26 18:56:56,171          root     INFO: Finished script
+2021-02-26 19:07:25,587          root     INFO: Starting script
+2021-02-26 19:07:26,424          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-26 19:07:27,103          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-26 19:07:27,787          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-26 19:07:27,906          root     INFO: Parsing R7 - Brasil
+2021-02-26 19:07:35,493          root     INFO: Finished script
