@@ -1,33 +1,6 @@
-2021-02-26 21:21:39,962          root     INFO: Starting script
-2021-02-26 21:21:40,820          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-26 21:21:41,489          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-26 21:21:42,159          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-26 21:21:42,432          root     INFO: Parsing R7 - Brasil
-2021-02-26 21:21:45,865          root     INFO: O jornalista João Renato Jácome foi demitido e teve decreto de exoneração publicado no Diário Oficial da Prefeitura de Rio Branco <ins>(AC)</ins> desta sexta-feira (26). Ele deixa o cargo de chefe de gabinete na Secretaria Municipal de Meio Ambiente, onde atuava havia pouco mais de um mês. Leia mais (02/26/2021 - 16h51)
-2021-02-26 21:21:47,720          root     INFO: Media ready with ids: 1365411764549136387
-2021-02-26 21:21:47,721          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-26 21:21:47,721          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/prefeitura-demite-jornalista-do-acre-que-irritou-bolsonaro-com-pergunta-sobre-flavio.shtml
-2021-02-26 21:21:47,729          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/prefeitura-demite-jornalista-do-acre-que-irritou-bolsonaro-com-pergunta-sobre-flavio.shtml
-2021-02-26 21:21:47,932          root     INFO: Replying to: 1365411766235246594
-2021-02-26 21:21:48,187          root     INFO: Id to store: 1365411767057317889
-2021-02-26 21:21:53,319          root     INFO: New article tracked: http://noticias.r7.com/brasil/sem-acordo-camara-desiste-de-votar-pec-da-imunidade-26022021
-2021-02-26 21:21:53,361          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-nega-suspender-pec-da-imunidade-parlamentar-26022021
-2021-02-26 21:21:53,393          root     INFO: New article tracked: http://noticias.r7.com/brasil/pandemia-impactou-diagnostico-e-tratamento-de-cancer-no-brasil-26022021
-2021-02-26 21:21:53,424          root     INFO: New article tracked: http://noticias.r7.com/brasil/mp-pede-suspensao-de-compra-da-vacina-covaxin-ao-tcu-26022021
-2021-02-26 21:21:53,457          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-solicita-reabertura-da-cpi-da-chapecoense-26022021
-2021-02-26 21:21:53,494          root     INFO: New article tracked: http://noticias.r7.com/brasil/silveira-depoe-ao-mpf-e-diz-que-ja-tinha-celulares-quando-foi-preso-26022021
-2021-02-26 21:21:53,527          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-vota-contra-medida-que-zerou-imposto-de-armas-26022021
-2021-02-26 21:21:53,557          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputados-do-psl-vao-votar-contra-pec-da-impunidade-parlamentar-26022021
-2021-02-26 21:21:53,592          root     INFO: New article tracked: http://noticias.r7.com/brasil/tecnologia-5g-estara-disponivel-nas-capitais-ate-julho-de-2022-26022021
-2021-02-26 21:21:53,623          root     INFO: New article tracked: http://noticias.r7.com/brasil/17-capitais-tem-taxa-de-ocupacao-de-uti-acima-de-80-diz-fiocruz-26022021
-2021-02-26 21:21:53,653          root     INFO: New article tracked: http://noticias.r7.com/brasil/live-jr-discute-impacto-da-pandemia-no-tratamento-do-cancer-26022021
-2021-02-26 21:21:53,684          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-abre-sessao-que-deve-votar-pec-que-beneficia-parlamentares-26022021
-2021-02-26 21:21:53,731          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-amanha-insumos-para-12-mi-de-doses-da-vacina-de-oxford-26022021
-2021-02-26 21:21:53,768          root     INFO: New article tracked: http://noticias.r7.com/brasil/bueno-quer-fim-da-aposentadoria-compulsoria-de-juizes-26022021
-2021-02-26 21:21:53,805          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-um-ano-de-pandemia-no-pais-bolsonaro-critica-lockdowns-26022021
-2021-02-26 21:21:53,838          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputada-cobra-revisao-de-criterios-de-distribuicao-de-vacina-26022021
-2021-02-26 21:21:53,869          root     INFO: New article tracked: http://noticias.r7.com/brasil/fake-news-existem-desde-sempre-afirma-presidente-da-record-tv-26022021
-2021-02-26 21:21:53,903          root     INFO: New article tracked: http://noticias.r7.com/brasil/inss-publica-cronograma-de-retomada-da-prova-de-vida-26022021
-2021-02-26 21:21:53,937          root     INFO: New article tracked: http://noticias.r7.com/brasil/renda-domiciliar-por-pessoa-fica-em-r-1380-em-2020-revela-ibge-26022021
-2021-02-26 21:21:53,971          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-nova-lei-impoe-identidadede-genero-na-argentina-26022021
-2021-02-26 21:21:53,992          root     INFO: Finished script
+2021-02-26 21:33:35,071          root     INFO: Starting script
+2021-02-26 21:33:35,913          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-26 21:33:36,579          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-26 21:33:37,244          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-26 21:33:37,345          root     INFO: Parsing R7 - Brasil
+2021-02-26 21:33:44,751          root     INFO: Finished script
