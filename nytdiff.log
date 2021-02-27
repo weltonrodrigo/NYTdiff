@@ -1,20 +1,8 @@
-2021-02-27 13:58:22,498          root     INFO: Starting script
-2021-02-27 13:58:23,430          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-27 13:58:24,091          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-27 13:58:24,747          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-27 13:58:24,979          root     INFO: Parsing R7 - Brasil
-2021-02-27 13:58:28,218          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/governadores-criticam-campanha-de-bolsonaro-contra-lockdown-e-falam-em-insensatez-e-negacionismo.shtml
-2021-02-27 13:58:30,950          root     INFO: Governador do DF livra cultos e missas <del>do lockdown</del> <ins>de decreto com medidas mais restritivas contra Covid-19</ins>
-2021-02-27 13:58:32,886          root     INFO: Media ready with ids: 1365662605491269632
-2021-02-27 13:58:32,886          root     INFO: Text to tweet: Modificação do Título
-2021-02-27 13:58:32,886          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/governador-do-df-livra-cultos-e-missas-do-lockdown.shtml
-2021-02-27 13:58:32,898          root     INFO: Replying to: 1365443004937428994
-2021-02-27 13:58:33,195          root     INFO: Id to store: 1365662607378628611
-2021-02-27 13:58:33,221          root     INFO: O governador do Distrito Federal, Ibaneis Rocha (MDB), baixou nesta sexta-feira (26) um decreto com a previsão de lockdown a partir do domingo (28) que prevê apenas o funcionamento de serviços essencias, como hospitais, supermercados e farmácias na capital federal, mas <del>mantêm</del> <ins>mantém</ins> a possibilidade de realização de cultos e missas. Leia mais (02/26/2021 - 19h45)
-2021-02-27 13:58:34,988          root     INFO: Media ready with ids: 1365662614307680257
-2021-02-27 13:58:34,989          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-27 13:58:34,991          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/governador-do-df-livra-cultos-e-missas-do-lockdown.shtml
-2021-02-27 13:58:35,000          root     INFO: Replying to: 1365662607378628611
-2021-02-27 13:58:35,232          root     INFO: Id to store: 1365662616044118016
-2021-02-27 13:58:39,841          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/justica-do-rio-afasta-do-cargo-a-deputada-flordelis-suspeita-de-mandar-matar-marido.shtml
-2021-02-27 13:58:39,842          root     INFO: Finished script
+2021-02-27 14:23:51,666          root     INFO: Starting script
+2021-02-27 14:23:52,809          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-27 14:23:53,476          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-27 14:23:54,152          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-27 14:23:54,300          root     INFO: Parsing R7 - Brasil
+2021-02-27 14:23:57,362          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/02/lira-chama-governadores-para-dialogo-sobre-pandemia-apos-ataques-de-bolsonaro-a-medidas-restritivas.shtml
+2021-02-27 14:24:02,423          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49118
+2021-02-27 14:24:02,423          root     INFO: Finished script
