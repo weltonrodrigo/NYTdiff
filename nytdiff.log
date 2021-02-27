@@ -1,8 +1,13 @@
-2021-02-27 21:50:42,284          root     INFO: Starting script
-2021-02-27 21:50:43,122          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-27 21:50:43,794          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-27 21:50:44,472          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-27 21:50:44,693          root     INFO: Parsing R7 - Brasil
-2021-02-27 21:50:45,121          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/02/o-grande-equivoco.shtml
-2021-02-27 21:50:52,202          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2021/02/vou-aprender-a-ler-para-ensinar-meus-camaradas.shtml
-2021-02-27 21:50:52,203          root     INFO: Finished script
+2021-02-27 21:57:46,632          root     INFO: Starting script
+2021-02-27 21:57:47,512          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-27 21:57:48,192          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-27 21:57:48,872          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-27 21:57:49,120          root     INFO: Parsing R7 - Brasil
+2021-02-27 21:57:49,589          root     INFO: O amor é um equívoco. Todas as pulsões do amor são um equívoco. Mas esse equívoco é a única coisa que existe. A voluptuosa Anita Ekberg, em "A Doce Vida", entra na Fontana di Trevi e chama Marcello. <del>"Marcello, come here!" E o que Marcello faz? Tira os sapatos, entra na água e, andando lentamente em sua direção, resignado, como que seguindo um mandado da espécie, diz: "Estamos todos equivocados". Ele tem razão. Estamos todos equivocados e caminhamos para o equívoco do amor, feito zumbis. Mas que equívoco mais saboroso, mais ardente, mais poderoso. As pessoas estão mortas e apagadas até que, de repente, se apaixonam e nelas se acendem todas as luzinhas da árvore de Natal. Sentem-se desejadas, voltam a desejar, vão para a cama com alguém que as faz sentir algo que nunca ninguém as tinha feito sentir antes. Depois da poeira cósmica, a experiência vital passa a ter novas paisagens. E esse amante já se torna uma droga pesada, uma picada no sangue, e sua ausência, um desassossego. Queira Deus que você se apaixone, diz uma maldição cigana.</del> Leia mais (02/27/2021 - 18h00)
+2021-02-27 21:57:51,602          root     INFO: Media ready with ids: 1365783228196540432
+2021-02-27 21:57:51,603          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-27 21:57:51,603          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/02/o-grande-equivoco.shtml
+2021-02-27 21:57:51,612          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/02/o-grande-equivoco.shtml
+2021-02-27 21:57:51,816          root     INFO: Replying to: 1365783230109081600
+2021-02-27 21:57:52,068          root     INFO: Id to store: 1365783230914428939
+2021-02-27 21:57:59,896          root     INFO: Finished script
