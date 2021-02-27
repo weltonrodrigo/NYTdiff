@@ -1,26 +1,6 @@
-2021-02-27 17:43:31,320          root     INFO: Starting script
-2021-02-27 17:43:32,169          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-27 17:43:32,820          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-27 17:43:33,468          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-27 17:43:33,772          root     INFO: Parsing R7 - Brasil
-2021-02-27 17:43:34,477          root     INFO: Mercado ou sociedade? <ins>Problema é bem mais complexo do que sugere o caso Petrobras</ins>
-2021-02-27 17:43:36,268          root     INFO: Media ready with ids: 1365719242935574535
-2021-02-27 17:43:36,269          root     INFO: Text to tweet: Modificação do Título
-2021-02-27 17:43:36,269          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/02/mercado-ou-sociedade.shtml
-2021-02-27 17:43:36,280          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/02/mercado-ou-sociedade.shtml
-2021-02-27 17:43:36,441          root     INFO: Replying to: 1365719244437127194
-2021-02-27 17:43:36,688          root     INFO: Id to store: 1365719245225660416
-2021-02-27 17:43:36,711          root     INFO: Os reajustes promovidos pela Petrobras iniciaram uma polêmica. Pessoas à esquerda e à direita defenderam a intervenção do governo para controlar os preços dos combustíveis. Tornou-se lugar-comum tratar do tema como uma oposição entre interesses do mercado e os da sociedade. Leia mais (02/27/2021 - <del>13h24)</del> <ins>14h34)</ins>
-2021-02-27 17:43:38,506          root     INFO: Media ready with ids: 1365719252217581582
-2021-02-27 17:43:38,507          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-27 17:43:38,507          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/02/mercado-ou-sociedade.shtml
-2021-02-27 17:43:38,517          root     INFO: Replying to: 1365719245225660416
-2021-02-27 17:43:38,724          root     INFO: Id to store: 1365719253807210496
-2021-02-27 17:43:38,831          root     INFO: Transmissão <del>do coronavírus</del> <ins>da Covid</ins> deve persistir em várias regiões do mundo por anos
-2021-02-27 17:43:40,593          root     INFO: Media ready with ids: 1365719260908118018
-2021-02-27 17:43:40,594          root     INFO: Text to tweet: Modificação do Título
-2021-02-27 17:43:40,594          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2021/02/transmissao-do-coronavirus-deve-persistir-em-varias-regioes-do-mundo-por-anos.shtml
-2021-02-27 17:43:40,604          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2021/02/transmissao-do-coronavirus-deve-persistir-em-varias-regioes-do-mundo-por-anos.shtml
-2021-02-27 17:43:40,762          root     INFO: Replying to: 1365719262556487681
-2021-02-27 17:43:41,029          root     INFO: Id to store: 1365719263386951691
-2021-02-27 17:43:48,524          root     INFO: Finished script
+2021-02-27 17:55:25,138          root     INFO: Starting script
+2021-02-27 17:55:25,977          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-27 17:55:26,655          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-27 17:55:27,336          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-27 17:55:27,561          root     INFO: Parsing R7 - Brasil
+2021-02-27 17:55:34,822          root     INFO: Finished script
