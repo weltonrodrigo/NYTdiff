@@ -1,6 +1,8 @@
-2021-02-27 21:33:37,124          root     INFO: Starting script
-2021-02-27 21:33:38,202          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-27 21:33:39,034          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-27 21:33:39,883          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-27 21:33:40,127          root     INFO: Parsing R7 - Brasil
-2021-02-27 21:33:47,645          root     INFO: Finished script
+2021-02-27 21:50:42,284          root     INFO: Starting script
+2021-02-27 21:50:43,122          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-27 21:50:43,794          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-27 21:50:44,472          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-27 21:50:44,693          root     INFO: Parsing R7 - Brasil
+2021-02-27 21:50:45,121          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/02/o-grande-equivoco.shtml
+2021-02-27 21:50:52,202          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2021/02/vou-aprender-a-ler-para-ensinar-meus-camaradas.shtml
+2021-02-27 21:50:52,203          root     INFO: Finished script
