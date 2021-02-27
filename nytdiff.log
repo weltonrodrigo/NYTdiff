@@ -1,8 +1,38 @@
-2021-02-27 02:09:35,156          root     INFO: Starting script
-2021-02-27 02:09:35,966          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-27 02:09:36,626          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-27 02:09:37,289          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-27 02:09:37,518          root     INFO: Parsing R7 - Brasil
-2021-02-27 02:09:37,938          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/02/odorico-ou-bolsonaro.shtml
-2021-02-27 02:09:44,531          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/o-caminho-do-auxilio.shtml
-2021-02-27 02:09:44,531          root     INFO: Finished script
+2021-02-27 02:37:35,328          root     INFO: Starting script
+2021-02-27 02:37:36,178          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-27 02:37:36,839          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-27 02:37:37,500          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-27 02:37:37,667          root     INFO: Parsing R7 - Brasil
+2021-02-27 02:37:38,361          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/02/apos-fechamento-de-fabrica-mercedes-gla-volta-ao-brasil-como-importado.shtml
+2021-02-27 02:37:38,392          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/02/melhor-do-que-desvincular-gastos-com-saude-e-educacao-e-corrigir-regras-atuais.shtml
+2021-02-27 02:37:38,426          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/punicao-a-cury.shtml
+2021-02-27 02:37:38,458          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/02/nosso-representantes-sao-como-um-clube-dos-cafajestes.shtml
+2021-02-27 02:37:38,498          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/02/na-reducao-de-acidentes-bolsonaro-e-doria-vao-na-contramao-da-logica.shtml
+2021-02-27 02:37:38,529          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/02/fora-da-bolha-folha.shtml
+2021-02-27 02:37:38,562          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/o-pos-lava-jato.shtml
+2021-02-27 02:37:38,598          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/02/sem-piso-na-saude-e-na-educacao-sem-futuro.shtml
+2021-02-27 02:37:38,629          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/a-falta-de-regras-claras-compromete-a-funcionalidade-dos-mandatos-coletivos-nao.shtml
+2021-02-27 02:37:38,660          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/a-falta-de-regras-claras-compromete-a-funcionalidade-dos-mandatos-coletivos-sim.shtml
+2021-02-27 02:37:40,629          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/trio-de-assessores-de-bolsonaro-causa-desconforto-em-ministros.shtml
+2021-02-27 02:37:40,663          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/instituto-sou-da-paz-pede-para-participar-de-acao-no-stf-contra-decreto-das-armas-de-bolsonaro.shtml
+2021-02-27 02:37:40,694          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/02/fora-da-bolha-folha.shtml
+2021-02-27 02:37:40,729          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/pre-candidato-do-dem-mandetta-faz-reuniao-virtual-com-fernando-henrique.shtml
+2021-02-27 02:37:40,761          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/denuncia-contra-deputado-indica-ser-viavel-nova-acusacao-contra-flavio-bolsonaro.shtml
+2021-02-27 02:37:40,792          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/apoio-evangelico-em-2022-indica-bolsonaro-na-ponta-e-entraves-a-doria-huck-e-pt.shtml
+2021-02-27 02:37:45,796          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/politica-externa-nunca-e-tarde-para-acertar.shtml
+2021-02-27 02:37:45,811          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/02/nao-sobrevivi-a-2020-e-ao-bolsonaro-para-sucumbir-a-positividade-toxica.shtml
+2021-02-27 02:37:45,824          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/assembleia-de-sp-quer-acelerar-votacao-em-plenario-para-punir-deputado-que-apalpou-colega.shtml
+2021-02-27 02:37:45,838          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/02/o-intelectual-das-emocoes.shtml
+2021-02-27 02:37:45,853          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2021/02/folha-100-conservadorismo-de-vanguarda.shtml
+2021-02-27 02:37:45,867          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/02/aprendi-com-a-folha-que-os-leitores-de-hoje-podem-ser-os-amigos-do-futuro.shtml
+2021-02-27 02:37:45,883          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/mdb-reconduz-baleia-rossi-a-presidencia-do-partido-com-eleicao-de-2022-em-vista.shtml
+2021-02-27 02:37:45,898          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/para-lira-impeachment-nao-e-prioridade-e-nao-ha-clima-para-medida-extrema.shtml
+2021-02-27 02:37:45,914          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/meu-papel-e-fazer-certo-sem-esperar-que-de-certo-diz-vereador-que-pede-ao-stf-prisao-de-ciro-e-freixo.shtml
+2021-02-27 02:37:45,928          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/leitores-eu-estava-la.shtml
+2021-02-27 02:37:45,942          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-meio-a-pandemia-camara-dos-deputados-tem-fila-e-aglomeracao.shtml
+2021-02-27 02:37:45,956          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/faroeste-judicial.shtml
+2021-02-27 02:37:45,970          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/novo-procurador-geral-decide-controlar-apuracoes-sensiveis-no-mp-rj-como-as-de-carlos-bolsonaro-e-marielle.shtml
+2021-02-27 02:37:45,984          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/02/brasil-so-nao-e-melhor-do-mundo-no-futebol-feminino-por-um-detalhe.shtml
+2021-02-27 02:37:45,998          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/02/stf-autoritarismo-contra-bocalidade.shtml
+2021-02-27 02:37:46,011          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/em-nenhum-momento-a-pandemia-assolou-o-brasil-como-agora.shtml
+2021-02-27 02:37:46,011          root     INFO: Finished script
