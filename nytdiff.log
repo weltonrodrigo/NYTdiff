@@ -1,7 +1,8 @@
-2021-02-28 22:58:07,497          root     INFO: Starting script
-2021-02-28 22:58:08,377          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-28 22:58:09,037          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-28 22:58:09,696          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-28 22:58:09,847          root     INFO: Parsing R7 - Brasil
-2021-02-28 22:58:17,662          root     INFO: Removed http://noticias.r7.com/brasil/fotos/lancamento-do-primeiro-satelite-100-brasileiro-e-variante-amazonica-do-coronavirus-no-reino-unido-sao-destaques-do-domingo-28-28022021
-2021-02-28 22:58:17,663          root     INFO: Finished script
+2021-02-28 23:25:55,713          root     INFO: Starting script
+2021-02-28 23:25:56,579          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-28 23:25:57,238          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-28 23:25:57,900          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-28 23:25:58,059          root     INFO: Parsing R7 - Brasil
+2021-02-28 23:26:01,124          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-meio-a-colapso-nacional-bolsonaro-omite-erros-e-omissoes-na-pandemia-e-tenta-culpar-governadores.shtml
+2021-02-28 23:26:06,079          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/02/abraco-foi-gesto-de-gentileza-diz-cury-ao-conselho-de-etica-isa-afirma-que-prova-e-indiscutivel.shtml
+2021-02-28 23:26:06,081          root     INFO: Finished script
