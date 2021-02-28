@@ -1,6 +1,13 @@
-2021-02-28 23:39:13,137          root     INFO: Starting script
-2021-02-28 23:39:14,044          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-28 23:39:14,720          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-28 23:39:15,392          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-28 23:39:15,577          root     INFO: Parsing R7 - Brasil
-2021-02-28 23:39:22,973          root     INFO: Finished script
+2021-02-28 23:53:06,484          root     INFO: Starting script
+2021-02-28 23:53:07,322          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-28 23:53:08,018          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-28 23:53:08,691          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-28 23:53:08,921          root     INFO: Parsing R7 - Brasil
+2021-02-28 23:53:11,601          root     INFO: Ignorando a sucessão de erros e omissões do governo federal na condução da <del>pandemia,</del> <ins>crise do coronavírus,</ins> Jair Bolsonaro e ministros tentam jogar para os estados a culpa pelo Brasil atravessar o pior momento da pandemia até agora. Leia mais (02/28/2021 - 20h10)
+2021-02-28 23:53:13,394          root     INFO: Media ready with ids: 1366174648266870784
+2021-02-28 23:53:13,394          root     INFO: Text to tweet: Modificação da Descrição
+2021-02-28 23:53:13,394          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-meio-a-colapso-nacional-bolsonaro-omite-erros-e-omissoes-na-pandemia-e-tenta-culpar-governadores.shtml
+2021-02-28 23:53:13,403          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-meio-a-colapso-nacional-bolsonaro-omite-erros-e-omissoes-na-pandemia-e-tenta-culpar-governadores.shtml
+2021-02-28 23:53:13,600          root     INFO: Replying to: 1366174650011639810
+2021-02-28 23:53:13,817          root     INFO: Id to store: 1366174650695303170
+2021-02-28 23:53:18,653          root     INFO: Finished script
