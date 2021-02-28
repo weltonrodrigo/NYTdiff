@@ -1,13 +1,8 @@
-2021-02-28 23:53:06,484          root     INFO: Starting script
-2021-02-28 23:53:07,322          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-02-28 23:53:08,018          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-02-28 23:53:08,691          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-02-28 23:53:08,921          root     INFO: Parsing R7 - Brasil
-2021-02-28 23:53:11,601          root     INFO: Ignorando a sucessão de erros e omissões do governo federal na condução da <del>pandemia,</del> <ins>crise do coronavírus,</ins> Jair Bolsonaro e ministros tentam jogar para os estados a culpa pelo Brasil atravessar o pior momento da pandemia até agora. Leia mais (02/28/2021 - 20h10)
-2021-02-28 23:53:13,394          root     INFO: Media ready with ids: 1366174648266870784
-2021-02-28 23:53:13,394          root     INFO: Text to tweet: Modificação da Descrição
-2021-02-28 23:53:13,394          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-meio-a-colapso-nacional-bolsonaro-omite-erros-e-omissoes-na-pandemia-e-tenta-culpar-governadores.shtml
-2021-02-28 23:53:13,403          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-meio-a-colapso-nacional-bolsonaro-omite-erros-e-omissoes-na-pandemia-e-tenta-culpar-governadores.shtml
-2021-02-28 23:53:13,600          root     INFO: Replying to: 1366174650011639810
-2021-02-28 23:53:13,817          root     INFO: Id to store: 1366174650695303170
-2021-02-28 23:53:18,653          root     INFO: Finished script
+2021-02-28 23:58:43,619          root     INFO: Starting script
+2021-02-28 23:58:44,468          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-02-28 23:58:45,121          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-02-28 23:58:45,769          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-02-28 23:58:45,958          root     INFO: Parsing R7 - Brasil
+2021-02-28 23:58:52,856          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-atinge-105-milhoes-de-casos-de-covid-e-2549-mil-mortes-28022021
+2021-02-28 23:58:52,900          root     INFO: New article tracked: http://noticias.r7.com/brasil/entidades-medicas-divulgam-manifesto-em-defesa-de-mascaras-28022021
+2021-02-28 23:58:53,293          root     INFO: Finished script
