@@ -1,12 +1,20 @@
-2021-03-01 17:16:31,860          root     INFO: Starting script
-2021-03-01 17:16:32,722          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-03-01 17:16:33,382          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-03-01 17:16:34,035          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-03-01 17:16:34,173          root     INFO: Parsing R7 - Brasil
-2021-03-01 17:16:34,893          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/03/mundo-pos-pandemia-sera-lembrada-como-a-gripe-espanhola-um-embaraco.shtml
-2021-03-01 17:16:37,314          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/03/governador-de-roraima-chama-exercito-para-impedir-entrada-de-venezuelanos-sob-argumento-de-impedir-colapso-na-saude.shtml
-2021-03-01 17:16:37,354          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/03/a-oas-tem-que-mijar-sangue-diz-procurador-em-dialogos-da-lava-jato.shtml
-2021-03-01 17:16:42,440          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/kim-kataguiri-vai-entrar-com-mandado-de-seguranca-para-barrar-pec-da-imunidade-parlamentar.shtml
-2021-03-01 17:16:42,456          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/02/qualquer-resultado-nos-jogos-de-flamengo-e-inter-sera-normal.shtml
-2021-03-01 17:16:42,471          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/juiz-do-caso-das-rachadinhas-cita-lei-para-nao-se-manifestar-sobre-decisao-do-stj.shtml
-2021-03-01 17:16:42,472          root     INFO: Finished script
+2021-03-01 17:45:32,808          root     INFO: Starting script
+2021-03-01 17:45:33,653          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-03-01 17:45:34,334          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-03-01 17:45:35,013          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-03-01 17:45:35,122          root     INFO: Parsing R7 - Brasil
+2021-03-01 17:45:35,567          root     INFO: Mundo pós-pandemia será <del>lembrada</del> <ins>lembrado</ins> como a gripe espanhola, um embaraço
+2021-03-01 17:45:37,397          root     INFO: Media ready with ids: 1366444526756323330
+2021-03-01 17:45:37,397          root     INFO: Text to tweet: Modificação do Título
+2021-03-01 17:45:37,397          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/03/mundo-pos-pandemia-sera-lembrada-como-a-gripe-espanhola-um-embaraco.shtml
+2021-03-01 17:45:37,410          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/03/mundo-pos-pandemia-sera-lembrada-como-a-gripe-espanhola-um-embaraco.shtml
+2021-03-01 17:45:37,589          root     INFO: Replying to: 1366444528299880450
+2021-03-01 17:45:37,845          root     INFO: Id to store: 1366444529017098241
+2021-03-01 17:45:40,255          root     INFO: Governador de Roraima chama Exército para impedir entrada de venezuelanos sob argumento de <del>impedir</del> <ins>evitar</ins> colapso na saúde
+2021-03-01 17:45:41,929          root     INFO: Media ready with ids: 1366444545861427208
+2021-03-01 17:45:41,930          root     INFO: Text to tweet: Modificação do Título
+2021-03-01 17:45:41,930          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/03/governador-de-roraima-chama-exercito-para-impedir-entrada-de-venezuelanos-sob-argumento-de-impedir-colapso-na-saude.shtml
+2021-03-01 17:45:41,938          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/03/governador-de-roraima-chama-exercito-para-impedir-entrada-de-venezuelanos-sob-argumento-de-impedir-colapso-na-saude.shtml
+2021-03-01 17:45:42,115          root     INFO: Replying to: 1366444547266539524
+2021-03-01 17:45:42,363          root     INFO: Id to store: 1366444548000534529
+2021-03-01 17:45:47,456          root     INFO: Finished script
