@@ -1,8 +1,20 @@
-2021-03-01 14:57:50,289          root     INFO: Starting script
-2021-03-01 14:57:51,132          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-03-01 14:57:51,786          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-03-01 14:57:52,434          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-03-01 14:57:52,686          root     INFO: Parsing R7 - Brasil
-2021-03-01 14:57:55,486          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/03/rearranjo-no-planalto-ameniza-influencia-militar-e-leva-centrao-para-nucleo-duro-de-bolsonaro.shtml
-2021-03-01 14:57:59,937          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/funcionarios-criam-canal-para-denuncias-sobre-aglomeracoes-e-falta-de-uso-de-mascara-no-congresso.shtml
-2021-03-01 14:57:59,938          root     INFO: Finished script
+2021-03-01 15:24:58,993          root     INFO: Starting script
+2021-03-01 15:24:59,816          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-03-01 15:25:00,482          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-03-01 15:25:01,141          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-03-01 15:25:01,377          root     INFO: Parsing R7 - Brasil
+2021-03-01 15:25:03,925          root     INFO: <del>Visitas à</del> <ins>Saiba quais políticos, pessoas públicas e personalidades visitaram a</ins> Folha em 2021
+2021-03-01 15:25:05,597          root     INFO: Media ready with ids: 1366409161198755855
+2021-03-01 15:25:05,598          root     INFO: Text to tweet: Modificação do Título
+2021-03-01 15:25:05,598          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/visitas-a-folha-em-2021.shtml
+2021-03-01 15:25:05,606          root     INFO: Replying to: 1365797201511915527
+2021-03-01 15:25:05,837          root     INFO: Id to store: 1366409162675126275
+2021-03-01 15:25:05,843          root     INFO: O <del>governador do Pará, Helder Barbalho (MDB),</del> <ins>embaixador britânico no Brasil, Peter Wilson,</ins> visitou a Folha em <del>24</del> <ins>26</ins> de fevereiro. Estava acompanhado de <del>Vera Oliveira, secretária de Comunicação,</del> <ins>Lisa Weedon, ministra conselheira</ins> e <del>Leonardo Souza, consultor em</del> <ins>cônsulgeral adjunta, e Leandro Beguoci, diretor de diplomacia pública e</ins> comunicação. Leia mais <del>(02/24/2021</del> <ins>(03/01/2021</ins> - <del>23h30)</del> <ins>12h00)</ins>
+2021-03-01 15:25:07,498          root     INFO: Media ready with ids: 1366409169163714565
+2021-03-01 15:25:07,499          root     INFO: Text to tweet: Modificação da Descrição
+2021-03-01 15:25:07,499          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/visitas-a-folha-em-2021.shtml
+2021-03-01 15:25:07,507          root     INFO: Replying to: 1366409162675126275
+2021-03-01 15:25:07,734          root     INFO: Id to store: 1366409170635935745
+2021-03-01 15:25:07,750          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10706
+2021-03-01 15:25:12,392          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/investigadores-dizem-que-pec-que-protege-parlamentares-e-retrocesso-no-combate-a-corrupcao.shtml
+2021-03-01 15:25:12,393          root     INFO: Finished script
