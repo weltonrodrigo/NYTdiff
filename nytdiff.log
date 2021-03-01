@@ -1,24 +1,26 @@
-2021-03-01 01:03:01,633          root     INFO: Starting script
-2021-03-01 01:03:02,775          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-03-01 01:03:03,454          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-03-01 01:03:04,127          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-03-01 01:03:04,348          root     INFO: Parsing R7 - Brasil
-2021-03-01 01:03:04,752          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/nyt-e-economist-comecam-a-dar-as-costas-para-moro.shtml
-2021-03-01 01:03:07,100          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/nyt-e-economist-comecam-a-dar-as-costas-para-moro.shtml
-2021-03-01 01:03:07,137          root     INFO: Em meio a colapso nacional, Bolsonaro omite erros <del>e omissões</del> na pandemia e tenta culpar governadores
-2021-03-01 01:03:08,917          root     INFO: Media ready with ids: 1366192245838331906
-2021-03-01 01:03:08,917          root     INFO: Text to tweet: Modificação do Título
-2021-03-01 01:03:08,917          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-meio-a-colapso-nacional-bolsonaro-omite-erros-e-omissoes-na-pandemia-e-tenta-culpar-governadores.shtml
-2021-03-01 01:03:08,926          root     INFO: Replying to: 1366174650695303170
-2021-03-01 01:03:09,173          root     INFO: Id to store: 1366192247335772162
-2021-03-01 01:03:09,183          root     INFO: Ignorando a sucessão de erros e omissões do governo federal na condução da <del>pandemia,</del> <ins>crise do coronavírus,</ins> Jair Bolsonaro e ministros tentam jogar para os estados a culpa pelo Brasil atravessar o pior momento da pandemia até agora. Leia mais (02/28/2021 - 20h10)
-2021-03-01 01:03:10,989          root     INFO: Media ready with ids: 1366192254180880386
-2021-03-01 01:03:10,989          root     INFO: Text to tweet: Modificação da Descrição
-2021-03-01 01:03:10,990          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/em-meio-a-colapso-nacional-bolsonaro-omite-erros-e-omissoes-na-pandemia-e-tenta-culpar-governadores.shtml
-2021-03-01 01:03:11,000          root     INFO: Replying to: 1366192247335772162
-2021-03-01 01:03:11,246          root     INFO: Id to store: 1366192256043143173
-2021-03-01 01:03:16,137          root     INFO: Removed http://noticias.r7.com/brasil/entidades-medicas-divulgam-manifesto-em-defesa-de-mascaras-28022021
-2021-03-01 01:03:16,141          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/02/amazonas-recebe-76-mil-vacinas-a-menos-e-secretarios-falam-em-confusao-de-pazuello.shtml
-2021-03-01 01:03:16,146          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/02/dilema-equatoriano.shtml
-2021-03-01 01:03:16,151          root     INFO: Removed http://noticias.r7.com/brasil/brasil-atinge-105-milhoes-de-casos-de-covid-e-2549-mil-mortes-28022021
-2021-03-01 01:03:16,152          root     INFO: Finished script
+2021-03-01 01:55:36,582          root     INFO: Starting script
+2021-03-01 01:55:37,413          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-03-01 01:55:38,093          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-03-01 01:55:38,772          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-03-01 01:55:38,895          root     INFO: Parsing R7 - Brasil
+2021-03-01 01:55:39,299          root     INFO: <del>NYT e</del> Economist <ins>e NYT</ins> começam a dar as costas para Moro
+2021-03-01 01:55:41,011          root     INFO: Media ready with ids: 1366205466624327682
+2021-03-01 01:55:41,012          root     INFO: Text to tweet: Modificação do Título
+2021-03-01 01:55:41,012          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/nyt-e-economist-comecam-a-dar-as-costas-para-moro.shtml
+2021-03-01 01:55:41,021          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/nyt-e-economist-comecam-a-dar-as-costas-para-moro.shtml
+2021-03-01 01:55:41,210          root     INFO: Replying to: 1366205468155248643
+2021-03-01 01:55:41,425          root     INFO: Id to store: 1366205468843114496
+2021-03-01 01:55:41,432          root     INFO: No New York Times, Gaspard Estrada, da Sciences Po, de Paris, escreveu há três semanas <del>em espanhol</del> sobre aquela que "foi vendida como a maior operação anticorrupção do mundo, mas se tornou o maior escândalo judicial da história". Leia mais (02/28/2021 - 21h32)
+2021-03-01 01:55:43,175          root     INFO: Media ready with ids: 1366205475591774211
+2021-03-01 01:55:43,175          root     INFO: Text to tweet: Modificação da Descrição
+2021-03-01 01:55:43,176          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/nyt-e-economist-comecam-a-dar-as-costas-para-moro.shtml
+2021-03-01 01:55:43,184          root     INFO: Replying to: 1366205468843114496
+2021-03-01 01:55:43,419          root     INFO: Id to store: 1366205477210701826
+2021-03-01 01:55:45,779          root     INFO: <del>NYT e</del> Economist <ins>e NYT</ins> começam a dar as costas para Moro
+2021-03-01 01:55:47,473          root     INFO: Media ready with ids: 1366205493665026055
+2021-03-01 01:55:47,473          root     INFO: Text to tweet: Modificação do Título
+2021-03-01 01:55:47,473          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/nyt-e-economist-comecam-a-dar-as-costas-para-moro.shtml
+2021-03-01 01:55:47,482          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/02/nyt-e-economist-comecam-a-dar-as-costas-para-moro.shtml
+2021-03-01 01:55:47,647          root     INFO: Replying to: 1366205495158206472
+2021-03-01 01:55:47,881          root     INFO: Id to store: 1366205495934124032
+2021-03-01 01:55:52,780          root     INFO: Finished script
