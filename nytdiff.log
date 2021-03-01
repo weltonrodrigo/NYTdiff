@@ -1,8 +1,19 @@
-2021-03-01 23:35:42,487          root     INFO: Starting script
-2021-03-01 23:35:43,309          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-03-01 23:35:43,986          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-03-01 23:35:44,647          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-03-01 23:35:44,749          root     INFO: Parsing R7 - Brasil
-2021-03-01 23:35:47,198          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/03/flavio-bolsonaro-compra-mansao-em-brasilia-por-r-6-milhoes-diz-site.shtml
-2021-03-01 23:35:51,321          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://novoemfolha.blogfolha.uol.com.br/?p=10699
-2021-03-01 23:35:51,325          root     INFO: Finished script
+2021-03-01 23:48:46,571          root     INFO: Starting script
+2021-03-01 23:48:47,643          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-03-01 23:48:48,483          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-03-01 23:48:49,314          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-03-01 23:48:49,556          root     INFO: Parsing R7 - Brasil
+2021-03-01 23:48:52,319          root     INFO: Flávio Bolsonaro compra mansão em Brasília por R$ 6 <del>milhões, diz site</del> <ins>milhões</ins>
+2021-03-01 23:48:54,103          root     INFO: Media ready with ids: 1366535948792659968
+2021-03-01 23:48:54,104          root     INFO: Text to tweet: Modificação do Título
+2021-03-01 23:48:54,105          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/03/flavio-bolsonaro-compra-mansao-em-brasilia-por-r-6-milhoes-diz-site.shtml
+2021-03-01 23:48:54,116          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/03/flavio-bolsonaro-compra-mansao-em-brasilia-por-r-6-milhoes-diz-site.shtml
+2021-03-01 23:48:54,388          root     INFO: Replying to: 1366535950638206981
+2021-03-01 23:48:54,637          root     INFO: Id to store: 1366535951502237700
+2021-03-01 23:48:54,643          root     INFO: Denunciado sob a acusação de peculato, lavagem de dinheiro e organização criminosa no caso das "rachadinhas", o senador Flávio Bolsonaro (Republicanos-RJ) comprou uma mansão em Brasília no valor de R$ 5,97 <del>milhões, segundo revelou o site O Antagonista.</del> <ins>milhões.</ins> Leia mais (03/01/2021 - 20h27)
+2021-03-01 23:48:59,538          root     INFO: Media ready with ids: 1366535971525828615
+2021-03-01 23:48:59,538          root     INFO: Text to tweet: Modificação da Descrição
+2021-03-01 23:48:59,538          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/03/flavio-bolsonaro-compra-mansao-em-brasilia-por-r-6-milhoes-diz-site.shtml
+2021-03-01 23:48:59,547          root     INFO: Replying to: 1366535951502237700
+2021-03-01 23:48:59,825          root     INFO: Id to store: 1366535973224538116
+2021-03-01 23:49:04,805          root     INFO: Finished script
