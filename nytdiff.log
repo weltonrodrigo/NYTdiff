@@ -1,7 +1,34 @@
-2021-03-01 21:57:54,599          root     INFO: Starting script
-2021-03-01 21:57:55,497          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-03-01 21:57:56,189          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-03-01 21:57:56,922          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-03-01 21:57:57,144          root     INFO: Parsing R7 - Brasil
-2021-03-01 21:58:05,491          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/03/venda-de-carros-tem-nova-queda-em-fevereiro-com-piora-na-pandemia.shtml
-2021-03-01 21:58:05,492          root     INFO: Finished script
+2021-03-01 22:29:49,270          root     INFO: Starting script
+2021-03-01 22:29:50,350          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-03-01 22:29:51,197          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-03-01 22:29:52,042          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-03-01 22:29:52,276          root     INFO: Parsing R7 - Brasil
+2021-03-01 22:29:52,706          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/03/a-educacao-pelos-jornais.shtml
+2021-03-01 22:29:55,395          root     INFO: Em meio à pandemia e com inspiração militar, GSI aprova novo <del>estandarte e</del> brasão com deusa Atena
+2021-03-01 22:29:57,268          root     INFO: Media ready with ids: 1366516080961806338
+2021-03-01 22:29:57,269          root     INFO: Text to tweet: Modificação do Título
+2021-03-01 22:29:57,271          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/03/em-meio-a-pandemia-e-com-inspiracao-militar-gsi-aprova-novo-estandarte-e-brasao-com-deusa-atena.shtml
+2021-03-01 22:29:57,282          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/03/em-meio-a-pandemia-e-com-inspiracao-militar-gsi-aprova-novo-estandarte-e-brasao-com-deusa-atena.shtml
+2021-03-01 22:29:57,545          root     INFO: Replying to: 1366516082878672897
+2021-03-01 22:29:57,815          root     INFO: Id to store: 1366516083784581120
+2021-03-01 22:29:57,825          root     INFO: Enquanto o país acompanha a escalada no número de cidades e estados próximos ao colapso do sistema de saúde, o ministro Augusto Heleno (GSI) publicou nesta segunda (1) uma portaria no Diário Oficial da União com os novos estandarte e brasão da pasta. A partir de abril, o gabinete do ministro e de seus principais servidores, como o secretário-executivo e o diretor da Abin (Agência Brasileira de Inteligência), terão um exemplar do brasão "num escudo redondo, constituído de campo azul-celeste, na cor do firmamento" afixado no estandarte "firmado num mastro forrado de verde e amarelo, encimado por ponta de lança prateada, guarnecida por três fitas, azul, dourada e branca". De acordo com a portaria do GSI, o uso do estandarte será disciplinado pelo regulamento de Continências, Honras, Sinais de Respeito e Cerimonial Militar das Forças Armadas. O novo brasão, estipula a portaria de Augusto Heleno, terá 50 x 48 cm de tamanho. O desenho, detalha o GSI, terá uma "bordadura do campo perfilada de ouro, carregada de vinte e sete estrelas, correspondentes aos vinte e seis estados e ao Distrito Federal". No centro do campo de ouro, que sinaliza a "riqueza, poder e autoridade", o brasão traz a silhueta da deusa Atena, que na mitologia grega representa a "civilização, da sabedoria, da estratégia em batalha, das artes, da justiça e da habilidade". Uma espada corta a figura de Atena e representa, diz a portaria, "ter sido imbatível na guerra, com lâmina e empunhada de prata". O brasão ainda traz ao lado da imagem de Atena um ramo de "café frutificado", à esquerda, e outro de "fumo florido", à direita. As duas plantas remetem a economia "desde a época da Proclamação da República." Leia mais (03/01/2021 - 11h26)
+2021-03-01 22:30:00,260          root     INFO: Media ready with ids: 1366516092689145857
+2021-03-01 22:30:00,260          root     INFO: Text to tweet: Modificação da Descrição
+2021-03-01 22:30:00,260          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/03/em-meio-a-pandemia-e-com-inspiracao-militar-gsi-aprova-novo-estandarte-e-brasao-com-deusa-atena.shtml
+2021-03-01 22:30:00,269          root     INFO: Replying to: 1366516083784581120
+2021-03-01 22:30:00,574          root     INFO: Id to store: 1366516095281221634
+2021-03-01 22:30:05,144          root     INFO: New article tracked: http://noticias.r7.com/brasil/gsi-aprova-estandarte-e-brasao-com-deusa-atena-para-gabinetes-01032021
+2021-03-01 22:30:05,155          root     INFO: New article tracked: http://noticias.r7.com/brasil/investimento-federal-em-transporte-e-o-menor-desde-2005-diz-cni-01032021
+2021-03-01 22:30:05,167          root     INFO: New article tracked: http://noticias.r7.com/brasil/orgao-do-senado-defende-debate-separado-entre-auxilio-e-regra-fiscal-01032021
+2021-03-01 22:30:05,179          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-defende-estancar-decisoes-individuais-no-stf-01032021
+2021-03-01 22:30:05,190          root     INFO: New article tracked: http://noticias.r7.com/brasil/nao-vou-me-meter-diz-bolsonaro-sobre-pec-da-imunidade-01032021
+2021-03-01 22:30:05,203          root     INFO: New article tracked: http://noticias.r7.com/brasil/voto-impresso-lira-pede-encontro-com-presidente-do-tse-01032021
+2021-03-01 22:30:05,214          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-evita-polemica-sobre-crise-de-bolsonaro-com-governadores-01032021
+2021-03-01 22:30:05,252          root     INFO: Em nota <del>pública distribuída</del> <ins>nesta segunda (17), chefes do executivo estadual reagiram após Bolsonaro listar,</ins> na <del>manhã desta segunda-feira, 17 governadores reagem a publicação de Bolsonaro, que listou</del> <ins>web,</ins> transferências bilionárias <del>aos estados. Argumentam que os repasses são obrigação constitucional do governo federal.</del> <ins>a Estados</ins>
+2021-03-01 22:30:07,060          root     INFO: Media ready with ids: 1366516122003132419
+2021-03-01 22:30:07,061          root     INFO: Text to tweet: Modificação da Descrição
+2021-03-01 22:30:07,062          root     INFO: Article id: http://noticias.r7.com/brasil/bolsonaro-abre-novo-conflito-com-governadores-01032021
+2021-03-01 22:30:07,074          root     INFO: Tweeting url: http://noticias.r7.com/brasil/bolsonaro-abre-novo-conflito-com-governadores-01032021
+2021-03-01 22:30:07,307          root     INFO: Replying to: 1366516123794046982
+2021-03-01 22:30:07,952          root     INFO: Id to store: 1366516124788129797
+2021-03-01 22:30:08,277          root     INFO: Finished script
