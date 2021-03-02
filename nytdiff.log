@@ -1,6 +1,4 @@
-2021-03-02 14:29:35,409          root     INFO: Starting script
-2021-03-02 14:29:36,249          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-03-02 14:29:36,930          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-03-02 14:29:37,617          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-03-02 14:29:37,749          root     INFO: Parsing R7 - Brasil
-2021-03-02 14:29:45,906          root     INFO: Finished script
+Traceback (most recent call last):
+  File "nytdiff.py", line 12, in <module>
+    import bleach
+ModuleNotFoundError: No module named 'bleach'
