@@ -1,8 +1,21 @@
-2021-03-02 11:58:01,256          root     INFO: Starting script
-2021-03-02 11:58:02,107          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-03-02 11:58:02,760          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-03-02 11:58:03,418          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-03-02 11:58:03,742          root     INFO: Parsing R7 - Brasil
-2021-03-02 11:58:06,757          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/03/operacao-mira-juizes-do-trt-do-rio-e-advogados-ligados-a-witzel.shtml
-2021-03-02 11:58:11,699          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/02/pfizer-da-prazo-ate-19-de-marco-para-vender-vacinas-ao-ministerio-da-saude.shtml
-2021-03-02 11:58:11,700          root     INFO: Finished script
+2021-03-02 12:27:40,681          root     INFO: Starting script
+2021-03-02 12:27:41,718          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-03-02 12:27:42,571          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-03-02 12:27:43,405          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-03-02 12:27:43,640          root     INFO: Parsing R7 - Brasil
+2021-03-02 12:27:51,799          root     INFO: Removed http://noticias.r7.com/brasil/nos-nunca-brigamos-diz-mourao-apos-se-reunir-com-bolsonaro-01032021
+2021-03-02 12:27:51,807          root     INFO: Removed http://noticias.r7.com/brasil/projeto-preve-incentivo-fiscal-para-empresa-que-vacinar-empregado-01032021
+2021-03-02 12:27:51,813          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-veta-prazo-de-cinco-dias-para-a-aprovacao-de-vacina-02032021
+2021-03-02 12:27:51,817          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-alerta-para-golpes-praticados-com-nome-da-agencia-01032021
+2021-03-02 12:27:51,823          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-anuncia-reducao-da-taxacao-de-diesel-e-gas-residencial-01032021
+2021-03-02 12:27:51,827          root     INFO: Removed http://noticias.r7.com/brasil/proposta-que-autoriza-auxilio-pode-deixar-ajuste-de-gastos-para-2025-02032021
+2021-03-02 12:27:51,831          root     INFO: Removed http://noticias.r7.com/brasil/senadores-comecam-a-debater-pec-do-novo-auxilio-emergencial-02032021
+2021-03-02 12:27:51,835          root     INFO: Removed http://noticias.r7.com/brasil/senado-vota-nesta-terca-mp-que-facilita-compra-de-vacinas-02032021
+2021-03-02 12:27:51,839          root     INFO: Removed http://noticias.r7.com/brasil/ganha-forca-emenda-que-deixa-so-auxilio-na-pec-emergencial-02032021
+2021-03-02 12:27:51,843          root     INFO: Removed http://noticias.r7.com/brasil/ninguem-suporta-mais-lockdown-diz-ministro-de-bolsonaro-01032021
+2021-03-02 12:27:51,847          root     INFO: Removed http://noticias.r7.com/brasil/desembargadores-sao-alvo-de-fase-da-operacao-que-afastou-witzel-02032021
+2021-03-02 12:27:51,851          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-aprova-lei-para-reduzir-efeitos-da-pandemia-no-setor-eletrico-02032021
+2021-03-02 12:27:51,855          root     INFO: Removed http://noticias.r7.com/brasil/proposta-torna-crime-simulacao-de-aplicacao-de-vacina-contra-covid-19-01032021
+2021-03-02 12:27:51,859          root     INFO: Removed http://noticias.r7.com/brasil/pdt-aciona-supremo-contra-mp-da-privatizacao-da-eletrobras-01032021
+2021-03-02 12:27:51,863          root     INFO: Removed http://noticias.r7.com/brasil/lava-jato-condena-vaccari-e-renato-duque-por-lavagem-de-dinheiro-01032021
+2021-03-02 12:27:51,864          root     INFO: Finished script
