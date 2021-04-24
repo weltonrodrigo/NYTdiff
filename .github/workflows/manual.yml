@@ -38,5 +38,3 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
-    - name: Setup tmate session
-      uses: mxschmitt/action-tmate@v3
