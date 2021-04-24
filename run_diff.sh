@@ -21,6 +21,8 @@ if [ ! -d "./phantomjs-2.1.1-linux-x86_64/" ]
     tar jxf phantom.tar.bz --skip-old-files
 fi
 
+alias python=python3
+
 sudo apt -qq install python3-venv
 python -m pip install --upgrade pip
 
