@@ -22,7 +22,7 @@ if [ ! -d "./phantomjs-2.1.1-linux-x86_64/" ]
 fi
 
 sudo apt -qq install python3.9-venv
-python3 -m pip --upgrade pip
+python3 -m pip install --upgrade pip
 
 if [ ! -d ".venv" ]
   then
