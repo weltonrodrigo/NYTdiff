@@ -10,8 +10,6 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Setup tmate session
-      uses: mxschmitt/action-tmate@v3
     - name: Cache
       uses: actions/cache@v2.1.2
       with:
@@ -40,3 +38,5 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+    - name: Setup tmate session
+      uses: mxschmitt/action-tmate@v3
