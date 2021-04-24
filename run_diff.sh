@@ -21,7 +21,7 @@ if [ ! -d "./phantomjs-2.1.1-linux-x86_64/" ]
     tar jxf phantom.tar.bz --skip-old-files
 fi
 
-sudo apt -qq install python3.8-venv
+sudo apt -qq install python3.10-venv
 
 if [ ! -d ".venv" ]
   then
