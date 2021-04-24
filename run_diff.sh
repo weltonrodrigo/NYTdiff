@@ -26,6 +26,8 @@ export LC_ALL="en_US.UTF-8"
 export LC_CTYPE="en_US.UTF-8"
 sudo dpkg-reconfigure locales
 
+python3 -m pip install ensurepip
+
 if [ ! -d ".venv" ]
   then
     python3 -m venv venv
