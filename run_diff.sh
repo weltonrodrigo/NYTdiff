@@ -21,12 +21,7 @@ if [ ! -d "./phantomjs-2.1.1-linux-x86_64/" ]
     tar jxf phantom.tar.bz --skip-old-files
 fi
 
-sudo apt -qq install python3-venv
-export LC_ALL="en_US.UTF-8"
-export LC_CTYPE="en_US.UTF-8"
-sudo dpkg-reconfigure locales
-
-python3 -m pip install ensurepip
+sudo apt -qq install python3.8-venv
 
 if [ ! -d ".venv" ]
   then
