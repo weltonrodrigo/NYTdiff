@@ -14,7 +14,7 @@ jobs:
       uses: actions/cache@v2.1.2
       with:
         path: |
-          ./venv
+          ./.venv
           ./pha*
         key: venv
     - name: Fetch latest data
