@@ -10,10 +10,10 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Cache
-      uses: actions/cache@v2.1.2
     - name: Setup tmate session
       uses: mxschmitt/action-tmate@v3
+    - name: Cache
+      uses: actions/cache@v2.1.2
       with:
         path: |
           ./venv
