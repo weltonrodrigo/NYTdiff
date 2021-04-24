@@ -22,15 +22,15 @@ if [ ! -d "./phantomjs-2.1.1-linux-x86_64/" ]
 fi
 
 sudo apt -qq install python3.9-venv
-python3 -m pip install --upgrade pip
+python3.9 -m pip install --upgrade pip
 
 if [ ! -d ".venv" ]
   then
-    python3 -m venv venv
+    python3.9 -m venv venv
     source venv/bin/activate
-    python3 -m pip install -q -r requirements.txt
+    python3.9 -m pip install -q -r requirements.txt
   else
     source venv/bin/activate
 fi
 
-python3 nytdiff.py 2>&1 | tee nytdiff.log
+python3.9 nytdiff.py 2>&1 | tee nytdiff.log
