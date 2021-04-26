@@ -1,14 +1,28 @@
-2021-04-26 17:36:15,452          root     INFO: Starting script
-2021-04-26 17:36:16,312          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-26 17:36:17,011          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-26 17:36:17,713          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-26 17:36:17,863          root     INFO: Parsing R7 - Brasil
-2021-04-26 17:36:18,022          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/04/nomadland-vencedor-do-oscar-e-misto-de-tragedia-nobreza-e-liberdade.shtml
-2021-04-26 17:36:20,425          root     INFO: O presidente Jair Bolsonaro (sem partido) afirmou nesta segunda-feira (26) que não se preocupa com a CPI da Covid, <del>que</del> <ins>disse</ins> não <del>liga</del> <ins>ligar</ins> para uma possível candidatura do ex-presidente Lula (PT) em 2022 e voltou a fustigar governadores que <del>adotaram</del> <ins>adotam</ins> medidas restritivas para frear a <del>pandemia.</del> <ins>pandemia do coronavírus.</ins> Leia mais (04/26/2021 - 12h47)
-2021-04-26 17:36:22,231          root     INFO: Media ready with ids: 1386735918585946114
-2021-04-26 17:36:22,231          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-26 17:36:22,231          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/bolsonaro-diz-nao-se-preocupar-com-cpi-e-lula-e-cobra-governadores-para-nao-esticarem-a-corda.shtml
-2021-04-26 17:36:22,240          root     INFO: Replying to: 1386725129045135365
-2021-04-26 17:36:22,519          root     INFO: Id to store: 1386735920335007750
-2021-04-26 17:36:27,577          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/04/discurso-ambiental-de-bolsonaro-e-conversa-para-boiada-dormir.shtml
-2021-04-26 17:36:27,578          root     INFO: Finished script
+2021-04-26 18:18:00,149          root     INFO: Starting script
+2021-04-26 18:18:01,242          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-26 18:18:01,931          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-26 18:18:02,616          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-26 18:18:02,767          root     INFO: Parsing R7 - Brasil
+2021-04-26 18:18:05,639          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/bolsonaro-muda-cafe-da-manha-com-tcu-para-videoconferencia-para-evitar-fiasco.shtml
+2021-04-26 18:18:05,691          root     INFO: Na véspera da instalação da CPI da Covid no Senado, o vice-presidente Hamilton Mourão (PRTB) disse nesta segunda-feira (26) que não se pode tomar o Exército brasileiro pela atuação do general Eduardo Pazuello, ex-ministro da Saúde e um dos alvos da comissão parlamentar de inquérito. <del>"A gente não pode tomar uma instituição por um dos seus integrantes", disse Mourão em entrevista em live do jornal Valor Econômico.</del> Leia mais (04/26/2021 - 12h58)
+2021-04-26 18:18:07,615          root     INFO: Media ready with ids: 1386746426789670913
+2021-04-26 18:18:07,616          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-26 18:18:07,616          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/mourao-diz-que-exercito-nao-pode-ser-julgado-pela-atuacao-de-pazuello-na-pandemia.shtml
+2021-04-26 18:18:07,625          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/mourao-diz-que-exercito-nao-pode-ser-julgado-pela-atuacao-de-pazuello-na-pandemia.shtml
+2021-04-26 18:18:07,824          root     INFO: Replying to: 1386746428614193154
+2021-04-26 18:18:08,078          root     INFO: Id to store: 1386746429415247872
+2021-04-26 18:18:08,182          root     INFO: Sem máscara, <ins>general</ins> Pazuello ironiza <del>sobre</del> uso de proteção em shopping de Manaus: 'Onde compra isso?'
+2021-04-26 18:18:09,954          root     INFO: Media ready with ids: 1386746436696657923
+2021-04-26 18:18:09,954          root     INFO: Text to tweet: Modificação do Título
+2021-04-26 18:18:09,954          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/sem-mascara-pazuello-ironiza-sobre-uso-de-protecao-em-shopping-de-manaus-onde-compra-isso.shtml
+2021-04-26 18:18:09,965          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/sem-mascara-pazuello-ironiza-sobre-uso-de-protecao-em-shopping-de-manaus-onde-compra-isso.shtml
+2021-04-26 18:18:10,135          root     INFO: Replying to: 1386746438307155974
+2021-04-26 18:18:10,378          root     INFO: Id to store: 1386746439108333574
+2021-04-26 18:18:10,385          root     INFO: O ex-ministro Eduardo Pazuello (Saúde) entrou sem máscara <del>pelo</del> <ins>neste domingo (25) no</ins> shopping Manauara, em Manaus, <del>neste domingo (25),</del> ignorando o decreto estadual que obriga o seu uso <del>dentro de</del> <ins>da proteção em</ins> ambientes fechados coletivos. Leia mais (04/26/2021 - 12h10)
+2021-04-26 18:18:12,088          root     INFO: Media ready with ids: 1386746445798256647
+2021-04-26 18:18:12,089          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-26 18:18:12,089          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/sem-mascara-pazuello-ironiza-sobre-uso-de-protecao-em-shopping-de-manaus-onde-compra-isso.shtml
+2021-04-26 18:18:12,098          root     INFO: Replying to: 1386746439108333574
+2021-04-26 18:18:12,308          root     INFO: Id to store: 1386746447236902914
+2021-04-26 18:18:18,189          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/diplomata-analisa-discurso-de-despedida-de-ernesto-araujo-e-ve-mentiras-falacias-e-falcatruas.shtml
+2021-04-26 18:18:18,190          root     INFO: Finished script
