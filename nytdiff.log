@@ -1,34 +1,6 @@
-2021-04-26 22:33:20,987          root     INFO: Starting script
-2021-04-26 22:33:21,958          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-26 22:33:22,754          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-26 22:33:23,546          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-26 22:33:23,793          root     INFO: Parsing R7 - Brasil
-2021-04-26 22:33:24,049          root     INFO: Quando compro carne moída, não estou nem aí para as preferências políticas do açougueiro, seu histórico policial ou sua "Weltanschauung" <del>-estou</del> <ins>—estou</ins> interessado é nas almôndegas. E ajo com a mesma despreocupação quando mando consertar sapatos ou abasteço o carro. Leia mais (04/26/2021 - 16h34)
-2021-04-26 22:33:25,948          root     INFO: Media ready with ids: 1386810676690161666
-2021-04-26 22:33:25,948          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-26 22:33:25,949          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/04/livros-almondegas-e-politica.shtml
-2021-04-26 22:33:25,956          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/04/livros-almondegas-e-politica.shtml
-2021-04-26 22:33:26,221          root     INFO: Replying to: 1386810678644781060
-2021-04-26 22:33:26,547          root     INFO: Id to store: 1386810679617802252
-2021-04-26 22:33:26,815          root     INFO: Ao zerar o orçamento da habitação, Bolsonaro deixará um legado de obras em <del>ruinas</del> <ins>ruínas</ins>
-2021-04-26 22:33:28,542          root     INFO: Media ready with ids: 1386810687796744194
-2021-04-26 22:33:28,542          root     INFO: Text to tweet: Modificação do Título
-2021-04-26 22:33:28,542          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2021/04/ao-zerar-o-orcamento-da-habitacao-bolsonaro-deixara-um-legado-de-obras-em-ruinas.shtml
-2021-04-26 22:33:28,550          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2021/04/ao-zerar-o-orcamento-da-habitacao-bolsonaro-deixara-um-legado-de-obras-em-ruinas.shtml
-2021-04-26 22:33:28,769          root     INFO: Replying to: 1386810689336061953
-2021-04-26 22:33:29,058          root     INFO: Id to store: 1386810690321723392
-2021-04-26 22:33:31,143          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/juiz-federal-do-df-impede-nomeacao-de-renan-para-relatoria-da-cpi-da-covid.shtml
-2021-04-26 22:33:31,307          root     INFO: Bolsonaro diz não se preocupar <ins>nem</ins> com CPI <del>e</del> <ins>nem com</ins> Lula e cobra <ins>de</ins> governadores <del>para</del> <ins>que</ins> não <del>esticarem</del> <ins>estiquem</ins> a corda
-2021-04-26 22:33:33,037          root     INFO: Media ready with ids: 1386810706599759884
-2021-04-26 22:33:33,038          root     INFO: Text to tweet: Modificação do Título
-2021-04-26 22:33:33,038          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/bolsonaro-diz-nao-se-preocupar-com-cpi-e-lula-e-cobra-governadores-para-nao-esticarem-a-corda.shtml
-2021-04-26 22:33:33,046          root     INFO: Replying to: 1386735920335007750
-2021-04-26 22:33:33,330          root     INFO: Id to store: 1386810708252311553
-2021-04-26 22:33:33,336          root     INFO: O presidente Jair Bolsonaro (sem partido) afirmou nesta segunda-feira (26) que não se preocupa com a CPI da Covid, <del>que</del> <ins>disse</ins> não <del>liga</del> <ins>ligar</ins> para uma possível candidatura do ex-presidente Lula (PT) em 2022 e voltou a fustigar governadores que <del>adotaram</del> <ins>adotam</ins> medidas restritivas para frear a <del>pandemia.</del> <ins>pandemia do coronavírus.</ins> Leia mais (04/26/2021 - 12h47)
-2021-04-26 22:33:35,156          root     INFO: Media ready with ids: 1386810715378524161
-2021-04-26 22:33:35,156          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-26 22:33:35,156          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/bolsonaro-diz-nao-se-preocupar-com-cpi-e-lula-e-cobra-governadores-para-nao-esticarem-a-corda.shtml
-2021-04-26 22:33:35,165          root     INFO: Replying to: 1386810708252311553
-2021-04-26 22:33:35,493          root     INFO: Id to store: 1386810717123354629
-2021-04-26 22:33:40,547          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/04/na-cupula-dos-lideres-sobre-o-clima-so-promessas-nem-pensar.shtml
-2021-04-26 22:33:40,548          root     INFO: Finished script
+2021-04-26 22:57:54,699          root     INFO: Starting script
+2021-04-26 22:57:55,480          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-26 22:57:56,116          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-26 22:57:56,757          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-26 22:57:56,911          root     INFO: Parsing R7 - Brasil
+2021-04-26 22:58:02,830          root     INFO: Finished script
