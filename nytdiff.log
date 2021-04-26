@@ -1,15 +1,14 @@
-2021-04-26 16:53:22,835          root     INFO: Starting script
-2021-04-26 16:53:23,665          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-26 16:53:24,334          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-26 16:53:25,012          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-26 16:53:25,136          root     INFO: Parsing R7 - Brasil
-2021-04-26 16:53:27,263          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/mourao-diz-que-exercito-nao-pode-ser-julgado-pela-atuacao-de-pazuello-na-pandemia.shtml
-2021-04-26 16:53:27,299          root     INFO: O presidente Jair Bolsonaro (sem partido) afirmou nesta segunda-feira (26) que não se preocupa com a CPI da Covid, <ins>disse</ins> que não liga para uma possível candidatura do ex-presidente Lula (PT) em 2022 e voltou a fustigar governadores que adotaram medidas restritivas para frear a <del>pandemia.</del> <ins>pandemia do coronavírus.</ins> Leia mais (04/26/2021 - 12h47)
-2021-04-26 16:53:29,257          root     INFO: Media ready with ids: 1386725125907787779
-2021-04-26 16:53:29,258          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-26 16:53:29,258          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/bolsonaro-diz-nao-se-preocupar-com-cpi-e-lula-e-cobra-governadores-para-nao-esticarem-a-corda.shtml
-2021-04-26 16:53:29,265          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/bolsonaro-diz-nao-se-preocupar-com-cpi-e-lula-e-cobra-governadores-para-nao-esticarem-a-corda.shtml
-2021-04-26 16:53:29,449          root     INFO: Replying to: 1386725128390729735
-2021-04-26 16:53:29,667          root     INFO: Id to store: 1386725129045135365
-2021-04-26 16:53:34,200          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/alvo-da-pf-empresa-contratada-na-pandemia-tinha-apicultor-no-lugar-de-profissional-de-saude.shtml
-2021-04-26 16:53:34,201          root     INFO: Finished script
+2021-04-26 17:36:15,452          root     INFO: Starting script
+2021-04-26 17:36:16,312          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-26 17:36:17,011          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-26 17:36:17,713          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-26 17:36:17,863          root     INFO: Parsing R7 - Brasil
+2021-04-26 17:36:18,022          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/04/nomadland-vencedor-do-oscar-e-misto-de-tragedia-nobreza-e-liberdade.shtml
+2021-04-26 17:36:20,425          root     INFO: O presidente Jair Bolsonaro (sem partido) afirmou nesta segunda-feira (26) que não se preocupa com a CPI da Covid, <del>que</del> <ins>disse</ins> não <del>liga</del> <ins>ligar</ins> para uma possível candidatura do ex-presidente Lula (PT) em 2022 e voltou a fustigar governadores que <del>adotaram</del> <ins>adotam</ins> medidas restritivas para frear a <del>pandemia.</del> <ins>pandemia do coronavírus.</ins> Leia mais (04/26/2021 - 12h47)
+2021-04-26 17:36:22,231          root     INFO: Media ready with ids: 1386735918585946114
+2021-04-26 17:36:22,231          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-26 17:36:22,231          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/bolsonaro-diz-nao-se-preocupar-com-cpi-e-lula-e-cobra-governadores-para-nao-esticarem-a-corda.shtml
+2021-04-26 17:36:22,240          root     INFO: Replying to: 1386725129045135365
+2021-04-26 17:36:22,519          root     INFO: Id to store: 1386735920335007750
+2021-04-26 17:36:27,577          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/04/discurso-ambiental-de-bolsonaro-e-conversa-para-boiada-dormir.shtml
+2021-04-26 17:36:27,578          root     INFO: Finished script
