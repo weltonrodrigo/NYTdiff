@@ -1,10 +1,16 @@
-2021-04-27 23:29:35,348          root     INFO: Starting script
-2021-04-27 23:29:36,141          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-27 23:29:36,789          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-27 23:29:37,432          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-27 23:29:37,632          root     INFO: Parsing R7 - Brasil
-2021-04-27 23:29:37,779          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/04/guardiola-e-neymar-querem-muito-se-consagrar-na-europa-fora-do-barcelona.shtml
-2021-04-27 23:29:40,024          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/em-audio-vazado-general-ramos-diz-que-tomou-vacina-escondido-ve-risco-de-vida-de-bolsonaro-e-tenta-convence-lo-a-se-imunizar.shtml
-2021-04-27 23:29:44,938          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/04/governo-tenta-ganhar-a-guerra-da-cpi-da-covid-no-tapetao.shtml
-2021-04-27 23:29:44,942          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/inauguracao-por-bolsonaro-de-obra-inacabada-no-am-vira-ato-em-desagravo-a-pazuello-alvo-da-cpi-da-covid.shtml
-2021-04-27 23:29:44,943          root     INFO: Finished script
+2021-04-27 23:56:56,306          root     INFO: Starting script
+2021-04-27 23:56:57,436          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-27 23:56:58,219          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-27 23:56:59,003          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-27 23:56:59,244          root     INFO: Parsing R7 - Brasil
+2021-04-27 23:57:01,729          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/lira-rebate-oposicao-e-diz-que-100-dos-pedidos-de-impeachment-de-bolsonaro-sao-inuteis.shtml
+2021-04-27 23:57:01,745          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/aliada-de-bolsonaro-tem-ligacao-com-juiz-que-tentou-tirar-renan-da-relatoria-da-cpi.shtml
+2021-04-27 23:57:01,975          root     INFO: Principal desafio político <del>de</del> <ins>do presidente</ins> Jair <del>Bolsonaro (sem partido),</del> <ins>Bolsonaro,</ins> a CPI da Covid foi instalada <del>na manhã desta</del> <ins>nesta</ins> terça-feira (27) no Senado e confirmou nos postos mais importantes da comissão parlamentares independentes ou <ins>de</ins> oposição ao governo. Leia mais (04/27/2021 - 13h40)
+2021-04-27 23:57:03,804          root     INFO: Media ready with ids: 1387194111032274947
+2021-04-27 23:57:03,805          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-27 23:57:03,805          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/em-derrota-para-bolsonaro-cpi-da-covid-e-instalada-com-minoria-governista-e-renan-na-relatoria.shtml
+2021-04-27 23:57:03,813          root     INFO: Replying to: 1387162968861941760
+2021-04-27 23:57:04,136          root     INFO: Id to store: 1387194112911216646
+2021-04-27 23:57:09,079          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/pazuello-pode-se-candidatar-a-governador-do-am-diz-homem-forte-de-bolsonaro.shtml
+2021-04-27 23:57:09,084          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/entrevista-de-wajngarten-contra-pazuello-e-vista-como-canalhice-por-ministros-de-bolsonaro.shtml
+2021-04-27 23:57:09,085          root     INFO: Finished script
