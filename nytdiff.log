@@ -1,8 +1,10 @@
-2021-04-27 22:58:12,944          root     INFO: Starting script
-2021-04-27 22:58:13,924          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-27 22:58:14,711          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-27 22:58:15,509          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-27 22:58:15,724          root     INFO: Parsing R7 - Brasil
-2021-04-27 22:58:18,922          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/psdb-discute-formato-das-previas-para-2022-diante-de-divergencias-entre-doria-leite-tasso-e-virgilio.shtml
-2021-04-27 22:58:25,142          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/decisao-do-supremo-torna-improvavel-reconstituicao-de-acoes-da-lava-jato-contra-lula.shtml
-2021-04-27 22:58:25,143          root     INFO: Finished script
+2021-04-27 23:29:35,348          root     INFO: Starting script
+2021-04-27 23:29:36,141          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-27 23:29:36,789          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-27 23:29:37,432          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-27 23:29:37,632          root     INFO: Parsing R7 - Brasil
+2021-04-27 23:29:37,779          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/04/guardiola-e-neymar-querem-muito-se-consagrar-na-europa-fora-do-barcelona.shtml
+2021-04-27 23:29:40,024          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/em-audio-vazado-general-ramos-diz-que-tomou-vacina-escondido-ve-risco-de-vida-de-bolsonaro-e-tenta-convence-lo-a-se-imunizar.shtml
+2021-04-27 23:29:44,938          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/04/governo-tenta-ganhar-a-guerra-da-cpi-da-covid-no-tapetao.shtml
+2021-04-27 23:29:44,942          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/inauguracao-por-bolsonaro-de-obra-inacabada-no-am-vira-ato-em-desagravo-a-pazuello-alvo-da-cpi-da-covid.shtml
+2021-04-27 23:29:44,943          root     INFO: Finished script
