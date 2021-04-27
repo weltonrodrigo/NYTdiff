@@ -1,8 +1,13 @@
-2021-04-26 23:56:29,856          root     INFO: Starting script
-2021-04-26 23:56:30,660          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-26 23:56:31,312          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-26 23:56:31,961          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-26 23:56:32,303          root     INFO: Parsing R7 - Brasil
-2021-04-26 23:56:32,446          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/04/colar-um-adesivo-chamando-sergio-moro-de-heroi-no-carro-foi-longe-demais.shtml
-2021-04-26 23:56:39,635          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/04/custo-bolsonaro-deve-passar-de-18-milhao-de-vidas.shtml
-2021-04-26 23:56:39,636          root     INFO: Finished script
+2021-04-27 00:40:09,898          root     INFO: Starting script
+2021-04-27 00:40:10,741          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-27 00:40:11,425          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-27 00:40:12,111          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-27 00:40:12,215          root     INFO: Parsing R7 - Brasil
+2021-04-27 00:40:12,990          root     INFO: Inglaterra, século 16, agência de publicidade. <del>"Adoramos</del> <ins>“Adoramos</ins> sua ideia, Shakespeare, mas o cliente quer Hamlet segurando um biscoito, não um crânio. Tem como? E em vez de <del>?ser</del> <ins>‘ser</ins> ou não <del>ser?,</del> <ins>ser’,</ins> que tal <del>?vende</del> <ins>‘vende</ins> mais porque é fresquinho ou é fresquinho porque vende <del>mais??</del> <ins>mais’?</ins> Confia, esse slogan vai <del>pegar."</del> <ins>pegar.”</ins> Leia mais (04/25/2021 - 17h00)
+2021-04-27 00:40:14,748          root     INFO: Media ready with ids: 1386842590432186369
+2021-04-27 00:40:14,749          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-27 00:40:14,749          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bia-braune/2021/04/ate-que-foi-bom-nao-poder-pular-os-comerciais-da-televisao-aberta.shtml
+2021-04-27 00:40:14,759          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bia-braune/2021/04/ate-que-foi-bom-nao-poder-pular-os-comerciais-da-televisao-aberta.shtml
+2021-04-27 00:40:14,931          root     INFO: Replying to: 1386842591900151808
+2021-04-27 00:40:15,180          root     INFO: Id to store: 1386842592722161667
+2021-04-27 00:40:22,016          root     INFO: Finished script
