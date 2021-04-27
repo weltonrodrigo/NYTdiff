@@ -1,10 +1,27 @@
-2021-04-27 09:55:59,972          root     INFO: Starting script
-2021-04-27 09:56:00,819          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-27 09:56:01,505          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-27 09:56:02,187          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-27 09:56:02,322          root     INFO: Parsing R7 - Brasil
-2021-04-27 09:56:10,003          root     INFO: New article tracked: http://noticias.r7.com/brasil/sem-renan-como-relator-da-cpi-da-covid-mdb-ameaca-romper-alianca-27042021
-2021-04-27 09:56:10,016          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-leiloa-cinco-avioes-apreendidos-do-trafico-de-drogas-27042021
-2021-04-27 09:56:10,028          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-de-sp-leiloa-525-veiculos-com-lances-iniciais-de-ate-r-20-27042021
-2021-04-27 09:56:10,040          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-determina-que-governo-pague-renda-basica-a-partir-de-2022-27042021
-2021-04-27 09:56:10,443          root     INFO: Finished script
+2021-04-27 10:11:11,340          root     INFO: Starting script
+2021-04-27 10:11:12,157          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-27 10:11:12,830          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-27 10:11:13,499          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-27 10:11:13,637          root     INFO: Parsing R7 - Brasil
+2021-04-27 10:11:13,793          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/desigualdades/2021/04/imunidade-sera-para-todas-e-todos-ou-nao-sera-para-ninguem.shtml
+2021-04-27 10:11:13,806          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pedro-hallal/2021/04/sem-censo-e-sem-bom-senso.shtml
+2021-04-27 10:11:16,479          root     INFO: CPI da Covid <ins>no Senado</ins> estreia sob embate judicial e tenta focar atraso em vacinas
+2021-04-27 10:11:18,167          root     INFO: Media ready with ids: 1386986301740699648
+2021-04-27 10:11:18,168          root     INFO: Text to tweet: Modificação do Título
+2021-04-27 10:11:18,168          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/cpi-da-covid-estreia-sob-embate-judicial-e-tenta-focar-atraso-em-vacinas.shtml
+2021-04-27 10:11:18,177          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/cpi-da-covid-estreia-sob-embate-judicial-e-tenta-focar-atraso-em-vacinas.shtml
+2021-04-27 10:11:18,362          root     INFO: Replying to: 1386986303183589381
+2021-04-27 10:11:18,596          root     INFO: Id to store: 1386986303934316546
+2021-04-27 10:11:18,603          root     INFO: Principal teste político de Jair Bolsonaro, a CPI da Covid está marcada para ser instalada nesta terça-feira (27) no Senado em meio a <ins>um</ins> embate na Justiça entre aliados do presidente e senadores independentes ao governo e <ins>uma</ins> guerra de narrativas sobre o combate à Covid-19. Leia mais (04/26/2021 - 23h15)
+2021-04-27 10:11:20,352          root     INFO: Media ready with ids: 1386986310687236100
+2021-04-27 10:11:20,353          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-27 10:11:20,353          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/cpi-da-covid-estreia-sob-embate-judicial-e-tenta-focar-atraso-em-vacinas.shtml
+2021-04-27 10:11:20,362          root     INFO: Replying to: 1386986303934316546
+2021-04-27 10:11:20,586          root     INFO: Id to store: 1386986312318734338
+2021-04-27 10:11:25,947          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/o-liberalismo-miliciano-de-pires-na-mao-em-washington.shtml
+2021-04-27 10:11:25,951          root     INFO: Removed http://noticias.r7.com/brasil/sem-renan-como-relator-da-cpi-da-covid-mdb-ameaca-romper-alianca-27042021
+2021-04-27 10:11:25,955          root     INFO: Removed http://noticias.r7.com/brasil/governo-de-sp-leiloa-525-veiculos-com-lances-iniciais-de-ate-r-20-27042021
+2021-04-27 10:11:25,960          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/robin-hood-as-avessas.shtml
+2021-04-27 10:11:25,964          root     INFO: Removed http://noticias.r7.com/brasil/stf-determina-que-governo-pague-renda-basica-a-partir-de-2022-27042021
+2021-04-27 10:11:25,967          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-leiloa-cinco-avioes-apreendidos-do-trafico-de-drogas-27042021
+2021-04-27 10:11:25,968          root     INFO: Finished script
