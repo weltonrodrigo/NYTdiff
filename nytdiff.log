@@ -1,14 +1,15 @@
-2021-04-27 16:52:27,208          root     INFO: Starting script
-2021-04-27 16:52:28,151          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-27 16:52:28,916          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-27 16:52:29,702          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-27 16:52:29,905          root     INFO: Parsing R7 - Brasil
-2021-04-27 16:52:30,047          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/04/aos-48-anos-embrapa-promete-elevar-produtividade-do-milho.shtml
-2021-04-27 16:52:32,204          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/em-derrota-para-bolsonaro-cpi-da-covid-e-instalada-com-minoria-governista-e-renan-na-relatoria.shtml
-2021-04-27 16:52:32,215          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/mdb-de-renan-vai-denunciar-juiz-por-agressao-violenta-a-senador.shtml
-2021-04-27 16:52:32,228          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/russia-reafirmou-em-reuniao-que-sputnik-e-segura-e-eficaz-diz-governador-wellington-dias.shtml
-2021-04-27 16:52:36,959          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/alem-de-derrota-para-moro-e-lava-jato-julgamento-do-stf-deixa-lula-mais-distante-de-eventual-nova-condenacao.shtml
-2021-04-27 16:52:36,963          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/oficio-da-pf-sobre-mensagens-hackeadas-da-lava-jato-deve-gerar-mais-discussoes-no-stf.shtml
-2021-04-27 16:52:36,967          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2021/04/a-urticaria-e-o-frio.shtml
-2021-04-27 16:52:36,971          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/lula-e-um-homem-de-centro-e-sofre-preconceito-de-empresarios-diz-ex-ministro.shtml
-2021-04-27 16:52:36,972          root     INFO: Finished script
+2021-04-27 17:36:07,011          root     INFO: Starting script
+2021-04-27 17:36:08,142          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-27 17:36:08,915          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-27 17:36:09,692          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-27 17:36:10,058          root     INFO: Parsing R7 - Brasil
+2021-04-27 17:36:12,332          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/tribunal-concede-foro-especial-a-eduardo-paes-em-acao-penal-por-suspeitas-em-gestoes-anteriores.shtml
+2021-04-27 17:36:12,432          root     INFO: Em reunião do Conselho de Saúde Suplementar nesta terça <del>(27),</del> <ins>(27) e sem saber que estava sendo gravado,</ins> o ministro da Economia, Paulo Guedes, disse que "o chinês inventou o <del>vírus",</del> <ins>vírus" da Covid,</ins> mas tem uma vacina menos eficiente do que a desenvolvida por empresas americanas. A declaração ocorreu no dia em que o Senado instala uma CPI (Comissão Parlamentar de Inquérito) para investigar a ação do governo federal na pandemia. Leia mais (04/27/2021 - 12h46)
+2021-04-27 17:36:14,296          root     INFO: Media ready with ids: 1387098273161388038
+2021-04-27 17:36:14,297          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-27 17:36:14,297          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2021/04/guedes-diz-que-chines-inventou-o-virus-e-tem-vacina-menos-eficiente-do-que-os-eua.shtml
+2021-04-27 17:36:14,306          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2021/04/guedes-diz-que-chines-inventou-o-virus-e-tem-vacina-menos-eficiente-do-que-os-eua.shtml
+2021-04-27 17:36:14,580          root     INFO: Replying to: 1387098275099066368
+2021-04-27 17:36:14,898          root     INFO: Id to store: 1387098276005130242
+2021-04-27 17:36:19,506          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/em-reuniao-de-aproximacao-socio-da-xp-passa-numero-de-celular-para-caminhoneiros.shtml
+2021-04-27 17:36:19,507          root     INFO: Finished script
