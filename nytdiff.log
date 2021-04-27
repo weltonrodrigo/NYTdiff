@@ -1,8 +1,14 @@
-2021-04-27 15:59:28,138          root     INFO: Starting script
-2021-04-27 15:59:28,956          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-27 15:59:29,628          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-27 15:59:30,308          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-27 15:59:30,507          root     INFO: Parsing R7 - Brasil
-2021-04-27 15:59:33,126          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2021/04/guedes-diz-que-chines-inventou-o-virus-e-tem-vacina-menos-eficiente-do-que-os-eua.shtml
-2021-04-27 15:59:38,473          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/lideres-da-cut-contestam-participacao-de-politicos-de-centro-no-1o-de-maio-em-possivel-recado-a-lula.shtml
-2021-04-27 15:59:38,474          root     INFO: Finished script
+2021-04-27 16:52:27,208          root     INFO: Starting script
+2021-04-27 16:52:28,151          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-27 16:52:28,916          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-27 16:52:29,702          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-27 16:52:29,905          root     INFO: Parsing R7 - Brasil
+2021-04-27 16:52:30,047          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/04/aos-48-anos-embrapa-promete-elevar-produtividade-do-milho.shtml
+2021-04-27 16:52:32,204          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/em-derrota-para-bolsonaro-cpi-da-covid-e-instalada-com-minoria-governista-e-renan-na-relatoria.shtml
+2021-04-27 16:52:32,215          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/mdb-de-renan-vai-denunciar-juiz-por-agressao-violenta-a-senador.shtml
+2021-04-27 16:52:32,228          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/russia-reafirmou-em-reuniao-que-sputnik-e-segura-e-eficaz-diz-governador-wellington-dias.shtml
+2021-04-27 16:52:36,959          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/alem-de-derrota-para-moro-e-lava-jato-julgamento-do-stf-deixa-lula-mais-distante-de-eventual-nova-condenacao.shtml
+2021-04-27 16:52:36,963          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/oficio-da-pf-sobre-mensagens-hackeadas-da-lava-jato-deve-gerar-mais-discussoes-no-stf.shtml
+2021-04-27 16:52:36,967          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2021/04/a-urticaria-e-o-frio.shtml
+2021-04-27 16:52:36,971          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/lula-e-um-homem-de-centro-e-sofre-preconceito-de-empresarios-diz-ex-ministro.shtml
+2021-04-27 16:52:36,972          root     INFO: Finished script
