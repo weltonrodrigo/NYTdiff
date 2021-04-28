@@ -1,6 +1,15 @@
-2021-04-28 22:58:56,641          root     INFO: Starting script
-2021-04-28 22:58:57,463          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-28 22:58:58,134          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-28 22:58:58,814          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-28 22:58:59,005          root     INFO: Parsing R7 - Brasil
-2021-04-28 22:59:06,497          root     INFO: Finished script
+2021-04-28 23:29:05,381          root     INFO: Starting script
+2021-04-28 23:29:06,206          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-28 23:29:06,867          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-28 23:29:07,534          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-28 23:29:07,641          root     INFO: Parsing R7 - Brasil
+2021-04-28 23:29:10,041          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/deputados-protocolam-pedido-de-cpi-para-apurar-atuacao-de-ricardo-salles.shtml
+2021-04-28 23:29:10,210          root     INFO: Secretária de Relações Internacionais da gestão Bruno Covas (PSDB), Marta Suplicy disse nesta quarta-feira (28) que a Prefeitura de São Paulo <del>iniciou conversas</del> <ins>abriu negociações</ins> com Cuba para <del>negociar a</del> compra da vacina Soberana 2, contra a Covid-19. Leia mais (04/28/2021 - 14h26)
+2021-04-28 23:29:11,910          root     INFO: Media ready with ids: 1387549486566756354
+2021-04-28 23:29:11,911          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-28 23:29:11,911          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/gestao-covas-esta-negociando-vacina-contra-a-covid-19-com-cuba-diz-marta-suplicy.shtml
+2021-04-28 23:29:11,923          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/gestao-covas-esta-negociando-vacina-contra-a-covid-19-com-cuba-diz-marta-suplicy.shtml
+2021-04-28 23:29:12,089          root     INFO: Replying to: 1387549487988711435
+2021-04-28 23:29:12,327          root     INFO: Id to store: 1387549488781438990
+2021-04-28 23:29:17,118          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/comissao-da-camara-planeja-ouvir-48-entidades-de-servidores-para-analisar-pec-da-reforma-administrativa.shtml
+2021-04-28 23:29:17,119          root     INFO: Finished script
