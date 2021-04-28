@@ -1,20 +1,18 @@
-2021-04-28 22:27:21,874          root     INFO: Starting script
-2021-04-28 22:27:22,848          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-28 22:27:23,639          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-28 22:27:24,432          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-28 22:27:24,733          root     INFO: Parsing R7 - Brasil
-2021-04-28 22:27:27,212          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/pf-diz-que-nao-tem-sala-disponivel-e-desmarca-depoimento-de-boulos.shtml
-2021-04-28 22:27:31,775          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-analisa-programa-de-auxilio-para-acesso-a-botijao-de-gas-28042021
-2021-04-28 22:27:31,787          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-do-stf-manda-governo-realizar-censo-de-2021-28042021
-2021-04-28 22:27:31,801          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-primeiro-lote-de-vacinas-da-pfizer-nesta-quinta-28042021
-2021-04-28 22:27:31,815          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-apresenta-projeto-de-lei-que-cria-mandato-coletivo-28042021
-2021-04-28 22:27:31,828          root     INFO: New article tracked: http://noticias.r7.com/brasil/policia-federal-faz-operacao-contra-trafico-de-drogas-em-cinco-estados-28042021
-2021-04-28 22:27:31,839          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-fala-de-guedes-chanceler-conversa-com-embaixador-da-china-28042021
-2021-04-28 22:27:31,852          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-cobra-tregua-na-pandemia-politizacao-e-subir-em-cadaver-28042021
-2021-04-28 22:27:31,862          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-diz-que-100-dos-pedidos-de-impeachment-sao-inuteis-28042021
-2021-04-28 22:27:31,875          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-acordo-igualdade-de-salarios-deve-ir-a-votacao-na-camara-28042021
-2021-04-28 22:27:31,887          root     INFO: New article tracked: http://noticias.r7.com/brasil/estamos-fazendo-busca-ativa-por-vacinas-diz-novo-chanceler-28042021
-2021-04-28 22:27:31,899          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-questiona-cpi-da-covid-e-aponta-roubo-de-dinheiro-publico-28042021
-2021-04-28 22:27:31,911          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-assessor-de-major-olimpio-relata-intubacao-e-alucinacoes-pos-covid-28042021
-2021-04-28 22:27:32,127          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/cpi-da-covid-quer-investigar-cfm-e-planos-de-saude-por-propagacao-de-tratamento-precoce.shtml
-2021-04-28 22:27:32,128          root     INFO: Finished script
+2021-04-28 22:53:25,615          root     INFO: Starting script
+2021-04-28 22:53:26,618          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-28 22:53:27,420          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-28 22:53:28,225          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-28 22:53:28,460          root     INFO: Parsing R7 - Brasil
+2021-04-28 22:53:35,844          root     INFO: Removed http://noticias.r7.com/brasil/brasil-recebe-primeiro-lote-de-vacinas-da-pfizer-nesta-quinta-28042021
+2021-04-28 22:53:35,850          root     INFO: Removed http://noticias.r7.com/brasil/guedes-cobra-tregua-na-pandemia-politizacao-e-subir-em-cadaver-28042021
+2021-04-28 22:53:35,854          root     INFO: Removed http://noticias.r7.com/brasil/lira-diz-que-100-dos-pedidos-de-impeachment-sao-inuteis-28042021
+2021-04-28 22:53:35,859          root     INFO: Removed http://noticias.r7.com/brasil/ministro-do-stf-manda-governo-realizar-censo-de-2021-28042021
+2021-04-28 22:53:35,863          root     INFO: Removed http://noticias.r7.com/brasil/policia-federal-faz-operacao-contra-trafico-de-drogas-em-cinco-estados-28042021
+2021-04-28 22:53:35,868          root     INFO: Removed http://noticias.r7.com/brasil/estamos-fazendo-busca-ativa-por-vacinas-diz-novo-chanceler-28042021
+2021-04-28 22:53:35,872          root     INFO: Removed http://noticias.r7.com/brasil/com-acordo-igualdade-de-salarios-deve-ir-a-votacao-na-camara-28042021
+2021-04-28 22:53:35,877          root     INFO: Removed http://noticias.r7.com/brasil/deputado-apresenta-projeto-de-lei-que-cria-mandato-coletivo-28042021
+2021-04-28 22:53:35,882          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-questiona-cpi-da-covid-e-aponta-roubo-de-dinheiro-publico-28042021
+2021-04-28 22:53:35,887          root     INFO: Removed http://noticias.r7.com/brasil/ex-assessor-de-major-olimpio-relata-intubacao-e-alucinacoes-pos-covid-28042021
+2021-04-28 22:53:35,891          root     INFO: Removed http://noticias.r7.com/brasil/governo-analisa-programa-de-auxilio-para-acesso-a-botijao-de-gas-28042021
+2021-04-28 22:53:35,896          root     INFO: Removed http://noticias.r7.com/brasil/apos-fala-de-guedes-chanceler-conversa-com-embaixador-da-china-28042021
+2021-04-28 22:53:35,897          root     INFO: Finished script
