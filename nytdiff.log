@@ -1,13 +1,13 @@
-2021-04-28 11:57:55,282          root     INFO: Starting script
-2021-04-28 11:57:56,452          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-28 11:57:57,139          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-28 11:57:57,803          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-28 11:57:57,965          root     INFO: Parsing R7 - Brasil
-2021-04-28 11:58:00,946          root     INFO: Lula <del>diz que tem relação com Ciro e</del> pede que PT deixe <del>ele</del> <ins>Ciro</ins> falando sozinho
-2021-04-28 11:58:02,587          root     INFO: Media ready with ids: 1387375551590150146
-2021-04-28 11:58:02,587          root     INFO: Text to tweet: Modificação do Título
-2021-04-28 11:58:02,587          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/lula-diz-que-tem-relacao-com-ciro-e-pede-que-pt-deixe-ele-falando-sozinho.shtml
-2021-04-28 11:58:02,596          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/lula-diz-que-tem-relacao-com-ciro-e-pede-que-pt-deixe-ele-falando-sozinho.shtml
-2021-04-28 11:58:02,776          root     INFO: Replying to: 1387375553032953860
-2021-04-28 11:58:03,006          root     INFO: Id to store: 1387375553775390722
-2021-04-28 11:58:08,282          root     INFO: Finished script
+2021-04-28 12:41:22,984          root     INFO: Starting script
+2021-04-28 12:41:23,970          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-28 12:41:24,748          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-28 12:41:25,525          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-28 12:41:25,770          root     INFO: Parsing R7 - Brasil
+2021-04-28 12:41:28,412          root     INFO: O ministro do Supremo Tribunal Federal (STF) Luís Roberto Barroso deu cinco dias para que o <del>Procurador-Geral</del> <ins>procurador-geral</ins> da República, Augusto Aras, o <del>Advogado-Geral</del> <ins>advogado-geral</ins> da União, André Mendonça, e estados forneçam informações sobre remoções e cumprimentos de ordens de despejo durante a epidemia da Covid-19. Leia mais (04/27/2021 - 23h15)
+2021-04-28 12:41:30,273          root     INFO: Media ready with ids: 1387386488883666948
+2021-04-28 12:41:30,274          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-28 12:41:30,274          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/barroso-cobra-de-estados-informacoes-sobre-ordens-de-despejo-em-meio-a-epidemia.shtml
+2021-04-28 12:41:30,282          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/barroso-cobra-de-estados-informacoes-sobre-ordens-de-despejo-em-meio-a-epidemia.shtml
+2021-04-28 12:41:30,511          root     INFO: Replying to: 1387386490683117569
+2021-04-28 12:41:30,781          root     INFO: Id to store: 1387386491576389632
+2021-04-28 12:41:35,524          root     INFO: Finished script
