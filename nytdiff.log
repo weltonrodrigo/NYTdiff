@@ -1,32 +1,10 @@
-2021-04-28 11:02:52,536          root     INFO: Starting script
-2021-04-28 11:02:53,506          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-28 11:02:54,303          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-28 11:02:55,085          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-28 11:02:55,299          root     INFO: Parsing R7 - Brasil
-2021-04-28 11:02:58,316          root     INFO: ?O presidente da Câmara, Arthur Lira (PP-AL), rebateu críticas da oposição na noite desta terça-feira (27) e afirmou que 100% dos pedidos de impeachment contra o presidente Jair Bolsonaro (sem partido) protocolados na Casa são <del>inúteis para o que foram apresentados ou para o que solicitaram.</del> <ins>inúteis.</ins> Leia mais (04/27/2021 - 20h33)
-2021-04-28 11:03:00,224          root     INFO: Media ready with ids: 1387361700307996672
-2021-04-28 11:03:00,225          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-28 11:03:00,225          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/lira-rebate-oposicao-e-diz-que-100-dos-pedidos-de-impeachment-de-bolsonaro-sao-inuteis.shtml
-2021-04-28 11:03:00,237          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/lira-rebate-oposicao-e-diz-que-100-dos-pedidos-de-impeachment-de-bolsonaro-sao-inuteis.shtml
-2021-04-28 11:03:00,526          root     INFO: Replying to: 1387361702375723009
-2021-04-28 11:03:00,805          root     INFO: Id to store: 1387361703323635714
-2021-04-28 11:03:00,850          root     INFO: Aliada de Bolsonaro tem ligação com juiz que tentou tirar Renan da relatoria da CPI <ins>da Covid</ins>
-2021-04-28 11:03:02,621          root     INFO: Media ready with ids: 1387361710516981765
-2021-04-28 11:03:02,623          root     INFO: Text to tweet: Modificação do Título
-2021-04-28 11:03:02,624          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/aliada-de-bolsonaro-tem-ligacao-com-juiz-que-tentou-tirar-renan-da-relatoria-da-cpi.shtml
-2021-04-28 11:03:02,633          root     INFO: Replying to: 1387359767958638595
-2021-04-28 11:03:02,916          root     INFO: Id to store: 1387361712203079684
-2021-04-28 11:03:02,923          root     INFO: ?O juiz federal que tentou barrar Renan Calheiros (MDB-AL) na relatoria da CPI da Covid do Senado contou <ins>em pelo menos duas ocasiões</ins> com o voto da juíza federal Maria do Carmo Cardoso, do TRF-1 (Tribunal Regional Federal da 1ª Região), <del>em pelo menos duas ocasiões,</del> para tentar se livrar de acusações atribuídas a ele internamente e pelo Ministério Público Federal. Leia mais (04/27/2021 - 20h33)
-2021-04-28 11:03:04,776          root     INFO: Media ready with ids: 1387361719475920896
-2021-04-28 11:03:04,776          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-28 11:03:04,776          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/aliada-de-bolsonaro-tem-ligacao-com-juiz-que-tentou-tirar-renan-da-relatoria-da-cpi.shtml
-2021-04-28 11:03:04,785          root     INFO: Replying to: 1387361712203079684
-2021-04-28 11:03:05,070          root     INFO: Id to store: 1387361721182982148
-2021-04-28 11:03:10,177          root     INFO: Removed http://noticias.r7.com/brasil/shoppings-e-lojistas-vao-a-guedes-contra-revisao-de-aluguel-pelo-ipca-28042021
-2021-04-28 11:03:10,181          root     INFO: Removed http://noticias.r7.com/brasil/ramos-diz-que-se-vacinou-escondido-e-teme-por-bolsonaro-27042021
-2021-04-28 11:03:10,186          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-diz-que-pedido-de-estudo-da-vacina-butanvac-esta-incompleto-27042021
-2021-04-28 11:03:10,190          root     INFO: Removed http://noticias.r7.com/brasil/carmen-lucia-envia-a-pgr-noticias-crime-contra-ricardo-salles-27042021
-2021-04-28 11:03:10,194          root     INFO: Removed http://noticias.r7.com/brasil/71-dos-brasileiros-veem-retomada-economica-so-a-partir-de-2022-28042021
-2021-04-28 11:03:10,204          root     INFO: Removed http://noticias.r7.com/brasil/embaixador-chines-rebate-guedes-principal-fornecedor-das-vacinas-27042021
-2021-04-28 11:03:10,209          root     INFO: Removed http://noticias.r7.com/brasil/ministro-revela-plano-de-vacinar-em-massa-populacao-de-botucatu-sp-28042021
-2021-04-28 11:03:10,210          root     INFO: Finished script
+2021-04-28 11:25:33,956          root     INFO: Starting script
+2021-04-28 11:25:34,913          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-28 11:25:35,703          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-28 11:25:36,480          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-28 11:25:36,709          root     INFO: Parsing R7 - Brasil
+2021-04-28 11:25:36,877          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/milicias.shtml
+2021-04-28 11:25:36,890          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/brasil-corre-risco-de-apagao-de-dados-na-educacao.shtml
+2021-04-28 11:25:44,789          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/04/o-crepusculo-da-lava-jato.shtml
+2021-04-28 11:25:44,793          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/04/joao-paulo-cuenca-prepara-livro-inspirado-por-caso-da-igreja-universal-na-record.shtml
+2021-04-28 11:25:44,793          root     INFO: Finished script
