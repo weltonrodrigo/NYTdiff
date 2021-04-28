@@ -1,8 +1,15 @@
-2021-04-28 19:14:53,086          root     INFO: Starting script
-2021-04-28 19:14:53,891          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-28 19:14:54,541          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-28 19:14:55,188          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-28 19:14:55,404          root     INFO: Parsing R7 - Brasil
-2021-04-28 19:14:57,961          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/trf-4-revoga-prisao-preventiva-do-deputado-cassado-eduardo-cunha.shtml
-2021-04-28 19:15:03,590          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/david-miranda-pede-investigacao-de-grampos-revelados-pelo-the-intercept-brasil.shtml
-2021-04-28 19:15:03,591          root     INFO: Finished script
+2021-04-28 19:32:42,729          root     INFO: Starting script
+2021-04-28 19:32:43,524          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-28 19:32:44,176          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-28 19:32:44,829          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-28 19:32:44,960          root     INFO: Parsing R7 - Brasil
+2021-04-28 19:32:47,084          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/supremo-decide-tornar-reu-deputado-daniel-silveira-com-base-na-lei-de-seguranca-nacional.shtml
+2021-04-28 19:32:47,122          root     INFO: O <del>TRF-4 (Tribunal</del> <ins>Tribunal</ins> Regional Federal da 4ª <del>Região)</del> <ins>Região (TRF-4)</ins> revogou <del>hoje</del> <ins>nesta quarta-feira (28)</ins> a prisão preventiva <del>do</del> <ins>decretada pela 13ª Vara Federal de Curitiba contra o deputado federal cassado e</ins> ex-presidente da <del>Câmara dos Deputados,</del> <ins>Câmara,</ins> Eduardo <del>Cunha, que cumpria prisão domiciliar pelo risco de contaminação pelo novo coronavírus.</del> <ins>Cunha. A informação foi confirmada pela defesa do político.</ins> Leia mais (04/28/2021 - 15h58)
+2021-04-28 19:32:48,815          root     INFO: Media ready with ids: 1387489998379921411
+2021-04-28 19:32:48,816          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-28 19:32:48,816          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/trf-4-revoga-prisao-preventiva-do-deputado-cassado-eduardo-cunha.shtml
+2021-04-28 19:32:48,825          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/trf-4-revoga-prisao-preventiva-do-deputado-cassado-eduardo-cunha.shtml
+2021-04-28 19:32:49,013          root     INFO: Replying to: 1387489999860510725
+2021-04-28 19:32:49,243          root     INFO: Id to store: 1387490000560869381
+2021-04-28 19:32:53,502          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/grupos-articulam-reuniao-com-bolsonaro-para-pressionar-por-tratamento-precoce.shtml
+2021-04-28 19:32:53,503          root     INFO: Finished script
