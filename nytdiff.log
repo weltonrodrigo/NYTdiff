@@ -1,14 +1,8 @@
-2021-04-29 00:42:19,105          root     INFO: Starting script
-2021-04-29 00:42:19,902          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-29 00:42:20,553          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-29 00:42:21,204          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-29 00:42:21,386          root     INFO: Parsing R7 - Brasil
-2021-04-29 00:42:25,863          root     INFO: O PDT começa a veicular na segunda (26) uma série de filmetes políticos estrelados pelo presidenciável Ciro Gomes. Leia mais <del>(04/22/2021</del> <ins>(04/25/2021</ins> - <del>01h36)</del> <ins>17h31)</ins>
-2021-04-29 00:42:27,604          root     INFO: Media ready with ids: 1387567923418513417
-2021-04-29 00:42:27,604          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-29 00:42:27,605          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/ciro-vai-estrelar-filmes-do-pdt-na-internet.shtml
-2021-04-29 00:42:27,615          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/ciro-vai-estrelar-filmes-do-pdt-na-internet.shtml
-2021-04-29 00:42:27,807          root     INFO: Replying to: 1387567924987277312
-2021-04-29 00:42:28,023          root     INFO: Id to store: 1387567925658259456
-2021-04-29 00:42:31,029          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/advogados-veem-secretario-geral-de-felipe-santa-cruz-como-favorito-para-sucede-lo-na-oab.shtml
-2021-04-29 00:42:31,030          root     INFO: Finished script
+2021-04-29 01:50:27,016          root     INFO: Starting script
+2021-04-29 01:50:27,859          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-29 01:50:28,540          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-29 01:50:29,222          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-29 01:50:29,355          root     INFO: Parsing R7 - Brasil
+2021-04-29 01:50:31,970          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/pazuello-sera-ouvido-na-proxima-quarta-feira-anuncia-presidente-da-cpi-da-covid.shtml
+2021-04-29 01:50:37,220          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/atuante-para-2022-huck-se-recusa-a-dar-entrevista-veja-lacunas-e-opinioes-politicas-e-gerais-ja-dadas-por-ele.shtml
+2021-04-29 01:50:37,220          root     INFO: Finished script
