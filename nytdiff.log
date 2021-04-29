@@ -1,6 +1,30 @@
-2021-04-29 19:09:23,675          root     INFO: Starting script
-2021-04-29 19:09:24,474          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-29 19:09:25,123          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-29 19:09:25,774          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-29 19:09:25,905          root     INFO: Parsing R7 - Brasil
-2021-04-29 19:09:32,852          root     INFO: Finished script
+2021-04-29 19:29:36,969          root     INFO: Starting script
+2021-04-29 19:29:38,170          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-29 19:29:38,858          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-29 19:29:39,547          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-29 19:29:41,383          root     INFO: Parsing R7 - Brasil
+2021-04-29 19:29:49,421          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-entrega-65-milhoes-de-doses-de-vacina-nesta-sexta-feira-29042021
+2021-04-29 19:29:49,445          root     INFO: New article tracked: http://noticias.r7.com/brasil/saude-autoriza-mais-872-leitos-de-uti-covid-19-para-13-estados-e-o-df-29042021
+2021-04-29 19:29:49,458          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-urgencia-de-projeto-de-igualdade-salarial-29042021
+2021-04-29 19:29:49,485          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-urgencia-de-projeto-que-pune-discriminacao-salarial-29042021
+2021-04-29 19:29:49,499          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-mantem-renan-calheiros-como-relator-da-cpi-29042021
+2021-04-29 19:29:49,510          root     INFO: New article tracked: http://noticias.r7.com/brasil/fux-lamenta-400-mil-mortes-por-covid-19-profunda-solidariedade-29042021
+2021-04-29 19:29:49,525          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-nega-existencia-de-leitos-ociosos-em-hospitais-militares-29042021
+2021-04-29 19:29:49,544          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-aceita-convite-e-vai-almocar-com-empresarias-em-sp-29042021
+2021-04-29 19:29:49,556          root     INFO: New article tracked: http://noticias.r7.com/brasil/saiba-quantas-doses-cada-estado-recebera-das-vacinas-contra-a-covid-29042021
+2021-04-29 19:29:49,569          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-2020-21-mil-pegaram-covid-19-em-ambientes-de-trabalho-29042021
+2021-04-29 19:29:49,581          root     INFO: New article tracked: http://noticias.r7.com/brasil/governistas-miram-governadores-em-requerimentos-da-cpi-da-covid-29042021
+2021-04-29 19:29:49,594          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-tem-bate-boca-entre-senadores-entenda-a-divergencia-29042021
+2021-04-29 19:29:49,607          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-aprova-depoimentos-de-mandetta-e-teich-na-terca-feira-29042021
+2021-04-29 19:29:49,621          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-queda-em-fevereiro-juros-do-cartao-voltam-a-subir-em-marco-29042021
+2021-04-29 19:29:49,635          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-segunda-reuniao-cpi-da-covid-define-plano-de-trabalho-assista-29042021
+2021-04-29 19:29:49,648          root     INFO: New article tracked: http://noticias.r7.com/brasil/quebra-de-patente-de-vacinas-sera-votada-hoje-pelo-senado-29042021
+2021-04-29 19:29:49,660          root     INFO: New article tracked: http://noticias.r7.com/brasil/forca-nacional-vai-apoiar-o-ibama-em-acoes-na-amazonia-legal-29042021
+2021-04-29 19:29:49,754          root     INFO: A partir desta quinta, todos os estados e o DF vão receber novo lote com imunizantes da AstraZeneca/Oxford e da <del>Coronavac</del> <ins>CoronaVac</ins>
+2021-04-29 19:29:51,591          root     INFO: Media ready with ids: 1387851642809339909
+2021-04-29 19:29:51,591          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-29 19:29:51,591          root     INFO: Article id: http://noticias.r7.com/brasil/mais-52-milhoes-de-vacinas-sao-distribuidas-para-todo-o-brasil-29042021
+2021-04-29 19:29:51,599          root     INFO: Tweeting url: http://noticias.r7.com/brasil/mais-52-milhoes-de-vacinas-sao-distribuidas-para-todo-o-brasil-29042021
+2021-04-29 19:29:51,783          root     INFO: Replying to: 1387851644352831491
+2021-04-29 19:29:52,064          root     INFO: Id to store: 1387851645011300354
+2021-04-29 19:29:52,081          root     INFO: Finished script
