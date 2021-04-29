@@ -1,24 +1,10 @@
-2021-04-29 19:57:52,651          root     INFO: Starting script
-2021-04-29 19:57:53,457          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-29 19:57:54,113          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-29 19:57:54,777          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-29 19:57:54,936          root     INFO: Parsing R7 - Brasil
-2021-04-29 19:58:03,026          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-mantem-renan-calheiros-como-relator-da-cpi-29042021
-2021-04-29 19:58:03,032          root     INFO: Removed http://noticias.r7.com/brasil/saude-autoriza-mais-872-leitos-de-uti-covid-19-para-13-estados-e-o-df-29042021
-2021-04-29 19:58:03,037          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-entrega-65-milhoes-de-doses-de-vacina-nesta-sexta-feira-29042021
-2021-04-29 19:58:03,043          root     INFO: Removed http://noticias.r7.com/brasil/fux-lamenta-400-mil-mortes-por-covid-19-profunda-solidariedade-29042021
-2021-04-29 19:58:03,049          root     INFO: Removed http://noticias.r7.com/brasil/apos-queda-em-fevereiro-juros-do-cartao-voltam-a-subir-em-marco-29042021
-2021-04-29 19:58:03,054          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-urgencia-de-projeto-que-pune-discriminacao-salarial-29042021
-2021-04-29 19:58:03,058          root     INFO: Removed http://noticias.r7.com/brasil/saiba-quantas-doses-cada-estado-recebera-das-vacinas-contra-a-covid-29042021
-2021-04-29 19:58:03,063          root     INFO: Removed http://noticias.r7.com/brasil/em-segunda-reuniao-cpi-da-covid-define-plano-de-trabalho-assista-29042021
-2021-04-29 19:58:03,068          root     INFO: Removed http://noticias.r7.com/brasil/ministro-nega-existencia-de-leitos-ociosos-em-hospitais-militares-29042021
-2021-04-29 19:58:03,073          root     INFO: Removed http://noticias.r7.com/brasil/violencia-contra-adolescentes-e-criancas-e-tema-do-estudio-news-29042021
-2021-04-29 19:58:03,077          root     INFO: Removed http://noticias.r7.com/brasil/governistas-miram-governadores-em-requerimentos-da-cpi-da-covid-29042021
-2021-04-29 19:58:03,083          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-aceita-convite-e-vai-almocar-com-empresarias-em-sp-29042021
-2021-04-29 19:58:03,088          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-tem-bate-boca-entre-senadores-entenda-a-divergencia-29042021
-2021-04-29 19:58:03,094          root     INFO: Removed http://noticias.r7.com/brasil/quebra-de-patente-de-vacinas-sera-votada-hoje-pelo-senado-29042021
-2021-04-29 19:58:03,100          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-aprova-depoimentos-de-mandetta-e-teich-na-terca-feira-29042021
-2021-04-29 19:58:03,104          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-urgencia-de-projeto-de-igualdade-salarial-29042021
-2021-04-29 19:58:03,109          root     INFO: Removed http://noticias.r7.com/brasil/forca-nacional-vai-apoiar-o-ibama-em-acoes-na-amazonia-legal-29042021
-2021-04-29 19:58:03,114          root     INFO: Removed http://noticias.r7.com/brasil/em-2020-21-mil-pegaram-covid-19-em-ambientes-de-trabalho-29042021
-2021-04-29 19:58:03,115          root     INFO: Finished script
+2021-04-29 20:27:15,607          root     INFO: Starting script
+2021-04-29 20:27:16,485          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-29 20:27:17,178          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-29 20:27:17,868          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-29 20:27:18,032          root     INFO: Parsing R7 - Brasil
+2021-04-29 20:27:18,192          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/04/quanto-vale-um-tecnico-no-futebol.shtml
+2021-04-29 20:27:20,668          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/pdt-aciona-stf-contra-medida-de-bolsonaro-que-relanca-programa-de-reducao-de-jornada-e-salario.shtml
+2021-04-29 20:27:26,108          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/arminio-fraga/2021/04/o-futuro-da-democracia-e-os-desafios-do-brasil.shtml
+2021-04-29 20:27:26,112          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/lira-diz-que-congresso-nao-e-delegacia-e-que-cpi-da-covid-neste-momento-e-perda-de-tempo.shtml
+2021-04-29 20:27:26,113          root     INFO: Finished script
