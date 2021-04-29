@@ -1,8 +1,15 @@
-2021-04-29 16:50:05,487          root     INFO: Starting script
-2021-04-29 16:50:06,372          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-29 16:50:07,058          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-29 16:50:07,741          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-29 16:50:07,901          root     INFO: Parsing R7 - Brasil
-2021-04-29 16:50:10,738          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/tribunal-misto-define-nesta-sexta-impeachment-e-breve-trajetoria-politica-de-witzel.shtml
-2021-04-29 16:50:16,504          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/com-familia-de-lider-de-bolsonaro-na-mira-superintendencia-da-pf-em-pernambuco-vira-foco-de-tensao.shtml
-2021-04-29 16:50:16,505          root     INFO: Finished script
+2021-04-29 17:30:36,535          root     INFO: Starting script
+2021-04-29 17:30:37,351          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-29 17:30:38,008          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-29 17:30:38,678          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-29 17:30:38,840          root     INFO: Parsing R7 - Brasil
+2021-04-29 17:30:38,975          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/04/negar-o-erotico-como-forca-vital-e-impor-mulheres-a-papel-de-submissas.shtml
+2021-04-29 17:30:41,076          root     INFO: Presidente da CCJ (Comissão de Constituição e Justiça), a deputada bolsonarista Bia Kicis (PSL-DF) <del>pautou</del> <ins>incluiu</ins> duas propostas no principal colegiado da Câmara para limitar a atuação do STF (Supremo Tribunal Federal). Leia mais (04/29/2021 - 09h42)
+2021-04-29 17:30:42,920          root     INFO: Media ready with ids: 1387821659063820288
+2021-04-29 17:30:42,920          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-29 17:30:42,920          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/a-frente-da-ccj-da-camara-bolsonarista-bia-kicis-prioriza-projetos-para-limitar-atuacao-do-supremo.shtml
+2021-04-29 17:30:42,928          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/a-frente-da-ccj-da-camara-bolsonarista-bia-kicis-prioriza-projetos-para-limitar-atuacao-do-supremo.shtml
+2021-04-29 17:30:43,114          root     INFO: Replying to: 1387821660645076992
+2021-04-29 17:30:43,353          root     INFO: Id to store: 1387821661400014854
+2021-04-29 17:30:47,709          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/04/um-braco-por-essa-obra.shtml
+2021-04-29 17:30:47,710          root     INFO: Finished script
