@@ -1,6 +1,21 @@
-2021-04-29 20:57:47,277          root     INFO: Starting script
-2021-04-29 20:57:48,258          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-29 20:57:49,035          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-29 20:57:49,840          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-29 20:57:50,048          root     INFO: Parsing R7 - Brasil
-2021-04-29 20:57:56,810          root     INFO: Finished script
+2021-04-29 21:25:39,651          root     INFO: Starting script
+2021-04-29 21:25:40,618          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-29 21:25:41,403          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-29 21:25:42,185          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-29 21:25:42,412          root     INFO: Parsing R7 - Brasil
+2021-04-29 21:25:42,542          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/04/don-draper-de-mad-men-ensina-como-fazer-um-old-fashioned-a-moda-antiga.shtml
+2021-04-29 21:25:45,197          root     INFO: Justiça <ins>derruba</ins> censura <ins>a</ins> reportagem publicada por colunista do UOL
+2021-04-29 21:25:46,930          root     INFO: Media ready with ids: 1387880815615520783
+2021-04-29 21:25:46,931          root     INFO: Text to tweet: Modificação do Título
+2021-04-29 21:25:46,931          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/justica-censura-reportagem-publicada-por-colunista-do-uol.shtml
+2021-04-29 21:25:46,940          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/justica-censura-reportagem-publicada-por-colunista-do-uol.shtml
+2021-04-29 21:25:47,198          root     INFO: Replying to: 1387880817423159296
+2021-04-29 21:25:47,590          root     INFO: Id to store: 1387880818312368133
+2021-04-29 21:25:47,598          root     INFO: A desembargadora Maria Angélica Guimarães, do TJ-RJ (Tribunal de Justiça do Rio de Janeiro), <del>determinou</del> <ins>informou ao ministro Kassio Nunes Marques, do STF (Supremo Tribunal Federal), que reconsiderou uma decisão que determinava</ins> a exclusão de conteúdo jornalístico publicado pelo colunista do UOL Amaury Ribeiro Jr. Leia mais (04/29/2021 - 11h06)
+2021-04-29 21:25:49,412          root     INFO: Media ready with ids: 1387880825891459074
+2021-04-29 21:25:49,412          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-29 21:25:49,412          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/justica-censura-reportagem-publicada-por-colunista-do-uol.shtml
+2021-04-29 21:25:49,421          root     INFO: Replying to: 1387880818312368133
+2021-04-29 21:25:49,717          root     INFO: Id to store: 1387880827686621186
+2021-04-29 21:25:55,067          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/04/cpi-da-covid-tem-de-investigar-desde-ja-o-risco-de-faltar-vacina-no-ano-que-vem.shtml
+2021-04-29 21:25:55,068          root     INFO: Finished script
