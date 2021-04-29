@@ -1,10 +1,17 @@
-2021-04-29 20:27:15,607          root     INFO: Starting script
-2021-04-29 20:27:16,485          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-29 20:27:17,178          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-29 20:27:17,868          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-29 20:27:18,032          root     INFO: Parsing R7 - Brasil
-2021-04-29 20:27:18,192          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/04/quanto-vale-um-tecnico-no-futebol.shtml
-2021-04-29 20:27:20,668          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/pdt-aciona-stf-contra-medida-de-bolsonaro-que-relanca-programa-de-reducao-de-jornada-e-salario.shtml
-2021-04-29 20:27:26,108          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/arminio-fraga/2021/04/o-futuro-da-democracia-e-os-desafios-do-brasil.shtml
-2021-04-29 20:27:26,112          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/lira-diz-que-congresso-nao-e-delegacia-e-que-cpi-da-covid-neste-momento-e-perda-de-tempo.shtml
-2021-04-29 20:27:26,113          root     INFO: Finished script
+2021-04-29 20:49:26,528          root     INFO: Starting script
+2021-04-29 20:49:27,330          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-29 20:49:27,981          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-29 20:49:28,638          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-29 20:49:28,873          root     INFO: Parsing R7 - Brasil
+2021-04-29 20:49:28,962          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/morticinio-brasileiro.shtml
+2021-04-29 20:49:31,324          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/governadores-enviam-mais-documentos-para-anvisa-e-pedem-nova-analise-para-liberar-sputnik-v.shtml
+2021-04-29 20:49:31,365          root     INFO: PDT aciona STF contra <del>medida de Bolsonaro que relança programa</del> <ins>acordos individuais</ins> de redução de jornada e salário <ins>em programa de Bolsonaro</ins>
+2021-04-29 20:49:33,081          root     INFO: Media ready with ids: 1387871697919938564
+2021-04-29 20:49:33,082          root     INFO: Text to tweet: Modificação do Título
+2021-04-29 20:49:33,082          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/pdt-aciona-stf-contra-medida-de-bolsonaro-que-relanca-programa-de-reducao-de-jornada-e-salario.shtml
+2021-04-29 20:49:33,093          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/pdt-aciona-stf-contra-medida-de-bolsonaro-que-relanca-programa-de-reducao-de-jornada-e-salario.shtml
+2021-04-29 20:49:33,281          root     INFO: Replying to: 1387871699383865347
+2021-04-29 20:49:33,530          root     INFO: Id to store: 1387871700071632903
+2021-04-29 20:49:38,743          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/grupo-de-governadores-deve-pedir-afastamento-de-subprocuradora-de-apuracao-sobre-mau-uso-de-verbas-na-pandemia.shtml
+2021-04-29 20:49:38,750          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/precos-perversos.shtml
+2021-04-29 20:49:38,751          root     INFO: Finished script
