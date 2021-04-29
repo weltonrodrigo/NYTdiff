@@ -1,13 +1,12 @@
-2021-04-29 14:57:54,623          root     INFO: Starting script
-2021-04-29 14:57:55,468          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-29 14:57:56,114          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-29 14:57:56,764          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-29 14:57:56,988          root     INFO: Parsing R7 - Brasil
-2021-04-29 14:57:59,312          root     INFO: Em uma sessão marcada por discussões e tentativas de governistas de <del>retardar</del> <ins>retardarem</ins> os trabalhos da comissão, os senadores que integram a CPI da Covid aprovaram na manhã desta quinta-feira (29) requerimentos para convocar ex-ministros da Saúde, incluindo o general Eduardo Pazuello. Leia mais (04/29/2021 - 11h02)
-2021-04-29 14:58:01,386          root     INFO: Media ready with ids: 1387783232129847304
-2021-04-29 14:58:01,387          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-29 14:58:01,387          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/primeira-sessao-de-trabalho-da-cpi-da-covid-tem-bate-boca-e-convocacao-de-ex-ministros-da-saude-de-bolsonaro.shtml
-2021-04-29 14:58:01,395          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/primeira-sessao-de-trabalho-da-cpi-da-covid-tem-bate-boca-e-convocacao-de-ex-ministros-da-saude-de-bolsonaro.shtml
-2021-04-29 14:58:01,556          root     INFO: Replying to: 1387783234289864709
-2021-04-29 14:58:01,766          root     INFO: Id to store: 1387783234952572931
-2021-04-29 14:58:06,443          root     INFO: Finished script
+2021-04-29 15:30:52,577          root     INFO: Starting script
+2021-04-29 15:30:53,562          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-29 15:30:54,370          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-29 15:30:55,184          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-29 15:30:55,431          root     INFO: Parsing R7 - Brasil
+2021-04-29 15:30:58,546          root     INFO: Em <del>uma</del> sessão marcada por discussões e tentativas de governistas de <del>retardar</del> <ins>retardarem</ins> os trabalhos da comissão, os senadores que integram a CPI da Covid aprovaram na manhã desta quinta-feira (29) requerimentos para convocar ex-ministros da <del>Saúde,</del> <ins>Saúde do governo Bolsonaro,</ins> incluindo o general Eduardo Pazuello. Leia mais (04/29/2021 - 11h02)
+2021-04-29 15:31:00,388          root     INFO: Media ready with ids: 1387791533303386117
+2021-04-29 15:31:00,389          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-29 15:31:00,389          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/primeira-sessao-de-trabalho-da-cpi-da-covid-tem-bate-boca-e-convocacao-de-ex-ministros-da-saude-de-bolsonaro.shtml
+2021-04-29 15:31:00,398          root     INFO: Replying to: 1387783234952572931
+2021-04-29 15:31:00,726          root     INFO: Id to store: 1387791535194923012
+2021-04-29 15:31:07,074          root     INFO: Finished script
