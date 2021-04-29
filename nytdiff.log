@@ -1,19 +1,22 @@
-2021-04-29 10:30:16,121          root     INFO: Starting script
-2021-04-29 10:30:16,949          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-29 10:30:17,619          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-29 10:30:18,296          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-29 10:30:18,404          root     INFO: Parsing R7 - Brasil
-2021-04-29 10:30:21,362          root     INFO: <del>Pazuello será ouvido na próxima quarta-feira, anuncia presidente da</del> CPI da Covid <ins>ouvirá Mandetta e Teich na terça, Pazuello na quarta e Queiroga na quinta, diz presidente da comissão</ins>
-2021-04-29 10:30:23,005          root     INFO: Media ready with ids: 1387715879283085313
-2021-04-29 10:30:23,006          root     INFO: Text to tweet: Modificação do Título
-2021-04-29 10:30:23,006          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/pazuello-sera-ouvido-na-proxima-quarta-feira-anuncia-presidente-da-cpi-da-covid.shtml
-2021-04-29 10:30:23,016          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/pazuello-sera-ouvido-na-proxima-quarta-feira-anuncia-presidente-da-cpi-da-covid.shtml
-2021-04-29 10:30:23,187          root     INFO: Replying to: 1387715880604274691
-2021-04-29 10:30:23,419          root     INFO: Id to store: 1387715881397071873
-2021-04-29 10:30:23,425          root     INFO: <del>O presidente</del> <ins>Presidente</ins> da CPI da Covid, <ins>o senador</ins> Omar Aziz <del>(PSD-AM),</del> <ins>(PSD-AM)</ins> informou à Folha que vai marcar para a próxima quarta-feira (5) o depoimento do general Eduardo Pazuello, ex-ministro da Saúde e um dos principais alvos da comissão de inquérito do Senado. Leia mais (04/28/2021 - 22h34)
-2021-04-29 10:30:25,208          root     INFO: Media ready with ids: 1387715888254754821
-2021-04-29 10:30:25,209          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-29 10:30:25,209          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/pazuello-sera-ouvido-na-proxima-quarta-feira-anuncia-presidente-da-cpi-da-covid.shtml
-2021-04-29 10:30:25,218          root     INFO: Replying to: 1387715881397071873
-2021-04-29 10:30:25,458          root     INFO: Id to store: 1387715889907253250
-2021-04-29 10:30:30,330          root     INFO: Finished script
+2021-04-29 10:54:43,636          root     INFO: Starting script
+2021-04-29 10:54:44,496          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-29 10:54:45,151          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-29 10:54:45,811          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-29 10:54:46,142          root     INFO: Parsing R7 - Brasil
+2021-04-29 10:54:48,828          root     INFO: O dia 14 de janeiro de 2021 representou para moradores de Manaus o capítulo mais trágico da pandemia do novo coronavírus ?e pode ter sido, também, o momento mais crítico e emblemático de toda a crise sanitária no Brasil até aqui. <del>Nas primeiras horas da madrugada daquele dia, o oxigênio se esgotou em hospitais da capital do Amazonas. Pacientes com Covid-19 morreram asfixiados.</del> Leia mais (04/28/2021 - 23h15)
+2021-04-29 10:54:50,646          root     INFO: Media ready with ids: 1387722034835304449
+2021-04-29 10:54:50,647          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-29 10:54:50,647          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/entenda-a-crise-da-covid-no-amazonas-e-os-sinais-de-negligencia-do-governo-que-serao-investigados-na-cpi.shtml
+2021-04-29 10:54:50,658          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/entenda-a-crise-da-covid-no-amazonas-e-os-sinais-de-negligencia-do-governo-que-serao-investigados-na-cpi.shtml
+2021-04-29 10:54:50,836          root     INFO: Replying to: 1387722036391424000
+2021-04-29 10:54:51,071          root     INFO: Id to store: 1387722037171560448
+2021-04-29 10:54:56,211          root     INFO: Removed http://noticias.r7.com/brasil/aras-defende-derrubada-da-lei-da-autonomia-do-banco-central-28042021
+2021-04-29 10:54:56,217          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-publico-vai-apurar-elos-da-lava-jato-com-eua-e-suica-29042021
+2021-04-29 10:54:56,221          root     INFO: Removed http://noticias.r7.com/brasil/comissao-ouve-ministro-da-defesa-e-comandantes-das-forcas-armadas-29042021
+2021-04-29 10:54:56,233          root     INFO: Removed http://noticias.r7.com/brasil/bolsa-familia-membros-com-nis-final-9-recebem-auxilio-nesta-quinta-29042021
+2021-04-29 10:54:56,238          root     INFO: Removed http://noticias.r7.com/brasil/primeiro-lote-de-vacinas-da-pfizer-chega-ao-brasil-nesta-quinta-feira-29042021
+2021-04-29 10:54:56,243          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-se-reune-hoje-para-definir-prioridades-nas-apuracoes-29042021
+2021-04-29 10:54:56,247          root     INFO: Removed http://noticias.r7.com/brasil/mais-52-milhoes-de-vacinas-sao-distribuidas-para-todo-o-brasil-29042021
+2021-04-29 10:54:56,253          root     INFO: Removed http://noticias.r7.com/brasil/ministro-walmir-oliveira-da-costa-do-tst-morre-de-covid-aos-62-anos-28042021
+2021-04-29 10:54:56,258          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-define-roteiro-para-ouvir-queiroga-e-ex-ministros-29042021
+2021-04-29 10:54:56,259          root     INFO: Finished script
