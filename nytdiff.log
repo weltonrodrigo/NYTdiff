@@ -1,21 +1,6 @@
-2021-04-29 18:47:42,665          root     INFO: Starting script
-2021-04-29 18:47:43,479          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-29 18:47:44,149          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-29 18:47:44,839          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-29 18:47:45,007          root     INFO: Parsing R7 - Brasil
-2021-04-29 18:47:45,149          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/04/a-defesa-do-ambiente-cresce-a-partir-da-base.shtml
-2021-04-29 18:47:47,555          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/pre-candidato-oculto-huck-procura-alckmin-e-ouve-palavras-de-incentivo-em-conversa-sobre-2022.shtml
-2021-04-29 18:47:47,567          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/lewandowski-rejeita-pedido-de-senadores-governistas-e-mantem-renan-na-relatoria-da-cpi-da-covid.shtml
-2021-04-29 18:47:47,627          root     INFO: Há oito meses longe do Palácio Guanabara, Wilson Witzel (PSC) terá em julgamento nesta sexta-feira <del>(28)</del> <ins>(30)</ins> as definições de seu processo de impeachment e do futuro de sua breve carreira política. Leia mais (04/29/2021 - 13h43)
-2021-04-29 18:47:49,308          root     INFO: Media ready with ids: 1387841063633788936
-2021-04-29 18:47:49,308          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-29 18:47:49,308          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/tribunal-misto-define-nesta-sexta-impeachment-e-breve-trajetoria-politica-de-witzel.shtml
-2021-04-29 18:47:49,317          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/tribunal-misto-define-nesta-sexta-impeachment-e-breve-trajetoria-politica-de-witzel.shtml
-2021-04-29 18:47:49,503          root     INFO: Replying to: 1387841065105907720
-2021-04-29 18:47:49,780          root     INFO: Id to store: 1387841065781170181
-2021-04-29 18:47:52,149          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/04/a-defesa-do-ambiente-cresce-a-partir-da-base.shtml
-2021-04-29 18:47:55,056          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/desgaste-no-congresso-pode-enfraquecer-favorito-de-bolsonaro-em-disputa-por-vaga-no-supremo.shtml
-2021-04-29 18:47:55,063          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/02/banco-frances-nao-financiara-mais-empresas-que-exploram-terras-desmatadas-da-amazonia.shtml
-2021-04-29 18:47:55,067          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/ministros-do-tcu-recusam-convite-e-cafe-da-manha-com-bolsonaro-pode-virar-fiasco.shtml
-2021-04-29 18:47:55,072          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/cupula-morna.shtml
-2021-04-29 18:47:55,072          root     INFO: Finished script
+2021-04-29 19:09:23,675          root     INFO: Starting script
+2021-04-29 19:09:24,474          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-29 19:09:25,123          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-29 19:09:25,774          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-29 19:09:25,905          root     INFO: Parsing R7 - Brasil
+2021-04-29 19:09:32,852          root     INFO: Finished script
