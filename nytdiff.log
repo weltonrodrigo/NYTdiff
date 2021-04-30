@@ -1,15 +1,14 @@
-2021-04-30 00:16:54,160          root     INFO: Starting script
-2021-04-30 00:16:54,975          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 00:16:55,639          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 00:16:56,310          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 00:16:56,510          root     INFO: Parsing R7 - Brasil
-2021-04-30 00:16:59,246          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/nao-estamos-preocupados-com-cpi-e-trabalhamos-a-todo-vapor-diz-bolsonaro-no-dia-em-que-pais-atinge-400-mil-mortes.shtml
-2021-04-30 00:16:59,314          root     INFO: O plano de trabalho apresentado nesta quinta-feira (29) pelo relator da CPI da Covid, senador Renan Calheiros (MDB-AL), elenca seis linhas de <del>investigações</del> <ins>investigação</ins> que serão conduzidas pelos membros da comissão, sendo a primeira delas as ações do governo Jair Bolsonaro no enfrentamento da pandemia. Leia mais (04/29/2021 - 19h45)
-2021-04-30 00:17:01,050          root     INFO: Media ready with ids: 1387923908469436423
-2021-04-30 00:17:01,051          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-30 00:17:01,051          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/plano-de-renan-para-cpi-mira-vacinas-cloroquina-e-estrategia-de-comunicacao-do-governo-bolsonaro.shtml
-2021-04-30 00:17:01,059          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/plano-de-renan-para-cpi-mira-vacinas-cloroquina-e-estrategia-de-comunicacao-do-governo-bolsonaro.shtml
-2021-04-30 00:17:01,229          root     INFO: Replying to: 1387923909878616065
-2021-04-30 00:17:01,444          root     INFO: Id to store: 1387923910587465730
-2021-04-30 00:17:07,290          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/bolsonaro-diz-nao-se-preocupar-com-cpi-e-lula-e-cobra-governadores-para-nao-esticarem-a-corda.shtml
-2021-04-30 00:17:07,291          root     INFO: Finished script
+2021-04-30 01:37:31,268          root     INFO: Starting script
+2021-04-30 01:37:32,287          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 01:37:33,068          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 01:37:33,882          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 01:37:34,143          root     INFO: Parsing R7 - Brasil
+2021-04-30 01:37:34,333          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/04/foi-mal-psicanalise.shtml
+2021-04-30 01:37:34,351          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2021/04/kate-winslet-paira-acima-da-vida-ordinaria-imposta-em-mare-of-easttown.shtml
+2021-04-30 01:37:34,363          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/04/trump-volta-a-fox-para-lembrar-que-ele-nao-biden-e-o-pai-da-vacina.shtml
+2021-04-30 01:37:37,050          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2021/04/guedes-critica-excessos-do-fies-e-diz-que-filho-de-porteiro-foi-aprovado-com-nota-zero.shtml
+2021-04-30 01:37:42,517          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/04/joelhada-na-policia-federal-e-a-mais-letal-encrenca-em-que-ricardo-salles-se-meteu.shtml
+2021-04-30 01:37:42,522          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/04/carta-entregue-a-joe-biden-foi-marquetagem-impropria-e-incompetente.shtml
+2021-04-30 01:37:42,527          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/04/o-aerosol-ta-mutado.shtml
+2021-04-30 01:37:42,531          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/mourao-diz-que-exercito-nao-pode-ser-julgado-pela-atuacao-de-pazuello-na-pandemia.shtml
+2021-04-30 01:37:42,532          root     INFO: Finished script
