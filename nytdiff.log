@@ -1,12 +1,8 @@
-2021-04-30 13:08:15,219          root     INFO: Starting script
-2021-04-30 13:08:16,057          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 13:08:16,746          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 13:08:17,448          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 13:08:17,716          root     INFO: Parsing R7 - Brasil
-2021-04-30 13:08:17,867          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2021/04/o-sono-esse-misterioso.shtml
-2021-04-30 13:08:17,881          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/terra-vegana/2021/04/carta-aberta-ao-meu-irmao-que-defende-a-amazonia-mas-que-ainda-come-bife.shtml
-2021-04-30 13:08:20,692          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/procurador-pede-investigacao-sobre-peticao-eletronica-que-defende-proibicao-de-casamento-interracial.shtml
-2021-04-30 13:08:26,683          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/indefinicao-nacional-embaralha-aliancas-para-eleicao-ao-governo-do-rio.shtml
-2021-04-30 13:08:26,688          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/04/por-que-o-stf-esta-na-berlinda.shtml
-2021-04-30 13:08:26,693          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2021/04/existira-uma-ia-de-fato-inteligente.shtml
-2021-04-30 13:08:26,694          root     INFO: Finished script
+2021-04-30 13:38:17,109          root     INFO: Starting script
+2021-04-30 13:38:17,951          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 13:38:18,643          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 13:38:19,322          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 13:38:19,595          root     INFO: Parsing R7 - Brasil
+2021-04-30 13:38:24,812          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/governo-bolsonaro-afrouxa-regra-em-noronha-e-permite-construcao-com-mais-de-450-metros-quadrados.shtml
+2021-04-30 13:38:27,599          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/02/industria-do-aco-uma-das-mais-poluentes-do-mundo-quer-melhorar-sustentabilidade.shtml
+2021-04-30 13:38:27,600          root     INFO: Finished script
