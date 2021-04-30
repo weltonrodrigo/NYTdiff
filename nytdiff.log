@@ -1,13 +1,12 @@
-2021-04-30 22:56:44,067          root     INFO: Starting script
-2021-04-30 22:56:44,888          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 22:56:45,543          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 22:56:46,202          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 22:56:46,361          root     INFO: Parsing R7 - Brasil
-2021-04-30 22:56:49,235          root     INFO: O procurador da República Aldo de Campos Costa pediu uma investigação sobre uma petição eletrônica denominada <del>"Pela</del> <ins>“Pela</ins> proibição do casamento interracial no <del>Brasil",</del> <ins>Brasil”,</ins> cujo conteúdo, segundo ele, pode ser entendido como crime de preconceito racial. Leia mais (04/30/2021 - 10h00)
-2021-04-30 22:56:51,044          root     INFO: Media ready with ids: 1388266121598537729
-2021-04-30 22:56:51,044          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-30 22:56:51,045          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/procurador-pede-investigacao-sobre-peticao-eletronica-que-defende-proibicao-de-casamento-interracial.shtml
-2021-04-30 22:56:51,054          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/procurador-pede-investigacao-sobre-peticao-eletronica-que-defende-proibicao-de-casamento-interracial.shtml
-2021-04-30 22:56:51,220          root     INFO: Replying to: 1388266123125264392
-2021-04-30 22:56:51,458          root     INFO: Id to store: 1388266123901165570
-2021-04-30 22:56:56,564          root     INFO: Finished script
+2021-04-30 23:11:35,753          root     INFO: Starting script
+2021-04-30 23:11:36,571          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 23:11:37,227          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 23:11:37,882          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 23:11:38,154          root     INFO: Parsing R7 - Brasil
+2021-04-30 23:11:40,571          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/abatido-witzel-vira-estatistica-apos-10-a-0-assim-como-as-mortes-que-defendeu.shtml
+2021-04-30 23:11:40,584          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/moraes-pede-ao-tse-e-ao-tcu-que-apurem-repasses-a-empresas-de-disparo-em-massa-de-mensagens.shtml
+2021-04-30 23:11:42,820          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/04/em-reuniao-com-salles-e-franca-enviado-de-biden-trata-de-novos-objetivos-ambientais.shtml
+2021-04-30 23:11:45,481          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/com-cpi-planalto-atua-por-submersao-de-pazuello-e-narrativa-de-escassez-mundial-para-falta-de-vacinas.shtml
+2021-04-30 23:11:45,485          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/base-de-bolsonaro-mostra-resistencia-ao-nome-de-andre-mendonca-para-o-stf.shtml
+2021-04-30 23:11:45,489          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/02/mais-do-que-nunca-precisamos-de-uma-quarta-feira-de-cinzas.shtml
+2021-04-30 23:11:45,490          root     INFO: Finished script
