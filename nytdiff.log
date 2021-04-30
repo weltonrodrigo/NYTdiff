@@ -1,22 +1,6 @@
-2021-04-30 19:29:29,554          root     INFO: Starting script
-2021-04-30 19:29:30,517          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 19:29:31,302          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 19:29:32,088          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 19:29:32,328          root     INFO: Parsing R7 - Brasil
-2021-04-30 19:29:32,556          root     INFO: Filosofar sobre o sentido da vida, a <del>essa</del> <ins>esta</ins> altura do campeonato, é coisa de "gente perturbada ou de verve cômica", escreve o crítico inglês Terry Eagleton. Como a proposição está na segunda linha de "O Sentido da Vida ? Uma Brevíssima Introdução", ela embute uma pergunta que não quer calar: Eagleton é doido ou palhaço? Leia mais (04/30/2021 - 15h21)
-2021-04-30 19:29:34,378          root     INFO: Media ready with ids: 1388213958516125706
-2021-04-30 19:29:34,379          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-30 19:29:34,379          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/04/brasil-comecou-a-desmoronar-quando-o-pt-aderiu-a-volupia-do-futebol.shtml
-2021-04-30 19:29:34,388          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/04/brasil-comecou-a-desmoronar-quando-o-pt-aderiu-a-volupia-do-futebol.shtml
-2021-04-30 19:29:34,658          root     INFO: Replying to: 1388213960353239040
-2021-04-30 19:29:34,938          root     INFO: Id to store: 1388213961271693315
-2021-04-30 19:29:37,352          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/apos-denuncia-da-funai-pf-intima-lider-indigena-a-depor-por-difamacao-contra-governo-federal.shtml
-2021-04-30 19:29:37,501          root     INFO: Articulação do Planalto para CPI <del>da Covid</del> tem disputa entre ministros e deixa <del>senadores</del> <ins>minoria governista</ins> sem munição
-2021-04-30 19:29:39,302          root     INFO: Media ready with ids: 1388213978812329984
-2021-04-30 19:29:39,302          root     INFO: Text to tweet: Modificação do Título
-2021-04-30 19:29:39,302          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/articulacao-do-planalto-para-cpi-da-covid-tem-disputa-entre-ministros-e-deixa-senadores-sem-municao.shtml
-2021-04-30 19:29:39,310          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/articulacao-do-planalto-para-cpi-da-covid-tem-disputa-entre-ministros-e-deixa-senadores-sem-municao.shtml
-2021-04-30 19:29:39,542          root     INFO: Replying to: 1388213980825522183
-2021-04-30 19:29:39,807          root     INFO: Id to store: 1388213981723119623
-2021-04-30 19:29:44,795          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/da-cloroquina-a-vacina-confrontos-de-bolsonaro-na-pandemia-devem-ser-alvo-de-cpi.shtml
-2021-04-30 19:29:44,796          root     INFO: Finished script
+2021-04-30 19:46:54,387          root     INFO: Starting script
+2021-04-30 19:46:55,225          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 19:46:55,906          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 19:46:56,585          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 19:46:56,892          root     INFO: Parsing R7 - Brasil
+2021-04-30 19:47:05,585          root     INFO: Finished script
