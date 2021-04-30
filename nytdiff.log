@@ -1,6 +1,19 @@
-2021-04-30 19:46:54,387          root     INFO: Starting script
-2021-04-30 19:46:55,225          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 19:46:55,906          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 19:46:56,585          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 19:46:56,892          root     INFO: Parsing R7 - Brasil
-2021-04-30 19:47:05,585          root     INFO: Finished script
+2021-04-30 19:57:43,385          root     INFO: Starting script
+2021-04-30 19:57:44,533          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 19:57:45,327          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 19:57:46,113          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 19:57:46,369          root     INFO: Parsing R7 - Brasil
+2021-04-30 19:57:49,042          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/tribunal-forma-maioria-pelo-impeachment-de-witzel-do-governo-do-rj.shtml
+2021-04-30 19:57:53,704          root     INFO: New article tracked: http://noticias.r7.com/brasil/arthur-lira-afirma-que-reforma-tributaria-e-prioridade-na-camara-30042021
+2021-04-30 19:57:53,718          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-tera-cuidado-de-poupar-as-forcas-armadas-30042021
+2021-04-30 19:57:53,731          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-diz-que-fies-bancou-filho-de-porteiro-que-tirou-zero-em-provas-30042021
+2021-04-30 19:57:53,747          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-diz-que-crianca-nao-sabe-ler-mas-sabe-usar-camisinha-30042021
+2021-04-30 19:57:53,762          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-confirma-saida-de-militares-da-amazonia-ficam-de-stand-by-30042021
+2021-04-30 19:57:53,774          root     INFO: New article tracked: http://noticias.r7.com/brasil/sp-exigira-pedido-e-crm-do-medico-para-vacinar-hipertenso-e-diabetico-30042021
+2021-04-30 19:57:53,787          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-incoerencias-comecam-no-sistema-de-ensino-30042021
+2021-04-30 19:57:53,799          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-acumulada-promete-pagar-r-34-milhoes-nesta-sexta-30042021
+2021-04-30 19:57:53,813          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-do-clube-militar-defende-golpe-para-restabelecer-ordem-30042021
+2021-04-30 19:57:53,827          root     INFO: New article tracked: http://noticias.r7.com/brasil/3-em-cada-4-pessoas-conhecem-uma-vitima-de-covid-no-brasil-30042021
+2021-04-30 19:57:53,995          root     INFO: New article tracked: http://noticias.r7.com/brasil/primeiro-lote-de-vacinas-da-pfizer-com-1-milhao-de-doses-chega-a-sp-30042021
+2021-04-30 19:57:54,057          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/renan-calheiros-e-pacheco-restringem-acesso-do-publico-as-suas-contas-no-twitter.shtml
+2021-04-30 19:57:54,058          root     INFO: Finished script
