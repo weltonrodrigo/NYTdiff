@@ -1,13 +1,8 @@
-2021-04-30 21:25:47,303          root     INFO: Starting script
-2021-04-30 21:25:48,116          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 21:25:48,782          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 21:25:49,450          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 21:25:49,733          root     INFO: Parsing R7 - Brasil
-2021-04-30 21:25:52,360          root     INFO: O Tribunal Especial Misto já tem votos suficientes pelo afastamento em definitivo de Wilson Witzel (PSC) do Governo do Rio de Janeiro. <del>Sete</del> <ins>Oito</ins> membros do colegiado defenderam nesta sexta-feira (30) a condenação dele por crime de responsabilidade, atingindo os dois terços do colegiado necessários para o resultado. Leia mais (04/30/2021 - 16h46)
-2021-04-30 21:25:54,117          root     INFO: Media ready with ids: 1388243233587843072
-2021-04-30 21:25:54,117          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-30 21:25:54,117          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/tribunal-forma-maioria-pelo-impeachment-de-witzel-do-governo-do-rj.shtml
-2021-04-30 21:25:54,127          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/tribunal-forma-maioria-pelo-impeachment-de-witzel-do-governo-do-rj.shtml
-2021-04-30 21:25:54,338          root     INFO: Replying to: 1388243235303211010
-2021-04-30 21:25:54,601          root     INFO: Id to store: 1388243236091748353
-2021-04-30 21:25:59,826          root     INFO: Finished script
+2021-04-30 21:40:55,838          root     INFO: Starting script
+2021-04-30 21:40:56,809          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 21:40:57,597          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 21:40:58,382          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 21:40:58,628          root     INFO: Parsing R7 - Brasil
+2021-04-30 21:40:58,784          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/acabar-com-os-pobres-nao-com-a-pobreza.shtml
+2021-04-30 21:41:07,555          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/reforma-prioritaria.shtml
+2021-04-30 21:41:07,556          root     INFO: Finished script
