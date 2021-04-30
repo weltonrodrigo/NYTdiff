@@ -1,21 +1,15 @@
-2021-04-29 23:55:26,457          root     INFO: Starting script
-2021-04-29 23:55:27,408          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-29 23:55:28,198          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-29 23:55:28,978          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-29 23:55:29,230          root     INFO: Parsing R7 - Brasil
-2021-04-29 23:55:31,861          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/ex-corregedor-que-atuou-nas-gestoes-alckmin-franca-e-doria-e-absolvido-em-caso-de-bunker-com-us-180-mil.shtml
-2021-04-29 23:55:32,026          root     INFO: <del>Procurador</del> <ins>MPF</ins> admite que denúncia <del>contra</del> <ins>não levaria à condenação de</ins> Joesley e <del>Fernando</del> Pimentel <del>era inepta</del>
-2021-04-29 23:55:34,224          root     INFO: Media ready with ids: 1387918509741588482
-2021-04-29 23:55:34,225          root     INFO: Text to tweet: Modificação do Título
-2021-04-29 23:55:34,225          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49541
-2021-04-29 23:55:34,237          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49541
-2021-04-29 23:55:34,538          root     INFO: Replying to: 1387918513050902538
-2021-04-29 23:55:34,809          root     INFO: Id to store: 1387918514015584264
-2021-04-29 23:55:34,815          root     INFO: O procurador da República Carlos Bruno Ferreira da Silva, de Minas Gerais, <del>enviou ofício ao juiz federal Jorge Gustavo Serra de Macêdo Costa em que admite</del> <ins>admitiu -em manifestação do MPF nos autos-</ins> que não havia condições para o <del>magistrado</del> <ins>juiz Jorge Gustavo Serra de Macêdo Costa</ins> receber uma denúncia contra o empresário Joesley Batista, o ex-governador de Minas Gerais, Fernando Pimentel, e outros acusados. Na última segunda-feira (26), <ins>o</ins> [...] Leia mais (04/29/2021 - 14h55)
-2021-04-29 23:55:36,646          root     INFO: Media ready with ids: 1387918521145991168
-2021-04-29 23:55:36,647          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-29 23:55:36,647          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49541
-2021-04-29 23:55:36,656          root     INFO: Replying to: 1387918514015584264
-2021-04-29 23:55:36,950          root     INFO: Id to store: 1387918522920144898
-2021-04-29 23:55:42,139          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/governo-do-para-aciona-stf-para-importar-e-usar-vacina-russa-sputnik-v.shtml
-2021-04-29 23:55:42,140          root     INFO: Finished script
+2021-04-30 00:16:54,160          root     INFO: Starting script
+2021-04-30 00:16:54,975          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 00:16:55,639          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 00:16:56,310          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 00:16:56,510          root     INFO: Parsing R7 - Brasil
+2021-04-30 00:16:59,246          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/nao-estamos-preocupados-com-cpi-e-trabalhamos-a-todo-vapor-diz-bolsonaro-no-dia-em-que-pais-atinge-400-mil-mortes.shtml
+2021-04-30 00:16:59,314          root     INFO: O plano de trabalho apresentado nesta quinta-feira (29) pelo relator da CPI da Covid, senador Renan Calheiros (MDB-AL), elenca seis linhas de <del>investigações</del> <ins>investigação</ins> que serão conduzidas pelos membros da comissão, sendo a primeira delas as ações do governo Jair Bolsonaro no enfrentamento da pandemia. Leia mais (04/29/2021 - 19h45)
+2021-04-30 00:17:01,050          root     INFO: Media ready with ids: 1387923908469436423
+2021-04-30 00:17:01,051          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-30 00:17:01,051          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/plano-de-renan-para-cpi-mira-vacinas-cloroquina-e-estrategia-de-comunicacao-do-governo-bolsonaro.shtml
+2021-04-30 00:17:01,059          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/plano-de-renan-para-cpi-mira-vacinas-cloroquina-e-estrategia-de-comunicacao-do-governo-bolsonaro.shtml
+2021-04-30 00:17:01,229          root     INFO: Replying to: 1387923909878616065
+2021-04-30 00:17:01,444          root     INFO: Id to store: 1387923910587465730
+2021-04-30 00:17:07,290          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/bolsonaro-diz-nao-se-preocupar-com-cpi-e-lula-e-cobra-governadores-para-nao-esticarem-a-corda.shtml
+2021-04-30 00:17:07,291          root     INFO: Finished script
