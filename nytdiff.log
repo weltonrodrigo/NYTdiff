@@ -1,27 +1,6 @@
-2021-04-30 17:29:55,319          root     INFO: Starting script
-2021-04-30 17:29:56,183          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 17:29:56,843          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 17:29:57,513          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 17:29:57,678          root     INFO: Parsing R7 - Brasil
-2021-04-30 17:29:57,813          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/04/proprio-da-cultura-brasileira-plano-b-atormenta-jogos-olimpicos-no-japao.shtml
-2021-04-30 17:29:57,946          root     INFO: Ficção científica <del>traz inéditos de</del> <ins>investe em clássicos como</ins> Octavia Butler e <del>Isaac Asimov neste ano</del> <ins>aposta em novos nomes</ins>
-2021-04-30 17:29:59,639          root     INFO: Media ready with ids: 1388183865672491011
-2021-04-30 17:29:59,640          root     INFO: Text to tweet: Modificação do Título
-2021-04-30 17:29:59,640          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/04/ficcao-cientifica-traz-ineditos-de-octavia-butler-e-isaac-asimov-neste-ano.shtml
-2021-04-30 17:29:59,648          root     INFO: Replying to: 1388153981122269188
-2021-04-30 17:29:59,896          root     INFO: Id to store: 1388183867035693065
-2021-04-30 17:29:59,902          root     INFO: Na safra de ficção científica deste ano, as editoras preparam investimentos em autores já consagrados, como Octavia Butler e Isaac Asimov, e <del>apostas</del> <ins>apostam</ins> em raridades. Leia mais (04/30/2021 - 09h00)
-2021-04-30 17:30:04,601          root     INFO: Media ready with ids: 1388183886291668995
-2021-04-30 17:30:04,602          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-30 17:30:04,602          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/04/ficcao-cientifica-traz-ineditos-de-octavia-butler-e-isaac-asimov-neste-ano.shtml
-2021-04-30 17:30:04,610          root     INFO: Replying to: 1388183867035693065
-2021-04-30 17:30:04,856          root     INFO: Id to store: 1388183887805886467
-2021-04-30 17:30:06,936          root     INFO: O deputado estadual Waldeck Carneiro (PT), relator do processo de impeachment do governador afastado do Rio de Janeiro, Wilson Witzel (PSC), votou <ins>nesta sexta-feira (30)</ins> pela retirada definitiva do acusado do cargo. Waldeck também defendeu que o governador afastado tenha os direitos políticos cassados por cinco anos. Leia mais (04/30/2021 - 13h41)
-2021-04-30 17:30:08,657          root     INFO: Media ready with ids: 1388183903261888518
-2021-04-30 17:30:08,658          root     INFO: Text to tweet: Modificação da Descrição
-2021-04-30 17:30:08,658          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/relator-de-tribunal-misto-vota-pelo-impeachment-de-witzel-governador-afastado-do-rio.shtml
-2021-04-30 17:30:08,666          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/relator-de-tribunal-misto-vota-pelo-impeachment-de-witzel-governador-afastado-do-rio.shtml
-2021-04-30 17:30:08,819          root     INFO: Replying to: 1388183904683798532
-2021-04-30 17:30:09,081          root     INFO: Id to store: 1388183905329627137
-2021-04-30 17:30:13,799          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/04/stf-o-crime-compensa.shtml
-2021-04-30 17:30:13,800          root     INFO: Finished script
+2021-04-30 18:08:55,731          root     INFO: Starting script
+2021-04-30 18:08:56,578          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 18:08:57,267          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 18:08:57,954          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 18:08:58,091          root     INFO: Parsing R7 - Brasil
+2021-04-30 18:09:06,514          root     INFO: Finished script
