@@ -1,6 +1,10 @@
-2021-04-30 13:57:43,874          root     INFO: Starting script
-2021-04-30 13:57:44,673          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 13:57:45,332          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 13:57:46,004          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 13:57:46,242          root     INFO: Parsing R7 - Brasil
-2021-04-30 13:57:53,261          root     INFO: Finished script
+2021-04-30 14:25:55,056          root     INFO: Starting script
+2021-04-30 14:25:56,021          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 14:25:56,804          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 14:25:57,601          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 14:25:57,884          root     INFO: Parsing R7 - Brasil
+2021-04-30 14:25:58,027          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2021/04/no-mercado-de-acoes-quem-chora-quando-a-vale-ri.shtml
+2021-04-30 14:26:00,445          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/articulacao-do-planalto-para-cpi-da-covid-tem-disputa-entre-ministros-e-deixa-senadores-sem-municao.shtml
+2021-04-30 14:26:06,017          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2021/04/chega-de-passar-pano-quando-ha-crime.shtml
+2021-04-30 14:26:06,022          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/04/congresso-governo-e-stf-juntos-enterram-o-combate-a-corrupcao-no-brasil.shtml
+2021-04-30 14:26:06,023          root     INFO: Finished script
