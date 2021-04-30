@@ -1,6 +1,10 @@
-2021-04-30 18:08:55,731          root     INFO: Starting script
-2021-04-30 18:08:56,578          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 18:08:57,267          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 18:08:57,954          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 18:08:58,091          root     INFO: Parsing R7 - Brasil
-2021-04-30 18:09:06,514          root     INFO: Finished script
+2021-04-30 18:47:02,449          root     INFO: Starting script
+2021-04-30 18:47:03,253          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 18:47:03,904          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 18:47:04,556          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 18:47:04,791          root     INFO: Parsing R7 - Brasil
+2021-04-30 18:47:04,968          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/04/brasil-comecou-a-desmoronar-quando-o-pt-aderiu-a-volupia-do-futebol.shtml
+2021-04-30 18:47:07,129          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/pandemia-empareda-governadores-bolsonaristas-e-escancara-contradicoes.shtml
+2021-04-30 18:47:11,522          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2021/04/calcule-quanto-voce-paga-para-investir.shtml
+2021-04-30 18:47:11,527          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/embaixadores-da-america-latina-e-europa-buscam-dialogo-com-lula.shtml
+2021-04-30 18:47:11,528          root     INFO: Finished script
