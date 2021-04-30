@@ -1,6 +1,24 @@
-2021-04-30 14:57:49,744          root     INFO: Starting script
-2021-04-30 14:57:50,562          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 14:57:51,232          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 14:57:51,891          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 14:57:52,040          root     INFO: Parsing R7 - Brasil
-2021-04-30 14:57:59,386          root     INFO: Finished script
+2021-04-30 15:31:10,005          root     INFO: Starting script
+2021-04-30 15:31:10,836          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 15:31:11,504          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 15:31:12,181          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 15:31:12,285          root     INFO: Parsing R7 - Brasil
+2021-04-30 15:31:12,480          root     INFO: Na safra de ficção científica deste ano, as editoras preparam investimentos em autores já consagrados, como Octavia Butler e Isaac Asimov, e <del>apostas</del> <ins>apostam</ins> em raridades. Leia mais (04/30/2021 - 09h00)
+2021-04-30 15:31:14,136          root     INFO: Media ready with ids: 1388153978970587139
+2021-04-30 15:31:14,137          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-30 15:31:14,137          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/04/ficcao-cientifica-traz-ineditos-de-octavia-butler-e-isaac-asimov-neste-ano.shtml
+2021-04-30 15:31:14,145          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/04/ficcao-cientifica-traz-ineditos-de-octavia-butler-e-isaac-asimov-neste-ano.shtml
+2021-04-30 15:31:14,305          root     INFO: Replying to: 1388153980346408962
+2021-04-30 15:31:14,537          root     INFO: Id to store: 1388153981122269188
+2021-04-30 15:31:16,618          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/fachin-envia-a-deputados-carta-que-critica-debate-sobre-extinguir-cota-de-30-de-candidaturas-femininas.shtml
+2021-04-30 15:31:17,082          root     INFO: O apresentador Luciano Huck e o ex-governador Geraldo Alckmin (PSDB-SP) tiveram um encontro virtual nesta quinta-feira (29), no momento em que ambos se movimentam nos bastidores com vistas às eleições de 2022 <del>-o</del> <ins>—o</ins> primeiro com foco na Presidência e o segundo de olho no Governo de São Paulo. Leia mais (04/29/2021 - 15h41)
+2021-04-30 15:31:19,013          root     INFO: Media ready with ids: 1388153998486683648
+2021-04-30 15:31:19,013          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-30 15:31:19,013          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/pre-candidato-oculto-huck-procura-alckmin-e-ouve-palavras-de-incentivo-em-conversa-sobre-2022.shtml
+2021-04-30 15:31:19,021          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/pre-candidato-oculto-huck-procura-alckmin-e-ouve-palavras-de-incentivo-em-conversa-sobre-2022.shtml
+2021-04-30 15:31:19,277          root     INFO: Replying to: 1388154000894218240
+2021-04-30 15:31:19,521          root     INFO: Id to store: 1388154001972158467
+2021-04-30 15:31:21,282          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/virou-um-inquerito-politiqueiro-diz-advogado-de-empresa-investigada-pela-pf-por-madeira-ilegal.shtml
+2021-04-30 15:31:23,889          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/bolsonaro-esta-muito-devedor-com-evangelicos-diz-deputado-que-lidera-segmento-no-congresso.shtml
+2021-04-30 15:31:23,893          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/02/mato-grosso-transforma-seu-destino-com-boom-movido-por-china-fe-e-bolsonaro.shtml
+2021-04-30 15:31:23,894          root     INFO: Finished script
