@@ -1,6 +1,18 @@
-2021-04-30 21:58:07,744          root     INFO: Starting script
-2021-04-30 21:58:08,648          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-04-30 21:58:09,299          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-04-30 21:58:09,958          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-04-30 21:58:10,136          root     INFO: Parsing R7 - Brasil
-2021-04-30 21:58:17,879          root     INFO: Finished script
+2021-04-30 22:31:49,835          root     INFO: Starting script
+2021-04-30 22:31:50,642          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-04-30 22:31:51,298          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-04-30 22:31:51,963          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-04-30 22:31:52,194          root     INFO: Parsing R7 - Brasil
+2021-04-30 22:31:54,535          root     INFO: <del>Tribunal forma maioria pelo</del> <ins>Por 10 votos a 0, tribunal aprova</ins> impeachment de Witzel do Governo do RJ
+2021-04-30 22:31:56,246          root     INFO: Media ready with ids: 1388259852061925377
+2021-04-30 22:31:56,246          root     INFO: Text to tweet: Modificação do Título
+2021-04-30 22:31:56,246          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/tribunal-forma-maioria-pelo-impeachment-de-witzel-do-governo-do-rj.shtml
+2021-04-30 22:31:56,254          root     INFO: Replying to: 1388249977986682881
+2021-04-30 22:31:56,471          root     INFO: Id to store: 1388259853479682048
+2021-04-30 22:31:56,478          root     INFO: O Tribunal Especial Misto <del>já tem votos suficientes pelo</del> <ins>aprovou por unanimidade o</ins> afastamento em definitivo de Wilson Witzel (PSC) do Governo do Rio de Janeiro. <del>Sete</del> <ins>Os dez</ins> membros do colegiado defenderam nesta sexta-feira (30) a condenação <del>dele</del> <ins>do ex-juiz</ins> por crime de responsabilidade, <del>atingindo</del> <ins>superando</ins> os dois terços do colegiado necessários para o <del>resultado.</del> <ins>impeachment.</ins> Leia mais (04/30/2021 - 16h46)
+2021-04-30 22:31:58,142          root     INFO: Media ready with ids: 1388259859938807809
+2021-04-30 22:31:58,143          root     INFO: Text to tweet: Modificação da Descrição
+2021-04-30 22:31:58,143          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/tribunal-forma-maioria-pelo-impeachment-de-witzel-do-governo-do-rj.shtml
+2021-04-30 22:31:58,150          root     INFO: Replying to: 1388259853479682048
+2021-04-30 22:31:58,375          root     INFO: Id to store: 1388259861469728774
+2021-04-30 22:32:03,820          root     INFO: Finished script
