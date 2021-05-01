@@ -1,6 +1,24 @@
-2021-05-01 16:47:40,445          root     INFO: Starting script
-2021-05-01 16:47:41,415          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-01 16:47:42,200          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-01 16:47:43,010          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-01 16:47:43,259          root     INFO: Parsing R7 - Brasil
-2021-05-01 16:47:51,554          root     INFO: Finished script
+2021-05-01 17:30:06,728          root     INFO: Starting script
+2021-05-01 17:30:07,762          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-01 17:30:08,543          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-01 17:30:09,317          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-01 17:30:09,570          root     INFO: Parsing R7 - Brasil
+2021-05-01 17:30:09,739          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2021/05/estudo-mostra-como-ouvido-interno-de-dinos-e-aves-evoluiu-para-que-eles-corressem-e-voassem.shtml
+2021-05-01 17:30:09,755          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/05/o-futebol-e-complexo-nos-e-que-tentamos-simplifica-lo-com-racionalizacoes.shtml
+2021-05-01 17:30:12,158          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/incerteza-faz-supremo-congelar-julgamento-da-vaza-jato-e-joga-dialogos-em-limbo-juridico.shtml
+2021-05-01 17:30:12,198          root     INFO: <del>Cláudio Castro toma posse como governador do Rio após</del> <ins>Após</ins> impeachment de Witzel <ins>no RJ, Cláudio Castro promete 'inaugurar estrada de retidão e ética'</ins>
+2021-05-01 17:30:14,319          root     INFO: Media ready with ids: 1388546314020040704
+2021-05-01 17:30:14,319          root     INFO: Text to tweet: Modificação do Título
+2021-05-01 17:30:14,320          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/claudio-castro-toma-posse-como-governador-do-rio-apos-impeachment-de-witzel.shtml
+2021-05-01 17:30:14,328          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/claudio-castro-toma-posse-como-governador-do-rio-apos-impeachment-de-witzel.shtml
+2021-05-01 17:30:14,543          root     INFO: Replying to: 1388546316511371266
+2021-05-01 17:30:14,835          root     INFO: Id to store: 1388546317480349699
+2021-05-01 17:30:19,713          root     INFO: New article tracked: http://noticias.r7.com/brasil/escolas-particulares-perdem-um-terco-das-matriculas-na-pandemia-01052021
+2021-05-01 17:30:19,728          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-comemora-menos-multa-no-campo-e-quer-que-indio-produza-01052021
+2021-05-01 17:30:19,741          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/cpi-da-covid-e-declaracoes-de-guedes-marcam-a-semana-01052021
+2021-05-01 17:30:19,752          root     INFO: New article tracked: http://noticias.r7.com/brasil/dia-do-trabalho-pandemia-fecha-72-mil-vagas-de-jovens-aprendizes-01052021
+2021-05-01 17:30:19,763          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-lote-com-4-milhoes-de-doses-de-vacina-no-fim-de-semana-01052021
+2021-05-01 17:30:20,169          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/04/mundo-olimpico-aguarda-toquio-como-palco-esportivo-e-talvez-cenario-de-protestos.shtml
+2021-05-01 17:30:20,174          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/ignorada-pelo-senado-e-derrubada-por-tribunal-decisao-judicial-que-barrava-renan-e-absurda-dizem-especialistas.shtml
+2021-05-01 17:30:20,180          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/04/o-cara-da-casa-de-vidro.shtml
+2021-05-01 17:30:20,184          root     INFO: Finished script
