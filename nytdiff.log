@@ -1,15 +1,48 @@
-2021-05-01 01:43:50,285          root     INFO: Starting script
-2021-05-01 01:43:51,271          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-01 01:43:52,039          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-01 01:43:52,810          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-01 01:43:53,012          root     INFO: Parsing R7 - Brasil
-2021-05-01 01:43:53,175          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/04/nos-eua-como-na-china-estado-tenta-conter-o-poder-do-big-tech.shtml
-2021-05-01 01:43:55,404          root     INFO: Após denúncia da Funai, PF intima líder indígena a depor <del>por difamação contra</del> <ins>sob a acusação de difamar</ins> governo federal
-2021-05-01 01:43:57,208          root     INFO: Media ready with ids: 1388308174462148610
-2021-05-01 01:43:57,209          root     INFO: Text to tweet: Modificação do Título
-2021-05-01 01:43:57,209          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/apos-denuncia-da-funai-pf-intima-lider-indigena-a-depor-por-difamacao-contra-governo-federal.shtml
-2021-05-01 01:43:57,222          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/apos-denuncia-da-funai-pf-intima-lider-indigena-a-depor-por-difamacao-contra-governo-federal.shtml
-2021-05-01 01:43:57,499          root     INFO: Replying to: 1388308176320278537
-2021-05-01 01:43:57,799          root     INFO: Id to store: 1388308177335300099
-2021-05-01 01:44:02,608          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/a-cultura-asfixiada-e-os-seus-algozes.shtml
-2021-05-01 01:44:02,609          root     INFO: Finished script
+2021-05-01 02:33:23,544          root     INFO: Starting script
+2021-05-01 02:33:24,510          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-01 02:33:25,311          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-01 02:33:26,105          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-01 02:33:26,510          root     INFO: Parsing R7 - Brasil
+2021-05-01 02:33:26,682          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/04/o-futuro-e-sombrio.shtml
+2021-05-01 02:33:26,696          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/04/cpi-da-autodestruicao.shtml
+2021-05-01 02:33:26,709          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/biden-cem-dias.shtml
+2021-05-01 02:33:26,725          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/04/o-general-que-obedecia.shtml
+2021-05-01 02:33:26,737          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2021/04/arabes-israelenses-e-a-paz-quente.shtml
+2021-05-01 02:33:26,748          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/04/biden-guedes-e-a-casa-grande.shtml
+2021-05-01 02:33:26,759          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/mercosul-travado.shtml
+2021-05-01 02:33:26,773          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/04/por-que-bolsonaro.shtml
+2021-05-01 02:33:26,786          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/profissionais-de-aplicativos-devem-ter-legislacao-trabalhista-propria-nao.shtml
+2021-05-01 02:33:26,798          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/profissionais-de-aplicativos-devem-ter-legislacao-trabalhista-propria-sim.shtml
+2021-05-01 02:33:29,338          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/tiroteio-de-maio-veja-quem-sao-os-autores-dos-disparos-politicos-e-os-alvos-criticados-do-mes.shtml
+2021-05-01 02:33:29,357          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/alfredo-cotait-e-mara-gabrilli-sao-sugeridos-a-direcao-do-psd-como-candidatos-ao-governo-de-sp.shtml
+2021-05-01 02:33:29,372          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/cpi-mira-discursos-do-governo-e-levanta-200-falas-negacionistas-de-bolsonaro.shtml
+2021-05-01 02:33:29,384          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/seminario-internacional-online-e-gratuito-discute-liberdade-de-imprensa.shtml
+2021-05-01 02:33:29,398          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/gestao-covas-ja-fez-duas-reunioes-com-consulado-de-cuba-para-tratar-importacao-de-vacina-para-covid-19.shtml
+2021-05-01 02:33:29,412          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/04/o-general-que-obedecia.shtml
+2021-05-01 02:33:29,428          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/caiado-diz-que-vai-tentar-que-alckmin-seja-o-candidato-do-dem-ao-governo-de-sp-em-2022.shtml
+2021-05-01 02:33:29,443          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/partidos-de-oposicao-discutem-criacao-de-mesa-para-unificar-discurso-contra-bolsonaro.shtml
+2021-05-01 02:33:29,455          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/precisamos-de-mentes-criticas-em-tempos-criticos-diz-diretora-da-unesco.shtml
+2021-05-01 02:33:29,468          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/defesa-vai-pedir-arquivamento-de-investigacao-contra-otavio-fakhoury-em-inquerito-das-fake-news.shtml
+2021-05-01 02:33:29,481          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/entenda-quem-sao-os-principais-alvos-da-cpi-da-covid-e-o-que-pesa-contra-eles.shtml
+2021-05-01 02:33:35,290          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/em-derrota-para-bolsonaro-cpi-da-covid-e-instalada-com-minoria-governista-e-renan-na-relatoria.shtml
+2021-05-01 02:33:35,294          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/juristas-vao-fazer-ato-contra-intimacao-da-pf-a-boulos-com-base-na-lei-de-seguranca.shtml
+2021-05-01 02:33:35,298          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/energia-solar-a-quem-interessa-frear-seu-avanco-no-brasil.shtml
+2021-05-01 02:33:35,303          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/ciro-diz-que-brasil-teve-mesmo-modelo-com-fhc-lula-e-bolsonaro-em-novo-video-de-joao-santana.shtml
+2021-05-01 02:33:35,308          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/yascha-mounk/2021/04/paises-governados-por-populistas-como-brasil-e-mexico-sofrem-mais-com-a-pandemia.shtml
+2021-05-01 02:33:35,313          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/04/livros-almondegas-e-politica.shtml
+2021-05-01 02:33:35,317          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/provavel-presidente-da-cpi-da-covid-diz-que-indicara-renan-relator-apesar-de-decisao-judicial.shtml
+2021-05-01 02:33:35,322          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/mdb-de-renan-vai-denunciar-juiz-por-agressao-violenta-a-senador.shtml
+2021-05-01 02:33:35,327          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/relator-da-cpi-da-covid-renan-da-recado-ao-planalto-ataca-negacionismo-e-cobra-punicao-a-culpados.shtml
+2021-05-01 02:33:35,332          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/russia-reafirmou-em-reuniao-que-sputnik-e-segura-e-eficaz-diz-governador-wellington-dias.shtml
+2021-05-01 02:33:35,337          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/o-projeto-de-novo-codigo-de-processo-penal.shtml
+2021-05-01 02:33:35,341          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/tribunal-concede-foro-especial-a-eduardo-paes-em-acao-penal-por-suspeitas-em-gestoes-anteriores.shtml
+2021-05-01 02:33:35,346          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/04/os-conflitos-em-apure-e-a-responsabilidade-internacional-do-regime-venezuelano.shtml
+2021-05-01 02:33:35,351          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2021/04/guedes-diz-que-chines-inventou-o-virus-e-tem-vacina-menos-eficiente-do-que-os-eua.shtml
+2021-05-01 02:33:35,356          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/04/nomadland-vencedor-do-oscar-e-misto-de-tragedia-nobreza-e-liberdade.shtml
+2021-05-01 02:33:35,360          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/04/colar-um-adesivo-chamando-sergio-moro-de-heroi-no-carro-foi-longe-demais.shtml
+2021-05-01 02:33:35,365          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/terceira-via-e-miopia.shtml
+2021-05-01 02:33:35,370          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/04/com-saida-de-holan-futebol-brasileiro-mostra-seu-verdadeiro-cartao-de-visitas.shtml
+2021-05-01 02:33:35,375          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4298
+2021-05-01 02:33:35,379          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/senado-entra-com-recurso-para-derrubar-decisao-que-barra-renan-calheiros-na-cpi-da-covid.shtml
+2021-05-01 02:33:35,384          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helio-mattar/2021/04/vinte-anos-de-aprendizados-sobre-o-consumidor.shtml
+2021-05-01 02:33:35,384          root     INFO: Finished script
