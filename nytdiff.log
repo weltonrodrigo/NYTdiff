@@ -1,21 +1,6 @@
-2021-05-01 19:23:54,773          root     INFO: Starting script
-2021-05-01 19:23:55,617          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-01 19:23:56,301          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-01 19:23:56,988          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-01 19:23:57,156          root     INFO: Parsing R7 - Brasil
-2021-05-01 19:23:57,329          root     INFO: Corinthians e São Paulo jogarão pela 14ª vez no novo, e problemático, estádio alvinegro. <del>Fosse o Gre-Nal e teria número, Majestoso 348. Mas não tem. Tem muita história e uma escrita: desde 21 de setembro de 2014, data do primeiro em Itaquera, o Tricolor perdeu dez vezes e empatou três.</del> Leia mais (05/01/2021 - 16h00)
-2021-05-01 19:23:59,241          root     INFO: Media ready with ids: 1388574939737903111
-2021-05-01 19:23:59,242          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-01 19:23:59,242          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/05/a-quem-interessa-o-majestoso-deste-domingo.shtml
-2021-05-01 19:23:59,251          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/05/a-quem-interessa-o-majestoso-deste-domingo.shtml
-2021-05-01 19:23:59,443          root     INFO: Replying to: 1388574942267068419
-2021-05-01 19:23:59,666          root     INFO: Id to store: 1388574942959132673
-2021-05-01 19:23:59,759          root     INFO: São tantos jogos que não sei quais vejo. Em algumas partidas, pode-se afirmar, com convicção, que o planejamento tático, feito especialmente para aquele momento, foi determinante para a atuação e/ou o resultado, embora as decisões em campo sejam fundamentais. Os atletas são os avalizadores dos treinadores. <del>É óbvio que, para se formar um grande time, é preciso ter excelentes jogadores e um bom treinador. É evidente também que os craques brilham mais quando atuam em equipes com bom conjunto. Na goleada por 5 a 0 do Palmeiras sobre o Independiente del Valle, os planos de Abel Ferreira de pressionar, de recuperar a bola e de enfiá-la, rapidamente, entre os zagueiros adiantados, foram decisivos. Isso não significa que, sempre que os dois times se enfrentarem e usarem a mesma estratégia, vai ser dessa maneira.</del> Leia mais (05/01/2021 - 14h00)
-2021-05-01 19:24:01,607          root     INFO: Media ready with ids: 1388574950416691202
-2021-05-01 19:24:01,608          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-01 19:24:01,608          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/05/o-futebol-e-complexo-nos-e-que-tentamos-simplifica-lo-com-racionalizacoes.shtml
-2021-05-01 19:24:01,616          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/05/o-futebol-e-complexo-nos-e-que-tentamos-simplifica-lo-com-racionalizacoes.shtml
-2021-05-01 19:24:01,802          root     INFO: Replying to: 1388574952136269830
-2021-05-01 19:24:02,047          root     INFO: Id to store: 1388574952912269317
-2021-05-01 19:24:10,550          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/05/leda-quase-correu-de-danilo-e-agora-corre-todo-dia-por-ele.shtml
-2021-05-01 19:24:10,551          root     INFO: Finished script
+2021-05-01 19:32:44,600          root     INFO: Starting script
+2021-05-01 19:32:45,415          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-01 19:32:46,084          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-01 19:32:46,750          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-01 19:32:46,934          root     INFO: Parsing R7 - Brasil
+2021-05-01 19:32:53,018          root     INFO: Finished script
