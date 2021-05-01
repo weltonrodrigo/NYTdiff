@@ -1,8 +1,18 @@
-2021-05-01 20:30:19,550          root     INFO: Starting script
-2021-05-01 20:30:20,573          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-01 20:30:21,379          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-01 20:30:22,172          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-01 20:30:22,414          root     INFO: Parsing R7 - Brasil
-2021-05-01 20:30:22,554          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/cuba-o-castrismo-sem-castros.shtml
-2021-05-01 20:30:29,696          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/04/direitos-sao-conquistas-dos-povos-e-comunidades-tradicionais.shtml
-2021-05-01 20:30:29,697          root     INFO: Finished script
+2021-05-01 20:49:24,538          root     INFO: Starting script
+2021-05-01 20:49:25,560          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-01 20:49:26,352          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-01 20:49:27,123          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-01 20:49:27,396          root     INFO: Parsing R7 - Brasil
+2021-05-01 20:49:29,949          root     INFO: Cláudio Castro <del>toma posse como governador</del> <ins>diz que RJ virou 'Geni</ins> do <del>Rio</del> <ins>Brasil' e promete 'estrada de ética'</ins> após impeachment de Witzel
+2021-05-01 20:49:31,812          root     INFO: Media ready with ids: 1388596468244697092
+2021-05-01 20:49:31,813          root     INFO: Text to tweet: Modificação do Título
+2021-05-01 20:49:31,813          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/claudio-castro-toma-posse-como-governador-do-rio-apos-impeachment-de-witzel.shtml
+2021-05-01 20:49:31,823          root     INFO: Replying to: 1388546317480349699
+2021-05-01 20:49:32,134          root     INFO: Id to store: 1388596470077693956
+2021-05-01 20:49:32,141          root     INFO: Após o impeachment de Wilson Witzel (PSC), <del>com votação de 10 a 0 no julgamento,</del> Cláudio Castro (PSC), aliado do presidente Jair Bolsonaro, assumiu em definitivo o Governo do Rio na manhã deste sábado (1º). Leia mais (05/01/2021 - 11h57)
+2021-05-01 20:49:33,883          root     INFO: Media ready with ids: 1388596476943683586
+2021-05-01 20:49:33,884          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-01 20:49:33,884          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/claudio-castro-toma-posse-como-governador-do-rio-apos-impeachment-de-witzel.shtml
+2021-05-01 20:49:33,898          root     INFO: Replying to: 1388596470077693956
+2021-05-01 20:49:34,223          root     INFO: Id to store: 1388596478671822857
+2021-05-01 20:49:39,350          root     INFO: Finished script
