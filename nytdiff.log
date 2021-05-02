@@ -1,6 +1,10 @@
-2021-05-02 04:01:53,432          root     INFO: Starting script
-2021-05-02 04:01:54,249          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-02 04:01:54,921          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-02 04:01:55,592          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-02 04:01:55,781          root     INFO: Parsing R7 - Brasil
-2021-05-02 04:02:04,346          root     INFO: Finished script
+2021-05-02 04:34:54,321          root     INFO: Starting script
+2021-05-02 04:34:55,353          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-02 04:34:56,134          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-02 04:34:56,917          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-02 04:34:57,179          root     INFO: Parsing R7 - Brasil
+2021-05-02 04:35:04,993          root     INFO: Removed http://noticias.r7.com/brasil/fotos/city-e-inter-perto-do-titulo-e-gol-de-neymar-veja-o-sabado-de-futebol-01052021
+2021-05-02 04:35:04,999          root     INFO: Removed http://noticias.r7.com/brasil/fora-ha-um-mes-araujo-diz-que-governo-se-perdeu-na-pandemia-01052021
+2021-05-02 04:35:05,005          root     INFO: Removed http://noticias.r7.com/brasil/fotos/cidades-brasileiras-tem-atos-a-favor-do-governo-e-contra-lockdown-01052021
+2021-05-02 04:35:05,010          root     INFO: Removed http://noticias.r7.com/brasil/governadores-pedem-mais-vacinas-e-dois-milhoes-de-aplicacoes-por-dia-01052021
+2021-05-02 04:35:05,010          root     INFO: Finished script
