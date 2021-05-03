@@ -1,33 +1,6 @@
-2021-05-03 17:31:59,212          root     INFO: Starting script
-2021-05-03 17:32:00,056          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-03 17:32:00,731          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-03 17:32:01,399          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-03 17:32:01,537          root     INFO: Parsing R7 - Brasil
-2021-05-03 17:32:01,717          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/um-mundo-sem-religiao-nao-e-necessariamente-mais-pacifico-ou-tolerante.shtml
-2021-05-03 17:32:04,010          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/morre-o-sociologo-e-cientista-politico-leoncio-martins-rodrigues-estudioso-do-sindicalismo-e-dos-partidos.shtml
-2021-05-03 17:32:04,023          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/nada-muda-e-vamos-tocar-a-agenda-do-bruno-covas-durante-a-licenca-diz-presidente-da-camara-municipal.shtml
-2021-05-03 17:32:04,104          root     INFO: Firme na defesa de pautas de interesse do presidente Jair Bolsonaro (sem partido), <ins>a deputada</ins> Carla Zambelli (PSL-SP) reforça a tropa de choque do Planalto no Congresso ao passo que coleciona atritos com colegas na Câmara e <del>do</del> <ins>no</ins> Senado. Até mesmo integrantes do núcleo militar do governo já se queixaram da deputada. Leia mais (05/03/2021 - 08h04)
-2021-05-03 17:32:05,900          root     INFO: Media ready with ids: 1389271558515007488
-2021-05-03 17:32:05,900          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-03 17:32:05,900          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/carla-zambelli-reforca-tropa-de-choque-de-bolsonaro-e-gera-atritos-no-congresso.shtml
-2021-05-03 17:32:05,910          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/carla-zambelli-reforca-tropa-de-choque-de-bolsonaro-e-gera-atritos-no-congresso.shtml
-2021-05-03 17:32:06,112          root     INFO: Replying to: 1389271560247287809
-2021-05-03 17:32:06,404          root     INFO: Id to store: 1389271561044176898
-2021-05-03 17:32:06,523          root     INFO: <del>Governo</del> <ins>Alemanha avisa governo</ins> Bolsonaro <del>recebe recado de emissários alemães sobre desmatamento</del> <ins>que desmantamento pode emperrar acordos em outras áreas</ins>
-2021-05-03 17:32:08,198          root     INFO: Media ready with ids: 1389271568300322819
-2021-05-03 17:32:08,198          root     INFO: Text to tweet: Modificação do Título
-2021-05-03 17:32:08,199          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/governo-bolsonaro-recebe-recado-de-emissarios-alemaes-sobre-desmatamento.shtml
-2021-05-03 17:32:08,207          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/governo-bolsonaro-recebe-recado-de-emissarios-alemaes-sobre-desmatamento.shtml
-2021-05-03 17:32:08,386          root     INFO: Replying to: 1389271569793527811
-2021-05-03 17:32:08,604          root     INFO: Id to store: 1389271570464530433
-2021-05-03 17:32:10,702          root     INFO: <del>Governo</del> <ins>Alemanha avisa governo</ins> Bolsonaro <del>recebe recado de emissários alemães sobre desmatamento</del> <ins>que desmantamento pode emperrar acordos em outras áreas</ins>
-2021-05-03 17:32:12,344          root     INFO: Media ready with ids: 1389271585715019776
-2021-05-03 17:32:12,345          root     INFO: Text to tweet: Modificação do Título
-2021-05-03 17:32:12,345          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/governo-bolsonaro-recebe-recado-de-emissarios-alemaes-sobre-desmatamento.shtml
-2021-05-03 17:32:12,354          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/governo-bolsonaro-recebe-recado-de-emissarios-alemaes-sobre-desmatamento.shtml
-2021-05-03 17:32:12,517          root     INFO: Replying to: 1389271587120091137
-2021-05-03 17:32:12,751          root     INFO: Id to store: 1389271587791282177
-2021-05-03 17:32:15,476          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/esquerda-tenta-reduzir-favoritismo-de-bolsonaro-em-segmento-evangelico-para-2022.shtml
-2021-05-03 17:32:15,481          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/04/ciro-joga-balde-de-agua-fria-em-grupo-de-presidenciaveis-ao-agir-como-candidato.shtml
-2021-05-03 17:32:15,486          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gabriela-prioli/2021/04/vacina-so-se-for-escondidinho.shtml
-2021-05-03 17:32:15,487          root     INFO: Finished script
+2021-05-03 18:06:55,584          root     INFO: Starting script
+2021-05-03 18:06:56,461          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-03 18:06:57,111          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-03 18:06:57,773          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-03 18:06:58,130          root     INFO: Parsing R7 - Brasil
+2021-05-03 18:07:05,516          root     INFO: Finished script
