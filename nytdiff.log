@@ -1,8 +1,13 @@
-2021-05-03 13:11:20,038          root     INFO: Starting script
-2021-05-03 13:11:20,941          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-03 13:11:21,633          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-03 13:11:22,320          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-03 13:11:22,534          root     INFO: Parsing R7 - Brasil
-2021-05-03 13:11:25,286          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/relator-da-cpi-da-covid-diz-que-momento-e-inadequado-para-encontro-com-lula-ou-bolsonaro.shtml
-2021-05-03 13:11:31,136          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/deputados-protocolam-pedido-de-cpi-para-apurar-atuacao-de-ricardo-salles.shtml
-2021-05-03 13:11:31,137          root     INFO: Finished script
+2021-05-03 13:39:43,926          root     INFO: Starting script
+2021-05-03 13:39:44,931          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-03 13:39:45,735          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-03 13:39:46,535          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-03 13:39:46,772          root     INFO: Parsing R7 - Brasil
+2021-05-03 13:39:55,139          root     INFO: Os R$ 450 <del>milhões,</del> <ins>milhões</ins> depositados no início de abril e disponíveis <del>só</del> <ins>apenas</ins> para movimentação pelo Caixa <del>Tem,</del> <ins>Tem</ins> já podem ser resgatados
+2021-05-03 13:39:56,869          root     INFO: Media ready with ids: 1389213136125894664
+2021-05-03 13:39:56,870          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-03 13:39:56,870          root     INFO: Article id: http://noticias.r7.com/brasil/saque-do-auxilio-e-liberado-a-217-milhoes-de-nascidos-em-fevereiro-03052021
+2021-05-03 13:39:56,879          root     INFO: Tweeting url: http://noticias.r7.com/brasil/saque-do-auxilio-e-liberado-a-217-milhoes-de-nascidos-em-fevereiro-03052021
+2021-05-03 13:39:57,084          root     INFO: Replying to: 1389213137610629126
+2021-05-03 13:39:57,326          root     INFO: Id to store: 1389213138365685768
+2021-05-03 13:39:57,852          root     INFO: Finished script
