@@ -1,10 +1,32 @@
-2021-05-04 15:30:07,449          root     INFO: Starting script
-2021-05-04 15:30:08,463          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-04 15:30:09,291          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-04 15:30:10,085          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-04 15:30:10,344          root     INFO: Parsing R7 - Brasil
-2021-05-04 15:30:10,494          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/nyt-alerta-para-capa-falsa-pro-bolsonaro.shtml
-2021-05-04 15:30:13,431          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/nyt-alerta-para-capa-falsa-pro-bolsonaro.shtml
-2021-05-04 15:30:19,896          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49541
-2021-05-04 15:30:19,901          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2021/04/educacao-perdas-e-revitalizacao.shtml
-2021-05-04 15:30:19,902          root     INFO: Finished script
+2021-05-04 15:57:55,406          root     INFO: Starting script
+2021-05-04 15:57:56,397          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-04 15:57:57,200          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-04 15:57:58,010          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-04 15:57:58,189          root     INFO: Parsing R7 - Brasil
+2021-05-04 15:57:58,350          root     INFO: <del>NYT</del> <ins>New York Times</ins> alerta <del>para</del> <ins>contra</ins> capa falsa pró-Bolsonaro
+2021-05-04 15:58:00,026          root     INFO: Media ready with ids: 1389610266120294400
+2021-05-04 15:58:00,027          root     INFO: Text to tweet: Modificação do Título
+2021-05-04 15:58:00,027          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/nyt-alerta-para-capa-falsa-pro-bolsonaro.shtml
+2021-05-04 15:58:00,036          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/nyt-alerta-para-capa-falsa-pro-bolsonaro.shtml
+2021-05-04 15:58:00,254          root     INFO: Replying to: 1389610267634540545
+2021-05-04 15:58:00,486          root     INFO: Id to store: 1389610268381040644
+2021-05-04 15:58:00,494          root     INFO: O perfil de relações públicas do New York Times no Twitter publicou uma mensagem, em português, com um <del>alerta</del> <ins>aviso</ins> sobre a imagem abaixo, de uma capa adulterada do jornal. Diz o NYT: "Estamos cientes de que uma versão manipulada da primeira página do New York Times circula na internet com matérias falsas e uma imagem de manifestações a favor do presidente Jair Bolsonaro. O New York Times não publicou essa capa." Leia mais (05/04/2021 - 12h16)
+2021-05-04 15:58:02,268          root     INFO: Media ready with ids: 1389610275167481860
+2021-05-04 15:58:02,268          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-04 15:58:02,268          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/nyt-alerta-para-capa-falsa-pro-bolsonaro.shtml
+2021-05-04 15:58:02,277          root     INFO: Replying to: 1389610268381040644
+2021-05-04 15:58:02,521          root     INFO: Id to store: 1389610276861972485
+2021-05-04 15:58:05,206          root     INFO: <del>NYT</del> <ins>New York Times</ins> alerta <del>para</del> <ins>contra</ins> capa falsa pró-Bolsonaro
+2021-05-04 15:58:06,833          root     INFO: Media ready with ids: 1389610294683525121
+2021-05-04 15:58:06,833          root     INFO: Text to tweet: Modificação do Título
+2021-05-04 15:58:06,833          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/nyt-alerta-para-capa-falsa-pro-bolsonaro.shtml
+2021-05-04 15:58:06,843          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/nyt-alerta-para-capa-falsa-pro-bolsonaro.shtml
+2021-05-04 15:58:07,022          root     INFO: Replying to: 1389610296038371343
+2021-05-04 15:58:07,260          root     INFO: Id to store: 1389610296772333575
+2021-05-04 15:58:07,268          root     INFO: O perfil de relações públicas do New York Times no Twitter publicou uma mensagem, em português, com um <del>alerta</del> <ins>aviso</ins> sobre a imagem abaixo, de uma capa adulterada do jornal. Diz o NYT: "Estamos cientes de que uma versão manipulada da primeira página do New York Times circula na internet com matérias falsas e uma imagem de manifestações a favor do presidente Jair Bolsonaro. O New York Times não publicou essa capa." Leia mais (05/04/2021 - 12h16)
+2021-05-04 15:58:09,231          root     INFO: Media ready with ids: 1389610303604805634
+2021-05-04 15:58:09,231          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-04 15:58:09,231          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/nyt-alerta-para-capa-falsa-pro-bolsonaro.shtml
+2021-05-04 15:58:09,241          root     INFO: Replying to: 1389610296772333575
+2021-05-04 15:58:09,584          root     INFO: Id to store: 1389610306519830530
+2021-05-04 15:58:15,235          root     INFO: Finished script
