@@ -1,6 +1,26 @@
-2021-05-04 19:31:03,094          root     INFO: Starting script
-2021-05-04 19:31:04,331          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-04 19:31:05,002          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-04 19:31:05,671          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-04 19:31:05,944          root     INFO: Parsing R7 - Brasil
-2021-05-04 19:31:13,682          root     INFO: Finished script
+2021-05-04 19:46:50,966          root     INFO: Starting script
+2021-05-04 19:46:52,012          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-04 19:46:52,797          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-04 19:46:53,601          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-04 19:46:53,962          root     INFO: Parsing R7 - Brasil
+2021-05-04 19:46:56,675          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/alheio-a-mascaras-pazuello-alega-contato-com-servidores-com-covid-e-cpi-adia-seu-depoimento.shtml
+2021-05-04 19:46:56,691          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/investigacao-conclui-que-filipe-martins-assessor-de-bolsonaro-fez-gesto-racista-no-senado.shtml
+2021-05-04 19:47:02,264          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-nao-vai-comparecer-a-cpi-amanha-diz-senador-randolfe-04052021
+2021-05-04 19:47:02,270          root     INFO: Removed http://noticias.r7.com/brasil/proporcao-de-familias-endividadas-sobe-para-675-em-abril-diz-cnc-04052021
+2021-05-04 19:47:02,274          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-aguardara-14-dias-por-depoimento-presencial-de-pazuello-04052021
+2021-05-04 19:47:02,279          root     INFO: Removed http://noticias.r7.com/brasil/mandetta-diz-que-bolsonaro-tinha-suas-proprias-ideias-sobre-a-covid-04052021
+2021-05-04 19:47:02,283          root     INFO: Removed http://noticias.r7.com/brasil/estudo-da-usp-avalia-eficiencia-de-227-mascaras-usadas-no-brasil-04052021
+2021-05-04 19:47:02,288          root     INFO: Removed http://noticias.r7.com/brasil/creche-onde-professoras-e-criancas-foram-mortas-abriu-ha-8-anos-04052021
+2021-05-04 19:47:02,293          root     INFO: Removed http://noticias.r7.com/brasil/nada-sera-adiado-diz-renan-sobre-chance-de-teich-nao-aparecer-04052021
+2021-05-04 19:47:02,297          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/pdt-aciona-stf-contra-medida-de-bolsonaro-que-relanca-programa-de-reducao-de-jornada-e-salario.shtml
+2021-05-04 19:47:02,302          root     INFO: Removed http://noticias.r7.com/brasil/mp-dispensa-licitacao-em-compras-e-obras-necessarias-contra-a-covid-04052021
+2021-05-04 19:47:02,308          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-ministro-da-saude-mandetta-veja-ao-vivo-04052021
+2021-05-04 19:47:02,312          root     INFO: Removed http://noticias.r7.com/brasil/governo-autoriza-contratacao-de-1659-agentes-para-o-ibama-04052021
+2021-05-04 19:47:02,317          root     INFO: Removed http://noticias.r7.com/brasil/inflacao-na-porta-de-fabrica-tem-segunda-maior-alta-desde-2014-04052021
+2021-05-04 19:47:02,322          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/governadores-enviam-mais-documentos-para-anvisa-e-pedem-nova-analise-para-liberar-sputnik-v.shtml
+2021-05-04 19:47:02,326          root     INFO: Removed http://noticias.r7.com/brasil/videos-mostram-resgate-apos-ataque-a-creche-em-saudades-sc-04052021
+2021-05-04 19:47:02,331          root     INFO: Removed http://noticias.r7.com/brasil/na-cpi-governistas-miram-em-gastos-de-estados-na-pandemia-04052021
+2021-05-04 19:47:02,336          root     INFO: Removed http://noticias.r7.com/brasil/leia-carta-que-mandetta-enviou-para-bolsonaro-sobre-pandemia-04052021
+2021-05-04 19:47:02,341          root     INFO: Removed http://noticias.r7.com/brasil/lideres-do-congresso-nao-chegam-a-acordo-sobre-orcamento-e-vetos-04052021
+2021-05-04 19:47:02,346          root     INFO: Removed http://noticias.r7.com/brasil/bruno-covas-sai-da-uti-mas-permanece-em-observacao-04052021
+2021-05-04 19:47:02,347          root     INFO: Finished script
