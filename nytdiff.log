@@ -1,10 +1,15 @@
-2021-05-04 22:31:03,341          root     INFO: Starting script
-2021-05-04 22:31:04,165          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-04 22:31:04,836          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-04 22:31:05,508          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-04 22:31:05,631          root     INFO: Parsing R7 - Brasil
-2021-05-04 22:31:05,797          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/05/city-mostra-sua-principal-evolucao-tatica-a-de-atacar-e-se-defender-muito-bem.shtml
-2021-05-04 22:31:07,970          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-aprova-texto-base-de-projeto-que-revoga-a-lei-de-seguranca-nacional.shtml
-2021-05-04 22:31:12,741          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/04/ficcao-cientifica-traz-ineditos-de-octavia-butler-e-isaac-asimov-neste-ano.shtml
-2021-05-04 22:31:12,745          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/assembleia-aprova-plano-de-doria-para-criar-bolsa-do-povo-com-repasses-de-ate-r-500.shtml
-2021-05-04 22:31:12,746          root     INFO: Finished script
+2021-05-04 22:56:00,745          root     INFO: Starting script
+2021-05-04 22:56:01,580          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-04 22:56:02,252          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-04 22:56:02,932          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-04 22:56:03,069          root     INFO: Parsing R7 - Brasil
+2021-05-04 22:56:05,462          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/deputado-que-chegou-a-ser-afastado-pelo-stf-comanda-instalacao-de-reforma-politica.shtml
+2021-05-04 22:56:05,616          root     INFO: <del>A presidência</del> <ins>Um dos principais alvos</ins> da CPI da <del>Covid confirmou nesta terça-feira (4)</del> <ins>Covid,</ins> o <del>adiamento do depoimento do</del> ex-ministro da Saúde Eduardo <del>Pazuello,</del> <ins>Pazuello alegou</ins> que <del>justificou a ausência por ter tido</del> <ins>teve</ins> contato com <del>dois subordinados militares que foram diagnosticados</del> <ins>infectados</ins> com <del>a Covid-19.</del> <ins>o novo coronavírus e por isso não poderia comparecer ao seu depoimento, marcado inicialmente para esta quarta-feira (5).</ins> Leia mais (05/04/2021 - 16h37)
+2021-05-04 22:56:07,352          root     INFO: Media ready with ids: 1389715489874665472
+2021-05-04 22:56:07,353          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-04 22:56:07,353          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/alheio-a-mascaras-pazuello-alega-contato-com-servidores-com-covid-e-cpi-adia-seu-depoimento.shtml
+2021-05-04 22:56:07,361          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/alheio-a-mascaras-pazuello-alega-contato-com-servidores-com-covid-e-cpi-adia-seu-depoimento.shtml
+2021-05-04 22:56:07,549          root     INFO: Replying to: 1389715491393085441
+2021-05-04 22:56:07,796          root     INFO: Id to store: 1389715492156420096
+2021-05-04 22:56:12,615          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/entenda-como-o-governo-despejou-esforcos-com-cloroquina-e-outros-remedios-sem-eficacia-contra-covid.shtml
+2021-05-04 22:56:12,615          root     INFO: Finished script
