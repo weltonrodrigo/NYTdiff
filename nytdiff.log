@@ -1,15 +1,13 @@
-2021-05-04 22:56:00,745          root     INFO: Starting script
-2021-05-04 22:56:01,580          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-04 22:56:02,252          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-04 22:56:02,932          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-04 22:56:03,069          root     INFO: Parsing R7 - Brasil
-2021-05-04 22:56:05,462          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/deputado-que-chegou-a-ser-afastado-pelo-stf-comanda-instalacao-de-reforma-politica.shtml
-2021-05-04 22:56:05,616          root     INFO: <del>A presidência</del> <ins>Um dos principais alvos</ins> da CPI da <del>Covid confirmou nesta terça-feira (4)</del> <ins>Covid,</ins> o <del>adiamento do depoimento do</del> ex-ministro da Saúde Eduardo <del>Pazuello,</del> <ins>Pazuello alegou</ins> que <del>justificou a ausência por ter tido</del> <ins>teve</ins> contato com <del>dois subordinados militares que foram diagnosticados</del> <ins>infectados</ins> com <del>a Covid-19.</del> <ins>o novo coronavírus e por isso não poderia comparecer ao seu depoimento, marcado inicialmente para esta quarta-feira (5).</ins> Leia mais (05/04/2021 - 16h37)
-2021-05-04 22:56:07,352          root     INFO: Media ready with ids: 1389715489874665472
-2021-05-04 22:56:07,353          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-04 22:56:07,353          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/alheio-a-mascaras-pazuello-alega-contato-com-servidores-com-covid-e-cpi-adia-seu-depoimento.shtml
-2021-05-04 22:56:07,361          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/alheio-a-mascaras-pazuello-alega-contato-com-servidores-com-covid-e-cpi-adia-seu-depoimento.shtml
-2021-05-04 22:56:07,549          root     INFO: Replying to: 1389715491393085441
-2021-05-04 22:56:07,796          root     INFO: Id to store: 1389715492156420096
-2021-05-04 22:56:12,615          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/entenda-como-o-governo-despejou-esforcos-com-cloroquina-e-outros-remedios-sem-eficacia-contra-covid.shtml
-2021-05-04 22:56:12,615          root     INFO: Finished script
+2021-05-04 23:05:56,899          root     INFO: Starting script
+2021-05-04 23:05:57,798          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-04 23:05:58,479          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-04 23:05:59,160          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-04 23:05:59,380          root     INFO: Parsing R7 - Brasil
+2021-05-04 23:06:01,970          root     INFO: Deputado que chegou a ser afastado pelo STF comanda instalação de <ins>comissão da</ins> reforma política
+2021-05-04 23:06:03,768          root     INFO: Media ready with ids: 1389717991483486208
+2021-05-04 23:06:03,769          root     INFO: Text to tweet: Modificação do Título
+2021-05-04 23:06:03,769          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/deputado-que-chegou-a-ser-afastado-pelo-stf-comanda-instalacao-de-reforma-politica.shtml
+2021-05-04 23:06:03,777          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/deputado-que-chegou-a-ser-afastado-pelo-stf-comanda-instalacao-de-reforma-politica.shtml
+2021-05-04 23:06:03,965          root     INFO: Replying to: 1389717992972369920
+2021-05-04 23:06:04,214          root     INFO: Id to store: 1389717993748418563
+2021-05-04 23:06:09,427          root     INFO: Finished script
