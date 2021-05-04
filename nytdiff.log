@@ -1,8 +1,10 @@
-2021-05-04 21:25:16,578          root     INFO: Starting script
-2021-05-04 21:25:17,413          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-04 21:25:18,068          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-04 21:25:18,723          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-04 21:25:18,861          root     INFO: Parsing R7 - Brasil
-2021-05-04 21:25:21,149          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/eduardo-paes-prefeito-do-rio-deixa-dem-e-fecha-com-psd-de-kassab.shtml
-2021-05-04 21:25:25,800          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/ex-corregedor-que-atuou-nas-gestoes-alckmin-franca-e-doria-e-absolvido-em-caso-de-bunker-com-us-180-mil.shtml
-2021-05-04 21:25:25,800          root     INFO: Finished script
+2021-05-04 21:38:10,675          root     INFO: Starting script
+2021-05-04 21:38:11,517          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-04 21:38:12,197          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-04 21:38:12,873          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-04 21:38:13,043          root     INFO: Parsing R7 - Brasil
+2021-05-04 21:38:16,118          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/industria-farmaceutica-divulga-manifesto-em-apoio-a-anvisa-que-vive-pressao-apos-barrar-sputnik-v.shtml
+2021-05-04 21:38:16,135          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/panico-de-bolsonaro-ganha-corpo-no-roteiro-dado-por-mandetta-a-cpi-da-covid.shtml
+2021-05-04 21:38:22,388          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/nao-estamos-preocupados-com-cpi-e-trabalhamos-a-todo-vapor-diz-bolsonaro-no-dia-em-que-pais-atinge-400-mil-mortes.shtml
+2021-05-04 21:38:22,392          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2021/04/guedes-critica-excessos-do-fies-e-diz-que-filho-de-porteiro-foi-aprovado-com-nota-zero.shtml
+2021-05-04 21:38:22,393          root     INFO: Finished script
