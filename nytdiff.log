@@ -1,25 +1,8 @@
-2021-05-04 13:37:39,318          root     INFO: Starting script
-2021-05-04 13:37:40,187          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-04 13:37:40,881          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-04 13:37:41,590          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-04 13:37:41,756          root     INFO: Parsing R7 - Brasil
-2021-05-04 13:37:44,757          root     INFO: 1-) O que é melhor, portar livros ou revólveres? 2-) É saudável presentear crianças com metralhadoras de brinquedo? 3-) Quem vai à igreja rezar deveria poder carregar uma arma de fogo? Para muitas pessoas, as respostas são óbvias: livros educam, enquanto armas matam; a infância deveria ser poupada da cultura da violência; igrejas e <del>tempos</del> <ins>templos</ins> [...] Leia mais (05/04/2021 - 07h58)
-2021-05-04 13:37:46,544          root     INFO: Media ready with ids: 1389574977217875968
-2021-05-04 13:37:46,545          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-04 13:37:46,545          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4340
-2021-05-04 13:37:46,554          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4340
-2021-05-04 13:37:46,725          root     INFO: Replying to: 1389574978752991234
-2021-05-04 13:37:46,946          root     INFO: Id to store: 1389574979440807936
-2021-05-04 13:37:47,119          root     INFO: CPI da Covid vai <del>questionar</del> <ins>perguntar</ins> a ex-ministros se decisões foram técnicas ou ordens diretas de Bolsonaro
-2021-05-04 13:37:48,801          root     INFO: Media ready with ids: 1389574986826985472
-2021-05-04 13:37:48,802          root     INFO: Text to tweet: Modificação do Título
-2021-05-04 13:37:48,803          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-da-covid-vai-questionar-a-ex-ministros-se-decisoes-foram-tecnicas-ou-ordens-diretas-de-bolsonaro.shtml
-2021-05-04 13:37:48,813          root     INFO: Replying to: 1389527214048301056
-2021-05-04 13:37:49,052          root     INFO: Id to store: 1389574988303409152
-2021-05-04 13:37:49,059          root     INFO: Os senadores da CPI da Covid vão focar nos indícios de interferência do presidente Jair Bolsonaro nas decisões do Ministério da <del>Saúde,</del> <ins>Saúde</ins> ao questionar ex-titulares da pasta e também o atual, Marcelo Queiroga, em uma série de depoimentos que começa nesta terça-feira (4). Leia mais (05/03/2021 - 23h15)
-2021-05-04 13:37:50,821          root     INFO: Media ready with ids: 1389574995181965315
-2021-05-04 13:37:50,821          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-04 13:37:50,821          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-da-covid-vai-questionar-a-ex-ministros-se-decisoes-foram-tecnicas-ou-ordens-diretas-de-bolsonaro.shtml
-2021-05-04 13:37:50,831          root     INFO: Replying to: 1389574988303409152
-2021-05-04 13:37:51,065          root     INFO: Id to store: 1389574996759126018
-2021-05-04 13:37:56,711          root     INFO: Finished script
+2021-05-04 13:52:46,163          root     INFO: Starting script
+2021-05-04 13:52:47,244          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-04 13:52:48,039          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-04 13:52:48,840          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-04 13:52:49,085          root     INFO: Parsing R7 - Brasil
+2021-05-04 13:52:49,229          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/empresas-ajustam-foco-ao-esg.shtml
+2021-05-04 13:52:57,610          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/04/vies-de-imunidade.shtml
+2021-05-04 13:52:57,611          root     INFO: Finished script
