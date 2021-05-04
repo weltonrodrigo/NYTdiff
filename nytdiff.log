@@ -1,24 +1,12 @@
-2021-05-04 12:38:23,230          root     INFO: Starting script
-2021-05-04 12:38:24,197          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-04 12:38:24,986          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-04 12:38:25,784          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-04 12:38:25,993          root     INFO: Parsing R7 - Brasil
-2021-05-04 12:38:26,376          root     INFO: Enfermeiras entram no foco dos debates sobre Olimpíada <ins>de Tóquio</ins>
-2021-05-04 12:38:28,109          root     INFO: Media ready with ids: 1389560052227452928
-2021-05-04 12:38:28,110          root     INFO: Text to tweet: Modificação do Título
-2021-05-04 12:38:28,111          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/05/enfermeiras-entram-no-foco-dos-debates-sobre-olimpiada.shtml
-2021-05-04 12:38:28,121          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/05/enfermeiras-entram-no-foco-dos-debates-sobre-olimpiada.shtml
-2021-05-04 12:38:28,315          root     INFO: Replying to: 1389560053687103489
-2021-05-04 12:38:28,534          root     INFO: Id to store: 1389560054433583105
-2021-05-04 12:38:31,104          root     INFO: O protocolo para tratamento farmacológico do coronavírus na internação que foi encomendado pelo ministro Marcelo Queiroga (Saúde) a um núcleo técnico-científico criado por ele assim que assumiu o cargo contraindicará o uso em ambiente hospitalar de remédios como cloroquina, hidroxicloroquina, ivermectina, <del>redemsivir</del> <ins>remdesivir</ins> e outros sem eficácia comprovada para a Covid-19, alguns deles com relatos de efeitos adversos. Leia mais (05/03/2021 - 23h15)
-2021-05-04 12:38:32,915          root     INFO: Media ready with ids: 1389560072158724098
-2021-05-04 12:38:32,915          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-04 12:38:32,915          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/grupo-tecnico-criado-por-queiroga-vai-contraindicar-cloroquina-e-ivermectina-em-protocolo-de-internacao.shtml
-2021-05-04 12:38:32,924          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/grupo-tecnico-criado-por-queiroga-vai-contraindicar-cloroquina-e-ivermectina-em-protocolo-de-internacao.shtml
-2021-05-04 12:38:33,102          root     INFO: Replying to: 1389560073781977089
-2021-05-04 12:38:33,345          root     INFO: Id to store: 1389560074545291264
-2021-05-04 12:38:37,992          root     INFO: New article tracked: http://noticias.r7.com/brasil/saque-do-auxilio-e-liberado-a-245-milhoes-de-nascidos-em-marco-04052021
-2021-05-04 12:38:38,007          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-pouca-vacina-associacoes-tentam-criar-grupos-prioritarios-04052021
-2021-05-04 12:38:38,019          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-mandetta-que-acusa-bolsonaro-de-omissao-04052021
-2021-05-04 12:38:38,032          root     INFO: New article tracked: http://noticias.r7.com/brasil/relatorio-da-reforma-tributaria-sera-lido-nesta-terca-4-no-congresso-04052021
-2021-05-04 12:38:38,465          root     INFO: Finished script
+2021-05-04 13:07:12,921          root     INFO: Starting script
+2021-05-04 13:07:13,788          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-04 13:07:14,456          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-04 13:07:15,131          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-04 13:07:15,317          root     INFO: Parsing R7 - Brasil
+2021-05-04 13:07:15,468          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/05/biden-e-o-futuro-da-familia.shtml
+2021-05-04 13:07:23,305          root     INFO: Removed http://noticias.r7.com/brasil/relatorio-da-reforma-tributaria-sera-lido-nesta-terca-4-no-congresso-04052021
+2021-05-04 13:07:23,309          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-mandetta-que-acusa-bolsonaro-de-omissao-04052021
+2021-05-04 13:07:23,314          root     INFO: Removed http://noticias.r7.com/brasil/saque-do-auxilio-e-liberado-a-245-milhoes-de-nascidos-em-marco-04052021
+2021-05-04 13:07:23,318          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/04/bolsonaro-oferece-400-mil-mortos-ao-lumpen-milicianato.shtml
+2021-05-04 13:07:23,322          root     INFO: Removed http://noticias.r7.com/brasil/com-pouca-vacina-associacoes-tentam-criar-grupos-prioritarios-04052021
+2021-05-04 13:07:23,322          root     INFO: Finished script
