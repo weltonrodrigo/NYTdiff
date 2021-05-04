@@ -1,20 +1,22 @@
-2021-05-04 19:57:44,714          root     INFO: Starting script
-2021-05-04 19:57:45,873          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-04 19:57:46,647          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-04 19:57:47,415          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-04 19:57:47,662          root     INFO: Parsing R7 - Brasil
-2021-05-04 19:57:50,673          root     INFO: Investigação conclui que Filipe Martins, assessor de Bolsonaro, fez gesto <ins>com conotação</ins> racista no Senado
-2021-05-04 19:57:52,537          root     INFO: Media ready with ids: 1389670632305176583
-2021-05-04 19:57:52,537          root     INFO: Text to tweet: Modificação do Título
-2021-05-04 19:57:52,537          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/investigacao-conclui-que-filipe-martins-assessor-de-bolsonaro-fez-gesto-racista-no-senado.shtml
-2021-05-04 19:57:52,548          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/investigacao-conclui-que-filipe-martins-assessor-de-bolsonaro-fez-gesto-racista-no-senado.shtml
-2021-05-04 19:57:52,811          root     INFO: Replying to: 1389670634385547266
-2021-05-04 19:57:53,102          root     INFO: Id to store: 1389670635354329091
-2021-05-04 19:57:53,182          root     INFO: O ex-ministro Luiz Henrique Mandetta (Saúde) apresentou nesta terça-feira (4) à CPI da Covid <ins>do Senado</ins> uma carta em que alertava o presidente Jair Bolsonaro (sem partido) sobre o crescimento dos riscos do coronavírus ainda durante a sua gestão no comando da pasta. Ele foi demitido do cargo em abril de 2020. Leia mais (05/04/2021 - 14h08)
-2021-05-04 19:57:54,968          root     INFO: Media ready with ids: 1389670642702761988
-2021-05-04 19:57:54,968          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-04 19:57:54,968          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mandetta-entrega-a-cpi-carta-a-bolsonaro-com-previsoes-e-alertas-sobre-pandemia-leia-integra.shtml
-2021-05-04 19:57:54,978          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mandetta-entrega-a-cpi-carta-a-bolsonaro-com-previsoes-e-alertas-sobre-pandemia-leia-integra.shtml
-2021-05-04 19:57:55,208          root     INFO: Replying to: 1389670644422430729
-2021-05-04 19:57:55,501          root     INFO: Id to store: 1389670645412290567
-2021-05-04 19:58:00,869          root     INFO: Finished script
+2021-05-04 20:27:05,166          root     INFO: Starting script
+2021-05-04 20:27:06,295          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-04 20:27:07,106          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-04 20:27:07,905          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-04 20:27:08,116          root     INFO: Parsing R7 - Brasil
+2021-05-04 20:27:10,836          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mandetta-cita-dados-incorretos-sobre-vacinas-e-testagem-em-massa-na-cpi-da-covid-veja-checagem.shtml
+2021-05-04 20:27:10,925          root     INFO: Mandetta <del>diz</del> <ins>aponta</ins> à CPI <del>ter enfrentado</del> desprezo de Bolsonaro <del>a medidas baseadas na ciência</del> <ins>pela ciência, e Renan lista 'revelações graves'</ins>
+2021-05-04 20:27:12,617          root     INFO: Media ready with ids: 1389678014968078338
+2021-05-04 20:27:12,617          root     INFO: Text to tweet: Modificação do Título
+2021-05-04 20:27:12,617          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mandetta-diz-a-cpi-ter-enfrentado-desprezo-de-bolsonaro-a-medidas-baseadas-na-ciencia.shtml
+2021-05-04 20:27:12,626          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mandetta-diz-a-cpi-ter-enfrentado-desprezo-de-bolsonaro-a-medidas-baseadas-na-ciencia.shtml
+2021-05-04 20:27:12,825          root     INFO: Replying to: 1389678016402427911
+2021-05-04 20:27:13,058          root     INFO: Id to store: 1389678017169997826
+2021-05-04 20:27:13,163          root     INFO: O ministro do Supremo Tribunal Federal <del>(STF),</del> <ins>(STF)</ins> Ricardo <del>Lewandowski,</del> <ins>Lewandowski</ins> determinou a suspensão de um processo ético-disciplinar aberto pelo Conselho Regional de Medicina de São Paulo (Cremesp) contra o ex-ministro da Saúde e deputado federal Alexandre Padilha (PT-SP). Leia mais (05/04/2021 - 11h15)
+2021-05-04 20:27:17,998          root     INFO: Media ready with ids: 1389678037277593601
+2021-05-04 20:27:17,998          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-04 20:27:17,999          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/stf-suspende-processo-de-conselho-de-medicina-contra-alexandre-padilha.shtml
+2021-05-04 20:27:18,008          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/stf-suspende-processo-de-conselho-de-medicina-contra-alexandre-padilha.shtml
+2021-05-04 20:27:18,195          root     INFO: Replying to: 1389678038917525504
+2021-05-04 20:27:18,435          root     INFO: Id to store: 1389678039689203714
+2021-05-04 20:27:23,783          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/plano-de-renan-para-cpi-mira-vacinas-cloroquina-e-estrategia-de-comunicacao-do-governo-bolsonaro.shtml
+2021-05-04 20:27:23,784          root     INFO: Finished script
