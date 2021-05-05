@@ -1,19 +1,6 @@
-2021-05-05 22:56:17,615          root     INFO: Starting script
-2021-05-05 22:56:18,533          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-05 22:56:19,211          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-05 22:56:19,893          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-05 22:56:20,106          root     INFO: Parsing R7 - Brasil
-2021-05-05 22:56:20,292          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/05/masquidiotas-contra-a-lei.shtml
-2021-05-05 22:56:22,747          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/05/masquidiotas-contra-a-lei.shtml
-2021-05-05 22:56:22,761          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49571
-2021-05-05 22:56:22,825          root     INFO: A Justiça Federal da 1ª Região absolveu o ex-presidente Michel Temer, o ex-presidente da Câmara Eduardo Cunha, o ex-ministro Geddel Vieira Lima, o empresário José Yunes e outros oito nomes acusados de <del>integrar</del> <ins>integrarem</ins> o "quadrilhão do MDB". Leia mais (05/05/2021 - 19h22)
-2021-05-05 22:56:24,634          root     INFO: Media ready with ids: 1390077950209429504
-2021-05-05 22:56:24,635          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-05 22:56:24,635          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/justica-rejeita-quadrilhao-do-mdb-e-absolve-temer-cunha-geddel-e-yunes.shtml
-2021-05-05 22:56:24,645          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/justica-rejeita-quadrilhao-do-mdb-e-absolve-temer-cunha-geddel-e-yunes.shtml
-2021-05-05 22:56:24,814          root     INFO: Replying to: 1390077951698477057
-2021-05-05 22:56:25,037          root     INFO: Id to store: 1390077952377901058
-2021-05-05 22:56:30,245          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49551
-2021-05-05 22:56:30,250          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/1o-de-maio-o-que-comemorar.shtml
-2021-05-05 22:56:30,254          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-ensaio-para-2022-pt-e-lula-reconstroem-pontes-com-o-psb-nos-estados.shtml
-2021-05-05 22:56:30,256          root     INFO: Finished script
+2021-05-05 23:06:54,987          root     INFO: Starting script
+2021-05-05 23:06:56,032          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-05 23:06:56,813          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-05 23:06:57,592          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-05 23:06:57,863          root     INFO: Parsing R7 - Brasil
+2021-05-05 23:07:06,833          root     INFO: Finished script
