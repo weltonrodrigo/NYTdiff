@@ -1,6 +1,32 @@
-2021-05-04 23:59:53,931          root     INFO: Starting script
-2021-05-04 23:59:54,873          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-04 23:59:55,634          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-04 23:59:56,409          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-04 23:59:56,637          root     INFO: Parsing R7 - Brasil
-2021-05-05 00:00:03,395          root     INFO: Finished script
+2021-05-05 01:12:47,157          root     INFO: Starting script
+2021-05-05 01:12:47,974          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-05 01:12:48,639          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-05 01:12:49,303          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-05 01:12:49,480          root     INFO: Parsing R7 - Brasil
+2021-05-05 01:12:49,621          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/atila-iamarino/2021/05/atraso-brasileiro.shtml
+2021-05-05 01:12:52,266          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mandetta-quer-que-fique-em-casa-quando-estiver-sem-ar-diz-bolsonaro-em-dia-de-ex-ministro-na-cpi.shtml
+2021-05-05 01:12:52,278          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/debate-aponta-transparencia-e-estimulo-a-tolerancia-como-caminhos-para-jornalismo-sob-polarizacao.shtml
+2021-05-05 01:12:52,399          root     INFO: Câmara aprova <del>texto-base de</del> projeto que revoga a Lei de Segurança Nacional
+2021-05-05 01:12:54,183          root     INFO: Media ready with ids: 1389749911231545351
+2021-05-05 01:12:54,184          root     INFO: Text to tweet: Modificação do Título
+2021-05-05 01:12:54,184          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-aprova-texto-base-de-projeto-que-revoga-a-lei-de-seguranca-nacional.shtml
+2021-05-05 01:12:54,192          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-aprova-texto-base-de-projeto-que-revoga-a-lei-de-seguranca-nacional.shtml
+2021-05-05 01:12:54,381          root     INFO: Replying to: 1389749913353916416
+2021-05-05 01:12:54,588          root     INFO: Id to store: 1389749914008236038
+2021-05-05 01:12:54,595          root     INFO: A Câmara dos Deputados aprovou nesta terça-feira (4) o <del>texto-base do</del> projeto que revoga a Lei de Segurança Nacional e <del>pune</del> <ins>prevê punição para</ins> quem atentar contra o Estado democrático de <del>Direito, prevendo até cinco anos de prisão para quem contratar empresas para disseminar notícias falsas que possam comprometer o processo eleitoral no país.</del> <ins>Direito.</ins> Leia mais (05/04/2021 - 19h22)
+2021-05-05 01:12:56,323          root     INFO: Media ready with ids: 1389749920698089472
+2021-05-05 01:12:56,324          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-05 01:12:56,324          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-aprova-texto-base-de-projeto-que-revoga-a-lei-de-seguranca-nacional.shtml
+2021-05-05 01:12:56,335          root     INFO: Replying to: 1389749914008236038
+2021-05-05 01:12:56,550          root     INFO: Id to store: 1389749922203844608
+2021-05-05 01:12:57,643          root     INFO: Dezenas de inquéritos foram abertos nos últimos anos para apurar crimes definidos pela Lei de Segurança Nacional, editada nos estertores da ditadura militar <del>(1964-1985) e em vigor até hoje.</del> <ins>(1964-1985).</ins> As investigações tiveram como alvo adversários do presidente Jair Bolsonaro e também seus simpatizantes. Leia mais (05/02/2021 - 23h15)
+2021-05-05 01:12:59,495          root     INFO: Media ready with ids: 1389749933587238915
+2021-05-05 01:12:59,496          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-05 01:12:59,496          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/conheca-20-atingidos-por-investigacoes-de-crimes-da-lei-de-seguranca-nacional-e-opositores-de-bolsonaro.shtml
+2021-05-05 01:12:59,506          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/conheca-20-atingidos-por-investigacoes-de-crimes-da-lei-de-seguranca-nacional-e-opositores-de-bolsonaro.shtml
+2021-05-05 01:12:59,693          root     INFO: Replying to: 1389749935613034496
+2021-05-05 01:12:59,929          root     INFO: Id to store: 1389749936401571846
+2021-05-05 01:13:04,125          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/brasil-teve-420-vezes-mais-mortes-por-covid-19-do-que-o-previsto-por-osmar-terra.shtml
+2021-05-05 01:13:04,130          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2021/04/o-sono-esse-misterioso.shtml
+2021-05-05 01:13:04,135          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/cpi-tem-de-ser-contraponto-ao-negacionismo-e-adotar-narrativa-que-salve-vidas-diz-lider-do-mdb.shtml
+2021-05-05 01:13:04,136          root     INFO: Finished script
