@@ -1,18 +1,6 @@
-2021-05-05 10:53:16,603          root     INFO: Starting script
-2021-05-05 10:53:17,402          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-05 10:53:18,058          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-05 10:53:18,712          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-05 10:53:18,873          root     INFO: Parsing R7 - Brasil
-2021-05-05 10:53:21,689          root     INFO: Câmara aprova <del>texto-base de</del> projeto que revoga a Lei de Segurança <del>Nacional</del> <ins>Nacional; texto segue para o Senado</ins>
-2021-05-05 10:53:23,331          root     INFO: Media ready with ids: 1389895995958472705
-2021-05-05 10:53:23,332          root     INFO: Text to tweet: Modificação do Título
-2021-05-05 10:53:23,332          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-aprova-texto-base-de-projeto-que-revoga-a-lei-de-seguranca-nacional.shtml
-2021-05-05 10:53:23,340          root     INFO: Replying to: 1389749922203844608
-2021-05-05 10:53:23,572          root     INFO: Id to store: 1389895997380304896
-2021-05-05 10:53:23,578          root     INFO: A Câmara dos Deputados aprovou nesta terça-feira (4) o <del>texto-base do</del> projeto que revoga a Lei de Segurança Nacional e <del>pune</del> <ins>prevê punição para</ins> quem atentar contra o Estado democrático de <del>Direito, prevendo até cinco anos de prisão para quem contratar empresas para disseminar notícias falsas que possam comprometer o processo eleitoral no país.</del> <ins>Direito.</ins> Leia mais (05/04/2021 - 19h22)
-2021-05-05 10:53:28,349          root     INFO: Media ready with ids: 1389896016795680769
-2021-05-05 10:53:28,350          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-05 10:53:28,350          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-aprova-texto-base-de-projeto-que-revoga-a-lei-de-seguranca-nacional.shtml
-2021-05-05 10:53:28,359          root     INFO: Replying to: 1389895997380304896
-2021-05-05 10:53:28,577          root     INFO: Id to store: 1389896018377035780
-2021-05-05 10:53:33,228          root     INFO: Finished script
+2021-05-05 10:58:43,171          root     INFO: Starting script
+2021-05-05 10:58:44,147          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-05 10:58:44,924          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-05 10:58:45,707          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-05 10:58:45,936          root     INFO: Parsing R7 - Brasil
+2021-05-05 10:58:53,684          root     INFO: Finished script
