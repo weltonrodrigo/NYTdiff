@@ -1,6 +1,13 @@
-2021-05-05 14:38:37,207          root     INFO: Starting script
-2021-05-05 14:38:38,643          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-05 14:38:39,446          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-05 14:38:40,263          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-05 14:38:40,485          root     INFO: Parsing R7 - Brasil
-2021-05-05 14:38:49,218          root     INFO: Finished script
+2021-05-05 14:49:27,438          root     INFO: Starting script
+2021-05-05 14:49:28,402          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-05 14:49:29,199          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-05 14:49:29,991          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-05 14:49:30,196          root     INFO: Parsing R7 - Brasil
+2021-05-05 14:49:32,749          root     INFO: Em meio ao segundo dia de depoimento <del>da</del> <ins>na</ins> CPI da Covid do Senado, o presidente Jair Bolsonaro (sem partido) voltou <ins>nesta quarta-feira (5)</ins> a ameaçar editar um decreto contra medidas de isolamento social tomadas por governadores e prefeitos para, segundo o mandatário, garantir a realização de cultos e a "liberdade para poder trabalhar". Leia mais (05/05/2021 - 11h06)
+2021-05-05 14:49:34,540          root     INFO: Media ready with ids: 1389955434082193411
+2021-05-05 14:49:34,541          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-05 14:49:34,541          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-ousem-contestar-diz-bolsonaro-em-recado-ao-stf-de-que-ira-barrar-eventual-lockdown-nos-estados.shtml
+2021-05-05 14:49:34,550          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-ousem-contestar-diz-bolsonaro-em-recado-ao-stf-de-que-ira-barrar-eventual-lockdown-nos-estados.shtml
+2021-05-05 14:49:34,768          root     INFO: Replying to: 1389955435843702784
+2021-05-05 14:49:35,016          root     INFO: Id to store: 1389955436590374913
+2021-05-05 14:49:40,160          root     INFO: Finished script
