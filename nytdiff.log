@@ -1,6 +1,20 @@
-2021-05-05 10:00:02,612          root     INFO: Starting script
-2021-05-05 10:00:03,428          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-05 10:00:04,099          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-05 10:00:04,769          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-05 10:00:04,943          root     INFO: Parsing R7 - Brasil
-2021-05-05 10:00:12,700          root     INFO: Finished script
+2021-05-05 10:28:06,326          root     INFO: Starting script
+2021-05-05 10:28:07,739          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-05 10:28:08,538          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-05 10:28:09,332          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-05 10:28:09,568          root     INFO: Parsing R7 - Brasil
+2021-05-05 10:28:12,588          root     INFO: No primeiro depoimento da CPI da <del>Covid,</del> <ins>Covid no Senado,</ins> o ex-ministro da Saúde Luiz Henrique Mandetta apresentou elementos que deixam expressas, mais uma vez, omissões do presidente Jair Bolsonaro diante de alertas sobre a gravidade da pandemia. Leia mais (05/04/2021 - 23h15)
+2021-05-05 10:28:14,404          root     INFO: Media ready with ids: 1389889666908921856
+2021-05-05 10:28:14,405          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-05 10:28:14,405          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mandetta-leva-a-cpi-omissoes-de-bolsonaro-mas-tenta-escapar-de-nos-de-sua-gestao.shtml
+2021-05-05 10:28:14,414          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mandetta-leva-a-cpi-omissoes-de-bolsonaro-mas-tenta-escapar-de-nos-de-sua-gestao.shtml
+2021-05-05 10:28:14,663          root     INFO: Replying to: 1389889668674686976
+2021-05-05 10:28:14,937          root     INFO: Id to store: 1389889669622648834
+2021-05-05 10:28:15,099          root     INFO: Carta a Bolsonaro, cloroquina, isolamento; veja 5 pontos <del>das falas</del> <ins>da fala</ins> de Mandetta que podem ser usados <del>por</del> <ins>pela</ins> CPI <ins>da Covid</ins>
+2021-05-05 10:28:20,043          root     INFO: Media ready with ids: 1389889690224971780
+2021-05-05 10:28:20,044          root     INFO: Text to tweet: Modificação do Título
+2021-05-05 10:28:20,044          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/carta-a-bolsonaro-cloroquina-isolamento-veja-5-pontos-das-falas-de-mandetta-que-podem-ser-usados-por-cpi.shtml
+2021-05-05 10:28:20,055          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/carta-a-bolsonaro-cloroquina-isolamento-veja-5-pontos-das-falas-de-mandetta-que-podem-ser-usados-por-cpi.shtml
+2021-05-05 10:28:20,277          root     INFO: Replying to: 1389889692217364481
+2021-05-05 10:28:20,571          root     INFO: Id to store: 1389889693182054403
+2021-05-05 10:28:26,193          root     INFO: Finished script
