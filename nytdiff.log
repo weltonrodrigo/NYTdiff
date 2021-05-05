@@ -1,20 +1,18 @@
-2021-05-05 10:28:06,326          root     INFO: Starting script
-2021-05-05 10:28:07,739          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-05 10:28:08,538          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-05 10:28:09,332          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-05 10:28:09,568          root     INFO: Parsing R7 - Brasil
-2021-05-05 10:28:12,588          root     INFO: No primeiro depoimento da CPI da <del>Covid,</del> <ins>Covid no Senado,</ins> o ex-ministro da Saúde Luiz Henrique Mandetta apresentou elementos que deixam expressas, mais uma vez, omissões do presidente Jair Bolsonaro diante de alertas sobre a gravidade da pandemia. Leia mais (05/04/2021 - 23h15)
-2021-05-05 10:28:14,404          root     INFO: Media ready with ids: 1389889666908921856
-2021-05-05 10:28:14,405          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-05 10:28:14,405          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mandetta-leva-a-cpi-omissoes-de-bolsonaro-mas-tenta-escapar-de-nos-de-sua-gestao.shtml
-2021-05-05 10:28:14,414          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mandetta-leva-a-cpi-omissoes-de-bolsonaro-mas-tenta-escapar-de-nos-de-sua-gestao.shtml
-2021-05-05 10:28:14,663          root     INFO: Replying to: 1389889668674686976
-2021-05-05 10:28:14,937          root     INFO: Id to store: 1389889669622648834
-2021-05-05 10:28:15,099          root     INFO: Carta a Bolsonaro, cloroquina, isolamento; veja 5 pontos <del>das falas</del> <ins>da fala</ins> de Mandetta que podem ser usados <del>por</del> <ins>pela</ins> CPI <ins>da Covid</ins>
-2021-05-05 10:28:20,043          root     INFO: Media ready with ids: 1389889690224971780
-2021-05-05 10:28:20,044          root     INFO: Text to tweet: Modificação do Título
-2021-05-05 10:28:20,044          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/carta-a-bolsonaro-cloroquina-isolamento-veja-5-pontos-das-falas-de-mandetta-que-podem-ser-usados-por-cpi.shtml
-2021-05-05 10:28:20,055          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/carta-a-bolsonaro-cloroquina-isolamento-veja-5-pontos-das-falas-de-mandetta-que-podem-ser-usados-por-cpi.shtml
-2021-05-05 10:28:20,277          root     INFO: Replying to: 1389889692217364481
-2021-05-05 10:28:20,571          root     INFO: Id to store: 1389889693182054403
-2021-05-05 10:28:26,193          root     INFO: Finished script
+2021-05-05 10:53:16,603          root     INFO: Starting script
+2021-05-05 10:53:17,402          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-05 10:53:18,058          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-05 10:53:18,712          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-05 10:53:18,873          root     INFO: Parsing R7 - Brasil
+2021-05-05 10:53:21,689          root     INFO: Câmara aprova <del>texto-base de</del> projeto que revoga a Lei de Segurança <del>Nacional</del> <ins>Nacional; texto segue para o Senado</ins>
+2021-05-05 10:53:23,331          root     INFO: Media ready with ids: 1389895995958472705
+2021-05-05 10:53:23,332          root     INFO: Text to tweet: Modificação do Título
+2021-05-05 10:53:23,332          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-aprova-texto-base-de-projeto-que-revoga-a-lei-de-seguranca-nacional.shtml
+2021-05-05 10:53:23,340          root     INFO: Replying to: 1389749922203844608
+2021-05-05 10:53:23,572          root     INFO: Id to store: 1389895997380304896
+2021-05-05 10:53:23,578          root     INFO: A Câmara dos Deputados aprovou nesta terça-feira (4) o <del>texto-base do</del> projeto que revoga a Lei de Segurança Nacional e <del>pune</del> <ins>prevê punição para</ins> quem atentar contra o Estado democrático de <del>Direito, prevendo até cinco anos de prisão para quem contratar empresas para disseminar notícias falsas que possam comprometer o processo eleitoral no país.</del> <ins>Direito.</ins> Leia mais (05/04/2021 - 19h22)
+2021-05-05 10:53:28,349          root     INFO: Media ready with ids: 1389896016795680769
+2021-05-05 10:53:28,350          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-05 10:53:28,350          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-aprova-texto-base-de-projeto-que-revoga-a-lei-de-seguranca-nacional.shtml
+2021-05-05 10:53:28,359          root     INFO: Replying to: 1389895997380304896
+2021-05-05 10:53:28,577          root     INFO: Id to store: 1389896018377035780
+2021-05-05 10:53:33,228          root     INFO: Finished script
