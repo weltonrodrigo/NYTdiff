@@ -1,18 +1,6 @@
-2021-05-05 13:38:47,039          root     INFO: Starting script
-2021-05-05 13:38:47,892          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-05 13:38:48,579          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-05 13:38:49,257          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-05 13:38:49,493          root     INFO: Parsing R7 - Brasil
-2021-05-05 13:38:50,502          root     INFO: Enfermeiras entram no foco dos debates sobre Olimpíada <ins>de Tóquio</ins>
-2021-05-05 13:38:52,202          root     INFO: Media ready with ids: 1389937640628232192
-2021-05-05 13:38:52,203          root     INFO: Text to tweet: Modificação do Título
-2021-05-05 13:38:52,203          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/05/enfermeiras-entram-no-foco-dos-debates-sobre-olimpiada.shtml
-2021-05-05 13:38:52,211          root     INFO: Replying to: 1389560054433583105
-2021-05-05 13:38:52,438          root     INFO: Id to store: 1389937641949368329
-2021-05-05 13:38:52,446          root     INFO: Continua no Japão o debate sobre possíveis efeitos danosos da pandemia <del>do novo coronavírus (Covid-19)</del> <ins>de Covid-19</ins> na Olimpíada de Tóquio, caso esta seja mesmo confirmada definitivamente, sem possibilidade de reviravolta, para começar em 23 de julho próximo. Leia mais (05/03/2021 - 23h15)
-2021-05-05 13:38:54,112          root     INFO: Media ready with ids: 1389937648534532101
-2021-05-05 13:38:54,113          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-05 13:38:54,113          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/05/enfermeiras-entram-no-foco-dos-debates-sobre-olimpiada.shtml
-2021-05-05 13:38:54,122          root     INFO: Replying to: 1389937641949368329
-2021-05-05 13:38:54,326          root     INFO: Id to store: 1389937649947918339
-2021-05-05 13:39:01,437          root     INFO: Finished script
+2021-05-05 13:51:47,438          root     INFO: Starting script
+2021-05-05 13:51:48,239          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-05 13:51:48,886          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-05 13:51:49,540          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-05 13:51:49,669          root     INFO: Parsing R7 - Brasil
+2021-05-05 13:51:56,847          root     INFO: Finished script
