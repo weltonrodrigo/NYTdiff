@@ -1,6 +1,16 @@
-2021-05-05 19:58:04,373          root     INFO: Starting script
-2021-05-05 19:58:05,222          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-05 19:58:05,898          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-05 19:58:06,580          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-05 19:58:06,724          root     INFO: Parsing R7 - Brasil
-2021-05-05 19:58:14,899          root     INFO: Finished script
+2021-05-05 20:26:22,088          root     INFO: Starting script
+2021-05-05 20:26:23,042          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-05 20:26:23,852          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-05 20:26:24,654          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-05 20:26:24,939          root     INFO: Parsing R7 - Brasil
+2021-05-05 20:26:25,096          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/05/viver-a-maternidade-na-pandemia-e-como-estar-na-sequencia-de-rambo.shtml
+2021-05-05 20:26:25,111          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/veny-santos/2021/05/guedes-precisa-entender-que-filhos-de-porteiros-tem-muito-mais-o-que-fazer.shtml
+2021-05-05 20:26:27,475          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-tour-por-brasilia-lula-avanca-sobre-aliados-de-bolsonaro-em-articulacoes-para-eleicoes-de-2022.shtml
+2021-05-05 20:26:27,490          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/deputado-questiona-sanidade-mental-de-bolsonaro-apos-insinuacao-sobre-china.shtml
+2021-05-05 20:26:29,851          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/05/apos-vitoria-de-geracao-greta-merkel-aperta-o-passo-de-lei-climatica.shtml
+2021-05-05 20:26:32,532          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/04/o-futuro-e-sombrio.shtml
+2021-05-05 20:26:32,537          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2021/05/repressao-selvagem.shtml
+2021-05-05 20:26:32,542          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/02/mundo-tem-ultima-chance-de-impedir-catastrofe-climatica-diz-kerry.shtml
+2021-05-05 20:26:32,546          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/seminario-internacional-online-e-gratuito-discute-liberdade-de-imprensa.shtml
+2021-05-05 20:26:32,550          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/gestao-covas-ja-fez-duas-reunioes-com-consulado-de-cuba-para-tratar-importacao-de-vacina-para-covid-19.shtml
+2021-05-05 20:26:32,551          root     INFO: Finished script
