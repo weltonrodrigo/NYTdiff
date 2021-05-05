@@ -1,25 +1,26 @@
-2021-05-05 16:45:29,333          root     INFO: Starting script
-2021-05-05 16:45:30,222          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-05 16:45:30,890          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-05 16:45:31,560          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-05 16:45:31,815          root     INFO: Parsing R7 - Brasil
-2021-05-05 16:45:34,614          root     INFO: Com Teich na CPI da Covid, Bolsonaro chama de canalha quem se opõe ao <del>tratamento</del> <ins>'tratamento</ins> precoce'
-2021-05-05 16:45:36,347          root     INFO: Media ready with ids: 1389984634134482948
-2021-05-05 16:45:36,348          root     INFO: Text to tweet: Modificação do Título
-2021-05-05 16:45:36,348          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-teich-na-cpi-da-covid-bolsonaro-chama-de-canalha-quem-se-opoe-ao-tratamento-precoce.shtml
-2021-05-05 16:45:36,356          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-teich-na-cpi-da-covid-bolsonaro-chama-de-canalha-quem-se-opoe-ao-tratamento-precoce.shtml
-2021-05-05 16:45:36,528          root     INFO: Replying to: 1389984635589890054
-2021-05-05 16:45:36,742          root     INFO: Id to store: 1389984636277755904
-2021-05-05 16:45:36,750          root     INFO: No dia em que o ex-ministro Nelson Teich disse à CPI da Covid ter deixado o governo por divergências com o presidente Jair Bolsonaro <del>(sem partido)</del> sobre o uso da cloroquina, o mandatário <del>afirmou</del> <ins>chamou de canalhas aqueles</ins> que <del>quem é</del> <ins>não apresentam alternativa e ao mesmo tempo se colocam</ins> contra o chamado tratamento precoce -baseado no uso da substância sem eficácia para a <del>Covid- sem apresentar alternativa é "canalha".</del> <ins>Covid.</ins> Leia mais (05/05/2021 - 12h54)
-2021-05-05 16:45:38,452          root     INFO: Media ready with ids: 1389984642904829954
-2021-05-05 16:45:38,453          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-05 16:45:38,453          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-teich-na-cpi-da-covid-bolsonaro-chama-de-canalha-quem-se-opoe-ao-tratamento-precoce.shtml
-2021-05-05 16:45:38,461          root     INFO: Replying to: 1389984636277755904
-2021-05-05 16:45:38,677          root     INFO: Id to store: 1389984644389654538
-2021-05-05 16:45:38,724          root     INFO: Em meio ao segundo dia de depoimento <del>da</del> <ins>na</ins> CPI da Covid do Senado, <ins>que apura ações e omissões do governo federal na pandemia,</ins> o presidente Jair Bolsonaro <del>(sem partido)</del> voltou <ins>nesta quarta-feira (5)</ins> a ameaçar editar um decreto contra medidas de isolamento social tomadas por governadores e <del>prefeitos para, segundo o mandatário, garantir a realização de cultos e a "liberdade para poder trabalhar".</del> <ins>prefeitos.</ins> Leia mais (05/05/2021 - 11h06)
-2021-05-05 16:45:40,507          root     INFO: Media ready with ids: 1389984651276599296
-2021-05-05 16:45:40,508          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-05 16:45:40,508          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-ousem-contestar-diz-bolsonaro-em-recado-ao-stf-de-que-ira-barrar-eventual-lockdown-nos-estados.shtml
-2021-05-05 16:45:40,520          root     INFO: Replying to: 1389972668716290048
-2021-05-05 16:45:40,743          root     INFO: Id to store: 1389984653025677317
-2021-05-05 16:45:46,283          root     INFO: Finished script
+2021-05-05 17:23:19,423          root     INFO: Starting script
+2021-05-05 17:23:20,258          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-05 17:23:20,941          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-05 17:23:21,632          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-05 17:23:21,844          root     INFO: Parsing R7 - Brasil
+2021-05-05 17:23:24,663          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/bancada-do-psol-quer-que-ministro-da-justica-explique-intimacoes-de-guajajara-e-boulos-pela-pf.shtml
+2021-05-05 17:23:29,829          root     INFO: New article tracked: http://noticias.r7.com/brasil/participacao-das-mulheres-na-cpi-da-covid-causa-briga-05052021
+2021-05-05 17:23:29,841          root     INFO: New article tracked: http://noticias.r7.com/brasil/teich-diz-ser-inadequada-liberacao-da-cloroquina-pelo-cfm-05052021
+2021-05-05 17:23:29,854          root     INFO: New article tracked: http://noticias.r7.com/brasil/ccj-da-camara-comeca-a-debater-impeachment-de-ministros-do-stf-05052021
+2021-05-05 17:23:29,874          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-ensino-que-vive-para-atrasar-nao-adianta-05052021
+2021-05-05 17:23:29,886          root     INFO: New article tracked: http://noticias.r7.com/brasil/ccj-aprova-projeto-que-preve-venda-de-etanol-da-refinaria-para-postos-05052021
+2021-05-05 17:23:29,899          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-reclama-de-cpi-da-covid-do-senado-e-volta-a-atacar-china-05052021
+2021-05-05 17:23:29,913          root     INFO: New article tracked: http://noticias.r7.com/brasil/teich-diz-que-live-de-bolsonaro-a-favor-da-cloroquina-o-fez-desistir-05052021
+2021-05-05 17:23:29,925          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sobe-o-tom-e-diz-ter-pronto-decreto-contra-lockdowns-05052021
+2021-05-05 17:23:29,938          root     INFO: New article tracked: http://noticias.r7.com/brasil/seria-adequado-conhecimento-maior-diz-teich-sobre-pazuello-05052021
+2021-05-05 17:23:29,950          root     INFO: New article tracked: http://noticias.r7.com/brasil/mandetta-nao-precisava-ter-atacado-guedes-diz-mourao-05052021
+2021-05-05 17:23:29,962          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-teich-diz-que-saiu-do-governo-por-falta-de-autonomia-05052021
+2021-05-05 17:23:29,973          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-hoje-ex-ministro-nelson-teich-veja-ao-vivo-05052021
+2021-05-05 17:23:29,984          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-anuncia-encontro-com-robson-que-chega-hoje-ao-brasil-05052021
+2021-05-05 17:23:29,995          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-operacao-contra-crimes-financeiros-em-4-estados-e-no-df-05052021
+2021-05-05 17:23:30,009          root     INFO: New article tracked: http://noticias.r7.com/brasil/iel-abre-mais-de-18-mil-vagas-de-estagio-no-pais-em-maio-05052021
+2021-05-05 17:23:30,025          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-promete-debater-hoje-impeachment-de-ministros-do-stf-05052021
+2021-05-05 17:23:30,038          root     INFO: New article tracked: http://noticias.r7.com/brasil/nelson-teich-sera-ouvido-nesta-quarta-feira-5-pela-cpi-da-covid-05052021
+2021-05-05 17:23:30,049          root     INFO: New article tracked: http://noticias.r7.com/brasil/nascidos-em-abril-podem-sacar-auxilio-emergencial-nesta-quarta-05052021
+2021-05-05 17:23:30,122          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/04/partidos-de-oposicao-discutem-criacao-de-mesa-para-unificar-discurso-contra-bolsonaro.shtml
+2021-05-05 17:23:30,122          root     INFO: Finished script
