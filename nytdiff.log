@@ -1,14 +1,25 @@
-2021-05-05 15:57:55,358          root     INFO: Starting script
-2021-05-05 15:57:56,460          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-05 15:57:57,227          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-05 15:57:57,999          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-05 15:57:58,235          root     INFO: Parsing R7 - Brasil
-2021-05-05 15:58:01,174          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-teich-na-cpi-da-covid-bolsonaro-chama-de-canalha-quem-se-opoe-ao-tratamento-precoce.shtml
-2021-05-05 15:58:01,217          root     INFO: Em meio ao segundo dia de depoimento <del>da</del> <ins>na</ins> CPI da Covid do Senado, <ins>que apura ações e omissões do governo na pandemia,</ins> o presidente Jair Bolsonaro <del>(sem partido)</del> voltou <ins>nesta quarta-feira (5)</ins> a ameaçar editar um decreto contra medidas de isolamento social tomadas por governadores e <del>prefeitos para, segundo o mandatário, garantir a realização de cultos e a "liberdade para poder trabalhar".</del> <ins>prefeitos.</ins> Leia mais (05/05/2021 - 11h06)
-2021-05-05 15:58:03,060          root     INFO: Media ready with ids: 1389972666556289028
-2021-05-05 15:58:03,061          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-05 15:58:03,061          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-ousem-contestar-diz-bolsonaro-em-recado-ao-stf-de-que-ira-barrar-eventual-lockdown-nos-estados.shtml
-2021-05-05 15:58:03,071          root     INFO: Replying to: 1389955436590374913
-2021-05-05 15:58:03,510          root     INFO: Id to store: 1389972668716290048
-2021-05-05 15:58:09,517          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/04/precisamos-de-mentes-criticas-em-tempos-criticos-diz-diretora-da-unesco.shtml
-2021-05-05 15:58:09,518          root     INFO: Finished script
+2021-05-05 16:45:29,333          root     INFO: Starting script
+2021-05-05 16:45:30,222          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-05 16:45:30,890          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-05 16:45:31,560          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-05 16:45:31,815          root     INFO: Parsing R7 - Brasil
+2021-05-05 16:45:34,614          root     INFO: Com Teich na CPI da Covid, Bolsonaro chama de canalha quem se opõe ao <del>tratamento</del> <ins>'tratamento</ins> precoce'
+2021-05-05 16:45:36,347          root     INFO: Media ready with ids: 1389984634134482948
+2021-05-05 16:45:36,348          root     INFO: Text to tweet: Modificação do Título
+2021-05-05 16:45:36,348          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-teich-na-cpi-da-covid-bolsonaro-chama-de-canalha-quem-se-opoe-ao-tratamento-precoce.shtml
+2021-05-05 16:45:36,356          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-teich-na-cpi-da-covid-bolsonaro-chama-de-canalha-quem-se-opoe-ao-tratamento-precoce.shtml
+2021-05-05 16:45:36,528          root     INFO: Replying to: 1389984635589890054
+2021-05-05 16:45:36,742          root     INFO: Id to store: 1389984636277755904
+2021-05-05 16:45:36,750          root     INFO: No dia em que o ex-ministro Nelson Teich disse à CPI da Covid ter deixado o governo por divergências com o presidente Jair Bolsonaro <del>(sem partido)</del> sobre o uso da cloroquina, o mandatário <del>afirmou</del> <ins>chamou de canalhas aqueles</ins> que <del>quem é</del> <ins>não apresentam alternativa e ao mesmo tempo se colocam</ins> contra o chamado tratamento precoce -baseado no uso da substância sem eficácia para a <del>Covid- sem apresentar alternativa é "canalha".</del> <ins>Covid.</ins> Leia mais (05/05/2021 - 12h54)
+2021-05-05 16:45:38,452          root     INFO: Media ready with ids: 1389984642904829954
+2021-05-05 16:45:38,453          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-05 16:45:38,453          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-teich-na-cpi-da-covid-bolsonaro-chama-de-canalha-quem-se-opoe-ao-tratamento-precoce.shtml
+2021-05-05 16:45:38,461          root     INFO: Replying to: 1389984636277755904
+2021-05-05 16:45:38,677          root     INFO: Id to store: 1389984644389654538
+2021-05-05 16:45:38,724          root     INFO: Em meio ao segundo dia de depoimento <del>da</del> <ins>na</ins> CPI da Covid do Senado, <ins>que apura ações e omissões do governo federal na pandemia,</ins> o presidente Jair Bolsonaro <del>(sem partido)</del> voltou <ins>nesta quarta-feira (5)</ins> a ameaçar editar um decreto contra medidas de isolamento social tomadas por governadores e <del>prefeitos para, segundo o mandatário, garantir a realização de cultos e a "liberdade para poder trabalhar".</del> <ins>prefeitos.</ins> Leia mais (05/05/2021 - 11h06)
+2021-05-05 16:45:40,507          root     INFO: Media ready with ids: 1389984651276599296
+2021-05-05 16:45:40,508          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-05 16:45:40,508          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-ousem-contestar-diz-bolsonaro-em-recado-ao-stf-de-que-ira-barrar-eventual-lockdown-nos-estados.shtml
+2021-05-05 16:45:40,520          root     INFO: Replying to: 1389972668716290048
+2021-05-05 16:45:40,743          root     INFO: Id to store: 1389984653025677317
+2021-05-05 16:45:46,283          root     INFO: Finished script
