@@ -1,10 +1,10 @@
-2021-05-06 04:43:14,998          root     INFO: Starting script
-2021-05-06 04:43:16,013          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-06 04:43:16,851          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-06 04:43:17,688          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-06 04:43:17,913          root     INFO: Parsing R7 - Brasil
-2021-05-06 04:43:26,447          root     INFO: New article tracked: http://noticias.r7.com/brasil/eua-vao-enviar-doses-de-vacinas-ao-brasil-em-breve-diz-bolsonaro-05052021
-2021-05-06 04:43:26,462          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-presenca-de-ministro-novo-chefe-da-pf-em-sp-toma-posse-05052021
-2021-05-06 04:43:26,476          root     INFO: New article tracked: http://noticias.r7.com/brasil/justica-suspende-investigacao-contra-a-lider-sonia-guajajara-05052021
-2021-05-06 04:43:26,489          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-recebe-motorista-que-ficou-dois-anos-preso-na-russia-05052021
-2021-05-06 04:43:26,936          root     INFO: Finished script
+2021-05-06 05:01:00,681          root     INFO: Starting script
+2021-05-06 05:01:01,620          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-06 05:01:02,393          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-06 05:01:03,168          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-06 05:01:03,380          root     INFO: Parsing R7 - Brasil
+2021-05-06 05:01:10,810          root     INFO: Removed http://noticias.r7.com/brasil/eua-vao-enviar-doses-de-vacinas-ao-brasil-em-breve-diz-bolsonaro-05052021
+2021-05-06 05:01:10,815          root     INFO: Removed http://noticias.r7.com/brasil/com-presenca-de-ministro-novo-chefe-da-pf-em-sp-toma-posse-05052021
+2021-05-06 05:01:10,819          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-recebe-motorista-que-ficou-dois-anos-preso-na-russia-05052021
+2021-05-06 05:01:10,824          root     INFO: Removed http://noticias.r7.com/brasil/justica-suspende-investigacao-contra-a-lider-sonia-guajajara-05052021
+2021-05-06 05:01:10,825          root     INFO: Finished script
