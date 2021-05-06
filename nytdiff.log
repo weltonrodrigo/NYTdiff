@@ -1,25 +1,28 @@
-2021-05-06 20:27:40,268          root     INFO: Starting script
-2021-05-06 20:27:41,678          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-06 20:27:42,463          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-06 20:27:43,266          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-06 20:27:43,446          root     INFO: Parsing R7 - Brasil
-2021-05-06 20:27:46,230          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/vereador-diz-que-nao-assinou-pedido-de-cpi-da-covid-em-sp-e-pede-pericia-no-sistema-da-camara.shtml
-2021-05-06 20:27:46,246          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/na-cpi-da-covid-queiroga-distorce-dados-sobre-vacinacao-e-testagem-veja-checagem.shtml
-2021-05-06 20:27:46,259          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/show-de-omissao-de-queiroga-na-cpi-lembra-que-o-problema-e-bolsonaro.shtml
-2021-05-06 20:27:46,329          root     INFO: Ministro <del>dribla perguntas</del> <ins>se omite</ins> sobre atuação de Bolsonaro na pandemia e irrita comando da CPI
-2021-05-06 20:27:48,101          root     INFO: Media ready with ids: 1390402939462856704
-2021-05-06 20:27:48,101          root     INFO: Text to tweet: Modificação do Título
-2021-05-06 20:27:48,101          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-dribla-perguntas-sobre-atuacao-de-bolsonaro-na-pandemia-e-irrita-comando-da-cpi.shtml
-2021-05-06 20:27:48,111          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-dribla-perguntas-sobre-atuacao-de-bolsonaro-na-pandemia-e-irrita-comando-da-cpi.shtml
-2021-05-06 20:27:48,359          root     INFO: Replying to: 1390402941190819841
-2021-05-06 20:27:48,640          root     INFO: Id to store: 1390402942121951234
-2021-05-06 20:27:48,647          root     INFO: O ministro <ins>da Saúde,</ins> Marcelo <del>Queiroga (Saúde)</del> <ins>Queiroga,</ins> irritou membros da CPI da Covid por evitar responder perguntas sobre a atuação do presidente Jair Bolsonaro (sem partido) no enfrentamento da pandemia. Leia mais (05/06/2021 - 13h54)
-2021-05-06 20:27:50,350          root     INFO: Media ready with ids: 1390402948971257858
-2021-05-06 20:27:50,350          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-06 20:27:50,350          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-dribla-perguntas-sobre-atuacao-de-bolsonaro-na-pandemia-e-irrita-comando-da-cpi.shtml
-2021-05-06 20:27:50,358          root     INFO: Replying to: 1390402942121951234
-2021-05-06 20:27:50,646          root     INFO: Id to store: 1390402950556684292
-2021-05-06 20:27:56,176          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/camara-se-recusa-a-divulgar-lista-de-servidores-que-receberam-vacina-contra-covid-dentro-da-casa.shtml
-2021-05-06 20:27:56,182          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/inqueritos-baseados-na-lei-de-seguranca-nacional-apontam-banalizacao-de-acoes.shtml
-2021-05-06 20:27:56,187          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/medico-do-centro-de-contingencia-de-sp-preve-500-mil-mortos-por-covid-no-brasil-ate-agosto.shtml
-2021-05-06 20:27:56,188          root     INFO: Finished script
+2021-05-06 20:49:43,053          root     INFO: Starting script
+2021-05-06 20:49:44,012          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-06 20:49:44,800          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-06 20:49:45,609          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-06 20:49:45,878          root     INFO: Parsing R7 - Brasil
+2021-05-06 20:49:48,364          root     INFO: Vereador <ins>do PSL</ins> diz que não assinou pedido de CPI da Covid em SP e pede <del>perícia no sistema da</del> <ins>perícia;</ins> Câmara <ins>rebate</ins>
+2021-05-06 20:49:50,322          root     INFO: Media ready with ids: 1390408484416544770
+2021-05-06 20:49:50,323          root     INFO: Text to tweet: Modificação do Título
+2021-05-06 20:49:50,323          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/vereador-diz-que-nao-assinou-pedido-de-cpi-da-covid-em-sp-e-pede-pericia-no-sistema-da-camara.shtml
+2021-05-06 20:49:50,331          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/vereador-diz-que-nao-assinou-pedido-de-cpi-da-covid-em-sp-e-pede-pericia-no-sistema-da-camara.shtml
+2021-05-06 20:49:50,622          root     INFO: Replying to: 1390408487113482241
+2021-05-06 20:49:50,896          root     INFO: Id to store: 1390408488002768896
+2021-05-06 20:49:55,249          root     INFO: New article tracked: http://noticias.r7.com/brasil/supremo-tem-maioria-contra-prorrogacao-do-prazo-das-patentes-06052021
+2021-05-06 20:49:55,260          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-depoimento-de-diretor-da-anvisa-e-remarcado-para-terca-06052021
+2021-05-06 20:49:55,271          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-prepara-dois-programas-de-emprego-para-jovens-informais-06052021
+2021-05-06 20:49:55,281          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-queiroga-diz-que-isolamento-vertical-e-uma-tatica-ultrapassada-06052021
+2021-05-06 20:49:55,293          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-pagamento-proporcional-em-pedagios-06052021
+2021-05-06 20:49:55,305          root     INFO: New article tracked: http://noticias.r7.com/brasil/temos-o-direito-de-mudar-de-opiniao-diz-ministro-sobre-patentes-06052021
+2021-05-06 20:49:55,315          root     INFO: New article tracked: http://noticias.r7.com/brasil/classe-medica-esta-dividida-sobre-tratamento-precoce-diz-queiroga-06052021
+2021-05-06 20:49:55,326          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-envia-hoje-39-milhoes-de-vacinas-da-oxford-a-todo-o-pais-06052021
+2021-05-06 20:49:55,338          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-lider-quer-teto-de-arrecadacao-na-reforma-tributaria-06052021
+2021-05-06 20:49:55,350          root     INFO: New article tracked: http://noticias.r7.com/brasil/pergunta-sobre-cloroquina-gera-bate-boca-na-cpi-da-covid-06052021
+2021-05-06 20:49:55,362          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-espera-35-milhoes-de-doses-da-pfizer-em-setembro-06052021
+2021-05-06 20:49:55,374          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-evita-dizer-se-apoia-decreto-contra-restricoes-06052021
+2021-05-06 20:49:55,386          root     INFO: New article tracked: http://noticias.r7.com/brasil/no-senado-chanceler-fala-em-corrida-contra-o-tempo-por-vacinas-06052021
+2021-05-06 20:49:55,398          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-diz-que-encontrou-logistica-eficiente-no-ministerio-06052021
+2021-05-06 20:49:55,408          root     INFO: New article tracked: http://noticias.r7.com/brasil/atual-ministro-da-saude-e-ouvido-na-cpi-da-covid-veja-ao-vivo-06052021
+2021-05-06 20:49:55,547          root     INFO: Finished script
