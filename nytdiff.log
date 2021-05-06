@@ -1,13 +1,10 @@
-2021-05-06 18:46:51,946          root     INFO: Starting script
-2021-05-06 18:46:53,176          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-06 18:46:53,865          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-06 18:46:54,549          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-06 18:46:54,724          root     INFO: Parsing R7 - Brasil
-2021-05-06 18:46:57,506          root     INFO: Alexandre Saraiva, delegado da Polícia Federal <del>que foi retirado na superintendência do Amazonas após atrito com</del> <ins>denunciou</ins> o ministro Ricardo Salles (Meio Ambiente), publicou um recado nas redes sociais. Leia mais (05/06/2021 - 12h20)
-2021-05-06 18:46:59,427          root     INFO: Media ready with ids: 1390377569271287808
-2021-05-06 18:46:59,428          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-06 18:46:59,428          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/aviso-aos-ladroes-de-madeira-o-jogo-so-termina-quando-acaba-diz-delegado-da-pf-que-denunciou-salles.shtml
-2021-05-06 18:46:59,435          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/aviso-aos-ladroes-de-madeira-o-jogo-so-termina-quando-acaba-diz-delegado-da-pf-que-denunciou-salles.shtml
-2021-05-06 18:46:59,598          root     INFO: Replying to: 1390377570873532423
-2021-05-06 18:46:59,821          root     INFO: Id to store: 1390377571548901379
-2021-05-06 18:47:04,859          root     INFO: Finished script
+2021-05-06 19:06:30,265          root     INFO: Starting script
+2021-05-06 19:06:31,330          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-06 19:06:32,144          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-06 19:06:32,951          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-06 19:06:33,156          root     INFO: Parsing R7 - Brasil
+2021-05-06 19:06:33,318          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/perguntas-a-queima-roupa.shtml
+2021-05-06 19:06:35,618          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/governador-de-sc-enfrenta-nesta-sexta-feira-julgamento-de-2o-processo-de-impeachment.shtml
+2021-05-06 19:06:40,646          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/musicais-e-o-prazer-sem-fim.shtml
+2021-05-06 19:06:40,651          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/conheca-20-atingidos-por-investigacoes-de-crimes-da-lei-de-seguranca-nacional-e-opositores-de-bolsonaro.shtml
+2021-05-06 19:06:40,651          root     INFO: Finished script
