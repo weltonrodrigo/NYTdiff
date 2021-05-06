@@ -1,17 +1,11 @@
-2021-05-06 17:28:24,119          root     INFO: Starting script
-2021-05-06 17:28:24,980          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-06 17:28:25,650          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-06 17:28:26,326          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-06 17:28:26,597          root     INFO: Parsing R7 - Brasil
-2021-05-06 17:28:26,778          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/05/paulo-gustavo-teve-uma-passagem-visceral-vitoriosa-e-avassaladora-na-minha-vida.shtml
-2021-05-06 17:28:29,738          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-dribla-perguntas-sobre-atuacao-de-bolsonaro-na-pandemia-e-irrita-comando-da-cpi.shtml
-2021-05-06 17:28:30,236          root     INFO: Símbolo da falta de projeto civil para as Forças Armadas, as GLOs (Operações de Garantia da Lei e da Ordem) completarão <del>20</del> <ins>30</ins> anos em 2022 com um legado questionado igualmente por militares e civis. Leia mais (05/05/2021 - 23h15)
-2021-05-06 17:28:31,978          root     INFO: Media ready with ids: 1390357824979488771
-2021-05-06 17:28:31,979          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-06 17:28:31,979          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/forcas-armadas-em-acoes-de-seguranca-publica-tem-legado-questionado-por-militares-e-civis.shtml
-2021-05-06 17:28:31,988          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/forcas-armadas-em-acoes-de-seguranca-publica-tem-legado-questionado-por-militares-e-civis.shtml
-2021-05-06 17:28:32,177          root     INFO: Replying to: 1390357826510508035
-2021-05-06 17:28:32,449          root     INFO: Id to store: 1390357827181551616
-2021-05-06 17:28:38,339          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-desemprego-em-alta-concursos-militares-veem-crescimento-de-inscricoes.shtml
-2021-05-06 17:28:38,346          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/catastrofe-indiana.shtml
-2021-05-06 17:28:38,347          root     INFO: Finished script
+2021-05-06 18:06:39,597          root     INFO: Starting script
+2021-05-06 18:06:40,664          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-06 18:06:41,486          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-06 18:06:42,285          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-06 18:06:42,540          root     INFO: Parsing R7 - Brasil
+2021-05-06 18:06:51,572          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-criacao-de-loterias-para-financiar-saude-e-turismo-06052021
+2021-05-06 18:06:51,577          root     INFO: Removed http://noticias.r7.com/brasil/pf-apreende-10-aeronaves-e-coloca-traficantes-internacionais-na-cadeia-06052021
+2021-05-06 18:06:51,582          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-exonera-ex-ministro-carlos-marun-na-usina-de-itaipu-06052021
+2021-05-06 18:06:51,586          root     INFO: Removed http://noticias.r7.com/brasil/videos/pf-apreende-10-aeronaves-e-coloca-traficantes-internacionais-na-cadeia-06052021
+2021-05-06 18:06:51,592          root     INFO: Removed http://noticias.r7.com/brasil/deputados-citam-indicios-de-fraudes-em-contratos-da-defesa-06052021
+2021-05-06 18:06:51,593          root     INFO: Finished script
