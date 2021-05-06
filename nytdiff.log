@@ -1,14 +1,17 @@
-2021-05-06 16:48:09,140          root     INFO: Starting script
-2021-05-06 16:48:10,338          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-06 16:48:11,008          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-06 16:48:11,693          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-06 16:48:11,933          root     INFO: Parsing R7 - Brasil
-2021-05-06 16:48:12,097          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/abi-em-defesa-dos-jornalistas-e-do-direito-a-informacao.shtml
-2021-05-06 16:48:14,745          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/promotoria-apura-prisao-feita-por-pms-sem-mandado-em-ato-com-bolsonaristas-em-bh.shtml
-2021-05-06 16:48:14,759          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/newsletter-da-folha-traz-destaques-da-agenda-semanal-do-supremo-saiba-como-recebe-la.shtml
-2021-05-06 16:48:14,778          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/cpi-da-covid-silencia-e-exclui-senadoras-diz-grupo-de-cientistas-brasileiras.shtml
-2021-05-06 16:48:20,553          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2021/05/nao-ha-mais-governo-e-ninguem-se-dispoe-a-derrubar-quem-ja-desistiu-de-governar.shtml
-2021-05-06 16:48:20,558          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/jovens-tem-formacao-conservadora-e-buscam-estabilidade-na-fabrica-de-oficiais-do-exercito.shtml
-2021-05-06 16:48:20,563          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/05/lava-jato-mani-pulite.shtml
-2021-05-06 16:48:20,568          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-ex-superministro.shtml
-2021-05-06 16:48:20,569          root     INFO: Finished script
+2021-05-06 17:28:24,119          root     INFO: Starting script
+2021-05-06 17:28:24,980          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-06 17:28:25,650          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-06 17:28:26,326          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-06 17:28:26,597          root     INFO: Parsing R7 - Brasil
+2021-05-06 17:28:26,778          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/05/paulo-gustavo-teve-uma-passagem-visceral-vitoriosa-e-avassaladora-na-minha-vida.shtml
+2021-05-06 17:28:29,738          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-dribla-perguntas-sobre-atuacao-de-bolsonaro-na-pandemia-e-irrita-comando-da-cpi.shtml
+2021-05-06 17:28:30,236          root     INFO: Símbolo da falta de projeto civil para as Forças Armadas, as GLOs (Operações de Garantia da Lei e da Ordem) completarão <del>20</del> <ins>30</ins> anos em 2022 com um legado questionado igualmente por militares e civis. Leia mais (05/05/2021 - 23h15)
+2021-05-06 17:28:31,978          root     INFO: Media ready with ids: 1390357824979488771
+2021-05-06 17:28:31,979          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-06 17:28:31,979          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/forcas-armadas-em-acoes-de-seguranca-publica-tem-legado-questionado-por-militares-e-civis.shtml
+2021-05-06 17:28:31,988          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/forcas-armadas-em-acoes-de-seguranca-publica-tem-legado-questionado-por-militares-e-civis.shtml
+2021-05-06 17:28:32,177          root     INFO: Replying to: 1390357826510508035
+2021-05-06 17:28:32,449          root     INFO: Id to store: 1390357827181551616
+2021-05-06 17:28:38,339          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-desemprego-em-alta-concursos-militares-veem-crescimento-de-inscricoes.shtml
+2021-05-06 17:28:38,346          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/catastrofe-indiana.shtml
+2021-05-06 17:28:38,347          root     INFO: Finished script
