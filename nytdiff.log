@@ -1,6 +1,25 @@
-2021-05-06 19:58:03,703          root     INFO: Starting script
-2021-05-06 19:58:04,595          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-06 19:58:05,263          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-06 19:58:05,924          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-06 19:58:06,180          root     INFO: Parsing R7 - Brasil
-2021-05-06 19:58:15,026          root     INFO: Finished script
+2021-05-06 20:27:40,268          root     INFO: Starting script
+2021-05-06 20:27:41,678          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-06 20:27:42,463          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-06 20:27:43,266          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-06 20:27:43,446          root     INFO: Parsing R7 - Brasil
+2021-05-06 20:27:46,230          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/vereador-diz-que-nao-assinou-pedido-de-cpi-da-covid-em-sp-e-pede-pericia-no-sistema-da-camara.shtml
+2021-05-06 20:27:46,246          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/na-cpi-da-covid-queiroga-distorce-dados-sobre-vacinacao-e-testagem-veja-checagem.shtml
+2021-05-06 20:27:46,259          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/show-de-omissao-de-queiroga-na-cpi-lembra-que-o-problema-e-bolsonaro.shtml
+2021-05-06 20:27:46,329          root     INFO: Ministro <del>dribla perguntas</del> <ins>se omite</ins> sobre atuação de Bolsonaro na pandemia e irrita comando da CPI
+2021-05-06 20:27:48,101          root     INFO: Media ready with ids: 1390402939462856704
+2021-05-06 20:27:48,101          root     INFO: Text to tweet: Modificação do Título
+2021-05-06 20:27:48,101          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-dribla-perguntas-sobre-atuacao-de-bolsonaro-na-pandemia-e-irrita-comando-da-cpi.shtml
+2021-05-06 20:27:48,111          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-dribla-perguntas-sobre-atuacao-de-bolsonaro-na-pandemia-e-irrita-comando-da-cpi.shtml
+2021-05-06 20:27:48,359          root     INFO: Replying to: 1390402941190819841
+2021-05-06 20:27:48,640          root     INFO: Id to store: 1390402942121951234
+2021-05-06 20:27:48,647          root     INFO: O ministro <ins>da Saúde,</ins> Marcelo <del>Queiroga (Saúde)</del> <ins>Queiroga,</ins> irritou membros da CPI da Covid por evitar responder perguntas sobre a atuação do presidente Jair Bolsonaro (sem partido) no enfrentamento da pandemia. Leia mais (05/06/2021 - 13h54)
+2021-05-06 20:27:50,350          root     INFO: Media ready with ids: 1390402948971257858
+2021-05-06 20:27:50,350          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-06 20:27:50,350          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-dribla-perguntas-sobre-atuacao-de-bolsonaro-na-pandemia-e-irrita-comando-da-cpi.shtml
+2021-05-06 20:27:50,358          root     INFO: Replying to: 1390402942121951234
+2021-05-06 20:27:50,646          root     INFO: Id to store: 1390402950556684292
+2021-05-06 20:27:56,176          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/camara-se-recusa-a-divulgar-lista-de-servidores-que-receberam-vacina-contra-covid-dentro-da-casa.shtml
+2021-05-06 20:27:56,182          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/inqueritos-baseados-na-lei-de-seguranca-nacional-apontam-banalizacao-de-acoes.shtml
+2021-05-06 20:27:56,187          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/medico-do-centro-de-contingencia-de-sp-preve-500-mil-mortos-por-covid-no-brasil-ate-agosto.shtml
+2021-05-06 20:27:56,188          root     INFO: Finished script
