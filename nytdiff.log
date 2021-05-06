@@ -1,15 +1,8 @@
-2021-05-06 15:30:34,211          root     INFO: Starting script
-2021-05-06 15:30:35,102          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-06 15:30:35,773          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-06 15:30:36,463          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-06 15:30:36,632          root     INFO: Parsing R7 - Brasil
-2021-05-06 15:30:36,764          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandre-schneider/2021/05/o-ensino-remoto-fracassou-e-agora.shtml
-2021-05-06 15:30:38,836          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/aviso-aos-ladroes-de-madeira-o-jogo-so-termina-quando-acaba-diz-delegado-da-pf-que-denunciou-salles.shtml
-2021-05-06 15:30:42,918          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-criacao-de-loterias-para-financiar-saude-e-turismo-06052021
-2021-05-06 15:30:42,929          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/pf-apreende-10-aeronaves-e-coloca-traficantes-internacionais-na-cadeia-06052021
-2021-05-06 15:30:42,938          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-apreende-10-aeronaves-e-coloca-traficantes-internacionais-na-cadeia-06052021
-2021-05-06 15:30:42,948          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputados-citam-indicios-de-fraudes-em-contratos-da-defesa-06052021
-2021-05-06 15:30:42,960          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-exonera-ex-ministro-carlos-marun-na-usina-de-itaipu-06052021
-2021-05-06 15:30:43,286          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/tecnologia-a-favor-do-racismo.shtml
-2021-05-06 15:30:43,290          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/lula-renan-2022.shtml
-2021-05-06 15:30:43,291          root     INFO: Finished script
+2021-05-06 15:59:09,996          root     INFO: Starting script
+2021-05-06 15:59:10,841          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-06 15:59:11,519          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-06 15:59:12,206          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-06 15:59:12,328          root     INFO: Parsing R7 - Brasil
+2021-05-06 15:59:15,126          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/senador-quer-ouvir-na-cpi-vice-do-amazonas-que-diz-que-politica-apoiada-por-bolsonaro-levou-manaus-ao-colapso.shtml
+2021-05-06 15:59:20,792          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/conquista-de-doria-filiacao-de-vice-ao-psdb-abala-apoio-estadual-e-nacional-a-governador.shtml
+2021-05-06 15:59:20,793          root     INFO: Finished script
