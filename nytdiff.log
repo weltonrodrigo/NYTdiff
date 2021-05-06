@@ -1,11 +1,13 @@
-2021-05-06 18:06:39,597          root     INFO: Starting script
-2021-05-06 18:06:40,664          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-06 18:06:41,486          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-06 18:06:42,285          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-06 18:06:42,540          root     INFO: Parsing R7 - Brasil
-2021-05-06 18:06:51,572          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-criacao-de-loterias-para-financiar-saude-e-turismo-06052021
-2021-05-06 18:06:51,577          root     INFO: Removed http://noticias.r7.com/brasil/pf-apreende-10-aeronaves-e-coloca-traficantes-internacionais-na-cadeia-06052021
-2021-05-06 18:06:51,582          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-exonera-ex-ministro-carlos-marun-na-usina-de-itaipu-06052021
-2021-05-06 18:06:51,586          root     INFO: Removed http://noticias.r7.com/brasil/videos/pf-apreende-10-aeronaves-e-coloca-traficantes-internacionais-na-cadeia-06052021
-2021-05-06 18:06:51,592          root     INFO: Removed http://noticias.r7.com/brasil/deputados-citam-indicios-de-fraudes-em-contratos-da-defesa-06052021
-2021-05-06 18:06:51,593          root     INFO: Finished script
+2021-05-06 18:46:51,946          root     INFO: Starting script
+2021-05-06 18:46:53,176          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-06 18:46:53,865          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-06 18:46:54,549          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-06 18:46:54,724          root     INFO: Parsing R7 - Brasil
+2021-05-06 18:46:57,506          root     INFO: Alexandre Saraiva, delegado da Polícia Federal <del>que foi retirado na superintendência do Amazonas após atrito com</del> <ins>denunciou</ins> o ministro Ricardo Salles (Meio Ambiente), publicou um recado nas redes sociais. Leia mais (05/06/2021 - 12h20)
+2021-05-06 18:46:59,427          root     INFO: Media ready with ids: 1390377569271287808
+2021-05-06 18:46:59,428          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-06 18:46:59,428          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/aviso-aos-ladroes-de-madeira-o-jogo-so-termina-quando-acaba-diz-delegado-da-pf-que-denunciou-salles.shtml
+2021-05-06 18:46:59,435          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/aviso-aos-ladroes-de-madeira-o-jogo-so-termina-quando-acaba-diz-delegado-da-pf-que-denunciou-salles.shtml
+2021-05-06 18:46:59,598          root     INFO: Replying to: 1390377570873532423
+2021-05-06 18:46:59,821          root     INFO: Id to store: 1390377571548901379
+2021-05-06 18:47:04,859          root     INFO: Finished script
