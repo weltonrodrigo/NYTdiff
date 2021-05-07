@@ -1,13 +1,22 @@
-2021-05-07 16:48:19,249          root     INFO: Starting script
-2021-05-07 16:48:20,087          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-07 16:48:20,764          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-07 16:48:21,450          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-07 16:48:21,564          root     INFO: Parsing R7 - Brasil
-2021-05-07 16:48:24,456          root     INFO: <del>'Não encha o saco', diz</del> Bolsonaro <del>em</del> <ins>repete ameaça de decreto e faz</ins> novo ataque à CPI da <del>Covid</del> <ins>Covid: 'Não encha o saco'</ins>
-2021-05-07 16:48:26,340          root     INFO: Media ready with ids: 1390710122020753414
-2021-05-07 16:48:26,340          root     INFO: Text to tweet: Modificação do Título
-2021-05-07 16:48:26,341          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-encha-o-saco-diz-bolsonaro-em-novo-ataque-a-cpi-da-covid.shtml
-2021-05-07 16:48:26,349          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-encha-o-saco-diz-bolsonaro-em-novo-ataque-a-cpi-da-covid.shtml
-2021-05-07 16:48:26,550          root     INFO: Replying to: 1390710124399013890
-2021-05-07 16:48:26,803          root     INFO: Id to store: 1390710125233680389
-2021-05-07 16:48:32,623          root     INFO: Finished script
+2021-05-07 17:27:33,837          root     INFO: Starting script
+2021-05-07 17:27:35,055          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-07 17:27:35,742          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-07 17:27:36,422          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-07 17:27:36,620          root     INFO: Parsing R7 - Brasil
+2021-05-07 17:27:39,032          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/em-meio-a-cpi-queiroga-publica-portaria-para-fiscalizar-uso-de-recursos-da-saude-por-governadores.shtml
+2021-05-07 17:27:39,047          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/tribunal-especial-forma-maioria-contra-impeachment-do-governador-de-sc.shtml
+2021-05-07 17:27:39,109          root     INFO: <del>'Não encha o saco', diz</del> Bolsonaro <del>em</del> <ins>repete ameaça de decreto e faz</ins> novo ataque à CPI da <del>Covid</del> <ins>Covid: 'Não encha o saco'</ins>
+2021-05-07 17:27:40,776          root     INFO: Media ready with ids: 1390719998138667016
+2021-05-07 17:27:40,777          root     INFO: Text to tweet: Modificação do Título
+2021-05-07 17:27:40,777          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-encha-o-saco-diz-bolsonaro-em-novo-ataque-a-cpi-da-covid.shtml
+2021-05-07 17:27:40,789          root     INFO: Replying to: 1390710125233680389
+2021-05-07 17:27:41,033          root     INFO: Id to store: 1390719999652896768
+2021-05-07 17:27:41,041          root     INFO: O presidente Jair Bolsonaro (sem partido) voltou <ins>nesta sexta-feira</ins> a atacar a CPI da <del>Covid. Nas redes sociais, respondeu a membros da comissão que criticam medicamentos sem eficácia comprovada que "não encham o saco". Segundo o presidente, o médico</del> <ins>Covid</ins> e <del>o paciente são livres para escolher como querem se tratar.</del> <ins>fazer ameaças sobre a edição de um decreto que impediria prefeitos e governadores de promover medidas mais duras de isolamento social em meio à pandemia do coronavírus.</ins> Leia mais (05/07/2021 - 11h17)
+2021-05-07 17:27:42,948          root     INFO: Media ready with ids: 1390720006325932034
+2021-05-07 17:27:42,948          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-07 17:27:42,948          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-encha-o-saco-diz-bolsonaro-em-novo-ataque-a-cpi-da-covid.shtml
+2021-05-07 17:27:42,958          root     INFO: Replying to: 1390719999652896768
+2021-05-07 17:27:43,179          root     INFO: Id to store: 1390720008611840000
+2021-05-07 17:27:48,166          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/governo-bolsonaro-deve-comecar-a-vacinar-atletas-brasileiros-para-os-jogos-de-toquio-em-9-de-maio.shtml
+2021-05-07 17:27:48,171          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/maia-ve-desgaste-para-o-dem-com-duelo-entre-mandetta-e-senador-bolsonarista-negacionista-na-cpi.shtml
+2021-05-07 17:27:48,172          root     INFO: Finished script
