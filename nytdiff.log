@@ -1,6 +1,29 @@
-2021-05-07 19:57:51,258          root     INFO: Starting script
-2021-05-07 19:57:52,284          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-07 19:57:53,082          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-07 19:57:53,878          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-07 19:57:54,087          root     INFO: Parsing R7 - Brasil
-2021-05-07 19:58:01,828          root     INFO: Finished script
+2021-05-07 20:26:49,531          root     INFO: Starting script
+2021-05-07 20:26:50,355          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-07 20:26:51,026          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-07 20:26:51,716          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-07 20:26:51,893          root     INFO: Parsing R7 - Brasil
+2021-05-07 20:26:52,694          root     INFO: Faltam mulheres na <del>China</del> <ins>China,</ins> e homens na zona rural sofrem para se casar
+2021-05-07 20:26:54,516          root     INFO: Media ready with ids: 1390765102710894597
+2021-05-07 20:26:54,516          root     INFO: Text to tweet: Modificação do Título
+2021-05-07 20:26:54,516          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/05/faltam-mulheres-na-china-e-homens-na-zona-rural-sofrem-para-se-casar.shtml
+2021-05-07 20:26:54,526          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/05/faltam-mulheres-na-china-e-homens-na-zona-rural-sofrem-para-se-casar.shtml
+2021-05-07 20:26:54,719          root     INFO: Replying to: 1390765104048787462
+2021-05-07 20:26:54,930          root     INFO: Id to store: 1390765104782794754
+2021-05-07 20:26:57,381          root     INFO: <del>'Não encha o saco', diz</del> Bolsonaro <del>em</del> <ins>repete ameaça de decreto e faz</ins> novo ataque à CPI da <del>Covid</del> <ins>Covid: 'Não encha o saco'</ins>
+2021-05-07 20:26:58,998          root     INFO: Media ready with ids: 1390765121522307075
+2021-05-07 20:26:58,999          root     INFO: Text to tweet: Modificação do Título
+2021-05-07 20:26:58,999          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-encha-o-saco-diz-bolsonaro-em-novo-ataque-a-cpi-da-covid.shtml
+2021-05-07 20:26:59,009          root     INFO: Replying to: 1390720008611840000
+2021-05-07 20:26:59,226          root     INFO: Id to store: 1390765122772213761
+2021-05-07 20:26:59,233          root     INFO: O presidente Jair Bolsonaro (sem partido) voltou a atacar a CPI da <del>Covid. Nas redes sociais, respondeu a membros da comissão que criticam medicamentos sem eficácia comprovada que "não encham o saco". Segundo o presidente, o médico</del> <ins>Covid nesta sexta-feira (7)</ins> e <del>o paciente são livres para escolher como querem se tratar.</del> <ins>a ameaçar a edição de um decreto que impediria prefeitos e governadores de promover medidas mais duras de isolamento social em meio à pandemia do coronavírus.</ins> Leia mais (05/07/2021 - 11h17)
+2021-05-07 20:27:00,947          root     INFO: Media ready with ids: 1390765129516687366
+2021-05-07 20:27:00,948          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-07 20:27:00,948          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-encha-o-saco-diz-bolsonaro-em-novo-ataque-a-cpi-da-covid.shtml
+2021-05-07 20:27:00,958          root     INFO: Replying to: 1390765122772213761
+2021-05-07 20:27:01,263          root     INFO: Id to store: 1390765130934280195
+2021-05-07 20:27:06,933          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-e-cade-pedem-que-whatsapp-adie-nova-politica-de-privacidade-07052021
+2021-05-07 20:27:06,948          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-2-semana-de-depoimentos-tera-anvisa-e-pfizer-07052021
+2021-05-07 20:27:06,960          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-pede-a-aras-apuracao-de-execucao-arbitraria-no-jacarezinho-07052021
+2021-05-07 20:27:06,974          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-entrega-mais-35-milhoes-de-doses-de-vacina-nesta-sexta-feira-07052021
+2021-05-07 20:27:07,476          root     INFO: Finished script
