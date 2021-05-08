@@ -1,6 +1,13 @@
-2021-05-08 05:50:14,567          root     INFO: Starting script
-2021-05-08 05:50:15,788          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-08 05:50:16,581          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-08 05:50:17,383          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-08 05:50:17,601          root     INFO: Parsing R7 - Brasil
-2021-05-08 05:50:25,905          root     INFO: Finished script
+2021-05-08 05:57:50,956          root     INFO: Starting script
+2021-05-08 05:57:51,840          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-08 05:57:52,538          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-08 05:57:53,241          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-08 05:57:53,484          root     INFO: Parsing R7 - Brasil
+2021-05-08 05:57:56,692          root     INFO: O juiz Cícero Martins de Macedo Filho acatou parte de uma ação popular e proibiu a prefeitura de Natal (RN) de fazer propaganda sobre o uso da ivermectina no combate à Covid-19. Na mesma decisão, o magistrado também mandou retirar de uma nota técnica da secretaria municipal de saúde a orientação para o uso do medicamento no tratamento precoce da doença. A ação solicitava ainda que o prefeito Álvaro Dias (PSDB) fosse proibido de defender e indicar em entrevistas o uso do vermífugo, mas esse pedido foi negado. <del>“O</del> <ins>"O</ins> que não pode, ao meu sentir, é haver uma política pública que sem se basear em evidências científicas aceitáveis e razoavelmente consensuais nos dias atuais que recomende esse ou aquele remédio para tratamento da <del>Covid-19”,</del> <ins>Covid-19",</ins> diz trecho da decisão do juiz. Leia mais (05/07/2021 - 18h34)
+2021-05-08 05:57:58,692          root     INFO: Media ready with ids: 1390908816687050756
+2021-05-08 05:57:58,693          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-08 05:57:58,693          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/juiz-proibe-prefeitura-de-natal-de-fazer-propaganda-e-orientar-uso-de-ivermectina.shtml
+2021-05-08 05:57:58,702          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/juiz-proibe-prefeitura-de-natal-de-fazer-propaganda-e-orientar-uso-de-ivermectina.shtml
+2021-05-08 05:57:58,902          root     INFO: Replying to: 1390908818469625857
+2021-05-08 05:57:59,161          root     INFO: Id to store: 1390908819283263489
+2021-05-08 05:58:04,715          root     INFO: Finished script
