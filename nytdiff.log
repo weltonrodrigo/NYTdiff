@@ -1,6 +1,15 @@
-2021-05-08 11:57:44,442          root     INFO: Starting script
-2021-05-08 11:57:45,266          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-08 11:57:45,939          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-08 11:57:46,611          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-08 11:57:46,805          root     INFO: Parsing R7 - Brasil
-2021-05-08 11:57:55,052          root     INFO: Finished script
+2021-05-08 12:38:39,320          root     INFO: Starting script
+2021-05-08 12:38:40,115          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-08 12:38:40,758          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-08 12:38:41,410          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-08 12:38:41,556          root     INFO: Parsing R7 - Brasil
+2021-05-08 12:38:42,069          root     INFO: Na próxima semana, a CPI da Covid se volta para a Pfizer. <del>A presidente atual da empresa no Brasil e seu antecessor foram convocados, assim como o ex-secretário de Comunicação Fabio Wajngarten, que confirmou à Veja ter trabalhado meses por um contrato com a farmacêutica, em oposição ao ex-ministro da Saúde Eduardo Pazuello.</del> Leia mais (05/07/2021 - 21h12)
+2021-05-08 12:38:43,685          root     INFO: Media ready with ids: 1391009669079085057
+2021-05-08 12:38:43,686          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-08 12:38:43,686          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/bureau-desvenda-aos-poucos-os-contratos-leoninos-por-vacina.shtml
+2021-05-08 12:38:43,695          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/bureau-desvenda-aos-poucos-os-contratos-leoninos-por-vacina.shtml
+2021-05-08 12:38:43,896          root     INFO: Replying to: 1391009670517698562
+2021-05-08 12:38:44,134          root     INFO: Id to store: 1391009671276896257
+2021-05-08 12:38:46,078          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ex-pm-responsavel-pela-rouanet-diz-a-secretarios-de-cultura-que-eles-devem-compensar-desastrosas-medidas-de-restricao.shtml
+2021-05-08 12:38:50,950          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-aprova-texto-base-de-projeto-que-revoga-a-lei-de-seguranca-nacional.shtml
+2021-05-08 12:38:50,951          root     INFO: Finished script
