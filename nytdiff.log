@@ -1,10 +1,24 @@
-2021-05-08 01:13:50,048          root     INFO: Starting script
-2021-05-08 01:13:50,867          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-08 01:13:51,526          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-08 01:13:52,188          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-08 01:13:52,401          root     INFO: Parsing R7 - Brasil
-2021-05-08 01:13:52,552          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/chega-de-barbarie.shtml
-2021-05-08 01:13:52,570          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/bureau-desvenda-aos-poucos-os-contratos-leoninos-por-vacina.shtml
-2021-05-08 01:14:00,209          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/05/no-futebol-tecnica-e-artilheira-mostram-que-maternidade-nao-precisa-ser-ponto-final.shtml
-2021-05-08 01:14:00,216          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/05/boy-lixo.shtml
-2021-05-08 01:14:00,216          root     INFO: Finished script
+2021-05-08 02:20:09,445          root     INFO: Starting script
+2021-05-08 02:20:10,259          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-08 02:20:10,931          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-08 02:20:11,613          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-08 02:20:11,749          root     INFO: Parsing R7 - Brasil
+2021-05-08 02:20:11,923          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/05/5g-a-conspiracao-que-importa.shtml
+2021-05-08 02:20:11,940          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/a-estrategia-do-governo-para-investimentos-em-inteligencia-artificial-e-satisfatoria-sim.shtml
+2021-05-08 02:20:11,955          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/05/estrago-duradouro.shtml
+2021-05-08 02:20:11,970          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciorachkorsky/2021/05/indexar-alugueis-pelo-igp-m-em-meio-a-mazelas-e-um-acinte.shtml
+2021-05-08 02:20:11,984          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/a-estrategia-do-governo-para-investimentos-em-inteligencia-artificial-e-satisfatoria-nao.shtml
+2021-05-08 02:20:14,570          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-teve-postura-deliberada-de-sabotar-ministerio-da-saude-diz-senador-da-cpi-da-covid.shtml
+2021-05-08 02:20:14,587          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/evangelicos-de-esquerda-lancam-iniciativa-para-monitorar-representantes-no-executivo-e-judiciario.shtml
+2021-05-08 02:20:14,607          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/sem-a-marinha-nao-haveria-pesquisa-brasileira-na-antartida-dizem-cientistas.shtml
+2021-05-08 02:20:14,624          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/depoimentos-a-cpi-dao-folego-a-relatorio-parcial-de-renan-mas-governistas-dizem-nao-ver-provas.shtml
+2021-05-08 02:20:20,581          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4340
+2021-05-08 02:20:20,586          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/os-classicos-estao-morrendo.shtml
+2021-05-08 02:20:20,592          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/guilhermeboulos/2021/05/fique-em-casa-que-casa.shtml
+2021-05-08 02:20:20,598          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/05/o-governo-que-odeia-indigenas.shtml
+2021-05-08 02:20:20,604          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/quem-mexeu-nos-meus-dados.shtml
+2021-05-08 02:20:20,610          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/nyt-alerta-para-capa-falsa-pro-bolsonaro.shtml
+2021-05-08 02:20:20,617          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/abertura-de-centenario-da-semana-de-1922-em-sp-tera-debate-com-kondzilla-e-marco-antonio-villa.shtml
+2021-05-08 02:20:20,623          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-outro-legado-olimpico.shtml
+2021-05-08 02:20:20,628          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/stf-suspende-processo-de-conselho-de-medicina-contra-alexandre-padilha.shtml
+2021-05-08 02:20:20,629          root     INFO: Finished script
