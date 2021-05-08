@@ -1,27 +1,8 @@
-2021-05-08 13:37:41,547          root     INFO: Starting script
-2021-05-08 13:37:42,438          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-08 13:37:43,122          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-08 13:37:43,812          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-08 13:37:44,036          root     INFO: Parsing R7 - Brasil
-2021-05-08 13:37:44,665          root     INFO: Ao nomear como "Exceptis" a operação que invadiu a comunidade de Jacarezinho, na capital fluminense, na última quita feira (6), o governo já deixava claro que a lei não condicionaria a ação dos seus agentes, antecipando o que se converteu numa das maiores chacinas no <del>do</del> Estado do Rio de Janeiro nas últimas décadas. Leia mais (05/07/2021 - 18h39)
-2021-05-08 13:37:46,497          root     INFO: Media ready with ids: 1391024528332050437
-2021-05-08 13:37:46,498          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-08 13:37:46,499          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/05/a-excecao-como-regra.shtml
-2021-05-08 13:37:46,507          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/05/a-excecao-como-regra.shtml
-2021-05-08 13:37:46,719          root     INFO: Replying to: 1391024530144047105
-2021-05-08 13:37:46,962          root     INFO: Id to store: 1391024530966122497
-2021-05-08 13:37:49,307          root     INFO: Evangélicos de esquerda lançam iniciativa para monitorar representantes <del>no Executivo e Judiciário</del> <ins>nos três Poderes</ins>
-2021-05-08 13:37:51,079          root     INFO: Media ready with ids: 1391024547407798276
-2021-05-08 13:37:51,079          root     INFO: Text to tweet: Modificação do Título
-2021-05-08 13:37:51,079          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/evangelicos-de-esquerda-lancam-iniciativa-para-monitorar-representantes-no-executivo-e-judiciario.shtml
-2021-05-08 13:37:51,090          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/evangelicos-de-esquerda-lancam-iniciativa-para-monitorar-representantes-no-executivo-e-judiciario.shtml
-2021-05-08 13:37:51,287          root     INFO: Replying to: 1391024549312057348
-2021-05-08 13:37:51,503          root     INFO: Id to store: 1391024550041858054
-2021-05-08 13:37:57,362          root     INFO: Removed http://noticias.r7.com/brasil/relatora-quer-obrigatoriedade-de-vaga-a-mulher-no-legislativo-07052021
-2021-05-08 13:37:57,367          root     INFO: Removed http://noticias.r7.com/brasil/aras-pede-a-autoridades-do-rj-esclarecimentos-sobre-operacao-07052021
-2021-05-08 13:37:57,373          root     INFO: Removed http://noticias.r7.com/brasil/documentos-da-sputnik-sao-insuficientes-diz-anvisa-a-estados-07052021
-2021-05-08 13:37:57,378          root     INFO: Removed http://noticias.r7.com/brasil/inquerito-da-marinha-aponta-suspeitos-por-vazamento-de-oleo-07052021
-2021-05-08 13:37:57,384          root     INFO: Removed http://noticias.r7.com/brasil/presidente-do-senado-envia-carta-a-embaixador-chines-07052021
-2021-05-08 13:37:57,388          root     INFO: Removed http://noticias.r7.com/brasil/saude-envia-1-milhao-de-vacinas-para-2-dose-a-estados-e-df-07052021
-2021-05-08 13:37:57,394          root     INFO: Removed http://noticias.r7.com/brasil/governo-fala-em-terceira-via-na-quebra-de-patente-de-vacina-07052021
-2021-05-08 13:37:57,395          root     INFO: Finished script
+2021-05-08 13:51:44,569          root     INFO: Starting script
+2021-05-08 13:51:45,434          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-08 13:51:46,125          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-08 13:51:46,806          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-08 13:51:47,030          root     INFO: Parsing R7 - Brasil
+2021-05-08 13:51:49,886          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-mente-de-novo-sobre-remedio-ineficaz-e-manda-ministros-gravarem-videos-pro-cloroquina.shtml
+2021-05-08 13:51:55,842          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/deputado-que-chegou-a-ser-afastado-pelo-stf-comanda-instalacao-de-reforma-politica.shtml
+2021-05-08 13:51:55,843          root     INFO: Finished script
