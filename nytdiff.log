@@ -1,36 +1,6 @@
-2021-05-09 02:55:37,439          root     INFO: Starting script
-2021-05-09 02:55:38,458          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-09 02:55:39,275          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-09 02:55:40,091          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-09 02:55:40,437          root     INFO: Parsing R7 - Brasil
-2021-05-09 02:55:40,576          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/ciencia-sem-brincadeira.shtml
-2021-05-09 02:55:40,593          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/05/cpi-ou-o-elefante-no-microscopio.shtml
-2021-05-09 02:55:40,606          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/armas-fora-da-lei.shtml
-2021-05-09 02:55:40,620          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/05/fuga-do-general-eduardo-pazuello-e-covardia.shtml
-2021-05-09 02:55:40,632          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/05/selecao-tites-e-extremos-desequilibrantes-deixam-saudade.shtml
-2021-05-09 02:55:40,643          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/05/politica-publica-requer-ciencia-em-vez-de-palpites.shtml
-2021-05-09 02:55:40,655          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/que-o-plenario-decida.shtml
-2021-05-09 02:55:40,668          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/da-broadway-para-hollywood.shtml
-2021-05-09 02:55:40,681          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/obituario-digital.shtml
-2021-05-09 02:55:40,693          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/05/uma-rua-cria-tres-criancas.shtml
-2021-05-09 02:55:40,707          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2021/05/qual-inflacao.shtml
-2021-05-09 02:55:40,719          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/05/mortos-de-fome-de-covid-a-bala-muitos-pobres-nao-largam-bolsonaro.shtml
-2021-05-09 02:55:40,860          root     INFO: O colunista está em <del>férias. ?</del> <ins>férias</ins> Leia mais <del>(05/01/2021</del> <ins>(05/08/2021</ins> - 23h15)
-2021-05-09 02:55:42,666          root     INFO: Media ready with ids: 1391225335795134466
-2021-05-09 02:55:42,666          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-09 02:55:42,667          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/08/aviso.shtml
-2021-05-09 02:55:42,677          root     INFO: Replying to: 1389774447935201285
-2021-05-09 02:55:43,041          root     INFO: Id to store: 1391225337665753090
-2021-05-09 02:55:52,167          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/nyt-alerta-para-capa-falsa-pro-bolsonaro.shtml
-2021-05-09 02:55:52,173          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/apoena-meireles-e-a-historia-que-se-repete.shtml
-2021-05-09 02:55:52,179          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/portugues-uma-lingua-de-futuro.shtml
-2021-05-09 02:55:52,187          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/05/nada-mais-patetico-do-que-ato-pro-bolsonaro-a-favor-de-golpe-para-ter-direitos.shtml
-2021-05-09 02:55:52,192          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-silencio-do-conivente.shtml
-2021-05-09 02:55:52,197          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/05/o-carioca-definitivamente-nasce-com-um-superavit-de-cachaca-no-sangue.shtml
-2021-05-09 02:55:52,202          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/05/city-mostra-sua-principal-evolucao-tatica-a-de-atacar-e-se-defender-muito-bem.shtml
-2021-05-09 02:55:52,207          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/atila-iamarino/2021/05/atraso-brasileiro.shtml
-2021-05-09 02:55:52,212          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/o-desafio-peruano-presidentes-vs-parlamentares.shtml
-2021-05-09 02:55:52,217          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/baratas-em-panico.shtml
-2021-05-09 02:55:52,222          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/pfizer-hot-vira-febre-entre-americanos-e-lucra-centenas-de-milhoes.shtml
-2021-05-09 02:55:52,226          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/cartada-de-mandetta.shtml
-2021-05-09 02:55:52,227          root     INFO: Finished script
+2021-05-09 03:09:31,497          root     INFO: Starting script
+2021-05-09 03:09:32,486          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-09 03:09:33,295          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-09 03:09:34,089          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-09 03:09:34,365          root     INFO: Parsing R7 - Brasil
+2021-05-09 03:09:42,665          root     INFO: Finished script
