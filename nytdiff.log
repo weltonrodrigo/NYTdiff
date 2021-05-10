@@ -1,18 +1,20 @@
-2021-05-10 11:48:34,085          root     INFO: Starting script
-2021-05-10 11:48:35,016          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-10 11:48:35,698          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-10 11:48:36,388          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-10 11:48:36,610          root     INFO: Parsing R7 - Brasil
-2021-05-10 11:48:45,306          root     INFO: Removed http://noticias.r7.com/brasil/vagas-na-industria-e-saude-lideram-mercado-em-ano-de-pandemia-10052021
-2021-05-10 11:48:45,311          root     INFO: Removed http://noticias.r7.com/brasil/eduardo-cunha-volta-a-usar-redes-sociais-apos-ter-prisoes-derrubadas-09052021
-2021-05-10 11:48:45,315          root     INFO: Removed http://noticias.r7.com/brasil/videos/brasilia-bolsonaro-lidera-comboio-de-motociclistas-no-dia-das-maes-09052021
-2021-05-10 11:48:45,319          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-parabeniza-policia-apos-operacao-no-jacarezinho-09052021
-2021-05-10 11:48:45,324          root     INFO: Removed http://noticias.r7.com/brasil/covid-19-tcu-sugere-que-leito-de-hospital-militar-seja-usado-por-civil-09052021
-2021-05-10 11:48:45,328          root     INFO: Removed http://noticias.r7.com/brasil/apos-passeio-de-moto-bolsonaro-volta-a-defender-voto-auditavel-09052021
-2021-05-10 11:48:45,332          root     INFO: Removed http://noticias.r7.com/brasil/renan-quer-tregua-com-lira-mas-cpi-embaralha-o-jogo-09052021
-2021-05-10 11:48:45,336          root     INFO: Removed http://noticias.r7.com/brasil/jacarezinho-um-terco-dos-mortos-nao-tem-acao-criminal-no-tj-do-rio-09052021
-2021-05-10 11:48:45,340          root     INFO: Removed http://noticias.r7.com/brasil/aziz-diz-que-queiroga-foi-grande-decepcao-e-sera-reconvocado-09052021
-2021-05-10 11:48:45,345          root     INFO: Removed http://noticias.r7.com/brasil/governo-comeca-a-distribuir-hoje-11-milhao-de-doses-da-pfizer-10052021
-2021-05-10 11:48:45,349          root     INFO: Removed http://noticias.r7.com/brasil/analise-jornalismo-militante-e-a-bandidolatria-09052021
-2021-05-10 11:48:45,353          root     INFO: Removed http://noticias.r7.com/brasil/onze-estados-atrasam-adesao-ao-sistema-de-notificacao-eletronica-10052021
-2021-05-10 11:48:45,353          root     INFO: Finished script
+2021-05-10 11:57:47,832          root     INFO: Starting script
+2021-05-10 11:57:48,859          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-10 11:57:49,663          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-10 11:57:50,475          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-10 11:57:50,865          root     INFO: Parsing R7 - Brasil
+2021-05-10 11:57:51,136          root     INFO: <del>A</del> Cloroquina <del>de</del> Bolsonaro e <del>o</del> Emplasto <del>de</del> Brás Cubas
+2021-05-10 11:57:52,975          root     INFO: Media ready with ids: 1391724165216997376
+2021-05-10 11:57:52,975          root     INFO: Text to tweet: Modificação do Título
+2021-05-10 11:57:52,976          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/a-cloroquina-de-bolsonaro-e-o-emplasto-de-bras-cubas.shtml
+2021-05-10 11:57:52,989          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/a-cloroquina-de-bolsonaro-e-o-emplasto-de-bras-cubas.shtml
+2021-05-10 11:57:53,336          root     INFO: Replying to: 1391724167788171265
+2021-05-10 11:57:53,609          root     INFO: Id to store: 1391724168761184258
+2021-05-10 11:57:56,277          root     INFO: <del>A</del> Cloroquina <del>de</del> Bolsonaro e <del>o</del> Emplasto <del>de</del> Brás Cubas
+2021-05-10 11:57:57,971          root     INFO: Media ready with ids: 1391724186561875972
+2021-05-10 11:57:57,972          root     INFO: Text to tweet: Modificação do Título
+2021-05-10 11:57:57,972          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/a-cloroquina-de-bolsonaro-e-o-emplasto-de-bras-cubas.shtml
+2021-05-10 11:57:57,988          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/a-cloroquina-de-bolsonaro-e-o-emplasto-de-bras-cubas.shtml
+2021-05-10 11:57:58,209          root     INFO: Replying to: 1391724188260573186
+2021-05-10 11:57:58,470          root     INFO: Id to store: 1391724189120405504
+2021-05-10 11:58:04,224          root     INFO: Finished script
