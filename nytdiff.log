@@ -1,15 +1,6 @@
-2021-05-10 20:49:50,416          root     INFO: Starting script
-2021-05-10 20:49:51,385          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-10 20:49:52,167          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-10 20:49:52,971          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-10 20:49:53,343          root     INFO: Parsing R7 - Brasil
-2021-05-10 20:49:56,351          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/apos-passeio-de-moto-com-aglomeracao-bolsonaro-realiza-churrasco-de-dia-das-maes-no-alvorada.shtml
-2021-05-10 20:49:56,398          root     INFO: O procurador-geral da República, Augusto Aras, rejeitou a abertura de uma investigação contra o presidente Jair Bolsonaro <ins>(sem partido)</ins> por causa dos pagamentos de Fabrício Queiroz, ex-assessor do senador Flávio Bolsonaro (Republicanos-RJ), à primeira-dama, Michelle Bolsonaro. Leia mais (05/10/2021 - 17h20)
-2021-05-10 20:49:58,335          root     INFO: Media ready with ids: 1391858070125531139
-2021-05-10 20:49:58,335          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-10 20:49:58,336          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/aras-nega-investigar-bolsonaro-por-cheques-de-queiroz-a-michelle.shtml
-2021-05-10 20:49:58,346          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/aras-nega-investigar-bolsonaro-por-cheques-de-queiroz-a-michelle.shtml
-2021-05-10 20:49:58,624          root     INFO: Replying to: 1391858072071593985
-2021-05-10 20:49:58,936          root     INFO: Id to store: 1391858073141227521
-2021-05-10 20:50:04,665          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/pressao-por-cloroquina-autonomia-e-gota-dagua-com-bolsonaro-veja-4-pontos-da-fala-de-teich-que-podem-ser-usados-na-cpi-da-covid.shtml
-2021-05-10 20:50:04,666          root     INFO: Finished script
+2021-05-10 20:58:07,501          root     INFO: Starting script
+2021-05-10 20:58:08,641          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-10 20:58:09,442          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-10 20:58:10,235          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-10 20:58:10,413          root     INFO: Parsing R7 - Brasil
+2021-05-10 20:58:19,839          root     INFO: Finished script
