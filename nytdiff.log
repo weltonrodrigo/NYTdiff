@@ -1,13 +1,10 @@
-2021-05-10 16:18:19,578          root     INFO: Starting script
-2021-05-10 16:18:20,447          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-10 16:18:21,131          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-10 16:18:21,802          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-10 16:18:21,945          root     INFO: Parsing R7 - Brasil
-2021-05-10 16:18:27,063          root     INFO: <del>Preservação da Amazônia fica atrás de soberania e economia em postagens de</del> Bolsonaro <ins>tuita mais sobre economia na Amazônia e soberania do que preservação</ins>
-2021-05-10 16:18:28,811          root     INFO: Media ready with ids: 1391789747144638464
-2021-05-10 16:18:28,812          root     INFO: Text to tweet: Modificação do Título
-2021-05-10 16:18:28,812          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/preservacao-da-amazonia-fica-atras-de-soberania-e-economia-em-postagens-de-bolsonaro.shtml
-2021-05-10 16:18:28,821          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/preservacao-da-amazonia-fica-atras-de-soberania-e-economia-em-postagens-de-bolsonaro.shtml
-2021-05-10 16:18:29,000          root     INFO: Replying to: 1391789748570791939
-2021-05-10 16:18:29,230          root     INFO: Id to store: 1391789749304758278
-2021-05-10 16:18:32,152          root     INFO: Finished script
+2021-05-10 17:16:40,392          root     INFO: Starting script
+2021-05-10 17:16:41,272          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-10 17:16:41,960          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-10 17:16:42,648          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-10 17:16:42,903          root     INFO: Parsing R7 - Brasil
+2021-05-10 17:16:43,027          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/a-democracia-esta-morta-em-el-salvador.shtml
+2021-05-10 17:16:46,125          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-efeito-lula-psol-racha-sobre-2022-e-poe-boulos-e-erundina-em-lados-opostos.shtml
+2021-05-10 17:16:52,254          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/criticado-por-teich-cfm-diz-que-nao-ha-evidencias-para-mudar-parecer-sobre-tratamento-precoce.shtml
+2021-05-10 17:16:52,259          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/05/brasil-nao-vai-conseguir-acelerar-entrega-de-vacinas-de-covid-ate-junho.shtml
+2021-05-10 17:16:52,260          root     INFO: Finished script
