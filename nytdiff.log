@@ -1,13 +1,8 @@
-2021-05-10 21:52:28,290          root     INFO: Starting script
-2021-05-10 21:52:29,329          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-10 21:52:30,114          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-10 21:52:30,920          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-10 21:52:31,240          root     INFO: Parsing R7 - Brasil
-2021-05-10 21:52:33,812          root     INFO: Após realizar um passeio de motos com centenas de apoiadores por Brasília, o presidente Jair Bolsonaro <del>(sem partido)</del> recebeu um grupo de amigos no Palácio da Alvorada <del>no</del> <ins>neste</ins> domingo <del>(9),</del> <ins>(9)</ins> para um churrasco de Dia das Mães. Leia mais (05/10/2021 - 17h34)
-2021-05-10 21:52:35,881          root     INFO: Media ready with ids: 1391873830633738241
-2021-05-10 21:52:35,882          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-10 21:52:35,882          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/apos-passeio-de-moto-com-aglomeracao-bolsonaro-realiza-churrasco-de-dia-das-maes-no-alvorada.shtml
-2021-05-10 21:52:35,890          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/apos-passeio-de-moto-com-aglomeracao-bolsonaro-realiza-churrasco-de-dia-das-maes-no-alvorada.shtml
-2021-05-10 21:52:36,156          root     INFO: Replying to: 1391873832382877703
-2021-05-10 21:52:36,449          root     INFO: Id to store: 1391873833393606656
-2021-05-10 21:52:41,767          root     INFO: Finished script
+2021-05-10 21:57:46,107          root     INFO: Starting script
+2021-05-10 21:57:47,562          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-10 21:57:48,374          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-10 21:57:49,169          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-10 21:57:49,441          root     INFO: Parsing R7 - Brasil
+2021-05-10 21:57:49,573          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/covid-19-o-impacto-oculto-na-sexualidade.shtml
+2021-05-10 21:57:57,526          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandre-schneider/2021/05/o-ensino-remoto-fracassou-e-agora.shtml
+2021-05-10 21:57:57,527          root     INFO: Finished script
