@@ -1,8 +1,13 @@
-2021-05-10 19:36:43,352          root     INFO: Starting script
-2021-05-10 19:36:44,420          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-10 19:36:45,215          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-10 19:36:46,032          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-10 19:36:46,246          root     INFO: Parsing R7 - Brasil
-2021-05-10 19:36:46,422          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/gustavo-petro-e-jose-pedro-castillo-anomalias-andinas.shtml
-2021-05-10 19:36:54,813          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/05/instituicoes-covardes-adiam-o-fim-de-bolsonaro.shtml
-2021-05-10 19:36:54,813          root     INFO: Finished script
+2021-05-10 19:46:55,975          root     INFO: Starting script
+2021-05-10 19:46:56,937          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-10 19:46:57,714          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-10 19:46:58,492          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-10 19:46:58,742          root     INFO: Parsing R7 - Brasil
+2021-05-10 19:47:01,587          root     INFO: Criação do DEM Diversidade por ACM Neto gera <del>crise</del> <ins>crise,</ins> e conservadores ameaçam deixar o partido
+2021-05-10 19:47:03,586          root     INFO: Media ready with ids: 1391842236988547077
+2021-05-10 19:47:03,586          root     INFO: Text to tweet: Modificação do Título
+2021-05-10 19:47:03,587          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/criacao-do-dem-diversidade-por-acm-neto-gera-crise-e-conservadores-ameacam-deixar-o-partido.shtml
+2021-05-10 19:47:03,596          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/criacao-do-dem-diversidade-por-acm-neto-gera-crise-e-conservadores-ameacam-deixar-o-partido.shtml
+2021-05-10 19:47:03,863          root     INFO: Replying to: 1391842239719084045
+2021-05-10 19:47:04,171          root     INFO: Id to store: 1391842240738234372
+2021-05-10 19:47:09,134          root     INFO: Finished script
