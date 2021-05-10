@@ -1,8 +1,13 @@
-2021-05-10 19:04:43,875          root     INFO: Starting script
-2021-05-10 19:04:44,842          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-10 19:04:45,634          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-10 19:04:46,434          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-10 19:04:46,677          root     INFO: Parsing R7 - Brasil
-2021-05-10 19:04:46,868          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/guerra-as-drogas-nem-acaba-com-o-trafico-nem-destroi-o-problema.shtml
-2021-05-10 19:04:55,607          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/05/a-morte-e-politica.shtml
-2021-05-10 19:04:55,608          root     INFO: Finished script
+2021-05-10 19:26:08,513          root     INFO: Starting script
+2021-05-10 19:26:09,353          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-10 19:26:10,049          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-10 19:26:10,731          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-10 19:26:10,872          root     INFO: Parsing R7 - Brasil
+2021-05-10 19:26:11,043          root     INFO: <ins>1.</ins> Será que devemos legalizar todas as drogas? Não falo apenas de descriminalizar o consumo. Falo de legalizar a produção e o comércio também. Leia mais (05/10/2021 - 15h52)
+2021-05-10 19:26:12,769          root     INFO: Media ready with ids: 1391836991612989443
+2021-05-10 19:26:12,770          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-10 19:26:12,770          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/guerra-as-drogas-nem-acaba-com-o-trafico-nem-destroi-o-problema.shtml
+2021-05-10 19:26:12,780          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/guerra-as-drogas-nem-acaba-com-o-trafico-nem-destroi-o-problema.shtml
+2021-05-10 19:26:13,003          root     INFO: Replying to: 1391836993143939072
+2021-05-10 19:26:13,213          root     INFO: Id to store: 1391836993894690826
+2021-05-10 19:26:22,140          root     INFO: Finished script
