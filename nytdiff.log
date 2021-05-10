@@ -1,8 +1,13 @@
-2021-05-10 15:56:47,946          root     INFO: Starting script
-2021-05-10 15:56:48,806          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-10 15:56:49,481          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-10 15:56:50,165          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-10 15:56:50,341          root     INFO: Parsing R7 - Brasil
-2021-05-10 15:56:53,126          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ministerio-de-damares-retira-do-ar-nota-em-que-lamentava-mortes-no-jacarezinho.shtml
-2021-05-10 15:56:58,827          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/lideres-de-15-partidos-tentam-mudar-regimento-da-camara-e-oposicao-fala-em-mordaca.shtml
-2021-05-10 15:56:58,828          root     INFO: Finished script
+2021-05-10 16:18:19,578          root     INFO: Starting script
+2021-05-10 16:18:20,447          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-10 16:18:21,131          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-10 16:18:21,802          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-10 16:18:21,945          root     INFO: Parsing R7 - Brasil
+2021-05-10 16:18:27,063          root     INFO: <del>Preservação da Amazônia fica atrás de soberania e economia em postagens de</del> Bolsonaro <ins>tuita mais sobre economia na Amazônia e soberania do que preservação</ins>
+2021-05-10 16:18:28,811          root     INFO: Media ready with ids: 1391789747144638464
+2021-05-10 16:18:28,812          root     INFO: Text to tweet: Modificação do Título
+2021-05-10 16:18:28,812          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/preservacao-da-amazonia-fica-atras-de-soberania-e-economia-em-postagens-de-bolsonaro.shtml
+2021-05-10 16:18:28,821          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/preservacao-da-amazonia-fica-atras-de-soberania-e-economia-em-postagens-de-bolsonaro.shtml
+2021-05-10 16:18:29,000          root     INFO: Replying to: 1391789748570791939
+2021-05-10 16:18:29,230          root     INFO: Id to store: 1391789749304758278
+2021-05-10 16:18:32,152          root     INFO: Finished script
