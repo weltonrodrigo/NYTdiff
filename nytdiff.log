@@ -1,6 +1,27 @@
-2021-05-11 06:34:09,448          root     INFO: Starting script
-2021-05-11 06:34:10,261          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-11 06:34:10,913          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-11 06:34:11,564          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-11 06:34:11,734          root     INFO: Parsing R7 - Brasil
-2021-05-11 06:34:18,916          root     INFO: Finished script
+2021-05-11 07:01:43,576          root     INFO: Starting script
+2021-05-11 07:01:44,600          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-11 07:01:45,410          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-11 07:01:46,212          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-11 07:01:46,575          root     INFO: Parsing R7 - Brasil
+2021-05-11 07:01:55,432          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-afirma-que-reforma-tributaria-deve-ter-ate-quatro-relatores-10052021
+2021-05-11 07:01:55,448          root     INFO: New article tracked: http://noticias.r7.com/brasil/conflito-armado-deixa-indigenas-e-garimpeiros-baleados-em-roraima-10052021
+2021-05-11 07:01:55,463          root     INFO: New article tracked: http://noticias.r7.com/brasil/sputnik-cloroquina-e-aglomeracao-veja-questoes-a-barra-torres-na-cpi-10052021
+2021-05-11 07:01:55,477          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-rejeita-investigacao-de-cheques-de-queiroz-a-primeira-dama-10052021
+2021-05-11 07:01:55,492          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-da-48h-para-anvisa-explicar-o-que-falta-para-liberar-a-sputnik-v-10052021
+2021-05-11 07:01:55,508          root     INFO: New article tracked: http://noticias.r7.com/brasil/agu-se-opoe-a-acao-no-supremo-contra-assedio-judicial-a-jornalistas-10052021
+2021-05-11 07:01:55,521          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-cria-programa-para-fabricacao-de-satelites-brasileiros-10052021
+2021-05-11 07:01:55,535          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-falta-de-letramento-e-mais-grave-do-que-parece-10052021
+2021-05-11 07:01:55,552          root     INFO: New article tracked: http://noticias.r7.com/brasil/moraes-envia-a-conselho-denuncia-contra-daniel-silveira-10052021
+2021-05-11 07:01:55,567          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-abre-inquerito-para-apurar-suposto-ataque-hacker-ao-stf-10052021
+2021-05-11 07:01:55,582          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-deve-receber-82-milhoes-de-doses-de-vacinas-nesta-semana-10052021
+2021-05-11 07:01:55,595          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-de-etica-ouvira-testemunhas-de-daniel-silveira-10052021
+2021-05-11 07:01:55,610          root     INFO: New article tracked: http://noticias.r7.com/brasil/fluxo-de-veiculos-em-estradas-com-pedagio-fica-estavel-em-abril-10052021
+2021-05-11 07:01:55,624          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-promete-isentar-motos-de-pedagio-em-rodovias-federais-10052021
+2021-05-11 07:01:55,765          root     INFO: Ação na última quinta-feira (6) terminou com 28 mortos, incluindo um policial e outros 27 <del>civis</del> <ins>suspeitos</ins>
+2021-05-11 07:01:57,634          root     INFO: Media ready with ids: 1392012082191736834
+2021-05-11 07:01:57,635          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-11 07:01:57,635          root     INFO: Article id: http://noticias.r7.com/brasil/bolsonaro-parabeniza-policia-apos-operacao-no-jacarezinho-10052021
+2021-05-11 07:01:57,651          root     INFO: Tweeting url: http://noticias.r7.com/brasil/bolsonaro-parabeniza-policia-apos-operacao-no-jacarezinho-10052021
+2021-05-11 07:01:57,888          root     INFO: Replying to: 1392012083936509954
+2021-05-11 07:01:58,168          root     INFO: Id to store: 1392012084876095490
+2021-05-11 07:01:58,294          root     INFO: Finished script
