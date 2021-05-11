@@ -1,27 +1,37 @@
-2021-05-11 21:39:16,486          root     INFO: Starting script
-2021-05-11 21:39:17,457          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-11 21:39:18,248          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-11 21:39:19,049          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-11 21:39:19,267          root     INFO: Parsing R7 - Brasil
-2021-05-11 21:39:19,433          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/05/selecao-possui-sete-jogadores-especiais-mas-parte-da-equipe-esta-um-nivel-abaixo.shtml
-2021-05-11 21:39:22,034          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-aval-de-lira-projeto-que-freia-kit-obstrucao-de-opositores-avanca-na-camara-dos-deputados.shtml
-2021-05-11 21:39:27,293          root     INFO: New article tracked: http://noticias.r7.com/brasil/testemunhas-de-defesa-dizem-ser-representadas-por-daniel-silveira-11052021
-2021-05-11 21:39:27,306          root     INFO: New article tracked: http://noticias.r7.com/brasil/pais-tem-capacidade-de-vacinar-24-milhoes-por-dia-diz-queiroga-11052021
-2021-05-11 21:39:27,321          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-projeto-que-cria-marco-legal-das-startups-11052021
-2021-05-11 21:39:27,336          root     INFO: New article tracked: http://noticias.r7.com/brasil/diretor-da-anvisa-diz-que-nao-tomou-cloroquina-contra-a-covid-11052021
-2021-05-11 21:39:27,351          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-pode-pedir-para-ouvir-queiroga-novamente-11052021
-2021-05-11 21:39:27,365          root     INFO: New article tracked: http://noticias.r7.com/brasil/asdfasdf-11052021
-2021-05-11 21:39:27,378          root     INFO: New article tracked: http://noticias.r7.com/brasil/oposicao-pede-que-tcu-suspenda-pagamento-de-emendas-rp9-11052021
-2021-05-11 21:39:27,390          root     INFO: New article tracked: http://noticias.r7.com/brasil/pai-da-urna-eletronica-deixa-cargo-no-tribunal-superior-eleitoral-11052021
-2021-05-11 21:39:27,402          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-nega-existencia-de-orcamento-paralelo-no-governo-11052021
-2021-05-11 21:39:27,415          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-19-pode-reconvocar-ministro-marcelo-queiroga-11052021
-2021-05-11 21:39:27,428          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-da-vacina-russa-sputnik-esta-parada-diz-presidente-da-anvisa-11052021
-2021-05-11 21:39:27,442          root     INFO: New article tracked: http://noticias.r7.com/brasil/marco-legal-da-energia-solar-deve-baratear-o-acesso-diz-relator-11052021
-2021-05-11 21:39:27,455          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-cpi-barra-torres-diz-discordar-de-falas-de-bolsonaro-sobre-vacinas-11052021
-2021-05-11 21:39:27,467          root     INFO: New article tracked: http://noticias.r7.com/brasil/laboratorio-da-india-nao-garantia-pureza-da-covaxin-diz-barra-torres-11052021
-2021-05-11 21:39:27,480          root     INFO: New article tracked: http://noticias.r7.com/brasil/quem-nao-deve-nao-teme-diz-mourao-sobre-chance-de-nova-cpi-11052021
-2021-05-11 21:39:27,493          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-reforma-administrativa-e-moderada-e-fruto-de-muito-debate-11052021
-2021-05-11 21:39:27,508          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-presidente-da-anvisa-nesta-terca-assista-ao-vivo-11052021
-2021-05-11 21:39:27,597          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2021/05/covid-aproveitou-o-natal-para-se-disseminar-mas-vai-poupar-o-dia-das-maes.shtml
-2021-05-11 21:39:27,602          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/isolamento-social-cloroquina-e-ministerio-paralelo-veja-6-pontos-da-fala-de-queiroga-que-podem-ser-usados-na-cpi.shtml
-2021-05-11 21:39:27,602          root     INFO: Finished script
+2021-05-11 21:52:31,667          root     INFO: Starting script
+2021-05-11 21:52:32,530          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-11 21:52:33,196          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-11 21:52:33,865          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-11 21:52:34,106          root     INFO: Parsing R7 - Brasil
+2021-05-11 21:52:36,822          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/e-falso-tuite-afirmando-que-pazuello-viajou-para-os-eua-com-passaporte-diplomatico.shtml
+2021-05-11 21:52:37,179          root     INFO: <del>Banho</del> <ins>Aprovação</ins> de <del>sangue da polícia em Jacarezinho aumenta citações positivas ao</del> governador do Rio <ins>sobe</ins> nas redes <ins>depois de ação policial com 28 mortos</ins>
+2021-05-11 21:52:38,916          root     INFO: Media ready with ids: 1392236231178788880
+2021-05-11 21:52:38,916          root     INFO: Text to tweet: Modificação do Título
+2021-05-11 21:52:38,916          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/banho-de-sangue-da-policia-em-jacarezinho-aumenta-citacoes-positivas-ao-governador-do-rio-nas-redes.shtml
+2021-05-11 21:52:38,925          root     INFO: Replying to: 1392104640150441985
+2021-05-11 21:52:39,179          root     INFO: Id to store: 1392236232718131201
+2021-05-11 21:52:39,186          root     INFO: O governador do Rio de Janeiro, Cláudio Castro, recebeu um levantamento feito em redes sociais que mostram que as citações positivas a ele aumentaram depois da operação policial que deixou <del>29</del> <ins>28</ins> mortos na comunidade do Jacarezinho. Leia mais (05/10/2021 - 23h15)
+2021-05-11 21:52:40,895          root     INFO: Media ready with ids: 1392236239357726720
+2021-05-11 21:52:40,896          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-11 21:52:40,896          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/banho-de-sangue-da-policia-em-jacarezinho-aumenta-citacoes-positivas-ao-governador-do-rio-nas-redes.shtml
+2021-05-11 21:52:40,904          root     INFO: Replying to: 1392236232718131201
+2021-05-11 21:52:41,107          root     INFO: Id to store: 1392236240884412416
+2021-05-11 21:52:46,305          root     INFO: Removed http://noticias.r7.com/brasil/guedes-reforma-administrativa-e-moderada-e-fruto-de-muito-debate-11052021
+2021-05-11 21:52:46,310          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-presidente-da-anvisa-nesta-terca-assista-ao-vivo-11052021
+2021-05-11 21:52:46,314          root     INFO: Removed http://noticias.r7.com/brasil/testemunhas-de-defesa-dizem-ser-representadas-por-daniel-silveira-11052021
+2021-05-11 21:52:46,319          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/ciro-pede-que-roberto-jefferson-explique-video-falso-de-suposta-conversa-com-faccao-criminosa.shtml
+2021-05-11 21:52:46,338          root     INFO: Removed http://noticias.r7.com/brasil/analise-da-vacina-russa-sputnik-esta-parada-diz-presidente-da-anvisa-11052021
+2021-05-11 21:52:46,343          root     INFO: Removed http://noticias.r7.com/brasil/quem-nao-deve-nao-teme-diz-mourao-sobre-chance-de-nova-cpi-11052021
+2021-05-11 21:52:46,350          root     INFO: Removed http://noticias.r7.com/brasil/diretor-da-anvisa-diz-que-nao-tomou-cloroquina-contra-a-covid-11052021
+2021-05-11 21:52:46,355          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-nega-existencia-de-orcamento-paralelo-no-governo-11052021
+2021-05-11 21:52:46,359          root     INFO: Removed http://noticias.r7.com/brasil/marco-legal-da-energia-solar-deve-baratear-o-acesso-diz-relator-11052021
+2021-05-11 21:52:46,364          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-19-pode-reconvocar-ministro-marcelo-queiroga-11052021
+2021-05-11 21:52:46,371          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-projeto-que-cria-marco-legal-das-startups-11052021
+2021-05-11 21:52:46,376          root     INFO: Removed http://noticias.r7.com/brasil/pai-da-urna-eletronica-deixa-cargo-no-tribunal-superior-eleitoral-11052021
+2021-05-11 21:52:46,381          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-pode-pedir-para-ouvir-queiroga-novamente-11052021
+2021-05-11 21:52:46,386          root     INFO: Removed http://noticias.r7.com/brasil/oposicao-pede-que-tcu-suspenda-pagamento-de-emendas-rp9-11052021
+2021-05-11 21:52:46,391          root     INFO: Removed http://noticias.r7.com/brasil/em-cpi-barra-torres-diz-discordar-de-falas-de-bolsonaro-sobre-vacinas-11052021
+2021-05-11 21:52:46,396          root     INFO: Removed http://noticias.r7.com/brasil/laboratorio-da-india-nao-garantia-pureza-da-covaxin-diz-barra-torres-11052021
+2021-05-11 21:52:46,405          root     INFO: Removed http://noticias.r7.com/brasil/pais-tem-capacidade-de-vacinar-24-milhoes-por-dia-diz-queiroga-11052021
+2021-05-11 21:52:46,410          root     INFO: Removed http://noticias.r7.com/brasil/asdfasdf-11052021
+2021-05-11 21:52:46,410          root     INFO: Finished script
