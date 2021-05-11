@@ -1,8 +1,27 @@
-2021-05-11 12:40:28,348          root     INFO: Starting script
-2021-05-11 12:40:29,173          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-11 12:40:29,843          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-11 12:40:30,522          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-11 12:40:30,858          root     INFO: Parsing R7 - Brasil
-2021-05-11 12:40:31,024          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/gordos-que-importam-a-obesidade-um-problema-social-nao-individual.shtml
-2021-05-11 12:40:38,423          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/pazuello-covarde-ou-heroi.shtml
-2021-05-11 12:40:38,424          root     INFO: Finished script
+2021-05-11 13:09:33,373          root     INFO: Starting script
+2021-05-11 13:09:34,254          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-11 13:09:34,919          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-11 13:09:35,585          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-11 13:09:35,823          root     INFO: Parsing R7 - Brasil
+2021-05-11 13:09:38,548          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4373
+2021-05-11 13:09:38,592          root     INFO: <ins>Anvisa barra vacina da Astrazeneca para grávidas, e</ins> Ministério da Saúde investiga morte <del>de gestante após AstraZeneca, e Anvisa manda suspender uso</del>
+2021-05-11 13:09:40,390          root     INFO: Media ready with ids: 1392104620130979842
+2021-05-11 13:09:40,390          root     INFO: Text to tweet: Modificação do Título
+2021-05-11 13:09:40,391          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ministerio-da-saude-investiga-morte-de-gestante-apos-astrazeneca-e-anvisa-manda-suspender-uso.shtml
+2021-05-11 13:09:40,400          root     INFO: Replying to: 1392084273038041093
+2021-05-11 13:09:40,642          root     INFO: Id to store: 1392104621687070726
+2021-05-11 13:09:40,650          root     INFO: <del>Em nota enviada ao Painel, o</del> <ins>O</ins> Ministério da Saúde afirma que investiga o caso de uma gestante que morreu no Rio de Janeiro após ter sido imunizada com a vacina AstraZeneca. <del>A</del> <ins>Em nota enviada ao Painel, a</ins> pasta ainda diz que "reavalia a imunização no grupo de gestantes sem comorbidades." Leia mais (05/10/2021 - 23h36)
+2021-05-11 13:09:42,325          root     INFO: Media ready with ids: 1392104628326653956
+2021-05-11 13:09:42,325          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-11 13:09:42,325          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ministerio-da-saude-investiga-morte-de-gestante-apos-astrazeneca-e-anvisa-manda-suspender-uso.shtml
+2021-05-11 13:09:42,336          root     INFO: Replying to: 1392104621687070726
+2021-05-11 13:09:42,567          root     INFO: Id to store: 1392104629777969156
+2021-05-11 13:09:42,678          root     INFO: <del>Banho</del> <ins>Aprovação</ins> de <del>sangue da polícia em Jacarezinho aumenta citações positivas ao</del> governador do Rio <ins>sobe</ins> nas redes <ins>depois de ação policial com 29 mortos</ins>
+2021-05-11 13:09:44,503          root     INFO: Media ready with ids: 1392104636887224324
+2021-05-11 13:09:44,504          root     INFO: Text to tweet: Modificação do Título
+2021-05-11 13:09:44,505          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/banho-de-sangue-da-policia-em-jacarezinho-aumenta-citacoes-positivas-ao-governador-do-rio-nas-redes.shtml
+2021-05-11 13:09:44,515          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/banho-de-sangue-da-policia-em-jacarezinho-aumenta-citacoes-positivas-ao-governador-do-rio-nas-redes.shtml
+2021-05-11 13:09:44,699          root     INFO: Replying to: 1392104638917251076
+2021-05-11 13:09:45,046          root     INFO: Id to store: 1392104640150441985
+2021-05-11 13:09:50,657          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/governador-de-sc-enfrenta-nesta-sexta-feira-julgamento-de-2o-processo-de-impeachment.shtml
+2021-05-11 13:09:50,657          root     INFO: Finished script
