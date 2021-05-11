@@ -1,6 +1,15 @@
-2021-05-11 10:02:04,210          root     INFO: Starting script
-2021-05-11 10:02:05,042          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-11 10:02:05,728          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-11 10:02:06,415          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-11 10:02:06,554          root     INFO: Parsing R7 - Brasil
-2021-05-11 10:02:14,507          root     INFO: Finished script
+2021-05-11 10:28:52,586          root     INFO: Starting script
+2021-05-11 10:28:53,379          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-11 10:28:54,030          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-11 10:28:54,686          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-11 10:28:54,902          root     INFO: Parsing R7 - Brasil
+2021-05-11 10:28:55,045          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pedro-hallal/2021/05/o-cientista-brasileiro-que-mudou-o-mundo.shtml
+2021-05-11 10:28:57,717          root     INFO: Facebook entrega à CPI da Covid vídeo com declarações <del>polêmicas</del> de Ramos e <del>Guedes;</del> <ins>Guedes sobre vacina;</ins> assista
+2021-05-11 10:28:59,407          root     INFO: Media ready with ids: 1392064183055888387
+2021-05-11 10:28:59,407          root     INFO: Text to tweet: Modificação do Título
+2021-05-11 10:28:59,407          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/facebook-entrega-a-cpi-da-covid-video-com-declaracoes-polemicas-de-ramos-e-guedes-assista.shtml
+2021-05-11 10:28:59,419          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/facebook-entrega-a-cpi-da-covid-video-com-declaracoes-polemicas-de-ramos-e-guedes-assista.shtml
+2021-05-11 10:28:59,613          root     INFO: Replying to: 1392064184481894401
+2021-05-11 10:28:59,842          root     INFO: Id to store: 1392064185241116672
+2021-05-11 10:29:04,493          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/custo-bolsonaro.shtml
+2021-05-11 10:29:04,494          root     INFO: Finished script
