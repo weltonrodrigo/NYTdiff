@@ -1,13 +1,13 @@
-2021-05-11 16:00:21,551          root     INFO: Starting script
-2021-05-11 16:00:22,367          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-11 16:00:23,026          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-11 16:00:23,698          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-11 16:00:23,862          root     INFO: Parsing R7 - Brasil
-2021-05-11 16:00:31,927          root     INFO: Removed http://noticias.r7.com/brasil/diretor-da-anvisa-sera-ouvido-hoje-na-cpi-da-covid-no-senado-11052021
-2021-05-11 16:00:31,932          root     INFO: Removed http://noticias.r7.com/brasil/lira-defende-reforma-tributaria-possivel-aprovada-em-2021-11052021
-2021-05-11 16:00:31,937          root     INFO: Removed http://noticias.r7.com/brasil/saque-com-pix-vira-alternativa-apos-bancos-fecharem-5-mil-caixas-11052021
-2021-05-11 16:00:31,946          root     INFO: Removed http://noticias.r7.com/brasil/vagas-na-industria-e-saude-lideram-mercado-em-ano-de-pandemia-11052021
-2021-05-11 16:00:31,950          root     INFO: Removed http://noticias.r7.com/brasil/producao-industrial-recua-em-9-das-15-regioes-do-pais-em-marco-11052021
-2021-05-11 16:00:31,955          root     INFO: Removed http://noticias.r7.com/brasil/grupo-lavou-r-25-bilhoes-e-patrocinava-automobilismo-11052021
-2021-05-11 16:00:31,959          root     INFO: Removed http://noticias.r7.com/brasil/saude-libera-174-leitos-de-suporte-ventilatorio-pulmonar-para-covid-11052021
-2021-05-11 16:00:31,960          root     INFO: Finished script
+2021-05-11 16:49:10,597          root     INFO: Starting script
+2021-05-11 16:49:11,577          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-11 16:49:12,381          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-11 16:49:13,186          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-11 16:49:13,397          root     INFO: Parsing R7 - Brasil
+2021-05-11 16:49:21,435          root     INFO: Agentes da PF e da Receita <ins>Federal</ins> estão nas ruas de 3 estados e do DF para cumprir mandados <del>judiciais.</del> <ins>de prisão e apreensão.</ins> Delegado foi afastado
+2021-05-11 16:49:23,136          root     INFO: Media ready with ids: 1392159912499757060
+2021-05-11 16:49:23,137          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-11 16:49:23,137          root     INFO: Article id: http://noticias.r7.com/brasil/grupo-lavou-r-25-bilhoes-e-patrocinava-automobilismo-11052021
+2021-05-11 16:49:23,145          root     INFO: Tweeting url: http://noticias.r7.com/brasil/grupo-lavou-r-25-bilhoes-e-patrocinava-automobilismo-11052021
+2021-05-11 16:49:23,386          root     INFO: Replying to: 1392159914282389507
+2021-05-11 16:49:23,641          root     INFO: Id to store: 1392159915033104385
+2021-05-11 16:49:24,204          root     INFO: Finished script
