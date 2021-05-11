@@ -1,15 +1,12 @@
-2021-05-11 18:48:46,800          root     INFO: Starting script
-2021-05-11 18:48:47,804          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-11 18:48:48,625          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-11 18:48:49,429          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-11 18:48:49,643          root     INFO: Parsing R7 - Brasil
-2021-05-11 18:48:49,792          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/desigualdades/2021/05/massacre-do-jacarezinho-mais-um-capitulo-do-racismo-e-do-genocidio-negro-brasileiro.shtml
-2021-05-11 18:48:52,205          root     INFO: Aliado próximo e amigo do presidente Jair Bolsonaro, o diretor-presidente da Anvisa (Agência Nacional de Vigilância Sanitária), Antônio Barra Torres, surpreendeu integrantes da CPI da Covid <ins>nesta terça-feira (11)</ins> ao criticar as falas e <del>posturas</del> <ins>ações</ins> negacionistas do chefe do Executivo e pedir para que ninguém siga suas orientações. Leia mais (05/11/2021 - 14h49)
-2021-05-11 18:48:54,280          root     INFO: Media ready with ids: 1392189989526573062
-2021-05-11 18:48:54,280          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-11 18:48:54,281          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/presidente-da-anvisa-critica-a-cpi-da-covid-uso-de-cloroquina-e-falas-negacionistas-de-bolsonaro.shtml
-2021-05-11 18:48:54,290          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/presidente-da-anvisa-critica-a-cpi-da-covid-uso-de-cloroquina-e-falas-negacionistas-de-bolsonaro.shtml
-2021-05-11 18:48:54,573          root     INFO: Replying to: 1392189992408133638
-2021-05-11 18:48:54,838          root     INFO: Id to store: 1392189993301561347
-2021-05-11 18:49:00,183          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/05/o-corpo.shtml
-2021-05-11 18:49:00,184          root     INFO: Finished script
+2021-05-11 19:09:10,226          root     INFO: Starting script
+2021-05-11 19:09:11,237          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-11 19:09:12,003          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-11 19:09:12,784          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-11 19:09:13,000          root     INFO: Parsing R7 - Brasil
+2021-05-11 19:09:13,170          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/querem-calar-a-voz-da-oposicao-na-camara.shtml
+2021-05-11 19:09:13,185          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/america-latina-e-a-humanizacao-dos-processos-migratorios.shtml
+2021-05-11 19:09:13,196          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/05/os-republicanos-continuam-em-guerra-contra-os-trabalhadores.shtml
+2021-05-11 19:09:19,438          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/terra-vegana/2021/05/o-segredo-da-lasanha-da-minha-mae.shtml
+2021-05-11 19:09:19,442          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2021/05/aviso.shtml
+2021-05-11 19:09:19,446          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/05/favela-luta-para-ser-reconhecida-como-humana-para-entao-falar-direitos-humanos.shtml
+2021-05-11 19:09:19,447          root     INFO: Finished script
