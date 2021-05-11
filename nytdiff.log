@@ -1,22 +1,13 @@
-2021-05-11 03:08:05,132          root     INFO: Starting script
-2021-05-11 03:08:05,930          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-11 03:08:06,578          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-11 03:08:07,223          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-11 03:08:07,494          root     INFO: Parsing R7 - Brasil
-2021-05-11 03:08:09,829          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ministerio-da-saude-investiga-morte-de-gestante-apos-astrazeneca-e-anvisa-manda-suspender-uso.shtml
-2021-05-11 03:08:09,961          root     INFO: O governo João Doria (PSDB-SP) avisou ao Sindicato dos Metroviários de São Paulo que terá que desocupar em breve a sua sede caso o estado consiga vender o terreno em que está localizada, na rua Serra do Japi, na zona leste da capital. <del>Um aviso de licitação já foi publicado, com abertura dos envelopes marcada para 28 de maio.</del> Leia mais (05/10/2021 - 23h15)
-2021-05-11 03:08:11,733          root     INFO: Media ready with ids: 1391953253290684416
-2021-05-11 03:08:11,733          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-11 03:08:11,733          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/gestao-doria-diz-que-sindicato-dos-metroviarios-tera-que-deixar-sede-e-categoria-ve-motivacao-politica.shtml
-2021-05-11 03:08:11,742          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/gestao-doria-diz-que-sindicato-dos-metroviarios-tera-que-deixar-sede-e-categoria-ve-motivacao-politica.shtml
-2021-05-11 03:08:11,916          root     INFO: Replying to: 1391953254800662530
-2021-05-11 03:08:12,118          root     INFO: Id to store: 1391953255438094336
-2021-05-11 03:08:12,267          root     INFO: CPI da Covid quer <del>acesso a</del> <ins>quebrar</ins> sigilo de presidente da Anvisa para saber se houve pressão de Bolsonaro
-2021-05-11 03:08:14,045          root     INFO: Media ready with ids: 1391953262417530889
-2021-05-11 03:08:14,046          root     INFO: Text to tweet: Modificação do Título
-2021-05-11 03:08:14,046          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-da-covid-quer-acesso-a-sigilo-de-presidente-da-anvisa-para-saber-se-houve-pressao-de-bolsonaro.shtml
-2021-05-11 03:08:14,054          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-da-covid-quer-acesso-a-sigilo-de-presidente-da-anvisa-para-saber-se-houve-pressao-de-bolsonaro.shtml
-2021-05-11 03:08:14,223          root     INFO: Replying to: 1391953264388845568
-2021-05-11 03:08:14,417          root     INFO: Id to store: 1391953265101791233
-2021-05-11 03:08:18,953          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-dribla-perguntas-sobre-atuacao-de-bolsonaro-na-pandemia-e-irrita-comando-da-cpi.shtml
-2021-05-11 03:08:18,954          root     INFO: Finished script
+2021-05-11 03:42:54,145          root     INFO: Starting script
+2021-05-11 03:42:55,272          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-11 03:42:56,050          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-11 03:42:56,855          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-11 03:42:57,192          root     INFO: Parsing R7 - Brasil
+2021-05-11 03:43:00,000          root     INFO: <del>Em nota enviada ao Painel, o</del> <ins>O</ins> Ministério da Saúde afirma que investiga o caso de uma gestante que morreu no Rio de Janeiro após ter sido imunizada com a vacina AstraZeneca. <del>A</del> <ins>Em nota enviada ao Painel, a</ins> pasta ainda diz que "reavalia a imunização no grupo de gestantes sem comorbidades." Leia mais (05/10/2021 - 23h36)
+2021-05-11 03:43:02,294          root     INFO: Media ready with ids: 1391962021722300417
+2021-05-11 03:43:02,295          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-11 03:43:02,295          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ministerio-da-saude-investiga-morte-de-gestante-apos-astrazeneca-e-anvisa-manda-suspender-uso.shtml
+2021-05-11 03:43:02,305          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ministerio-da-saude-investiga-morte-de-gestante-apos-astrazeneca-e-anvisa-manda-suspender-uso.shtml
+2021-05-11 03:43:02,614          root     INFO: Replying to: 1391962023760695299
+2021-05-11 03:43:02,904          root     INFO: Id to store: 1391962024746356737
+2021-05-11 03:43:08,643          root     INFO: Finished script
