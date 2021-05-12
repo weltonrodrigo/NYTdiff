@@ -1,6 +1,20 @@
-2021-05-12 07:51:43,865          root     INFO: Starting script
-2021-05-12 07:51:44,854          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 07:51:45,630          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 07:51:46,409          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 07:51:46,644          root     INFO: Parsing R7 - Brasil
-2021-05-12 07:51:53,730          root     INFO: Finished script
+2021-05-12 07:57:44,571          root     INFO: Starting script
+2021-05-12 07:57:45,544          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-12 07:57:46,331          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-12 07:57:47,119          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-12 07:57:47,319          root     INFO: Parsing R7 - Brasil
+2021-05-12 07:57:54,581          root     INFO: Do R7 <del>com AE</del>
+2021-05-12 07:57:56,379          root     INFO: Media ready with ids: 1392388557474615298
+2021-05-12 07:57:56,380          root     INFO: Text to tweet: Modificação do autor
+2021-05-12 07:57:56,380          root     INFO: Article id: http://noticias.r7.com/brasil/guedes-reforma-administrativa-e-moderada-e-fruto-de-muito-debate-11052021
+2021-05-12 07:57:56,390          root     INFO: Tweeting url: http://noticias.r7.com/brasil/guedes-reforma-administrativa-e-moderada-e-fruto-de-muito-debate-11052021
+2021-05-12 07:57:56,598          root     INFO: Replying to: 1392388559399788545
+2021-05-12 07:57:56,836          root     INFO: Id to store: 1392388560100134913
+2021-05-12 07:57:57,060          root     INFO: Modelo em consulta pública e que deve funcionar a partir de agosto <del>dará maior disponibilidade</del> <ins>poderá facilitar acesso a cédulas</ins> de <del>papel moeda</del> <ins>dinheiro</ins>
+2021-05-12 07:57:58,711          root     INFO: Media ready with ids: 1392388567670865920
+2021-05-12 07:57:58,712          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-12 07:57:58,712          root     INFO: Article id: http://noticias.r7.com/brasil/saque-com-pix-vira-alternativa-apos-bancos-fecharem-5-mil-caixas-11052021
+2021-05-12 07:57:58,721          root     INFO: Tweeting url: http://noticias.r7.com/brasil/saque-com-pix-vira-alternativa-apos-bancos-fecharem-5-mil-caixas-11052021
+2021-05-12 07:57:58,891          root     INFO: Replying to: 1392388569013051397
+2021-05-12 07:57:59,113          root     INFO: Id to store: 1392388569726164995
+2021-05-12 07:57:59,348          root     INFO: Finished script
