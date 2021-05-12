@@ -1,20 +1,9 @@
-2021-05-12 16:53:40,722          root     INFO: Starting script
-2021-05-12 16:53:41,542          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 16:53:42,203          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 16:53:42,858          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 16:53:42,985          root     INFO: Parsing R7 - Brasil
-2021-05-12 16:53:48,468          root     INFO: <del>'Países só vão responder a apelo</del> <ins>Apelo ambiental</ins> de Biden <ins>só terá resposta</ins> se atender <del>aos seus interesses',</del> <ins>a interesses dos países,</ins> diz jornalista
-2021-05-12 16:53:50,475          root     INFO: Media ready with ids: 1392523420722679817
-2021-05-12 16:53:50,476          root     INFO: Text to tweet: Modificação do Título
-2021-05-12 16:53:50,476          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/05/paises-so-vao-responder-a-apelo-de-biden-se-atender-aos-seus-interesses-diz-jornalista.shtml
-2021-05-12 16:53:50,508          root     INFO: Replying to: 1392262470190964737
-2021-05-12 16:53:50,740          root     INFO: Id to store: 1392523423323234305
-2021-05-12 16:53:50,747          root     INFO: O presidente dos EUA, Joe Biden, tem buscado convencer outros países a fazerem mais esforços para combater as mudanças climáticas, mas os governantes só irão atendê-lo se <del>verem</del> <ins>virem</ins> que há vantagens para seus próprios países, diz a jornalista americana Elizabeth Kolbert. Leia mais (05/11/2021 - 20h00)
-2021-05-12 16:53:52,711          root     INFO: Media ready with ids: 1392523430050811909
-2021-05-12 16:53:52,712          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-12 16:53:52,712          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/05/paises-so-vao-responder-a-apelo-de-biden-se-atender-aos-seus-interesses-diz-jornalista.shtml
-2021-05-12 16:53:52,722          root     INFO: Replying to: 1392523423323234305
-2021-05-12 16:53:52,978          root     INFO: Id to store: 1392523432663916549
-2021-05-12 16:53:56,050          root     INFO: Removed http://noticias.r7.com/brasil/fabio-wajngarten-sera-ouvido-na-cpi-da-covid-nesta-quarta-feira-12052021
-2021-05-12 16:53:56,054          root     INFO: Removed http://noticias.r7.com/brasil/saude-autoriza-abertura-de-880-leitos-de-uti-para-a-covid-19-12052021
-2021-05-12 16:53:56,056          root     INFO: Finished script
+2021-05-12 17:34:59,276          root     INFO: Starting script
+2021-05-12 17:35:00,292          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-12 17:35:01,088          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-12 17:35:01,897          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-12 17:35:02,186          root     INFO: Parsing R7 - Brasil
+2021-05-12 17:35:02,359          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/05/bolsonaro-cava-um-poco-sem-fundo-para-ter-uma-cova-e-enterrar-o-pais.shtml
+2021-05-12 17:35:09,899          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-secretario-fabio-wajngarten-assista-ao-vivo-12052021
+2021-05-12 17:35:10,377          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/05/viver-na-favela-e-letal.shtml
+2021-05-12 17:35:10,378          root     INFO: Finished script
