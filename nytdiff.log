@@ -1,10 +1,15 @@
-2021-05-12 13:14:08,479          root     INFO: Starting script
-2021-05-12 13:14:09,324          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 13:14:10,005          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 13:14:10,700          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 13:14:10,842          root     INFO: Parsing R7 - Brasil
-2021-05-12 13:14:10,973          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/a-colombia-e-a-dimensao-politica-da-ilegalidade.shtml
-2021-05-12 13:14:13,775          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/rose-de-freitas-mdb-es-e-alvo-de-busca-e-apreensao-da-pf-em-investigacao-sobre-desvios-em-locacao-de-veiculos.shtml
-2021-05-12 13:14:19,718          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/avancos-patentes.shtml
-2021-05-12 13:14:19,726          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-encha-o-saco-diz-bolsonaro-em-novo-ataque-a-cpi-da-covid.shtml
-2021-05-12 13:14:19,728          root     INFO: Finished script
+2021-05-12 13:42:54,711          root     INFO: Starting script
+2021-05-12 13:42:55,687          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-12 13:42:56,505          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-12 13:42:57,315          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-12 13:42:57,514          root     INFO: Parsing R7 - Brasil
+2021-05-12 13:43:00,445          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/investigacao-contra-toffoli-enfraquece-o-supremo.shtml
+2021-05-12 13:43:00,611          root     INFO: Delegado que atuou na segurança <del>e como tradutor</del> de Bolsonaro vai comandar secretaria no Ministério da Justiça
+2021-05-12 13:43:02,540          root     INFO: Media ready with ids: 1392475405081251840
+2021-05-12 13:43:02,541          root     INFO: Text to tweet: Modificação do Título
+2021-05-12 13:43:02,541          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/delegado-que-atuou-na-seguranca-e-como-tradutor-de-bolsonaro-vai-comandar-secretaria-no-ministerio-da-justica.shtml
+2021-05-12 13:43:02,551          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/delegado-que-atuou-na-seguranca-e-como-tradutor-de-bolsonaro-vai-comandar-secretaria-no-ministerio-da-justica.shtml
+2021-05-12 13:43:03,819          root     INFO: Replying to: 1392475411515334660
+2021-05-12 13:43:04,098          root     INFO: Id to store: 1392475412538789889
+2021-05-12 13:43:10,180          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/supremo-retirar-site-do-ar-apos-indicio-de-ataque-hacker-e-aciona-policia-federal.shtml
+2021-05-12 13:43:10,181          root     INFO: Finished script
