@@ -1,6 +1,34 @@
-2021-05-12 00:15:30,675          root     INFO: Starting script
-2021-05-12 00:15:32,087          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 00:15:32,895          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 00:15:33,686          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 00:15:33,923          root     INFO: Parsing R7 - Brasil
-2021-05-12 00:15:42,401          root     INFO: Finished script
+2021-05-12 01:37:05,479          root     INFO: Starting script
+2021-05-12 01:37:06,287          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-12 01:37:06,941          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-12 01:37:07,590          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-12 01:37:07,767          root     INFO: Parsing R7 - Brasil
+2021-05-12 01:37:10,566          root     INFO: Randolfe pede que TCU investigue <del>gastos de</del> churrasco de Bolsonaro <del>no Dia das Mães</del> <ins>com picanha de R$ 1.799,99 o quilo</ins>
+2021-05-12 01:37:12,232          root     INFO: Media ready with ids: 1392292742529748992
+2021-05-12 01:37:12,232          root     INFO: Text to tweet: Modificação do Título
+2021-05-12 01:37:12,232          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/randolfe-pede-que-tcu-investigue-gastos-de-churrasco-de-bolsonaro-no-dia-das-maes.shtml
+2021-05-12 01:37:12,241          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/randolfe-pede-que-tcu-investigue-gastos-de-churrasco-de-bolsonaro-no-dia-das-maes.shtml
+2021-05-12 01:37:12,439          root     INFO: Replying to: 1392292743934889987
+2021-05-12 01:37:12,689          root     INFO: Id to store: 1392292744605966336
+2021-05-12 01:37:13,719          root     INFO: Chefe do Comando Militar da Amazônia, o general <del>Guilherme</del> <ins>Estevam</ins> Cals Theophilo Gaspar de Oliveira, 60, afirma que a mineração ilegal em regiões de fronteira envolve uma "questão multifatorial" e que a abordagem do problema não pode ser atribuída apenas ao Exército. Leia mais (05/09/2021 - 23h15)
+2021-05-12 01:37:15,465          root     INFO: Media ready with ids: 1392292755938889734
+2021-05-12 01:37:15,465          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-12 01:37:15,465          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mineracao-ilegal-e-uma-questao-multifatorial-diz-comandante-do-exercito-na-amazonia.shtml
+2021-05-12 01:37:15,475          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mineracao-ilegal-e-uma-questao-multifatorial-diz-comandante-do-exercito-na-amazonia.shtml
+2021-05-12 01:37:15,639          root     INFO: Replying to: 1392292757339873282
+2021-05-12 01:37:15,860          root     INFO: Id to store: 1392292758052917248
+2021-05-12 01:37:19,582          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-relato-de-confronto-pf-nao-encontra-corpos-em-terra-indigena-11052021
+2021-05-12 01:37:19,594          root     INFO: New article tracked: http://noticias.r7.com/brasil/associacao-pede-ao-stf-saida-de-garimpeiros-de-terra-ianomami-11052021
+2021-05-12 01:37:19,606          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-mais-628-mil-doses-da-vacina-da-pfizer-nesta-quarta-12-11052021
+2021-05-12 01:37:19,618          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroz-e-vacinado-e-critica-isolamento-vamos-trabalhar-11052021
+2021-05-12 01:37:19,630          root     INFO: New article tracked: http://noticias.r7.com/brasil/servidores-da-desenvolve-sp-sao-investigados-por-fraude-de-r-25-bi-11052021
+2021-05-12 01:37:19,643          root     INFO: New article tracked: http://noticias.r7.com/brasil/andre-puccinelli-e-condenado-e-pode-ficar-inelegivel-por-5-anos-11052021
+2021-05-12 01:37:19,671          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-assina-contrato-para-mais-100-milhoes-de-vacinas-da-pfizer-11052021
+2021-05-12 01:37:19,683          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-pede-ao-stf-abertura-de-inquerito-para-investigar-toffoli-11052021
+2021-05-12 01:37:19,696          root     INFO: New article tracked: http://noticias.r7.com/brasil/moraes-pede-abertura-de-inquerito-para-investigar-hacker-no-stf-11052021
+2021-05-12 01:37:19,708          root     INFO: New article tracked: http://noticias.r7.com/brasil/morte-de-gestante-levou-anvisa-a-sugerir-suspensao-da-vacinacao-11052021
+2021-05-12 01:37:19,720          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-saude-suspende-uso-da-vacina-de-oxford-em-gravidas-11052021
+2021-05-12 01:37:19,732          root     INFO: New article tracked: http://noticias.r7.com/brasil/ipca-ainda-nao-mostra-sinais-de-pressao-de-demanda-avalia-ibge-11052021
+2021-05-12 01:37:19,745          root     INFO: New article tracked: http://noticias.r7.com/brasil/aumento-do-preco-de-materiais-pode-frear-construcoes-imobiliarias-11052021
+2021-05-12 01:37:19,855          root     INFO: New article tracked: http://noticias.r7.com/brasil/depoimento-de-barra-torres-fortalece-teoria-de-gestao-paralela-11052021
+2021-05-12 01:37:19,915          root     INFO: Finished script
