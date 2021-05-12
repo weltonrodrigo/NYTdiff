@@ -1,8 +1,23 @@
-2021-05-12 20:58:47,799          root     INFO: Starting script
-2021-05-12 20:58:48,610          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 20:58:49,274          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 20:58:49,941          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 20:58:50,194          root     INFO: Parsing R7 - Brasil
-2021-05-12 20:58:53,107          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/datafolha-lula-lidera-corrida-eleitoral-de-2022-e-marca-55-contra-32-de-bolsonaro-no-2o-turno.shtml
-2021-05-12 20:58:58,835          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/depoimentos-a-cpi-dao-folego-a-relatorio-parcial-de-renan-mas-governistas-dizem-nao-ver-provas.shtml
-2021-05-12 20:58:58,836          root     INFO: Finished script
+2021-05-12 21:26:07,262          root     INFO: Starting script
+2021-05-12 21:26:08,208          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-12 21:26:09,004          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-12 21:26:09,800          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-12 21:26:10,037          root     INFO: Parsing R7 - Brasil
+2021-05-12 21:26:12,282          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/datafolha-veja-quais-segmentos-puxam-lula-e-bolsonaro-na-corrida-eleitoral-para-2022.shtml
+2021-05-12 21:26:12,296          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-dos-deputados-aprova-projeto-que-reduz-kit-obstrucao-e-oposicao-ve-autoritarismo.shtml
+2021-05-12 21:26:12,309          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/veja-6-contradicoes-do-depoimento-de-wajngarten-que-podem-ser-usadas-pela-cpi-da-covid.shtml
+2021-05-12 21:26:16,527          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-define-extensao-dos-efeitos-do-fim-da-prorrogacao-de-patentes-12052021-1
+2021-05-12 21:26:16,540          root     INFO: New article tracked: http://noticias.r7.com/brasil/senadora-rose-de-freitas-e-alvo-de-operacao-da-policia-federal-12052021
+2021-05-12 21:26:16,550          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-quer-saber-se-houve-pressao-para-nao-comprar-sputnik-12052021
+2021-05-12 21:26:16,562          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-proibe-compra-de-bebidas-alcoolicas-pelas-forcas-armadas-12052021
+2021-05-12 21:26:16,572          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-reclama-de-respostas-e-ameaca-tornar-wajngarten-investigado-12052021
+2021-05-12 21:26:16,586          root     INFO: New article tracked: http://noticias.r7.com/brasil/wajngarten-diz-que-acordo-com-a-pfizer-deveria-ter-sido-agilizado-12052021
+2021-05-12 21:26:16,597          root     INFO: New article tracked: http://noticias.r7.com/brasil/leia-a-carta-enviada-pela-pfizer-a-bolsonaro-sobre-vacina-em-2020-12052021
+2021-05-12 21:26:16,607          root     INFO: New article tracked: http://noticias.r7.com/brasil/wajngarten-diz-nao-ter-documentos-contra-pazuello-em-maos-12052021
+2021-05-12 21:26:16,617          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-cobra-investigacao-de-toffoli-justica-e-para-todos-12052021
+2021-05-12 21:26:16,628          root     INFO: New article tracked: http://noticias.r7.com/brasil/angola-universal-e-atacada-com-ilegalidades-omissoes-e-arbitrariedades-12052021
+2021-05-12 21:26:16,640          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-ironiza-cpi-vou-sugerir-investigar-leite-condensado-12052021
+2021-05-12 21:26:16,860          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/sem-a-marinha-nao-haveria-pesquisa-brasileira-na-antartida-dizem-cientistas.shtml
+2021-05-12 21:26:16,865          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/evangelicos-de-esquerda-lancam-iniciativa-para-monitorar-representantes-no-executivo-e-judiciario.shtml
+2021-05-12 21:26:16,869          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-teve-postura-deliberada-de-sabotar-ministerio-da-saude-diz-senador-da-cpi-da-covid.shtml
+2021-05-12 21:26:16,870          root     INFO: Finished script
