@@ -1,10 +1,8 @@
-2021-05-12 20:51:10,642          root     INFO: Starting script
-2021-05-12 20:51:11,560          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 20:51:12,215          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 20:51:12,867          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 20:51:13,039          root     INFO: Parsing R7 - Brasil
-2021-05-12 20:51:13,214          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/depoimento-prova-que-e-impossivel-defender-o-governo-falando-a-verdade.shtml
-2021-05-12 20:51:15,692          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/depoimento-prova-que-e-impossivel-defender-o-governo-falando-a-verdade.shtml
-2021-05-12 20:51:21,149          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/juiz-proibe-prefeitura-de-natal-de-fazer-propaganda-e-orientar-uso-de-ivermectina.shtml
-2021-05-12 20:51:21,156          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilene-felinto/2021/05/a-midia-e-macho-lula.shtml
-2021-05-12 20:51:21,156          root     INFO: Finished script
+2021-05-12 20:58:47,799          root     INFO: Starting script
+2021-05-12 20:58:48,610          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-12 20:58:49,274          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-12 20:58:49,941          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-12 20:58:50,194          root     INFO: Parsing R7 - Brasil
+2021-05-12 20:58:53,107          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/datafolha-lula-lidera-corrida-eleitoral-de-2022-e-marca-55-contra-32-de-bolsonaro-no-2o-turno.shtml
+2021-05-12 20:58:58,835          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/depoimentos-a-cpi-dao-folego-a-relatorio-parcial-de-renan-mas-governistas-dizem-nao-ver-provas.shtml
+2021-05-12 20:58:58,836          root     INFO: Finished script
