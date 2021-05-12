@@ -1,24 +1,6 @@
-2021-05-12 10:26:41,564          root     INFO: Starting script
-2021-05-12 10:26:42,547          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 10:26:43,355          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 10:26:44,202          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 10:26:44,455          root     INFO: Parsing R7 - Brasil
-2021-05-12 10:26:44,623          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/05/os-sinos-dobram-por-mim-por-ti-e-por-nos.shtml
-2021-05-12 10:26:47,291          root     INFO: Planalto teme <del>Fabio</del> Wajngarten na CPI da Covid e considera depoimento imprevisível
-2021-05-12 10:26:49,042          root     INFO: Media ready with ids: 1392426024063864832
-2021-05-12 10:26:49,042          root     INFO: Text to tweet: Modificação do Título
-2021-05-12 10:26:49,043          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/planalto-teme-fabio-wajngarten-na-cpi-da-covid-e-considera-depoimento-imprevisivel.shtml
-2021-05-12 10:26:49,052          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/planalto-teme-fabio-wajngarten-na-cpi-da-covid-e-considera-depoimento-imprevisivel.shtml
-2021-05-12 10:26:49,354          root     INFO: Replying to: 1392426025921957889
-2021-05-12 10:26:49,667          root     INFO: Id to store: 1392426026920206338
-2021-05-12 10:26:49,712          root     INFO: Crítica a falas negacionistas de Bolsonaro, cloroquina, protesto; veja 4 pontos da fala <del>de Barra Torres na</del> <ins>do chefe da Anvisa à</ins> CPI da Covid
-2021-05-12 10:26:51,439          root     INFO: Media ready with ids: 1392426034109288449
-2021-05-12 10:26:51,439          root     INFO: Text to tweet: Modificação do Título
-2021-05-12 10:26:51,439          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/critica-a-falas-negacionistas-de-bolsonaro-cloroquina-protesto-veja-4-pontos-da-fala-de-barra-torres-na-cpi-da-covid.shtml
-2021-05-12 10:26:51,448          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/critica-a-falas-negacionistas-de-bolsonaro-cloroquina-protesto-veja-4-pontos-da-fala-de-barra-torres-na-cpi-da-covid.shtml
-2021-05-12 10:26:51,680          root     INFO: Replying to: 1392426035719835648
-2021-05-12 10:26:51,955          root     INFO: Id to store: 1392426036667768833
-2021-05-12 10:26:54,255          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/05/os-sinos-dobram-por-mim-por-ti-e-por-nos.shtml
-2021-05-12 10:26:57,116          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/05/5g-a-conspiracao-que-importa.shtml
-2021-05-12 10:26:57,125          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/03/moradores-do-para-acusam-mineradora-norueguesa-por-mal-formacao-em-bebes.shtml
-2021-05-12 10:26:57,126          root     INFO: Finished script
+2021-05-12 10:36:28,013          root     INFO: Starting script
+2021-05-12 10:36:29,028          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-12 10:36:29,805          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-12 10:36:30,602          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-12 10:36:30,845          root     INFO: Parsing R7 - Brasil
+2021-05-12 10:36:39,399          root     INFO: Finished script
