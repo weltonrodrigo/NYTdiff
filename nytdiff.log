@@ -1,18 +1,10 @@
-2021-05-12 22:58:10,189          root     INFO: Starting script
-2021-05-12 22:58:11,170          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 22:58:11,985          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 22:58:12,805          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 22:58:13,038          root     INFO: Parsing R7 - Brasil
-2021-05-12 22:58:16,302          root     INFO: Wajngarten <del>ouve ameaça</del> <ins>se esquiva de perguntas e é ameaçado</ins> de prisão <del>na CPI da Covid e admite paralisia do governo</del> em <del>oferta</del> <ins>CPI; Flávio Bolsonaro chama Renan</ins> de <del>vacina</del> <ins>vagabundo</ins>
-2021-05-12 22:58:18,105          root     INFO: Media ready with ids: 1392615141162766341
-2021-05-12 22:58:18,106          root     INFO: Text to tweet: Modificação do Título
-2021-05-12 22:58:18,106          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/wajngarten-ouve-ameaca-de-prisao-na-cpi-da-covid-e-admite-paralisia-do-governo-em-oferta-de-vacina.shtml
-2021-05-12 22:58:18,115          root     INFO: Replying to: 1392577565680865281
-2021-05-12 22:58:18,430          root     INFO: Id to store: 1392615143012450304
-2021-05-12 22:58:18,440          root     INFO: Em <ins>um</ins> depoimento <del>à CPI da Covid,</del> <ins>tumultuado e marcado por xingamentos, nesta quarta-feira (12),</ins> o ex-secretário Fabio Wajngarten (Comunicação da Presidência) se esquivou de perguntas, <del>irritou senadores, ouviu ameaça</del> <ins>chegou a ser alvo de um pedido</ins> de prisão e admitiu que a carta em que a Pfizer oferecia negociar doses de vacina ao Brasil ficou parada por ao menos dois meses no governo federal. Leia mais (05/12/2021 - 15h10)
-2021-05-12 22:58:20,281          root     INFO: Media ready with ids: 1392615150247682049
-2021-05-12 22:58:20,282          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-12 22:58:20,282          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/wajngarten-ouve-ameaca-de-prisao-na-cpi-da-covid-e-admite-paralisia-do-governo-em-oferta-de-vacina.shtml
-2021-05-12 22:58:20,292          root     INFO: Replying to: 1392615143012450304
-2021-05-12 22:58:20,572          root     INFO: Id to store: 1392615151984054279
-2021-05-12 22:58:26,487          root     INFO: Finished script
+2021-05-12 23:29:38,569          root     INFO: Starting script
+2021-05-12 23:29:39,532          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-12 23:29:40,355          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-12 23:29:41,138          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-12 23:29:41,383          root     INFO: Parsing R7 - Brasil
+2021-05-12 23:29:41,532          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2021/05/globo-de-ouro-mostra-que-o-entretenimento-adora-trofeus-e-ignora-bastidores.shtml
+2021-05-12 23:29:44,386          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/rejeicao-a-bolsonaro-no-nordeste-chega-a-62-mostra-datafolha.shtml
+2021-05-12 23:29:50,540          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/operacao-exceptis-e-padrao-nao-excecao.shtml
+2021-05-12 23:29:50,548          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/bolsonaro-radicaliza-e-diz-que-ate-aecio-ganhou-e-nao-levou-em-2014-psdb-rechaca-hipotese.shtml
+2021-05-12 23:29:50,548          root     INFO: Finished script
