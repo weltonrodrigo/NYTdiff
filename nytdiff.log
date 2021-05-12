@@ -1,10 +1,22 @@
-2021-05-12 23:29:38,569          root     INFO: Starting script
-2021-05-12 23:29:39,532          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 23:29:40,355          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 23:29:41,138          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 23:29:41,383          root     INFO: Parsing R7 - Brasil
-2021-05-12 23:29:41,532          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2021/05/globo-de-ouro-mostra-que-o-entretenimento-adora-trofeus-e-ignora-bastidores.shtml
-2021-05-12 23:29:44,386          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/rejeicao-a-bolsonaro-no-nordeste-chega-a-62-mostra-datafolha.shtml
-2021-05-12 23:29:50,540          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/operacao-exceptis-e-padrao-nao-excecao.shtml
-2021-05-12 23:29:50,548          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/bolsonaro-radicaliza-e-diz-que-ate-aecio-ganhou-e-nao-levou-em-2014-psdb-rechaca-hipotese.shtml
-2021-05-12 23:29:50,548          root     INFO: Finished script
+2021-05-12 23:57:57,209          root     INFO: Starting script
+2021-05-12 23:57:58,117          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-12 23:57:58,808          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-12 23:57:59,487          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-12 23:57:59,658          root     INFO: Parsing R7 - Brasil
+2021-05-12 23:58:07,876          root     INFO: New article tracked: http://noticias.r7.com/brasil/prisao-seria-o-menor-castigo-diz-presidente-da-cpi-a-wajngarten-12052021
+2021-05-12 23:58:07,890          root     INFO: New article tracked: http://noticias.r7.com/brasil/mario-frias-passa-por-cateterismo-de-emergencia-em-brasilia-12052021
+2021-05-12 23:58:07,903          root     INFO: New article tracked: http://noticias.r7.com/brasil/itamaraty-precisa-reagir-a-expulsao-de-bispos-dizem-especialistas-12052021
+2021-05-12 23:58:07,918          root     INFO: New article tracked: http://noticias.r7.com/brasil/alexandre-kalil-vai-a-brasilia-se-encontrar-com-rodrigo-pacheco-12052021
+2021-05-12 23:58:07,932          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-encaminha-depoimento-de-wajngarten-ao-ministerio-publico-12052021
+2021-05-12 23:58:07,947          root     INFO: New article tracked: http://noticias.r7.com/brasil/reforma-tributaria-relator-apresenta-versao-final-do-parcer-12052021
+2021-05-12 23:58:07,961          root     INFO: New article tracked: http://noticias.r7.com/brasil/teremos-voto-impresso-em-2022-se-parlamento-aprovar-diz-bolsonaro-12052021
+2021-05-12 23:58:07,975          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-afasta-gravidas-do-trabalho-na-pandemia-12052021
+2021-05-12 23:58:07,989          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-promulga-projeto-que-muda-regimento-interno-da-camara-12052021
+2021-05-12 23:58:08,001          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-pandemia-foi-castigo-para-o-mundo-todo-12052021
+2021-05-12 23:58:08,016          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-pauta-recurso-sobre-delacao-de-cabral-que-cita-dias-toffoli-12052021
+2021-05-12 23:58:08,029          root     INFO: New article tracked: http://noticias.r7.com/brasil/flavio-bolsonaro-chama-renan-calheiros-de-vagabundo-na-cpi-12052021
+2021-05-12 23:58:08,042          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-mantem-validade-de-patentes-prorrogadas-exceto-as-de-saude-12052021
+2021-05-12 23:58:08,059          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-pedira-quebra-de-sigilo-telefonico-de-fabio-wajngarten-12052021
+2021-05-12 23:58:08,072          root     INFO: New article tracked: http://noticias.r7.com/brasil/calheiros-ve-mentiras-e-pede-a-prisao-de-wajngarten-na-cpi-12052021
+2021-05-12 23:58:08,086          root     INFO: New article tracked: http://noticias.r7.com/brasil/wajngarten-campanha-contra-quarentena-saiu-sem-autorizacao-12052021
+2021-05-12 23:58:08,197          root     INFO: Finished script
