@@ -1,17 +1,10 @@
-2021-05-12 20:28:51,875          root     INFO: Starting script
-2021-05-12 20:28:52,787          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 20:28:53,474          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 20:28:54,162          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 20:28:54,282          root     INFO: Parsing R7 - Brasil
-2021-05-12 20:28:54,425          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/05/clubes-de-futebol-do-brasil-ja-tem-donos.shtml
-2021-05-12 20:28:57,050          root     INFO: Wajngarten ouve ameaça de <del>prisão na</del> <ins>prisão, e</ins> CPI da Covid <ins>tem racha</ins> e <del>admite paralisia do governo em oferta de vacina</del> <ins>bate-boca</ins>
-2021-05-12 20:28:58,857          root     INFO: Media ready with ids: 1392577563516710916
-2021-05-12 20:28:58,857          root     INFO: Text to tweet: Modificação do Título
-2021-05-12 20:28:58,857          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/wajngarten-ouve-ameaca-de-prisao-na-cpi-da-covid-e-admite-paralisia-do-governo-em-oferta-de-vacina.shtml
-2021-05-12 20:28:58,866          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/wajngarten-ouve-ameaca-de-prisao-na-cpi-da-covid-e-admite-paralisia-do-governo-em-oferta-de-vacina.shtml
-2021-05-12 20:28:59,044          root     INFO: Replying to: 1392577564863041537
-2021-05-12 20:28:59,364          root     INFO: Id to store: 1392577565680865281
-2021-05-12 20:29:01,879          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/sao-paulo-pode-recuperar-22-da-vegetacao-so-com-restauracao-de-margens-de-rios-e-morros.shtml
-2021-05-12 20:29:04,899          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/05/sistema-que-monitora-asfalto-e-solucao-para-viabilizar-carros-autonomos.shtml
-2021-05-12 20:29:04,904          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/03/na-ausencia-do-governo-federal-as-cidades-devem-assumir-o-enfrentamento-a-pandemia.shtml
-2021-05-12 20:29:04,904          root     INFO: Finished script
+2021-05-12 20:51:10,642          root     INFO: Starting script
+2021-05-12 20:51:11,560          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-12 20:51:12,215          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-12 20:51:12,867          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-12 20:51:13,039          root     INFO: Parsing R7 - Brasil
+2021-05-12 20:51:13,214          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/depoimento-prova-que-e-impossivel-defender-o-governo-falando-a-verdade.shtml
+2021-05-12 20:51:15,692          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/depoimento-prova-que-e-impossivel-defender-o-governo-falando-a-verdade.shtml
+2021-05-12 20:51:21,149          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/juiz-proibe-prefeitura-de-natal-de-fazer-propaganda-e-orientar-uso-de-ivermectina.shtml
+2021-05-12 20:51:21,156          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilene-felinto/2021/05/a-midia-e-macho-lula.shtml
+2021-05-12 20:51:21,156          root     INFO: Finished script
