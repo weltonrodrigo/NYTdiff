@@ -1,16 +1,22 @@
-2021-05-13 14:57:48,803          root     INFO: Starting script
-2021-05-13 14:57:49,703          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-13 14:57:50,395          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-13 14:57:51,087          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-13 14:57:53,244          root     INFO: Parsing R7 - Brasil
-2021-05-13 14:58:03,000          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-receberia-185-milhoes-de-doses-da-pfizer-ate-junho-de-2021-13052021
-2021-05-13 14:58:03,016          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-aprova-requerimento-de-convite-para-capita-cloroquina-13052021
-2021-05-13 14:58:03,030          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-pfizer-ofereceu-70-milhoes-de-doses-ao-brasil-em-agosto-13052021
-2021-05-13 14:58:03,044          root     INFO: New article tracked: http://noticias.r7.com/brasil/estudio-news-de-sabado-debate-a-incidencia-de-doencas-raras-13052021
-2021-05-13 14:58:03,062          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-instala-comissao-especial-para-analisar-pec-do-voto-impresso-13052021
-2021-05-13 14:58:03,078          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-ministro-pazuello-vai-pra-cima-em-cpi-13052021
-2021-05-13 14:58:03,092          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-para-trabalho-remoto-de-gravidas-13052021
-2021-05-13 14:58:03,112          root     INFO: New article tracked: http://noticias.r7.com/brasil/ao-vivo-cpi-da-covid-ouve-pfizer-sobre-negociacoes-com-governo-13052021
-2021-05-13 14:58:03,127          root     INFO: New article tracked: http://noticias.r7.com/brasil/previa-do-pib-cai-em-marco-mas-primeiro-trimestre-registra-alta-13052021
-2021-05-13 14:58:03,142          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-diretor-geral-da-pf-ganha-cargo-nos-eua-um-mes-apos-demissao-13052021
-2021-05-13 14:58:03,491          root     INFO: Finished script
+2021-05-13 15:32:47,856          root     INFO: Starting script
+2021-05-13 15:32:48,831          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-13 15:32:49,618          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-13 15:32:50,431          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-13 15:32:50,730          root     INFO: Parsing R7 - Brasil
+2021-05-13 15:32:53,447          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/lideres-de-12-partidos-assinam-nota-contra-pf-e-ataques-criminosos-a-toffoli.shtml
+2021-05-13 15:32:53,462          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/vulnerabilidade-se-agrava-derruba-bolsonaro-e-resgata-lula-aponta-datafolha.shtml
+2021-05-13 15:32:53,477          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-repete-o-filho-chama-renan-de-vagabundo-e-ve-crime-na-cpi-da-covid.shtml
+2021-05-13 15:32:58,975          root     INFO: Removed http://noticias.r7.com/brasil/estudio-news-de-sabado-debate-a-incidencia-de-doencas-raras-13052021
+2021-05-13 15:32:58,979          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-aprova-requerimento-de-convite-para-capita-cloroquina-13052021
+2021-05-13 15:32:58,984          root     INFO: Removed http://noticias.r7.com/brasil/ex-diretor-geral-da-pf-ganha-cargo-nos-eua-um-mes-apos-demissao-13052021
+2021-05-13 15:32:58,990          root     INFO: Removed http://noticias.r7.com/brasil/ao-vivo-cpi-da-covid-ouve-pfizer-sobre-negociacoes-com-governo-13052021
+2021-05-13 15:32:58,994          root     INFO: Removed http://noticias.r7.com/brasil/lira-instala-comissao-especial-para-analisar-pec-do-voto-impresso-13052021
+2021-05-13 15:32:58,998          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-para-trabalho-remoto-de-gravidas-13052021
+2021-05-13 15:32:59,003          root     INFO: Removed http://noticias.r7.com/brasil/previa-do-pib-cai-em-marco-mas-primeiro-trimestre-registra-alta-13052021
+2021-05-13 15:32:59,007          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mineracao-ilegal-e-uma-questao-multifatorial-diz-comandante-do-exercito-na-amazonia.shtml
+2021-05-13 15:32:59,017          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/esvaziada-curitiba-perde-20-acoes-da-lava-jato-em-dois-anos-incluindo-caso-lula.shtml
+2021-05-13 15:32:59,021          root     INFO: Removed http://noticias.r7.com/brasil/cpi-pfizer-ofereceu-70-milhoes-de-doses-ao-brasil-em-agosto-13052021
+2021-05-13 15:32:59,026          root     INFO: Removed http://noticias.r7.com/brasil/brasil-receberia-185-milhoes-de-doses-da-pfizer-ate-junho-de-2021-13052021
+2021-05-13 15:32:59,031          root     INFO: Removed http://noticias.r7.com/brasil/ex-ministro-pazuello-vai-pra-cima-em-cpi-13052021
+2021-05-13 15:32:59,036          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/novo-chefe-da-pf-destoa-de-negacionismo-de-jair-bolsonaro-em-1o-discurso-e-lamenta-mortes.shtml
+2021-05-13 15:32:59,037          root     INFO: Finished script
