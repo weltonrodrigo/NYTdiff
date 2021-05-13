@@ -1,17 +1,20 @@
-2021-05-13 18:15:37,630          root     INFO: Starting script
-2021-05-13 18:15:38,595          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-13 18:15:39,382          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-13 18:15:40,199          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-13 18:15:40,411          root     INFO: Parsing R7 - Brasil
-2021-05-13 18:15:42,814          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/pfizer-diz-a-cpi-da-covid-que-governo-bolsonaro-ignorou-5-ofertas-de-vacina-em-2020.shtml
-2021-05-13 18:15:42,829          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49603
-2021-05-13 18:15:42,891          root     INFO: Ex-secretário que teria feito pagamentos a Toffoli <del>desmente</del> <ins>contradiz</ins> Cabral e diz que ele tenta 'se safar'
-2021-05-13 18:15:44,571          root     INFO: Media ready with ids: 1392906420891394054
-2021-05-13 18:15:44,571          root     INFO: Text to tweet: Modificação do Título
-2021-05-13 18:15:44,571          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/ex-secretario-que-teria-feito-pagamentos-a-toffoli-desmente-cabral-e-diz-que-ele-tenta-se-safar.shtml
-2021-05-13 18:15:44,580          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/ex-secretario-que-teria-feito-pagamentos-a-toffoli-desmente-cabral-e-diz-que-ele-tenta-se-safar.shtml
-2021-05-13 18:15:44,800          root     INFO: Replying to: 1392906422447390721
-2021-05-13 18:15:45,037          root     INFO: Id to store: 1392906423210844163
-2021-05-13 18:15:49,835          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/desfiliacoes-autorizadas-pelo-tse-sem-perda-de-mandato-preocupam-partidos.shtml
-2021-05-13 18:15:49,839          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/aecio-neves-defende-decisao-de-barrar-sputnik-e-diz-que-anvisa-agiu-sem-ideologia.shtml
-2021-05-13 18:15:49,840          root     INFO: Finished script
+2021-05-13 18:54:05,732          root     INFO: Starting script
+2021-05-13 18:54:06,523          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-13 18:54:07,166          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-13 18:54:07,815          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-13 18:54:08,081          root     INFO: Parsing R7 - Brasil
+2021-05-13 18:54:10,754          root     INFO: Em depoimento à CPI da Covid <ins>do Senado</ins> nesta quinta-feira (13), o gerente-geral da Pfizer na América Latina, Carlos Murillo, afirmou que a empresa fez em 2020 ao Brasil ao menos cinco ofertas de doses de vacinas contra o coronavírus e que o governo <ins>federal</ins> ignorou proposta para comprar 70 milhões de unidades do imunizante. Leia mais (05/13/2021 - 14h53)
+2021-05-13 18:54:12,607          root     INFO: Media ready with ids: 1392916100774514691
+2021-05-13 18:54:12,608          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-13 18:54:12,608          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/pfizer-diz-a-cpi-da-covid-que-governo-bolsonaro-ignorou-5-ofertas-de-vacina-em-2020.shtml
+2021-05-13 18:54:12,617          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/pfizer-diz-a-cpi-da-covid-que-governo-bolsonaro-ignorou-5-ofertas-de-vacina-em-2020.shtml
+2021-05-13 18:54:12,821          root     INFO: Replying to: 1392916102947254276
+2021-05-13 18:54:13,043          root     INFO: Id to store: 1392916103672762369
+2021-05-13 18:54:13,295          root     INFO: O presidente Jair Bolsonaro nomeou o <del>ex-diretor</del> <ins>ex-diretor-geral</ins> da Polícia Federal Rolando Alexandre de Souza para o cargo de adido da Polícia Federal na embaixada do Brasil em Washington. Leia mais (05/13/2021 - 10h00)
+2021-05-13 18:54:14,954          root     INFO: Media ready with ids: 1392916111226773508
+2021-05-13 18:54:14,955          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-13 18:54:14,955          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/bolsonaro-nomeia-ex-diretor-da-pf-rolando-alexandre-de-souza-para-cargo-na-embaixada-do-brasil-em-washington.shtml
+2021-05-13 18:54:14,963          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/bolsonaro-nomeia-ex-diretor-da-pf-rolando-alexandre-de-souza-para-cargo-na-embaixada-do-brasil-em-washington.shtml
+2021-05-13 18:54:15,151          root     INFO: Replying to: 1392916112770310144
+2021-05-13 18:54:15,411          root     INFO: Id to store: 1392916113550417920
+2021-05-13 18:54:20,583          root     INFO: Finished script
