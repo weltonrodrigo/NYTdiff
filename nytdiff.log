@@ -1,13 +1,13 @@
-2021-05-13 10:29:48,107          root     INFO: Starting script
-2021-05-13 10:29:48,942          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-13 10:29:49,628          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-13 10:29:50,309          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-13 10:29:50,506          root     INFO: Parsing R7 - Brasil
-2021-05-13 10:29:53,661          root     INFO: <ins>Datafolha:</ins> Rejeição a Bolsonaro só é inferior à de Collor com tempo semelhante no <del>governo, aponta Datafolha</del> <ins>governo</ins>
-2021-05-13 10:29:55,386          root     INFO: Media ready with ids: 1392789193491980293
-2021-05-13 10:29:55,387          root     INFO: Text to tweet: Modificação do Título
-2021-05-13 10:29:55,387          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/rejeicao-a-bolsonaro-so-e-inferior-a-de-collor-com-tempo-semelhante-no-governo-aponta-datafolha.shtml
-2021-05-13 10:29:55,396          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/rejeicao-a-bolsonaro-so-e-inferior-a-de-collor-com-tempo-semelhante-no-governo-aponta-datafolha.shtml
-2021-05-13 10:29:55,557          root     INFO: Replying to: 1392789194855096326
-2021-05-13 10:29:55,771          root     INFO: Id to store: 1392789195538718720
-2021-05-13 10:30:01,219          root     INFO: Finished script
+2021-05-13 10:56:13,007          root     INFO: Starting script
+2021-05-13 10:56:13,968          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-13 10:56:14,764          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-13 10:56:15,540          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-13 10:56:15,760          root     INFO: Parsing R7 - Brasil
+2021-05-13 10:56:18,747          root     INFO: Carta ignorada da Pfizer, <del>contradições, Pazuello</del> <ins>contradições</ins> e <del>campanhas;</del> <ins>Pazuello;</ins> veja 6 temas do depoimento de Wajngarten à CPI da Covid
+2021-05-13 10:56:20,525          root     INFO: Media ready with ids: 1392795842109706241
+2021-05-13 10:56:20,526          root     INFO: Text to tweet: Modificação do Título
+2021-05-13 10:56:20,526          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/carta-ignorada-da-pfizer-contradicoes-pazuello-e-campanhas-veja-6-temas-do-depoimento-de-wajngarten-a-cpi-da-covid.shtml
+2021-05-13 10:56:20,535          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/carta-ignorada-da-pfizer-contradicoes-pazuello-e-campanhas-veja-6-temas-do-depoimento-de-wajngarten-a-cpi-da-covid.shtml
+2021-05-13 10:56:20,798          root     INFO: Replying to: 1392795843779088384
+2021-05-13 10:56:21,075          root     INFO: Id to store: 1392795844714323969
+2021-05-13 10:56:26,125          root     INFO: Finished script
