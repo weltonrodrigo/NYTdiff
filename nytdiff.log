@@ -1,22 +1,42 @@
-2021-05-12 23:57:57,209          root     INFO: Starting script
-2021-05-12 23:57:58,117          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-12 23:57:58,808          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-12 23:57:59,487          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-12 23:57:59,658          root     INFO: Parsing R7 - Brasil
-2021-05-12 23:58:07,876          root     INFO: New article tracked: http://noticias.r7.com/brasil/prisao-seria-o-menor-castigo-diz-presidente-da-cpi-a-wajngarten-12052021
-2021-05-12 23:58:07,890          root     INFO: New article tracked: http://noticias.r7.com/brasil/mario-frias-passa-por-cateterismo-de-emergencia-em-brasilia-12052021
-2021-05-12 23:58:07,903          root     INFO: New article tracked: http://noticias.r7.com/brasil/itamaraty-precisa-reagir-a-expulsao-de-bispos-dizem-especialistas-12052021
-2021-05-12 23:58:07,918          root     INFO: New article tracked: http://noticias.r7.com/brasil/alexandre-kalil-vai-a-brasilia-se-encontrar-com-rodrigo-pacheco-12052021
-2021-05-12 23:58:07,932          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-encaminha-depoimento-de-wajngarten-ao-ministerio-publico-12052021
-2021-05-12 23:58:07,947          root     INFO: New article tracked: http://noticias.r7.com/brasil/reforma-tributaria-relator-apresenta-versao-final-do-parcer-12052021
-2021-05-12 23:58:07,961          root     INFO: New article tracked: http://noticias.r7.com/brasil/teremos-voto-impresso-em-2022-se-parlamento-aprovar-diz-bolsonaro-12052021
-2021-05-12 23:58:07,975          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-afasta-gravidas-do-trabalho-na-pandemia-12052021
-2021-05-12 23:58:07,989          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-promulga-projeto-que-muda-regimento-interno-da-camara-12052021
-2021-05-12 23:58:08,001          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-pandemia-foi-castigo-para-o-mundo-todo-12052021
-2021-05-12 23:58:08,016          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-pauta-recurso-sobre-delacao-de-cabral-que-cita-dias-toffoli-12052021
-2021-05-12 23:58:08,029          root     INFO: New article tracked: http://noticias.r7.com/brasil/flavio-bolsonaro-chama-renan-calheiros-de-vagabundo-na-cpi-12052021
-2021-05-12 23:58:08,042          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-mantem-validade-de-patentes-prorrogadas-exceto-as-de-saude-12052021
-2021-05-12 23:58:08,059          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-pedira-quebra-de-sigilo-telefonico-de-fabio-wajngarten-12052021
-2021-05-12 23:58:08,072          root     INFO: New article tracked: http://noticias.r7.com/brasil/calheiros-ve-mentiras-e-pede-a-prisao-de-wajngarten-na-cpi-12052021
-2021-05-12 23:58:08,086          root     INFO: New article tracked: http://noticias.r7.com/brasil/wajngarten-campanha-contra-quarentena-saiu-sem-autorizacao-12052021
-2021-05-12 23:58:08,197          root     INFO: Finished script
+2021-05-13 01:23:32,621          root     INFO: Starting script
+2021-05-13 01:23:33,568          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-13 01:23:34,356          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-13 01:23:35,146          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-13 01:23:35,378          root     INFO: Parsing R7 - Brasil
+2021-05-13 01:23:37,926          root     INFO: <del>Não quero desafiar ninguém, mas vão nos respeitar,</del> <ins>'Renan tem moral para querer prender alguém?',</ins> diz Bolsonaro <del>em dia de</del> <ins>após</ins> bate-boca <del>e ameaças</del> na CPI <ins>da Covid</ins>
+2021-05-13 01:23:39,914          root     INFO: Media ready with ids: 1392651722296856579
+2021-05-13 01:23:39,914          root     INFO: Text to tweet: Modificação do Título
+2021-05-13 01:23:39,914          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-quero-desafiar-ninguem-mas-vao-nos-respeitar-diz-bolsonaro-em-dia-de-bate-boca-e-ameacas-na-cpi.shtml
+2021-05-13 01:23:39,922          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-quero-desafiar-ninguem-mas-vao-nos-respeitar-diz-bolsonaro-em-dia-de-bate-boca-e-ameacas-na-cpi.shtml
+2021-05-13 01:23:40,177          root     INFO: Replying to: 1392651724859584520
+2021-05-13 01:23:40,468          root     INFO: Id to store: 1392651725836795911
+2021-05-13 01:23:40,475          root     INFO: <del>No dia</del> <ins>O presidente Jair Bolsonaro questionou na noite desta quarta-feira (12) a reputação do senador Renan Calheiros (MDB-AL) para ameaçar de prisão</ins> em <del>que seu</del> <ins>flagrante o</ins> ex-secretário de Comunicação Fabio <del>Wajngarten foi ameaçado de prisão por senadores da CPI da Covid, o presidente Jair Bolsonaro afirmou não temer "absolutamente nada" ?e disse que o governo "fez o que pôde" na crise sanitária.</del> <ins>Wajngarten.</ins> Leia mais (05/12/2021 - 18h24)
+2021-05-13 01:23:42,244          root     INFO: Media ready with ids: 1392651732770033664
+2021-05-13 01:23:42,244          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-13 01:23:42,244          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-quero-desafiar-ninguem-mas-vao-nos-respeitar-diz-bolsonaro-em-dia-de-bate-boca-e-ameacas-na-cpi.shtml
+2021-05-13 01:23:42,256          root     INFO: Replying to: 1392651725836795911
+2021-05-13 01:23:42,536          root     INFO: Id to store: 1392651734556856320
+2021-05-13 01:23:42,602          root     INFO: Câmara dos Deputados aprova projeto que <del>reduz 'kit obstrução', e</del> <ins>engessa</ins> oposição <del>vê autoritarismo</del>
+2021-05-13 01:23:44,308          root     INFO: Media ready with ids: 1392651741573877764
+2021-05-13 01:23:44,309          root     INFO: Text to tweet: Modificação do Título
+2021-05-13 01:23:44,309          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-dos-deputados-aprova-projeto-que-reduz-kit-obstrucao-e-oposicao-ve-autoritarismo.shtml
+2021-05-13 01:23:44,317          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/camara-dos-deputados-aprova-projeto-que-reduz-kit-obstrucao-e-oposicao-ve-autoritarismo.shtml
+2021-05-13 01:23:44,543          root     INFO: Replying to: 1392651743184494599
+2021-05-13 01:23:44,849          root     INFO: Id to store: 1392651744136634369
+2021-05-13 01:23:49,811          root     INFO: Removed http://noticias.r7.com/brasil/reforma-tributaria-relator-apresenta-versao-final-do-parcer-12052021
+2021-05-13 01:23:49,815          root     INFO: Removed http://noticias.r7.com/brasil/fachin-pauta-recurso-sobre-delacao-de-cabral-que-cita-dias-toffoli-12052021
+2021-05-13 01:23:49,820          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-pandemia-foi-castigo-para-o-mundo-todo-12052021
+2021-05-13 01:23:49,825          root     INFO: Removed http://noticias.r7.com/brasil/lira-promulga-projeto-que-muda-regimento-interno-da-camara-12052021
+2021-05-13 01:23:49,830          root     INFO: Removed http://noticias.r7.com/brasil/calheiros-ve-mentiras-e-pede-a-prisao-de-wajngarten-na-cpi-12052021
+2021-05-13 01:23:49,835          root     INFO: Removed http://noticias.r7.com/brasil/stf-mantem-validade-de-patentes-prorrogadas-exceto-as-de-saude-12052021
+2021-05-13 01:23:49,839          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-afasta-gravidas-do-trabalho-na-pandemia-12052021
+2021-05-13 01:23:49,843          root     INFO: Removed http://noticias.r7.com/brasil/flavio-bolsonaro-chama-renan-calheiros-de-vagabundo-na-cpi-12052021
+2021-05-13 01:23:49,848          root     INFO: Removed http://noticias.r7.com/brasil/wajngarten-campanha-contra-quarentena-saiu-sem-autorizacao-12052021
+2021-05-13 01:23:49,852          root     INFO: Removed http://noticias.r7.com/brasil/itamaraty-precisa-reagir-a-expulsao-de-bispos-dizem-especialistas-12052021
+2021-05-13 01:23:49,856          root     INFO: Removed http://noticias.r7.com/brasil/teremos-voto-impresso-em-2022-se-parlamento-aprovar-diz-bolsonaro-12052021
+2021-05-13 01:23:49,862          root     INFO: Removed http://noticias.r7.com/brasil/alexandre-kalil-vai-a-brasilia-se-encontrar-com-rodrigo-pacheco-12052021
+2021-05-13 01:23:49,878          root     INFO: Removed http://noticias.r7.com/brasil/aziz-encaminha-depoimento-de-wajngarten-ao-ministerio-publico-12052021
+2021-05-13 01:23:49,883          root     INFO: Removed http://noticias.r7.com/brasil/senador-pedira-quebra-de-sigilo-telefonico-de-fabio-wajngarten-12052021
+2021-05-13 01:23:49,887          root     INFO: Removed http://noticias.r7.com/brasil/mario-frias-passa-por-cateterismo-de-emergencia-em-brasilia-12052021
+2021-05-13 01:23:49,892          root     INFO: Removed http://noticias.r7.com/brasil/prisao-seria-o-menor-castigo-diz-presidente-da-cpi-a-wajngarten-12052021
+2021-05-13 01:23:49,892          root     INFO: Finished script
