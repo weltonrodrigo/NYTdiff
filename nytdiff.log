@@ -1,12 +1,35 @@
-2021-05-13 21:26:49,718          root     INFO: Starting script
-2021-05-13 21:26:50,573          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-13 21:26:51,258          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-13 21:26:51,949          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-13 21:26:52,097          root     INFO: Parsing R7 - Brasil
-2021-05-13 21:26:52,262          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/05/inspiracao-para-courbet-e-baudelaire-absinto-tinha-fama-alucinogena.shtml
-2021-05-13 21:26:54,764          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/agu-pede-ao-supremo-para-pazuello-poder-ficar-em-silencio-em-depoimento-a-cpi-da-covid.shtml
-2021-05-13 21:26:54,779          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/nao-tinhamos-os-votos-como-ainda-nao-temos-diz-maia-sobre-nao-ter-pautado-impeachment-de-bolsonaro.shtml
-2021-05-13 21:27:00,411          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-lima-ombudsman/2021/05/fim-de-papo.shtml
-2021-05-13 21:27:00,416          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/a-cloroquina-de-bolsonaro-e-o-emplasto-de-bras-cubas.shtml
-2021-05-13 21:27:00,421          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ministerio-de-damares-retira-do-ar-nota-em-que-lamentava-mortes-no-jacarezinho.shtml
-2021-05-13 21:27:00,422          root     INFO: Finished script
+2021-05-13 21:54:11,985          root     INFO: Starting script
+2021-05-13 21:54:12,802          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-13 21:54:13,473          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-13 21:54:14,142          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-13 21:54:14,382          root     INFO: Parsing R7 - Brasil
+2021-05-13 21:54:14,914          root     INFO: Jair Bolsonaro fabricou muitas batalhas nessa pandemia: da economia contra a vida; da cloroquina contra a vacina; da liberdade contra as máscaras; do pensamento mágico contra a ciência. No campo dos fatos, perdeu todas. No da fantasia, insiste em todas. Na política, restou-lhe acossar STF e Congresso, culpar estados e municípios, e insinuar intervenção milico-miliciana para livrar-se ileso dos danos <del>?gerados</del> <ins>gerados</ins> por sua conduta. Leia mais (05/12/2021 - 23h15)
+2021-05-13 21:54:16,686          root     INFO: Media ready with ids: 1392961416873881600
+2021-05-13 21:54:16,687          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-13 21:54:16,687          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/05/no-universo-normativo-de-bolsonaro-nao-existe-o-matar-a-distancia-para-o-direito-existe.shtml
+2021-05-13 21:54:16,697          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/05/no-universo-normativo-de-bolsonaro-nao-existe-o-matar-a-distancia-para-o-direito-existe.shtml
+2021-05-13 21:54:16,875          root     INFO: Replying to: 1392961418476072966
+2021-05-13 21:54:17,216          root     INFO: Id to store: 1392961419285499905
+2021-05-13 21:54:19,528          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/biden-se-esforca-para-ser-o-lula-americano-diz-mercadante.shtml
+2021-05-13 21:54:20,329          root     INFO: Jair Bolsonaro fabricou muitas batalhas nessa pandemia: da economia contra a vida; da cloroquina contra a vacina; da liberdade contra as máscaras; do pensamento mágico contra a ciência. No campo dos fatos, perdeu todas. No da fantasia, insiste em todas. Na política, restou-lhe acossar STF e Congresso, culpar estados e municípios, e insinuar intervenção milico-miliciana para livrar-se ileso dos danos <del>?gerados</del> <ins>gerados</ins> por sua conduta. Leia mais (05/12/2021 - 23h15)
+2021-05-13 21:54:22,182          root     INFO: Media ready with ids: 1392961439443398658
+2021-05-13 21:54:22,182          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-13 21:54:22,182          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/05/no-universo-normativo-de-bolsonaro-nao-existe-o-matar-a-distancia-para-o-direito-existe.shtml
+2021-05-13 21:54:22,191          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/05/no-universo-normativo-de-bolsonaro-nao-existe-o-matar-a-distancia-para-o-direito-existe.shtml
+2021-05-13 21:54:22,372          root     INFO: Replying to: 1392961441557319682
+2021-05-13 21:54:22,620          root     INFO: Id to store: 1392961442320719880
+2021-05-13 21:54:24,560          root     INFO: Câmara <del>aprova texto-base do</del> <ins>conclui votação de projeto que flexibiliza</ins> licenciamento ambiental <del>e aumenta pena para quem construir sem autorização</del>
+2021-05-13 21:54:26,248          root     INFO: Media ready with ids: 1392961457063616513
+2021-05-13 21:54:26,249          root     INFO: Text to tweet: Modificação do Título
+2021-05-13 21:54:26,249          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/camara-aprova-texto-base-do-licenciamento-ambiental-e-aumenta-pena-para-quem-construir-sem-autorizacao.shtml
+2021-05-13 21:54:26,259          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/camara-aprova-texto-base-do-licenciamento-ambiental-e-aumenta-pena-para-quem-construir-sem-autorizacao.shtml
+2021-05-13 21:54:26,430          root     INFO: Replying to: 1392961458544300034
+2021-05-13 21:54:26,678          root     INFO: Id to store: 1392961459341115400
+2021-05-13 21:54:26,685          root     INFO: <del>?A</del> <ins>A</ins> Câmara dos Deputados <del>aprovou na madrugada desta</del> <ins>concluiu nesta</ins> quinta-feira (13) <del>o texto principal</del> <ins>a votação</ins> do projeto que <del>cria uma lei</del> <ins>flexibiliza as regras</ins> de licenciamento <del>ambiental e que aumenta a pena</del> <ins>ambiental, permite dispensa automática</ins> para <del>quem construir ou ampliar empreendimentos sem licença ou autorização</del> <ins>uma série</ins> de <del>órgãos ambientais.</del> <ins>empreendimentos e traz hipótese de autodeclaração sem análise prévia de órgão ambiental, em medidas que fragilizam a proteção ambiental, segundo críticos.</ins> Leia mais (05/13/2021 - 00h38)
+2021-05-13 21:54:28,418          root     INFO: Media ready with ids: 1392961466047807491
+2021-05-13 21:54:28,418          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-13 21:54:28,418          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/camara-aprova-texto-base-do-licenciamento-ambiental-e-aumenta-pena-para-quem-construir-sem-autorizacao.shtml
+2021-05-13 21:54:28,429          root     INFO: Replying to: 1392961459341115400
+2021-05-13 21:54:28,686          root     INFO: Id to store: 1392961467725529097
+2021-05-13 21:54:31,750          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-efeito-lula-psol-racha-sobre-2022-e-poe-boulos-e-erundina-em-lados-opostos.shtml
+2021-05-13 21:54:31,751          root     INFO: Finished script
