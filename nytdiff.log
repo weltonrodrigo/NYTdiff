@@ -1,39 +1,17 @@
-2021-05-14 14:27:16,057          root     INFO: Starting script
-2021-05-14 14:27:17,080          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-14 14:27:17,878          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-14 14:27:18,685          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-14 14:27:18,889          root     INFO: Parsing R7 - Brasil
-2021-05-14 14:27:19,063          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/terra-vegana/2021/05/adeus-pato-glaceado-um-dos-restaurantes-mais-famosos-do-mundo-vira-vegano.shtml
-2021-05-14 14:27:19,330          root     INFO: É grande a tentação de tecer considerações sobre o depoimento de Fabio Wajngarten na CPI da Covid. Ou de nominar os vagabundos com uma arma na mão e ideias genocidas na cabeça. Mas, a esta altura, nada há de tão contundente a dizer sobre o desgoverno que seus próceres não digam com mais eficiência. <del>A mim me interessa saber como chegamos aqui. Mais importante para o futuro do país é o pedido de abertura de inquérito contra o ministro Dias Toffoli, feito por Bernardo Guidali Amaral, delegado morista da PF.</del> Leia mais (05/13/2021 - 23h15)
-2021-05-14 14:27:21,136          root     INFO: Media ready with ids: 1393211332212793344
-2021-05-14 14:27:21,137          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-14 14:27:21,138          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/05/ataque-a-toffoli-alveja-o-estado-de-direito-e-a-propria-democracia.shtml
-2021-05-14 14:27:21,148          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/05/ataque-a-toffoli-alveja-o-estado-de-direito-e-a-propria-democracia.shtml
-2021-05-14 14:27:21,381          root     INFO: Replying to: 1393211333940858887
-2021-05-14 14:27:21,750          root     INFO: Id to store: 1393211334876037122
-2021-05-14 14:27:24,294          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/renan-vai-ao-stf-contra-silencio-de-pazuello-e-diz-que-ele-quer-proteger-possiveis-infratores.shtml
-2021-05-14 14:27:24,505          root     INFO: É grande a tentação de tecer considerações sobre o depoimento de Fabio Wajngarten na CPI da Covid. Ou de nominar os vagabundos com uma arma na mão e ideias genocidas na cabeça. Mas, a esta altura, nada há de tão contundente a dizer sobre o desgoverno que seus próceres não digam com mais eficiência. <del>A mim me interessa saber como chegamos aqui. Mais importante para o futuro do país é o pedido de abertura de inquérito contra o ministro Dias Toffoli, feito por Bernardo Guidali Amaral, delegado morista da PF.</del> Leia mais (05/13/2021 - 23h15)
-2021-05-14 14:27:26,251          root     INFO: Media ready with ids: 1393211353683447809
-2021-05-14 14:27:26,252          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-14 14:27:26,252          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/05/ataque-a-toffoli-alveja-o-estado-de-direito-e-a-propria-democracia.shtml
-2021-05-14 14:27:26,263          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/05/ataque-a-toffoli-alveja-o-estado-de-direito-e-a-propria-democracia.shtml
-2021-05-14 14:27:26,439          root     INFO: Replying to: 1393211355231096842
-2021-05-14 14:27:26,673          root     INFO: Id to store: 1393211355969298438
-2021-05-14 14:27:29,495          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/nao-vejo-como-afrouxamento-de-regras-diz-mourao-sobre-flexibilizacao-de-licenciamento-ambiental.shtml
-2021-05-14 14:27:32,904          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-critica-cpi-e-diz-que-pazuello-fez-tudo-certo-13052021
-2021-05-14 14:27:32,909          root     INFO: Removed http://noticias.r7.com/brasil/media-de-mortes-por-covid-19-no-brasil-cai-24-em-duas-semanas-13052021
-2021-05-14 14:27:32,914          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2021/05/escravidao-fantasiada-de-liberdade.shtml
-2021-05-14 14:27:32,920          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-detalha-escolhas-erradas-do-governo-na-pandemia-14052021
-2021-05-14 14:27:32,925          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/03/pro-governo-e-sem-mencionar-desmate-ou-queimada-carla-zambelli-assume-comissao-do-meio-ambiente.shtml
-2021-05-14 14:27:32,930          root     INFO: Removed http://noticias.r7.com/brasil/tres-em-cada-10-reprovam-atuacao-do-ministerio-da-saude-contra-covid-14052021
-2021-05-14 14:27:32,935          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-cobra-gastos-de-estados-via-tribunais-de-contas-14052021
-2021-05-14 14:27:32,940          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-eu-me-preocupo-com-cti-cpi-e-problema-do-parlamento-13052021
-2021-05-14 14:27:32,945          root     INFO: Removed http://noticias.r7.com/brasil/itamaraty-convoca-embaixador-de-angola-e-repete-informacoes-13052021
-2021-05-14 14:27:32,951          root     INFO: Removed http://noticias.r7.com/brasil/fachin-acompanha-marco-aurelio-e-empata-julgamento-sobre-o-censo-13052021
-2021-05-14 14:27:32,957          root     INFO: Removed http://noticias.r7.com/brasil/veja-ofertas-da-pfizer-que-foram-ignoradas-pelo-ministerio-da-saude-13052021
-2021-05-14 14:27:32,963          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-vai-interromper-producao-de-vacina-por-falta-de-ifa-13052021
-2021-05-14 14:27:32,968          root     INFO: Removed http://noticias.r7.com/brasil/senado-aprova-reducao-na-tarifa-de-energia-eletrica-por-5-anos-13052021
-2021-05-14 14:27:32,973          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ex-bolsista-de-fundacao-estadual-ex-bbb-gil-do-vigor-faz-visita-a-governador-de-pernambuco.shtml
-2021-05-14 14:27:32,979          root     INFO: Removed http://noticias.r7.com/brasil/aprovacao-de-bolsonaro-cai-e-chega-a-24-diz-datafolha-13052021
-2021-05-14 14:27:32,985          root     INFO: Removed http://noticias.r7.com/brasil/quantidade-de-vacinados-contra-covid-19-chega-a-377-milhoes-13052021
-2021-05-14 14:27:32,986          root     INFO: Finished script
+2021-05-14 14:51:54,272          root     INFO: Starting script
+2021-05-14 14:51:55,234          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-14 14:51:56,023          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-14 14:51:56,807          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-14 14:51:56,988          root     INFO: Parsing R7 - Brasil
+2021-05-14 14:51:59,364          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/ilustrissima/2021/05/fhc-reve-trajetoria-em-novo-livro-e-diz-que-brasil-naturalizou-pobreza-e-desigualdade.shtml
+2021-05-14 14:51:59,446          root     INFO: <ins>Com 430 mil mortos,</ins> Bolsonaro <del>desistiu</del> <ins>desiste</ins> de <del>pedir direito de resposta a editorial do Jornal Nacional sobre mortes</del> <ins>ação contra JN</ins> por <del>Covid-19</del> <ins>críticas à gestão da epidemia</ins>
+2021-05-14 14:52:01,199          root     INFO: Media ready with ids: 1393217540101443586
+2021-05-14 14:52:01,199          root     INFO: Text to tweet: Modificação do Título
+2021-05-14 14:52:01,200          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/bolsonaro-desistiu-de-pedir-direito-de-resposta-a-editorial-do-jornal-nacional-sobre-mortes-por-covid-19.shtml
+2021-05-14 14:52:01,207          root     INFO: Replying to: 1393171742550544391
+2021-05-14 14:52:01,471          root     INFO: Id to store: 1393217541737259009
+2021-05-14 14:52:05,690          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-coleciona-ataques-a-china-e-brasil-fica-sem-vacinas-14052021
+2021-05-14 14:52:05,701          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-defende-pazuello-na-cpi-da-covid-tem-direito-ao-silencio-14052021
+2021-05-14 14:52:05,712          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-em-oficio-ao-stf-silencio-de-pazuello-pode-prejudicar-cpi-14052021
+2021-05-14 14:52:06,132          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/banho-de-sangue-da-policia-em-jacarezinho-aumenta-citacoes-positivas-ao-governador-do-rio-nas-redes.shtml
+2021-05-14 14:52:06,133          root     INFO: Finished script
