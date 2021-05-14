@@ -1,12 +1,27 @@
-2021-05-14 21:26:58,456          root     INFO: Starting script
-2021-05-14 21:26:59,428          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-14 21:27:00,224          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-14 21:27:01,028          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-14 21:27:01,292          root     INFO: Parsing R7 - Brasil
-2021-05-14 21:27:01,426          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/05/incerteza-olimpica-obriga-a-escolher-ato-que-implica-frustracao.shtml
-2021-05-14 21:27:04,186          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/pgr-diz-que-sergio-cabral-age-de-ma-fe-em-delacao.shtml
-2021-05-14 21:27:04,198          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/secretario-de-doria-chama-acm-neto-de-bolsonarista-por-ter-rompido-com-o-tucano.shtml
-2021-05-14 21:27:10,184          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/a-democracia-esta-morta-em-el-salvador.shtml
-2021-05-14 21:27:10,188          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/e-falso-tuite-afirmando-que-pazuello-viajou-para-os-eua-com-passaporte-diplomatico.shtml
-2021-05-14 21:27:10,194          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-aval-de-lira-projeto-que-freia-kit-obstrucao-de-opositores-avanca-na-camara-dos-deputados.shtml
-2021-05-14 21:27:10,195          root     INFO: Finished script
+2021-05-14 21:54:17,167          root     INFO: Starting script
+2021-05-14 21:54:17,973          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-14 21:54:18,611          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-14 21:54:19,256          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-14 21:54:19,383          root     INFO: Parsing R7 - Brasil
+2021-05-14 21:54:19,528          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/05/a-raiz-profunda-da-desconfianca-da-vacinacao-encontra-se-no-temor-do-poder-estatal.shtml
+2021-05-14 21:54:21,658          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/um-minutinho-de-mulher-diz-bolsonaro-a-apoiadora-que-quis-mostrar-video.shtml
+2021-05-14 21:54:21,668          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/05/a-raiz-profunda-da-desconfianca-da-vacinacao-encontra-se-no-temor-do-poder-estatal.shtml
+2021-05-14 21:54:21,676          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49616
+2021-05-14 21:54:21,712          root     INFO: PGR diz que Sérgio Cabral 'age de má-fé' em delação <ins>que cita Toffoli</ins>
+2021-05-14 21:54:23,459          root     INFO: Media ready with ids: 1393323833050943493
+2021-05-14 21:54:23,460          root     INFO: Text to tweet: Modificação do Título
+2021-05-14 21:54:23,460          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/pgr-diz-que-sergio-cabral-age-de-ma-fe-em-delacao.shtml
+2021-05-14 21:54:23,470          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/pgr-diz-que-sergio-cabral-age-de-ma-fe-em-delacao.shtml
+2021-05-14 21:54:23,663          root     INFO: Replying to: 1393323834825191424
+2021-05-14 21:54:23,871          root     INFO: Id to store: 1393323835475234820
+2021-05-14 21:54:23,879          root     INFO: A Procuradoria-Geral da República (PGR) enviou ao Supremo Tribunal Federal (STF) nesta sexta (14) <del>uma manifestação</del> <ins>um ofício</ins> em que reitera seu entendimento contrário à homologação de delação feita pelo ex-governador do Rio Sérgio Cabral. Leia mais (05/14/2021 - 18h11)
+2021-05-14 21:54:25,568          root     INFO: Media ready with ids: 1393323842165223424
+2021-05-14 21:54:25,569          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-14 21:54:25,569          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/pgr-diz-que-sergio-cabral-age-de-ma-fe-em-delacao.shtml
+2021-05-14 21:54:25,582          root     INFO: Replying to: 1393323835475234820
+2021-05-14 21:54:25,788          root     INFO: Id to store: 1393323843549376514
+2021-05-14 21:54:30,472          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2020/08/aviso.shtml
+2021-05-14 21:54:30,476          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/depoimento-de-presidente-da-anvisa-na-cpi-constrange-planalto-e-queiroga-sai-em-defesa-de-bolsonaro.shtml
+2021-05-14 21:54:30,479          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/guerra-as-drogas-nem-acaba-com-o-trafico-nem-destroi-o-problema.shtml
+2021-05-14 21:54:30,482          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/capita-cloroquina-pediu-que-pagasse-viagem-de-medicos-a-manaus-para-disseminar-kit-covid-diz-olavista.shtml
+2021-05-14 21:54:30,484          root     INFO: Finished script
