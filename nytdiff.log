@@ -1,15 +1,8 @@
-2021-05-14 17:34:49,015          root     INFO: Starting script
-2021-05-14 17:34:49,886          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-14 17:34:50,599          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-14 17:34:51,308          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-14 17:34:51,622          root     INFO: Parsing R7 - Brasil
-2021-05-14 17:34:54,906          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/deputada-apresenta-projeto-para-derrubar-canetada-do-governo-para-elevar-salario-de-bolsonaro.shtml
-2021-05-14 17:34:54,987          root     INFO: Um grupo anônimo lançou a página Bolsoflix (https://www.bolsoflix.com/), que tem como proposta reunir vídeos críticos em que Jair Bolsonaro comenta temas como pandemia, violência, corrupção e economia. Também há seções chamadas "mentiras", <del>miscelânea</del> <ins>"miscelânea"</ins> e "arrependidos". Leia mais (05/14/2021 - 13h21)
-2021-05-14 17:34:56,827          root     INFO: Media ready with ids: 1393258541994156034
-2021-05-14 17:34:56,828          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-14 17:34:56,828          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/grupo-lanca-o-bolsoflix-plataforma-com-videos-criticos-a-bolsonaro.shtml
-2021-05-14 17:34:56,839          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/grupo-lanca-o-bolsoflix-plataforma-com-videos-criticos-a-bolsonaro.shtml
-2021-05-14 17:34:57,007          root     INFO: Replying to: 1393258543529308164
-2021-05-14 17:34:57,287          root     INFO: Id to store: 1393258544330379271
-2021-05-14 17:35:04,234          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/presidente-da-anvisa-critica-a-cpi-da-covid-uso-de-cloroquina-e-falas-negacionistas-de-bolsonaro.shtml
-2021-05-14 17:35:04,235          root     INFO: Finished script
+2021-05-14 18:16:32,301          root     INFO: Starting script
+2021-05-14 18:16:33,317          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-14 18:16:34,132          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-14 18:16:34,920          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-14 18:16:35,152          root     INFO: Parsing R7 - Brasil
+2021-05-14 18:16:35,310          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/05/arrigucci-cruzou-o-liso-do-sussuarao-numa-edicao-de-bolso-de-grande-sertao.shtml
+2021-05-14 18:16:44,070          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/a-cloroquina-de-bolsonaro-e-o-emplasto-de-bras-cubas.shtml
+2021-05-14 18:16:44,071          root     INFO: Finished script
