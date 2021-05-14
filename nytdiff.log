@@ -1,6 +1,15 @@
-2021-05-14 11:07:09,293          root     INFO: Starting script
-2021-05-14 11:07:10,208          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-14 11:07:10,852          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-14 11:07:11,500          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-14 11:07:11,677          root     INFO: Parsing R7 - Brasil
-2021-05-14 11:07:19,163          root     INFO: Finished script
+2021-05-14 11:32:25,383          root     INFO: Starting script
+2021-05-14 11:32:26,215          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-14 11:32:26,897          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-14 11:32:27,577          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-14 11:32:27,749          root     INFO: Parsing R7 - Brasil
+2021-05-14 11:32:28,054          root     INFO: Discurso sobre superpoderes do agro e apetite infinito da China <del>podem</del> <ins>pode</ins> iludir
+2021-05-14 11:32:29,739          root     INFO: Media ready with ids: 1393167328255389697
+2021-05-14 11:32:29,739          root     INFO: Text to tweet: Modificação do Título
+2021-05-14 11:32:29,740          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/05/discurso-sobre-superpoderes-do-agro-e-apetite-infinito-da-china-podem-iludir.shtml
+2021-05-14 11:32:29,749          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/05/discurso-sobre-superpoderes-do-agro-e-apetite-infinito-da-china-podem-iludir.shtml
+2021-05-14 11:32:29,914          root     INFO: Replying to: 1393167329610158082
+2021-05-14 11:32:30,130          root     INFO: Id to store: 1393167330272813062
+2021-05-14 11:32:32,625          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/morre-jorge-picciani-ex-presidente-da-assembleia-legislativa-do-rio.shtml
+2021-05-14 11:32:38,237          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/gestao-doria-diz-que-sindicato-dos-metroviarios-tera-que-deixar-sede-e-categoria-ve-motivacao-politica.shtml
+2021-05-14 11:32:38,238          root     INFO: Finished script
