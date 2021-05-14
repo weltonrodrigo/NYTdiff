@@ -1,26 +1,15 @@
-2021-05-14 18:55:46,164          root     INFO: Starting script
-2021-05-14 18:55:47,135          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-14 18:55:47,937          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-14 18:55:48,774          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-14 18:55:49,031          root     INFO: Parsing R7 - Brasil
-2021-05-14 18:55:49,205          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/venezuela-abuso-e-violencia-no-mundo-cultural.shtml
-2021-05-14 18:55:49,223          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2021/05/rasgando-a-constituicao.shtml
-2021-05-14 18:55:51,917          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/acabou-chance-de-conversa-do-dem-com-doria-para-falar-sobre-2022-diz-acm-neto.shtml
-2021-05-14 18:55:51,994          root     INFO: Vice de <del>Doria, Rodrigo Garcia</del> <ins>Doria</ins> troca DEM <del>pelo PSDB de olho em candidatura ao Governo de SP</del> <ins>por PSDB, ACM Neto reage e é rebatido por Maia, que também deixa o partido</ins>
-2021-05-14 18:55:53,780          root     INFO: Media ready with ids: 1393278913665802247
-2021-05-14 18:55:53,781          root     INFO: Text to tweet: Modificação do Título
-2021-05-14 18:55:53,781          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/vice-de-doria-rodrigo-garcia-troca-dem-pelo-psdb-de-olho-em-candidatura-ao-governo-de-sp.shtml
-2021-05-14 18:55:53,790          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/vice-de-doria-rodrigo-garcia-troca-dem-pelo-psdb-de-olho-em-candidatura-ao-governo-de-sp.shtml
-2021-05-14 18:55:54,049          root     INFO: Replying to: 1393278915423219716
-2021-05-14 18:55:54,342          root     INFO: Id to store: 1393278916421378055
-2021-05-14 18:55:54,452          root     INFO: Técnicos e integrantes do grupo majoritário da CPI da Covid, formado por senadores independentes e oposicionistas, acreditam que já há elementos que levam à incriminação do presidente Jair Bolsonaro <ins>(sem partido)</ins> por crime sanitário, ou seja, contra a saúde pública. Leia mais (05/14/2021 - 12h29)
-2021-05-14 18:55:56,304          root     INFO: Media ready with ids: 1393278924038225933
-2021-05-14 18:55:56,304          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-14 18:55:56,304          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/grupo-majoritario-da-cpi-da-covid-ja-ve-provas-de-crimes-de-bolsonaro-na-gestao-da-pandemia.shtml
-2021-05-14 18:55:56,315          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/grupo-majoritario-da-cpi-da-covid-ja-ve-provas-de-crimes-de-bolsonaro-na-gestao-da-pandemia.shtml
-2021-05-14 18:55:56,540          root     INFO: Replying to: 1393278925883813892
-2021-05-14 18:55:56,821          root     INFO: Id to store: 1393278926844272640
-2021-05-14 18:56:02,378          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/a-quem-interessa-revisar-o-plano-diretor-em-meio-a-pandemia.shtml
-2021-05-14 18:56:02,383          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/decadas-atrasado.shtml
-2021-05-14 18:56:02,388          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/produtividade-do-senado-nos-ultimos-100-dias-e-a-maior-desde-1995-diz-secretaria-da-casa.shtml
-2021-05-14 18:56:02,389          root     INFO: Finished script
+2021-05-14 19:16:38,375          root     INFO: Starting script
+2021-05-14 19:16:39,155          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-14 19:16:39,793          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-14 19:16:40,432          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-14 19:16:40,667          root     INFO: Parsing R7 - Brasil
+2021-05-14 19:16:42,822          root     INFO: A estratégia de convencer seu vice Rodrigo Garcia a migrar do DEM para o PSDB tirou o partido de ACM Neto da mesa de negociações com João Doria (SP) para 2022, o que tende a isolar o governador <del>de</del> <ins>em</ins> suas <del>negociações</del> <ins>tratativas</ins> políticas para a campanha presidencial. Leia mais (05/14/2021 - 15h44)
+2021-05-14 19:16:44,535          root     INFO: Media ready with ids: 1393284159603462149
+2021-05-14 19:16:44,536          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-14 19:16:44,536          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/acabou-chance-de-conversa-do-dem-com-doria-para-falar-sobre-2022-diz-acm-neto.shtml
+2021-05-14 19:16:44,544          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/acabou-chance-de-conversa-do-dem-com-doria-para-falar-sobre-2022-diz-acm-neto.shtml
+2021-05-14 19:16:44,764          root     INFO: Replying to: 1393284161339891731
+2021-05-14 19:16:44,998          root     INFO: Id to store: 1393284162094878728
+2021-05-14 19:16:46,975          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/bill-gates-vai-direto-ao-ponto-em-novo-livro-sobre-crise-do-clima.shtml
+2021-05-14 19:16:49,275          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/03/icmbio-estabelece-censura-previa-para-a-producao-academica-de-servidores.shtml
+2021-05-14 19:16:49,276          root     INFO: Finished script
