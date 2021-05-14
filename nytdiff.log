@@ -1,6 +1,22 @@
-2021-05-14 09:58:13,500          root     INFO: Starting script
-2021-05-14 09:58:14,346          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-14 09:58:15,000          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-14 09:58:15,681          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-14 09:58:15,993          root     INFO: Parsing R7 - Brasil
-2021-05-14 09:58:23,996          root     INFO: Finished script
+2021-05-14 10:30:35,008          root     INFO: Starting script
+2021-05-14 10:30:35,842          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-14 10:30:36,490          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-14 10:30:37,141          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-14 10:30:37,300          root     INFO: Parsing R7 - Brasil
+2021-05-14 10:30:37,446          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2021/05/medicina-psicodelica-para-curar-e-expandir-nossos-conhecimentos.shtml
+2021-05-14 10:30:39,741          root     INFO: O depoimento <del>do gerente-geral da Pfizer na América Latina, Carlos Murillo,</del> à CPI da Covid do Senado nesta quinta-feira (13) <del>reforçou,</del> <ins>do gerente-geral da Pfizer na América Latina, Carlos Murillo, reforçou</ins> junto com outros prestados nesta <del>semana,</del> <ins>semana</ins> os indícios de que o presidente Jair Bolsonaro negligenciou a pandemia. Leia mais (05/13/2021 - 23h15)
+2021-05-14 10:30:41,446          root     INFO: Media ready with ids: 1393151774379360260
+2021-05-14 10:30:41,447          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-14 10:30:41,447          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/relatos-de-pfizer-anvisa-e-wajngarten-a-cpi-reforcam-indicios-de-negligencia-de-bolsonaro-na-pandemia.shtml
+2021-05-14 10:30:41,454          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/relatos-de-pfizer-anvisa-e-wajngarten-a-cpi-reforcam-indicios-de-negligencia-de-bolsonaro-na-pandemia.shtml
+2021-05-14 10:30:41,666          root     INFO: Replying to: 1393151776094932993
+2021-05-14 10:30:41,896          root     INFO: Id to store: 1393151776858181632
+2021-05-14 10:30:41,934          root     INFO: Para divulgar vacinação, governo <ins>Bolsonaro</ins> previu merchandising de <del>apresentadores</del> bolsonaristas e <del>inserções</del> <ins>gastos</ins> em TVs religiosas
+2021-05-14 10:30:43,554          root     INFO: Media ready with ids: 1393151783426568196
+2021-05-14 10:30:43,554          root     INFO: Text to tweet: Modificação do Título
+2021-05-14 10:30:43,554          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/para-divulgar-vacinacao-governo-previu-merchandising-de-apresentadores-bolsonaristas-e-insercoes-em-tvs-religiosas.shtml
+2021-05-14 10:30:43,562          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/para-divulgar-vacinacao-governo-previu-merchandising-de-apresentadores-bolsonaristas-e-insercoes-em-tvs-religiosas.shtml
+2021-05-14 10:30:43,741          root     INFO: Replying to: 1393151784823238657
+2021-05-14 10:30:43,936          root     INFO: Id to store: 1393151785452384257
+2021-05-14 10:30:48,088          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/maria-homem/2021/05/o-valor-da-amizade.shtml
+2021-05-14 10:30:48,088          root     INFO: Finished script
