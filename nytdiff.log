@@ -1,19 +1,15 @@
-2021-05-14 20:28:47,158          root     INFO: Starting script
-2021-05-14 20:28:47,941          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-14 20:28:48,581          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-14 20:28:49,223          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-14 20:28:49,502          root     INFO: Parsing R7 - Brasil
-2021-05-14 20:28:49,636          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2021/05/bolsonaro-e-o-veio-da-havan-foi-acasalamento-de-jumento-com-papagaio.shtml
-2021-05-14 20:28:52,106          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/rodrigo-maia-diz-que-acm-neto-nao-tem-carater-e-o-chama-de-malandro-e-oportunista.shtml
-2021-05-14 20:28:52,117          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/video-de-2018-com-acusacoes-falsas-ao-datafolha-volta-a-circular-nas-redes.shtml
-2021-05-14 20:28:52,402          root     INFO: Morreu na madrugada desta sexta-feira (14) aos 66 anos <del>o</del> <ins>Jorge Picciani,</ins> ex-presidente da <del>Alerj (Assembleia</del> <ins>Assembleia</ins> Legislativa do Rio de <del>Janeiro) Jorge Picciani.</del> <ins>Janeiro.</ins> Leia mais (05/14/2021 - 08h23)
-2021-05-14 20:28:54,032          root     INFO: Media ready with ids: 1393302318947479556
-2021-05-14 20:28:54,033          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-14 20:28:54,033          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/morre-jorge-picciani-ex-presidente-da-assembleia-legislativa-do-rio.shtml
-2021-05-14 20:28:54,042          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/morre-jorge-picciani-ex-presidente-da-assembleia-legislativa-do-rio.shtml
-2021-05-14 20:28:54,246          root     INFO: Replying to: 1393302320478400513
-2021-05-14 20:28:54,481          root     INFO: Id to store: 1393302321250062342
-2021-05-14 20:28:59,003          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pf-pede-ao-stf-abertura-de-inquerito-para-investigar-suspeita-de-pagamentos-a-toffoli-por-venda-de-decisoes.shtml
-2021-05-14 20:28:59,007          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/um-governo-inimigo-do-meio-ambiente.shtml
-2021-05-14 20:28:59,011          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/randolfe-pede-que-tcu-investigue-gastos-de-churrasco-de-bolsonaro-no-dia-das-maes.shtml
-2021-05-14 20:28:59,012          root     INFO: Finished script
+2021-05-14 20:51:31,830          root     INFO: Starting script
+2021-05-14 20:51:32,791          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-14 20:51:33,572          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-14 20:51:34,356          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-14 20:51:34,598          root     INFO: Parsing R7 - Brasil
+2021-05-14 20:51:37,305          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/apos-acusacoes-de-bolsonaro-tse-lanca-campanha-em-defesa-das-urnas-eletronicas.shtml
+2021-05-14 20:51:37,357          root     INFO: Rodrigo Maia diz que <ins>caráter de</ins> ACM Neto <del>não tem caráter</del> <ins>é menor que sua altura</ins> e o chama de malandro <del>e oportunista</del>
+2021-05-14 20:51:39,336          root     INFO: Media ready with ids: 1393308044646359042
+2021-05-14 20:51:39,336          root     INFO: Text to tweet: Modificação do Título
+2021-05-14 20:51:39,336          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/rodrigo-maia-diz-que-acm-neto-nao-tem-carater-e-o-chama-de-malandro-e-oportunista.shtml
+2021-05-14 20:51:39,345          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/rodrigo-maia-diz-que-acm-neto-nao-tem-carater-e-o-chama-de-malandro-e-oportunista.shtml
+2021-05-14 20:51:39,630          root     INFO: Replying to: 1393308047301386240
+2021-05-14 20:51:40,005          root     INFO: Id to store: 1393308048236687364
+2021-05-14 20:51:45,451          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/pf-apura-se-alvos-de-inqueritos-que-miram-bolsonaristas-hackearam-site-do-supremo.shtml
+2021-05-14 20:51:45,452          root     INFO: Finished script
