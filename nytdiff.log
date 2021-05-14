@@ -1,29 +1,20 @@
-2021-05-14 03:15:11,199          root     INFO: Starting script
-2021-05-14 03:15:12,034          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-14 03:15:12,678          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-14 03:15:13,326          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-14 03:15:13,576          root     INFO: Parsing R7 - Brasil
-2021-05-14 03:15:15,887          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/movimentos-de-oposicao-convocam-manifestacoes-contra-bolsonaro-para-26-de-maio.shtml
-2021-05-14 03:15:16,221          root     INFO: Escolhida por Eduardo Pazuello como a responsável do Ministério da Saúde a comandar missão de reconhecimento em Manaus em janeiro, a secretária Mayra Pinheiro precisou de menos de <del>24h</del> <ins>24 horas</ins> para emitir diagnóstico sobre o desmoronamento do sistema de saúde local: falta do tratamento precoce -composto por medicamentos sem eficácia contra a Covid, como cloroquina, hidroxicloroquina e ivermectina, e defendido por ela. Leia mais (05/13/2021 - 23h15)
-2021-05-14 03:15:18,009          root     INFO: Media ready with ids: 1393042204759928832
-2021-05-14 03:15:18,010          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-14 03:15:18,010          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/chamada-a-cpi-capita-cloroquina-concluiu-em-24h-que-caos-em-manaus-era-falta-de-tratamento-precoce.shtml
-2021-05-14 03:15:18,019          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/chamada-a-cpi-capita-cloroquina-concluiu-em-24h-que-caos-em-manaus-era-falta-de-tratamento-precoce.shtml
-2021-05-14 03:15:18,229          root     INFO: Replying to: 1393042206320177155
-2021-05-14 03:15:18,479          root     INFO: Id to store: 1393042207242952705
-2021-05-14 03:15:22,398          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-cobra-dados-sobre-uso-de-recursos-federais-por-governadores-13052021
-2021-05-14 03:15:22,412          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-arquiva-pedido-para-investigar-cheques-de-queiroz-a-michelle-13052021
-2021-05-14 03:15:22,423          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-secretario-do-rj-nega-pagamento-ao-ministro-dias-toffoli-13052021
-2021-05-14 03:15:22,434          root     INFO: New article tracked: http://noticias.r7.com/brasil/agu-entra-com-acao-no-stf-para-blindar-pazuello-na-cpi-da-covid-13052021
-2021-05-14 03:15:22,445          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-especialistas-itamaraty-falhou-em-caso-de-deportacao-de-pastores-13052021
-2021-05-14 03:15:22,455          root     INFO: New article tracked: http://noticias.r7.com/brasil/cria-prova-contra-ele-diz-vice-da-cpi-sobre-pazuello-acionar-stf-13052021
-2021-05-14 03:15:22,466          root     INFO: New article tracked: http://noticias.r7.com/brasil/ao-conselho-de-etica-flordelis-volta-a-chorar-e-alegar-inocencia-13052021
-2021-05-14 03:15:22,475          root     INFO: New article tracked: http://noticias.r7.com/brasil/deportacao-de-missionarios-embaixador-de-angola-tem-que-dar-explicacoes-13052021
-2021-05-14 03:15:22,490          root     INFO: New article tracked: http://noticias.r7.com/brasil/advogado-independente-entra-com-acao-para-favorecer-pazuello-13052021
-2021-05-14 03:15:22,500          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/deputado-cobra-governo-sobre-missionarios-deportados-de-angola-13052021
-2021-05-14 03:15:22,511          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-cobra-governo-sobre-missionarios-deportados-de-angola-13052021
-2021-05-14 03:15:22,521          root     INFO: New article tracked: http://noticias.r7.com/brasil/voto-impresso-apos-criar-comissao-lira-faz-novo-aceno-a-bolsonaro-13052021
-2021-05-14 03:15:22,532          root     INFO: New article tracked: http://noticias.r7.com/brasil/carlos-bolsonaro-participou-de-reuniao-sobre-vacina-com-a-pfizer-13052021
-2021-05-14 03:15:22,542          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-diz-que-resposta-a-ataque-de-bolsonaro-e-o-numero-de-mortos-13052021
-2021-05-14 03:15:22,693          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/consultoria-do-senado-diz-que-ciro-nogueira-tenta-verdadeira-devassa-sobre-estados-na-cpi-da-covid.shtml
-2021-05-14 03:15:22,694          root     INFO: Finished script
+2021-05-14 03:49:33,702          root     INFO: Starting script
+2021-05-14 03:49:34,673          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-14 03:49:35,447          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-14 03:49:36,217          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-14 03:49:36,449          root     INFO: Parsing R7 - Brasil
+2021-05-14 03:49:44,413          root     INFO: Removed http://noticias.r7.com/brasil/cpi-cobra-dados-sobre-uso-de-recursos-federais-por-governadores-13052021
+2021-05-14 03:49:44,421          root     INFO: Removed http://noticias.r7.com/brasil/advogado-independente-entra-com-acao-para-favorecer-pazuello-13052021
+2021-05-14 03:49:44,426          root     INFO: Removed http://noticias.r7.com/brasil/ex-secretario-do-rj-nega-pagamento-ao-ministro-dias-toffoli-13052021
+2021-05-14 03:49:44,431          root     INFO: Removed http://noticias.r7.com/brasil/deputado-cobra-governo-sobre-missionarios-deportados-de-angola-13052021
+2021-05-14 03:49:44,436          root     INFO: Removed http://noticias.r7.com/brasil/voto-impresso-apos-criar-comissao-lira-faz-novo-aceno-a-bolsonaro-13052021
+2021-05-14 03:49:44,441          root     INFO: Removed http://noticias.r7.com/brasil/carlos-bolsonaro-participou-de-reuniao-sobre-vacina-com-a-pfizer-13052021
+2021-05-14 03:49:44,446          root     INFO: Removed http://noticias.r7.com/brasil/para-especialistas-itamaraty-falhou-em-caso-de-deportacao-de-pastores-13052021
+2021-05-14 03:49:44,451          root     INFO: Removed http://noticias.r7.com/brasil/agu-entra-com-acao-no-stf-para-blindar-pazuello-na-cpi-da-covid-13052021
+2021-05-14 03:49:44,456          root     INFO: Removed http://noticias.r7.com/brasil/deportacao-de-missionarios-embaixador-de-angola-tem-que-dar-explicacoes-13052021
+2021-05-14 03:49:44,461          root     INFO: Removed http://noticias.r7.com/brasil/videos/deputado-cobra-governo-sobre-missionarios-deportados-de-angola-13052021
+2021-05-14 03:49:44,474          root     INFO: Removed http://noticias.r7.com/brasil/cria-prova-contra-ele-diz-vice-da-cpi-sobre-pazuello-acionar-stf-13052021
+2021-05-14 03:49:44,479          root     INFO: Removed http://noticias.r7.com/brasil/renan-diz-que-resposta-a-ataque-de-bolsonaro-e-o-numero-de-mortos-13052021
+2021-05-14 03:49:44,484          root     INFO: Removed http://noticias.r7.com/brasil/ao-conselho-de-etica-flordelis-volta-a-chorar-e-alegar-inocencia-13052021
+2021-05-14 03:49:44,490          root     INFO: Removed http://noticias.r7.com/brasil/stf-arquiva-pedido-para-investigar-cheques-de-queiroz-a-michelle-13052021
+2021-05-14 03:49:44,491          root     INFO: Finished script
