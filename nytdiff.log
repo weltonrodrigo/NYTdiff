@@ -1,6 +1,21 @@
-2021-05-15 18:52:11,007          root     INFO: Starting script
-2021-05-15 18:52:11,854          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-15 18:52:12,539          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-15 18:52:13,225          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-15 18:52:13,461          root     INFO: Parsing R7 - Brasil
-2021-05-15 18:52:21,667          root     INFO: Finished script
+2021-05-15 19:12:19,115          root     INFO: Starting script
+2021-05-15 19:12:20,127          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-15 19:12:20,909          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-15 19:12:21,692          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-15 19:12:21,888          root     INFO: Parsing R7 - Brasil
+2021-05-15 19:12:22,026          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/05/aviso.shtml
+2021-05-15 19:12:24,581          root     INFO: <del>Em encontro</del> <ins>Após almoço</ins> com <del>ruralistas, Bolsonaro, sem máscara, volta</del> <ins>aglomeração, Bolsonaro chega</ins> a <del>causar aglomeração</del> <ins>cavalo em ato de ruralistas</ins>
+2021-05-15 19:12:26,312          root     INFO: Media ready with ids: 1393645464575172609
+2021-05-15 19:12:26,313          root     INFO: Text to tweet: Modificação do Título
+2021-05-15 19:12:26,313          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-encontro-com-ruralistas-bolsonaro-sem-mascara-volta-a-causar-aglomeracao.shtml
+2021-05-15 19:12:26,323          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-encontro-com-ruralistas-bolsonaro-sem-mascara-volta-a-causar-aglomeracao.shtml
+2021-05-15 19:12:26,511          root     INFO: Replying to: 1393645465992826880
+2021-05-15 19:12:26,747          root     INFO: Id to store: 1393645466743713792
+2021-05-15 19:12:26,755          root     INFO: <del>Sem uso de</del> <ins>Andando a cavalo e sem usar</ins> máscara, o presidente Jair Bolsonaro <del>novamente provocou aglomeração, desta vez</del> <ins>compareceu a uma manifestação de ruralistas</ins> neste sábado (15) <del>em um almoço com ruralistas em Brasília.</del> <ins>na Esplanada dos Ministérios.</ins> Leia mais (05/15/2021 - 13h38)
+2021-05-15 19:12:28,436          root     INFO: Media ready with ids: 1393645473395789828
+2021-05-15 19:12:28,436          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-15 19:12:28,436          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-encontro-com-ruralistas-bolsonaro-sem-mascara-volta-a-causar-aglomeracao.shtml
+2021-05-15 19:12:28,447          root     INFO: Replying to: 1393645466743713792
+2021-05-15 19:12:28,681          root     INFO: Id to store: 1393645474847014912
+2021-05-15 19:12:33,899          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/advocacia-enfraquecida-justica-em-risco.shtml
+2021-05-15 19:12:33,900          root     INFO: Finished script
