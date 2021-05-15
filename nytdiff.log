@@ -1,13 +1,18 @@
-2021-05-15 13:39:40,592          root     INFO: Starting script
-2021-05-15 13:39:41,602          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-15 13:39:42,410          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-15 13:39:43,200          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-15 13:39:43,580          root     INFO: Parsing R7 - Brasil
-2021-05-15 13:39:46,271          root     INFO: Pazuello pretende responder <ins>a</ins> todas as perguntas na CPI, diz advogado após concessão de habeas corpus
-2021-05-15 13:39:48,130          root     INFO: Media ready with ids: 1393561753745772546
-2021-05-15 13:39:48,130          root     INFO: Text to tweet: Modificação do Título
-2021-05-15 13:39:48,130          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pazuello-pretende-responder-todas-as-perguntas-na-cpi-diz-advogado-apos-concessao-de-habeas-corpus.shtml
-2021-05-15 13:39:48,141          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pazuello-pretende-responder-todas-as-perguntas-na-cpi-diz-advogado-apos-concessao-de-habeas-corpus.shtml
-2021-05-15 13:39:48,419          root     INFO: Replying to: 1393561755670958086
-2021-05-15 13:39:48,686          root     INFO: Id to store: 1393561756610572288
-2021-05-15 13:39:54,132          root     INFO: Finished script
+2021-05-15 13:52:57,622          root     INFO: Starting script
+2021-05-15 13:52:58,410          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-15 13:52:59,046          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-15 13:52:59,686          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-15 13:52:59,933          root     INFO: Parsing R7 - Brasil
+2021-05-15 13:53:02,434          root     INFO: Pazuello pretende responder <ins>a</ins> todas as perguntas na CPI, diz advogado após concessão de habeas corpus
+2021-05-15 13:53:04,028          root     INFO: Media ready with ids: 1393565092231458818
+2021-05-15 13:53:04,029          root     INFO: Text to tweet: Modificação do Título
+2021-05-15 13:53:04,029          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pazuello-pretende-responder-todas-as-perguntas-na-cpi-diz-advogado-apos-concessao-de-habeas-corpus.shtml
+2021-05-15 13:53:04,037          root     INFO: Replying to: 1393561756610572288
+2021-05-15 13:53:04,293          root     INFO: Id to store: 1393565093661659143
+2021-05-15 13:53:04,300          root     INFO: O advogado Zozer <del>Hardmann,</del> <ins>Hardman,</ins> que está auxiliando Eduardo Pazuello em sua preparação para a CPI da Covid, diz que o general tem intenção de responder <ins>a</ins> todas as questões dos senadores. Leia mais (05/15/2021 - 09h00)
+2021-05-15 13:53:05,948          root     INFO: Media ready with ids: 1393565100196474882
+2021-05-15 13:53:05,949          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-15 13:53:05,949          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pazuello-pretende-responder-todas-as-perguntas-na-cpi-diz-advogado-apos-concessao-de-habeas-corpus.shtml
+2021-05-15 13:53:05,957          root     INFO: Replying to: 1393565093661659143
+2021-05-15 13:53:06,205          root     INFO: Id to store: 1393565101517643777
+2021-05-15 13:53:10,741          root     INFO: Finished script
