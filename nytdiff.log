@@ -1,35 +1,13 @@
-2021-05-15 13:11:32,090          root     INFO: Starting script
-2021-05-15 13:11:32,903          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-15 13:11:33,554          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-15 13:11:34,208          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-15 13:11:34,360          root     INFO: Parsing R7 - Brasil
-2021-05-15 13:11:34,540          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/pandemia-periferia-e-poder.shtml
-2021-05-15 13:11:37,007          root     INFO: Alckmin avisa a aliados que deixará o PSDB <ins>e DEM diz que o recebe de portas abertas</ins>
-2021-05-15 13:11:38,758          root     INFO: Media ready with ids: 1393554668186390529
-2021-05-15 13:11:38,758          root     INFO: Text to tweet: Modificação do Título
-2021-05-15 13:11:38,759          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/alckmin-avisa-a-aliados-que-deixara-o-psdb.shtml
-2021-05-15 13:11:38,769          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/alckmin-avisa-a-aliados-que-deixara-o-psdb.shtml
-2021-05-15 13:11:39,009          root     INFO: Replying to: 1393554669633380358
-2021-05-15 13:11:39,250          root     INFO: Id to store: 1393554670476484609
-2021-05-15 13:11:44,119          root     INFO: New article tracked: http://noticias.r7.com/brasil/proporcao-de-mortes-do-amazonas-e-quase-tres-vezes-a-do-maranhao-15052021
-2021-05-15 13:11:44,132          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/cpi-producao-de-vacina-ameacada-e-conflito-em-gaza-sao-destaques-15052021
-2021-05-15 13:11:44,145          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-restringe-a-entrada-de-estrangeiros-vindos-da-india-14052021
-2021-05-15 13:11:44,156          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/chega-ao-brasil-mais-um-grupo-de-missionarios-expulsos-de-angola-14052021
-2021-05-15 13:11:44,169          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-do-stf-arquiva-inquerito-e-proibe-pf-de-investigar-toffoli-14052021
-2021-05-15 13:11:44,181          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-entrega-mais-vacinas-do-que-o-previsto-pela-terceira-vez-14052021
-2021-05-15 13:11:44,193          root     INFO: New article tracked: http://noticias.r7.com/brasil/missionarios-expulsos-de-angola-tem-apoio-de-fieis-na-chegada-a-sp-14052021
-2021-05-15 13:11:44,207          root     INFO: New article tracked: http://noticias.r7.com/brasil/acm-neto-diz-que-doria-implodiu-a-chance-de-ter-o-dem-em-2022-14052021
-2021-05-15 13:11:44,220          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-recebera-30-freezers-para-armazenar-vacinas-da-pfizer-14052021
-2021-05-15 13:11:44,235          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-se-esconde-diz-vice-presidente-da-cpi-da-covid-19-14052021
-2021-05-15 13:11:44,246          root     INFO: New article tracked: http://noticias.r7.com/brasil/dolar-fecha-semana-em-alta-apos-registrar-seis-quedas-14052021
-2021-05-15 13:11:44,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/nao-e-hora-de-ressentimentos-diz-doria-apos-criticas-de-acm-neto-14052021
-2021-05-15 13:11:44,270          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-problema-de-insumo-para-butantan-e-contratual-14052021
-2021-05-15 13:11:44,282          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-urna-eletronica-e-auditavel-e-discurso-de-fraude-e-politico-14052021
-2021-05-15 13:11:44,298          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibge-ja-estamos-trabalhando-no-plano-para-realizar-censo-em-2022-14052021-1
-2021-05-15 13:11:44,312          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-perder-vice-acm-neto-chama-doria-de-inabil-politicamente-14052021
-2021-05-15 13:11:44,326          root     INFO: New article tracked: http://noticias.r7.com/brasil/numero-de-obitos-de-gravidas-em-2021-ja-ultrapassa-2020-inteiro-14052021
-2021-05-15 13:11:44,342          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-forma-maioria-para-que-governo-realize-o-censo-em-2022-14052021
-2021-05-15 13:11:44,354          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-fecha-contrato-por-mais-100-milhoes-de-doses-da-pfizer-14052021
-2021-05-15 13:11:44,366          root     INFO: New article tracked: http://noticias.r7.com/brasil/so-bandido-usa-isso-disse-onyx-sobre-ficar-calado-em-cpi-14052021
-2021-05-15 13:11:44,381          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/05/bolsonaro-e-o-trator-da-corrupcao.shtml
-2021-05-15 13:11:44,382          root     INFO: Finished script
+2021-05-15 13:39:40,592          root     INFO: Starting script
+2021-05-15 13:39:41,602          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-15 13:39:42,410          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-15 13:39:43,200          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-15 13:39:43,580          root     INFO: Parsing R7 - Brasil
+2021-05-15 13:39:46,271          root     INFO: Pazuello pretende responder <ins>a</ins> todas as perguntas na CPI, diz advogado após concessão de habeas corpus
+2021-05-15 13:39:48,130          root     INFO: Media ready with ids: 1393561753745772546
+2021-05-15 13:39:48,130          root     INFO: Text to tweet: Modificação do Título
+2021-05-15 13:39:48,130          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pazuello-pretende-responder-todas-as-perguntas-na-cpi-diz-advogado-apos-concessao-de-habeas-corpus.shtml
+2021-05-15 13:39:48,141          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pazuello-pretende-responder-todas-as-perguntas-na-cpi-diz-advogado-apos-concessao-de-habeas-corpus.shtml
+2021-05-15 13:39:48,419          root     INFO: Replying to: 1393561755670958086
+2021-05-15 13:39:48,686          root     INFO: Id to store: 1393561756610572288
+2021-05-15 13:39:54,132          root     INFO: Finished script
