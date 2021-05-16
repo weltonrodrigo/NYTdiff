@@ -1,6 +1,12 @@
-2021-05-16 19:57:51,135          root     INFO: Starting script
-2021-05-16 19:57:52,012          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-16 19:57:52,710          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-16 19:57:53,409          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-16 19:57:53,629          root     INFO: Parsing R7 - Brasil
-2021-05-16 19:58:02,497          root     INFO: Finished script
+2021-05-16 20:29:11,877          root     INFO: Starting script
+2021-05-16 20:29:12,864          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-16 20:29:13,649          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-16 20:29:14,438          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-16 20:29:14,673          root     INFO: Parsing R7 - Brasil
+2021-05-16 20:29:14,822          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2021/05/o-legado-de-bruno-covas-e-os-desafios-de-ricardo-nunes-o-novo-prefeito-de-sao-paulo.shtml
+2021-05-16 20:29:14,837          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bia-braune/2021/05/num-toy-story-literario-meus-livros-tem-dado-festinhas-a-noite.shtml
+2021-05-16 20:29:17,067          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/mudanca-de-secretario-da-agricultura-abre-espaco-ao-mdb-na-gestao-doria.shtml
+2021-05-16 20:29:21,973          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/05/a-epidemia-vai-morrer-de-morte-morrida-nao-matada-por-acao-de-governo.shtml
+2021-05-16 20:29:21,981          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-tavares/2021/05/faltam-especialistas-em-esg-no-brasil.shtml
+2021-05-16 20:29:21,986          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/datafolha-aprovacao-a-bolsonaro-recua-seis-pontos-e-chega-a-24-a-pior-marca-do-mandato-rejeicao-e-de-45.shtml
+2021-05-16 20:29:21,988          root     INFO: Finished script
