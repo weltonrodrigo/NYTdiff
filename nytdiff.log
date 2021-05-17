@@ -1,8 +1,13 @@
-2021-05-17 19:14:45,164          root     INFO: Starting script
-2021-05-17 19:14:46,150          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-17 19:14:46,963          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-17 19:14:47,801          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-17 19:14:48,022          root     INFO: Parsing R7 - Brasil
-2021-05-17 19:14:48,188          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/dar-adeus-a-woody-allen-e-um-triste-brilho-perdido-que-nao-retornara.shtml
-2021-05-17 19:14:57,133          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cida-bento/2021/05/que-o-13-de-maio-permaneca-como-dia-de-protesto-e-de-uma-abolicao-inconclusa.shtml
-2021-05-17 19:14:57,133          root     INFO: Finished script
+2021-05-17 19:34:58,643          root     INFO: Starting script
+2021-05-17 19:34:59,485          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-17 19:35:00,161          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-17 19:35:00,845          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-17 19:35:00,982          root     INFO: Parsing R7 - Brasil
+2021-05-17 19:35:01,179          root     INFO: <del>Dar adeus a</del> <ins>Não há nada mais triste do que testemunhar o eclipse de</ins> Woody Allen <del>é um triste brilho perdido que não retornará</del>
+2021-05-17 19:35:03,150          root     INFO: Media ready with ids: 1394375930148233230
+2021-05-17 19:35:03,151          root     INFO: Text to tweet: Modificação do Título
+2021-05-17 19:35:03,151          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/dar-adeus-a-woody-allen-e-um-triste-brilho-perdido-que-nao-retornara.shtml
+2021-05-17 19:35:03,161          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/dar-adeus-a-woody-allen-e-um-triste-brilho-perdido-que-nao-retornara.shtml
+2021-05-17 19:35:03,351          root     INFO: Replying to: 1394375932765474833
+2021-05-17 19:35:03,653          root     INFO: Id to store: 1394375933637824516
+2021-05-17 19:35:11,985          root     INFO: Finished script
