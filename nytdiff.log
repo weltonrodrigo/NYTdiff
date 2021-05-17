@@ -1,6 +1,20 @@
-2021-05-17 09:59:00,038          root     INFO: Starting script
-2021-05-17 09:59:01,024          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-17 09:59:01,806          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-17 09:59:02,617          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-17 09:59:02,890          root     INFO: Parsing R7 - Brasil
-2021-05-17 09:59:11,383          root     INFO: Finished script
+2021-05-17 10:30:38,786          root     INFO: Starting script
+2021-05-17 10:30:39,569          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-17 10:30:40,214          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-17 10:30:40,856          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-17 10:30:41,076          root     INFO: Parsing R7 - Brasil
+2021-05-17 10:30:43,475          root     INFO: Um pedido da Polícia Federal para investigar a suspeita de venda de decisão pelo ministro Dias Toffoli se transformou em motivo de tensão no Supremo Tribunal Federal, na Polícia Federal e na Procuradoria-Geral da República. <del>A solicitação de abertura tem como base o acordo de colaboração de Sérgio Cabral e foi revelada pelo Painel na terça-feira (11).</del> Leia mais (05/16/2021 - 23h16)
+2021-05-17 10:30:45,315          root     INFO: Media ready with ids: 1394238953805553669
+2021-05-17 10:30:45,316          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-17 10:30:45,316          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/entenda-a-delacao-de-sergio-cabral-e-o-pedido-de-investigacao-sobre-toffoli.shtml
+2021-05-17 10:30:45,326          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/entenda-a-delacao-de-sergio-cabral-e-o-pedido-de-investigacao-sobre-toffoli.shtml
+2021-05-17 10:30:45,536          root     INFO: Replying to: 1394238955856572422
+2021-05-17 10:30:45,765          root     INFO: Id to store: 1394238956703727617
+2021-05-17 10:30:45,941          root     INFO: O ministro <ins>Edson Fachin,</ins> do STF (Supremo Tribunal <del>Federal) Edson Fachin</del> <ins>Federal),</ins> autorizou a Polícia Federal a usar dados de duas operações relacionadas à Lava Jato do Rio em uma apuração preliminar que resultou no pedido de inquérito contra Dias Toffoli. Leia mais (05/16/2021 - 23h15)
+2021-05-17 10:30:47,594          root     INFO: Media ready with ids: 1394238963951542275
+2021-05-17 10:30:47,595          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-17 10:30:47,595          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fachin-autorizou-pf-a-buscar-provas-contra-toffoli.shtml
+2021-05-17 10:30:47,603          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fachin-autorizou-pf-a-buscar-provas-contra-toffoli.shtml
+2021-05-17 10:30:47,757          root     INFO: Replying to: 1394238965281181700
+2021-05-17 10:30:47,991          root     INFO: Id to store: 1394238966019284998
+2021-05-17 10:30:52,706          root     INFO: Finished script
