@@ -1,6 +1,15 @@
-2021-05-17 16:01:56,999          root     INFO: Starting script
-2021-05-17 16:01:57,916          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-17 16:01:58,582          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-17 16:01:59,242          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-17 16:01:59,426          root     INFO: Parsing R7 - Brasil
-2021-05-17 16:02:07,710          root     INFO: Finished script
+2021-05-17 16:53:01,525          root     INFO: Starting script
+2021-05-17 16:53:02,515          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-17 16:53:03,298          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-17 16:53:04,065          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-17 16:53:04,371          root     INFO: Parsing R7 - Brasil
+2021-05-17 16:53:05,026          root     INFO: Olhem que lindo <del>esse</del> <ins>este</ins> trecho de uma carta do Lênin escrita em agosto de 1918 em meio à guerra civil, após o golpe de outubro de 1917 -a fonte é a biografia do Lênin escrita por um general soviético e historiador, Dmitri Volkogonov: Leia mais (05/16/2021 - 15h31)
+2021-05-17 16:53:06,891          root     INFO: Media ready with ids: 1394335178210873345
+2021-05-17 16:53:06,892          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-17 16:53:06,892          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2021/05/esquerda-hoje-e-um-fetiche-cultural-algo-que-cabe-num-comercial-de-banco.shtml
+2021-05-17 16:53:06,902          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2021/05/esquerda-hoje-e-um-fetiche-cultural-algo-que-cabe-num-comercial-de-banco.shtml
+2021-05-17 16:53:07,156          root     INFO: Replying to: 1394335179993452549
+2021-05-17 16:53:07,440          root     INFO: Id to store: 1394335180945514496
+2021-05-17 16:53:09,271          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/alinhado-ao-planalto-e-longe-do-supremo-aras-trabalha-por-reconducao-na-pgr.shtml
+2021-05-17 16:53:14,571          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/vulnerabilidade-se-agrava-derruba-bolsonaro-e-resgata-lula-aponta-datafolha.shtml
+2021-05-17 16:53:14,571          root     INFO: Finished script
