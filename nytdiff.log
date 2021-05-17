@@ -1,15 +1,15 @@
-2021-05-17 07:52:33,833          root     INFO: Starting script
-2021-05-17 07:52:34,663          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-17 07:52:35,340          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-17 07:52:36,012          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-17 07:52:36,152          root     INFO: Parsing R7 - Brasil
-2021-05-17 07:52:42,805          root     INFO: New article tracked: http://noticias.r7.com/brasil/industria-migra-do-sudeste-para-demais-regioes-em-10-anos-diz-cni-17052021
-2021-05-17 07:52:42,820          root     INFO: New article tracked: http://noticias.r7.com/brasil/embaixada-nos-eua-avisou-governo-sobre-carta-da-pfizer-em-setembro-17052021
-2021-05-17 07:52:42,832          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-recall-denatran-orienta-dono-de-veiculo-a-pedir-recibo-17052021
-2021-05-17 07:52:42,842          root     INFO: New article tracked: http://noticias.r7.com/brasil/pais-completa-4-meses-de-vacinacao-com-paralisacao-na-producao-17052021
-2021-05-17 07:52:42,852          root     INFO: New article tracked: http://noticias.r7.com/brasil/bancada-evangelica-e-itamaraty-discutirao-a-universal-em-angola-16052021
-2021-05-17 07:52:42,864          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-lamenta-morte-de-bruno-covas-solidariedade-aos-familiares-16052021
-2021-05-17 07:52:42,874          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-chama-embaixador-de-angola-para-explicar-deportacoes-16052021
-2021-05-17 07:52:42,885          root     INFO: New article tracked: http://noticias.r7.com/brasil/onu-hostilidades-em-israel-e-gaza-sao-apavorantes-e-devem-cessar-16052021
-2021-05-17 07:52:42,898          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-diz-que-ministerio-estuda-campanha-de-testagem-da-covid-19-16052021
-2021-05-17 07:52:43,152          root     INFO: Finished script
+2021-05-17 07:57:52,494          root     INFO: Starting script
+2021-05-17 07:57:53,494          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-17 07:57:54,287          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-17 07:57:55,060          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-17 07:57:55,270          root     INFO: Parsing R7 - Brasil
+2021-05-17 07:58:02,738          root     INFO: Removed http://noticias.r7.com/brasil/embaixada-nos-eua-avisou-governo-sobre-carta-da-pfizer-em-setembro-17052021
+2021-05-17 07:58:02,743          root     INFO: Removed http://noticias.r7.com/brasil/apos-recall-denatran-orienta-dono-de-veiculo-a-pedir-recibo-17052021
+2021-05-17 07:58:02,749          root     INFO: Removed http://noticias.r7.com/brasil/bancada-evangelica-e-itamaraty-discutirao-a-universal-em-angola-16052021
+2021-05-17 07:58:02,757          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-diz-que-ministerio-estuda-campanha-de-testagem-da-covid-19-16052021
+2021-05-17 07:58:02,762          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-lamenta-morte-de-bruno-covas-solidariedade-aos-familiares-16052021
+2021-05-17 07:58:02,769          root     INFO: Removed http://noticias.r7.com/brasil/senado-chama-embaixador-de-angola-para-explicar-deportacoes-16052021
+2021-05-17 07:58:02,774          root     INFO: Removed http://noticias.r7.com/brasil/onu-hostilidades-em-israel-e-gaza-sao-apavorantes-e-devem-cessar-16052021
+2021-05-17 07:58:02,779          root     INFO: Removed http://noticias.r7.com/brasil/pais-completa-4-meses-de-vacinacao-com-paralisacao-na-producao-17052021
+2021-05-17 07:58:02,783          root     INFO: Removed http://noticias.r7.com/brasil/industria-migra-do-sudeste-para-demais-regioes-em-10-anos-diz-cni-17052021
+2021-05-17 07:58:02,783          root     INFO: Finished script
