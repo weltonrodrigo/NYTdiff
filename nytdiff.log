@@ -1,22 +1,18 @@
-2021-05-17 03:49:26,113          root     INFO: Starting script
-2021-05-17 03:49:27,374          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-17 03:49:28,052          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-17 03:49:28,737          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-17 03:49:28,857          root     INFO: Parsing R7 - Brasil
-2021-05-17 03:49:31,495          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/embaixador-da-china-vai-receber-governadores-para-tratar-de-envio-de-insumos-para-vacinas.shtml
-2021-05-17 03:49:31,510          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/politica-era-a-vida-dele-nao-deixa-nada-de-patrimonio-e-nao-teve-escandalos-diz-secretario-de-covas.shtml
-2021-05-17 03:49:31,621          root     INFO: Covas tinha potencial para ser <del>Presidente</del> <ins>presidente</ins> da República, diz economista-chefe da XP
-2021-05-17 03:49:33,325          root     INFO: Media ready with ids: 1394137989190766593
-2021-05-17 03:49:33,325          root     INFO: Text to tweet: Modificação do Título
-2021-05-17 03:49:33,326          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/covas-tinha-potencial-para-ser-presidente-da-republica-diz-economista-chefe-da-xp.shtml
-2021-05-17 03:49:33,334          root     INFO: Replying to: 1394129553359056897
-2021-05-17 03:49:33,578          root     INFO: Id to store: 1394137990579068928
-2021-05-17 03:49:33,585          root     INFO: Economista-chefe da XP <ins>Investimentos</ins> e ex-secretário municipal da Fazenda, Caio Megale afirmou ao Painel em julho de 2020 que via Bruno Covas (PSDB) como político de potencial para disputar a Presidência -o que a coluna não publicou à época. Leia mais (05/16/2021 - 23h15)
-2021-05-17 03:49:35,266          root     INFO: Media ready with ids: 1394137997180813318
-2021-05-17 03:49:35,266          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-17 03:49:35,266          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/covas-tinha-potencial-para-ser-presidente-da-republica-diz-economista-chefe-da-xp.shtml
-2021-05-17 03:49:35,278          root     INFO: Replying to: 1394137990579068928
-2021-05-17 03:49:35,515          root     INFO: Id to store: 1394137998728572932
-2021-05-17 03:49:41,172          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-alerta-planalto-e-centrao-apostam-na-economia-para-bolsonaro-enfrentar-lula-em-2022.shtml
-2021-05-17 03:49:41,177          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/bolsonaro-esta-derretendo-e-ciro-gomes-vai-pegar-esses-votos-diz-presidente-do-pdt-sobre-datafolha.shtml
-2021-05-17 03:49:41,179          root     INFO: Finished script
+2021-05-17 04:10:02,819          root     INFO: Starting script
+2021-05-17 04:10:03,831          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-17 04:10:04,617          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-17 04:10:05,399          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-17 04:10:05,718          root     INFO: Parsing R7 - Brasil
+2021-05-17 04:10:08,663          root     INFO: <ins>Bruno</ins> Covas tinha potencial para ser <del>Presidente</del> <ins>presidente</ins> da República, diz economista-chefe da XP
+2021-05-17 04:10:10,372          root     INFO: Media ready with ids: 1394143177712484352
+2021-05-17 04:10:10,372          root     INFO: Text to tweet: Modificação do Título
+2021-05-17 04:10:10,372          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/covas-tinha-potencial-para-ser-presidente-da-republica-diz-economista-chefe-da-xp.shtml
+2021-05-17 04:10:10,381          root     INFO: Replying to: 1394137998728572932
+2021-05-17 04:10:10,651          root     INFO: Id to store: 1394143179264479238
+2021-05-17 04:10:10,661          root     INFO: Economista-chefe da XP <ins>Investimentos</ins> e ex-secretário municipal da Fazenda, Caio Megale afirmou ao Painel em julho de 2020 que via Bruno Covas (PSDB) como político de potencial para disputar a Presidência -o que a coluna não publicou à época. Leia mais (05/16/2021 - 23h15)
+2021-05-17 04:10:12,320          root     INFO: Media ready with ids: 1394143185832718338
+2021-05-17 04:10:12,320          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-17 04:10:12,320          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/covas-tinha-potencial-para-ser-presidente-da-republica-diz-economista-chefe-da-xp.shtml
+2021-05-17 04:10:12,331          root     INFO: Replying to: 1394143179264479238
+2021-05-17 04:10:12,552          root     INFO: Id to store: 1394143187233558536
+2021-05-17 04:10:18,285          root     INFO: Finished script
