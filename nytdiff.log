@@ -1,18 +1,6 @@
-2021-05-17 04:10:02,819          root     INFO: Starting script
-2021-05-17 04:10:03,831          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-17 04:10:04,617          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-17 04:10:05,399          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-17 04:10:05,718          root     INFO: Parsing R7 - Brasil
-2021-05-17 04:10:08,663          root     INFO: <ins>Bruno</ins> Covas tinha potencial para ser <del>Presidente</del> <ins>presidente</ins> da República, diz economista-chefe da XP
-2021-05-17 04:10:10,372          root     INFO: Media ready with ids: 1394143177712484352
-2021-05-17 04:10:10,372          root     INFO: Text to tweet: Modificação do Título
-2021-05-17 04:10:10,372          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/covas-tinha-potencial-para-ser-presidente-da-republica-diz-economista-chefe-da-xp.shtml
-2021-05-17 04:10:10,381          root     INFO: Replying to: 1394137998728572932
-2021-05-17 04:10:10,651          root     INFO: Id to store: 1394143179264479238
-2021-05-17 04:10:10,661          root     INFO: Economista-chefe da XP <ins>Investimentos</ins> e ex-secretário municipal da Fazenda, Caio Megale afirmou ao Painel em julho de 2020 que via Bruno Covas (PSDB) como político de potencial para disputar a Presidência -o que a coluna não publicou à época. Leia mais (05/16/2021 - 23h15)
-2021-05-17 04:10:12,320          root     INFO: Media ready with ids: 1394143185832718338
-2021-05-17 04:10:12,320          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-17 04:10:12,320          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/covas-tinha-potencial-para-ser-presidente-da-republica-diz-economista-chefe-da-xp.shtml
-2021-05-17 04:10:12,331          root     INFO: Replying to: 1394143179264479238
-2021-05-17 04:10:12,552          root     INFO: Id to store: 1394143187233558536
-2021-05-17 04:10:18,285          root     INFO: Finished script
+2021-05-17 04:50:30,454          root     INFO: Starting script
+2021-05-17 04:50:31,273          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-17 04:50:31,909          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-17 04:50:32,552          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-17 04:50:32,797          root     INFO: Parsing R7 - Brasil
+2021-05-17 04:50:41,280          root     INFO: Finished script
