@@ -1,13 +1,8 @@
-2021-05-18 20:28:27,895          root     INFO: Starting script
-2021-05-18 20:28:28,704          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-18 20:28:29,358          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-18 20:28:30,026          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-18 20:28:30,236          root     INFO: Parsing R7 - Brasil
-2021-05-18 20:28:33,228          root     INFO: Ernesto confirma à CPI ação de Bolsonaro por <del>cloroquina, tenta esconder</del> <ins>cloroquina e mente sobre suas</ins> agressões à China <del>e é chamado de mentiroso</del>
-2021-05-18 20:28:34,940          root     INFO: Media ready with ids: 1394751790294437889
-2021-05-18 20:28:34,940          root     INFO: Text to tweet: Modificação do Título
-2021-05-18 20:28:34,941          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ernesto-confirma-a-cpi-acao-de-bolsonaro-por-cloroquina-tenta-esconder-agressoes-a-china-e-e-chamado-de-mentiroso.shtml
-2021-05-18 20:28:34,950          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ernesto-confirma-a-cpi-acao-de-bolsonaro-por-cloroquina-tenta-esconder-agressoes-a-china-e-e-chamado-de-mentiroso.shtml
-2021-05-18 20:28:35,125          root     INFO: Replying to: 1394751791745617924
-2021-05-18 20:28:35,416          root     INFO: Id to store: 1394751792458735617
-2021-05-18 20:28:41,387          root     INFO: Finished script
+2021-05-18 20:51:19,797          root     INFO: Starting script
+2021-05-18 20:51:20,624          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-18 20:51:21,257          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-18 20:51:21,897          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-18 20:51:22,053          root     INFO: Parsing R7 - Brasil
+2021-05-18 20:51:24,307          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/na-cpi-ernesto-deixa-patente-omissao-do-itamaray-ao-ignorar-vacinas-contra-covid.shtml
+2021-05-18 20:51:29,344          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/datafolha-veja-quais-segmentos-puxam-e-derrubam-a-avaliacao-de-bolsonaro.shtml
+2021-05-18 20:51:29,345          root     INFO: Finished script
