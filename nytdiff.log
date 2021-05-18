@@ -1,35 +1,6 @@
-2021-05-18 13:43:16,260          root     INFO: Starting script
-2021-05-18 13:43:17,070          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-18 13:43:17,746          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-18 13:43:18,409          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-18 13:43:18,587          root     INFO: Parsing R7 - Brasil
-2021-05-18 13:43:26,447          root     INFO: Giovani Cherini (PL-RS) <del>afirmou que há</del> <ins>contrariou orientações sanitárias e apontou</ins> uso de máscara de forma "doentia" pela população <del>e citou ainda motivos "políticos"</del>
-2021-05-18 13:43:28,168          root     INFO: Media ready with ids: 1394649840366362628
-2021-05-18 13:43:28,168          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-18 13:43:28,168          root     INFO: Article id: http://noticias.r7.com/brasil/deputado-diz-que-uso-de-mascara-pode-ter-agravado-cancer-de-covas-17052021
-2021-05-18 13:43:28,179          root     INFO: Tweeting url: http://noticias.r7.com/brasil/deputado-diz-que-uso-de-mascara-pode-ter-agravado-cancer-de-covas-17052021
-2021-05-18 13:43:28,390          root     INFO: Replying to: 1394649841934942215
-2021-05-18 13:43:28,634          root     INFO: Id to store: 1394649842744496142
-2021-05-18 13:43:28,855          root     INFO: New article tracked: http://noticias.r7.com/brasil/diretor-geral-da-abin-defende-voto-auditavel-17052021
-2021-05-18 13:43:28,868          root     INFO: New article tracked: http://noticias.r7.com/brasil/secretaria-da-saude-tambem-vai-ao-stf-para-ficar-em-silencio-na-cpi-17052021
-2021-05-18 13:43:28,881          root     INFO: New article tracked: http://noticias.r7.com/brasil/relator-le-parecer-favoravel-a-reforma-administrativa-17052021
-2021-05-18 13:43:28,894          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-flavio-bolsonaro-renan-e-altamente-toxico-na-cpi-da-covid-17052021
-2021-05-18 13:43:28,905          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-critica-idiotas-do-fique-em-casa-e-mira-reves-no-congresso-17052021
-2021-05-18 13:43:28,918          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-vice-presidente-reforma-administrativa-passa-ate-fim-do-ano-17052021
-2021-05-18 13:43:28,931          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-saude-diz-que-fiocruz-recebera-ifa-para-12-mi-de-vacinas-17052021
-2021-05-18 13:43:28,965          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-semana-decisiva-depoentes-desafiam-cpi-17052021
-2021-05-18 13:43:28,979          root     INFO: New article tracked: http://noticias.r7.com/brasil/mdb-assume-prefeitura-de-sao-paulo-pela-1-vez-na-democracia-17052021
-2021-05-18 13:43:28,990          root     INFO: New article tracked: http://noticias.r7.com/brasil/universal-em-angola-itamaraty-e-bancada-evangelica-se-reunem-hoje-17052021
-2021-05-18 13:43:29,002          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-cria-empresa-publica-para-coordenar-setor-de-energia-nuclear-17052021
-2021-05-18 13:43:29,019          root     INFO: Removed http://noticias.r7.com/brasil/audiencias-publicas-debatem-violencia-e-abuso-contra-as-criancas-18052021
-2021-05-18 13:43:29,024          root     INFO: Removed http://noticias.r7.com/brasil/procuradores-abrem-inscricao-para-eleicao-da-lista-triplice-da-pgr-17052021
-2021-05-18 13:43:29,028          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-falara-com-presidente-de-angola-sobre-expulsao-de-pastores-17052021
-2021-05-18 13:43:29,033          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-lamenta-morte-de-mc-kevin-e-relembra-encontro-17052021
-2021-05-18 13:43:29,038          root     INFO: Removed http://noticias.r7.com/brasil/alvos-de-ataques-de-garimpeiros-indios-yanomami-pedem-socorro-17052021
-2021-05-18 13:43:29,043          root     INFO: Removed http://noticias.r7.com/brasil/preco-medio-do-aluguel-residencial-sobe-019-em-abril-diz-fipezap-18052021
-2021-05-18 13:43:29,047          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-distribui-64-mi-de-doses-da-pfizer-oxford-e-coronavac-18052021
-2021-05-18 13:43:29,052          root     INFO: Removed http://noticias.r7.com/brasil/apos-demissao-ernesto-araujo-tem-reencontro-com-senadores-na-cpi-18052021
-2021-05-18 13:43:29,056          root     INFO: Removed http://noticias.r7.com/brasil/aras-envia-a-cpi-da-covid-lista-de-investigacoes-contra-governadores-17052021
-2021-05-18 13:43:29,061          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-diz-que-recebera-ifa-para-12-milhoes-de-doses-de-vacina-17052021
-2021-05-18 13:43:29,071          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-assina-decreto-para-combater-violencia-contra-criancas-17052021
-2021-05-18 13:43:29,072          root     INFO: Finished script
+2021-05-18 13:56:03,785          root     INFO: Starting script
+2021-05-18 13:56:04,633          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-18 13:56:05,307          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-18 13:56:05,988          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-18 13:56:06,316          root     INFO: Parsing R7 - Brasil
+2021-05-18 13:56:14,805          root     INFO: Finished script
