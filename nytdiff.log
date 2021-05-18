@@ -1,6 +1,8 @@
-2021-05-18 14:57:50,245          root     INFO: Starting script
-2021-05-18 14:57:51,265          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-18 14:57:52,056          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-18 14:57:52,872          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-18 14:57:53,155          root     INFO: Parsing R7 - Brasil
-2021-05-18 14:58:01,637          root     INFO: Finished script
+2021-05-18 15:31:59,497          root     INFO: Starting script
+2021-05-18 15:32:00,335          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-18 15:32:01,007          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-18 15:32:01,684          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-18 15:32:01,908          root     INFO: Parsing R7 - Brasil
+2021-05-18 15:32:04,674          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/justica-do-trabalho-exclui-psb-de-processo-para-indenizar-copiloto-de-aviao-que-caiu-com-eduardo-campos.shtml
+2021-05-18 15:32:10,207          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/wajngarten-nao-quis-recorrer-a-habeas-corpus-para-ficar-em-silencio-na-cpi-da-covid.shtml
+2021-05-18 15:32:10,207          root     INFO: Finished script
