@@ -1,8 +1,13 @@
-2021-05-18 15:31:59,497          root     INFO: Starting script
-2021-05-18 15:32:00,335          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-18 15:32:01,007          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-18 15:32:01,684          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-18 15:32:01,908          root     INFO: Parsing R7 - Brasil
-2021-05-18 15:32:04,674          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/justica-do-trabalho-exclui-psb-de-processo-para-indenizar-copiloto-de-aviao-que-caiu-com-eduardo-campos.shtml
-2021-05-18 15:32:10,207          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/wajngarten-nao-quis-recorrer-a-habeas-corpus-para-ficar-em-silencio-na-cpi-da-covid.shtml
-2021-05-18 15:32:10,207          root     INFO: Finished script
+2021-05-18 16:01:13,075          root     INFO: Starting script
+2021-05-18 16:01:14,048          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-18 16:01:14,840          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-18 16:01:15,637          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-18 16:01:15,926          root     INFO: Parsing R7 - Brasil
+2021-05-18 16:01:16,137          root     INFO: O Brasil está imerso em várias crises. A primeira e mais importante é a crise da democracia. Após décadas de construção democrática bem-sucedida, gerada pelo consenso em torno dos resultados eleitorais, a capacidade de implementar políticas sociais bem-sucedidas e maior confiança na democracia. Todos esses elementos se desintegraram rapidamente após o processo de impeachment da ex-presidenta Dilma Rousseff, cujo ponto de partida foi o não reconhecimento dos resultados das eleições de 2014. Leia mais <del>(05/14/2021</del> <ins>(05/18/2021</ins> - 12h30)
+2021-05-18 16:01:18,144          root     INFO: Media ready with ids: 1394684526698418176
+2021-05-18 16:01:18,144          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-18 16:01:18,144          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/brasil-pandemia-crise-politica-e-judicializacao.shtml
+2021-05-18 16:01:18,152          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/brasil-pandemia-crise-politica-e-judicializacao.shtml
+2021-05-18 16:01:18,552          root     INFO: Replying to: 1394684529428815873
+2021-05-18 16:01:18,868          root     INFO: Id to store: 1394684530334777346
+2021-05-18 16:01:26,738          root     INFO: Finished script
