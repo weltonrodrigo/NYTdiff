@@ -1,15 +1,6 @@
-2021-05-18 03:15:09,686          root     INFO: Starting script
-2021-05-18 03:15:10,666          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-18 03:15:11,441          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-18 03:15:12,228          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-18 03:15:12,619          root     INFO: Parsing R7 - Brasil
-2021-05-18 03:15:12,761          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/05/a-alma-portuguesa-de-rubem-braga.shtml
-2021-05-18 03:15:15,370          root     INFO: O presidente da <del>Câmara de São Paulo,</del> <ins>Câmara,</ins> Milton Leite (DEM), <del>afirmou ao Painel</del> <ins>diz</ins> que <del>a política na cidade</del> <ins>Ricardo Nunes, que tem sido sondado pelo PSDB para deixar o MDB,</ins> não <del>deverá mudar após a morte de Bruno Covas, neste domingo (16).</del> <ins>promoverá grandes mudanças na administração municipal, dividida principalmente entre esses três partidos.</ins> Leia mais (05/17/2021 - 23h15)
-2021-05-18 03:15:17,198          root     INFO: Media ready with ids: 1394491752795496448
-2021-05-18 03:15:17,199          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-18 03:15:17,199          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/em-time-que-esta-ganhando-nao-se-mexe-diz-presidente-da-camara-de-sp-apos-morte-de-covas.shtml
-2021-05-18 03:15:17,210          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/em-time-que-esta-ganhando-nao-se-mexe-diz-presidente-da-camara-de-sp-apos-morte-de-covas.shtml
-2021-05-18 03:15:17,508          root     INFO: Replying to: 1394491754833973249
-2021-05-18 03:15:17,818          root     INFO: Id to store: 1394491755819585540
-2021-05-18 03:15:23,072          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/linchamento-afeta-narrativa-sobre-israel-e-os-palestinos.shtml
-2021-05-18 03:15:23,073          root     INFO: Finished script
+2021-05-18 03:50:50,720          root     INFO: Starting script
+2021-05-18 03:50:51,512          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-18 03:50:52,149          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-18 03:50:52,783          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-18 03:50:52,981          root     INFO: Parsing R7 - Brasil
+2021-05-18 03:51:00,235          root     INFO: Finished script
