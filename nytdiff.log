@@ -1,20 +1,27 @@
-2021-05-19 10:15:47,348          root     INFO: Starting script
-2021-05-19 10:15:48,140          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-19 10:15:48,784          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-19 10:15:49,429          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-19 10:15:49,677          root     INFO: Parsing R7 - Brasil
-2021-05-19 10:15:52,406          root     INFO: Ricardo Salles e <del>ministério</del> <ins>Ministério</ins> do Meio Ambiente são alvos de busca e apreensão da Polícia Federal
-2021-05-19 10:15:54,073          root     INFO: Media ready with ids: 1394959992013393922
-2021-05-19 10:15:54,074          root     INFO: Text to tweet: Modificação do Título
-2021-05-19 10:15:54,074          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ricardo-salles-e-ministerio-do-meio-ambiente-sao-alvos-de-busca-e-apreenssao-da-policia-federal.shtml
-2021-05-19 10:15:54,083          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ricardo-salles-e-ministerio-do-meio-ambiente-sao-alvos-de-busca-e-apreenssao-da-policia-federal.shtml
-2021-05-19 10:15:54,300          root     INFO: Replying to: 1394959993552658436
-2021-05-19 10:15:54,529          root     INFO: Id to store: 1394959994316070912
-2021-05-19 10:15:54,818          root     INFO: Cloroquina, mentiras sobre China e críticas de Kátia Abreu; veja 4 pontos da fala de Ernesto à CPI <ins>da Covid</ins>
-2021-05-19 10:15:56,578          root     INFO: Media ready with ids: 1394960002037735426
-2021-05-19 10:15:56,578          root     INFO: Text to tweet: Modificação do Título
-2021-05-19 10:15:56,578          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cloroquina-mentiras-sobre-china-e-criticas-de-katia-abreu-veja-4-pontos-da-fala-de-ernesto-a-cpi.shtml
-2021-05-19 10:15:56,588          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cloroquina-mentiras-sobre-china-e-criticas-de-katia-abreu-veja-4-pontos-da-fala-de-ernesto-a-cpi.shtml
-2021-05-19 10:15:56,742          root     INFO: Replying to: 1394960003820359685
-2021-05-19 10:15:56,973          root     INFO: Id to store: 1394960004558561281
-2021-05-19 10:16:02,416          root     INFO: Finished script
+2021-05-19 10:38:37,369          root     INFO: Starting script
+2021-05-19 10:38:38,364          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-19 10:38:39,160          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-19 10:38:39,952          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-19 10:38:40,210          root     INFO: Parsing R7 - Brasil
+2021-05-19 10:38:42,785          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ministro-do-stf-afasta-presidente-do-ibama-do-cargo-em-investigacao-de-exportacao-ilegal-de-madeira.shtml
+2021-05-19 10:38:42,831          root     INFO: Ricardo Salles e <del>ministério</del> <ins>Ministério</ins> do Meio Ambiente são alvos de busca e apreensão da Polícia Federal
+2021-05-19 10:38:44,702          root     INFO: Media ready with ids: 1394965740315463680
+2021-05-19 10:38:44,703          root     INFO: Text to tweet: Modificação do Título
+2021-05-19 10:38:44,703          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ricardo-salles-e-ministerio-do-meio-ambiente-sao-alvos-de-busca-e-apreenssao-da-policia-federal.shtml
+2021-05-19 10:38:44,712          root     INFO: Replying to: 1394959994316070912
+2021-05-19 10:38:45,033          root     INFO: Id to store: 1394965742542626818
+2021-05-19 10:38:45,042          root     INFO: A Polícia Federal realiza na manhã desta quarta (19) busca e <del>apreenssão</del> <ins>apreensão</ins> em endereços do ministro Ricardo Salles e no Ministério do Meio Ambiente. Leia mais (05/19/2021 - 06h52)
+2021-05-19 10:38:46,772          root     INFO: Media ready with ids: 1394965749458952194
+2021-05-19 10:38:46,773          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-19 10:38:46,774          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ricardo-salles-e-ministerio-do-meio-ambiente-sao-alvos-de-busca-e-apreenssao-da-policia-federal.shtml
+2021-05-19 10:38:46,784          root     INFO: Replying to: 1394965742542626818
+2021-05-19 10:38:47,074          root     INFO: Id to store: 1394965751077949442
+2021-05-19 10:38:47,402          root     INFO: "Parafraseando nosso governador Geraldo Alckmin: ano par é ano de discutir eleição em São Paulo, ano ímpar a gente trabalha. [...] A minha posição já é diferente em relação a nível nacional. Eu acredito que é fundamental, no momento que nós estamos vivendo, de polarização, que o PSDB possa escolher seu candidato ainda neste ano de 2021", afirmou o vice-governador de São Paulo, Rodrigo Garcia, na última sexta-feira (14), logo após se filiar ao <del>PSDB</del> <ins>PSDB. Ele estava</ins> ao lado do governador tucano João Doria. Leia mais (05/18/2021 - 23h15)
+2021-05-19 10:38:49,368          root     INFO: Media ready with ids: 1394965759693033475
+2021-05-19 10:38:49,369          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-19 10:38:49,369          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/doria-quer-pressa-em-previa-nacional-mas-com-indefinicao-de-alckmin-empurra-a-estadual.shtml
+2021-05-19 10:38:49,379          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/doria-quer-pressa-em-previa-nacional-mas-com-indefinicao-de-alckmin-empurra-a-estadual.shtml
+2021-05-19 10:38:49,612          root     INFO: Replying to: 1394965761978945542
+2021-05-19 10:38:49,893          root     INFO: Id to store: 1394965762914332676
+2021-05-19 10:38:54,896          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/apos-acusacoes-de-bolsonaro-tse-lanca-campanha-em-defesa-das-urnas-eletronicas.shtml
+2021-05-19 10:38:54,897          root     INFO: Finished script
