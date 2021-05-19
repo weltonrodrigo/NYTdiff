@@ -1,31 +1,17 @@
-2021-05-19 19:30:01,296          root     INFO: Starting script
-2021-05-19 19:30:02,304          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-19 19:30:03,104          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-19 19:30:03,922          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-19 19:30:04,230          root     INFO: Parsing R7 - Brasil
-2021-05-19 19:30:05,476          root     INFO: Aprendendo a viver com a baixa <del>fertilidade</del> <ins>fecundidade</ins> nacional
-2021-05-19 19:30:07,183          root     INFO: Media ready with ids: 1395099465443336199
-2021-05-19 19:30:07,184          root     INFO: Text to tweet: Modificação do Título
-2021-05-19 19:30:07,184          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/05/aprendendo-a-viver-com-a-baixa-fertilidade-nacional.shtml
-2021-05-19 19:30:07,193          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/05/aprendendo-a-viver-com-a-baixa-fertilidade-nacional.shtml
-2021-05-19 19:30:07,419          root     INFO: Replying to: 1395099467196555276
-2021-05-19 19:30:07,716          root     INFO: Id to store: 1395099467951529990
-2021-05-19 19:30:09,593          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/agu-e-ministros-aliados-de-bolsonaro-no-tcu-conseguem-adiar-processo-que-pede-multa-a-pazuello.shtml
-2021-05-19 19:30:09,641          root     INFO: No depoimento mais aguardado até aqui da CPI da <del>Covid,</del> <ins>Covid do Senado,</ins> o ex-ministro Eduardo Pazuello (Saúde) <del>evitou atribuir ao</del> <ins>buscou em diferentes momentos blindar o</ins> presidente Jair <del>Bolsonaro responsabilidade pelas decisões no enfrentamento à pandemia, inclusive negando tentativa de interferência do chefe do Executivo para ampliar o uso da hidroxicloroquina -questão apontada pelos seus dois antecessores no cargo.</del> <ins>Bolsonaro.</ins> Leia mais (05/19/2021 - 15h26)
-2021-05-19 19:30:11,386          root     INFO: Media ready with ids: 1395099483097141249
-2021-05-19 19:30:11,387          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-19 19:30:11,387          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/general-pazuello-tenta-blindar-bolsonaro-na-cpi-reage-a-renan-e-mente-ao-menos-quatro-vezes.shtml
-2021-05-19 19:30:11,399          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/general-pazuello-tenta-blindar-bolsonaro-na-cpi-reage-a-renan-e-mente-ao-menos-quatro-vezes.shtml
-2021-05-19 19:30:11,578          root     INFO: Replying to: 1395099484632272904
-2021-05-19 19:30:11,835          root     INFO: Id to store: 1395099485404082184
-2021-05-19 19:30:18,219          root     INFO: Removed http://noticias.r7.com/brasil/moraes-do-stf-autoriza-quebra-de-sigilos-bancario-e-fiscal-de-salles-19052021
-2021-05-19 19:30:18,225          root     INFO: Removed http://noticias.r7.com/brasil/operacao-da-pf-cumpre-mandados-em-enderecos-de-ricardo-salles-19052021
-2021-05-19 19:30:18,230          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-interrompe-producao-da-vacina-astrazeneca-nesta-quinta-19052021
-2021-05-19 19:30:18,234          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-ministro-da-saude-eduardo-pazuello-assista-19052021
-2021-05-19 19:30:18,239          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/stf-deve-parar-de-governar-e-deixar-politica-para-politicos-diz-ex-presidente-do-tj-sp-apoiador-de-bolsonaro.shtml
-2021-05-19 19:30:18,244          root     INFO: Removed http://noticias.r7.com/brasil/fotos/batata-arroz-e-cafe-registraram-queda-de-preco-em-abril-veja-mais-19052021
-2021-05-19 19:30:18,249          root     INFO: Removed http://noticias.r7.com/brasil/apos-obter-habeas-corpus-pazuello-depoe-a-cpi-da-covid-nesta-quarta-19052021
-2021-05-19 19:30:18,253          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-respondera-a-todas-as-perguntas-diz-advogado-19052021
-2021-05-19 19:30:18,258          root     INFO: Removed http://noticias.r7.com/brasil/alexandre-de-moraes-do-stf-afasta-presidente-do-ibama-do-cargo-19052021
-2021-05-19 19:30:18,262          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-diz-que-se-antecipou-aos-fatos-em-colapso-no-amazonas-19052021
-2021-05-19 19:30:18,263          root     INFO: Finished script
+2021-05-19 19:50:03,251          root     INFO: Starting script
+2021-05-19 19:50:04,196          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-19 19:50:04,840          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-19 19:50:05,485          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-19 19:50:05,746          root     INFO: Parsing R7 - Brasil
+2021-05-19 19:50:13,314          root     INFO: New article tracked: http://noticias.r7.com/brasil/prtb-nega-dar-a-bolsonaro-o-comando-da-sigla-18052021
+2021-05-19 19:50:13,329          root     INFO: New article tracked: http://noticias.r7.com/brasil/araujo-confirma-esforco-para-trazer-insumos-de-cloroquina-da-india-18052021
+2021-05-19 19:50:13,342          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-bom-ver-quem-queria-queimar-o-stf-recorrer-a-ele-18052021
+2021-05-19 19:50:13,355          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/membro-da-cpi-da-covid-revela-ameacas-por-aplicativos-18052021
+2021-05-19 19:50:13,369          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-araujo-nega-ter-se-referido-a-china-quando-citou-comunavirus-18052021
+2021-05-19 19:50:13,380          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-diz-que-integrantes-da-comissao-estao-sendo-ameacados-18052021
+2021-05-19 19:50:13,391          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-advogado-diz-que-pazuello-esta-pronto-para-qualquer-pergunta-18052021
+2021-05-19 19:50:13,403          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-ministro-ernesto-araujo-assista-ao-vivo-18052021
+2021-05-19 19:50:13,415          root     INFO: New article tracked: http://noticias.r7.com/brasil/trafico-pf-prende-funcionarios-de-empresas-que-atuam-em-cumbica-18052021
+2021-05-19 19:50:13,428          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacao-mira-grupo-que-lava-dinheiro-do-trafico-e-da-prostituicao-18052021
+2021-05-19 19:50:13,441          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-lanca-programa-para-combater-violencia-contra-criancas-18052021
+2021-05-19 19:50:13,453          root     INFO: Finished script
