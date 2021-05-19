@@ -1,6 +1,12 @@
-2021-05-19 20:57:46,707          root     INFO: Starting script
-2021-05-19 20:57:47,660          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-19 20:57:48,441          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-19 20:57:49,215          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-19 20:57:49,429          root     INFO: Parsing R7 - Brasil
-2021-05-19 20:57:57,649          root     INFO: Finished script
+2021-05-19 21:26:52,717          root     INFO: Starting script
+2021-05-19 21:26:53,558          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-19 21:26:54,236          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-19 21:26:54,919          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-19 21:26:55,064          root     INFO: Parsing R7 - Brasil
+2021-05-19 21:26:55,254          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/05/filme-tocante-conta-como-paixao-do-torcedor-absolveu-um-ex-soldado-nazista.shtml
+2021-05-19 21:26:57,868          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/na-cpi-pazuello-mente-sobre-falta-de-oxigenio-em-manaus-e-decisao-do-stf-veja-checagem.shtml
+2021-05-19 21:27:00,445          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/05/em-encontro-com-mourao-empresarios-da-construcao-defendem-novo-licenciamento-ambiental.shtml
+2021-05-19 21:27:03,486          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/03/justica-desbloqueia-venda-de-madeira-nativa-de-mt-e-pa-ibama-recorre.shtml
+2021-05-19 21:27:03,491          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/procuradoria-geral-defende-punicao-a-deltan-em-caso-de-criticas-a-ministros-do-supremo.shtml
+2021-05-19 21:27:03,495          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/mais-uma-vez-a-cobertura-esta-no-centro-das-operacoes-de-uma-guerra.shtml
+2021-05-19 21:27:03,496          root     INFO: Finished script
