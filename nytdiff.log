@@ -1,46 +1,26 @@
-2021-05-19 03:08:45,415          root     INFO: Starting script
-2021-05-19 03:08:46,200          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-19 03:08:46,872          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-19 03:08:47,513          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-19 03:08:47,646          root     INFO: Parsing R7 - Brasil
-2021-05-19 03:08:47,813          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antoniodelfim/2021/05/menos-mal-do-que-parece.shtml
-2021-05-19 03:08:47,828          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/no-oriente-medio-uma-guerra-sem-saida.shtml
-2021-05-19 03:08:50,158          root     INFO: <del>Deputado Marcelo Ramos</del> <ins>Vice da Câmara</ins> compara proposta do governo de reforma tributária fatiada com pizza de vento
-2021-05-19 03:08:51,964          root     INFO: Media ready with ids: 1394852524549672961
-2021-05-19 03:08:51,964          root     INFO: Text to tweet: Modificação do Título
-2021-05-19 03:08:51,964          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/deputado-marcelo-ramos-compara-proposta-do-governo-de-reforma-tributaria-fatiada-com-pizza-de-vento.shtml
-2021-05-19 03:08:51,973          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/deputado-marcelo-ramos-compara-proposta-do-governo-de-reforma-tributaria-fatiada-com-pizza-de-vento.shtml
-2021-05-19 03:08:52,160          root     INFO: Replying to: 1394852526504255495
-2021-05-19 03:08:52,391          root     INFO: Id to store: 1394852527280164865
-2021-05-19 03:08:56,943          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-diz-que-meta-de-24-mi-de-vacinados-por-dia-e-dificil-18052021
-2021-05-19 03:08:56,956          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-prisao-domiciliar-daniel-silveira-volta-a-criticar-ministros-do-stf-18052021
-2021-05-19 03:08:56,968          root     INFO: New article tracked: http://noticias.r7.com/brasil/tema-e-de-dignidade-humana-diz-senador-sobre-pastores-deportados-18052021
-2021-05-19 03:08:56,979          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-aumento-de-pena-para-crime-de-feminicidio-18052021
-2021-05-19 03:08:56,989          root     INFO: New article tracked: http://noticias.r7.com/brasil/china-reduz-volume-de-insumos-enviado-ao-brasil-diz-butantan-18052021
-2021-05-19 03:08:57,000          root     INFO: New article tracked: http://noticias.r7.com/brasil/termina-em-briga-debate-sobre-uso-medicinal-da-cannabis-na-camara-18052021
-2021-05-19 03:08:57,011          root     INFO: New article tracked: http://noticias.r7.com/brasil/o-senhor-e-bussula-que-levou-ao-caos-veja-frases-da-cpi-da-covid-18052021
-2021-05-19 03:08:57,023          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-nega-pedido-de-secretaria-sobre-depoimento-a-cpi-18052021
-2021-05-19 03:08:57,034          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-convite-a-ministro-para-explicar-orcamento-paralelo-18052021
-2021-05-19 03:08:57,045          root     INFO: New article tracked: http://noticias.r7.com/brasil/refugiados-e-migrantes-tem-capacitacao-em-cursos-de-financas-18052021
-2021-05-19 03:08:57,056          root     INFO: New article tracked: http://noticias.r7.com/brasil/se-eu-tivesse-dormido-uma-noite-nao-teria-dito-aquilo-diz-silveira-18052021
-2021-05-19 03:08:57,067          root     INFO: New article tracked: http://noticias.r7.com/brasil/araujo-confirma-acusacao-contra-katia-abreu-por-lobby-a-chineses-18052021
-2021-05-19 03:08:57,079          root     INFO: New article tracked: http://noticias.r7.com/brasil/araujo-recebeu-carta-da-pfizer-e-diz-nao-ter-comunicado-bolsonaro-18052021
-2021-05-19 03:08:57,092          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-sera-relator-de-acao-de-secretaria-que-vai-depor-na-cpi-18052021
-2021-05-19 03:08:57,103          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-chanceler-repete-formula-para-nao-responder-sobre-bolsonaro-18052021
-2021-05-19 03:08:57,115          root     INFO: New article tracked: http://noticias.r7.com/brasil/araujo-governo-do-am-inviabilizou-uso-de-aviao-dos-eua-para-oxigenio-18052021
-2021-05-19 03:08:57,127          root     INFO: New article tracked: http://noticias.r7.com/brasil/frias-enviara-a-pf-relatorio-da-lei-rouanet-com-indicios-de-crimes-18052021
-2021-05-19 03:08:57,138          root     INFO: New article tracked: http://noticias.r7.com/brasil/psdb-entrara-com-acao-para-bolsonaro-usar-mascara-18052021
-2021-05-19 03:08:57,148          root     INFO: New article tracked: http://noticias.r7.com/brasil/zambelli-questionara-na-justica-parcialidade-de-renan-calheiros-18052021
-2021-05-19 03:08:57,158          root     INFO: New article tracked: http://noticias.r7.com/brasil/araujo-ministerio-da-saude-optou-por-menos-doses-no-covax-18052021
-2021-05-19 03:08:57,172          root     INFO: Removed http://noticias.r7.com/brasil/vou-contar-a-verdade-diz-secretaria-da-saude-sobre-cpi-17052021
-2021-05-19 03:08:57,177          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-19-senador-quer-ouvir-empresario-carlos-wizard-17052021
-2021-05-19 03:08:57,181          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-deve-ir-a-posse-de-presidente-do-equador-na-segunda-17052021
-2021-05-19 03:08:57,186          root     INFO: Removed http://noticias.r7.com/brasil/tcs-veem-confusao-em-pedido-da-cpi-sobre-uso-de-recursos-federais-17052021
-2021-05-19 03:08:57,191          root     INFO: Removed http://noticias.r7.com/brasil/governador-do-amapa-waldez-goes-e-diagnosticado-com-covid-19-17052021
-2021-05-19 03:08:57,196          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2021/05/hamas-quer-minar-acordos-de-abraao-assinados-entre-israel-e-paises-arabes.shtml
-2021-05-19 03:08:57,200          root     INFO: Removed http://noticias.r7.com/brasil/deputado-diz-que-uso-de-mascara-pode-ter-agravado-cancer-de-covas-17052021
-2021-05-19 03:08:57,204          root     INFO: Removed http://noticias.r7.com/brasil/comissao-do-ministerio-da-saude-contraindica-cloroquina-para-covid-17052021
-2021-05-19 03:08:57,208          root     INFO: Removed http://noticias.r7.com/brasil/governo-distribuira-64-milhoes-de-doses-de-vacinas-contra-covid-19-17052021
-2021-05-19 03:08:57,212          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2021/05/bolsonaro-e-o-veio-da-havan-foi-acasalamento-de-jumento-com-papagaio.shtml
-2021-05-19 03:08:57,216          root     INFO: Removed http://noticias.r7.com/brasil/inpi-acelera-analise-de-pedidos-de-patentes-para-produtos-de-covid-19-17052021
-2021-05-19 03:08:57,217          root     INFO: Finished script
+2021-05-19 03:45:14,880          root     INFO: Starting script
+2021-05-19 03:45:15,861          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-19 03:45:16,665          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-19 03:45:17,481          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-19 03:45:17,705          root     INFO: Parsing R7 - Brasil
+2021-05-19 03:45:25,571          root     INFO: Removed http://noticias.r7.com/brasil/araujo-confirma-acusacao-contra-katia-abreu-por-lobby-a-chineses-18052021
+2021-05-19 03:45:25,577          root     INFO: Removed http://noticias.r7.com/brasil/tema-e-de-dignidade-humana-diz-senador-sobre-pastores-deportados-18052021
+2021-05-19 03:45:25,582          root     INFO: Removed http://noticias.r7.com/brasil/ex-chanceler-repete-formula-para-nao-responder-sobre-bolsonaro-18052021
+2021-05-19 03:45:25,586          root     INFO: Removed http://noticias.r7.com/brasil/psdb-entrara-com-acao-para-bolsonaro-usar-mascara-18052021
+2021-05-19 03:45:25,591          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-nega-pedido-de-secretaria-sobre-depoimento-a-cpi-18052021
+2021-05-19 03:45:25,597          root     INFO: Removed http://noticias.r7.com/brasil/termina-em-briga-debate-sobre-uso-medicinal-da-cannabis-na-camara-18052021
+2021-05-19 03:45:25,602          root     INFO: Removed http://noticias.r7.com/brasil/zambelli-questionara-na-justica-parcialidade-de-renan-calheiros-18052021
+2021-05-19 03:45:25,606          root     INFO: Removed http://noticias.r7.com/brasil/em-prisao-domiciliar-daniel-silveira-volta-a-criticar-ministros-do-stf-18052021
+2021-05-19 03:45:25,611          root     INFO: Removed http://noticias.r7.com/brasil/o-senhor-e-bussula-que-levou-ao-caos-veja-frases-da-cpi-da-covid-18052021
+2021-05-19 03:45:25,617          root     INFO: Removed http://noticias.r7.com/brasil/refugiados-e-migrantes-tem-capacitacao-em-cursos-de-financas-18052021
+2021-05-19 03:45:25,621          root     INFO: Removed http://noticias.r7.com/brasil/china-reduz-volume-de-insumos-enviado-ao-brasil-diz-butantan-18052021
+2021-05-19 03:45:25,626          root     INFO: Removed http://noticias.r7.com/brasil/se-eu-tivesse-dormido-uma-noite-nao-teria-dito-aquilo-diz-silveira-18052021
+2021-05-19 03:45:25,632          root     INFO: Removed http://noticias.r7.com/brasil/araujo-recebeu-carta-da-pfizer-e-diz-nao-ter-comunicado-bolsonaro-18052021
+2021-05-19 03:45:25,637          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-sera-relator-de-acao-de-secretaria-que-vai-depor-na-cpi-18052021
+2021-05-19 03:45:25,641          root     INFO: Removed http://noticias.r7.com/brasil/araujo-ministerio-da-saude-optou-por-menos-doses-no-covax-18052021
+2021-05-19 03:45:25,647          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-convite-a-ministro-para-explicar-orcamento-paralelo-18052021
+2021-05-19 03:45:25,653          root     INFO: Removed http://noticias.r7.com/brasil/araujo-governo-do-am-inviabilizou-uso-de-aviao-dos-eua-para-oxigenio-18052021
+2021-05-19 03:45:25,659          root     INFO: Removed http://noticias.r7.com/brasil/frias-enviara-a-pf-relatorio-da-lei-rouanet-com-indicios-de-crimes-18052021
+2021-05-19 03:45:25,664          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-aumento-de-pena-para-crime-de-feminicidio-18052021
+2021-05-19 03:45:25,669          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-diz-que-meta-de-24-mi-de-vacinados-por-dia-e-dificil-18052021
+2021-05-19 03:45:25,670          root     INFO: Finished script
