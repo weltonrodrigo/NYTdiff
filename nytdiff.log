@@ -1,12 +1,10 @@
-2021-05-19 16:51:42,399          root     INFO: Starting script
-2021-05-19 16:51:43,192          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-19 16:51:43,838          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-19 16:51:44,483          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-19 16:51:44,752          root     INFO: Parsing R7 - Brasil
-2021-05-19 16:51:47,272          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/delegado-da-pf-que-denunciou-salles-cita-raul-seixas-e-celebra-acao-contra-ministro.shtml
-2021-05-19 16:51:47,285          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ricardo-salles-aparece-na-pf-com-assessor-armado-e-pede-informacoes-sobre-inquerito.shtml
-2021-05-19 16:51:49,632          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/salles-diz-ter-sido-surpreendido-por-operacao-da-pf-que-classificou-como-desnecessaria-e-exagerada.shtml
-2021-05-19 16:51:52,477          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/05/a-raiz-profunda-da-desconfianca-da-vacinacao-encontra-se-no-temor-do-poder-estatal.shtml
-2021-05-19 16:51:52,482          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49616
-2021-05-19 16:51:52,486          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/03/exploracao-de-madeira-ilegal-aumenta-50-em-mt.shtml
-2021-05-19 16:51:52,486          root     INFO: Finished script
+2021-05-19 17:34:32,547          root     INFO: Starting script
+2021-05-19 17:34:33,365          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-19 17:34:34,021          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-19 17:34:34,680          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-19 17:34:34,859          root     INFO: Parsing R7 - Brasil
+2021-05-19 17:34:35,051          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2021/05/bolsonaro-e-o-grande-responsavel-pela-batecao-de-cabeca-na-vacinacao.shtml
+2021-05-19 17:34:37,904          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-da-covid-corre-risco-de-se-tornar-tribunal-do-feicebuqui.shtml
+2021-05-19 17:34:44,006          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/um-minutinho-de-mulher-diz-bolsonaro-a-apoiadora-que-quis-mostrar-video.shtml
+2021-05-19 17:34:44,012          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/05/aprosoja-brasil-espera-20-mil-produtores-neste-sabado-em-brasilia.shtml
+2021-05-19 17:34:44,013          root     INFO: Finished script
