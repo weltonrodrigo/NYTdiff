@@ -1,17 +1,17 @@
-2021-05-19 19:50:03,251          root     INFO: Starting script
-2021-05-19 19:50:04,196          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-19 19:50:04,840          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-19 19:50:05,485          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-19 19:50:05,746          root     INFO: Parsing R7 - Brasil
-2021-05-19 19:50:13,314          root     INFO: New article tracked: http://noticias.r7.com/brasil/prtb-nega-dar-a-bolsonaro-o-comando-da-sigla-18052021
-2021-05-19 19:50:13,329          root     INFO: New article tracked: http://noticias.r7.com/brasil/araujo-confirma-esforco-para-trazer-insumos-de-cloroquina-da-india-18052021
-2021-05-19 19:50:13,342          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-bom-ver-quem-queria-queimar-o-stf-recorrer-a-ele-18052021
-2021-05-19 19:50:13,355          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/membro-da-cpi-da-covid-revela-ameacas-por-aplicativos-18052021
-2021-05-19 19:50:13,369          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-araujo-nega-ter-se-referido-a-china-quando-citou-comunavirus-18052021
-2021-05-19 19:50:13,380          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-diz-que-integrantes-da-comissao-estao-sendo-ameacados-18052021
-2021-05-19 19:50:13,391          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-advogado-diz-que-pazuello-esta-pronto-para-qualquer-pergunta-18052021
-2021-05-19 19:50:13,403          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-ministro-ernesto-araujo-assista-ao-vivo-18052021
-2021-05-19 19:50:13,415          root     INFO: New article tracked: http://noticias.r7.com/brasil/trafico-pf-prende-funcionarios-de-empresas-que-atuam-em-cumbica-18052021
-2021-05-19 19:50:13,428          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacao-mira-grupo-que-lava-dinheiro-do-trafico-e-da-prostituicao-18052021
-2021-05-19 19:50:13,441          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-lanca-programa-para-combater-violencia-contra-criancas-18052021
-2021-05-19 19:50:13,453          root     INFO: Finished script
+2021-05-19 19:57:40,067          root     INFO: Starting script
+2021-05-19 19:57:40,862          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-19 19:57:41,507          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-19 19:57:42,156          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-19 19:57:42,318          root     INFO: Parsing R7 - Brasil
+2021-05-19 19:57:49,646          root     INFO: Removed http://noticias.r7.com/brasil/senador-diz-que-integrantes-da-comissao-estao-sendo-ameacados-18052021
+2021-05-19 19:57:49,651          root     INFO: Removed http://noticias.r7.com/brasil/aziz-bom-ver-quem-queria-queimar-o-stf-recorrer-a-ele-18052021
+2021-05-19 19:57:49,655          root     INFO: Removed http://noticias.r7.com/brasil/cpi-araujo-nega-ter-se-referido-a-china-quando-citou-comunavirus-18052021
+2021-05-19 19:57:49,659          root     INFO: Removed http://noticias.r7.com/brasil/governo-lanca-programa-para-combater-violencia-contra-criancas-18052021
+2021-05-19 19:57:49,664          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-ministro-ernesto-araujo-assista-ao-vivo-18052021
+2021-05-19 19:57:49,667          root     INFO: Removed http://noticias.r7.com/brasil/cpi-advogado-diz-que-pazuello-esta-pronto-para-qualquer-pergunta-18052021
+2021-05-19 19:57:49,671          root     INFO: Removed http://noticias.r7.com/brasil/prtb-nega-dar-a-bolsonaro-o-comando-da-sigla-18052021
+2021-05-19 19:57:49,675          root     INFO: Removed http://noticias.r7.com/brasil/operacao-mira-grupo-que-lava-dinheiro-do-trafico-e-da-prostituicao-18052021
+2021-05-19 19:57:49,678          root     INFO: Removed http://noticias.r7.com/brasil/videos/membro-da-cpi-da-covid-revela-ameacas-por-aplicativos-18052021
+2021-05-19 19:57:49,682          root     INFO: Removed http://noticias.r7.com/brasil/trafico-pf-prende-funcionarios-de-empresas-que-atuam-em-cumbica-18052021
+2021-05-19 19:57:49,685          root     INFO: Removed http://noticias.r7.com/brasil/araujo-confirma-esforco-para-trazer-insumos-de-cloroquina-da-india-18052021
+2021-05-19 19:57:49,686          root     INFO: Finished script
