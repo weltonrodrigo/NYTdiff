@@ -1,15 +1,15 @@
-2021-05-20 18:18:49,685          root     INFO: Starting script
-2021-05-20 18:18:50,676          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-20 18:18:51,462          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-20 18:18:52,270          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-20 18:18:52,485          root     INFO: Parsing R7 - Brasil
-2021-05-20 18:18:52,641          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/eu-serei-candidato-contra-bolsonaro-diz-lula-a-revista-francesa.shtml
-2021-05-20 18:18:55,407          root     INFO: A nova edição da revista semanal francesa publica que, "para declarar sua candidatura à eleição presidencial, Lula escolhe a Paris Match". <del>Na</del> <ins>Pergunta e resposta na</ins> entrevista, com trecho publicado online <del>(abaixo)</del> e a íntegra na edição <del>impressa, a pergunta e a resposta:</del> <ins>impressa (imagem abaixo):</ins> Leia mais (05/20/2021 - 14h18)
-2021-05-20 18:18:57,298          root     INFO: Media ready with ids: 1395443944134164480
-2021-05-20 18:18:57,298          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-20 18:18:57,298          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/eu-serei-candidato-contra-bolsonaro-diz-lula-a-revista-francesa.shtml
-2021-05-20 18:18:57,308          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/eu-serei-candidato-contra-bolsonaro-diz-lula-a-revista-francesa.shtml
-2021-05-20 18:18:57,531          root     INFO: Replying to: 1395443945799405576
-2021-05-20 18:18:57,844          root     INFO: Id to store: 1395443946785067009
-2021-05-20 18:19:03,824          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/novos-tempos.shtml
-2021-05-20 18:19:03,825          root     INFO: Finished script
+2021-05-20 19:01:44,949          root     INFO: Starting script
+2021-05-20 19:01:45,946          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-20 19:01:46,716          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-20 19:01:47,490          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-20 19:01:47,714          root     INFO: Parsing R7 - Brasil
+2021-05-20 19:01:47,862          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-colonialismo-no-centro-da-questao-israel-palestina.shtml
+2021-05-20 19:01:47,938          root     INFO: Brasileiros se acostumaram a mais de mil mortes por dia em decorrência da pandemia do novo coronavírus. Apesar <del>da</del> <ins>de a</ins> doença atingir países em todos os continentes, por aqui há um agravante que reside no governo federal, que impõe um projeto de desumanidade. Leia mais (05/20/2021 - 14h00)
+2021-05-20 19:01:50,000          root     INFO: Media ready with ids: 1395454733943459846
+2021-05-20 19:01:50,001          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-20 19:01:50,001          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/05/governo-bolsonaro-tem-coronavirus-como-aliado-e-deve-responder-pelas-mortes.shtml
+2021-05-20 19:01:50,010          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/05/governo-bolsonaro-tem-coronavirus-como-aliado-e-deve-responder-pelas-mortes.shtml
+2021-05-20 19:01:50,362          root     INFO: Replying to: 1395454736753696774
+2021-05-20 19:01:50,656          root     INFO: Id to store: 1395454738007830531
+2021-05-20 19:01:58,788          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/nem-tudo-era-hollywood.shtml
+2021-05-20 19:01:58,788          root     INFO: Finished script
