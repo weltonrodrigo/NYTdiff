@@ -1,19 +1,22 @@
-2021-05-20 16:01:59,167          root     INFO: Starting script
-2021-05-20 16:02:00,347          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-20 16:02:01,005          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-20 16:02:01,668          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-20 16:02:01,947          root     INFO: Parsing R7 - Brasil
-2021-05-20 16:02:04,654          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pacheco-diz-a-empresarios-que-congresso-nao-pode-falhar-e-pede-ousadia-na-reforma-tributaria.shtml
-2021-05-20 16:02:04,670          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/policia-prende-tres-homens-suspeitos-de-planejar-atirar-ovos-no-governador-do-para.shtml
-2021-05-20 16:02:04,682          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/sob-ataque-delacao-de-cabral-foi-usada-em-10-investigacoes-no-rj-e-ate-pela-pgr-supremo-julga-validade.shtml
-2021-05-20 16:02:05,065          root     INFO: Entenda debate sobre adoção do comprovante <del>impresso</del> do voto <ins>impresso</ins> nas eleições de 2022
-2021-05-20 16:02:06,897          root     INFO: Media ready with ids: 1395409506897645574
-2021-05-20 16:02:06,898          root     INFO: Text to tweet: Modificação do Título
-2021-05-20 16:02:06,898          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/entenda-debate-sobre-adocao-do-comprovante-impresso-do-voto-nas-eleicoes-de-2022.shtml
-2021-05-20 16:02:06,909          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/entenda-debate-sobre-adocao-do-comprovante-impresso-do-voto-nas-eleicoes-de-2022.shtml
-2021-05-20 16:02:07,102          root     INFO: Replying to: 1395409508856381442
-2021-05-20 16:02:07,345          root     INFO: Id to store: 1395409509649108992
-2021-05-20 16:02:12,798          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/datafolha-para-58-bolsonaro-nao-tem-capacidade-de-liderar-o-brasil.shtml
-2021-05-20 16:02:12,803          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/datafolha-50-dizem-nunca-confiar-nas-declaracoes-de-bolsonaro-so-14-sempre-acreditam.shtml
-2021-05-20 16:02:12,808          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/lobby-por-evangelico-no-stf-inclui-conversas-com-bolsonaro-igrejas-senado-e-judiciario.shtml
-2021-05-20 16:02:12,809          root     INFO: Finished script
+2021-05-20 16:53:25,203          root     INFO: Starting script
+2021-05-20 16:53:26,011          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-20 16:53:26,668          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-20 16:53:27,318          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-20 16:53:27,540          root     INFO: Parsing R7 - Brasil
+2021-05-20 16:53:28,271          root     INFO: Em meio ao mais agudo confronto político das últimas décadas, Keiko Fujimori e Pedro Castillo se encaminham para <del>definir</del> <ins>definir,</ins> no dia 6 de junho, quem <del>irá</del> <ins>vai</ins> presidir o país a partir de 28 de julho, data na qual se comemora o bicentenário da independência do país. Leia mais (05/19/2021 - 10h10)
+2021-05-20 16:53:30,030          root     INFO: Media ready with ids: 1395422438910046210
+2021-05-20 16:53:30,031          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-20 16:53:30,031          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/peru-uma-luta-de-classe-eleitoral.shtml
+2021-05-20 16:53:30,045          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/peru-uma-luta-de-classe-eleitoral.shtml
+2021-05-20 16:53:30,247          root     INFO: Replying to: 1395422440461844482
+2021-05-20 16:53:30,505          root     INFO: Id to store: 1395422441166548999
+2021-05-20 16:53:32,587          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/boulos-diz-que-governo-mata-mais-que-pandemia-e-convoca-manifestacoes-contra-bolsonaro.shtml
+2021-05-20 16:53:32,715          root     INFO: O pastor Silas Malafaia diz à Folha que "fala quase que diariamente" com Jair Bolsonaro, seu amigo. O líder da Assembleia de Deus Vitória em Cristo foi citado nesta quinta-feira (20) pelo primogênito do presidente, o senador Flávio <del>Bolsonaro,</del> <ins>Bolsonaro (Republicanos-RJ),</ins> na CPI da Covid, como conselheiro do pai. Leia mais (05/20/2021 - 12h16)
+2021-05-20 16:53:34,478          root     INFO: Media ready with ids: 1395422457515888641
+2021-05-20 16:53:34,478          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-20 16:53:34,478          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/citado-na-cpi-malafaia-diz-falar-quase-que-diariamente-com-bolsonaro-e-que-iria-a-comissao-digo-tudo.shtml
+2021-05-20 16:53:34,487          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/citado-na-cpi-malafaia-diz-falar-quase-que-diariamente-com-bolsonaro-e-que-iria-a-comissao-digo-tudo.shtml
+2021-05-20 16:53:34,658          root     INFO: Replying to: 1395422458971295745
+2021-05-20 16:53:35,028          root     INFO: Id to store: 1395422459797643269
+2021-05-20 16:53:40,698          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/governadores-planejam-cumprir-mandato-ate-o-fim-para-conduzir-sucessao.shtml
+2021-05-20 16:53:40,698          root     INFO: Finished script
