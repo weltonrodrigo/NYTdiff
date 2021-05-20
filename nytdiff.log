@@ -1,8 +1,19 @@
-2021-05-20 14:25:41,829          root     INFO: Starting script
-2021-05-20 14:25:42,724          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-20 14:25:43,403          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-20 14:25:44,082          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-20 14:25:44,278          root     INFO: Parsing R7 - Brasil
-2021-05-20 14:25:49,091          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/iceberg-3-vezes-maior-que-a-cidade-de-sp-desprende-da-antartica-e-se-torna-o-maior-do-mundo.shtml
-2021-05-20 14:25:51,832          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/03/brechas-das-leis-estaduais-estimulam-desmatamento-na-amazonia-diz-estudo.shtml
-2021-05-20 14:25:51,833          root     INFO: Finished script
+2021-05-20 14:37:42,711          root     INFO: Starting script
+2021-05-20 14:37:43,597          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-20 14:37:44,254          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-20 14:37:44,894          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-20 14:37:45,036          root     INFO: Parsing R7 - Brasil
+2021-05-20 14:37:49,345          root     INFO: Iceberg 3 vezes maior que a cidade de SP desprende da <del>Antártica</del> <ins>Antártida</ins> e se torna o maior do mundo
+2021-05-20 14:37:51,173          root     INFO: Media ready with ids: 1395388301935267843
+2021-05-20 14:37:51,174          root     INFO: Text to tweet: Modificação do Título
+2021-05-20 14:37:51,174          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/iceberg-3-vezes-maior-que-a-cidade-de-sp-desprende-da-antartica-e-se-torna-o-maior-do-mundo.shtml
+2021-05-20 14:37:51,185          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/iceberg-3-vezes-maior-que-a-cidade-de-sp-desprende-da-antartica-e-se-torna-o-maior-do-mundo.shtml
+2021-05-20 14:37:51,412          root     INFO: Replying to: 1395388303713636353
+2021-05-20 14:37:51,633          root     INFO: Id to store: 1395388304443547650
+2021-05-20 14:37:51,641          root     INFO: Uma enorme placa de gelo, três vezes maior do que a área da cidade de São Paulo, se separou da borda congelada da <ins>Antártida</ins> e se espalhou pelo Mar de Weddell, tornando-se o maior iceberg flutuante do mundo, segundo a Agência Espacial Europeia. Leia mais (05/20/2021 - 11h06)
+2021-05-20 14:37:53,375          root     INFO: Media ready with ids: 1395388311146057728
+2021-05-20 14:37:53,375          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-20 14:37:53,375          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/iceberg-3-vezes-maior-que-a-cidade-de-sp-desprende-da-antartica-e-se-torna-o-maior-do-mundo.shtml
+2021-05-20 14:37:53,382          root     INFO: Replying to: 1395388304443547650
+2021-05-20 14:37:53,631          root     INFO: Id to store: 1395388312777596936
+2021-05-20 14:37:56,043          root     INFO: Finished script
