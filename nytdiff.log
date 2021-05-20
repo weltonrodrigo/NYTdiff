@@ -1,19 +1,13 @@
-2021-05-20 10:41:32,933          root     INFO: Starting script
-2021-05-20 10:41:33,863          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-20 10:41:34,617          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-20 10:41:35,395          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-20 10:41:35,600          root     INFO: Parsing R7 - Brasil
-2021-05-20 10:41:37,975          root     INFO: Planalto comemora proteção de Pazuello a Bolsonaro, e comando de CPI <ins>da Covid</ins> destaca contradições
-2021-05-20 10:41:39,701          root     INFO: Media ready with ids: 1395328862670794754
-2021-05-20 10:41:39,701          root     INFO: Text to tweet: Modificação do Título
-2021-05-20 10:41:39,701          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/planalto-comemora-protecao-de-pazuello-a-bolsonaro-e-comando-de-cpi-destaca-contradicoes.shtml
-2021-05-20 10:41:39,710          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/planalto-comemora-protecao-de-pazuello-a-bolsonaro-e-comando-de-cpi-destaca-contradicoes.shtml
-2021-05-20 10:41:40,112          root     INFO: Replying to: 1395328864977670144
-2021-05-20 10:41:40,405          root     INFO: Id to store: 1395328865925537797
-2021-05-20 10:41:40,411          root     INFO: Após dias de tensão devido <del>ao</del> <ins>a aproximação do</ins> depoimento do ex-ministro Eduardo Pazuello (Saúde), o Palácio do Planalto avaliou que o general teve um desempenho satisfatório em suas falas <del>desta</del> <ins>nesta</ins> quarta-feira (19) na CPI da Covid, ainda mais considerando que ele é o principal alvo da comissão. Leia mais (05/19/2021 - 23h15)
-2021-05-20 10:41:42,210          root     INFO: Media ready with ids: 1395328872997085186
-2021-05-20 10:41:42,211          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-20 10:41:42,211          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/planalto-comemora-protecao-de-pazuello-a-bolsonaro-e-comando-de-cpi-destaca-contradicoes.shtml
-2021-05-20 10:41:42,220          root     INFO: Replying to: 1395328865925537797
-2021-05-20 10:41:42,512          root     INFO: Id to store: 1395328874817507329
-2021-05-20 10:41:46,481          root     INFO: Finished script
+2021-05-20 10:57:34,465          root     INFO: Starting script
+2021-05-20 10:57:35,315          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-20 10:57:35,980          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-20 10:57:36,646          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-20 10:57:36,791          root     INFO: Parsing R7 - Brasil
+2021-05-20 10:57:39,878          root     INFO: Deputado pede que Salles e presidente do Ibama vão à Câmara <del>explicarem</del> <ins>explicar</ins> denúncias
+2021-05-20 10:57:41,640          root     INFO: Media ready with ids: 1395332897444450310
+2021-05-20 10:57:41,640          root     INFO: Text to tweet: Modificação do Título
+2021-05-20 10:57:41,640          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/deputado-pede-que-salles-e-presidente-do-ibama-vao-a-camara-explicarem-denuncias.shtml
+2021-05-20 10:57:41,649          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/deputado-pede-que-salles-e-presidente-do-ibama-vao-a-camara-explicarem-denuncias.shtml
+2021-05-20 10:57:41,857          root     INFO: Replying to: 1395332898862010368
+2021-05-20 10:57:42,086          root     INFO: Id to store: 1395332899629584385
+2021-05-20 10:57:47,658          root     INFO: Finished script
