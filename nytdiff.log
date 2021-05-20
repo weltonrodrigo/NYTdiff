@@ -1,22 +1,25 @@
-2021-05-20 16:53:25,203          root     INFO: Starting script
-2021-05-20 16:53:26,011          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-20 16:53:26,668          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-20 16:53:27,318          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-20 16:53:27,540          root     INFO: Parsing R7 - Brasil
-2021-05-20 16:53:28,271          root     INFO: Em meio ao mais agudo confronto político das últimas décadas, Keiko Fujimori e Pedro Castillo se encaminham para <del>definir</del> <ins>definir,</ins> no dia 6 de junho, quem <del>irá</del> <ins>vai</ins> presidir o país a partir de 28 de julho, data na qual se comemora o bicentenário da independência do país. Leia mais (05/19/2021 - 10h10)
-2021-05-20 16:53:30,030          root     INFO: Media ready with ids: 1395422438910046210
-2021-05-20 16:53:30,031          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-20 16:53:30,031          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/peru-uma-luta-de-classe-eleitoral.shtml
-2021-05-20 16:53:30,045          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/peru-uma-luta-de-classe-eleitoral.shtml
-2021-05-20 16:53:30,247          root     INFO: Replying to: 1395422440461844482
-2021-05-20 16:53:30,505          root     INFO: Id to store: 1395422441166548999
-2021-05-20 16:53:32,587          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/boulos-diz-que-governo-mata-mais-que-pandemia-e-convoca-manifestacoes-contra-bolsonaro.shtml
-2021-05-20 16:53:32,715          root     INFO: O pastor Silas Malafaia diz à Folha que "fala quase que diariamente" com Jair Bolsonaro, seu amigo. O líder da Assembleia de Deus Vitória em Cristo foi citado nesta quinta-feira (20) pelo primogênito do presidente, o senador Flávio <del>Bolsonaro,</del> <ins>Bolsonaro (Republicanos-RJ),</ins> na CPI da Covid, como conselheiro do pai. Leia mais (05/20/2021 - 12h16)
-2021-05-20 16:53:34,478          root     INFO: Media ready with ids: 1395422457515888641
-2021-05-20 16:53:34,478          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-20 16:53:34,478          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/citado-na-cpi-malafaia-diz-falar-quase-que-diariamente-com-bolsonaro-e-que-iria-a-comissao-digo-tudo.shtml
-2021-05-20 16:53:34,487          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/citado-na-cpi-malafaia-diz-falar-quase-que-diariamente-com-bolsonaro-e-que-iria-a-comissao-digo-tudo.shtml
-2021-05-20 16:53:34,658          root     INFO: Replying to: 1395422458971295745
-2021-05-20 16:53:35,028          root     INFO: Id to store: 1395422459797643269
-2021-05-20 16:53:40,698          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/governadores-planejam-cumprir-mandato-ate-o-fim-para-conduzir-sucessao.shtml
-2021-05-20 16:53:40,698          root     INFO: Finished script
+2021-05-20 17:36:55,653          root     INFO: Starting script
+2021-05-20 17:36:56,548          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-20 17:36:57,234          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-20 17:36:57,923          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-20 17:36:58,023          root     INFO: Parsing R7 - Brasil
+2021-05-20 17:36:58,472          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/05/governo-bolsonaro-tem-coronavirus-como-aliado-e-deve-responder-pelas-mortes.shtml
+2021-05-20 17:37:01,227          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/eu-serei-candidato-contra-bolsonaro-diz-lula-a-revista-francesa.shtml
+2021-05-20 17:37:01,241          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/apos-ligar-centrao-a-ladroes-general-heleno-agora-diz-que-mudou-de-opiniao-e-que-bloco-nem-sequer-existe.shtml
+2021-05-20 17:37:01,395          root     INFO: O pastor Silas Malafaia <del>diz</del> <ins>disse</ins> à Folha que "fala quase que diariamente" com Jair Bolsonaro, seu amigo. O líder da Assembleia de Deus Vitória em Cristo foi citado nesta quinta-feira (20) pelo primogênito do presidente, o senador Flávio <del>Bolsonaro,</del> <ins>Bolsonaro (Republicanos-RJ),</ins> na CPI da Covid, como conselheiro do pai. Leia mais (05/20/2021 - 12h16)
+2021-05-20 17:37:03,246          root     INFO: Media ready with ids: 1395433399490334721
+2021-05-20 17:37:03,247          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-20 17:37:03,247          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/citado-na-cpi-malafaia-diz-falar-quase-que-diariamente-com-bolsonaro-e-que-iria-a-comissao-digo-tudo.shtml
+2021-05-20 17:37:03,256          root     INFO: Replying to: 1395422459797643269
+2021-05-20 17:37:03,481          root     INFO: Id to store: 1395433400933232643
+2021-05-20 17:37:03,529          root     INFO: O ex-presidente Luiz Inácio Lula da Silva <del>(PT-SP)</del> <ins>(PT)</ins> elogiou <del>um outro ex-ocupante do Palácio do Planalto,</del> Fernando Henrique Cardoso <del>(PSDB-SP),</del> <ins>(PSDB)</ins> após <del>o tucano conceder uma</del> entrevista <ins>do tucano</ins> ao programa <del>"Conversa</del> <ins>Conversa</ins> com <del>Bial",</del> <ins>Bial,</ins> da TV Globo. Leia mais (05/20/2021 - 09h57)
+2021-05-20 17:37:08,256          root     INFO: Media ready with ids: 1395433420499587073
+2021-05-20 17:37:08,257          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-20 17:37:08,257          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fhc-diz-que-votaria-em-lula-em-2o-turno-contra-bolsonaro-e-petista-elogia-tucano.shtml
+2021-05-20 17:37:08,268          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fhc-diz-que-votaria-em-lula-em-2o-turno-contra-bolsonaro-e-petista-elogia-tucano.shtml
+2021-05-20 17:37:08,437          root     INFO: Replying to: 1395433421988634633
+2021-05-20 17:37:08,766          root     INFO: Id to store: 1395433422764617735
+2021-05-20 17:37:14,650          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/05/os-bilhoes-dos-milhoes-de-vacinas.shtml
+2021-05-20 17:37:14,654          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/farei-uma-continuacao-da-gestao-bruno-covas-ate-2024-diz-nunes-que-assumira-prefeitura-de-sp.shtml
+2021-05-20 17:37:14,659          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/um-pt-sem-autocritica-poderia-reeleger-bolsonaro.shtml
+2021-05-20 17:37:14,660          root     INFO: Finished script
