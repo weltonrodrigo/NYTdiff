@@ -1,32 +1,6 @@
-2021-05-21 14:26:11,199          root     INFO: Starting script
-2021-05-21 14:26:12,060          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 14:26:12,747          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 14:26:13,439          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 14:26:13,587          root     INFO: Parsing R7 - Brasil
-2021-05-21 14:26:13,732          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/05/justica-manda-romario-pagar-r-184-mil-a-dirigente-que-chamou-de-safado-e-ladrao.shtml
-2021-05-21 14:26:13,751          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauro-calliari/2021/05/os-muitos-desafios-do-novo-prefeito-de-sao-paulo.shtml
-2021-05-21 14:26:16,564          root     INFO: Os ex-presidentes Fernando Henrique Cardoso e Lula se reuniram há alguns dias no apartamento do ex-ministro do STF e ex-ministro da Justiça <ins>e da Defesa</ins> Nelson Jobim. Leia mais (05/21/2021 - 10h04)
-2021-05-21 14:26:18,291          root     INFO: Media ready with ids: 1395747783773204481
-2021-05-21 14:26:18,291          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-21 14:26:18,291          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/fhc-e-lula-se-reunem-na-casa-de-ex-ministro-nelson-jobim.shtml
-2021-05-21 14:26:18,300          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/fhc-e-lula-se-reunem-na-casa-de-ex-ministro-nelson-jobim.shtml
-2021-05-21 14:26:18,488          root     INFO: Replying to: 1395747785283092483
-2021-05-21 14:26:18,749          root     INFO: Id to store: 1395747786067427330
-2021-05-21 14:26:20,078          root     INFO: <del>Qual</del> <ins>Confira</ins> legenda <del>você daria para a</del> <ins>vencedora de concurso sobre</ins> foto de Pazuello <del>com uma máscara entre os olhos e a boca</del> na <del>CPI?</del> <ins>CPI</ins>
-2021-05-21 14:26:21,708          root     INFO: Media ready with ids: 1395747798218387457
-2021-05-21 14:26:21,709          root     INFO: Text to tweet: Modificação do Título
-2021-05-21 14:26:21,709          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2021/05/qual-legenda-voce-daria-para-a-foto-de-pazuello-com-uma-mascara-entre-os-olhos-e-a-boca-na-cpi.shtml
-2021-05-21 14:26:21,719          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2021/05/qual-legenda-voce-daria-para-a-foto-de-pazuello-com-uma-mascara-entre-os-olhos-e-a-boca-na-cpi.shtml
-2021-05-21 14:26:21,982          root     INFO: Replying to: 1395747799615082503
-2021-05-21 14:26:22,197          root     INFO: Id to store: 1395747800600694790
-2021-05-21 14:26:22,204          root     INFO: O ex-ministro da Saúde Eduardo Pazuello prestou depoimento na CPI da Covid <del>nesta</del> <ins>na</ins> quarta-feira <del>(19).</del> <ins>(19) e quinta-feira (20).</ins> Ele negou <del>em sua fala</del> ter recebido ordens do presidente Jair Bolsonaro (sem partido) para cancelar acordo com o Instituto Butantan no período em que esteve à frente da pasta -embora vídeos da época mostrem o contrário. Por horas, ele tentou blindar Bolsonaro de responsabilidade pela situação da pandemia no Brasil. Leia mais (05/19/2021 - 20h10)
-2021-05-21 14:26:23,976          root     INFO: Media ready with ids: 1395747807458385924
-2021-05-21 14:26:23,978          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-21 14:26:23,978          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2021/05/qual-legenda-voce-daria-para-a-foto-de-pazuello-com-uma-mascara-entre-os-olhos-e-a-boca-na-cpi.shtml
-2021-05-21 14:26:23,991          root     INFO: Replying to: 1395747800600694790
-2021-05-21 14:26:24,226          root     INFO: Id to store: 1395747809152864257
-2021-05-21 14:26:25,719          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/governo-de-rondonia-sanciona-reducao-recorde-de-areas-protegidas.shtml
-2021-05-21 14:26:29,007          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2021/05/pais-do-futuro.shtml
-2021-05-21 14:26:29,012          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/04/justica-climatica-na-america-latina.shtml
-2021-05-21 14:26:29,016          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/do-mensalao-ao-bolsolao.shtml
-2021-05-21 14:26:29,017          root     INFO: Finished script
+2021-05-21 14:40:05,081          root     INFO: Starting script
+2021-05-21 14:40:06,038          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 14:40:06,812          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 14:40:07,598          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 14:40:07,790          root     INFO: Parsing R7 - Brasil
+2021-05-21 14:40:15,977          root     INFO: Finished script
