@@ -1,8 +1,28 @@
-2021-05-21 23:00:02,285          root     INFO: Starting script
-2021-05-21 23:00:03,217          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 23:00:03,992          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 23:00:04,762          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 23:00:04,997          root     INFO: Parsing R7 - Brasil
-2021-05-21 23:00:07,399          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/bolsonaro-e-autuado-por-andar-sem-mascara-e-causar-aglomeracao-no-maranhao.shtml
-2021-05-21 23:00:12,375          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pgr-diz-que-cabral-tenta-constranger-autoridades-publicas-em-seu-acordo-de-delacao.shtml
-2021-05-21 23:00:12,375          root     INFO: Finished script
+2021-05-21 23:29:08,416          root     INFO: Starting script
+2021-05-21 23:29:09,211          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 23:29:09,853          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 23:29:10,507          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 23:29:10,884          root     INFO: Parsing R7 - Brasil
+2021-05-21 23:29:13,409          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/lewandowski-do-stf-da-a-capita-cloroquina-direito-de-se-calar-sobre-crise-no-amazonas-em-cpi.shtml
+2021-05-21 23:29:13,449          root     INFO: <ins>Governo do Maranhão cogita multa de R$ 100 mil a</ins> Bolsonaro <del>é autuado</del> por andar sem máscara e causar aglomeração <del>no Maranhão</del>
+2021-05-21 23:29:15,171          root     INFO: Media ready with ids: 1395884421119676418
+2021-05-21 23:29:15,171          root     INFO: Text to tweet: Modificação do Título
+2021-05-21 23:29:15,172          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/bolsonaro-e-autuado-por-andar-sem-mascara-e-causar-aglomeracao-no-maranhao.shtml
+2021-05-21 23:29:15,180          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/bolsonaro-e-autuado-por-andar-sem-mascara-e-causar-aglomeracao-no-maranhao.shtml
+2021-05-21 23:29:15,497          root     INFO: Replying to: 1395884423158063108
+2021-05-21 23:29:15,733          root     INFO: Id to store: 1395884423938203648
+2021-05-21 23:29:15,740          root     INFO: <del>A secretaria de Saúde</del> <ins>O governo</ins> do Maranhão <del>registrou um auto</del> <ins>cogita aplicar multa</ins> de <del>infração contra o presidente</del> <ins>R$ 100 mil em</ins> Jair Bolsonaro por <del>descumprimento de normas</del> <ins>não respeitar regras</ins> sanitárias <del>durante</del> <ins>em</ins> visita ao <del>estado nesta sexta-feira (21).</del> <ins>estado.</ins> Leia mais (05/21/2021 - 19h57)
+2021-05-21 23:29:17,529          root     INFO: Media ready with ids: 1395884430477115393
+2021-05-21 23:29:17,529          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-21 23:29:17,529          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/bolsonaro-e-autuado-por-andar-sem-mascara-e-causar-aglomeracao-no-maranhao.shtml
+2021-05-21 23:29:17,538          root     INFO: Replying to: 1395884423938203648
+2021-05-21 23:29:17,789          root     INFO: Id to store: 1395884432423325697
+2021-05-21 23:29:17,832          root     INFO: Governo de Flávio Dino multa Bolsonaro <ins>e presidente pode pagar até R$ 1,5 mi</ins> por <del>fazer</del> aglomeração
+2021-05-21 23:29:19,464          root     INFO: Media ready with ids: 1395884439302033408
+2021-05-21 23:29:19,464          root     INFO: Text to tweet: Modificação do Título
+2021-05-21 23:29:19,464          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/governo-de-flavio-dino-multa-bolsonaro-por-fazer-aglomeracao.shtml
+2021-05-21 23:29:19,473          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/governo-de-flavio-dino-multa-bolsonaro-por-fazer-aglomeracao.shtml
+2021-05-21 23:29:19,647          root     INFO: Replying to: 1395884440602152962
+2021-05-21 23:29:19,861          root     INFO: Id to store: 1395884441235562498
+2021-05-21 23:29:24,921          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/justica-do-trabalho-exclui-psb-de-processo-para-indenizar-copiloto-de-aviao-que-caiu-com-eduardo-campos.shtml
+2021-05-21 23:29:24,922          root     INFO: Finished script
