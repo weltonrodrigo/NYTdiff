@@ -1,15 +1,19 @@
-2021-05-21 17:38:46,883          root     INFO: Starting script
-2021-05-21 17:38:47,892          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 17:38:48,685          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 17:38:49,501          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 17:38:49,719          root     INFO: Parsing R7 - Brasil
-2021-05-21 17:38:49,864          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/05/judas-e-o-messias-negro-e-quo-vadis-aida-retratam-o-colapso-da-politica.shtml
-2021-05-21 17:38:49,915          root     INFO: Romário terá de pagar uma indenização de R$ 18,4 mil por danos morais ao ex-presidente da CBF (Confederação Brasileira de Futebol) Marco Polo Del Nero. A determinação foi feita pelo juiz Regis de Castilho Barbosa Filho, da 41ª Vara Cível de São Paulo. Se não fizer o pagamento em um prazo de 15 dias úteis, de acordo com a decisão, o ex-jogador de futebol, hoje senador, terá os valores bloqueados em suas contas bancárias. Romário foi condenado <ins>pelo STJ (Superior Tribunal de Justiça)</ins> a pagar a indenização em razão de uma entrevista dada em 2017 ao "Bem Amigos", do SporTV. No programa, chamou Del Nero de "mau-caráter", de "corrupto", "safado" e "ladrão". Seis meses depois da entrevista, o dirigente esportivo foi banido do esporte pela Fifa sob acusação de corrupção. À época, Del Nero se disse surpreso e indignado com a decisão. Leia mais (05/21/2021 - 11h09)
-2021-05-21 17:38:52,020          root     INFO: Media ready with ids: 1395796243222253575
-2021-05-21 17:38:52,021          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-21 17:38:52,021          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/05/justica-manda-romario-pagar-r-184-mil-a-dirigente-que-chamou-de-safado-e-ladrao.shtml
-2021-05-21 17:38:52,031          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/05/justica-manda-romario-pagar-r-184-mil-a-dirigente-que-chamou-de-safado-e-ladrao.shtml
-2021-05-21 17:38:52,298          root     INFO: Replying to: 1395796245436850177
-2021-05-21 17:38:52,603          root     INFO: Id to store: 1395796246426759169
-2021-05-21 17:39:01,862          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2021/05/e-se-retirassemos-os-automoveis-das-ruas.shtml
-2021-05-21 17:39:01,864          root     INFO: Finished script
+2021-05-21 18:20:07,676          root     INFO: Starting script
+2021-05-21 18:20:08,689          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 18:20:09,497          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 18:20:10,286          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 18:20:10,449          root     INFO: Parsing R7 - Brasil
+2021-05-21 18:20:10,639          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/pintar-israel-como-o-maior-vilao-internacional-e-antissemitismo-secundario.shtml
+2021-05-21 18:20:10,694          root     INFO: São filmes diversos no tempo e no espaço, na estética e no escopo. "Judas e o Messias Negro" encena o choque entre militantes negros e o poder branco nos Estados Unidos dos anos <del>de</del> 1960. "Quo Vadis, Aida?" mostra uma chacina na Bósnia. Mas algo os aproxima: o colapso da política. Leia mais (05/21/2021 - 14h00)
+2021-05-21 18:20:12,582          root     INFO: Media ready with ids: 1395806647742836738
+2021-05-21 18:20:12,582          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-21 18:20:12,582          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/05/judas-e-o-messias-negro-e-quo-vadis-aida-retratam-o-colapso-da-politica.shtml
+2021-05-21 18:20:12,595          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/05/judas-e-o-messias-negro-e-quo-vadis-aida-retratam-o-colapso-da-politica.shtml
+2021-05-21 18:20:12,846          root     INFO: Replying to: 1395806649600851972
+2021-05-21 18:20:13,133          root     INFO: Id to store: 1395806650569826308
+2021-05-21 18:20:16,482          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/email-entregue-a-cpi-revela-alerta-da-pfizer-a-bolsonaro-ja-em-marco-de-2020-sobre-solucoes-a-pandemia.shtml
+2021-05-21 18:20:16,502          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/presidente-do-pcdob-acusa-bolsonaro-de-fazer-propaganda-eleitoral-e-vai-a-justica.shtml
+2021-05-21 18:20:23,161          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/michel-temer-liga-pra-nunes-para-desejar-sorte-e-oferece-suporte-do-mdb.shtml
+2021-05-21 18:20:23,168          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/05/virgindade-politica.shtml
+2021-05-21 18:20:23,175          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-quer-usar-depoimento-de-ernesto-para-mirar-eduardo-bolsonaro-e-assessor-da-presidencia.shtml
+2021-05-21 18:20:23,176          root     INFO: Finished script
