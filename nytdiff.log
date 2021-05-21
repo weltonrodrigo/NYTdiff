@@ -1,12 +1,10 @@
-2021-05-21 19:05:18,970          root     INFO: Starting script
-2021-05-21 19:05:20,157          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 19:05:20,824          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 19:05:21,471          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 19:05:21,727          root     INFO: Parsing R7 - Brasil
-2021-05-21 19:05:21,867          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/equador-entre-o-conflito-de-poderes-e-a-boa-governanca.shtml
-2021-05-21 19:05:24,334          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/entidades-cobram-supremo-para-reverter-grave-injustica-em-caso-de-jornalista-ferido-em-manifestacao.shtml
-2021-05-21 19:05:24,346          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/gilmar-mendes-pede-investigacao-contra-delegado-por-abuso-de-autoridade-e-vazamento-de-inquerito-contra-toffoli.shtml
-2021-05-21 19:05:29,458          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/em-time-que-esta-ganhando-nao-se-mexe-diz-presidente-da-camara-de-sp-apos-morte-de-covas.shtml
-2021-05-21 19:05:29,463          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/leituras-a-dois.shtml
-2021-05-21 19:05:29,467          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/capita-cloroquina-pediu-desfiliacao-do-novo-por-discordar-de-posicoes-contra-bolsonaro.shtml
-2021-05-21 19:05:29,468          root     INFO: Finished script
+2021-05-21 19:36:51,104          root     INFO: Starting script
+2021-05-21 19:36:52,109          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 19:36:52,918          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 19:36:53,712          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 19:36:53,930          root     INFO: Parsing R7 - Brasil
+2021-05-21 19:36:56,897          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/foto-de-lula-com-fhc-causa-incomodo-no-psdb-anima-pt-e-irrita-entusiastas-da-3a-via.shtml
+2021-05-21 19:36:56,911          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-e-o-grande-padrinho-do-encontro-entre-fhc-e-lula.shtml
+2021-05-21 19:37:02,939          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/aliado-de-bolsonaro-pp-faz-jogo-duplo-e-amplia-espaco-em-governos-de-esquerda-no-nordeste.shtml
+2021-05-21 19:37:02,944          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/nunes-avisa-mdb-de-sondagens-do-psdb-e-partido-quer-que-ele-seja-vitrine-em-sp.shtml
+2021-05-21 19:37:02,944          root     INFO: Finished script
