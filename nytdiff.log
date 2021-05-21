@@ -1,12 +1,17 @@
-2021-05-21 00:44:31,309          root     INFO: Starting script
-2021-05-21 00:44:32,150          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 00:44:32,791          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 00:44:33,438          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 00:44:33,592          root     INFO: Parsing R7 - Brasil
-2021-05-21 00:44:36,047          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/morre-aos-45-anos-o-procurador-alessandro-oliveira-chefe-da-lava-jato-em-curitiba.shtml
-2021-05-21 00:44:36,061          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-chama-fhc-de-cara-de-pau-e-sugere-financiar-mst-para-que-invada-fazenda-do-ex-presidente.shtml
-2021-05-21 00:44:36,074          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ex-deputado-jean-wyllys-anuncia-saida-do-psol-e-filiacao-ao-pt.shtml
-2021-05-21 00:44:41,011          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/falta-de-vacinas-contra-a-covid-reflete-estrategia-que-falhou.shtml
-2021-05-21 00:44:41,019          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2021/05/cpi-vai-descobrindo-quem-mandou-e-quem-obedeceu-nos-crimes-da-pandemia.shtml
-2021-05-21 00:44:41,023          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/relatorio-diz-que-lei-de-seguranca-nacional-sob-bolsonaro-e-usada-para-calar-a-oposicao.shtml
-2021-05-21 00:44:41,023          root     INFO: Finished script
+2021-05-21 02:00:53,797          root     INFO: Starting script
+2021-05-21 02:00:54,759          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 02:00:55,549          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 02:00:56,346          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 02:00:56,587          root     INFO: Parsing R7 - Brasil
+2021-05-21 02:00:56,741          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2021/05/onde-esta-meu-coracao-traz-delicadeza-ao-quebrar-estereotipos-sobre-o-crack.shtml
+2021-05-21 02:00:56,755          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/brasil-vai-ate-xinjiang-e-volta-com-insumos-para-as-vacinas.shtml
+2021-05-21 02:00:59,831          root     INFO: Bolsonaro blindado, vacinas da Pfizer e crise em Manaus; veja <del>cinco</del> <ins>sete</ins> pontos da fala de Pazuello na CPI
+2021-05-21 02:01:01,632          root     INFO: Media ready with ids: 1395560228477935619
+2021-05-21 02:01:01,633          root     INFO: Text to tweet: Modificação do Título
+2021-05-21 02:01:01,633          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-blindado-vacinas-da-pfizer-e-crise-em-manaus-veja-cinco-pontos-da-fala-de-pazuello-na-cpi.shtml
+2021-05-21 02:01:01,644          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-blindado-vacinas-da-pfizer-e-crise-em-manaus-veja-cinco-pontos-da-fala-de-pazuello-na-cpi.shtml
+2021-05-21 02:01:02,035          root     INFO: Replying to: 1395560230302461956
+2021-05-21 02:01:02,455          root     INFO: Id to store: 1395560231711739905
+2021-05-21 02:01:07,250          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/05/o-que-os-eua-sem-mascara-dizem-sobre-vacina-e-epidemia-no-brasil.shtml
+2021-05-21 02:01:07,255          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/05/festa-do-santo-reis.shtml
+2021-05-21 02:01:07,257          root     INFO: Finished script
