@@ -1,15 +1,6 @@
-2021-05-21 13:46:44,662          root     INFO: Starting script
-2021-05-21 13:46:45,558          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 13:46:46,258          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 13:46:46,950          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 13:46:47,270          root     INFO: Parsing R7 - Brasil
-2021-05-21 13:46:47,781          root     INFO: O recenseamento da China oferece um novo retrato do país. Mundo afora, as manchetes destacaram o tamanho da população chinesa -1,411 bilhão, que logo começará a encolher. E a taxa de <del>fertilidade</del> <ins>fecundidade</ins> do país -1,3 filho por mulher, bem inferior aos 2,1 necessários para manter a população estável. Leia mais (05/20/2021 - 23h15)
-2021-05-21 13:46:49,567          root     INFO: Media ready with ids: 1395737848578514945
-2021-05-21 13:46:49,567          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-21 13:46:49,567          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/05/censo-chines-estimula-mudanca-de-politicas-e-de-estrategias-empresariais.shtml
-2021-05-21 13:46:49,575          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/05/censo-chines-estimula-mudanca-de-politicas-e-de-estrategias-empresariais.shtml
-2021-05-21 13:46:49,808          root     INFO: Replying to: 1395737850189172744
-2021-05-21 13:46:50,033          root     INFO: Id to store: 1395737851019632643
-2021-05-21 13:46:52,731          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/fhc-e-lula-se-reunem-na-casa-de-ex-ministro-nelson-jobim.shtml
-2021-05-21 13:46:59,045          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/moro-diz-que-mensagens-hackeadas-foram-usadas-com-sensacionalismo-para-anular-condenacoes-de-corrupcao.shtml
-2021-05-21 13:46:59,046          root     INFO: Finished script
+2021-05-21 14:01:36,482          root     INFO: Starting script
+2021-05-21 14:01:37,634          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 14:01:38,410          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 14:01:39,209          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 14:01:39,447          root     INFO: Parsing R7 - Brasil
+2021-05-21 14:01:46,031          root     INFO: Finished script
