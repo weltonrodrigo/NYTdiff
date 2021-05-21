@@ -1,15 +1,8 @@
-2021-05-21 03:50:08,520          root     INFO: Starting script
-2021-05-21 03:50:09,585          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 03:50:10,366          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 03:50:11,160          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 03:50:11,414          root     INFO: Parsing R7 - Brasil
-2021-05-21 03:50:14,309          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/reforma-do-codigo-de-processo-penal-devera-ser-votado-no-comeco-de-junho-dizem-parlamentares.shtml
-2021-05-21 03:50:14,380          root     INFO: Bolsonaro peregrina, sem máscara, por bases da PRF, que tem alta taxa de contaminação de <del>covid</del> <ins>Covid</ins>
-2021-05-21 03:50:16,358          root     INFO: Media ready with ids: 1395587721087815688
-2021-05-21 03:50:16,358          root     INFO: Text to tweet: Modificação do Título
-2021-05-21 03:50:16,358          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/bolsonaro-peregrina-sem-mascara-por-bases-da-prf-que-tem-alta-taxa-de-contaminacao-de-covid.shtml
-2021-05-21 03:50:16,369          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/bolsonaro-peregrina-sem-mascara-por-bases-da-prf-que-tem-alta-taxa-de-contaminacao-de-covid.shtml
-2021-05-21 03:50:16,652          root     INFO: Replying to: 1395587722908217346
-2021-05-21 03:50:16,921          root     INFO: Id to store: 1395587723847737344
-2021-05-21 03:50:22,853          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/pgr-analisa-delacao-de-advogado-que-diz-ter-sido-laranja-de-aecio-em-compra-de-apartamento.shtml
-2021-05-21 03:50:22,855          root     INFO: Finished script
+2021-05-21 04:10:09,884          root     INFO: Starting script
+2021-05-21 04:10:10,887          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 04:10:11,717          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 04:10:12,508          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 04:10:12,733          root     INFO: Parsing R7 - Brasil
+2021-05-21 04:10:12,883          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2021/05/a-enganosa-dor-de-cabeca.shtml
+2021-05-21 04:10:22,596          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/sandice-impressa.shtml
+2021-05-21 04:10:22,597          root     INFO: Finished script
