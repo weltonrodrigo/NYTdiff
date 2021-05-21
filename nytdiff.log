@@ -1,13 +1,11 @@
-2021-05-21 10:57:07,934          root     INFO: Starting script
-2021-05-21 10:57:08,929          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 10:57:09,716          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 10:57:10,509          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 10:57:10,694          root     INFO: Parsing R7 - Brasil
-2021-05-21 10:57:13,678          root     INFO: <del>Reforma</del> <ins>Relatório de reforma</ins> do Código de Processo Penal deverá ser votado no começo de junho, dizem parlamentares
-2021-05-21 10:57:15,455          root     INFO: Media ready with ids: 1395695175452741632
-2021-05-21 10:57:15,456          root     INFO: Text to tweet: Modificação do Título
-2021-05-21 10:57:15,456          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/reforma-do-codigo-de-processo-penal-devera-ser-votado-no-comeco-de-junho-dizem-parlamentares.shtml
-2021-05-21 10:57:15,467          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/reforma-do-codigo-de-processo-penal-devera-ser-votado-no-comeco-de-junho-dizem-parlamentares.shtml
-2021-05-21 10:57:15,739          root     INFO: Replying to: 1395695177155715080
-2021-05-21 10:57:16,004          root     INFO: Id to store: 1395695178044805125
-2021-05-21 10:57:22,016          root     INFO: Finished script
+2021-05-21 11:12:32,140          root     INFO: Starting script
+2021-05-21 11:12:33,125          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 11:12:33,914          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 11:12:34,707          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 11:12:34,939          root     INFO: Parsing R7 - Brasil
+2021-05-21 11:12:37,745          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/entenda-a-advocacia-popular-e-os-meios-de-atendimento-juridico-as-minorias-sociais.shtml
+2021-05-21 11:12:43,409          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-luiz-gomes-mattos-faz-visita-ao-presidente-da-record-tv-20052021
+2021-05-21 11:12:43,423          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-despista-sobre-acao-contra-salles-segue-o-baile-aguardemos-20052021
+2021-05-21 11:12:43,437          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-culpa-governo-do-amazonas-por-colapso-no-estado-20052021
+2021-05-21 11:12:43,452          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/tem-alguns-idiotas-que-ate-hoje-ficam-em-casa-diz-bolsonaro-sobre-isolamento-na-pandemia.shtml
+2021-05-21 11:12:43,453          root     INFO: Finished script
