@@ -1,19 +1,15 @@
-2021-05-21 16:54:07,085          root     INFO: Starting script
-2021-05-21 16:54:07,863          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 16:54:08,496          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 16:54:09,130          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 16:54:09,366          root     INFO: Parsing R7 - Brasil
-2021-05-21 16:54:11,695          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/video-enganoso-de-2018-volta-a-viralizar-para-desacreditar-datafolha.shtml
-2021-05-21 16:54:16,429          root     INFO: Removed http://noticias.r7.com/brasil/fachin-e-gilmar-votam-contra-a-validade-da-delacao-de-cabral-21052021
-2021-05-21 16:54:16,433          root     INFO: Removed http://noticias.r7.com/brasil/coronel-da-policia-militar-de-sao-paulo-assume-chefia-do-ibama-21052021
-2021-05-21 16:54:16,436          root     INFO: Removed http://noticias.r7.com/brasil/servidores-de-cargos-extintos-custam-bilhoes-aos-cofres-publicos-21052021
-2021-05-21 16:54:16,440          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-ja-defendeu-tortura-para-quem-pediu-para-se-calar-em-cpi-como-pazuello-fez-agora.shtml
-2021-05-21 16:54:16,443          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-chama-flavio-dino-de-ditador-em-evento-no-maranhao-21052021
-2021-05-21 16:54:16,447          root     INFO: Removed http://noticias.r7.com/brasil/apos-parar-producao-fiocruz-entrega-hoje-53-milhoes-de-vacinas-21052021
-2021-05-21 16:54:16,450          root     INFO: Removed http://noticias.r7.com/brasil/live-jr-debate-conflito-entre-israel-e-o-grupo-extremista-hamas-21052021
-2021-05-21 16:54:16,454          root     INFO: Removed http://noticias.r7.com/brasil/fachin-cobra-cameras-na-farda-de-policiais-apos-acao-no-jacarezinho-21052021
-2021-05-21 16:54:16,457          root     INFO: Removed http://noticias.r7.com/brasil/supremo-julga-validade-da-delacao-premiada-de-sergio-cabral-21052021
-2021-05-21 16:54:16,461          root     INFO: Removed http://noticias.r7.com/brasil/lula-corre-9-km-por-dia-e-se-inspira-em-biden-diz-jornal-britanico-21052021
-2021-05-21 16:54:16,465          root     INFO: Removed http://noticias.r7.com/brasil/fachin-vota-pela-suspensao-de-concurso-da-pf-no-domingo-23-21052021
-2021-05-21 16:54:16,469          root     INFO: Removed http://noticias.r7.com/brasil/procurador-que-comandou-a-lava-jato-morre-aos-45-anos-21052021
-2021-05-21 16:54:16,470          root     INFO: Finished script
+2021-05-21 17:38:46,883          root     INFO: Starting script
+2021-05-21 17:38:47,892          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 17:38:48,685          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 17:38:49,501          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 17:38:49,719          root     INFO: Parsing R7 - Brasil
+2021-05-21 17:38:49,864          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/05/judas-e-o-messias-negro-e-quo-vadis-aida-retratam-o-colapso-da-politica.shtml
+2021-05-21 17:38:49,915          root     INFO: Romário terá de pagar uma indenização de R$ 18,4 mil por danos morais ao ex-presidente da CBF (Confederação Brasileira de Futebol) Marco Polo Del Nero. A determinação foi feita pelo juiz Regis de Castilho Barbosa Filho, da 41ª Vara Cível de São Paulo. Se não fizer o pagamento em um prazo de 15 dias úteis, de acordo com a decisão, o ex-jogador de futebol, hoje senador, terá os valores bloqueados em suas contas bancárias. Romário foi condenado <ins>pelo STJ (Superior Tribunal de Justiça)</ins> a pagar a indenização em razão de uma entrevista dada em 2017 ao "Bem Amigos", do SporTV. No programa, chamou Del Nero de "mau-caráter", de "corrupto", "safado" e "ladrão". Seis meses depois da entrevista, o dirigente esportivo foi banido do esporte pela Fifa sob acusação de corrupção. À época, Del Nero se disse surpreso e indignado com a decisão. Leia mais (05/21/2021 - 11h09)
+2021-05-21 17:38:52,020          root     INFO: Media ready with ids: 1395796243222253575
+2021-05-21 17:38:52,021          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-21 17:38:52,021          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/05/justica-manda-romario-pagar-r-184-mil-a-dirigente-que-chamou-de-safado-e-ladrao.shtml
+2021-05-21 17:38:52,031          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/05/justica-manda-romario-pagar-r-184-mil-a-dirigente-que-chamou-de-safado-e-ladrao.shtml
+2021-05-21 17:38:52,298          root     INFO: Replying to: 1395796245436850177
+2021-05-21 17:38:52,603          root     INFO: Id to store: 1395796246426759169
+2021-05-21 17:39:01,862          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2021/05/e-se-retirassemos-os-automoveis-das-ruas.shtml
+2021-05-21 17:39:01,864          root     INFO: Finished script
