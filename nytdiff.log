@@ -1,13 +1,20 @@
-2021-05-21 09:58:13,890          root     INFO: Starting script
-2021-05-21 09:58:15,067          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 09:58:15,727          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 09:58:16,394          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 09:58:16,621          root     INFO: Parsing R7 - Brasil
-2021-05-21 09:58:19,375          root     INFO: Bolsonaro mira 2022 e <ins>suas</ins> bases com decreto <del>considerado</del> <ins>visto como</ins> ilegal para limitar retirada de posts de redes sociais
-2021-05-21 09:58:21,071          root     INFO: Media ready with ids: 1395680351205433344
-2021-05-21 09:58:21,071          root     INFO: Text to tweet: Modificação do Título
-2021-05-21 09:58:21,071          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-mira-2022-e-bases-com-decreto-considerado-ilegal-para-limitar-retirada-de-posts-de-redes-sociais.shtml
-2021-05-21 09:58:21,081          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-mira-2022-e-bases-com-decreto-considerado-ilegal-para-limitar-retirada-de-posts-de-redes-sociais.shtml
-2021-05-21 09:58:21,253          root     INFO: Replying to: 1395680352472113152
-2021-05-21 09:58:21,490          root     INFO: Id to store: 1395680353252216837
-2021-05-21 09:58:26,705          root     INFO: Finished script
+2021-05-21 10:30:43,691          root     INFO: Starting script
+2021-05-21 10:30:44,678          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 10:30:45,485          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 10:30:46,293          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 10:30:46,535          root     INFO: Parsing R7 - Brasil
+2021-05-21 10:30:49,927          root     INFO: Governo ignorou 10 emails da Pfizer sobre vacinas em 1 mês, mostram documentos da CPI <ins>da Covid</ins>
+2021-05-21 10:30:51,825          root     INFO: Media ready with ids: 1395688532736364544
+2021-05-21 10:30:51,826          root     INFO: Text to tweet: Modificação do Título
+2021-05-21 10:30:51,826          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/governo-ignorou-10-emails-da-pfizer-sobre-vacinas-em-1-mes-mostram-documentos-da-cpi.shtml
+2021-05-21 10:30:51,835          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/governo-ignorou-10-emails-da-pfizer-sobre-vacinas-em-1-mes-mostram-documentos-da-cpi.shtml
+2021-05-21 10:30:52,123          root     INFO: Replying to: 1395688535009673217
+2021-05-21 10:30:52,394          root     INFO: Id to store: 1395688535932473348
+2021-05-21 10:30:52,446          root     INFO: A Polícia Federal elencou uma série de documentos no pedido de abertura de inquérito contra o ministro <del>do STF</del> Dias Toffoli <ins>(STF)</ins> como elementos de corroboração ao depoimento de Sérgio Cabral sobre a suposta venda de decisões. <del>Emails, agendas com encontros entre os envolvidos na suposta negociação, mensagens por aplicativos e anotações do ex-governador do Rio foram anexados ao material encaminhado ao Supremo Tribunal Federal.</del> Leia mais (05/20/2021 - 23h15)
+2021-05-21 10:30:57,812          root     INFO: Media ready with ids: 1395688557323251719
+2021-05-21 10:30:57,813          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-21 10:30:57,813          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/pf-usou-emails-agendas-anotacoes-e-decisoes-como-indicios-contra-toffoli-veja-depoimento-de-cabral.shtml
+2021-05-21 10:30:57,824          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/pf-usou-emails-agendas-anotacoes-e-decisoes-como-indicios-contra-toffoli-veja-depoimento-de-cabral.shtml
+2021-05-21 10:30:58,041          root     INFO: Replying to: 1395688559848341504
+2021-05-21 10:30:58,387          root     INFO: Id to store: 1395688560762757122
+2021-05-21 10:31:04,537          root     INFO: Finished script
