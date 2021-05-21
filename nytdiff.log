@@ -1,21 +1,19 @@
-2021-05-21 21:54:07,301          root     INFO: Starting script
-2021-05-21 21:54:08,176          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 21:54:08,845          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 21:54:09,518          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 21:54:09,634          root     INFO: Parsing R7 - Brasil
-2021-05-21 21:54:09,762          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/05/alison-bechdel-traz-suas-perigosas-sapatas-para-o-brasil-em-nova-coletanea.shtml
-2021-05-21 21:54:18,205          root     INFO: Removed http://noticias.r7.com/brasil/fenaj-cria-campanha-online-para-vacinar-jornalistas-contra-covid-19-21052021
-2021-05-21 21:54:18,210          root     INFO: Removed http://noticias.r7.com/brasil/stf-forma-maioria-para-manter-prova-da-pf-neste-domingo-23-21052021
-2021-05-21 21:54:18,214          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2021/05/da-para-ganhar-dinheiro-postando.shtml
-2021-05-21 21:54:18,219          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-diz-que-variante-indiana-foi-isolada-mas-requer-cuidado-21052021
-2021-05-21 21:54:18,224          root     INFO: Removed http://noticias.r7.com/brasil/psdb-aciona-stf-para-obrigar-bolsonaro-a-usar-mascara-21052021
-2021-05-21 21:54:18,229          root     INFO: Removed http://noticias.r7.com/brasil/secretaria-quer-que-reconsiderem-pedido-para-ficar-em-silencio-na-cpi-21052021
-2021-05-21 21:54:18,233          root     INFO: Removed http://noticias.r7.com/brasil/pacheco-e-lira-vao-discutir-fatiar-reforma-tributaria-com-guedes-21052021
-2021-05-21 21:54:18,239          root     INFO: Removed http://noticias.r7.com/brasil/mpf-denuncia-suspeitos-de-ataques-a-agentes-penitenciarios-em-ro-21052021
-2021-05-21 21:54:18,243          root     INFO: Removed http://noticias.r7.com/brasil/os-assassinos-de-criancas-21052021
-2021-05-21 21:54:18,248          root     INFO: Removed http://noticias.r7.com/brasil/projeto-que-muda-licenca-ambiental-deve-ser-freado-no-senado-21052021
-2021-05-21 21:54:18,253          root     INFO: Removed http://noticias.r7.com/brasil/edital-elege-14-comunidades-para-projetos-de-preservacao-do-cerrado-21052021
-2021-05-21 21:54:18,257          root     INFO: Removed http://noticias.r7.com/brasil/deputado-quer-ouvir-ricardo-salles-e-presidente-afastado-do-ibama-21052021
-2021-05-21 21:54:18,262          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-senador-quer-reconvocacao-de-eduardo-pazuello-21052021
-2021-05-21 21:54:18,267          root     INFO: Removed http://noticias.r7.com/brasil/ceara-monitora-suspeita-de-variante-indiana-em-viajante-21052021
-2021-05-21 21:54:18,268          root     INFO: Finished script
+2021-05-21 21:59:32,713          root     INFO: Starting script
+2021-05-21 21:59:33,911          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 21:59:34,588          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 21:59:35,273          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 21:59:35,396          root     INFO: Parsing R7 - Brasil
+2021-05-21 21:59:38,388          root     INFO: <del>Fachin vota a favor da</del> <ins>Fachin, Gilmar e Barroso divergem entre si sobre</ins> delação de Cabral que cita <del>Toffoli, sob condição de STF dar aval a acordos com PF</del> <ins>Toffoli</ins>
+2021-05-21 21:59:40,122          root     INFO: Media ready with ids: 1395861876521803780
+2021-05-21 21:59:40,122          root     INFO: Text to tweet: Modificação do Título
+2021-05-21 21:59:40,122          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fachin-vota-a-favor-da-delacao-de-cabral-que-cita-toffoli-sob-condicao-de-stf-dar-aval-a-acordos-com-pf.shtml
+2021-05-21 21:59:40,132          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fachin-vota-a-favor-da-delacao-de-cabral-que-cita-toffoli-sob-condicao-de-stf-dar-aval-a-acordos-com-pf.shtml
+2021-05-21 21:59:40,402          root     INFO: Replying to: 1395861878346223619
+2021-05-21 21:59:40,650          root     INFO: Id to store: 1395861879176810502
+2021-05-21 21:59:40,659          root     INFO: <del>Com o voto</del> <ins>O julgamento</ins> do <del>ministro Edson Fachin, o</del> STF (Supremo Tribunal Federal) <del>começou a julgar nesta sexta-feira (21)</del> <ins>sobre</ins> a validade da delação premiada do ex-governador do Rio de Janeiro Sérgio Cabral <del>firmada</del> com a Polícia <del>Federal.</del> <ins>Federal começou nesta sexta-feira (21) com três votos divergentes entre si.</ins> Leia mais (05/21/2021 - 11h38)
+2021-05-21 21:59:42,333          root     INFO: Media ready with ids: 1395861885820588037
+2021-05-21 21:59:42,334          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-21 21:59:42,334          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fachin-vota-a-favor-da-delacao-de-cabral-que-cita-toffoli-sob-condicao-de-stf-dar-aval-a-acordos-com-pf.shtml
+2021-05-21 21:59:42,349          root     INFO: Replying to: 1395861879176810502
+2021-05-21 21:59:42,586          root     INFO: Id to store: 1395861887330422790
+2021-05-21 21:59:47,777          root     INFO: Finished script
