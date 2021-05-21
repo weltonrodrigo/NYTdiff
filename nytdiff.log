@@ -1,11 +1,11 @@
-2021-05-21 04:51:14,331          root     INFO: Starting script
-2021-05-21 04:51:15,117          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 04:51:15,760          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 04:51:16,402          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 04:51:16,545          root     INFO: Parsing R7 - Brasil
-2021-05-21 04:51:23,242          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-do-am-rebate-pazuello-e-diz-que-nao-recusou-ajuda-federal-20052021
-2021-05-21 04:51:23,255          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-da-cpi-da-covid-sugere-fazer-relatorio-preliminar-20052021
-2021-05-21 04:51:23,265          root     INFO: New article tracked: http://noticias.r7.com/brasil/futebol-pacifica-menores-que-cumprem-medida-socioeducativa-20052021
-2021-05-21 04:51:23,275          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-cpi-e-vexame-e-que-pazuello-foi-muito-bem-20052021
-2021-05-21 04:51:23,349          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-desistiu-de-intervir-no-am-apos-ouvir-governador-diz-pazuello-20052021
-2021-05-21 04:51:23,627          root     INFO: Finished script
+2021-05-21 05:12:58,938          root     INFO: Starting script
+2021-05-21 05:12:59,956          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 05:13:00,747          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 05:13:01,544          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 05:13:01,773          root     INFO: Parsing R7 - Brasil
+2021-05-21 05:13:10,543          root     INFO: Removed http://noticias.r7.com/brasil/governo-do-am-rebate-pazuello-e-diz-que-nao-recusou-ajuda-federal-20052021
+2021-05-21 05:13:10,550          root     INFO: Removed http://noticias.r7.com/brasil/futebol-pacifica-menores-que-cumprem-medida-socioeducativa-20052021
+2021-05-21 05:13:10,555          root     INFO: Removed http://noticias.r7.com/brasil/governo-desistiu-de-intervir-no-am-apos-ouvir-governador-diz-pazuello-20052021
+2021-05-21 05:13:10,560          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-cpi-e-vexame-e-que-pazuello-foi-muito-bem-20052021
+2021-05-21 05:13:10,567          root     INFO: Removed http://noticias.r7.com/brasil/presidente-da-cpi-da-covid-sugere-fazer-relatorio-preliminar-20052021
+2021-05-21 05:13:10,568          root     INFO: Finished script
