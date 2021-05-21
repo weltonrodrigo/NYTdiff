@@ -1,20 +1,10 @@
-2021-05-21 22:28:36,872          root     INFO: Starting script
-2021-05-21 22:28:37,842          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 22:28:38,648          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 22:28:39,453          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 22:28:39,699          root     INFO: Parsing R7 - Brasil
-2021-05-21 22:28:39,862          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/05/ativismo-ou-responsabilidade-judicial.shtml
-2021-05-21 22:28:43,006          root     INFO: <del>Fachin vota a favor da</del> <ins>Fachin, Gilmar e Barroso divergem sobre</ins> delação de Cabral que cita <del>Toffoli, sob condição de STF dar aval a acordos com PF</del> <ins>Toffoli</ins>
-2021-05-21 22:28:44,755          root     INFO: Media ready with ids: 1395869194135248897
-2021-05-21 22:28:44,755          root     INFO: Text to tweet: Modificação do Título
-2021-05-21 22:28:44,755          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fachin-vota-a-favor-da-delacao-de-cabral-que-cita-toffoli-sob-condicao-de-stf-dar-aval-a-acordos-com-pf.shtml
-2021-05-21 22:28:44,765          root     INFO: Replying to: 1395861887330422790
-2021-05-21 22:28:45,099          root     INFO: Id to store: 1395869195917828099
-2021-05-21 22:28:45,106          root     INFO: <del>Com o voto</del> <ins>O julgamento</ins> do <del>ministro Edson Fachin, o</del> STF (Supremo Tribunal Federal) <del>começou a julgar nesta sexta-feira (21)</del> <ins>sobre</ins> a validade da delação premiada do ex-governador do Rio de Janeiro Sérgio Cabral <del>firmada</del> com a Polícia <del>Federal.</del> <ins>Federal começou nesta sexta-feira (21) com três votos divergentes entre si.</ins> Leia mais (05/21/2021 - 11h38)
-2021-05-21 22:28:46,892          root     INFO: Media ready with ids: 1395869202939064321
-2021-05-21 22:28:46,893          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-21 22:28:46,893          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fachin-vota-a-favor-da-delacao-de-cabral-que-cita-toffoli-sob-condicao-de-stf-dar-aval-a-acordos-com-pf.shtml
-2021-05-21 22:28:46,902          root     INFO: Replying to: 1395869195917828099
-2021-05-21 22:28:47,176          root     INFO: Id to store: 1395869204608335875
-2021-05-21 22:28:53,035          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-inep-que-o-brasil-precisa.shtml
-2021-05-21 22:28:53,036          root     INFO: Finished script
+2021-05-21 22:54:46,353          root     INFO: Starting script
+2021-05-21 22:54:47,317          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 22:54:48,106          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 22:54:48,885          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 22:54:49,085          root     INFO: Parsing R7 - Brasil
+2021-05-21 22:54:51,815          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/governo-de-flavio-dino-multa-bolsonaro-por-fazer-aglomeracao.shtml
+2021-05-21 22:54:51,830          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/governo-flavio-dino-autua-bolsonaro-por-nao-usar-mascara-e-gerar-aglomeracao-no-maranhao.shtml
+2021-05-21 22:54:57,339          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4425
+2021-05-21 22:54:57,343          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/governo-bolsonaro-apontou-custo-e-incerteza-ao-justificar-atraso-em-adesao-a-consorcio-de-vacinas-mostra-cpi.shtml
+2021-05-21 22:54:57,344          root     INFO: Finished script
