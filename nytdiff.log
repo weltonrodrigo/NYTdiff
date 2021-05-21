@@ -1,8 +1,10 @@
-2021-05-21 14:57:55,228          root     INFO: Starting script
-2021-05-21 14:57:56,106          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 14:57:56,801          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 14:57:57,501          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 14:57:57,712          root     INFO: Parsing R7 - Brasil
-2021-05-21 14:58:00,531          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/datafolha-90-dizem-que-o-brasil-tem-jeito-e-70-falam-que-sentem-orgulho-do-pais.shtml
-2021-05-21 14:58:06,271          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/suspeicao-de-moro-volta-para-gabinete-de-marco-aurelio-no-stf.shtml
-2021-05-21 14:58:06,271          root     INFO: Finished script
+2021-05-21 15:31:39,122          root     INFO: Starting script
+2021-05-21 15:31:40,093          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 15:31:40,882          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 15:31:41,694          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 15:31:41,936          root     INFO: Parsing R7 - Brasil
+2021-05-21 15:31:44,827          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/emails-da-pfizer-comprovam-omissao-da-gestao-bolsonaro-na-busca-por-vacinas-dizem-senadores-da-cpi.shtml
+2021-05-21 15:31:44,843          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/otimismo-do-brasileiro-e-fenomeno-mais-de-identidade-do-que-de-circunstancias.shtml
+2021-05-21 15:31:50,858          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/alckmin-entrega-foto-de-seu-filho-que-morreu-a-mae-de-bruno-covas.shtml
+2021-05-21 15:31:50,864          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/nao-ha-clima-para-a-volta-das-doacoes-empresariais-de-campanha-diz-relatora-da-reforma-politica.shtml
+2021-05-21 15:31:50,865          root     INFO: Finished script
