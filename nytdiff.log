@@ -1,6 +1,32 @@
-2021-05-21 20:57:41,134          root     INFO: Starting script
-2021-05-21 20:57:42,336          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-21 20:57:43,021          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-21 20:57:43,709          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-21 20:57:43,868          root     INFO: Parsing R7 - Brasil
-2021-05-21 20:57:52,488          root     INFO: Finished script
+2021-05-21 21:26:30,826          root     INFO: Starting script
+2021-05-21 21:26:31,787          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-21 21:26:32,582          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-21 21:26:33,368          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-21 21:26:33,542          root     INFO: Parsing R7 - Brasil
+2021-05-21 21:26:33,687          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/a-argentina-e-os-efeitos-indesejados-da-privatizacao-autoritaria.shtml
+2021-05-21 21:26:36,516          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/justica-manda-governo-do-df-pagar-indenizacao-milionaria-a-band-por-contrato-com-formula-indy.shtml
+2021-05-21 21:26:36,672          root     INFO: Com assunto "COVID-19-Pfizer Update", um email do presidente mundial da Pfizer foi enviado à chefia de gabinete da Presidência da República no dia 17 de março de 2020 informando ao presidente Jair Bolsonaro medidas em andamento para ajudar no combate <del>à</del> <ins>da</ins> pandemia. Leia mais (05/21/2021 - 14h43)
+2021-05-21 21:26:38,674          root     INFO: Media ready with ids: 1395853565252472839
+2021-05-21 21:26:38,675          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-21 21:26:38,675          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/email-entregue-a-cpi-revela-alerta-da-pfizer-a-bolsonaro-ja-em-marco-de-2020-sobre-solucoes-a-pandemia.shtml
+2021-05-21 21:26:38,685          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/email-entregue-a-cpi-revela-alerta-da-pfizer-a-bolsonaro-ja-em-marco-de-2020-sobre-solucoes-a-pandemia.shtml
+2021-05-21 21:26:38,976          root     INFO: Replying to: 1395853567584608263
+2021-05-21 21:26:39,270          root     INFO: Id to store: 1395853568599539713
+2021-05-21 21:26:41,965          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/pf-aponta-operacoes-suspeitas-de-salles-em-escritorio-com-a-mae-durante-governo-bolsonaro.shtml
+2021-05-21 21:26:44,760          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-denuncia-suspeitos-de-ataques-a-agentes-penitenciarios-em-ro-21052021
+2021-05-21 21:26:44,773          root     INFO: New article tracked: http://noticias.r7.com/brasil/psdb-aciona-stf-para-obrigar-bolsonaro-a-usar-mascara-21052021
+2021-05-21 21:26:44,786          root     INFO: New article tracked: http://noticias.r7.com/brasil/edital-elege-14-comunidades-para-projetos-de-preservacao-do-cerrado-21052021
+2021-05-21 21:26:44,800          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-forma-maioria-para-manter-prova-da-pf-neste-domingo-23-21052021
+2021-05-21 21:26:44,814          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-diz-que-variante-indiana-foi-isolada-mas-requer-cuidado-21052021
+2021-05-21 21:26:44,826          root     INFO: New article tracked: http://noticias.r7.com/brasil/secretaria-quer-que-reconsiderem-pedido-para-ficar-em-silencio-na-cpi-21052021
+2021-05-21 21:26:44,839          root     INFO: New article tracked: http://noticias.r7.com/brasil/pacheco-e-lira-vao-discutir-fatiar-reforma-tributaria-com-guedes-21052021
+2021-05-21 21:26:44,856          root     INFO: New article tracked: http://noticias.r7.com/brasil/projeto-que-muda-licenca-ambiental-deve-ser-freado-no-senado-21052021
+2021-05-21 21:26:44,869          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-senador-quer-reconvocacao-de-eduardo-pazuello-21052021
+2021-05-21 21:26:44,883          root     INFO: New article tracked: http://noticias.r7.com/brasil/fenaj-cria-campanha-online-para-vacinar-jornalistas-contra-covid-19-21052021
+2021-05-21 21:26:44,896          root     INFO: New article tracked: http://noticias.r7.com/brasil/ceara-monitora-suspeita-de-variante-indiana-em-viajante-21052021
+2021-05-21 21:26:44,909          root     INFO: New article tracked: http://noticias.r7.com/brasil/os-assassinos-de-criancas-21052021
+2021-05-21 21:26:44,923          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-quer-ouvir-ricardo-salles-e-presidente-afastado-do-ibama-21052021
+2021-05-21 21:26:45,134          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2021/05/como-andam-as-coisas-na-renda-fixa.shtml
+2021-05-21 21:26:45,139          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/04/em-carta-entidades-pedem-a-biden-que-nao-faca-acordo-ambiental-com-bolsonaro.shtml
+2021-05-21 21:26:45,145          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/tse-diz-que-campanha-sobre-seguranca-de-urna-eletronica-foi-produzida-sem-custo-extra.shtml
+2021-05-21 21:26:45,145          root     INFO: Finished script
