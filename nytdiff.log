@@ -1,6 +1,23 @@
-2021-05-22 00:45:54,873          root     INFO: Starting script
-2021-05-22 00:45:55,677          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-22 00:45:56,327          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-22 00:45:56,982          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-22 00:45:57,262          root     INFO: Parsing R7 - Brasil
-2021-05-22 00:46:05,178          root     INFO: Finished script
+2021-05-22 02:00:22,269          root     INFO: Starting script
+2021-05-22 02:00:23,067          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-22 02:00:23,710          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-22 02:00:24,352          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-22 02:00:24,499          root     INFO: Parsing R7 - Brasil
+2021-05-22 02:00:24,682          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/conflito-avanca-por-midia-social-e-chega-ao-chines-tiktok.shtml
+2021-05-22 02:00:27,339          root     INFO: <del>Fachin vota a favor da</del> <ins>Ministros do STF divergem em julgamento sobre</ins> delação de Cabral que cita <del>Toffoli, sob condição de STF dar aval a acordos com PF</del> <ins>Toffoli</ins>
+2021-05-22 02:00:29,015          root     INFO: Media ready with ids: 1395922479625945092
+2021-05-22 02:00:29,015          root     INFO: Text to tweet: Modificação do Título
+2021-05-22 02:00:29,016          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fachin-vota-a-favor-da-delacao-de-cabral-que-cita-toffoli-sob-condicao-de-stf-dar-aval-a-acordos-com-pf.shtml
+2021-05-22 02:00:29,025          root     INFO: Replying to: 1395869204608335875
+2021-05-22 02:00:29,278          root     INFO: Id to store: 1395922481127600129
+2021-05-22 02:00:29,285          root     INFO: <del>Com o voto</del> <ins>O julgamento</ins> do <del>ministro Edson Fachin, o</del> STF (Supremo Tribunal Federal) <del>começou a julgar nesta sexta-feira (21)</del> <ins>sobre</ins> a validade da delação premiada do ex-governador do Rio de Janeiro Sérgio Cabral <del>firmada</del> com a Polícia <del>Federal.</del> <ins>Federal começou nesta sexta-feira (21) com votos divergentes entre si.</ins> Leia mais (05/21/2021 - 11h38)
+2021-05-22 02:00:30,928          root     INFO: Media ready with ids: 1395922487603519491
+2021-05-22 02:00:30,928          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-22 02:00:30,929          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fachin-vota-a-favor-da-delacao-de-cabral-que-cita-toffoli-sob-condicao-de-stf-dar-aval-a-acordos-com-pf.shtml
+2021-05-22 02:00:30,937          root     INFO: Replying to: 1395922481127600129
+2021-05-22 02:00:31,175          root     INFO: Id to store: 1395922489088352256
+2021-05-22 02:00:35,294          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-autoriza-secretaria-a-se-calar-sobre-colapso-em-manaus-21052021-1
+2021-05-22 02:00:35,306          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-anuncia-programa-de-testagem-em-massa-para-covid-19-21052021
+2021-05-22 02:00:35,316          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-defende-que-rio-faca-plano-de-reducao-da-letalidade-policial-21052021
+2021-05-22 02:00:35,705          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/direito-na-unifesp-a-servico-da-democracia-e-do-interesse-publico.shtml
+2021-05-22 02:00:35,705          root     INFO: Finished script
