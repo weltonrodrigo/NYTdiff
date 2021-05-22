@@ -1,20 +1,8 @@
-2021-05-22 12:42:02,499          root     INFO: Starting script
-2021-05-22 12:42:03,467          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-22 12:42:04,258          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-22 12:42:05,055          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-22 12:42:05,290          root     INFO: Parsing R7 - Brasil
-2021-05-22 12:42:05,493          root     INFO: CPI <ins>da Covid</ins> ou concurso de lorotas?
-2021-05-22 12:42:07,118          root     INFO: Media ready with ids: 1396083952507576324
-2021-05-22 12:42:07,118          root     INFO: Text to tweet: Modificação do Título
-2021-05-22 12:42:07,119          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/05/cpi-ou-concurso-de-lorotas.shtml
-2021-05-22 12:42:07,127          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/05/cpi-ou-concurso-de-lorotas.shtml
-2021-05-22 12:42:07,345          root     INFO: Replying to: 1396083953925304323
-2021-05-22 12:42:07,565          root     INFO: Id to store: 1396083954676027394
-2021-05-22 12:42:10,168          root     INFO: O diretor-geral da Polícia Federal, Paulo Maiurino, propôs em um documento enviado ao Supremo Tribunal Federal uma reestruturação interna no órgão que tira a autonomia de delegados nas investigações de autoridades com foro especial e pode conceder superpoderes ao próprio chefe da corporação. <del>A manifestação ocorreu após pedido da PF para apurar supostos crimes do ministro Dias Toffoli delatados pelo ex-governador do Rio Sérgio Cabral. Investigadores ouvidos pela reportagem veem na proposta um ataque do novo chefe da polícia às recentes ações do órgão. Eles falam também que se trata de uma tentativa de controle de apurações por parte do diretor-geral. A PF diz que não há prejuízo à autonomia de delegados. Maiurino afirmou no documento, ao qual a Folha teve acesso, que a "direção da Polícia Federal vem estudando a implementação de mecanismos de supervisão administrativa e estruturação organizacional nos moldes daqueles adotados pela Procuradoria-Geral da República". No modelo do Ministério Público Federal, sugerido pelo diretor, todos os inquéritos que tramitam no STF e no Superior Tribunal de Justiça passam por pessoas indicadas e de confiança do procurador-geral da República. A medida seria necessária, escreveu o diretor-geral indicado em abril pelo presidente Jair Bolsonaro, para a "melhor supervisão das investigações", de modo a evitar "o ajuizamento de medidas" que refletem "tão somente o posicionamento individual de autoridades policiais", mas que estão "em dissonância da posição institucional da PF". Na prática, na visão de investigadores ouvidos pela Folha, a mudança proposta é uma tentativa de controle e pode dar superpoderes ao diretor-geral porque todas as investigações de autoridades com foro teriam que ter obrigatoriamente uma supervisão da cúpula da PF. Além disso, pedidos de medidas cautelares, como buscas, quebras de sigilo e prisões, necessitariam de ciência prévia de Maiurino. Atualmente, os chefes estaduais e diretores de áreas são responsáveis por avisar a cúpula sobre possíveis temas sensíveis. Cada gestão estipula o momento pra isso?na noite anterior ou na madrugada antes da deflagração, por exemplo. Nem sempre o diretor-geral fica sabendo de tudo, em razão do sigilo das medidas. Todas as ações são feitas com autorização judicial. A proposta consta de um memorando produzido pela direção-geral para subsidiar a votação dos ministros no julgamento do recurso da Procuradoria-Geral da República que pede a anulação do acordo de delação de Sérgio Cabral.</del> Leia mais (05/21/2021 - 23h15)
-2021-05-22 12:42:12,356          root     INFO: Media ready with ids: 1396083973521125379
-2021-05-22 12:42:12,356          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-22 12:42:12,356          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/chefe-da-pf-quer-tirar-autonomia-de-delegados-em-casos-de-autoridades-com-foro.shtml
-2021-05-22 12:42:12,365          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/chefe-da-pf-quer-tirar-autonomia-de-delegados-em-casos-de-autoridades-com-foro.shtml
-2021-05-22 12:42:12,537          root     INFO: Replying to: 1396083975739879424
-2021-05-22 12:42:12,813          root     INFO: Id to store: 1396083976452907009
-2021-05-22 12:42:18,232          root     INFO: Finished script
+2021-05-22 13:14:07,559          root     INFO: Starting script
+2021-05-22 13:14:08,342          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-22 13:14:08,986          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-22 13:14:09,626          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-22 13:14:09,770          root     INFO: Parsing R7 - Brasil
+2021-05-22 13:14:09,930          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/a-gestao-do-medo.shtml
+2021-05-22 13:14:16,961          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/a-camara-deve-ter-cota-de-genero.shtml
+2021-05-22 13:14:16,961          root     INFO: Finished script
