@@ -1,25 +1,25 @@
-2021-05-22 22:00:17,563          root     INFO: Starting script
-2021-05-22 22:00:18,543          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-22 22:00:19,333          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-22 22:00:20,125          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-22 22:00:20,349          root     INFO: Parsing R7 - Brasil
-2021-05-22 22:00:27,093          root     INFO: New article tracked: http://noticias.r7.com/brasil/infectologista-luana-araujo-deixa-secretaria-de-combate-a-covid-22052021
-2021-05-22 22:00:27,108          root     INFO: New article tracked: http://noticias.r7.com/brasil/insumos-para-producao-de-12-milhoes-de-vacinas-chegam-ao-rio-22052021
-2021-05-22 22:00:27,121          root     INFO: New article tracked: http://noticias.r7.com/brasil/medica-deixa-nova-secretaria-de-enfrentamento-a-covid-22052021
-2021-05-22 22:00:27,133          root     INFO: New article tracked: http://noticias.r7.com/brasil/aras-pede-que-mpf-seja-ouvido-em-buscas-apos-operacao-contra-salles-22052021
-2021-05-22 22:00:27,144          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/erros-em-lista-de-vacinados-pelo-pais-e-nova-convocacao-da-pazuello-a-cpi-sao-destaques-deste-sabado-22-22052021
-2021-05-22 22:00:27,160          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-da-cpi-da-covid-afirma-que-pazuello-sera-reconvocado-22052021
-2021-05-22 22:00:27,171          root     INFO: New article tracked: http://noticias.r7.com/brasil/policia-federal-confirma-realizacao-de-concurso-neste-domingo-23-22052021
-2021-05-22 22:00:27,183          root     INFO: New article tracked: http://noticias.r7.com/brasil/diabetico-presidente-do-senado-recebe-vacina-da-covid-19-em-bh-22052021
-2021-05-22 22:00:27,197          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibama-barra-construcao-de-nova-usina-hidreletrica-na-amazonia-22052021
-2021-05-22 22:00:27,209          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-do-congresso-nacional-e-vacinado-contra-covid-19-em-mg-22052021
-2021-05-22 22:00:27,220          root     INFO: New article tracked: http://noticias.r7.com/brasil/estudo-encontra-76-milhoes-de-erros-em-lista-de-vacinados-no-pais-22052021
-2021-05-22 22:00:27,233          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-do-maranhao-autua-bolsonaro-por-nao-usar-mascara-22052021
-2021-05-22 22:00:27,246          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-explica-atribuicoes-da-nova-autoridade-de-seguranca-nuclear-22052021
-2021-05-22 22:00:27,260          root     INFO: New article tracked: http://noticias.r7.com/brasil/mega-sena-acumulada-sorteia-r-48-milhoes-neste-sabado-22-22052021
-2021-05-22 22:00:27,273          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-anuncia-recorde-mensal-de-distribuicao-de-vacinas-22052021
-2021-05-22 22:00:27,285          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/despedida-a-covas-caso-mc-kevin-e-pazuello-na-cpi-marcam-semana-22052021
-2021-05-22 22:00:27,296          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-falta-de-ifa-brasil-tem-23-dos-grupos-prioritarios-imunizados-22052021
-2021-05-22 22:00:27,309          root     INFO: New article tracked: http://noticias.r7.com/brasil/nascidos-em-junho-recebem-auxilio-emergencial-neste-sabado-22-22052021
-2021-05-22 22:00:27,321          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-recebe-hoje-insumos-para-producao-de-12-milhoes-de-doses-22052021
-2021-05-22 22:00:27,360          root     INFO: Finished script
+2021-05-22 22:28:02,755          root     INFO: Starting script
+2021-05-22 22:28:03,907          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-22 22:28:04,582          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-22 22:28:05,271          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-22 22:28:05,435          root     INFO: Parsing R7 - Brasil
+2021-05-22 22:28:13,847          root     INFO: Removed http://noticias.r7.com/brasil/diabetico-presidente-do-senado-recebe-vacina-da-covid-19-em-bh-22052021
+2021-05-22 22:28:13,853          root     INFO: Removed http://noticias.r7.com/brasil/policia-federal-confirma-realizacao-de-concurso-neste-domingo-23-22052021
+2021-05-22 22:28:13,858          root     INFO: Removed http://noticias.r7.com/brasil/insumos-para-producao-de-12-milhoes-de-vacinas-chegam-ao-rio-22052021
+2021-05-22 22:28:13,862          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-recebe-hoje-insumos-para-producao-de-12-milhoes-de-doses-22052021
+2021-05-22 22:28:13,868          root     INFO: Removed http://noticias.r7.com/brasil/fotos/erros-em-lista-de-vacinados-pelo-pais-e-nova-convocacao-da-pazuello-a-cpi-sao-destaques-deste-sabado-22-22052021
+2021-05-22 22:28:13,873          root     INFO: Removed http://noticias.r7.com/brasil/infectologista-luana-araujo-deixa-secretaria-de-combate-a-covid-22052021
+2021-05-22 22:28:13,877          root     INFO: Removed http://noticias.r7.com/brasil/aras-pede-que-mpf-seja-ouvido-em-buscas-apos-operacao-contra-salles-22052021
+2021-05-22 22:28:13,884          root     INFO: Removed http://noticias.r7.com/brasil/ministro-explica-atribuicoes-da-nova-autoridade-de-seguranca-nuclear-22052021
+2021-05-22 22:28:13,889          root     INFO: Removed http://noticias.r7.com/brasil/nascidos-em-junho-recebem-auxilio-emergencial-neste-sabado-22-22052021
+2021-05-22 22:28:13,895          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-acumulada-sorteia-r-48-milhoes-neste-sabado-22-22052021
+2021-05-22 22:28:13,902          root     INFO: Removed http://noticias.r7.com/brasil/presidente-do-congresso-nacional-e-vacinado-contra-covid-19-em-mg-22052021
+2021-05-22 22:28:13,908          root     INFO: Removed http://noticias.r7.com/brasil/fotos/despedida-a-covas-caso-mc-kevin-e-pazuello-na-cpi-marcam-semana-22052021
+2021-05-22 22:28:13,919          root     INFO: Removed http://noticias.r7.com/brasil/estudo-encontra-76-milhoes-de-erros-em-lista-de-vacinados-no-pais-22052021
+2021-05-22 22:28:13,925          root     INFO: Removed http://noticias.r7.com/brasil/presidente-da-cpi-da-covid-afirma-que-pazuello-sera-reconvocado-22052021
+2021-05-22 22:28:13,932          root     INFO: Removed http://noticias.r7.com/brasil/com-falta-de-ifa-brasil-tem-23-dos-grupos-prioritarios-imunizados-22052021
+2021-05-22 22:28:13,938          root     INFO: Removed http://noticias.r7.com/brasil/medica-deixa-nova-secretaria-de-enfrentamento-a-covid-22052021
+2021-05-22 22:28:13,949          root     INFO: Removed http://noticias.r7.com/brasil/governo-do-maranhao-autua-bolsonaro-por-nao-usar-mascara-22052021
+2021-05-22 22:28:13,955          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-anuncia-recorde-mensal-de-distribuicao-de-vacinas-22052021
+2021-05-22 22:28:13,961          root     INFO: Removed http://noticias.r7.com/brasil/ibama-barra-construcao-de-nova-usina-hidreletrica-na-amazonia-22052021
+2021-05-22 22:28:13,961          root     INFO: Finished script
