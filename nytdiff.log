@@ -1,8 +1,20 @@
-2021-05-22 13:14:07,559          root     INFO: Starting script
-2021-05-22 13:14:08,342          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-22 13:14:08,986          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-22 13:14:09,626          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-22 13:14:09,770          root     INFO: Parsing R7 - Brasil
-2021-05-22 13:14:09,930          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/a-gestao-do-medo.shtml
-2021-05-22 13:14:16,961          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/a-camara-deve-ter-cota-de-genero.shtml
-2021-05-22 13:14:16,961          root     INFO: Finished script
+2021-05-22 13:44:10,887          root     INFO: Starting script
+2021-05-22 13:44:11,860          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-22 13:44:12,660          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-22 13:44:13,465          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-22 13:44:13,722          root     INFO: Parsing R7 - Brasil
+2021-05-22 13:44:21,902          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-nega-novo-pedido-de-secretaria-sobre-depoimento-a-cpi-21052021
+2021-05-22 13:44:21,948          root     INFO: Ministério fará projeto junto <del>com</del> <ins>a</ins> secretarias estaduais e municipais da Saúde. Pasta prevê coletar até 25 milhões de testes por mês
+2021-05-22 13:44:23,750          root     INFO: Media ready with ids: 1396099624977502208
+2021-05-22 13:44:23,751          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-22 13:44:23,751          root     INFO: Article id: http://noticias.r7.com/brasil/queiroga-anuncia-programa-de-testagem-em-massa-para-covid-19-21052021
+2021-05-22 13:44:23,760          root     INFO: Tweeting url: http://noticias.r7.com/brasil/queiroga-anuncia-programa-de-testagem-em-massa-para-covid-19-21052021
+2021-05-22 13:44:24,066          root     INFO: Replying to: 1396099626835628034
+2021-05-22 13:44:24,364          root     INFO: Id to store: 1396099627821277186
+2021-05-22 13:44:24,378          root     INFO: Do R7, com informações <del>de Lívia Veiga,</del> da Record TV
+2021-05-22 13:44:26,262          root     INFO: Media ready with ids: 1396099634632798209
+2021-05-22 13:44:26,263          root     INFO: Text to tweet: Modificação do autor
+2021-05-22 13:44:26,263          root     INFO: Article id: http://noticias.r7.com/brasil/queiroga-anuncia-programa-de-testagem-em-massa-para-covid-19-21052021
+2021-05-22 13:44:26,275          root     INFO: Replying to: 1396099627821277186
+2021-05-22 13:44:26,532          root     INFO: Id to store: 1396099637052850177
+2021-05-22 13:44:27,074          root     INFO: Finished script
