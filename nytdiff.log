@@ -1,8 +1,13 @@
-2021-05-23 13:16:03,798          root     INFO: Starting script
-2021-05-23 13:16:04,678          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-23 13:16:05,359          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-23 13:16:06,040          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-23 13:16:06,223          root     INFO: Parsing R7 - Brasil
-2021-05-23 13:16:06,386          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/quem-luta-pelos-natimortos.shtml
-2021-05-23 13:16:14,144          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/uma-relacao-de-familia.shtml
-2021-05-23 13:16:14,145          root     INFO: Finished script
+2021-05-23 13:44:44,279          root     INFO: Starting script
+2021-05-23 13:44:45,591          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-23 13:44:46,276          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-23 13:44:46,960          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-23 13:44:47,141          root     INFO: Parsing R7 - Brasil
+2021-05-23 13:44:47,626          root     INFO: De onde <del>vem</del> <ins>vêm</ins> as vacinas?
+2021-05-23 13:44:49,322          root     INFO: Media ready with ids: 1396462120133447682
+2021-05-23 13:44:49,322          root     INFO: Text to tweet: Modificação do Título
+2021-05-23 13:44:49,323          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/05/de-onde-vem-as-vacinas.shtml
+2021-05-23 13:44:49,332          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/05/de-onde-vem-as-vacinas.shtml
+2021-05-23 13:44:49,527          root     INFO: Replying to: 1396462121546833921
+2021-05-23 13:44:49,772          root     INFO: Id to store: 1396462122356387848
+2021-05-23 13:44:58,207          root     INFO: Finished script
