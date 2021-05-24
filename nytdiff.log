@@ -1,6 +1,10 @@
-2021-05-24 00:48:36,479          root     INFO: Starting script
-2021-05-24 00:48:37,465          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-24 00:48:38,275          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-24 00:48:39,067          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-24 00:48:39,320          root     INFO: Parsing R7 - Brasil
-2021-05-24 00:48:48,631          root     INFO: Finished script
+2021-05-24 02:10:06,962          root     INFO: Starting script
+2021-05-24 02:10:08,362          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-24 02:10:09,155          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-24 02:10:09,981          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-24 02:10:10,193          root     INFO: Parsing R7 - Brasil
+2021-05-24 02:10:10,340          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/alemanha-se-fecha-ao-reino-unido-para-conter-avanco-da-variante-indiana.shtml
+2021-05-24 02:10:12,905          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49640
+2021-05-24 02:10:18,467          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/na-cpi-pazuello-mente-sobre-falta-de-oxigenio-em-manaus-e-decisao-do-stf-veja-checagem.shtml
+2021-05-24 02:10:18,473          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helio-beltrao/2021/05/supersalarios-que-envergonham.shtml
+2021-05-24 02:10:18,473          root     INFO: Finished script
