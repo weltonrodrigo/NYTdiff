@@ -1,8 +1,17 @@
-2021-05-24 16:05:45,465          root     INFO: Starting script
-2021-05-24 16:05:46,430          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-24 16:05:47,240          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-24 16:05:48,040          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-24 16:05:48,241          root     INFO: Parsing R7 - Brasil
-2021-05-24 16:05:48,418          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/veny-santos/2021/05/pessoas-consideradas-casos-perdidos-sao-as-que-foram-demais-para-o-seu-quintal.shtml
-2021-05-24 16:05:56,863          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/05/carne-suina-para-a-china-pode-estar-com-os-meses-contados.shtml
-2021-05-24 16:05:56,864          root     INFO: Finished script
+2021-05-24 17:05:01,987          root     INFO: Starting script
+2021-05-24 17:05:02,954          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-24 17:05:03,745          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-24 17:05:04,531          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-24 17:05:04,774          root     INFO: Parsing R7 - Brasil
+2021-05-24 17:05:04,925          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/o-eterno-drama-dos-machos-e-pensar-demais-com-o-orgao-errado.shtml
+2021-05-24 17:05:07,816          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-prepara-visita-a-comunidade-yanomami-e-lideres-indigenas-publicam-carta-de-repudio.shtml
+2021-05-24 17:05:07,945          root     INFO: Randolfe diz que Pazuello se <del>auto indiciou</del> <ins>autoindiciou</ins> ao ir sem máscara em passeio de Bolsonaro
+2021-05-24 17:05:09,755          root     INFO: Media ready with ids: 1396874925303115784
+2021-05-24 17:05:09,755          root     INFO: Text to tweet: Modificação do Título
+2021-05-24 17:05:09,755          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/randolfe-diz-que-pazuello-se-auto-indiciou-ao-ir-sem-mascara-em-passeio-de-bolsonaro.shtml
+2021-05-24 17:05:09,770          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/randolfe-diz-que-pazuello-se-auto-indiciou-ao-ir-sem-mascara-em-passeio-de-bolsonaro.shtml
+2021-05-24 17:05:10,177          root     INFO: Replying to: 1396874927643533314
+2021-05-24 17:05:10,496          root     INFO: Id to store: 1396874928654323713
+2021-05-24 17:05:16,597          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/policia-prende-tres-homens-suspeitos-de-planejar-atirar-ovos-no-governador-do-para.shtml
+2021-05-24 17:05:16,603          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/solange-srour/2021/05/reduzir-incentivos-ajudara-no-pib.shtml
+2021-05-24 17:05:16,604          root     INFO: Finished script
