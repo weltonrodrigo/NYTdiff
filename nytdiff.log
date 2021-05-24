@@ -1,6 +1,28 @@
-2021-05-24 19:25:04,694          root     INFO: Starting script
-2021-05-24 19:25:05,658          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-24 19:25:06,438          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-24 19:25:07,230          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-24 19:25:07,436          root     INFO: Parsing R7 - Brasil
-2021-05-24 19:25:15,744          root     INFO: Finished script
+2021-05-24 19:51:28,412          root     INFO: Starting script
+2021-05-24 19:51:29,477          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-24 19:51:30,255          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-24 19:51:31,036          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-24 19:51:31,228          root     INFO: Parsing R7 - Brasil
+2021-05-24 19:51:34,090          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/entenda-possiveis-transgressoes-de-pazuello-ao-regulamento-do-exercito-por-ato-com-bolsonaro.shtml
+2021-05-24 19:51:36,813          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/testemunhas-dizem-a-pf-que-3000-cargas-de-madeira-sairam-do-para-para-o-exterior-sem-autorizacao-do-ibama.shtml
+2021-05-24 19:51:39,513          root     INFO: New article tracked: http://noticias.r7.com/brasil/senadora-propoe-lei-para-evitar-julgamentos-como-de-mari-ferrer-24052021
+2021-05-24 19:51:39,526          root     INFO: New article tracked: http://noticias.r7.com/brasil/politizacao-do-exercito-e-irresponsavel-diz-santos-cruz-24052021
+2021-05-24 19:51:39,540          root     INFO: New article tracked: http://noticias.r7.com/brasil/ccj-rejeita-retirada-de-pauta-da-proposta-de-reforma-administrativa-24052021
+2021-05-24 19:51:39,554          root     INFO: New article tracked: http://noticias.r7.com/brasil/crimes-ligados-ao-caixa-2-ja-sao-20-dos-casos-em-sp-aponta-pf-24052021
+2021-05-24 19:51:39,568          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-pisoteia-disciplina-e-ri-a-ceu-aberto-diz-relator-da-cpi-24052021
+2021-05-24 19:51:39,584          root     INFO: New article tracked: http://noticias.r7.com/brasil/dia-historico-diz-flavio-bolsonaro-sobre-ato-no-rio-de-janeiro-24052021
+2021-05-24 19:51:39,601          root     INFO: New article tracked: http://noticias.r7.com/brasil/bc-preve-uso-de-moeda-digital-brasileira-no-varejo-24052021
+2021-05-24 19:51:39,616          root     INFO: New article tracked: http://noticias.r7.com/brasil/intencao-de-consumo-das-familias-cai-16-ao-menor-nivel-para-maio-24052021
+2021-05-24 19:51:39,636          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-quer-punicao-de-pazuello-por-participar-de-ato-no-rj-24052021
+2021-05-24 19:51:39,652          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-entende-que-cometeu-erro-diz-mourao-sobre-ato-no-rio-24052021
+2021-05-24 19:51:39,897          root     INFO: New article tracked: http://noticias.r7.com/brasil/embaixador-da-china-se-irrita-com-tuite-do-governo-24052021
+2021-05-24 19:51:39,944          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/boulos-diz-que-governo-mata-mais-que-pandemia-e-convoca-manifestacoes-contra-bolsonaro.shtml
+2021-05-24 19:51:39,949          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/demonizar-trabalho-de-empresario-de-madeira-so-vai-aumentar-desmatamento-diz-salles.shtml
+2021-05-24 19:51:39,955          root     INFO: Removed http://noticias.r7.com/brasil/cerca-de-320-mil-participam-de-concurso-publico-para-a-pf-23052021
+2021-05-24 19:51:39,960          root     INFO: Removed http://noticias.r7.com/brasil/perfil-de-quem-mais-poupa-no-brasil-tem-faixa-etaria-entre-25-e-35-anos-23052021
+2021-05-24 19:51:39,966          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-convoca-apoiadores-para-passeio-de-moto-no-rio-23052021
+2021-05-24 19:51:39,971          root     INFO: Removed http://noticias.r7.com/brasil/consciencia-e-coracao-tranquilos-diz-medica-que-deixou-secretaria-23052021
+2021-05-24 19:51:39,976          root     INFO: Removed http://noticias.r7.com/brasil/policia-federal-confirma-realizacao-de-concurso-neste-domingo-23-23052021
+2021-05-24 19:51:39,982          root     INFO: Removed http://noticias.r7.com/brasil/sincerao-aziz-se-equilibra-no-fogo-cruzado-da-cpi-da-covid-23052021
+2021-05-24 19:51:39,989          root     INFO: Removed http://noticias.r7.com/brasil/faltam-55-mi-de-vacinas-no-pais-para-a-2-dose-aponta-estudo-23052021
+2021-05-24 19:51:39,990          root     INFO: Finished script
