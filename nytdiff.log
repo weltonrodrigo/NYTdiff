@@ -1,8 +1,13 @@
-2021-05-24 22:40:22,852          root     INFO: Starting script
-2021-05-24 22:40:23,659          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-24 22:40:24,314          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-24 22:40:24,974          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-24 22:40:25,242          root     INFO: Parsing R7 - Brasil
-2021-05-24 22:40:30,911          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/garimpo-ilegal-e-devastacao-crescem-na-terra-indigena-yanomami.shtml
-2021-05-24 22:40:34,121          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ciencia/2021/04/oncas-da-amazonia-vivem-em-arvores-durante-um-terco-do-ano-mostra-estudo.shtml
-2021-05-24 22:40:34,122          root     INFO: Finished script
+2021-05-24 22:54:17,865          root     INFO: Starting script
+2021-05-24 22:54:18,891          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-24 22:54:19,694          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-24 22:54:20,517          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-24 22:54:20,743          root     INFO: Parsing R7 - Brasil
+2021-05-24 22:54:26,912          root     INFO: ??O garimpo ilegal na Terra Indígena (TI) Yanomami cresce a um ritmo inédito desde o início deste ano, como revela um levantamento <del>composto</del> <ins>feito</ins> com imagens de satélite e fotografias aéreas produzidas no início de abril. Só no primeiro trimestre deste ano a devastação visível correspondeu a 200 hectares, cerca de 10% de toda a devastação acumulada em dez anos. Leia mais (05/24/2021 - 19h22)
+2021-05-24 22:54:28,800          root     INFO: Media ready with ids: 1396962833766748164
+2021-05-24 22:54:28,801          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-24 22:54:28,801          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/garimpo-ilegal-e-devastacao-crescem-na-terra-indigena-yanomami.shtml
+2021-05-24 22:54:28,811          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/garimpo-ilegal-e-devastacao-crescem-na-terra-indigena-yanomami.shtml
+2021-05-24 22:54:29,081          root     INFO: Replying to: 1396962835608088578
+2021-05-24 22:54:29,432          root     INFO: Id to store: 1396962836635693056
+2021-05-24 22:54:32,922          root     INFO: Finished script
