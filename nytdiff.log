@@ -1,6 +1,10 @@
-2021-05-24 12:45:17,171          root     INFO: Starting script
-2021-05-24 12:45:17,986          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-24 12:45:18,644          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-24 12:45:19,312          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-24 12:45:19,625          root     INFO: Parsing R7 - Brasil
-2021-05-24 12:45:28,211          root     INFO: Finished script
+2021-05-24 13:21:07,657          root     INFO: Starting script
+2021-05-24 13:21:08,502          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-24 13:21:09,198          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-24 13:21:09,886          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-24 13:21:10,004          root     INFO: Parsing R7 - Brasil
+2021-05-24 13:21:10,149          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/a-argentina-e-o-amado-bukele.shtml
+2021-05-24 13:21:13,303          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/para-mourao-pazuello-deve-ser-punido-pelo-exercito-apos-ida-a-ato-politico-com-bolsonaro.shtml
+2021-05-24 13:21:19,826          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/delacao-premiada-na-cpi-da-covid-por-que-nao.shtml
+2021-05-24 13:21:19,834          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/citado-na-cpi-malafaia-diz-falar-quase-que-diariamente-com-bolsonaro-e-que-iria-a-comissao-digo-tudo.shtml
+2021-05-24 13:21:19,834          root     INFO: Finished script
