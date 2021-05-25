@@ -1,21 +1,20 @@
-2021-05-24 23:58:14,373          root     INFO: Starting script
-2021-05-24 23:58:15,226          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-24 23:58:15,936          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-24 23:58:16,629          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-24 23:58:16,832          root     INFO: Parsing R7 - Brasil
-2021-05-24 23:58:20,051          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ato-com-bolsonaro-no-rio-pode-ter-ferido-codigos-penal-de-transito-e-do-exercito-com-3-potenciais-infracoes.shtml
-2021-05-24 23:58:20,188          root     INFO: <del>Ministro da Defesa se reúne com comandante do Exército, e</del> <ins>Exército abre procedimento formal para investigar participação de</ins> Pazuello <del>deve se explicar por escrito após</del> <ins>em</ins> ato político <ins>com Bolsonaro</ins>
-2021-05-24 23:58:21,889          root     INFO: Media ready with ids: 1396978911058309120
-2021-05-24 23:58:21,890          root     INFO: Text to tweet: Modificação do Título
-2021-05-24 23:58:21,890          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-da-defesa-se-reune-com-comandante-do-exercito-e-pazuello-deve-se-explicar-por-escrito-apos-ato-politico.shtml
-2021-05-24 23:58:21,900          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-da-defesa-se-reune-com-comandante-do-exercito-e-pazuello-deve-se-explicar-por-escrito-apos-ato-politico.shtml
-2021-05-24 23:58:22,069          root     INFO: Replying to: 1396978912392011778
-2021-05-24 23:58:22,283          root     INFO: Id to store: 1396978913092505604
-2021-05-24 23:58:22,290          root     INFO: O <del>ministro da Defesa, general da reserva Walter Braga Netto, e o comandante</del> <ins>comando</ins> do <del>Exército, Paulo Sérgio Nogueira de Oliveira, se reuniram nesta segunda-feira (24)</del> <ins>Exército abriu um procedimento formal</ins> para <del>discutir</del> <ins>investigar</ins> o gesto do general da ativa Eduardo <del>Pazuello</del> <ins>Pazuello, ex-ministro da Saúde,</ins> de subir <del>a um</del> <ins>num</ins> palanque <ins>e participar de ato</ins> político ao lado do presidente Jair <del>Bolsonaro no dia anterior, no Rio de Janeiro.</del> <ins>Bolsonaro.</ins> Leia mais (05/24/2021 - 17h59)
-2021-05-24 23:58:24,057          root     INFO: Media ready with ids: 1396978919962726405
-2021-05-24 23:58:24,057          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-24 23:58:24,058          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-da-defesa-se-reune-com-comandante-do-exercito-e-pazuello-deve-se-explicar-por-escrito-apos-ato-politico.shtml
-2021-05-24 23:58:24,075          root     INFO: Replying to: 1396978913092505604
-2021-05-24 23:58:24,305          root     INFO: Id to store: 1396978921556561921
-2021-05-24 23:58:30,933          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/na-cpi-pazuello-distorce-motivo-de-apagao-de-dados-e-erra-sobre-mascaras-e-isolamento-veja-checagem.shtml
-2021-05-24 23:58:30,934          root     INFO: Finished script
+2021-05-25 01:26:21,363          root     INFO: Starting script
+2021-05-25 01:26:22,477          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-25 01:26:23,134          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-25 01:26:23,802          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-25 01:26:24,007          root     INFO: Parsing R7 - Brasil
+2021-05-25 01:26:26,873          root     INFO: <del>Ministro da Defesa se reúne com comandante do Exército, e</del> <ins>Sob pressão, Exército abre processo disciplinar contra</ins> Pazuello <del>deve se explicar</del> por <del>escrito após</del> ato político <ins>com Bolsonaro</ins>
+2021-05-25 01:26:28,622          root     INFO: Media ready with ids: 1397001085169147906
+2021-05-25 01:26:28,623          root     INFO: Text to tweet: Modificação do Título
+2021-05-25 01:26:28,623          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-da-defesa-se-reune-com-comandante-do-exercito-e-pazuello-deve-se-explicar-por-escrito-apos-ato-politico.shtml
+2021-05-25 01:26:28,634          root     INFO: Replying to: 1396978921556561921
+2021-05-25 01:26:28,956          root     INFO: Id to store: 1397001086960082945
+2021-05-25 01:26:28,965          root     INFO: <del>O ministro da Defesa, general da reserva Walter Braga Netto, e o comandante</del> <ins>No primeiro dia útil após a ida</ins> do <del>Exército, Paulo Sérgio Nogueira de Oliveira, se reuniram nesta segunda-feira (24) para discutir o gesto do general</del> <ins>ex-ministro</ins> da <del>ativa</del> <ins>Saúde</ins> Eduardo Pazuello <del>de subir</del> a um palanque político ao lado do presidente Jair <del>Bolsonaro no dia anterior, no Rio de Janeiro.</del> <ins>Bolsonaro, o Exército abriu um procedimento disciplinar contra o general da ativa.</ins> Leia mais (05/24/2021 - 17h59)
+2021-05-25 01:26:30,849          root     INFO: Media ready with ids: 1397001093855522820
+2021-05-25 01:26:30,849          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-25 01:26:30,849          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ministro-da-defesa-se-reune-com-comandante-do-exercito-e-pazuello-deve-se-explicar-por-escrito-apos-ato-politico.shtml
+2021-05-25 01:26:30,860          root     INFO: Replying to: 1397001086960082945
+2021-05-25 01:26:31,101          root     INFO: Id to store: 1397001095981977603
+2021-05-25 01:26:33,669          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/barroso-do-stf-critica-governo-e-determina-medidas-para-protecao-de-duas-terras-indigenas.shtml
+2021-05-25 01:26:36,775          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/peixes-do-pinheiros-sao-boa-noticia-mas-so-perdurarao-se-investimento-em-despoluicao-continuar.shtml
+2021-05-25 01:26:36,775          root     INFO: Finished script
