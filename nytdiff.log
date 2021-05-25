@@ -1,55 +1,15 @@
-2021-05-25 02:47:15,142          root     INFO: Starting script
-2021-05-25 02:47:16,116          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-25 02:47:16,912          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-25 02:47:17,696          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-25 02:47:17,928          root     INFO: Parsing R7 - Brasil
-2021-05-25 02:47:18,050          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/05/mesmo-sob-estado-de-emergencia-cartola-diz-que-toquio-tera-olimpiada.shtml
-2021-05-25 02:47:18,066          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/yascha-mounk/2021/05/a-politica-do-seculo-20-se-foi-para-sempre.shtml
-2021-05-25 02:47:18,079          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/decreto-sobre-redes-sociais-e-idiota.shtml
-2021-05-25 02:47:18,094          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/tem-jeito.shtml
-2021-05-25 02:47:18,107          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/05/a-memoria-de-ines-etienne-romeu.shtml
-2021-05-25 02:47:18,120          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/guilhermeboulos/2021/05/pazuello-sem-punicao-e-o-caminho-do-golpe-bolsonarista.shtml
-2021-05-25 02:47:18,133          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/05/a-tese-do-fantoche-presidencial.shtml
-2021-05-25 02:47:18,146          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/05/e-enorme-equivoco-associar-o-auxilio-a-reducao-eficaz-da-pobreza.shtml
-2021-05-25 02:47:18,162          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/05/covid-19-provoca-atraso-na-entrega-e-alta-de-precos-de-maquinas-agricolas.shtml
-2021-05-25 02:47:18,175          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/politicos-e-botecos-da-internet.shtml
-2021-05-25 02:47:18,188          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/a-segunda-cepa-do-negacionismo.shtml
-2021-05-25 02:47:20,589          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/se-concedermos-nao-havera-judiciario-amanha-diz-fachin-sobre-ataques-as-eleicoes-e-a-democracia.shtml
-2021-05-25 02:47:20,601          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/apos-almoco-com-lula-fhc-encontra-doria-e-da-apoio-a-previas-do-psdb-para-candidatura-em-2022.shtml
-2021-05-25 02:47:20,614          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/com-aval-de-lula-deputado-federal-do-pt-encampa-candidatura-ao-governo-de-minas.shtml
-2021-05-25 02:47:20,628          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/alem-de-previsoes-sobre-a-covid-osmar-terra-erra-sobre-sucesso-de-programa-de-bolsonaro-contra-violencia.shtml
-2021-05-25 02:47:20,643          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/vamos-brigar-para-aprovar-cota-de-30-para-mulheres-diz-presidente-de-movimento-de-formacao-de-candidatas.shtml
-2021-05-25 02:47:20,657          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/05/finalmente-guedes-vai-te-surpreender.shtml
-2021-05-25 02:47:20,679          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/governo-so-fez-contraproposta-formal-por-vacinas-da-pfizer-em-dezembro-apontam-emails-na-cpi.shtml
-2021-05-25 02:47:20,693          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/entenda-as-mudancas-propostas-para-o-novo-codigo-de-processo-penal.shtml
-2021-05-25 02:47:20,712          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-quer-saber-de-capita-cloroquina-orientacao-sobre-remedio-sem-eficacia-em-gravidas-e-criancas.shtml
-2021-05-25 02:47:20,726          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/opositores-dominam-ranking-de-popularidade-digital-na-cpi-da-covid-com-senador-governista-a-frente.shtml
-2021-05-25 02:47:21,033          root     INFO: Vladimir Marques votou em Roberto Freire, então do PCB, em <del>1994,</del> <ins>1989, e</ins> em Fernando Henrique Cardoso, do PSDB, <del>no segundo turno.</del> <ins>em 1994.</ins> E em Lula, do PT, em 2002. Leia mais (05/24/2021 - 08h08)
-2021-05-25 02:47:22,833          root     INFO: Media ready with ids: 1397021445151240195
-2021-05-25 02:47:22,834          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-25 02:47:22,834          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/o-comunista-com-fhc-e-lula.shtml
-2021-05-25 02:47:22,843          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/o-comunista-com-fhc-e-lula.shtml
-2021-05-25 02:47:23,120          root     INFO: Replying to: 1397021447021862919
-2021-05-25 02:47:23,401          root     INFO: Id to store: 1397021447969808384
-2021-05-25 02:47:28,668          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/05/perda-de-direitos-trabalhistas-coloca-em-risco-a-dignidade-humana.shtml
-2021-05-25 02:47:28,673          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/pandemia-e-brutalidade-policial-no-rio-de-janeiro.shtml
-2021-05-25 02:47:28,678          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ex-deputado-jean-wyllys-anuncia-saida-do-psol-e-filiacao-ao-pt.shtml
-2021-05-25 02:47:28,682          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/05/precisamos-da-frente-ampla-contra-o-odio-o-resto-se-ve-depois.shtml
-2021-05-25 02:47:28,687          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/05/covid-e-treva.shtml
-2021-05-25 02:47:28,692          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-chama-fhc-de-cara-de-pau-e-sugere-financiar-mst-para-que-invada-fazenda-do-ex-presidente.shtml
-2021-05-25 02:47:28,697          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/pf-usou-emails-agendas-anotacoes-e-decisoes-como-indicios-contra-toffoli-veja-depoimento-de-cabral.shtml
-2021-05-25 02:47:28,702          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/decreto-de-bolsonaro-inverte-logica-ao-impedir-moderacao-de-contas-e-criar-index-do-que-pode-ser-removido-na-internet.shtml
-2021-05-25 02:47:28,706          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-colonialismo-no-centro-da-questao-israel-palestina.shtml
-2021-05-25 02:47:28,711          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/eu-serei-candidato-contra-bolsonaro-diz-lula-a-revista-francesa.shtml
-2021-05-25 02:47:28,715          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/angela-alonso/2021/05/a-novela-da-politica.shtml
-2021-05-25 02:47:28,720          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/morre-aos-45-anos-o-procurador-alessandro-oliveira-chefe-da-lava-jato-em-curitiba.shtml
-2021-05-25 02:47:28,725          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/governo-ignorou-10-emails-da-pfizer-sobre-vacinas-em-1-mes-mostram-documentos-da-cpi.shtml
-2021-05-25 02:47:28,730          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/05/governo-bolsonaro-tem-coronavirus-como-aliado-e-deve-responder-pelas-mortes.shtml
-2021-05-25 02:47:28,735          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2021/05/fabricas-de-sucessos.shtml
-2021-05-25 02:47:28,741          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/no-tudo-ou-nada-ciro-vai-acabar-no-planalto-ou-em-crise-de-identidade.shtml
-2021-05-25 02:47:28,746          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2021/05/o-sexo-dos-homens-imbrochaveis.shtml
-2021-05-25 02:47:28,751          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/05/general-vira-recruta-na-cpi.shtml
-2021-05-25 02:47:28,756          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/05/se-dinheiro-rarear-vai-ser-impossivel-esconder-problema-dos-estaduais.shtml
-2021-05-25 02:47:28,762          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/aras-pede-que-colunista-da-folha-seja-condenado-por-chama-lo-de-poste-geral-da-republica.shtml
-2021-05-25 02:47:28,767          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/05/muito-alem-do-cafe-colombia-tem-bebidas-que-levantam-ate-defuntos.shtml
-2021-05-25 02:47:28,769          root     INFO: Finished script
+2021-05-25 03:31:55,426          root     INFO: Starting script
+2021-05-25 03:31:56,393          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-25 03:31:57,177          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-25 03:31:57,962          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-25 03:31:58,159          root     INFO: Parsing R7 - Brasil
+2021-05-25 03:32:06,739          root     INFO: Removed http://noticias.r7.com/brasil/embaixador-da-china-se-irrita-com-tuite-do-governo-24052021
+2021-05-25 03:32:06,744          root     INFO: Removed http://noticias.r7.com/brasil/intencao-de-consumo-das-familias-cai-16-ao-menor-nivel-para-maio-24052021
+2021-05-25 03:32:06,749          root     INFO: Removed http://noticias.r7.com/brasil/crimes-ligados-ao-caixa-2-ja-sao-20-dos-casos-em-sp-aponta-pf-24052021
+2021-05-25 03:32:06,754          root     INFO: Removed http://noticias.r7.com/brasil/ccj-rejeita-retirada-de-pauta-da-proposta-de-reforma-administrativa-24052021
+2021-05-25 03:32:06,759          root     INFO: Removed http://noticias.r7.com/brasil/dia-historico-diz-flavio-bolsonaro-sobre-ato-no-rio-de-janeiro-24052021
+2021-05-25 03:32:06,763          root     INFO: Removed http://noticias.r7.com/brasil/bc-preve-uso-de-moeda-digital-brasileira-no-varejo-24052021
+2021-05-25 03:32:06,770          root     INFO: Removed http://noticias.r7.com/brasil/deputado-quer-punicao-de-pazuello-por-participar-de-ato-no-rj-24052021
+2021-05-25 03:32:06,775          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-entende-que-cometeu-erro-diz-mourao-sobre-ato-no-rio-24052021
+2021-05-25 03:32:06,780          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-pisoteia-disciplina-e-ri-a-ceu-aberto-diz-relator-da-cpi-24052021
+2021-05-25 03:32:06,780          root     INFO: Finished script
