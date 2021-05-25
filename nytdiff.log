@@ -1,41 +1,43 @@
-2021-05-25 17:27:12,806          root     INFO: Starting script
-2021-05-25 17:27:13,778          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-25 17:27:14,576          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-25 17:27:15,382          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-25 17:27:15,543          root     INFO: Parsing R7 - Brasil
-2021-05-25 17:27:15,728          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/05/espetaculo-da-forca-e-a-droga-do-direitista-que-se-gaba-de-nao-ser-bonzinho.shtml
-2021-05-25 17:27:15,743          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/precisamos-da-vacina-brasileira.shtml
-2021-05-25 17:27:18,483          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/lira-ve-bolsonaro-em-pior-momento-aponta-boa-fase-de-lula-e-descarta-terceira-via-em-2022.shtml
-2021-05-25 17:27:18,500          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaristas-da-cpi-reclamam-de-artigo-e-policia-do-senado-abre-investigacao-contra-colunista-da-folha.shtml
-2021-05-25 17:27:18,514          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-faz-novo-aceno-ao-centrao-e-edita-portaria-que-reduz-poder-do-executivo-no-pagamento-de-emendas.shtml
-2021-05-25 17:27:18,528          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/renan-calheiros-aponta-11-contradicoes-no-depoimento-da-capita-cloroquina-a-cpi.shtml
-2021-05-25 17:27:23,903          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/veja-as-artes-vinhos-e-relogios-da-lava-jato-que-serao-leiloados-25052021
-2021-05-25 17:27:23,917          root     INFO: New article tracked: http://noticias.r7.com/brasil/secretaria-que-defende-cloroquina-vai-a-cpi-com-habeas-corpus-do-stf-25052021
-2021-05-25 17:27:23,931          root     INFO: New article tracked: http://noticias.r7.com/brasil/integrantes-do-bolsa-familia-com-nis-final-6-recebem-auxilio-hoje-25-25052021
-2021-05-25 17:27:23,945          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-vota-convocacao-de-governadores-e-prefeitos-na-quarta-24052021
-2021-05-25 17:27:23,958          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-determina-que-governo-proteja-terras-indigenas-24052021
-2021-05-25 17:27:23,972          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-aprovacao-de-mp-camara-debate-privatizacao-da-eletrobras-24052021
-2021-05-25 17:27:23,987          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-quatro-meses-brasil-tem-20-da-populacao-vacinada-para-covid-24052021
-2021-05-25 17:27:24,002          root     INFO: New article tracked: http://noticias.r7.com/brasil/eduardo-cunha-tera-acesso-a-mensagens-da-operacao-spoofing-24052021
-2021-05-25 17:27:24,016          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-reuniao-com-guedes-pacheco-detalha-reforma-tributaria-24052021
-2021-05-25 17:27:24,031          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-criticar-pazuello-cpi-planeja-mudar-estrategia-de-depoimentos-24052021
-2021-05-25 17:27:24,043          root     INFO: New article tracked: http://noticias.r7.com/brasil/paes-ainda-nao-se-posicionou-sobre-motociata-de-bolsonaro-no-rj-24052021
-2021-05-25 17:27:24,055          root     INFO: New article tracked: http://noticias.r7.com/brasil/nunes-marques-vai-assumir-a-presidencia-da-2-turma-no-stf-24052021
-2021-05-25 17:27:24,069          root     INFO: New article tracked: http://noticias.r7.com/brasil/rio-moraes-pede-vista-e-suspende-julgamento-sobre-letalidade-policial-24052021
-2021-05-25 17:27:24,083          root     INFO: New article tracked: http://noticias.r7.com/brasil/sputnik-v-tem-alta-eficacia-contra-cepa-brasileira-indica-estudo-24052021
-2021-05-25 17:27:24,096          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-do-voto-impresso-aprova-convite-para-ouvir-barroso-24052021
-2021-05-25 17:27:24,109          root     INFO: New article tracked: http://noticias.r7.com/brasil/obras-de-arte-relogios-de-luxo-e-vinhos-da-lava-jato-vao-a-leilao-24052021
-2021-05-25 17:27:24,126          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-pe-denuncia-ex-secretario-de-saude-do-recife-por-peculato-24052021
-2021-05-25 17:27:24,140          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-do-bc-reconhece-desaceleracao-da-vacinacao-24052021
-2021-05-25 17:27:24,213          root     INFO: Removed http://noticias.r7.com/brasil/brasil-registra-860-mortes-por-covid-e-35819-novos-casos-em-24h-23052021
-2021-05-25 17:27:24,224          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/entenda-a-advocacia-popular-e-os-meios-de-atendimento-juridico-as-minorias-sociais.shtml
-2021-05-25 17:27:24,232          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4444
-2021-05-25 17:27:24,241          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/itamaraty-criou-grupo-para-buscar-vacinas-contra-covid-mais-de-um-ano-apos-inicio-da-pandemia.shtml
-2021-05-25 17:27:24,247          root     INFO: Removed http://noticias.r7.com/brasil/covid-19-tres-estados-ja-tem-casos-suspeitos-da-variante-indiana-24052021
-2021-05-25 17:27:24,253          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-esta-no-equador-para-assistir-a-posse-de-novo-presidente-24052021
-2021-05-25 17:27:24,261          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/fhc-e-lula-se-reunem-na-casa-de-ex-ministro-nelson-jobim.shtml
-2021-05-25 17:27:24,268          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-anuncia-300-mil-novas-doses-de-vacina-para-o-maranhao-23052021
-2021-05-25 17:27:24,273          root     INFO: Removed http://noticias.r7.com/brasil/integrantes-do-bolsa-familia-com-nis-final-5-recebem-auxilio-hoje-24-24052021
-2021-05-25 17:27:24,279          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/fogo-suspenso.shtml
-2021-05-25 17:27:24,284          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/15-anos-dos-crimes-de-maio.shtml
-2021-05-25 17:27:24,285          root     INFO: Finished script
+2021-05-25 18:28:21,832          root     INFO: Starting script
+2021-05-25 18:28:22,822          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-25 18:28:23,606          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-25 18:28:24,401          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-25 18:28:24,735          root     INFO: Parsing R7 - Brasil
+2021-05-25 18:28:27,486          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/secretaria-defende-cloroquina-a-cpi-e-contradiz-versoes-de-pazuello-sobre-tratamento-e-crise-em-am.shtml
+2021-05-25 18:28:27,500          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/eduardo-leite-busca-apoio-de-fhc-contra-modelo-de-doria-para-previas-do-psdb.shtml
+2021-05-25 18:28:27,568          root     INFO: A Polícia do Senado abriu investigação contra o sociólogo Celso Rocha de Barros, colunista da Folha, por causa do artigo <del>"'Consultório</del> <ins>"Consultório</ins> do Crime' tenta salvar Bolsonaro na CPI da Covid", publicado no dia 10. Leia mais (05/25/2021 - 13h28)
+2021-05-25 18:28:29,370          root     INFO: Media ready with ids: 1397258282960556037
+2021-05-25 18:28:29,371          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-25 18:28:29,371          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaristas-da-cpi-reclamam-de-artigo-e-policia-do-senado-abre-investigacao-contra-colunista-da-folha.shtml
+2021-05-25 18:28:29,379          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaristas-da-cpi-reclamam-de-artigo-e-policia-do-senado-abre-investigacao-contra-colunista-da-folha.shtml
+2021-05-25 18:28:29,695          root     INFO: Replying to: 1397258284936179716
+2021-05-25 18:28:30,026          root     INFO: Id to store: 1397258285955309571
+2021-05-25 18:28:35,427          root     INFO: New article tracked: http://noticias.r7.com/brasil/relatoria-destaca-11-contradicoes-de-secretaria-ate-agora-25052021
+2021-05-25 18:28:35,440          root     INFO: New article tracked: http://noticias.r7.com/brasil/wajngarten-condena-fala-de-renan-sobre-holocausto-na-cpi-da-covid-25052021
+2021-05-25 18:28:35,453          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-recebe-ficha-de-apuracao-de-infracao-e-vai-apresentar-defesa-25052021
+2021-05-25 18:28:35,467          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-do-congresso-critica-aglomeracoes-nao-facam-isso-25052021
+2021-05-25 18:28:35,479          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-tem-100-gb-em-documentos-sigilosos-25052021
+2021-05-25 18:28:35,492          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-aprova-auditoria-em-gastos-do-cartao-da-presidencia-25052021
+2021-05-25 18:28:35,505          root     INFO: New article tracked: http://noticias.r7.com/brasil/mayra-diz-que-aplicativo-tratecov-poderia-ter-salvo-muitas-vidas-25052021
+2021-05-25 18:28:35,518          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-oficio-secretaria-classifica-como-inadmissivel-nao-usar-cloroquina-25052021
+2021-05-25 18:28:35,533          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-validara-programa-de-testagem-em-massa-na-quinta-feira-25052021
+2021-05-25 18:28:35,545          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-se-irrita-com-apoiadora-brinca-com-impeachment-e-mira-22-25052021
+2021-05-25 18:28:35,563          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-presidente-dilma-faz-exames-apos-passar-mal-durante-a-noite-25052021
+2021-05-25 18:28:35,576          root     INFO: New article tracked: http://noticias.r7.com/brasil/fechar-escolas-impediu-imunizacao-de-rebanho-em-criancas-diz-mayra-25052021
+2021-05-25 18:28:35,588          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-secretaria-que-defende-cloroquina-veja-ao-vivo-25052021
+2021-05-25 18:28:35,602          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-analisa-convocacao-de-9-governadores-e-12-prefeitos-25052021
+2021-05-25 18:28:35,773          root     INFO: Removed http://noticias.r7.com/brasil/obras-de-arte-relogios-de-luxo-e-vinhos-da-lava-jato-vao-a-leilao-24052021
+2021-05-25 18:28:35,779          root     INFO: Removed http://noticias.r7.com/brasil/comissao-do-voto-impresso-aprova-convite-para-ouvir-barroso-24052021
+2021-05-25 18:28:35,782          root     INFO: Removed http://noticias.r7.com/brasil/sputnik-v-tem-alta-eficacia-contra-cepa-brasileira-indica-estudo-24052021
+2021-05-25 18:28:35,788          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/datafolha-90-dizem-que-o-brasil-tem-jeito-e-70-falam-que-sentem-orgulho-do-pais.shtml
+2021-05-25 18:28:35,793          root     INFO: Removed http://noticias.r7.com/brasil/eduardo-cunha-tera-acesso-a-mensagens-da-operacao-spoofing-24052021
+2021-05-25 18:28:35,797          root     INFO: Removed http://noticias.r7.com/brasil/apos-criticar-pazuello-cpi-planeja-mudar-estrategia-de-depoimentos-24052021
+2021-05-25 18:28:35,802          root     INFO: Removed http://noticias.r7.com/brasil/mpf-pe-denuncia-ex-secretario-de-saude-do-recife-por-peculato-24052021
+2021-05-25 18:28:35,806          root     INFO: Removed http://noticias.r7.com/brasil/nunes-marques-vai-assumir-a-presidencia-da-2-turma-no-stf-24052021
+2021-05-25 18:28:35,811          root     INFO: Removed http://noticias.r7.com/brasil/presidente-do-bc-reconhece-desaceleracao-da-vacinacao-24052021
+2021-05-25 18:28:35,816          root     INFO: Removed http://noticias.r7.com/brasil/rio-moraes-pede-vista-e-suspende-julgamento-sobre-letalidade-policial-24052021
+2021-05-25 18:28:35,820          root     INFO: Removed http://noticias.r7.com/brasil/apos-quatro-meses-brasil-tem-20-da-populacao-vacinada-para-covid-24052021
+2021-05-25 18:28:35,824          root     INFO: Removed http://noticias.r7.com/brasil/paes-ainda-nao-se-posicionou-sobre-motociata-de-bolsonaro-no-rj-24052021
+2021-05-25 18:28:35,829          root     INFO: Removed http://noticias.r7.com/brasil/apos-reuniao-com-guedes-pacheco-detalha-reforma-tributaria-24052021
+2021-05-25 18:28:35,833          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/fachin-vota-a-favor-da-delacao-de-cabral-que-cita-toffoli-sob-condicao-de-stf-dar-aval-a-acordos-com-pf.shtml
+2021-05-25 18:28:35,834          root     INFO: Finished script
