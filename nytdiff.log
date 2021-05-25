@@ -1,25 +1,10 @@
-2021-05-25 20:33:01,419          root     INFO: Starting script
-2021-05-25 20:33:02,230          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-25 20:33:02,886          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-25 20:33:03,549          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-25 20:33:03,740          root     INFO: Parsing R7 - Brasil
-2021-05-25 20:33:03,900          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/05/nao-podemos-ter-medo-de-ir-as-ruas-protestar-nem-deixar-de-ter-cuidado.shtml
-2021-05-25 20:33:06,558          root     INFO: Em CPI, secretária erra ao defender aplicativo que recomendava uso de <del>cloroquina</del> <ins>cloroquina; veja checagem</ins>
-2021-05-25 20:33:08,272          root     INFO: Media ready with ids: 1397289651870834691
-2021-05-25 20:33:08,273          root     INFO: Text to tweet: Modificação do Título
-2021-05-25 20:33:08,273          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-cpi-secretaria-erra-ao-defender-aplicativo-que-recomendava-uso-de-cloroquina.shtml
-2021-05-25 20:33:08,282          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-cpi-secretaria-erra-ao-defender-aplicativo-que-recomendava-uso-de-cloroquina.shtml
-2021-05-25 20:33:08,483          root     INFO: Replying to: 1397289653347274757
-2021-05-25 20:33:08,750          root     INFO: Id to store: 1397289654177705985
-2021-05-25 20:33:09,026          root     INFO: ?A ex-presidente Dilma Rousseff <del>(PT)</del> <ins>(PT), 73,</ins> passou por exames médicos depois de sentir um mal-estar na noite <del>desta</del> <ins>de</ins> segunda-feira (24), segundo nota publicada em seu site oficial. Leia mais (05/25/2021 - 11h02)
-2021-05-25 20:33:10,777          root     INFO: Media ready with ids: 1397289662209740800
-2021-05-25 20:33:10,778          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-25 20:33:10,779          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/apos-mal-estar-ex-presidente-dilma-passa-por-exames-em-hospital-de-porto-alegre.shtml
-2021-05-25 20:33:10,788          root     INFO: Replying to: 1397201145093890048
-2021-05-25 20:33:11,033          root     INFO: Id to store: 1397289663824601092
-2021-05-25 20:33:13,549          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2021/05/agrotoxico-mais-usado-do-brasil-esta-associado-a-503-mortes-infantis-por-ano-revela-estudo.shtml
-2021-05-25 20:33:13,563          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://ambiencia.blogfolha.uol.com.br/?p=954
-2021-05-25 20:33:16,575          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/olho-nas-utis.shtml
-2021-05-25 20:33:16,581          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/japao-vai-despejar-no-mar-agua-de-fukushima-apos-tratamento.shtml
-2021-05-25 20:33:16,585          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/apesar-da-pandemia-niveis-globais-de-gases-do-efeito-estufa-sobem-em-2020.shtml
-2021-05-25 20:33:16,586          root     INFO: Finished script
+2021-05-25 20:57:09,660          root     INFO: Starting script
+2021-05-25 20:57:10,450          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-25 20:57:11,095          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-25 20:57:11,739          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-25 20:57:11,905          root     INFO: Parsing R7 - Brasil
+2021-05-25 20:57:12,069          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/ministerio-transformou-obsessoes-de-bolsonaro-em-diretrizes-oficiais.shtml
+2021-05-25 20:57:14,369          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/ministerio-transformou-obsessoes-de-bolsonaro-em-diretrizes-oficiais.shtml
+2021-05-25 20:57:19,361          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49631
+2021-05-25 20:57:19,365          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/05/censo-chines-estimula-mudanca-de-politicas-e-de-estrategias-empresariais.shtml
+2021-05-25 20:57:19,365          root     INFO: Finished script
