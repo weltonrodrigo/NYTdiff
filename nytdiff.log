@@ -1,23 +1,6 @@
-2021-05-25 11:10:53,961          root     INFO: Starting script
-2021-05-25 11:10:54,774          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-25 11:10:55,436          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-25 11:10:56,106          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-25 11:10:56,249          root     INFO: Parsing R7 - Brasil
-2021-05-25 11:10:56,396          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/para-energia-e-demais-usos-a-agua-e-uma-so.shtml
-2021-05-25 11:10:56,692          root     INFO: É enorme <del>equivoco</del> <ins>equívoco</ins> associar o auxílio à redução eficaz da pobreza
-2021-05-25 11:10:58,319          root     INFO: Media ready with ids: 1397148178286354436
-2021-05-25 11:10:58,320          root     INFO: Text to tweet: Modificação do Título
-2021-05-25 11:10:58,320          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/05/e-enorme-equivoco-associar-o-auxilio-a-reducao-eficaz-da-pobreza.shtml
-2021-05-25 11:10:58,335          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/05/e-enorme-equivoco-associar-o-auxilio-a-reducao-eficaz-da-pobreza.shtml
-2021-05-25 11:10:58,499          root     INFO: Replying to: 1397148179561390080
-2021-05-25 11:10:58,731          root     INFO: Id to store: 1397148180324700164
-2021-05-25 11:10:58,738          root     INFO: Depois de muitos anúncios sobre a reformulação da rede de assistência social, com direito a aumento do valor do benefício médio do Bolsa Família e registro de informações cadastrais via aplicativo, a semana passada terminou com a defesa <del>-mais</del> <ins>—mais</ins> uma <del>vez-</del> <ins>vez—</ins> da renovação do auxílio, em agosto deste ano, como a forma mais eficaz de combater uma possível terceira onda de Covid-19, o elevado desemprego e o aumento da pobreza. Leia mais (05/24/2021 - 23h15)
-2021-05-25 11:11:00,516          root     INFO: Media ready with ids: 1397148187299811328
-2021-05-25 11:11:00,517          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-25 11:11:00,517          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/05/e-enorme-equivoco-associar-o-auxilio-a-reducao-eficaz-da-pobreza.shtml
-2021-05-25 11:11:00,527          root     INFO: Replying to: 1397148180324700164
-2021-05-25 11:11:00,765          root     INFO: Id to store: 1397148188818161664
-2021-05-25 11:11:03,249          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4455
-2021-05-25 11:11:09,202          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/rachada-sobre-atos-na-pandemia-esquerda-decide-convocar-ida-as-ruas-por-impeachment-de-bolsonaro.shtml
-2021-05-25 11:11:09,207          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2021/05/onde-esta-meu-coracao-traz-delicadeza-ao-quebrar-estereotipos-sobre-o-crack.shtml
-2021-05-25 11:11:09,208          root     INFO: Finished script
+2021-05-25 11:42:01,165          root     INFO: Starting script
+2021-05-25 11:42:01,972          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-25 11:42:02,636          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-25 11:42:03,290          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-25 11:42:03,434          root     INFO: Parsing R7 - Brasil
+2021-05-25 11:42:10,905          root     INFO: Finished script
