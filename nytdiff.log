@@ -1,10 +1,12 @@
-2021-05-25 19:22:43,540          root     INFO: Starting script
-2021-05-25 19:22:44,369          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-25 19:22:45,012          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-25 19:22:45,653          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-25 19:22:45,873          root     INFO: Parsing R7 - Brasil
-2021-05-25 19:22:52,626          root     INFO: Removed http://noticias.r7.com/brasil/wajngarten-condena-fala-de-renan-sobre-holocausto-na-cpi-da-covid-25052021
-2021-05-25 19:22:52,632          root     INFO: Removed http://noticias.r7.com/brasil/presidente-do-congresso-critica-aglomeracoes-nao-facam-isso-25052021
-2021-05-25 19:22:52,637          root     INFO: Removed http://noticias.r7.com/brasil/relatoria-destaca-11-contradicoes-de-secretaria-ate-agora-25052021
-2021-05-25 19:22:52,642          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-recebe-ficha-de-apuracao-de-infracao-e-vai-apresentar-defesa-25052021
-2021-05-25 19:22:52,643          root     INFO: Finished script
+2021-05-25 19:50:16,370          root     INFO: Starting script
+2021-05-25 19:50:17,179          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-25 19:50:17,831          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-25 19:50:18,492          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-25 19:50:18,687          root     INFO: Parsing R7 - Brasil
+2021-05-25 19:50:27,366          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-se-irrita-com-apoiadora-brinca-com-impeachment-e-mira-2022-25052021
+2021-05-25 19:50:27,927          root     INFO: Removed http://noticias.r7.com/brasil/comissao-aprova-auditoria-em-gastos-do-cartao-da-presidencia-25052021
+2021-05-25 19:50:27,935          root     INFO: Removed http://noticias.r7.com/brasil/mayra-diz-que-aplicativo-tratecov-poderia-ter-salvo-muitas-vidas-25052021
+2021-05-25 19:50:27,940          root     INFO: Removed http://noticias.r7.com/brasil/em-oficio-secretaria-classifica-como-inadmissivel-nao-usar-cloroquina-25052021
+2021-05-25 19:50:27,945          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-se-irrita-com-apoiadora-brinca-com-impeachment-e-mira-22-25052021
+2021-05-25 19:50:27,951          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-tem-100-gb-em-documentos-sigilosos-25052021
+2021-05-25 19:50:27,952          root     INFO: Finished script
