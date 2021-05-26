@@ -1,8 +1,17 @@
-2021-05-26 21:08:27,833          root     INFO: Starting script
-2021-05-26 21:08:28,815          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-26 21:08:29,587          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-26 21:08:30,382          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-26 21:08:30,652          root     INFO: Parsing R7 - Brasil
-2021-05-26 21:08:30,773          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/paulo-guedes-e-o-negacionismo-tributario.shtml
-2021-05-26 21:08:39,424          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/05/pedofilia-se-tornou-mais-uma-das-tantas-tristes-realidades-do-brasil.shtml
-2021-05-26 21:08:39,425          root     INFO: Finished script
+2021-05-26 21:41:55,866          root     INFO: Starting script
+2021-05-26 21:41:56,841          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-26 21:41:57,657          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-26 21:41:58,458          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-26 21:41:58,675          root     INFO: Parsing R7 - Brasil
+2021-05-26 21:41:58,861          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/05/rai-a-voz-do-brasil-na-franca.shtml
+2021-05-26 21:42:01,500          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/justica-arquiva-inquerito-para-apurar-conduta-de-cartunista-e-jornalista-com-base-na-lei-de-seguranca-nacional.shtml
+2021-05-26 21:42:04,199          root     INFO: Suspeita de exportação de madeira ilegal a EUA, Bélgica e Dinamarca, uma madeireira fez ligações a autoridades dos países <del>europe us</del> <ins>europeus</ins> usando telefones do Ibama (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis). Leia mais (05/26/2021 - 17h27)
+2021-05-26 21:42:06,102          root     INFO: Media ready with ids: 1397669394843582474
+2021-05-26 21:42:06,103          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-26 21:42:06,103          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/madeireira-suspeita-de-exportacao-ilegal-fez-ligacoes-a-autoridades-europeias-de-dentro-do-ibama-aponta-pf.shtml
+2021-05-26 21:42:06,112          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/madeireira-suspeita-de-exportacao-ilegal-fez-ligacoes-a-autoridades-europeias-de-dentro-do-ibama-aponta-pf.shtml
+2021-05-26 21:42:06,375          root     INFO: Replying to: 1397669396781355008
+2021-05-26 21:42:06,668          root     INFO: Id to store: 1397669397779648514
+2021-05-26 21:42:09,717          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/quente-e-frio.shtml
+2021-05-26 21:42:09,723          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/senadores-aliados-de-bolsonaro-pedem-ajuda-da-pf-em-cpi-da-covid.shtml
+2021-05-26 21:42:09,723          root     INFO: Finished script
