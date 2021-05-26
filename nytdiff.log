@@ -1,30 +1,8 @@
-2021-05-26 17:41:04,191          root     INFO: Starting script
-2021-05-26 17:41:05,004          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-26 17:41:05,654          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-26 17:41:06,288          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-26 17:41:06,431          root     INFO: Parsing R7 - Brasil
-2021-05-26 17:41:06,593          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/confesso-que-menti.shtml
-2021-05-26 17:41:08,758          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49653
-2021-05-26 17:41:08,793          root     INFO: Os senadores <del>que integram a</del> <ins>da</ins> CPI da Covid aprovaram nesta quarta-feira (26) <ins>requerimento para convocar novamente o ex-ministro Eduardo Pazuello (Saúde) e o atual titular da pasta, Marcelo Queiroga. Aprovaram ainda</ins> a convocação de nove governadores <del>e um ex- governador</del> para <del>prestarem depoimentos na comissão sobre possíveis irregularidades no</del> <ins>que expliquem o</ins> uso de recursos <del>repassados pelo governo federal.</del> <ins>federais nos estados.</ins> Leia mais (05/26/2021 - 12h30)
-2021-05-26 17:41:10,585          root     INFO: Media ready with ids: 1397608764015104008
-2021-05-26 17:41:10,585          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-26 17:41:10,586          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-da-covid-convoca-nove-governadores-e-aprova-novos-depoimentos-de-pazuello-e-queiroga.shtml
-2021-05-26 17:41:10,595          root     INFO: Replying to: 1397586765008056320
-2021-05-26 17:41:10,845          root     INFO: Id to store: 1397608765646589952
-2021-05-26 17:41:10,985          root     INFO: Para senadores independentes e de oposição da CPI da Covid, a convocação de governadores <del>e prefeitos</del> não deve render muito material para a comissão, ainda que satisfaça o desejo dos parlamentares governistas de ouvi-los. Leia mais (05/25/2021 - 23h15)
-2021-05-26 17:41:12,705          root     INFO: Media ready with ids: 1397608772214870022
-2021-05-26 17:41:12,705          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-26 17:41:12,705          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/senadores-apontam-habeas-corpus-e-limite-de-escopo-como-empecilhos-para-avanco-da-cpi-sobre-governadores.shtml
-2021-05-26 17:41:12,713          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/senadores-apontam-habeas-corpus-e-limite-de-escopo-como-empecilhos-para-avanco-da-cpi-sobre-governadores.shtml
-2021-05-26 17:41:12,913          root     INFO: Replying to: 1397608774567858182
-2021-05-26 17:41:13,165          root     INFO: Id to store: 1397608775398350854
-2021-05-26 17:41:15,033          root     INFO: Mata <del>Atlântica</del> <ins>atlântica</ins> perde 13 mil hectares de floresta nativa entre 2019 e 2020, diz relatório
-2021-05-26 17:41:16,643          root     INFO: Media ready with ids: 1397608789575077894
-2021-05-26 17:41:16,643          root     INFO: Text to tweet: Modificação do Título
-2021-05-26 17:41:16,644          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/mata-atlantica-perde-13-mil-hectares-de-floresta-nativa-entre-2019-e-2020-diz-relatorio.shtml
-2021-05-26 17:41:16,651          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/mata-atlantica-perde-13-mil-hectares-de-floresta-nativa-entre-2019-e-2020-diz-relatorio.shtml
-2021-05-26 17:41:16,827          root     INFO: Replying to: 1397608791030571014
-2021-05-26 17:41:17,033          root     INFO: Id to store: 1397608791655567364
-2021-05-26 17:41:19,579          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/decreto-de-bolsonaro-pode-criar-opinioes-de-segunda-classe-nas-redes-sociais.shtml
-2021-05-26 17:41:19,583          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/chile-a-implosao-da-politica-pos-transicao.shtml
-2021-05-26 17:41:19,583          root     INFO: Finished script
+2021-05-26 18:41:21,090          root     INFO: Starting script
+2021-05-26 18:41:22,156          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-26 18:41:22,938          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-26 18:41:23,740          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-26 18:41:23,961          root     INFO: Parsing R7 - Brasil
+2021-05-26 18:41:28,791          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/05/em-reacao-a-operacao-contra-mineracao-ilegal-garimpeiros-incendeiam-aldeia-de-lider-indigena-no-pa.shtml
+2021-05-26 18:41:31,468          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/04/voce-sabe-como-o-prefeito-vai-entregar-a-sua-cidade-daqui-a-quatro-anos.shtml
+2021-05-26 18:41:31,469          root     INFO: Finished script
