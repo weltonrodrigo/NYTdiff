@@ -1,27 +1,8 @@
-2021-05-26 20:50:49,708          root     INFO: Starting script
-2021-05-26 20:50:50,726          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-26 20:50:51,552          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-26 20:50:52,344          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-26 20:50:53,681          root     INFO: Parsing R7 - Brasil
-2021-05-26 20:50:56,574          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/flavio-bolsonaro-deixa-republicanos-e-definira-novo-partido-apos-decisao-do-pai.shtml
-2021-05-26 20:50:56,784          root     INFO: PT aciona STF para investigar Bolsonaro por suspeitas de crimes sanitário e <del>eleitoral</del> <ins>de uso de verba pública</ins> em <del>manifestações</del> <ins>atos</ins>
-2021-05-26 20:50:58,636          root     INFO: Media ready with ids: 1397656529159983105
-2021-05-26 20:50:58,636          root     INFO: Text to tweet: Modificação do Título
-2021-05-26 20:50:58,636          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pt-aciona-stf-para-investigar-bolsonaro-por-suspeitas-de-crimes-sanitario-e-eleitoral-em-manifestacoes.shtml
-2021-05-26 20:50:58,646          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pt-aciona-stf-para-investigar-bolsonaro-por-suspeitas-de-crimes-sanitario-e-eleitoral-em-manifestacoes.shtml
-2021-05-26 20:50:58,937          root     INFO: Replying to: 1397656530963636227
-2021-05-26 20:50:59,306          root     INFO: Id to store: 1397656531957600257
-2021-05-26 20:51:01,875          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/salles-falta-a-reuniao-de-conselho-da-amazonia-e-mourao-chama-ausencia-de-falta-de-educacao.shtml
-2021-05-26 20:51:01,887          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/madeireira-suspeita-de-exportacao-ilegal-fez-ligacoes-a-autoridades-europeias-de-dentro-do-ibama-aponta-pf.shtml
-2021-05-26 20:51:04,490          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-convoca-wilson-witzel-e-nove-governadores-atuais-26052021
-2021-05-26 20:51:04,509          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-cria-1209-mil-empregos-com-carteira-assinada-em-abril-26052021
-2021-05-26 20:51:04,535          root     INFO: New article tracked: http://noticias.r7.com/brasil/setor-externo-tem-superavit-de-us-56-bi-em-abril-mostra-bc-26052021
-2021-05-26 20:51:04,550          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-e-retomada-apos-reuniao-secreta-de-senadores-veja-26052021
-2021-05-26 20:51:04,565          root     INFO: New article tracked: http://noticias.r7.com/brasil/moraes-do-stf-nega-tentativa-da-pgr-de-tira-lo-do-caso-salles-26052021
-2021-05-26 20:51:04,580          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-pede-convocacao-de-bolsonaro-a-cpi-da-covid-26052021
-2021-05-26 20:51:04,596          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/operacao-explode-alojamento-em-garimpo-ilegal-em-terra-indigena-26052021
-2021-05-26 20:51:04,611          root     INFO: New article tracked: http://noticias.r7.com/brasil/convocacao-de-governadores-mantem-disputa-politica-na-cpi-26052021
-2021-05-26 20:51:04,955          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/04/meta-de-reducao-do-desmatamento-deve-ser-alcancada-pouco-a-pouco-afirma-mourao.shtml
-2021-05-26 20:51:04,960          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/hidreletricas-matam-toneladas-de-peixes-e-ameacam-especies-nos-rios-brasileiros-aponta-estudo.shtml
-2021-05-26 20:51:04,965          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/encontro-de-fhc-e-lula-expoe-inseguranca-do-psdb-para-eleicao-de-2022-avaliam-politicos.shtml
-2021-05-26 20:51:04,966          root     INFO: Finished script
+2021-05-26 21:08:27,833          root     INFO: Starting script
+2021-05-26 21:08:28,815          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-26 21:08:29,587          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-26 21:08:30,382          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-26 21:08:30,652          root     INFO: Parsing R7 - Brasil
+2021-05-26 21:08:30,773          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/paulo-guedes-e-o-negacionismo-tributario.shtml
+2021-05-26 21:08:39,424          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/05/pedofilia-se-tornou-mais-uma-das-tantas-tristes-realidades-do-brasil.shtml
+2021-05-26 21:08:39,425          root     INFO: Finished script
