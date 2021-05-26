@@ -1,12 +1,20 @@
-2021-05-26 13:34:04,550          root     INFO: Starting script
-2021-05-26 13:34:05,438          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-26 13:34:06,134          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-26 13:34:06,817          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-26 13:34:08,037          root     INFO: Parsing R7 - Brasil
-2021-05-26 13:34:08,197          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/investigacao-jornalistica-com-tecnologia-nao-e-crime.shtml
-2021-05-26 13:34:08,210          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/estrategias-para-sair-do-populismo.shtml
-2021-05-26 13:34:10,627          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pt-aciona-stf-para-investigar-bolsonaro-por-suspeitas-de-crimes-sanitario-e-eleitoral-em-manifestacoes.shtml
-2021-05-26 13:34:15,984          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/abaixo-assinado-reune-mais-de-3-mil-assinaturas-em-defesa-de-conrado-hubner-mendes.shtml
-2021-05-26 13:34:15,988          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/05/alison-bechdel-traz-suas-perigosas-sapatas-para-o-brasil-em-nova-coletanea.shtml
-2021-05-26 13:34:15,993          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/a-argentina-e-os-efeitos-indesejados-da-privatizacao-autoritaria.shtml
-2021-05-26 13:34:15,994          root     INFO: Finished script
+2021-05-26 14:17:53,282          root     INFO: Starting script
+2021-05-26 14:17:54,109          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-26 14:17:54,786          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-26 14:17:55,468          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-26 14:17:55,579          root     INFO: Parsing R7 - Brasil
+2021-05-26 14:17:55,757          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/05/em-sp-pandemia-gera-alteracoes-no-sono-abandono-dos-estudos-e-mulheres-mais-afetadas-que-homens.shtml
+2021-05-26 14:18:01,341          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/05/em-sp-pandemia-gera-alteracoes-no-sono-abandono-dos-estudos-e-mulheres-mais-afetadas-que-homens.shtml
+2021-05-26 14:18:01,356          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/moraes-do-stf-nega-pedido-da-pgr-para-deixar-relatoria-de-investigacao-que-mira-ricardo-salles.shtml
+2021-05-26 14:18:04,075          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-e-suspensa-10-minutos-apos-inicio-para-reuniao-secreta-26052021
+2021-05-26 14:18:04,090          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/ibama-forca-nacional-e-prf-ajudaram-na-operacao-da-pf-no-para-26052021
+2021-05-26 14:18:04,107          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/garimpeiros-devastam-area-de-preservacao-em-terra-indigena-no-pa-26052021
+2021-05-26 14:18:04,120          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/operacao-no-interior-do-para-conta-com-apoio-de-varios-helicopteros-26052021
+2021-05-26 14:18:04,135          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-vota-convocacao-de-prefeitos-e-governadores-assista-26052021
+2021-05-26 14:18:04,149          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/operacao-da-pf-estoura-garimpo-ilegal-e-queima-maquinario-no-para-26052021
+2021-05-26 14:18:04,164          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-estoura-garimpo-ilegal-em-terra-indigena-e-queima-maquinas-no-pa-26052021
+2021-05-26 14:18:04,178          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-cumpre-oito-mandados-em-operacao-contra-corrupcao-no-df-26052021
+2021-05-26 14:18:04,533          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/04/em-reuniao-privada-embaixador-dos-eua-da-ultimato-a-bolsonaro-em-metas-ambientais.shtml
+2021-05-26 14:18:04,538          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/pgr-pede-investigacao-sobre-supostos-crime-e-improbidade-de-presidente-do-ibama-ao-flexibilizar-fiscalizacao-de-madeira.shtml
+2021-05-26 14:18:04,543          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/05/ativismo-ou-responsabilidade-judicial.shtml
+2021-05-26 14:18:04,544          root     INFO: Finished script
