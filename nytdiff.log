@@ -1,13 +1,11 @@
-2021-05-26 10:15:19,557          root     INFO: Starting script
-2021-05-26 10:15:20,384          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-26 10:15:21,047          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-26 10:15:21,718          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-26 10:15:21,852          root     INFO: Parsing R7 - Brasil
-2021-05-26 10:15:24,687          root     INFO: Alto Comando do Exército pressiona por ida de Pazuello para a reserva, e ex-ministro teme CPI <ins>da Covid</ins>
-2021-05-26 10:15:26,487          root     INFO: Media ready with ids: 1397496590735233027
-2021-05-26 10:15:26,488          root     INFO: Text to tweet: Modificação do Título
-2021-05-26 10:15:26,489          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/alto-comando-do-exercito-pressiona-por-ida-de-pazuello-para-a-reserva-e-ex-ministro-teme-cpi.shtml
-2021-05-26 10:15:26,499          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/alto-comando-do-exercito-pressiona-por-ida-de-pazuello-para-a-reserva-e-ex-ministro-teme-cpi.shtml
-2021-05-26 10:15:26,685          root     INFO: Replying to: 1397496592794628099
-2021-05-26 10:15:26,933          root     INFO: Id to store: 1397496593566343169
-2021-05-26 10:15:31,930          root     INFO: Finished script
+2021-05-26 10:54:20,205          root     INFO: Starting script
+2021-05-26 10:55:25,950          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-26 10:55:26,886          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-26 10:55:27,686          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-26 10:55:27,894          root     INFO: Parsing R7 - Brasil
+2021-05-26 10:55:36,626          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-analisa-convocacao-de-9-governadores-e-12-prefeitos-25052021
+2021-05-26 10:55:36,631          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-validara-programa-de-testagem-em-massa-na-quinta-feira-25052021
+2021-05-26 10:55:36,636          root     INFO: Removed http://noticias.r7.com/brasil/fechar-escolas-impediu-imunizacao-de-rebanho-em-criancas-diz-mayra-25052021
+2021-05-26 10:55:36,641          root     INFO: Removed http://noticias.r7.com/brasil/ex-presidente-dilma-faz-exames-apos-passar-mal-durante-a-noite-25052021
+2021-05-26 10:55:36,646          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-secretaria-que-defende-cloroquina-veja-ao-vivo-25052021
+2021-05-26 10:55:36,647          root     INFO: Finished script
