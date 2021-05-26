@@ -1,19 +1,12 @@
-2021-05-26 19:36:48,342          root     INFO: Starting script
-2021-05-26 19:36:49,133          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-26 19:36:49,787          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-26 19:36:50,428          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-26 19:36:50,585          root     INFO: Parsing R7 - Brasil
-2021-05-26 19:36:50,727          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/05/postes-do-consultorio-do-crime.shtml
-2021-05-26 19:36:50,738          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernandatorres/2021/05/bolsonaro-tem-o-jeitao-que-paira-acima-de-qualquer-imposicao-moral-ou-legal.shtml
-2021-05-26 19:36:52,908          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/eduardo-paes-prefeito-do-rio-assina-filiacao-ao-psd-e-faz-elogios-a-fhc-e-lula.shtml
-2021-05-26 19:36:55,132          root     INFO: Em reação a operação contra mineração ilegal, garimpeiros incendeiam aldeia <del>de líder indígena</del> no PA
-2021-05-26 19:36:57,003          root     INFO: Media ready with ids: 1397637898611175427
-2021-05-26 19:36:57,004          root     INFO: Text to tweet: Modificação do Título
-2021-05-26 19:36:57,004          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/05/em-reacao-a-operacao-contra-mineracao-ilegal-garimpeiros-incendeiam-aldeia-de-lider-indigena-no-pa.shtml
-2021-05-26 19:36:57,012          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/05/em-reacao-a-operacao-contra-mineracao-ilegal-garimpeiros-incendeiam-aldeia-de-lider-indigena-no-pa.shtml
-2021-05-26 19:36:57,224          root     INFO: Replying to: 1397637901127667713
-2021-05-26 19:36:57,469          root     INFO: Id to store: 1397637901798805507
-2021-05-26 19:37:00,059          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/05/conflito-avanca-por-midia-social-e-chega-ao-chines-tiktok.shtml
-2021-05-26 19:37:00,064          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/marcha-para-jesus-do-centro-oeste-sera-em-carreata-por-causa-da-covid-19.shtml
-2021-05-26 19:37:00,068          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/05/carro-mais-potente-da-historia-da-audi-chega-ao-brasil-e-e-eletrico.shtml
-2021-05-26 19:37:00,069          root     INFO: Finished script
+2021-05-26 20:14:50,547          root     INFO: Starting script
+2021-05-26 20:14:51,385          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-26 20:14:52,020          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-26 20:14:52,662          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-26 20:14:52,825          root     INFO: Parsing R7 - Brasil
+2021-05-26 20:14:52,983          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/05/nao-troco-por-nada-o-cheiro-de-orvalho-e-do-coco-que-nao-limpei.shtml
+2021-05-26 20:14:52,996          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2021/05/caso-evandro-oferece-puro-suco-de-problemas-estruturais-do-brasil.shtml
+2021-05-26 20:14:55,114          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/governador-de-roraima-diz-que-comparecera-a-cpi-sem-habeas-corpus-porque-nao-tem-nada-a-esconder.shtml
+2021-05-26 20:14:59,676          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-ipca-deve-substituir-o-igp-m-como-indicador-fixo-no-reajuste-dos-alugueis-sim.shtml
+2021-05-26 20:14:59,680          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/05/hamas-finge-que-ja-existe-um-estado-palestino-a-sua-faixa-de-gaza.shtml
+2021-05-26 20:14:59,685          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-ipca-deve-substituir-o-igp-m-como-indicador-fixo-no-reajuste-dos-alugueis-nao.shtml
+2021-05-26 20:14:59,686          root     INFO: Finished script
