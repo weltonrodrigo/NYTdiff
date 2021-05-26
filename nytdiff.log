@@ -1,21 +1,6 @@
-2021-05-26 23:03:35,788          root     INFO: Starting script
-2021-05-26 23:03:36,612          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-26 23:03:37,272          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-26 23:03:37,924          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-26 23:03:38,108          root     INFO: Parsing R7 - Brasil
-2021-05-26 23:03:43,828          root     INFO: <ins>O</ins> ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), negou pedido da PGR (Procuradoria-Geral da República) para deixar a relatoria da investigação sobre o ministro do Meio Ambiente, Ricardo Salles. Leia mais (05/26/2021 - 10h34)
-2021-05-26 23:03:45,775          root     INFO: Media ready with ids: 1397689944911589377
-2021-05-26 23:03:45,775          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-26 23:03:45,775          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/moraes-do-stf-nega-pedido-da-pgr-para-deixar-relatoria-de-investigacao-que-mira-ricardo-salles.shtml
-2021-05-26 23:03:45,786          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/moraes-do-stf-nega-pedido-da-pgr-para-deixar-relatoria-de-investigacao-que-mira-ricardo-salles.shtml
-2021-05-26 23:03:45,980          root     INFO: Replying to: 1397689947230986246
-2021-05-26 23:03:46,257          root     INFO: Id to store: 1397689948044726280
-2021-05-26 23:03:49,332          root     INFO: Removed http://noticias.r7.com/brasil/senador-pede-convocacao-de-bolsonaro-a-cpi-da-covid-26052021
-2021-05-26 23:03:49,337          root     INFO: Removed http://noticias.r7.com/brasil/convocacao-de-governadores-mantem-disputa-politica-na-cpi-26052021
-2021-05-26 23:03:49,342          root     INFO: Removed http://noticias.r7.com/brasil/brasil-cria-1209-mil-empregos-com-carteira-assinada-em-abril-26052021
-2021-05-26 23:03:49,346          root     INFO: Removed http://noticias.r7.com/brasil/moraes-do-stf-nega-tentativa-da-pgr-de-tira-lo-do-caso-salles-26052021
-2021-05-26 23:03:49,351          root     INFO: Removed http://noticias.r7.com/brasil/videos/operacao-explode-alojamento-em-garimpo-ilegal-em-terra-indigena-26052021
-2021-05-26 23:03:49,368          root     INFO: Removed http://noticias.r7.com/brasil/setor-externo-tem-superavit-de-us-56-bi-em-abril-mostra-bc-26052021
-2021-05-26 23:03:49,374          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-convoca-wilson-witzel-e-nove-governadores-atuais-26052021
-2021-05-26 23:03:49,379          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-e-retomada-apos-reuniao-secreta-de-senadores-veja-26052021
-2021-05-26 23:03:49,380          root     INFO: Finished script
+2021-05-26 23:37:36,743          root     INFO: Starting script
+2021-05-26 23:37:37,563          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-26 23:37:38,217          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-26 23:37:38,874          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-26 23:37:39,038          root     INFO: Parsing R7 - Brasil
+2021-05-26 23:37:46,226          root     INFO: Finished script
