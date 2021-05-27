@@ -1,18 +1,19 @@
-2021-05-27 18:16:00,378          root     INFO: Starting script
-2021-05-27 18:16:01,364          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-27 18:16:02,136          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-27 18:16:02,938          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-27 18:16:03,154          root     INFO: Parsing R7 - Brasil
-2021-05-27 18:16:03,328          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/laura-mattos/2021/05/governo-de-sao-paulo-prepara-ampliacao-do-ensino-presencial.shtml
-2021-05-27 18:16:03,343          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/05/mulheres-nao-sentem-inveja-do-penis-mas-sim-do-que-ele-e-capaz-de-proporcionar.shtml
-2021-05-27 18:16:05,646          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/diretor-do-butantan-diz-a-cpi-que-acoes-de-bolsonaro-impediram-entrega-de-100-milhoes-de-vacinas-ate-maio.shtml
-2021-05-27 18:16:05,660          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/regra-que-pode-punir-pazuello-e-para-evitar-anarquia-nas-forcas-armadas-diz-mourao.shtml
-2021-05-27 18:16:10,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/butantan-quis-entregar-60-milhoes-de-doses-em-2020-e-ficou-sem-resposta-27052021
-2021-05-27 18:16:10,269          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-butantan-retoma-producao-de-mais-5-milhoes-de-doses-27052021
-2021-05-27 18:16:10,280          root     INFO: New article tracked: http://noticias.r7.com/brasil/campanha-de-testagem-da-covid-comeca-nesta-quinta-feira-27052021
-2021-05-27 18:16:10,290          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-diretor-do-butantan-fala-sobre-problemas-com-as-vacinas-assista-27052021
-2021-05-27 18:16:10,716          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/otto-alencar-diz-que-stf-afrouxa-cpi-da-covid-e-que-habeas-corpus-e-aval-para-mentiras.shtml
-2021-05-27 18:16:10,721          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/05/de-onde-vem-as-vacinas.shtml
-2021-05-27 18:16:10,726          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/deliciosos-abacaxis.shtml
-2021-05-27 18:16:10,731          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-passeia-de-moto-e-gera-aglomeracao-no-rio-apos-dizer-que-teve-sintomas-de-covid-19.shtml
-2021-05-27 18:16:10,732          root     INFO: Finished script
+2021-05-27 19:19:55,849          root     INFO: Starting script
+2021-05-27 19:19:56,657          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-27 19:19:57,316          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-27 19:19:57,979          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-27 19:19:58,110          root     INFO: Parsing R7 - Brasil
+2021-05-27 19:19:58,256          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/por-uma-questao-de-direito-prioridade-e-humanidade.shtml
+2021-05-27 19:20:01,164          root     INFO: Em ritmo de campanha, Bolsonaro cruza o país e <del>reinaugura</del> <ins>inaugura</ins> obras que incluem até microponte de madeira
+2021-05-27 19:20:02,968          root     INFO: Media ready with ids: 1397996033775476740
+2021-05-27 19:20:02,969          root     INFO: Text to tweet: Modificação do Título
+2021-05-27 19:20:02,969          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-ritmo-de-campanha-bolsonaro-cruza-o-pais-e-reinaugura-obras-que-incluem-ate-microponte-de-madeira.shtml
+2021-05-27 19:20:02,978          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-ritmo-de-campanha-bolsonaro-cruza-o-pais-e-reinaugura-obras-que-incluem-ate-microponte-de-madeira.shtml
+2021-05-27 19:20:03,160          root     INFO: Replying to: 1397996035717357574
+2021-05-27 19:20:03,378          root     INFO: Id to store: 1397996036413693958
+2021-05-27 19:20:09,186          root     INFO: Removed http://noticias.r7.com/brasil/covid-butantan-retoma-producao-de-mais-5-milhoes-de-doses-27052021
+2021-05-27 19:20:09,191          root     INFO: Removed http://noticias.r7.com/brasil/campanha-de-testagem-da-covid-comeca-nesta-quinta-feira-27052021
+2021-05-27 19:20:09,196          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/cpi-ja-provou-a-negligencia-do-governo-na-compra-de-vacinas.shtml
+2021-05-27 19:20:09,201          root     INFO: Removed http://noticias.r7.com/brasil/butantan-quis-entregar-60-milhoes-de-doses-em-2020-e-ficou-sem-resposta-27052021
+2021-05-27 19:20:09,206          root     INFO: Removed http://noticias.r7.com/brasil/cpi-diretor-do-butantan-fala-sobre-problemas-com-as-vacinas-assista-27052021
+2021-05-27 19:20:09,206          root     INFO: Finished script
