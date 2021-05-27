@@ -1,20 +1,17 @@
-2021-05-27 22:03:35,399          root     INFO: Starting script
-2021-05-27 22:03:36,182          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-27 22:03:36,825          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-27 22:03:37,469          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-27 22:03:37,629          root     INFO: Parsing R7 - Brasil
-2021-05-27 22:03:40,104          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/presidente-do-pdt-de-ciro-defende-gasto-com-voto-auditavel-e-diz-que-legitimidade-nao-tem-preco.shtml
-2021-05-27 22:03:40,424          root     INFO: Em ritmo de campanha, Bolsonaro cruza o país e <del>reinaugura</del> <ins>inaugura</ins> obras que incluem até microponte de madeira
-2021-05-27 22:03:42,060          root     INFO: Media ready with ids: 1398037218531368963
-2021-05-27 22:03:42,061          root     INFO: Text to tweet: Modificação do Título
-2021-05-27 22:03:42,061          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-ritmo-de-campanha-bolsonaro-cruza-o-pais-e-reinaugura-obras-que-incluem-ate-microponte-de-madeira.shtml
-2021-05-27 22:03:42,071          root     INFO: Replying to: 1397996036413693958
-2021-05-27 22:03:42,301          root     INFO: Id to store: 1398037219970105347
-2021-05-27 22:03:42,308          root     INFO: O presidente Jair Bolsonaro <del>visita</del> <ins>visitou</ins> nesta quinta-feira (27) São Gabriel da Cachoeira (AM), a 2.719 km em linha reta de Brasília. Na agenda oficial, <del>consta</del> a inauguração de uma ponte de madeira de 18 metros de comprimento e 6 metros de largura, em uma estrada de terra parcialmente transitável e pouco utilizada. Leia mais (05/27/2021 - 08h22)
-2021-05-27 22:03:43,948          root     INFO: Media ready with ids: 1398037226471178241
-2021-05-27 22:03:43,948          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-27 22:03:43,948          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-ritmo-de-campanha-bolsonaro-cruza-o-pais-e-reinaugura-obras-que-incluem-ate-microponte-de-madeira.shtml
-2021-05-27 22:03:43,957          root     INFO: Replying to: 1398037219970105347
-2021-05-27 22:03:44,165          root     INFO: Id to store: 1398037227767222277
-2021-05-27 22:03:48,915          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/o-diabo-na-cpi-da-pandemia.shtml
-2021-05-27 22:03:48,917          root     INFO: Finished script
+2021-05-27 22:38:29,238          root     INFO: Starting script
+2021-05-27 22:38:30,078          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-27 22:38:30,754          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-27 22:38:31,429          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-27 22:38:31,583          root     INFO: Parsing R7 - Brasil
+2021-05-27 22:38:31,711          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/05/safra-pequena-de-laranja-reduz-ainda-mais-os-estoques-de-suco.shtml
+2021-05-27 22:38:34,650          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/coronavac-desprezada-por-bolsonaro-evitaria-pelo-menos-80-mil-mortes-diz-pesquisador.shtml
+2021-05-27 22:38:34,694          root     INFO: O presidente do PDT, Carlos Lupi, defende que o Brasil tenha voto impresso e auditável, pauta que os bolsonaristas têm se empenhado em defender nas ruas e nas redes sociais. <ins>O presidenciável Ciro Gomes é o principal nome do partido atualmente.</ins> Leia mais (05/27/2021 - 18h36)
+2021-05-27 22:38:36,479          root     INFO: Media ready with ids: 1398046003077517313
+2021-05-27 22:38:36,479          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-27 22:38:36,480          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/presidente-do-pdt-de-ciro-defende-gasto-com-voto-auditavel-e-diz-que-legitimidade-nao-tem-preco.shtml
+2021-05-27 22:38:36,492          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/presidente-do-pdt-de-ciro-defende-gasto-com-voto-auditavel-e-diz-que-legitimidade-nao-tem-preco.shtml
+2021-05-27 22:38:36,689          root     INFO: Replying to: 1398046004654579716
+2021-05-27 22:38:36,934          root     INFO: Id to store: 1398046005455622148
+2021-05-27 22:38:43,185          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/05/bolsonaro-e-o-orcamento-rabilongo.shtml
+2021-05-27 22:38:43,192          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/05/ponta-e-luiz.shtml
+2021-05-27 22:38:43,193          root     INFO: Finished script
