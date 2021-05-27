@@ -1,6 +1,20 @@
-2021-05-27 14:53:48,549          root     INFO: Starting script
-2021-05-27 14:53:49,426          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-27 14:53:50,093          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-27 14:53:50,773          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-27 14:53:50,980          root     INFO: Parsing R7 - Brasil
-2021-05-27 14:53:58,980          root     INFO: Finished script
+2021-05-27 15:14:05,645          root     INFO: Starting script
+2021-05-27 15:14:06,435          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-27 15:14:07,075          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-27 15:14:07,718          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-27 15:14:07,893          root     INFO: Parsing R7 - Brasil
+2021-05-27 15:14:08,265          root     INFO: Governantes devem pagar <ins>por</ins> mortes que poderiam ter sido evitadas
+2021-05-27 15:14:10,108          root     INFO: Media ready with ids: 1397934155518914564
+2021-05-27 15:14:10,109          root     INFO: Text to tweet: Modificação do Título
+2021-05-27 15:14:10,109          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/governantes-devem-pagar-mortes-que-poderiam-ter-sido-evitadas.shtml
+2021-05-27 15:14:10,119          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/governantes-devem-pagar-mortes-que-poderiam-ter-sido-evitadas.shtml
+2021-05-27 15:14:10,331          root     INFO: Replying to: 1397934157859364866
+2021-05-27 15:14:10,690          root     INFO: Id to store: 1397934158760927238
+2021-05-27 15:14:13,106          root     INFO: Governantes devem pagar <ins>por</ins> mortes que poderiam ter sido evitadas
+2021-05-27 15:14:14,756          root     INFO: Media ready with ids: 1397934175697637388
+2021-05-27 15:14:14,756          root     INFO: Text to tweet: Modificação do Título
+2021-05-27 15:14:14,756          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/governantes-devem-pagar-mortes-que-poderiam-ter-sido-evitadas.shtml
+2021-05-27 15:14:14,766          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/governantes-devem-pagar-mortes-que-poderiam-ter-sido-evitadas.shtml
+2021-05-27 15:14:14,948          root     INFO: Replying to: 1397934177237049358
+2021-05-27 15:14:15,173          root     INFO: Id to store: 1397934177908051968
+2021-05-27 15:14:20,201          root     INFO: Finished script
