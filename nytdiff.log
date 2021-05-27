@@ -1,27 +1,20 @@
-2021-05-27 21:33:29,432          root     INFO: Starting script
-2021-05-27 21:33:30,220          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-27 21:33:30,870          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-27 21:33:31,513          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-27 21:33:31,646          root     INFO: Parsing R7 - Brasil
-2021-05-27 21:33:31,785          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/cade-o-ze-gotinha.shtml
-2021-05-27 21:33:31,798          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/05/brasileirao-tipo-exportacao-tem-transmissao-para-120-paises.shtml
-2021-05-27 21:33:31,809          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/05/fred-astaire-dos-coqueteis-dry-martini-tinha-como-fas-bunuel-e-ate-james-bond.shtml
-2021-05-27 21:33:34,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/aziz-blinda-doria-na-cpi-da-covid-e-senadores-o-chamam-de-advogado-do-governador-de-sp.shtml
-2021-05-27 21:33:34,236          root     INFO: <del>STF</del> <ins>Supremo</ins> forma maioria para anular delação de Cabral que cita Toffoli
-2021-05-27 21:33:35,955          root     INFO: Media ready with ids: 1398029643228266509
-2021-05-27 21:33:35,956          root     INFO: Text to tweet: Modificação do Título
-2021-05-27 21:33:35,956          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/stf-forma-maioria-para-anular-delacao-de-cabral-que-cita-toffoli.shtml
-2021-05-27 21:33:35,964          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/stf-forma-maioria-para-anular-delacao-de-cabral-que-cita-toffoli.shtml
-2021-05-27 21:33:36,187          root     INFO: Replying to: 1398029644616642563
-2021-05-27 21:33:36,521          root     INFO: Id to store: 1398029645568696323
-2021-05-27 21:33:36,528          root     INFO: O STF (Supremo Tribunal Federal) formou maioria para anular a delação premiada do ex-governador do Rio <ins>de Janeiro</ins> Sérgio Cabral. Leia mais (05/27/2021 - 17h20)
-2021-05-27 21:33:38,195          root     INFO: Media ready with ids: 1398029652380295168
-2021-05-27 21:33:38,195          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-27 21:33:38,195          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/stf-forma-maioria-para-anular-delacao-de-cabral-que-cita-toffoli.shtml
-2021-05-27 21:33:38,206          root     INFO: Replying to: 1398029645568696323
-2021-05-27 21:33:38,412          root     INFO: Id to store: 1398029653911216132
-2021-05-27 21:33:43,642          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/alem-do-auxilio.shtml
-2021-05-27 21:33:43,646          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/bullying-em-pauta.shtml
-2021-05-27 21:33:43,650          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/antigamente-epidemias-eram-atribuidas-a-ira-dos-deuses.shtml
-2021-05-27 21:33:43,655          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/projeto-mapeia-homenagens-a-ditadura-militar-pelas-ruas-do-pais.shtml
-2021-05-27 21:33:43,656          root     INFO: Finished script
+2021-05-27 22:03:35,399          root     INFO: Starting script
+2021-05-27 22:03:36,182          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-27 22:03:36,825          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-27 22:03:37,469          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-27 22:03:37,629          root     INFO: Parsing R7 - Brasil
+2021-05-27 22:03:40,104          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/presidente-do-pdt-de-ciro-defende-gasto-com-voto-auditavel-e-diz-que-legitimidade-nao-tem-preco.shtml
+2021-05-27 22:03:40,424          root     INFO: Em ritmo de campanha, Bolsonaro cruza o país e <del>reinaugura</del> <ins>inaugura</ins> obras que incluem até microponte de madeira
+2021-05-27 22:03:42,060          root     INFO: Media ready with ids: 1398037218531368963
+2021-05-27 22:03:42,061          root     INFO: Text to tweet: Modificação do Título
+2021-05-27 22:03:42,061          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-ritmo-de-campanha-bolsonaro-cruza-o-pais-e-reinaugura-obras-que-incluem-ate-microponte-de-madeira.shtml
+2021-05-27 22:03:42,071          root     INFO: Replying to: 1397996036413693958
+2021-05-27 22:03:42,301          root     INFO: Id to store: 1398037219970105347
+2021-05-27 22:03:42,308          root     INFO: O presidente Jair Bolsonaro <del>visita</del> <ins>visitou</ins> nesta quinta-feira (27) São Gabriel da Cachoeira (AM), a 2.719 km em linha reta de Brasília. Na agenda oficial, <del>consta</del> a inauguração de uma ponte de madeira de 18 metros de comprimento e 6 metros de largura, em uma estrada de terra parcialmente transitável e pouco utilizada. Leia mais (05/27/2021 - 08h22)
+2021-05-27 22:03:43,948          root     INFO: Media ready with ids: 1398037226471178241
+2021-05-27 22:03:43,948          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-27 22:03:43,948          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-ritmo-de-campanha-bolsonaro-cruza-o-pais-e-reinaugura-obras-que-incluem-ate-microponte-de-madeira.shtml
+2021-05-27 22:03:43,957          root     INFO: Replying to: 1398037219970105347
+2021-05-27 22:03:44,165          root     INFO: Id to store: 1398037227767222277
+2021-05-27 22:03:48,915          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/o-diabo-na-cpi-da-pandemia.shtml
+2021-05-27 22:03:48,917          root     INFO: Finished script
