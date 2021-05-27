@@ -1,19 +1,12 @@
-2021-05-27 19:19:55,849          root     INFO: Starting script
-2021-05-27 19:19:56,657          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-27 19:19:57,316          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-27 19:19:57,979          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-27 19:19:58,110          root     INFO: Parsing R7 - Brasil
-2021-05-27 19:19:58,256          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/por-uma-questao-de-direito-prioridade-e-humanidade.shtml
-2021-05-27 19:20:01,164          root     INFO: Em ritmo de campanha, Bolsonaro cruza o país e <del>reinaugura</del> <ins>inaugura</ins> obras que incluem até microponte de madeira
-2021-05-27 19:20:02,968          root     INFO: Media ready with ids: 1397996033775476740
-2021-05-27 19:20:02,969          root     INFO: Text to tweet: Modificação do Título
-2021-05-27 19:20:02,969          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-ritmo-de-campanha-bolsonaro-cruza-o-pais-e-reinaugura-obras-que-incluem-ate-microponte-de-madeira.shtml
-2021-05-27 19:20:02,978          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-ritmo-de-campanha-bolsonaro-cruza-o-pais-e-reinaugura-obras-que-incluem-ate-microponte-de-madeira.shtml
-2021-05-27 19:20:03,160          root     INFO: Replying to: 1397996035717357574
-2021-05-27 19:20:03,378          root     INFO: Id to store: 1397996036413693958
-2021-05-27 19:20:09,186          root     INFO: Removed http://noticias.r7.com/brasil/covid-butantan-retoma-producao-de-mais-5-milhoes-de-doses-27052021
-2021-05-27 19:20:09,191          root     INFO: Removed http://noticias.r7.com/brasil/campanha-de-testagem-da-covid-comeca-nesta-quinta-feira-27052021
-2021-05-27 19:20:09,196          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/cpi-ja-provou-a-negligencia-do-governo-na-compra-de-vacinas.shtml
-2021-05-27 19:20:09,201          root     INFO: Removed http://noticias.r7.com/brasil/butantan-quis-entregar-60-milhoes-de-doses-em-2020-e-ficou-sem-resposta-27052021
-2021-05-27 19:20:09,206          root     INFO: Removed http://noticias.r7.com/brasil/cpi-diretor-do-butantan-fala-sobre-problemas-com-as-vacinas-assista-27052021
-2021-05-27 19:20:09,206          root     INFO: Finished script
+2021-05-27 20:03:40,635          root     INFO: Starting script
+2021-05-27 20:03:41,613          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-27 20:03:42,407          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-27 20:03:43,185          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-27 20:03:43,488          root     INFO: Parsing R7 - Brasil
+2021-05-27 20:03:43,665          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/um4-n0v4-p4ssw0rd3.shtml
+2021-05-27 20:03:46,196          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/presidente-do-patriota-diz-orar-por-ligacao-de-bolsonaro-e-ve-pp-e-ptb-como-rivais-na-filiacao-para-2022.shtml
+2021-05-27 20:03:46,208          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/folha-erra-ao-afirmar-que-bolsonaro-visita-ponte-recem-inaugurada-pelo-exercito-no-amazonas.shtml
+2021-05-27 20:03:51,723          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/integrantes-da-cupula-do-exercito-consideram-descabida-ida-de-pazuello-a-ato-com-bolsonaro-e-esperam-punicao.shtml
+2021-05-27 20:03:51,728          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/05/na-eleicao-antecipada-lula-e-bolsonaro-precisam-dizer-o-que-fazer-do-arrocho.shtml
+2021-05-27 20:03:51,733          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/qual-vai-ser-a-versao-de-agora-pergunta-presidente-da-cpi-sobre-pazuello-aparecer-de-novo-sem-mascara.shtml
+2021-05-27 20:03:51,733          root     INFO: Finished script
