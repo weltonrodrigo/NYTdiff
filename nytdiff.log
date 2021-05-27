@@ -1,10 +1,18 @@
-2021-05-27 16:28:56,674          root     INFO: Starting script
-2021-05-27 16:28:57,531          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-27 16:28:58,229          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-27 16:28:58,935          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-27 16:28:59,060          root     INFO: Parsing R7 - Brasil
-2021-05-27 16:28:59,195          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauro-calliari/2021/05/com-paixao-jaime-lerner-se-tornou-um-dos-maiores-urbanistas-do-mundo.shtml
-2021-05-27 16:29:02,263          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/mauro-calliari/2021/05/com-paixao-jaime-lerner-se-tornou-um-dos-maiores-urbanistas-do-mundo.shtml
-2021-05-27 16:29:08,970          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/sindicalistas-fazem-ato-em-brasilia-para-entrega-de-propostas-a-lira-e-pacheco.shtml
-2021-05-27 16:29:08,977          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/05/aviso.shtml
-2021-05-27 16:29:08,978          root     INFO: Finished script
+2021-05-27 18:16:00,378          root     INFO: Starting script
+2021-05-27 18:16:01,364          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-27 18:16:02,136          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-27 18:16:02,938          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-27 18:16:03,154          root     INFO: Parsing R7 - Brasil
+2021-05-27 18:16:03,328          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/laura-mattos/2021/05/governo-de-sao-paulo-prepara-ampliacao-do-ensino-presencial.shtml
+2021-05-27 18:16:03,343          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/05/mulheres-nao-sentem-inveja-do-penis-mas-sim-do-que-ele-e-capaz-de-proporcionar.shtml
+2021-05-27 18:16:05,646          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/diretor-do-butantan-diz-a-cpi-que-acoes-de-bolsonaro-impediram-entrega-de-100-milhoes-de-vacinas-ate-maio.shtml
+2021-05-27 18:16:05,660          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/regra-que-pode-punir-pazuello-e-para-evitar-anarquia-nas-forcas-armadas-diz-mourao.shtml
+2021-05-27 18:16:10,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/butantan-quis-entregar-60-milhoes-de-doses-em-2020-e-ficou-sem-resposta-27052021
+2021-05-27 18:16:10,269          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-butantan-retoma-producao-de-mais-5-milhoes-de-doses-27052021
+2021-05-27 18:16:10,280          root     INFO: New article tracked: http://noticias.r7.com/brasil/campanha-de-testagem-da-covid-comeca-nesta-quinta-feira-27052021
+2021-05-27 18:16:10,290          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-diretor-do-butantan-fala-sobre-problemas-com-as-vacinas-assista-27052021
+2021-05-27 18:16:10,716          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/otto-alencar-diz-que-stf-afrouxa-cpi-da-covid-e-que-habeas-corpus-e-aval-para-mentiras.shtml
+2021-05-27 18:16:10,721          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/05/de-onde-vem-as-vacinas.shtml
+2021-05-27 18:16:10,726          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/deliciosos-abacaxis.shtml
+2021-05-27 18:16:10,731          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-passeia-de-moto-e-gera-aglomeracao-no-rio-apos-dizer-que-teve-sintomas-de-covid-19.shtml
+2021-05-27 18:16:10,732          root     INFO: Finished script
