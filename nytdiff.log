@@ -1,8 +1,17 @@
-2021-05-28 16:24:49,419          root     INFO: Starting script
-2021-05-28 16:24:50,583          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-28 16:24:51,380          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-28 16:24:52,159          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-28 16:24:52,395          root     INFO: Parsing R7 - Brasil
-2021-05-28 16:25:00,211          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-torna-mais-graves-crimes-pela-internet-28052021
-2021-05-28 16:25:00,714          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-volta-a-dizer-que-usara-forcas-armadas-contra-restricao-27052021
-2021-05-28 16:25:00,715          root     INFO: Finished script
+2021-05-28 18:11:20,817          root     INFO: Starting script
+2021-05-28 18:11:21,640          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-28 18:11:22,298          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-28 18:11:22,969          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-28 18:11:23,094          root     INFO: Parsing R7 - Brasil
+2021-05-28 18:11:23,270          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/05/fhc-erra-ao-se-esquecer-de-bolsonaro-como-obra-da-politica-tradicional.shtml
+2021-05-28 18:11:23,286          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/itamar-vieira-junior/2021/05/soterrada-pelos-vencedores-historia-de-negros-resiste-ao-apagamento.shtml
+2021-05-28 18:11:25,566          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/escritora-enfrenta-tentativa-de-censura-por-livro-de-ficcao-sobre-tj-de-santa-ignorancia.shtml
+2021-05-28 18:11:25,580          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/imparcialidade-de-voto-de-toffoli-e-questionavel-no-caso-cabral-mas-sem-efeito-pratico-dizem-especialistas.shtml
+2021-05-28 18:11:25,591          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/doria-diz-que-bolsonaro-e-genocida-em-bate-boca-com-carla-zambelli-em-palanque.shtml
+2021-05-28 18:11:30,618          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/apos-decisoes-a-favor-de-lula-e-renan-lewandowski-autoriza-acesso-de-cunha-a-mensagens-da-lava-jato.shtml
+2021-05-28 18:11:30,625          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/veny-santos/2021/05/pessoas-consideradas-casos-perdidos-sao-as-que-foram-demais-para-o-seu-quintal.shtml
+2021-05-28 18:11:30,630          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/05/a-argentina-e-o-amado-bukele.shtml
+2021-05-28 18:11:30,634          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-torna-mais-graves-crimes-pela-internet-28052021
+2021-05-28 18:11:30,639          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/pf-prende-rocco-morabito-lideranca-da-mafia-calabresa-e-um-dos-fugitivos-mais-procurados-da-italia.shtml
+2021-05-28 18:11:30,643          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/quero-ser-petista-com-o-mesmo-orgulho-com-que-sou-gay-diz-jean-wyllys-na-filiacao-ao-pt.shtml
+2021-05-28 18:11:30,643          root     INFO: Finished script
