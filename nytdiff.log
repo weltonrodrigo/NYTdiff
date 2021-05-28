@@ -1,6 +1,15 @@
-2021-05-28 23:17:26,475          root     INFO: Starting script
-2021-05-28 23:17:27,341          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-28 23:17:28,030          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-28 23:17:28,737          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-28 23:17:28,851          root     INFO: Parsing R7 - Brasil
-2021-05-28 23:17:37,496          root     INFO: Finished script
+2021-05-28 23:59:32,372          root     INFO: Starting script
+2021-05-28 23:59:33,196          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-28 23:59:33,840          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-28 23:59:34,481          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-28 23:59:34,656          root     INFO: Parsing R7 - Brasil
+2021-05-28 23:59:37,225          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/apoiadores-de-bolsonaro-impedem-campanha-de-outdoors-contraria-ao-presidente-em-mato-grosso.shtml
+2021-05-28 23:59:37,273          root     INFO: <del>Líderes</del> <ins>Imagem de líderes</ins> da esquerda <del>se reúnem</del> sem máscara <del>e viram</del> <ins>vira</ins> alvo de <del>críticas</del> <ins>crítica</ins> antes de protesto contra Bolsonaro
+2021-05-28 23:59:38,963          root     INFO: Media ready with ids: 1398428785821822978
+2021-05-28 23:59:38,963          root     INFO: Text to tweet: Modificação do Título
+2021-05-28 23:59:38,963          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/lideres-da-esquerda-se-reunem-sem-mascara-e-viram-alvo-de-criticas-antes-de-protesto-contra-bolsonaro.shtml
+2021-05-28 23:59:38,972          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/lideres-da-esquerda-se-reunem-sem-mascara-e-viram-alvo-de-criticas-antes-de-protesto-contra-bolsonaro.shtml
+2021-05-28 23:59:39,162          root     INFO: Replying to: 1398428787239444482
+2021-05-28 23:59:39,382          root     INFO: Id to store: 1398428787889651712
+2021-05-28 23:59:44,594          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-quer-saber-de-capita-cloroquina-orientacao-sobre-remedio-sem-eficacia-em-gravidas-e-criancas.shtml
+2021-05-28 23:59:44,595          root     INFO: Finished script
