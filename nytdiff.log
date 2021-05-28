@@ -1,26 +1,6 @@
-2021-05-28 04:24:56,550          root     INFO: Starting script
-2021-05-28 04:24:57,331          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-28 04:24:57,973          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-28 04:24:58,620          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-28 04:24:58,852          root     INFO: Parsing R7 - Brasil
-2021-05-28 04:24:58,995          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/cambalhotas-na-lingua.shtml
-2021-05-28 04:24:59,008          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/a-inocencia-dos-causidicos.shtml
-2021-05-28 04:25:01,054          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ciro-tem-que-criticar-bolsonaro-e-parar-de-atacar-lula-diz-deputado-tulio-gadelha-do-pdt.shtml
-2021-05-28 04:25:01,065          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/05/a-cpi-e-o-tribunal-de-nuremberg-quem-banaliza-o-que.shtml
-2021-05-28 04:25:01,075          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/comite-lula-livre-continuara-ativo-mesmo-apos-ex-presidente-sair-da-prisao-e-recuperar-direitos-politicos.shtml
-2021-05-28 04:25:01,085          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/barroso-se-reune-com-especialistas-para-discutir-protecao-a-ataques-hackers-e-reafirma-seguranca-de-urna.shtml
-2021-05-28 04:25:01,095          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2021/05/destruir-a-ciencia-e-essencial-para-que-o-bolsonarismo-capture-o-estado.shtml
-2021-05-28 04:25:01,106          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/anulacao-de-delacao-de-cabral-pelo-stf-amplia-desgaste-de-fachin-na-corte-e-na-policia-federal.shtml
-2021-05-28 04:25:01,117          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/indecisao-sobre-destino-de-bolsonaro-movimenta-patriota-ptb-e-psl-que-ve-pp-como-favorito.shtml
-2021-05-28 04:25:01,128          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/bolsonaro-oferece-poder-e-antipetismo-para-renovar-alianca-com-militares.shtml
-2021-05-28 04:25:05,525          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2021/05/para-paulo-mendes-da-rocha-a-cidade-e-uma-questao-eminentemente-politica.shtml
-2021-05-28 04:25:05,529          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/federacao-dos-policiais-federais-diz-que-decisao-de-diretor-geral-causa-estranheza.shtml
-2021-05-28 04:25:05,533          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/randolfe-diz-que-pazuello-se-auto-indiciou-ao-ir-sem-mascara-em-passeio-de-bolsonaro.shtml
-2021-05-28 04:25:05,536          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/chefe-da-abin-classifica-como-memoravel-passeio-de-moto-de-bolsonaro-no-rio.shtml
-2021-05-28 04:25:05,541          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/para-mourao-pazuello-deve-ser-punido-pelo-exercito-apos-ida-a-ato-politico-com-bolsonaro.shtml
-2021-05-28 04:25:05,545          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/o-comunista-com-fhc-e-lula.shtml
-2021-05-28 04:25:05,549          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/05/bolsonaro-e-o-orcamento-rabilongo.shtml
-2021-05-28 04:25:05,553          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ex-secretario-de-saude-do-amazonas-diz-que-mentiu-ao-painel-sobre-crise-de-oxigenio.shtml
-2021-05-28 04:25:05,556          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/processo-de-lula-sobre-o-sitio-em-atibaia-tramita-em-vara-com-decisoes-contrarias-a-lava-jato.shtml
-2021-05-28 04:25:05,560          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/kassio-nunes-marques-vai-substituir-gilmar-mendes-na-presidencia-de-turma-no-stf.shtml
-2021-05-28 04:25:05,561          root     INFO: Finished script
+2021-05-28 05:56:36,304          root     INFO: Starting script
+2021-05-28 05:56:37,137          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-28 05:56:37,787          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-28 05:56:38,433          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-28 05:56:38,668          root     INFO: Parsing R7 - Brasil
+2021-05-28 05:56:46,259          root     INFO: Finished script
