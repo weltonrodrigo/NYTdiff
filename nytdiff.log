@@ -1,42 +1,6 @@
-2021-05-28 10:25:49,949          root     INFO: Starting script
-2021-05-28 10:25:50,774          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-28 10:25:51,445          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-28 10:25:52,120          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-28 10:25:52,207          root     INFO: Parsing R7 - Brasil
-2021-05-28 10:25:52,370          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2021/05/o-sono-sera-seu-santo-remedio.shtml
-2021-05-28 10:25:54,923          root     INFO: Documentos da Casa Civil <ins>da Presidência da República</ins> entregues à CPI da Covid mostram que pessoas apontadas como integrantes de um "ministério paralelo" da Saúde <del>no Planalto</del> participaram de ao menos 24 reuniões para tratar de estratégias do governo <del>de</del> <ins>no</ins> combate <del>da</del> <ins>à</ins> pandemia. Leia mais (05/27/2021 - 23h15)
-2021-05-28 10:25:56,676          root     INFO: Media ready with ids: 1398224010144628737
-2021-05-28 10:25:56,677          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-28 10:25:56,677          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/documentos-do-planalto-entregues-a-cpi-mostram-24-reunioes-com-atuacao-de-ministerio-paralelo-na-gestao-da-pandemia.shtml
-2021-05-28 10:25:56,687          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/documentos-do-planalto-entregues-a-cpi-mostram-24-reunioes-com-atuacao-de-ministerio-paralelo-na-gestao-da-pandemia.shtml
-2021-05-28 10:25:56,880          root     INFO: Replying to: 1398224011721596931
-2021-05-28 10:25:57,096          root     INFO: Id to store: 1398224012426219525
-2021-05-28 10:25:57,199          root     INFO: Após mais um depoimento desfavorável à gestão federal no combate ao coronavírus no Brasil, o presidente Jair Bolsonaro reagiu à CPI da Covid nesta quinta-feira (27) com xingamento, ironias e provocações a integrantes da comissão. <del>Bolsonaro está em São Gabriel da Cachoeira (AM) e começou a edição de sua live semanal dizendo que indígenas usaram um chá de raízes para evitar mortes provocadas pela Covid. Como o tratamento não tem comprovação científica, o presidente comparou a iniciativa ao consumo de hidroxicloroquina, usada na região para a malária, o que é previsto na bula do medicamento. "Poderia a nossa querida CPI do Senado, que tem lá como presidente o senador Omar Aziz, eu sei que você não pode convocar, porque os índios não se enquadram nesta questão de convocação, são protegidos por lei, mas poderiam convidar para ouvi-los e levar, quem sabe aí, o chá de carapanaúba, saracura e jambu lá nos balaios", afirmou Bolsonaro.</del> Leia mais (05/27/2021 - 21h50)
-2021-05-28 10:25:59,085          root     INFO: Media ready with ids: 1398224019946721286
-2021-05-28 10:25:59,086          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-28 10:25:59,086          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-reage-a-cpi-faz-mencao-homofobica-contra-senador-e-diz-que-comissao-teme-malafaia.shtml
-2021-05-28 10:25:59,096          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-reage-a-cpi-faz-mencao-homofobica-contra-senador-e-diz-que-comissao-teme-malafaia.shtml
-2021-05-28 10:25:59,280          root     INFO: Replying to: 1398224021813137411
-2021-05-28 10:25:59,502          root     INFO: Id to store: 1398224022459011074
-2021-05-28 10:26:04,040          root     INFO: New article tracked: http://noticias.r7.com/brasil/live-jr-aborda-fim-do-prazo-de-declaracao-do-imposto-de-renda-28052021
-2021-05-28 10:26:04,058          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-quarta-semana-aponta-contradicoes-e-vacinas-recusadas-28052021
-2021-05-28 10:26:04,074          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-retomar-producao-fiocruz-deve-entregar-hoje-49-mi-de-doses-28052021
-2021-05-28 10:26:04,087          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-da-ao-ex-governador-beto-richa-acesso-a-delacao-de-ex-secretario-27052021
-2021-05-28 10:26:04,103          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-vai-ao-supremo-contra-lockdown-em-tres-estados-27052021
-2021-05-28 10:26:04,122          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-saude-confirma-8-casos-da-variante-indiana-no-brasil-27052021
-2021-05-28 10:26:04,135          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-volta-a-atacar-cpi-e-diz-que-ato-no-rio-nao-foi-politico-27052021
-2021-05-28 10:26:04,146          root     INFO: New article tracked: http://noticias.r7.com/brasil/comeca-a-distribuicao-de-280-mil-kits-de-higiene-doados-para-602-presidios-27052021
-2021-05-28 10:26:04,159          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-calcula-100-milhoes-de-vacinas-a-menos-por-ofertas-recusadas-27052021
-2021-05-28 10:26:04,175          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-define-cronograma-de-junho-veja-quem-sao-os-proximos-a-depor-27052021
-2021-05-28 10:26:04,187          root     INFO: New article tracked: http://noticias.r7.com/brasil/relatoria-aponta-contradicoes-entre-dimas-e-pazuello-veja-pontos-27052021
-2021-05-28 10:26:04,200          root     INFO: New article tracked: http://noticias.r7.com/brasil/leia-carta-enviada-pelo-butantan-a-saude-com-oferta-de-vacina-27052021
-2021-05-28 10:26:04,224          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-forma-maioria-para-invalidar-a-delacao-de-sergio-cabral-27052021
-2021-05-28 10:26:04,237          root     INFO: New article tracked: http://noticias.r7.com/brasil/itamaraty-nao-apoiou-conversas-com-a-china-por-insumos-diz-covas-27052021
-2021-05-28 10:26:04,250          root     INFO: New article tracked: http://noticias.r7.com/brasil/pais-tera-piora-da-pandemia-por-variantes-diz-dimas-covas-27052021
-2021-05-28 10:26:04,263          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-calheiros-diz-que-senado-checara-informacoes-dadas-a-cpi-27052021
-2021-05-28 10:26:04,275          root     INFO: New article tracked: http://noticias.r7.com/brasil/covas-contradiz-pazuello-e-ve-acoes-do-governo-afetarem-coronavac-27052021
-2021-05-28 10:26:04,290          root     INFO: New article tracked: http://noticias.r7.com/brasil/justica-do-df-mantem-serasa-proibida-de-vender-dados-pessoais-27052021
-2021-05-28 10:26:04,304          root     INFO: New article tracked: http://noticias.r7.com/brasil/covas-classifica-variante-indiana-como-de-extrema-preocupacao-27052021
-2021-05-28 10:26:04,319          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-volta-a-dizer-que-usara-forcas-armadas-contra-restricao-27052021
-2021-05-28 10:26:04,337          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/a-novilingua-do-brasil.shtml
-2021-05-28 10:26:04,338          root     INFO: Finished script
+2021-05-28 11:17:15,841          root     INFO: Starting script
+2021-05-28 11:17:16,754          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-28 11:17:17,440          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-28 11:17:18,128          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-28 11:17:18,473          root     INFO: Parsing R7 - Brasil
+2021-05-28 11:17:27,741          root     INFO: Finished script
