@@ -1,44 +1,26 @@
-2021-05-29 06:55:55,541          root     INFO: Starting script
-2021-05-29 06:55:56,389          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-29 06:55:57,074          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-29 06:55:57,772          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-29 06:55:58,072          root     INFO: Parsing R7 - Brasil
-2021-05-29 06:56:07,389          root     INFO: New article tracked: http://noticias.r7.com/brasil/tributaria-quais-impostos-que-podem-ficar-mais-altos-e-mais-baixos-29052021
-2021-05-29 06:56:07,408          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/avanco-da-variante-indiana-e-contradicoes-na-cpi-marcam-a-semana-29052021
-2021-05-29 06:56:07,426          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-deve-concluir-com-falhas-vacinacao-de-covid-19-neste-ano-29052021
-2021-05-29 06:56:07,441          root     INFO: New article tracked: http://noticias.r7.com/brasil/oab-aprova-parecer-contra-acao-de-bolsonaro-para-impedir-restricoes-28052021
-2021-05-29 06:56:07,456          root     INFO: New article tracked: http://noticias.r7.com/brasil/decreto-de-bolsonaro-regulamenta-leiloes-para-reserva-de-energia-28052021
-2021-05-29 06:56:07,468          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-indios-brasileiros-sao-discriminados-por-europeus-28052021
-2021-05-29 06:56:07,481          root     INFO: New article tracked: http://noticias.r7.com/brasil/governadores-de-17-estados-e-df-acionam-o-stf-para-evitar-a-cpi-28052021
-2021-05-29 06:56:07,494          root     INFO: New article tracked: http://noticias.r7.com/brasil/ate-o-final-do-ano-vamos-vacinar-toda-a-populacao-diz-queiroga-28052021
-2021-05-29 06:56:07,508          root     INFO: New article tracked: http://noticias.r7.com/brasil/governadores-irao-acionar-stf-contra-depoimentos-na-cpi-28052021
-2021-05-29 06:56:07,521          root     INFO: New article tracked: http://noticias.r7.com/brasil/inpe-alerta-sobre-crise-hidrica-no-inverno-em-sp-e-mais-4-estados-28052021
-2021-05-29 06:56:07,552          root     INFO: New article tracked: http://noticias.r7.com/brasil/documentos-mostram-omissao-do-governo-diz-membro-da-cpi-28052021
-2021-05-29 06:56:07,565          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-libera-59-milhoes-de-doses-da-astrazeneca-nesta-sexta-feira-28052021
-2021-05-29 06:56:07,578          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-sera-o-relator-da-acao-de-bolsonaro-contra-restricoes-no-stf-28052021
-2021-05-29 06:56:07,593          root     INFO: New article tracked: http://noticias.r7.com/brasil/joao-doria-bate-boca-com-carla-zambelli-durante-evento-em-sp-28052021
-2021-05-29 06:56:07,612          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacoes-prendem-mais-de-120-por-exploracao-infantil-nas-estradas-28052021
-2021-05-29 06:56:07,626          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-reservatorios-em-crise-setor-eletrico-faz-pente-fino-em-termicas-28052021
-2021-05-29 06:56:07,640          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-do-senado-critica-orgao-que-gere-sistema-eletrico-no-pais-28052021
-2021-05-29 06:56:07,660          root     INFO: New article tracked: http://noticias.r7.com/brasil/arthur-lira-cobra-reformas-para-superar-pandemia-da-covid-19-28052021
-2021-05-29 06:56:07,674          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouvira-medica-pro-cloroquina-na-terca-feira-1-28052021
-2021-05-29 06:56:07,686          root     INFO: New article tracked: http://noticias.r7.com/brasil/crime-pela-internet-endurecer-a-lei-e-insuficiente-diz-especialista-28052021
-2021-05-29 06:56:07,702          root     INFO: Removed http://noticias.r7.com/brasil/leia-carta-enviada-pelo-butantan-a-saude-com-oferta-de-vacina-27052021
-2021-05-29 06:56:07,708          root     INFO: Removed http://noticias.r7.com/brasil/comeca-a-distribuicao-de-280-mil-kits-de-higiene-doados-para-602-presidios-27052021
-2021-05-29 06:56:07,714          root     INFO: Removed http://noticias.r7.com/brasil/stf-da-ao-ex-governador-beto-richa-acesso-a-delacao-de-ex-secretario-27052021
-2021-05-29 06:56:07,720          root     INFO: Removed http://noticias.r7.com/brasil/cpi-define-cronograma-de-junho-veja-quem-sao-os-proximos-a-depor-27052021
-2021-05-29 06:56:07,724          root     INFO: Removed http://noticias.r7.com/brasil/covas-classifica-variante-indiana-como-de-extrema-preocupacao-27052021
-2021-05-29 06:56:07,729          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-saude-confirma-8-casos-da-variante-indiana-no-brasil-27052021
-2021-05-29 06:56:07,734          root     INFO: Removed http://noticias.r7.com/brasil/covas-contradiz-pazuello-e-ve-acoes-do-governo-afetarem-coronavac-27052021
-2021-05-29 06:56:07,739          root     INFO: Removed http://noticias.r7.com/brasil/cpi-calcula-100-milhoes-de-vacinas-a-menos-por-ofertas-recusadas-27052021
-2021-05-29 06:56:07,744          root     INFO: Removed http://noticias.r7.com/brasil/itamaraty-nao-apoiou-conversas-com-a-china-por-insumos-diz-covas-27052021
-2021-05-29 06:56:07,749          root     INFO: Removed http://noticias.r7.com/brasil/pais-tera-piora-da-pandemia-por-variantes-diz-dimas-covas-27052021
-2021-05-29 06:56:07,754          root     INFO: Removed http://noticias.r7.com/brasil/apos-retomar-producao-fiocruz-deve-entregar-hoje-49-mi-de-doses-28052021
-2021-05-29 06:56:07,759          root     INFO: Removed http://noticias.r7.com/brasil/relatoria-aponta-contradicoes-entre-dimas-e-pazuello-veja-pontos-27052021
-2021-05-29 06:56:07,763          root     INFO: Removed http://noticias.r7.com/brasil/justica-do-df-mantem-serasa-proibida-de-vender-dados-pessoais-27052021
-2021-05-29 06:56:07,769          root     INFO: Removed http://noticias.r7.com/brasil/renan-calheiros-diz-que-senado-checara-informacoes-dadas-a-cpi-27052021
-2021-05-29 06:56:07,774          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-vai-ao-supremo-contra-lockdown-em-tres-estados-27052021
-2021-05-29 06:56:07,779          root     INFO: Removed http://noticias.r7.com/brasil/stf-forma-maioria-para-invalidar-a-delacao-de-sergio-cabral-27052021
-2021-05-29 06:56:07,784          root     INFO: Removed http://noticias.r7.com/brasil/cpi-quarta-semana-aponta-contradicoes-e-vacinas-recusadas-28052021
-2021-05-29 06:56:07,789          root     INFO: Removed http://noticias.r7.com/brasil/live-jr-aborda-fim-do-prazo-de-declaracao-do-imposto-de-renda-28052021
-2021-05-29 06:56:07,790          root     INFO: Finished script
+2021-05-29 08:15:22,881          root     INFO: Starting script
+2021-05-29 08:15:23,790          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-29 08:15:24,480          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-29 08:15:25,172          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-29 08:15:25,336          root     INFO: Parsing R7 - Brasil
+2021-05-29 08:15:35,085          root     INFO: Removed http://noticias.r7.com/brasil/operacoes-prendem-mais-de-120-por-exploracao-infantil-nas-estradas-28052021
+2021-05-29 08:15:35,091          root     INFO: Removed http://noticias.r7.com/brasil/joao-doria-bate-boca-com-carla-zambelli-durante-evento-em-sp-28052021
+2021-05-29 08:15:35,096          root     INFO: Removed http://noticias.r7.com/brasil/barroso-sera-o-relator-da-acao-de-bolsonaro-contra-restricoes-no-stf-28052021
+2021-05-29 08:15:35,102          root     INFO: Removed http://noticias.r7.com/brasil/arthur-lira-cobra-reformas-para-superar-pandemia-da-covid-19-28052021
+2021-05-29 08:15:35,108          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-libera-59-milhoes-de-doses-da-astrazeneca-nesta-sexta-feira-28052021
+2021-05-29 08:15:35,114          root     INFO: Removed http://noticias.r7.com/brasil/governadores-de-17-estados-e-df-acionam-o-stf-para-evitar-a-cpi-28052021
+2021-05-29 08:15:35,120          root     INFO: Removed http://noticias.r7.com/brasil/crime-pela-internet-endurecer-a-lei-e-insuficiente-diz-especialista-28052021
+2021-05-29 08:15:35,125          root     INFO: Removed http://noticias.r7.com/brasil/fotos/avanco-da-variante-indiana-e-contradicoes-na-cpi-marcam-a-semana-29052021
+2021-05-29 08:15:35,131          root     INFO: Removed http://noticias.r7.com/brasil/com-reservatorios-em-crise-setor-eletrico-faz-pente-fino-em-termicas-28052021
+2021-05-29 08:15:35,136          root     INFO: Removed http://noticias.r7.com/brasil/governadores-irao-acionar-stf-contra-depoimentos-na-cpi-28052021
+2021-05-29 08:15:35,143          root     INFO: Removed http://noticias.r7.com/brasil/presidente-do-senado-critica-orgao-que-gere-sistema-eletrico-no-pais-28052021
+2021-05-29 08:15:35,149          root     INFO: Removed http://noticias.r7.com/brasil/oab-aprova-parecer-contra-acao-de-bolsonaro-para-impedir-restricoes-28052021
+2021-05-29 08:15:35,154          root     INFO: Removed http://noticias.r7.com/brasil/ate-o-final-do-ano-vamos-vacinar-toda-a-populacao-diz-queiroga-28052021
+2021-05-29 08:15:35,160          root     INFO: Removed http://noticias.r7.com/brasil/brasil-deve-concluir-com-falhas-vacinacao-de-covid-19-neste-ano-29052021
+2021-05-29 08:15:35,165          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouvira-medica-pro-cloroquina-na-terca-feira-1-28052021
+2021-05-29 08:15:35,171          root     INFO: Removed http://noticias.r7.com/brasil/documentos-mostram-omissao-do-governo-diz-membro-da-cpi-28052021
+2021-05-29 08:15:35,177          root     INFO: Removed http://noticias.r7.com/brasil/inpe-alerta-sobre-crise-hidrica-no-inverno-em-sp-e-mais-4-estados-28052021
+2021-05-29 08:15:35,182          root     INFO: Removed http://noticias.r7.com/brasil/decreto-de-bolsonaro-regulamenta-leiloes-para-reserva-de-energia-28052021
+2021-05-29 08:15:35,187          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-indios-brasileiros-sao-discriminados-por-europeus-28052021
+2021-05-29 08:15:35,194          root     INFO: Removed http://noticias.r7.com/brasil/tributaria-quais-impostos-que-podem-ficar-mais-altos-e-mais-baixos-29052021
+2021-05-29 08:15:35,195          root     INFO: Finished script
