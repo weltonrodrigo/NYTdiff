@@ -1,8 +1,13 @@
-2021-05-29 15:15:52,345          root     INFO: Starting script
-2021-05-29 15:15:53,306          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-29 15:15:54,108          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-29 15:15:54,899          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-29 15:15:55,200          root     INFO: Parsing R7 - Brasil
-2021-05-29 15:16:00,204          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/investigado-no-governo-bolsonaro-salles-tambem-e-alvo-de-devassa-na-justica-paulista.shtml
-2021-05-29 15:16:03,090          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/desmatamento-pode-cortar-xingu-em-dois-aponta-relatorio-de-ong.shtml
-2021-05-29 15:16:03,091          root     INFO: Finished script
+2021-05-29 15:56:42,834          root     INFO: Starting script
+2021-05-29 15:56:43,728          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-29 15:56:44,406          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-29 15:56:45,087          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-29 15:56:45,233          root     INFO: Parsing R7 - Brasil
+2021-05-29 15:56:51,080          root     INFO: <del>Investigado no governo Bolsonaro,</del> Salles <del>também</del> é <del>alvo</del> <ins>investigado por aumento</ins> de <del>devassa na</del> <ins>R$ 7,4 milhões em patrimônio pela</ins> Justiça <del>paulista</del> <ins>de SP</ins>
+2021-05-29 15:56:52,863          root     INFO: Media ready with ids: 1398669680978632708
+2021-05-29 15:56:52,863          root     INFO: Text to tweet: Modificação do Título
+2021-05-29 15:56:52,864          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/investigado-no-governo-bolsonaro-salles-tambem-e-alvo-de-devassa-na-justica-paulista.shtml
+2021-05-29 15:56:52,881          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/investigado-no-governo-bolsonaro-salles-tambem-e-alvo-de-devassa-na-justica-paulista.shtml
+2021-05-29 15:56:53,107          root     INFO: Replying to: 1398669682585047040
+2021-05-29 15:56:53,316          root     INFO: Id to store: 1398669683319054346
+2021-05-29 15:56:56,668          root     INFO: Finished script
