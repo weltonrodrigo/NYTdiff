@@ -1,13 +1,13 @@
-2021-05-29 15:56:42,834          root     INFO: Starting script
-2021-05-29 15:56:43,728          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-29 15:56:44,406          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-29 15:56:45,087          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-29 15:56:45,233          root     INFO: Parsing R7 - Brasil
-2021-05-29 15:56:51,080          root     INFO: <del>Investigado no governo Bolsonaro,</del> Salles <del>também</del> é <del>alvo</del> <ins>investigado por aumento</ins> de <del>devassa na</del> <ins>R$ 7,4 milhões em patrimônio pela</ins> Justiça <del>paulista</del> <ins>de SP</ins>
-2021-05-29 15:56:52,863          root     INFO: Media ready with ids: 1398669680978632708
-2021-05-29 15:56:52,863          root     INFO: Text to tweet: Modificação do Título
-2021-05-29 15:56:52,864          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/investigado-no-governo-bolsonaro-salles-tambem-e-alvo-de-devassa-na-justica-paulista.shtml
-2021-05-29 15:56:52,881          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/investigado-no-governo-bolsonaro-salles-tambem-e-alvo-de-devassa-na-justica-paulista.shtml
-2021-05-29 15:56:53,107          root     INFO: Replying to: 1398669682585047040
-2021-05-29 15:56:53,316          root     INFO: Id to store: 1398669683319054346
-2021-05-29 15:56:56,668          root     INFO: Finished script
+2021-05-29 16:53:13,510          root     INFO: Starting script
+2021-05-29 16:53:14,336          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-29 16:53:15,010          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-29 16:53:15,696          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-29 16:53:15,802          root     INFO: Parsing R7 - Brasil
+2021-05-29 16:53:18,406          root     INFO: <del>Liderados pela esquerda, protestos</del> <ins>Protestos da esquerda</ins> contra Bolsonaro reúnem manifestantes nas ruas em meio à pandemia
+2021-05-29 16:53:20,046          root     INFO: Media ready with ids: 1398683887895826433
+2021-05-29 16:53:20,046          root     INFO: Text to tweet: Modificação do Título
+2021-05-29 16:53:20,046          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
+2021-05-29 16:53:20,056          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
+2021-05-29 16:53:20,218          root     INFO: Replying to: 1398683889242148868
+2021-05-29 16:53:20,431          root     INFO: Id to store: 1398683889883926532
+2021-05-29 16:53:25,850          root     INFO: Finished script
