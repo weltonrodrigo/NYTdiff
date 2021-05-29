@@ -1,18 +1,12 @@
-2021-05-29 21:16:46,949          root     INFO: Starting script
-2021-05-29 21:16:47,927          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-29 21:16:48,724          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-29 21:16:49,514          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-29 21:16:49,745          root     INFO: Parsing R7 - Brasil
-2021-05-29 21:16:52,582          root     INFO: <del>Liderados pela esquerda, protestos</del> <ins>Protestos</ins> contra Bolsonaro reúnem <del>manifestantes</del> <ins>milhares</ins> nas ruas em meio à pandemia
-2021-05-29 21:16:54,366          root     INFO: Media ready with ids: 1398750217902641155
-2021-05-29 21:16:54,367          root     INFO: Text to tweet: Modificação do Título
-2021-05-29 21:16:54,367          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
-2021-05-29 21:16:54,376          root     INFO: Replying to: 1398743942116564996
-2021-05-29 21:16:54,685          root     INFO: Id to store: 1398750219643326469
-2021-05-29 21:16:54,693          root     INFO: Protestos contra o presidente Jair Bolsonaro liderados por centrais sindicais, movimentos sociais e partidos de esquerda reúnem <ins>milhares</ins> manifestantes em várias cidades do país. <del>Na manhã deste sábado (29), há atos em capitais como Rio de Janeiro, Salvador, Belo Horizonte e Recife.</del> Leia mais (05/29/2021 - 10h49)
-2021-05-29 21:16:56,467          root     INFO: Media ready with ids: 1398750226589040640
-2021-05-29 21:16:56,467          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-29 21:16:56,467          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
-2021-05-29 21:16:56,476          root     INFO: Replying to: 1398750219643326469
-2021-05-29 21:16:56,770          root     INFO: Id to store: 1398750228325486596
-2021-05-29 21:17:02,169          root     INFO: Finished script
+2021-05-29 21:53:03,579          root     INFO: Starting script
+2021-05-29 21:53:04,773          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-29 21:53:05,566          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-29 21:53:06,378          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-29 21:53:06,628          root     INFO: Parsing R7 - Brasil
+2021-05-29 21:53:09,409          root     INFO: <del>Manifestantes</del> <ins>Milhares de manifestantes</ins> contrários ao presidente Jair Bolsonaro se concentram na tarde deste sábado (29) na avenida Paulista, em São Paulo, que foi bloqueada em frente do Masp (Museu de Arte de São Paulo). <ins>Os participantes já descem a rua da Consolação rumo ao centro da capital paulista.</ins> Leia mais (05/29/2021 - 16h25)
+2021-05-29 21:53:11,305          root     INFO: Media ready with ids: 1398759348499849224
+2021-05-29 21:53:11,305          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-29 21:53:11,305          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/protesto-contra-bolsonaro-em-meio-a-pandemia-bloqueia-avenida-paulista-em-sp.shtml
+2021-05-29 21:53:11,314          root     INFO: Replying to: 1398743924123095042
+2021-05-29 21:53:11,631          root     INFO: Id to store: 1398759350311731200
+2021-05-29 21:53:17,367          root     INFO: Finished script
