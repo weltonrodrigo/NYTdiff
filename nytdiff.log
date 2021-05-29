@@ -1,8 +1,25 @@
-2021-05-29 20:01:54,877          root     INFO: Starting script
-2021-05-29 20:01:56,067          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-29 20:01:56,726          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-29 20:01:57,394          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-29 20:01:57,560          root     INFO: Parsing R7 - Brasil
-2021-05-29 20:02:00,455          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/protesto-contra-bolsonaro-em-meio-a-pandemia-bloqueia-avenida-paulista-em-sp.shtml
-2021-05-29 20:02:06,274          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/renan-calheiros-aponta-11-contradicoes-no-depoimento-da-capita-cloroquina-a-cpi.shtml
-2021-05-29 20:02:06,276          root     INFO: Finished script
+2021-05-29 20:51:45,958          root     INFO: Starting script
+2021-05-29 20:51:46,796          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-29 20:51:47,489          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-29 20:51:48,167          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-29 20:51:48,303          root     INFO: Parsing R7 - Brasil
+2021-05-29 20:51:51,287          root     INFO: <del>Manifestantes</del> <ins>Milhares de manifestantes</ins> contrários ao presidente Jair Bolsonaro se concentram na tarde deste sábado (29) na avenida Paulista, em São Paulo, que foi bloqueada em frente do Masp (Museu de Arte de São Paulo). Leia mais (05/29/2021 - 16h25)
+2021-05-29 20:51:53,304          root     INFO: Media ready with ids: 1398743920906018816
+2021-05-29 20:51:53,305          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-29 20:51:53,305          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/protesto-contra-bolsonaro-em-meio-a-pandemia-bloqueia-avenida-paulista-em-sp.shtml
+2021-05-29 20:51:53,316          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/protesto-contra-bolsonaro-em-meio-a-pandemia-bloqueia-avenida-paulista-em-sp.shtml
+2021-05-29 20:51:53,492          root     INFO: Replying to: 1398743923447713793
+2021-05-29 20:51:53,716          root     INFO: Id to store: 1398743924123095042
+2021-05-29 20:51:53,854          root     INFO: <del>Liderados pela esquerda, protestos</del> <ins>Protestos da esquerda</ins> contra Bolsonaro reúnem <del>manifestantes</del> <ins>milhares</ins> nas ruas em meio à pandemia
+2021-05-29 20:51:55,807          root     INFO: Media ready with ids: 1398743931328815109
+2021-05-29 20:51:55,808          root     INFO: Text to tweet: Modificação do Título
+2021-05-29 20:51:55,808          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
+2021-05-29 20:51:55,820          root     INFO: Replying to: 1398709971014107142
+2021-05-29 20:51:56,034          root     INFO: Id to store: 1398743933916782595
+2021-05-29 20:51:56,045          root     INFO: Protestos contra o presidente Jair Bolsonaro liderados por centrais sindicais, movimentos sociais e partidos de esquerda reúnem <ins>milhares</ins> manifestantes em várias cidades do país. <del>Na manhã deste sábado (29), há atos em capitais como Rio de Janeiro, Salvador, Belo Horizonte e Recife.</del> Leia mais (05/29/2021 - 10h49)
+2021-05-29 20:51:57,756          root     INFO: Media ready with ids: 1398743940560527363
+2021-05-29 20:51:57,756          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-29 20:51:57,756          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
+2021-05-29 20:51:57,768          root     INFO: Replying to: 1398743933916782595
+2021-05-29 20:51:57,990          root     INFO: Id to store: 1398743942116564996
+2021-05-29 20:52:03,933          root     INFO: Finished script
