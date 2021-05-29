@@ -1,26 +1,10 @@
-2021-05-29 14:22:47,496          root     INFO: Starting script
-2021-05-29 14:22:48,471          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-29 14:22:49,263          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-29 14:22:50,062          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-29 14:22:50,283          root     INFO: Parsing R7 - Brasil
-2021-05-29 14:22:50,687          root     INFO: A <del>todo momento, em nossas vidas, nos deparamos com algum conflito: em casa, no trabalho, no supermercado ou no trânsito. E como resolvemos esses conflitos? Com o diálogo, ouvindo</del> <ins>pergunta é bastante instigante</ins> e <del>sendo ouvido, conhecendo as necessidades e os interesses do outro, para se chegar a</del> <ins>gera</ins> uma <del>solução mais justa</del> <ins>reflexão profunda sobre o que está previsto no ordenamento jurídico, decorrente da escolha feita pelo legislador,</ins> e <del>adequada.</del> <ins>o que cada um de nós desejaria que estivesse.</ins> Leia mais (05/28/2021 - 23h15)
-2021-05-29 14:22:52,431          root     INFO: Media ready with ids: 1398646023212474369
-2021-05-29 14:22:52,431          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-29 14:22:52,432          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/empresas-devem-ter-o-direito-de-demitir-em-massa-sem-negociacao-coletiva-sim.shtml
-2021-05-29 14:22:52,442          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/empresas-devem-ter-o-direito-de-demitir-em-massa-sem-negociacao-coletiva-sim.shtml
-2021-05-29 14:22:52,639          root     INFO: Replying to: 1398646024793739266
-2021-05-29 14:22:52,879          root     INFO: Id to store: 1398646025561182209
-2021-05-29 14:22:52,928          root     INFO: A <del>pergunta é bastante instigante e gera uma reflexão profunda sobre o que está previsto</del> <ins>todo momento, em nossas vidas, nos deparamos com algum conflito: em casa,</ins> no <del>ordenamento jurídico, decorrente da escolha feita pelo legislador, e</del> <ins>trabalho, no supermercado ou no trânsito. E como resolvemos esses conflitos? Com</ins> o <del>que cada um de nós desejaria que estivesse.</del> <ins>diálogo, ouvindo e sendo ouvido, conhecendo as necessidades e os interesses do outro, para se chegar a uma solução mais justa e adequada.</ins> Leia mais (05/28/2021 - 23h15)
-2021-05-29 14:22:54,646          root     INFO: Media ready with ids: 1398646032427270144
-2021-05-29 14:22:54,646          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-29 14:22:54,646          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/empresas-devem-ter-o-direito-de-demitir-em-massa-sem-negociacao-coletiva-nao.shtml
-2021-05-29 14:22:54,655          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/empresas-devem-ter-o-direito-de-demitir-em-massa-sem-negociacao-coletiva-nao.shtml
-2021-05-29 14:22:54,828          root     INFO: Replying to: 1398646033987608576
-2021-05-29 14:22:55,085          root     INFO: Id to store: 1398646034822270977
-2021-05-29 14:22:57,557          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
-2021-05-29 14:23:03,248          root     INFO: New article tracked: http://noticias.r7.com/brasil/desligamento-do-emprego-por-morte-cresce-166-e-bate-recorde-28052021
-2021-05-29 14:23:03,259          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-de-etica-decidira-destino-de-flordelis-na-terca-feira-1-28052021
-2021-05-29 14:23:03,272          root     INFO: New article tracked: http://noticias.r7.com/brasil/unicef-assina-acordo-com-consorcio-do-nordeste-pela-educacao-28052021
-2021-05-29 14:23:03,286          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-mourao-cpi-da-covid-precisa-falar-de-acoes-economicas-e-sociais-28052021
-2021-05-29 14:23:03,301          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/quem-e-mayra-pinheiro-a-capita-cloroquina-secretaria-do-ministerio-da-saude-que-depoe-nesta-terca.shtml
-2021-05-29 14:23:03,301          root     INFO: Finished script
+2021-05-29 14:55:59,346          root     INFO: Starting script
+2021-05-29 14:56:00,356          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-29 14:56:01,138          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-29 14:56:01,915          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-29 14:56:02,187          root     INFO: Parsing R7 - Brasil
+2021-05-29 14:56:10,986          root     INFO: Removed http://noticias.r7.com/brasil/desligamento-do-emprego-por-morte-cresce-166-e-bate-recorde-28052021
+2021-05-29 14:56:10,995          root     INFO: Removed http://noticias.r7.com/brasil/para-mourao-cpi-da-covid-precisa-falar-de-acoes-economicas-e-sociais-28052021
+2021-05-29 14:56:11,000          root     INFO: Removed http://noticias.r7.com/brasil/unicef-assina-acordo-com-consorcio-do-nordeste-pela-educacao-28052021
+2021-05-29 14:56:11,005          root     INFO: Removed http://noticias.r7.com/brasil/conselho-de-etica-decidira-destino-de-flordelis-na-terca-feira-1-28052021
+2021-05-29 14:56:11,006          root     INFO: Finished script
