@@ -1,32 +1,20 @@
-2021-05-29 23:43:56,017          root     INFO: Starting script
-2021-05-29 23:43:56,895          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-29 23:43:57,575          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-29 23:43:58,250          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-29 23:43:58,387          root     INFO: Parsing R7 - Brasil
-2021-05-29 23:43:58,529          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/05/nao-basta-ter-uma-ideia-de-jogo-expressao-da-moda-e-preciso-saber-fazer.shtml
-2021-05-29 23:44:01,234          root     INFO: <del>Protesto contra Bolsonaro</del> <ins>Após quatro horas de ato, manifestação</ins> em <del>meio à pandemia bloqueia avenida Paulista em SP</del> <ins>São Paulo começa a dispersar</ins>
-2021-05-29 23:44:02,972          root     INFO: Media ready with ids: 1398787247848280067
-2021-05-29 23:44:02,972          root     INFO: Text to tweet: Modificação do Título
-2021-05-29 23:44:02,972          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/protesto-contra-bolsonaro-em-meio-a-pandemia-bloqueia-avenida-paulista-em-sp.shtml
-2021-05-29 23:44:02,982          root     INFO: Replying to: 1398759350311731200
-2021-05-29 23:44:03,196          root     INFO: Id to store: 1398787249182019588
-2021-05-29 23:44:03,204          root     INFO: <del>Manifestantes contrários ao</del> <ins>Após mais de quatro horas de ato em São Paulo contra o</ins> presidente Jair <del>Bolsonaro se concentram na tarde</del> <ins>Bolsonaro, os manifestantes começaram a dispersar nas imediações da praça Roosevelt, no centro da capital paulista. O protesto começou por volta das 16h</ins> deste sábado (29) <ins>e reuniu milhares de pessoas</ins> na avenida Paulista, <del>em São Paulo,</del> que foi bloqueada <del>em</del> <ins>ao longo de sete quarteirões a partir da</ins> frente do Masp (Museu de Arte de São Paulo). Leia mais (05/29/2021 - 16h25)
-2021-05-29 23:44:04,953          root     INFO: Media ready with ids: 1398787256035467264
-2021-05-29 23:44:04,954          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-29 23:44:04,954          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/protesto-contra-bolsonaro-em-meio-a-pandemia-bloqueia-avenida-paulista-em-sp.shtml
-2021-05-29 23:44:04,966          root     INFO: Replying to: 1398787249182019588
-2021-05-29 23:44:05,213          root     INFO: Id to store: 1398787257507749889
-2021-05-29 23:44:05,349          root     INFO: <del>Liderados pela esquerda, protestos</del> <ins>Protestos</ins> contra Bolsonaro reúnem <del>manifestantes</del> <ins>milhares</ins> nas ruas em meio à pandemia
-2021-05-29 23:44:07,028          root     INFO: Media ready with ids: 1398787264721866753
-2021-05-29 23:44:07,029          root     INFO: Text to tweet: Modificação do Título
-2021-05-29 23:44:07,029          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
-2021-05-29 23:44:07,039          root     INFO: Replying to: 1398750228325486596
-2021-05-29 23:44:07,244          root     INFO: Id to store: 1398787266164711426
-2021-05-29 23:44:07,251          root     INFO: Protestos contra o presidente Jair Bolsonaro liderados por centrais sindicais, movimentos sociais e partidos de esquerda <del>reúnem</del> <ins>reuniram milhares</ins> manifestantes em várias cidades do <del>país. Na manhã deste</del> <ins>país neste</ins> sábado <del>(29), há</del> <ins>(29). Houve</ins> atos em <del>capitais</del> <ins>ao menos seis capitais,</ins> como <ins>São Paulo,</ins> Rio de Janeiro, Salvador, Belo Horizonte e <del>Recife.</del> <ins>Recife, além de Brasília.</ins> Leia mais (05/29/2021 - 10h49)
-2021-05-29 23:44:09,008          root     INFO: Media ready with ids: 1398787272888176641
-2021-05-29 23:44:09,008          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-29 23:44:09,008          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
-2021-05-29 23:44:09,019          root     INFO: Replying to: 1398787266164711426
-2021-05-29 23:44:09,229          root     INFO: Id to store: 1398787274477871115
-2021-05-29 23:44:14,837          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/precisamos-da-vacina-brasileira.shtml
-2021-05-29 23:44:14,837          root     INFO: Finished script
+2021-05-30 00:29:38,899          root     INFO: Starting script
+2021-05-30 00:29:39,793          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-30 00:29:40,478          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-30 00:29:41,160          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-30 00:29:41,416          root     INFO: Parsing R7 - Brasil
+2021-05-30 00:29:41,566          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/novidade-nas-ruas.shtml
+2021-05-30 00:29:44,338          root     INFO: <del>Liderados pela esquerda, protestos</del> <ins>Protestos</ins> contra Bolsonaro reúnem <del>manifestantes</del> <ins>milhares</ins> nas ruas em meio à pandemia
+2021-05-30 00:29:46,012          root     INFO: Media ready with ids: 1398798752907943946
+2021-05-30 00:29:46,013          root     INFO: Text to tweet: Modificação do Título
+2021-05-30 00:29:46,013          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
+2021-05-30 00:29:46,024          root     INFO: Replying to: 1398787274477871115
+2021-05-30 00:29:46,245          root     INFO: Id to store: 1398798754350878721
+2021-05-30 00:29:46,255          root     INFO: Protestos contra o presidente Jair Bolsonaro <del>liderados por centrais sindicais, movimentos sociais e partidos de esquerda reúnem</del> <ins>(sem partido) reuniram milhares</ins> manifestantes em várias cidades do <del>país. Na manhã deste</del> <ins>país neste</ins> sábado <del>(29), há</del> <ins>(29). Houve</ins> atos em <ins>todas as 27</ins> capitais <del>como</del> <ins>brasileiras, com grandes concentrações em São Paulo e no</ins> Rio de <del>Janeiro, Salvador, Belo Horizonte e Recife.</del> <ins>Janeiro.</ins> Leia mais (05/29/2021 - 10h49)
+2021-05-30 00:29:47,953          root     INFO: Media ready with ids: 1398798761015578628
+2021-05-30 00:29:47,954          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-30 00:29:47,954          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
+2021-05-30 00:29:47,964          root     INFO: Replying to: 1398798754350878721
+2021-05-30 00:29:48,203          root     INFO: Id to store: 1398798762542239749
+2021-05-30 00:29:54,072          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/05/espetaculo-da-forca-e-a-droga-do-direitista-que-se-gaba-de-nao-ser-bonzinho.shtml
+2021-05-30 00:29:54,074          root     INFO: Finished script
