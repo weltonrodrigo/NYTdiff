@@ -1,6 +1,13 @@
-2021-05-30 21:18:34,560          root     INFO: Starting script
-2021-05-30 21:18:35,431          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-30 21:18:36,117          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-30 21:18:36,798          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-30 21:18:36,909          root     INFO: Parsing R7 - Brasil
-2021-05-30 21:18:45,634          root     INFO: Finished script
+2021-05-30 21:57:53,936          root     INFO: Starting script
+2021-05-30 21:57:54,789          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-30 21:57:55,448          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-30 21:57:56,107          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-30 21:57:56,286          root     INFO: Parsing R7 - Brasil
+2021-05-30 21:57:56,569          root     INFO: "Eu a vi pela primeira vez numa rede social. Nesse dia, como em tantos outros, deixava o dedão deslizar pela tela do celular displicentemente até que um certo perfil apareceu e me fez parar. Chamei minha mulher e mostrei a imagem: 'O que acha?', perguntei. 'Ela se chama Vera', emendei. Fazia um tempo que falávamos sobre realizar uma nova estripulia, mas estávamos inseguras. "Será?", perguntou minha mulher. Num ímpeto, mandei mensagem <del>--justo</del> <ins>-justo</ins> eu, que não sou dada a imediatismos. Combinamos de nos encontrar na praia no dia seguinte. Leia mais (05/30/2021 - 00h48)
+2021-05-30 21:57:58,521          root     INFO: Media ready with ids: 1399122940902481920
+2021-05-30 21:57:58,521          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-30 21:57:58,521          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/05/vera-mudou-a-nossa-vida-na-pandemia.shtml
+2021-05-30 21:57:58,531          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nosso-estranho-amor/2021/05/vera-mudou-a-nossa-vida-na-pandemia.shtml
+2021-05-30 21:57:58,730          root     INFO: Replying to: 1399122942731210753
+2021-05-30 21:57:58,989          root     INFO: Id to store: 1399122943561568264
+2021-05-30 21:58:07,015          root     INFO: Finished script
