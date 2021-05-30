@@ -1,6 +1,12 @@
-2021-05-30 15:06:43,661          root     INFO: Starting script
-2021-05-30 15:06:44,657          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-30 15:06:45,461          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-30 15:06:46,287          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-30 15:06:46,565          root     INFO: Parsing R7 - Brasil
-2021-05-30 15:06:55,883          root     INFO: Finished script
+2021-05-30 15:54:52,174          root     INFO: Starting script
+2021-05-30 15:54:53,126          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-30 15:54:53,900          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-30 15:54:54,674          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-30 15:54:54,892          root     INFO: Parsing R7 - Brasil
+2021-05-30 15:54:57,459          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/em-carta-a-omar-aziz-governadores-pedem-que-ele-reconsidere-convocacoes-a-cpi.shtml
+2021-05-30 15:54:57,474          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/atos-antecipam-eleicao-e-bolsonaro-nao-pode-mais-ser-criticado-por-aglomeracoes-diz-lider-do-governo.shtml
+2021-05-30 15:55:02,615          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/datafolha-pesquisa-mostra-alcance-e-opiniao-da-advocacia-sobre-uso-de-tecnologia-na-profissao.shtml
+2021-05-30 15:55:02,621          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-premio-de-946-milhoes-deste-sabado-sai-para-duas-apostas-29052021
+2021-05-30 15:55:02,627          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/senadores-apontam-habeas-corpus-e-limite-de-escopo-como-empecilhos-para-avanco-da-cpi-sobre-governadores.shtml
+2021-05-30 15:55:02,631          root     INFO: Removed http://noticias.r7.com/brasil/confira-as-dezenas-sorteadas-na-mega-sena-deste-sabado-29-29052021
+2021-05-30 15:55:02,632          root     INFO: Finished script
