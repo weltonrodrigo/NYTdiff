@@ -1,21 +1,6 @@
-2021-05-30 20:52:10,958          root     INFO: Starting script
-2021-05-30 20:52:11,934          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-30 20:52:12,703          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-30 20:52:13,467          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-30 20:52:13,718          root     INFO: Parsing R7 - Brasil
-2021-05-30 20:52:13,896          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bia-braune/2021/05/melhor-que-o-super-homem-tio-maneco-foi-o-maior-paladino-deste-pais.shtml
-2021-05-30 20:52:16,185          root     INFO: <del>Homem perde</del> <ins>Dois homens perdem</ins> visão <del>de um olho</del> após <del>ser atingido</del> <ins>serem atingidos</ins> por bala de borracha <del>disparada</del> em ato contra Bolsonaro no Recife
-2021-05-30 20:52:18,000          root     INFO: Media ready with ids: 1399106413402730514
-2021-05-30 20:52:18,000          root     INFO: Text to tweet: Modificação do Título
-2021-05-30 20:52:18,001          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/homem-perde-visao-de-um-olho-apos-ser-atingido-por-bala-de-borracha-disparada-em-ato-contra-bolsonaro-no-recife.shtml
-2021-05-30 20:52:18,011          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/homem-perde-visao-de-um-olho-apos-ser-atingido-por-bala-de-borracha-disparada-em-ato-contra-bolsonaro-no-recife.shtml
-2021-05-30 20:52:18,256          root     INFO: Replying to: 1399106415101423619
-2021-05-30 20:52:18,654          root     INFO: Id to store: 1399106416179257345
-2021-05-30 20:52:18,662          root     INFO: <del>O autônomo Daniel Campelo, 51, perdeu</del> <ins>Dois homens perderam</ins> a visão de um olho após <del>ser atingido</del> <ins>serem atingidos</ins> por <del>um tiro</del> <ins>tiros</ins> de bala de borracha <del>disparado</del> <ins>disparados</ins> durante as manifestações contra o presidente Jair Bolsonaro neste sábado (29) no Recife. Leia mais (05/30/2021 - 15h38)
-2021-05-30 20:52:20,491          root     INFO: Media ready with ids: 1399106423376711683
-2021-05-30 20:52:20,491          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-30 20:52:20,491          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/homem-perde-visao-de-um-olho-apos-ser-atingido-por-bala-de-borracha-disparada-em-ato-contra-bolsonaro-no-recife.shtml
-2021-05-30 20:52:20,501          root     INFO: Replying to: 1399106416179257345
-2021-05-30 20:52:20,789          root     INFO: Id to store: 1399106425532653569
-2021-05-30 20:52:26,288          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/confesso-que-menti.shtml
-2021-05-30 20:52:26,288          root     INFO: Finished script
+2021-05-30 21:18:34,560          root     INFO: Starting script
+2021-05-30 21:18:35,431          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-30 21:18:36,117          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-30 21:18:36,798          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-30 21:18:36,909          root     INFO: Parsing R7 - Brasil
+2021-05-30 21:18:45,634          root     INFO: Finished script
