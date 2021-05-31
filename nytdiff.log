@@ -1,6 +1,18 @@
-2021-05-31 16:46:15,972          root     INFO: Starting script
-2021-05-31 16:46:16,775          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-31 16:46:17,439          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-31 16:46:18,092          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-31 16:46:18,364          root     INFO: Parsing R7 - Brasil
-2021-05-31 16:46:26,245          root     INFO: Finished script
+2021-05-31 18:52:22,046          root     INFO: Starting script
+2021-05-31 18:52:22,882          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-31 18:52:23,558          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-31 18:52:24,227          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-31 18:52:24,400          root     INFO: Parsing R7 - Brasil
+2021-05-31 18:52:24,572          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joao-wainer/2021/05/vai-passar.shtml
+2021-05-31 18:52:24,588          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/nossa-adoracao-pela-ciencia-teria-deixado-auguste-comte-abobalhado.shtml
+2021-05-31 18:52:24,603          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/adoracao-pela-ciencia-se-tornou-quase-religiosa-e-teria-deixado-comte-mudo.shtml
+2021-05-31 18:52:27,226          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/comissao-do-psdb-contraria-doria-e-propoe-previas-com-pesos-diferentes-para-militantes-e-politicos.shtml
+2021-05-31 18:52:27,241          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/flavio-bolsonaro-se-filia-ao-patriota-e-abre-caminho-para-entrada-do-presidente-no-partido.shtml
+2021-05-31 18:52:27,269          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/parlamentares-do-psol-pedem-que-pgr-investigue-bolsonaro-por-homofobia-em-live-semanal.shtml
+2021-05-31 18:52:33,090          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/05/pressao-das-commodities-na-inflacao-sera-menor.shtml
+2021-05-31 18:52:33,096          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/morre-aos-83-anos-jaime-lerner-urbanista-de-destaque-e-duas-vezes-governador-do-parana.shtml
+2021-05-31 18:52:33,100          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/05/pazuello-e-o-seu-sereio.shtml
+2021-05-31 18:52:33,106          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2021/05/presidente-da-cpi-diz-que-protecao-a-bolsonaro-em-depoimentos-fica-ate-ridicula-ouca-podcast.shtml
+2021-05-31 18:52:33,113          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/em-ritmo-de-campanha-bolsonaro-cruza-o-pais-e-reinaugura-obras-que-incluem-ate-microponte-de-madeira.shtml
+2021-05-31 18:52:33,120          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-tavares/2021/05/a-primeira-derrota-de-bruno-covas-e-uma-licao-de-lideranca.shtml
+2021-05-31 18:52:33,121          root     INFO: Finished script
