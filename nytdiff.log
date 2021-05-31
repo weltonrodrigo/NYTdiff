@@ -1,12 +1,13 @@
-2021-05-31 22:22:36,547          root     INFO: Starting script
-2021-05-31 22:22:37,333          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-31 22:22:37,973          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-31 22:22:38,612          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-31 22:22:38,922          root     INFO: Parsing R7 - Brasil
-2021-05-31 22:22:39,073          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/05/brasil-vai-improvisar-a-copa-america-para-salvar-a-conmebol.shtml
-2021-05-31 22:22:39,085          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/05/bolsonaro-cbf-e-conmebol-querem-realizar-a-cova-america.shtml
-2021-05-31 22:22:39,096          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/05/palmeiras-esta-bem-servido-de-camisa-10.shtml
-2021-05-31 22:22:46,276          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/05/um-ano-depois-do-assassinato-de-floyd-negros-ainda-sofrem-com-violencia-policial.shtml
-2021-05-31 22:22:46,280          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/05/queda-de-bolsonaro-depende-das-ruas.shtml
-2021-05-31 22:22:46,284          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mauro-calliari/2021/05/com-paixao-jaime-lerner-se-tornou-um-dos-maiores-urbanistas-do-mundo.shtml
-2021-05-31 22:22:46,285          root     INFO: Finished script
+2021-05-31 23:14:27,657          root     INFO: Starting script
+2021-05-31 23:14:28,669          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-31 23:14:29,452          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-31 23:14:30,248          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-31 23:14:30,468          root     INFO: Parsing R7 - Brasil
+2021-05-31 23:14:30,738          root     INFO: Todos os dias sou questionado sobre a polarização na campanha presidencial e, obviamente, quem vai vencer a eleição: Lula ou Bolsonaro são os dois nomes mais fortes; penso que este confronto final é praticamente inevitável. Ouso dizer, porém, que a eleição do ano que vem já está definida, e o ganhador não será nenhum dos dois extremos <del>-nem</del> <ins>—nem</ins> a extrema esquerda, nem a extrema direita. Será o centro. Leia mais (05/31/2021 - 17h17)
+2021-05-31 23:14:32,636          root     INFO: Media ready with ids: 1399504598012923909
+2021-05-31 23:14:32,636          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-31 23:14:32,636          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-centro-ja-venceu-em-2022.shtml
+2021-05-31 23:14:32,646          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-centro-ja-venceu-em-2022.shtml
+2021-05-31 23:14:32,923          root     INFO: Replying to: 1399504599996944397
+2021-05-31 23:14:33,212          root     INFO: Id to store: 1399504600986701828
+2021-05-31 23:14:41,203          root     INFO: Finished script
