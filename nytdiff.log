@@ -1,13 +1,19 @@
-2021-05-31 13:40:41,619          root     INFO: Starting script
-2021-05-31 13:40:42,449          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-31 13:40:43,110          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-31 13:40:43,768          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-31 13:40:43,926          root     INFO: Parsing R7 - Brasil
-2021-05-31 13:40:49,228          root     INFO: O presidente Jair Bolsonaro (sem partido) inaugurou nesta quinta-feira (27) ponte sobre o igarapé Rodrigo e Cibele, no km 91 da BR-307, e não sobre o igarapé Ya-Mirim (km 85), conforme a Folha havia <del>noticiado em reportagem de Fabiano Maisonnave.</del> <ins>noticiado.</ins> Leia mais (05/27/2021 - 16h21)
-2021-05-31 13:40:51,275          root     INFO: Media ready with ids: 1399360223496839173
-2021-05-31 13:40:51,276          root     INFO: Text to tweet: Modificação da Descrição
-2021-05-31 13:40:51,276          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/folha-erra-ao-afirmar-que-bolsonaro-visita-ponte-recem-inaugurada-pelo-exercito-no-amazonas.shtml
-2021-05-31 13:40:51,285          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/folha-erra-ao-afirmar-que-bolsonaro-visita-ponte-recem-inaugurada-pelo-exercito-no-amazonas.shtml
-2021-05-31 13:40:51,484          root     INFO: Replying to: 1399360226076266498
-2021-05-31 13:40:51,723          root     INFO: Id to store: 1399360226881646596
-2021-05-31 13:40:55,418          root     INFO: Finished script
+2021-05-31 14:25:47,230          root     INFO: Starting script
+2021-05-31 14:25:48,209          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-31 14:25:48,983          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-31 14:25:49,762          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-31 14:25:49,964          root     INFO: Parsing R7 - Brasil
+2021-05-31 14:25:50,114          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/uma-alternativa-ao-contribuinte-paulistano.shtml
+2021-05-31 14:25:52,380          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4497
+2021-05-31 14:25:52,391          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/defesa-de-lula-pede-a-fux-que-julgue-suspeicao-de-moro-antes-da-saida-de-marco-aurelio.shtml
+2021-05-31 14:25:52,563          root     INFO: O relator da CPI da Covid, Renan Calheiros (MDB-AL), disse ao Painel que vai enviar ao STF <del>"subsídios técnicos"</del> <ins>“subsídios técnicos”</ins> baseados nos <del>"primeiros</del> <ins>“primeiros</ins> achados da <del>comissão"</del> <ins>comissão”</ins> para colaborar com o julgamento da ação em que Jair Bolsonaro (sem partido) pede a suspensão de decretos de lockdown e toque de recolher de três estados. Leia mais (05/30/2021 - 23h15)
+2021-05-31 14:25:54,435          root     INFO: Media ready with ids: 1399371562218893312
+2021-05-31 14:25:54,436          root     INFO: Text to tweet: Modificação da Descrição
+2021-05-31 14:25:54,436          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/renan-calheiros-vai-encaminhar-informacoes-da-cpi-para-acao-no-stf-de-bolsonaro-contra-governadores.shtml
+2021-05-31 14:25:54,444          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/renan-calheiros-vai-encaminhar-informacoes-da-cpi-para-acao-no-stf-de-bolsonaro-contra-governadores.shtml
+2021-05-31 14:25:54,690          root     INFO: Replying to: 1399371564064329731
+2021-05-31 14:25:54,967          root     INFO: Id to store: 1399371564987072515
+2021-05-31 14:25:59,734          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/eduardo-leite-se-reune-com-baleia-rossi-aliado-de-doria-em-busca-de-apoio-do-mdb-para-2022.shtml
+2021-05-31 14:25:59,738          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/deputados-reclamam-de-jogo-de-empurra-no-governo-doria-sobre-venda-de-sede-dos-metroviarios.shtml
+2021-05-31 14:25:59,742          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/estado-policial.shtml
+2021-05-31 14:25:59,743          root     INFO: Finished script
