@@ -1,6 +1,21 @@
-2021-05-30 23:18:47,760          root     INFO: Starting script
-2021-05-30 23:18:48,791          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-05-30 23:18:49,576          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-05-30 23:18:50,384          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-05-30 23:18:50,643          root     INFO: Parsing R7 - Brasil
-2021-05-30 23:18:59,511          root     INFO: Finished script
+2021-05-31 00:05:28,163          root     INFO: Starting script
+2021-05-31 00:05:29,138          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-05-31 00:05:29,935          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-05-31 00:05:30,735          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-05-31 00:05:31,005          root     INFO: Parsing R7 - Brasil
+2021-05-31 00:05:34,032          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/dirigentes-partidarios-veem-polarizacao-reforcada-com-protestos-mas-discordam-sobre-terceira-via-em-2022.shtml
+2021-05-31 00:05:39,584          root     INFO: New article tracked: http://noticias.r7.com/brasil/preocupados-com-convocacoes-governadores-enviam-carta-a-aziz-30052021
+2021-05-31 00:05:39,601          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-promete-enviar-oxigenio-para-estados-do-norte-e-nordeste-30052021
+2021-05-31 00:05:39,613          root     INFO: New article tracked: http://noticias.r7.com/brasil/defesa-civil-diz-que-tempestade-em-santa-catarina-formou-tornado-30052021
+2021-05-31 00:05:39,627          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-visita-fabricante-de-oxigenio-em-pernambuco-30052021
+2021-05-31 00:05:39,640          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-perdeu-17-combatentes-da-segunda-guerra-mundial-em-2021-30052021
+2021-05-31 00:05:39,653          root     INFO: New article tracked: http://noticias.r7.com/brasil/setor-de-servicos-concentra-acordos-em-programa-que-reduz-salarios-30052021
+2021-05-31 00:05:39,666          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-lamenta-morte-de-ex-pracinha-que-fundou-a-itapemirim-30052021
+2021-05-31 00:05:39,679          root     INFO: New article tracked: http://noticias.r7.com/brasil/oposicao-e-responsavel-por-75-dos-pedidos-aprovados-na-cpi-30052021
+2021-05-31 00:05:39,693          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-muda-restricoes-para-tripulantes-estrangeiros-de-navios-30052021
+2021-05-31 00:05:39,847          root     INFO: New article tracked: http://noticias.r7.com/brasil/atos-contra-o-governo-federal-e-por-vacinas-sao-registrados-pelo-pais-30052021
+2021-05-31 00:05:39,944          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasilia-rio-e-recife-registram-protestos-contra-o-governo-federal-30052021
+2021-05-31 00:05:39,991          root     INFO: Removed http://noticias.r7.com/brasil/brasilia-rio-e-recife-tem-manifestacoes-neste-sabado-29052021
+2021-05-31 00:05:39,996          root     INFO: Removed http://noticias.r7.com/brasil/atos-a-favor-do-auxilio-e-por-mais-vacinas-sao-registrados-pelo-pais-29052021
+2021-05-31 00:05:40,001          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/para-53-de-passageiros-ouvidos-pelo-governo-combate-a-covid-nas-viagens-de-aviao-e-eficiente.shtml
+2021-05-31 00:05:40,001          root     INFO: Finished script
