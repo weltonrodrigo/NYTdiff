@@ -1,6 +1,19 @@
-2021-06-01 15:03:17,006          root     INFO: Starting script
-2021-06-01 15:03:17,813          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-01 15:03:18,491          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-01 15:03:19,152          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-01 15:03:19,305          root     INFO: Parsing R7 - Brasil
-2021-06-01 15:03:27,488          root     INFO: Finished script
+2021-06-01 16:00:50,100          root     INFO: Starting script
+2021-06-01 16:00:50,888          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-01 16:00:51,524          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-01 16:00:52,165          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-01 16:00:52,401          root     INFO: Parsing R7 - Brasil
+2021-06-01 16:00:54,665          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/esporte/2021/06/supremo-solicita-informacoes-ao-governo-bolsonaro-sobre-copa-america-no-brasil.shtml
+2021-06-01 16:00:54,678          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/governadores-convocam-reuniao-para-debater-medidas-contra-3a-onda-de-covid-19-e-aceleracao-da-vacinacao.shtml
+2021-06-01 16:00:54,693          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-se-aproxima-de-nanico-patriota-e-contraria-centrao-sobre-estrutura-para-2022.shtml
+2021-06-01 16:00:54,749          root     INFO: As frentes Povo sem Medo e Brasil Popular, que agrupam centenas de entidades e encabeçaram as marchas de sábado (29) contra o governo Jair Bolsonaro, farão reuniões nesta terça-feira <del>(2)</del> <ins>(1º)</ins> para decidir sobre a continuidade das mobilizações. Leia mais (06/01/2021 - 10h00)
+2021-06-01 16:00:56,679          root     INFO: Media ready with ids: 1399757867079589895
+2021-06-01 16:00:56,679          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-01 16:00:56,679          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/frentes-que-puxaram-atos-contra-bolsonaro-se-reunem-nesta-terca-pra-discutir-novas-mobilizacoes.shtml
+2021-06-01 16:00:56,688          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/frentes-que-puxaram-atos-contra-bolsonaro-se-reunem-nesta-terca-pra-discutir-novas-mobilizacoes.shtml
+2021-06-01 16:00:56,874          root     INFO: Replying to: 1399757868669284356
+2021-06-01 16:00:57,136          root     INFO: Id to store: 1399757869524951046
+2021-06-01 16:01:01,574          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/05/bolsonaro-vai-ao-stf-para-barrar-lockdown-e-toque-de-recolher-em-tres-estados.shtml
+2021-06-01 16:01:01,578          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ninguem-tem-sossego-diz-governadora-do-rn-sobre-tentativa-de-bolsonaro-de-barrar-toque-de-recolher.shtml
+2021-06-01 16:01:01,583          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-reage-a-cpi-faz-mencao-homofobica-contra-senador-e-diz-que-comissao-teme-malafaia.shtml
+2021-06-01 16:01:01,584          root     INFO: Finished script
