@@ -1,33 +1,14 @@
-2021-06-01 11:38:04,443          root     INFO: Starting script
-2021-06-01 11:38:05,426          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-01 11:38:06,236          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-01 11:38:07,054          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-01 11:38:07,342          root     INFO: Parsing R7 - Brasil
-2021-06-01 11:38:10,797          root     INFO: 'Ele não vai me frustrar', diz Marco Aurélio sobre demora de Fux <del>para colocar</del> <ins>em votar</ins> suspeição de <del>Sergio</del> Moro <del>na pauta</del>
-2021-06-01 11:38:12,525          root     INFO: Media ready with ids: 1399691747542904834
-2021-06-01 11:38:12,525          root     INFO: Text to tweet: Modificação do Título
-2021-06-01 11:38:12,526          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/ele-nao-vai-me-frustrar-diz-marco-aurelio-sobre-demora-de-fux-para-colocar-suspeicao-de-sergio-moro-na-pauta.shtml
-2021-06-01 11:38:12,536          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/ele-nao-vai-me-frustrar-diz-marco-aurelio-sobre-demora-de-fux-para-colocar-suspeicao-de-sergio-moro-na-pauta.shtml
-2021-06-01 11:38:12,761          root     INFO: Replying to: 1399691749195497472
-2021-06-01 11:38:12,994          root     INFO: Id to store: 1399691749958860800
-2021-06-01 11:38:13,268          root     INFO: Presidente do Patriota, que pode receber Bolsonaro, destinou R$ 1,1 <del>mi</del> <ins>milhão</ins> de verba pública a parentes
-2021-06-01 11:38:15,084          root     INFO: Media ready with ids: 1399691757869318147
-2021-06-01 11:38:15,084          root     INFO: Text to tweet: Modificação do Título
-2021-06-01 11:38:15,085          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/presidente-do-patriota-que-pode-receber-bolsonaro-destinou-r-11-mi-de-verba-publica-a-parentes.shtml
-2021-06-01 11:38:15,097          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/presidente-do-patriota-que-pode-receber-bolsonaro-destinou-r-11-mi-de-verba-publica-a-parentes.shtml
-2021-06-01 11:38:15,283          root     INFO: Replying to: 1399691759748370432
-2021-06-01 11:38:15,515          root     INFO: Id to store: 1399691760520073218
-2021-06-01 11:38:22,034          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-exalta-vacinacao-mas-admite-riscos-a-investidores-31052021
-2021-06-01 11:38:22,049          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-ve-pouca-gente-em-protestos-e-critica-lula-31052021
-2021-06-01 11:38:22,073          root     INFO: New article tracked: http://noticias.r7.com/brasil/tem-aglomeracao-do-bem-agora-ironiza-mourao-sobre-atos-no-pais-31052021
-2021-06-01 11:38:22,322          root     INFO: Removed http://noticias.r7.com/brasil/crise-hidrica-em-2021-e-um-risco-avalia-secretario-da-fazenda-31052021
-2021-06-01 11:38:22,330          root     INFO: Removed http://noticias.r7.com/brasil/pacheco-questiona-o-executivo-sobre-a-reforma-administrativa-31052021
-2021-06-01 11:38:22,336          root     INFO: Removed http://noticias.r7.com/brasil/stf-acorda-prioridade-para-professores-no-plano-de-vacinacao-31052021
-2021-06-01 11:38:22,347          root     INFO: Removed http://noticias.r7.com/brasil/rosa-weber-sera-relatora-da-acao-dos-governadores-sobre-cpi-31052021
-2021-06-01 11:38:22,355          root     INFO: Removed http://noticias.r7.com/brasil/campanha-nacional-coleta-material-genetico-de-pessoas-desaparecidas-31052021
-2021-06-01 11:38:22,360          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-recebe-pedido-para-convocacao-do-presidente-da-cbf-31052021
-2021-06-01 11:38:22,366          root     INFO: Removed http://noticias.r7.com/brasil/direcao-do-patriota-aponta-irregularidades-ao-atrair-bolsonaros-31052021
-2021-06-01 11:38:22,373          root     INFO: Removed http://noticias.r7.com/brasil/receita-esta-aumentando-mas-ainda-ha-deficit-diz-bruno-funchal-31052021
-2021-06-01 11:38:22,379          root     INFO: Removed http://noticias.r7.com/brasil/para-ser-no-brasil-copa-america-nao-tera-publico-diz-governo-31052021
-2021-06-01 11:38:22,390          root     INFO: Removed http://noticias.r7.com/brasil/comissao-do-psdb-propoe-previas-com-pesos-diferentes-31052021
-2021-06-01 11:38:22,391          root     INFO: Finished script
+2021-06-01 12:30:42,125          root     INFO: Starting script
+2021-06-01 12:30:43,080          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-01 12:30:43,851          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-01 12:30:44,652          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-01 12:30:44,868          root     INFO: Parsing R7 - Brasil
+2021-06-01 12:30:53,550          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-ve-pouca-gente-em-protestos-e-critica-lula-31052021
+2021-06-01 12:30:53,557          root     INFO: Removed http://noticias.r7.com/brasil/sem-publico-nao-ha-problema-diz-mourao-sobre-copa-america-31052021
+2021-06-01 12:30:53,563          root     INFO: Removed http://noticias.r7.com/brasil/tem-aglomeracao-do-bem-agora-ironiza-mourao-sobre-atos-no-pais-31052021
+2021-06-01 12:30:53,572          root     INFO: Removed http://noticias.r7.com/brasil/retirada-do-icms-do-pis-pode-reduzir-arrecadacao-em-r-120-bi-31052021
+2021-06-01 12:30:53,578          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-reafirma-que-toda-a-populacao-sera-vacinada-em-2021-31052021
+2021-06-01 12:30:53,587          root     INFO: Removed http://noticias.r7.com/brasil/os-centavos-dos-milhoes-de-esfomeados-31052021
+2021-06-01 12:30:53,593          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-exalta-vacinacao-mas-admite-riscos-a-investidores-31052021
+2021-06-01 12:30:53,599          root     INFO: Removed http://noticias.r7.com/brasil/senadora-sugere-reunioes-fechadas-da-cpi-sobre-cloroquina-31052021
+2021-06-01 12:30:53,599          root     INFO: Finished script
