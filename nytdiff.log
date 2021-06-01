@@ -1,44 +1,28 @@
-2021-06-01 22:02:56,800          root     INFO: Starting script
-2021-06-01 22:02:57,605          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-01 22:02:58,255          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-01 22:02:58,917          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-01 22:02:59,041          root     INFO: Parsing R7 - Brasil
-2021-06-01 22:02:59,193          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/atila-iamarino/2021/06/financiamos-o-exercito-errado.shtml
-2021-06-01 22:02:59,211          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/06/a-verdadeira-modernidade-e-o-que-nao-envelheceu.shtml
-2021-06-01 22:03:01,796          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/senti-medo-e-angustia-diz-professor-preso-por-adesivo-bolsonaro-genocida.shtml
-2021-06-01 22:03:01,810          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/na-cpi-da-covid-nise-yamaguchi-acerta-sobre-protozoarios-e-virus-e-cita-informacoes-falsas-sobre-lockdown-e-mortalidade.shtml
-2021-06-01 22:03:02,008          root     INFO: O ex-ministro Eduardo Pazuello (Saúde) foi nomeado nesta terça-feira (1) para um cargo na Secretaria de Assuntos Estratégicos, vinculada à <del>presidência</del> <ins>Presidência</ins> da República. <del>Pazuello será secretário de Estudos Estratégicos no órgão, segundo edição extra do Diário Oficial da União.</del> Leia mais (06/01/2021 - 14h41)
-2021-06-01 22:03:03,792          root     INFO: Media ready with ids: 1399848997108465677
-2021-06-01 22:03:03,793          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-01 22:03:03,793          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-nomeia-general-pazuello-para-atuar-em-secretaria-vinculada-a-presidencia.shtml
-2021-06-01 22:03:03,803          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-nomeia-general-pazuello-para-atuar-em-secretaria-vinculada-a-presidencia.shtml
-2021-06-01 22:03:04,004          root     INFO: Replying to: 1399848998865883142
-2021-06-01 22:03:04,218          root     INFO: Id to store: 1399848999541223429
-2021-06-01 22:03:09,060          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-derruba-veto-sobre-auxilio-falta-analise-do-senado-01062021
-2021-06-01 22:03:09,074          root     INFO: New article tracked: http://noticias.r7.com/brasil/relator-aponta-quebra-de-decoro-da-deputada-flordelis-01062021
-2021-06-01 22:03:09,086          root     INFO: New article tracked: http://noticias.r7.com/brasil/wajngarten-diz-que-polemica-da-copa-america-e-por-dinheiro-01062021
-2021-06-01 22:03:09,098          root     INFO: New article tracked: http://noticias.r7.com/brasil/eduardo-pazuello-e-nomeado-como-secretario-da-presidencia-01062021
-2021-06-01 22:03:09,110          root     INFO: New article tracked: http://noticias.r7.com/brasil/a-cpi-abin-nega-elo-com-fala-de-bolsonaro-sobre-guerra-biologica-01062021
-2021-06-01 22:03:09,122          root     INFO: New article tracked: http://noticias.r7.com/brasil/boulos-piorou-na-pandemia-01062021
-2021-06-01 22:03:09,150          root     INFO: New article tracked: http://noticias.r7.com/brasil/todos-os-ministros-sao-favoraveis-a-copa-america-aqui-diz-bolsonaro-01062021
-2021-06-01 22:03:09,162          root     INFO: New article tracked: http://noticias.r7.com/brasil/nise-yamaguchi-nega-tentativa-de-alterar-bula-da-cloroquina-01062021
-2021-06-01 22:03:09,174          root     INFO: New article tracked: http://noticias.r7.com/brasil/nise-diz-que-bolsonaro-a-procurou-para-falar-de-tratamento-precoce-01062021
-2021-06-01 22:03:09,186          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-pede-informacoes-ao-governo-sobre-copa-america-01062021
-2021-06-01 22:03:09,199          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-pede-a-neymar-nao-entre-em-campo-no-brasil-01062021
-2021-06-01 22:03:09,212          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-defende-voucher-para-educacao-e-volta-a-criticar-o-fies-01062021
-2021-06-01 22:03:09,223          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-antecipa-depoimento-de-luana-araujo-para-amanha-01062021
-2021-06-01 22:03:09,236          root     INFO: New article tracked: http://noticias.r7.com/brasil/nao-participo-e-desconheco-gabinete-paralelo-diz-nise-01062021
-2021-06-01 22:03:09,247          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-no-que-depender-do-governo-havera-copa-america-01062021
-2021-06-01 22:03:09,260          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-ouve-medica-que-defendeu-tratamento-precoce-da-covid-veja-01062021
-2021-06-01 22:03:09,272          root     INFO: New article tracked: http://noticias.r7.com/brasil/anjos-da-madrugada-percorrem-ruas-e-pracas-para-ajudar-desabrigados-expostos-ao-frio-01062021
-2021-06-01 22:03:09,283          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-operacao-contra-trafico-internacional-de-armas-em-sp-e-rio-01062021
-2021-06-01 22:03:09,296          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-a-medica-nise-yamaguchi-nesta-terca-feira-01062021
-2021-06-01 22:03:09,337          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/a-inocencia-dos-causidicos.shtml
-2021-06-01 22:03:09,341          root     INFO: Removed http://noticias.r7.com/brasil/senador-flavio-bolsonaro-se-filia-ao-patriota-31052021
-2021-06-01 22:03:09,345          root     INFO: Removed http://noticias.r7.com/brasil/juiz-determina-envio-de-forcas-apos-ataques-de-garimpeiros-no-para-31052021
-2021-06-01 22:03:09,350          root     INFO: Removed http://noticias.r7.com/brasil/brasileiro-pode-estar-pagando-r-87-bi-por-energia-de-termicas-31052021
-2021-06-01 22:03:09,354          root     INFO: Removed http://noticias.r7.com/brasil/relator-da-cpi-critica-copa-america-no-brasil-campeonato-da-morte-31052021
-2021-06-01 22:03:09,359          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2021/05/por-que-salles-o-presidente-do-ibama-e-madeireiras-estao-na-mira-da-pf-ouca-podcast.shtml
-2021-06-01 22:03:09,364          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/05/cambalhotas-na-lingua.shtml
-2021-06-01 22:03:09,369          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4480
-2021-06-01 22:03:09,369          root     INFO: Finished script
+2021-06-01 23:04:47,621          root     INFO: Starting script
+2021-06-01 23:04:48,451          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-01 23:04:49,131          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-01 23:04:49,809          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-01 23:04:49,966          root     INFO: Parsing R7 - Brasil
+2021-06-01 23:04:52,983          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/em-cpi-masculina-interrupcoes-constantes-em-depoimento-de-medica-viram-alvo-de-queixa.shtml
+2021-06-01 23:04:53,170          root     INFO: Relator dá parecer favorável à cassação do mandato da deputada <del>Flordelis</del> <ins>Flordelis, acusada por morte do marido</ins>
+2021-06-01 23:04:54,833          root     INFO: Media ready with ids: 1399864562694995970
+2021-06-01 23:04:54,834          root     INFO: Text to tweet: Modificação do Título
+2021-06-01 23:04:54,834          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-da-parecer-favoravel-a-cassacao-do-mandato-da-deputada-flordelis.shtml
+2021-06-01 23:04:54,844          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-da-parecer-favoravel-a-cassacao-do-mandato-da-deputada-flordelis.shtml
+2021-06-01 23:04:55,049          root     INFO: Replying to: 1399864564116766720
+2021-06-01 23:04:55,336          root     INFO: Id to store: 1399864564917940238
+2021-06-01 23:04:55,345          root     INFO: O deputado Alexandre Leite (DEM-SP) apresentou nesta terça-feira <del>(1)</del> <ins>(1°)</ins> ao Conselho de Ética da Câmara voto favorável à cassação do mandato da deputada federal Flordelis (PSD-RJ), denunciada pelo Ministério Público do Rio de Janeiro sob a acusação de ser a mandante do assassinato do <del>ex-marido,</del> <ins>marido,</ins> Anderson do Carmo. Leia mais (06/01/2021 - 16h52)
+2021-06-01 23:04:57,163          root     INFO: Media ready with ids: 1399864572052389893
+2021-06-01 23:04:57,164          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-01 23:04:57,164          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-da-parecer-favoravel-a-cassacao-do-mandato-da-deputada-flordelis.shtml
+2021-06-01 23:04:57,175          root     INFO: Replying to: 1399864564917940238
+2021-06-01 23:04:57,396          root     INFO: Id to store: 1399864573709242371
+2021-06-01 23:04:59,472          root     INFO: A manifestação contra o presidente Jair Bolsonaro foi encerrada com bombas de gás <del>lacrimogênio,</del> <ins>lacrimogêneo,</ins> tiros de balas de borracha e correria nas ruas do centro do Recife neste sábado (29). Leia mais (05/29/2021 - 14h33)
+2021-06-01 23:05:01,158          root     INFO: Media ready with ids: 1399864589169405955
+2021-06-01 23:05:01,159          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-01 23:05:01,160          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/manifestacao-contra-bolsonaro-no-recife-e-encerrada-com-bombas-e-correria-veja-video.shtml
+2021-06-01 23:05:01,170          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/manifestacao-contra-bolsonaro-no-recife-e-encerrada-com-bombas-e-correria-veja-video.shtml
+2021-06-01 23:05:01,368          root     INFO: Replying to: 1399864590587072512
+2021-06-01 23:05:01,671          root     INFO: Id to store: 1399864591446855680
+2021-06-01 23:05:05,681          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liberdade-de-expressao-e-imprensa-enfrentam-cenario-de-violacoes-sistematicas-dizem-especialistas.shtml
+2021-06-01 23:05:05,682          root     INFO: Finished script
