@@ -1,40 +1,20 @@
-2021-06-01 06:19:39,329          root     INFO: Starting script
-2021-06-01 06:19:40,295          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-01 06:19:41,085          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-01 06:19:41,913          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-01 06:19:42,151          root     INFO: Parsing R7 - Brasil
-2021-06-01 06:19:50,838          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-pede-abertura-de-inquerito-contra-ministro-ricardo-salles-31052021
-2021-06-01 06:19:50,855          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacina-de-oxford-fiocruz-assina-amanha-contrato-para-produzir-ifa-31052021
-2021-06-01 06:19:50,869          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-vacinacao-caem-casos-graves-de-covid-entre-indigenas-do-xingu-31052021
-2021-06-01 06:19:50,881          root     INFO: New article tracked: http://noticias.r7.com/brasil/alexandre-de-moraes-prorroga-investigacao-contra-daniel-silveira-31052021
-2021-06-01 06:19:50,894          root     INFO: New article tracked: http://noticias.r7.com/brasil/rodrigo-maia-volta-a-criticar-acm-neto-tem-todos-os-defeitos-do-avo-31052021
-2021-06-01 06:19:50,908          root     INFO: New article tracked: http://noticias.r7.com/brasil/copa-america-quatro-capitais-estao-na-mira-para-sediar-jogos-no-brasil-31052021
-2021-06-01 06:19:50,923          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-ser-no-brasil-copa-america-nao-tera-publico-diz-governo-31052021
-2021-06-01 06:19:50,937          root     INFO: New article tracked: http://noticias.r7.com/brasil/campanha-nacional-coleta-material-genetico-de-pessoas-desaparecidas-31052021
-2021-06-01 06:19:50,951          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-acorda-prioridade-para-professores-no-plano-de-vacinacao-31052021
-2021-06-01 06:19:50,965          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-do-psdb-propoe-previas-com-pesos-diferentes-31052021
-2021-06-01 06:19:50,981          root     INFO: New article tracked: http://noticias.r7.com/brasil/receita-esta-aumentando-mas-ainda-ha-deficit-diz-bruno-funchal-31052021
-2021-06-01 06:19:50,997          root     INFO: New article tracked: http://noticias.r7.com/brasil/rosa-weber-sera-relatora-da-acao-dos-governadores-sobre-cpi-31052021
-2021-06-01 06:19:51,011          root     INFO: New article tracked: http://noticias.r7.com/brasil/direcao-do-patriota-aponta-irregularidades-ao-atrair-bolsonaros-31052021
-2021-06-01 06:19:51,025          root     INFO: New article tracked: http://noticias.r7.com/brasil/pacheco-questiona-o-executivo-sobre-a-reforma-administrativa-31052021
-2021-06-01 06:19:51,038          root     INFO: New article tracked: http://noticias.r7.com/brasil/crise-hidrica-em-2021-e-um-risco-avalia-secretario-da-fazenda-31052021
-2021-06-01 06:19:51,051          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-recebe-pedido-para-convocacao-do-presidente-da-cbf-31052021
-2021-06-01 06:19:51,065          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiz-determina-envio-de-forcas-apos-ataques-de-garimpeiros-no-para-31052021
-2021-06-01 06:19:51,085          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasileiro-pode-estar-pagando-r-87-bi-por-energia-de-termicas-31052021
-2021-06-01 06:19:51,100          root     INFO: New article tracked: http://noticias.r7.com/brasil/relator-da-cpi-critica-copa-america-no-brasil-campeonato-da-morte-31052021
-2021-06-01 06:19:51,115          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-flavio-bolsonaro-se-filia-ao-patriota-31052021
-2021-06-01 06:19:51,133          root     INFO: Removed http://noticias.r7.com/brasil/conflitos-marcam-relacao-de-governadores-e-vices-em-11-estados-29052021
-2021-06-01 06:19:51,138          root     INFO: Removed http://noticias.r7.com/brasil/brasil-perdeu-17-combatentes-da-segunda-guerra-mundial-em-2021-30052021
-2021-06-01 06:19:51,143          root     INFO: Removed http://noticias.r7.com/brasil/setor-de-servicos-concentra-acordos-em-programa-que-reduz-salarios-30052021
-2021-06-01 06:19:51,149          root     INFO: Removed http://noticias.r7.com/brasil/governo-desbloqueia-r-45-bi-do-orcamento-para-ministerios-29052021
-2021-06-01 06:19:51,155          root     INFO: Removed http://noticias.r7.com/brasil/preocupados-com-convocacoes-governadores-enviam-carta-a-aziz-30052021
-2021-06-01 06:19:51,160          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-lamenta-morte-de-ex-pracinha-que-fundou-a-itapemirim-30052021
-2021-06-01 06:19:51,165          root     INFO: Removed http://noticias.r7.com/brasil/governo-muda-restricoes-para-tripulantes-estrangeiros-de-navios-30052021
-2021-06-01 06:19:51,171          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-promete-enviar-oxigenio-para-estados-do-norte-e-nordeste-30052021
-2021-06-01 06:19:51,177          root     INFO: Removed http://noticias.r7.com/brasil/brasilia-rio-e-recife-registram-protestos-contra-o-governo-federal-30052021
-2021-06-01 06:19:51,183          root     INFO: Removed http://noticias.r7.com/brasil/falta-de-chuva-usinas-vao-reduzir-vazao-de-agua-para-evitar-caos-29052021
-2021-06-01 06:19:51,189          root     INFO: Removed http://noticias.r7.com/brasil/atos-contra-o-governo-federal-e-por-vacinas-sao-registrados-pelo-pais-30052021
-2021-06-01 06:19:51,195          root     INFO: Removed http://noticias.r7.com/brasil/oposicao-e-responsavel-por-75-dos-pedidos-aprovados-na-cpi-30052021
-2021-06-01 06:19:51,199          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-visita-fabricante-de-oxigenio-em-pernambuco-30052021
-2021-06-01 06:19:51,205          root     INFO: Removed http://noticias.r7.com/brasil/defesa-civil-diz-que-tempestade-em-santa-catarina-formou-tornado-30052021
-2021-06-01 06:19:51,205          root     INFO: Finished script
+2021-06-01 08:14:22,846          root     INFO: Starting script
+2021-06-01 08:14:23,659          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-01 08:14:24,314          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-01 08:14:24,976          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-01 08:14:25,077          root     INFO: Parsing R7 - Brasil
+2021-06-01 08:14:27,706          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2021/06/os-impactos-das-manifestacoes-contra-bolsonaro-ouca-podcast.shtml
+2021-06-01 08:14:32,952          root     INFO: New article tracked: http://noticias.r7.com/brasil/retirada-do-icms-do-pis-pode-reduzir-arrecadacao-em-r-120-bi-31052021
+2021-06-01 08:14:32,963          root     INFO: New article tracked: http://noticias.r7.com/brasil/sem-publico-nao-ha-problema-diz-mourao-sobre-copa-america-31052021
+2021-06-01 08:14:32,972          root     INFO: New article tracked: http://noticias.r7.com/brasil/senadora-sugere-reunioes-fechadas-da-cpi-sobre-cloroquina-31052021
+2021-06-01 08:14:32,982          root     INFO: New article tracked: http://noticias.r7.com/brasil/os-centavos-dos-milhoes-de-esfomeados-31052021
+2021-06-01 08:14:32,992          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-reafirma-que-toda-a-populacao-sera-vacinada-em-2021-31052021
+2021-06-01 08:14:33,002          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-estuda-antecipar-novo-depoimento-de-marcelo-queiroga-31052021
+2021-06-01 08:14:33,014          root     INFO: Removed http://noticias.r7.com/brasil/copa-america-quatro-capitais-estao-na-mira-para-sediar-jogos-no-brasil-31052021
+2021-06-01 08:14:33,018          root     INFO: Removed http://noticias.r7.com/brasil/rodrigo-maia-volta-a-criticar-acm-neto-tem-todos-os-defeitos-do-avo-31052021
+2021-06-01 08:14:33,022          root     INFO: Removed http://noticias.r7.com/brasil/com-vacinacao-caem-casos-graves-de-covid-entre-indigenas-do-xingu-31052021
+2021-06-01 08:14:33,025          root     INFO: Removed http://noticias.r7.com/brasil/vacina-de-oxford-fiocruz-assina-amanha-contrato-para-produzir-ifa-31052021
+2021-06-01 08:14:33,029          root     INFO: Removed http://noticias.r7.com/brasil/pgr-pede-abertura-de-inquerito-contra-ministro-ricardo-salles-31052021
+2021-06-01 08:14:33,034          root     INFO: Removed http://noticias.r7.com/brasil/alexandre-de-moraes-prorroga-investigacao-contra-daniel-silveira-31052021
+2021-06-01 08:14:33,037          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/presidente-do-pdt-de-ciro-defende-gasto-com-voto-auditavel-e-diz-que-legitimidade-nao-tem-preco.shtml
+2021-06-01 08:14:33,038          root     INFO: Finished script
