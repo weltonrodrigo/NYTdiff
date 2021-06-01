@@ -1,23 +1,33 @@
-2021-06-01 10:37:55,430          root     INFO: Starting script
-2021-06-01 10:37:56,595          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-01 10:37:57,261          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-01 10:37:57,920          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-01 10:37:58,257          root     INFO: Parsing R7 - Brasil
-2021-06-01 10:37:58,403          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pedro-hallal/2021/06/ciencia-10-x-0-negacionismo.shtml
-2021-06-01 10:37:58,416          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-gualano/2021/06/exercicio-e-tratamento-mas-nao-deve-ser-cloroquinizado.shtml
-2021-06-01 10:38:01,207          root     INFO: CPI <ins>da Covid</ins> quer esclarecer reuniões de médica com Bolsonaro e decreto para mudar bula da cloroquina
-2021-06-01 10:38:02,911          root     INFO: Media ready with ids: 1399676607795712003
-2021-06-01 10:38:02,912          root     INFO: Text to tweet: Modificação do Título
-2021-06-01 10:38:02,912          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-quer-esclarecer-reunioes-de-medica-com-bolsonaro-e-decreto-para-mudar-bula-da-cloroquina.shtml
-2021-06-01 10:38:02,920          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-quer-esclarecer-reunioes-de-medica-com-bolsonaro-e-decreto-para-mudar-bula-da-cloroquina.shtml
-2021-06-01 10:38:03,111          root     INFO: Replying to: 1399676609226018819
-2021-06-01 10:38:03,347          root     INFO: Id to store: 1399676610014584832
-2021-06-01 10:38:03,353          root     INFO: A cúpula da CPI da Covid <ins>do Senado</ins> quer que a médica Nise Yamaguchi diga à comissão como conheceu Jair Bolsonaro, dê detalhes das reuniões com o presidente e explique o episódio de tentativa de mudança na bula da hidroxicloroquina. Leia mais (05/31/2021 - 23h15)
-2021-06-01 10:38:05,028          root     INFO: Media ready with ids: 1399676616612143105
-2021-06-01 10:38:05,028          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-01 10:38:05,028          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-quer-esclarecer-reunioes-de-medica-com-bolsonaro-e-decreto-para-mudar-bula-da-cloroquina.shtml
-2021-06-01 10:38:05,039          root     INFO: Replying to: 1399676610014584832
-2021-06-01 10:38:05,273          root     INFO: Id to store: 1399676618080194563
-2021-06-01 10:38:10,765          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/05/economia-brasileira-recebe-uma-dose-de-vacina-de-otimismo.shtml
-2021-06-01 10:38:10,769          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/julioabramczyk/2021/05/o-importante-e-obrigatorio-teste.shtml
-2021-06-01 10:38:10,770          root     INFO: Finished script
+2021-06-01 11:38:04,443          root     INFO: Starting script
+2021-06-01 11:38:05,426          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-01 11:38:06,236          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-01 11:38:07,054          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-01 11:38:07,342          root     INFO: Parsing R7 - Brasil
+2021-06-01 11:38:10,797          root     INFO: 'Ele não vai me frustrar', diz Marco Aurélio sobre demora de Fux <del>para colocar</del> <ins>em votar</ins> suspeição de <del>Sergio</del> Moro <del>na pauta</del>
+2021-06-01 11:38:12,525          root     INFO: Media ready with ids: 1399691747542904834
+2021-06-01 11:38:12,525          root     INFO: Text to tweet: Modificação do Título
+2021-06-01 11:38:12,526          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/ele-nao-vai-me-frustrar-diz-marco-aurelio-sobre-demora-de-fux-para-colocar-suspeicao-de-sergio-moro-na-pauta.shtml
+2021-06-01 11:38:12,536          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/ele-nao-vai-me-frustrar-diz-marco-aurelio-sobre-demora-de-fux-para-colocar-suspeicao-de-sergio-moro-na-pauta.shtml
+2021-06-01 11:38:12,761          root     INFO: Replying to: 1399691749195497472
+2021-06-01 11:38:12,994          root     INFO: Id to store: 1399691749958860800
+2021-06-01 11:38:13,268          root     INFO: Presidente do Patriota, que pode receber Bolsonaro, destinou R$ 1,1 <del>mi</del> <ins>milhão</ins> de verba pública a parentes
+2021-06-01 11:38:15,084          root     INFO: Media ready with ids: 1399691757869318147
+2021-06-01 11:38:15,084          root     INFO: Text to tweet: Modificação do Título
+2021-06-01 11:38:15,085          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/presidente-do-patriota-que-pode-receber-bolsonaro-destinou-r-11-mi-de-verba-publica-a-parentes.shtml
+2021-06-01 11:38:15,097          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/presidente-do-patriota-que-pode-receber-bolsonaro-destinou-r-11-mi-de-verba-publica-a-parentes.shtml
+2021-06-01 11:38:15,283          root     INFO: Replying to: 1399691759748370432
+2021-06-01 11:38:15,515          root     INFO: Id to store: 1399691760520073218
+2021-06-01 11:38:22,034          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-exalta-vacinacao-mas-admite-riscos-a-investidores-31052021
+2021-06-01 11:38:22,049          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-ve-pouca-gente-em-protestos-e-critica-lula-31052021
+2021-06-01 11:38:22,073          root     INFO: New article tracked: http://noticias.r7.com/brasil/tem-aglomeracao-do-bem-agora-ironiza-mourao-sobre-atos-no-pais-31052021
+2021-06-01 11:38:22,322          root     INFO: Removed http://noticias.r7.com/brasil/crise-hidrica-em-2021-e-um-risco-avalia-secretario-da-fazenda-31052021
+2021-06-01 11:38:22,330          root     INFO: Removed http://noticias.r7.com/brasil/pacheco-questiona-o-executivo-sobre-a-reforma-administrativa-31052021
+2021-06-01 11:38:22,336          root     INFO: Removed http://noticias.r7.com/brasil/stf-acorda-prioridade-para-professores-no-plano-de-vacinacao-31052021
+2021-06-01 11:38:22,347          root     INFO: Removed http://noticias.r7.com/brasil/rosa-weber-sera-relatora-da-acao-dos-governadores-sobre-cpi-31052021
+2021-06-01 11:38:22,355          root     INFO: Removed http://noticias.r7.com/brasil/campanha-nacional-coleta-material-genetico-de-pessoas-desaparecidas-31052021
+2021-06-01 11:38:22,360          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-recebe-pedido-para-convocacao-do-presidente-da-cbf-31052021
+2021-06-01 11:38:22,366          root     INFO: Removed http://noticias.r7.com/brasil/direcao-do-patriota-aponta-irregularidades-ao-atrair-bolsonaros-31052021
+2021-06-01 11:38:22,373          root     INFO: Removed http://noticias.r7.com/brasil/receita-esta-aumentando-mas-ainda-ha-deficit-diz-bruno-funchal-31052021
+2021-06-01 11:38:22,379          root     INFO: Removed http://noticias.r7.com/brasil/para-ser-no-brasil-copa-america-nao-tera-publico-diz-governo-31052021
+2021-06-01 11:38:22,390          root     INFO: Removed http://noticias.r7.com/brasil/comissao-do-psdb-propoe-previas-com-pesos-diferentes-31052021
+2021-06-01 11:38:22,391          root     INFO: Finished script
