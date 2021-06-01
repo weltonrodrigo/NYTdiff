@@ -1,24 +1,36 @@
-2021-06-01 18:24:50,819          root     INFO: Starting script
-2021-06-01 18:24:51,901          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-01 18:24:52,700          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-01 18:24:53,506          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-01 18:24:53,761          root     INFO: Parsing R7 - Brasil
-2021-06-01 18:24:53,922          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/06/nem-tudo-que-cheira-a-teoria-da-conspiracao-e-tao-absurdo-quanto-parece.shtml
-2021-06-01 18:24:53,940          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/06/peso-do-agronegocio-no-pib-sobe-de-5-para-quase-7.shtml
-2021-06-01 18:24:53,955          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/pib-foi-muito-bem-mas-povo-miudo-ainda-vai-mal.shtml
-2021-06-01 18:24:56,693          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/copa-america-no-brasil-e-inoportuna-e-desaconselhavel-diz-conselho-de-secretarios-de-saude.shtml
-2021-06-01 18:24:56,708          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-nomeia-general-pazuello-para-atuar-em-secretaria-vinculada-a-presidencia.shtml
-2021-06-01 18:24:56,739          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/medica-contradiz-anvisa-e-mandetta-na-cpi-da-covid-e-relata-reunioes-da-gestao-bolsonaro-por-tratamento-precoce.shtml
-2021-06-01 18:24:56,754          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/esporte/2021/06/cbf-aproveita-foco-em-bolsonaro-para-adotar-postura-de-coadjuvante-sobre-copa-america.shtml
-2021-06-01 18:24:56,768          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/comportamento-de-pms-gera-alarme-sobre-tatica-de-bolsonaro-para-2022.shtml
-2021-06-01 18:24:59,447          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/dias-apos-ataque-de-bolsonaro-base-do-icmbio-e-assaltada-em-roraima.shtml
-2021-06-01 18:25:02,695          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/nome-de-jorge-oliveira-ressurge-como-plano-b-de-bolsonaro-ao-stf.shtml
-2021-06-01 18:25:02,700          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/05/nervosismo-do-capital-que-vem-de-fora-agita-mercado-agricola.shtml
-2021-06-01 18:25:02,706          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/documentos-do-planalto-entregues-a-cpi-mostram-24-reunioes-com-atuacao-de-ministerio-paralelo-na-gestao-da-pandemia.shtml
-2021-06-01 18:25:02,710          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/anatomia-da-injustica.shtml
-2021-06-01 18:25:02,716          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/indecisao-sobre-destino-de-bolsonaro-movimenta-patriota-ptb-e-psl-que-ve-pp-como-favorito.shtml
-2021-06-01 18:25:02,721          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/anulacao-de-delacao-de-cabral-pelo-stf-amplia-desgaste-de-fachin-na-corte-e-na-policia-federal.shtml
-2021-06-01 18:25:02,726          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2021/05/destruir-a-ciencia-e-essencial-para-que-o-bolsonarismo-capture-o-estado.shtml
-2021-06-01 18:25:02,731          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/bolsonaro-oferece-poder-e-antipetismo-para-renovar-alianca-com-militares.shtml
-2021-06-01 18:25:02,736          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/04/ue-fecha-acordo-para-reduzir-emissoes-de-gases-do-efeito-estufa-em-55-ate-2030.shtml
-2021-06-01 18:25:02,737          root     INFO: Finished script
+2021-06-01 20:52:08,628          root     INFO: Starting script
+2021-06-01 20:52:09,533          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-01 20:52:10,215          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-01 20:52:10,912          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-01 20:52:11,034          root     INFO: Parsing R7 - Brasil
+2021-06-01 20:52:11,192          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/06/no-ato-anti-bolsonaro-senti-que-ja-nao-estavamos-esperando-nada.shtml
+2021-06-01 20:52:11,208          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/06/a-modestia-radical-do-orcamento-de-biden.shtml
+2021-06-01 20:52:14,149          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/juiz-fala-que-bolsonarista-tenta-censura-previa-com-pedido-para-barrar-festival-sobre-o-tema-em-sp.shtml
+2021-06-01 20:52:14,163          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/nao-e-caminhada-de-um-grupo-que-vai-fazer-andar-impeachment-de-bolsonaro-afirma-lira.shtml
+2021-06-01 20:52:14,176          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/d-dimeros-do-senador-anulam-seriedade-de-whatsapp-emprestada-a-cloroquina.shtml
+2021-06-01 20:52:14,190          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-da-parecer-favoravel-a-cassacao-do-mandato-da-deputada-flordelis.shtml
+2021-06-01 20:52:14,203          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cupula-da-seguranca-de-pe-recebeu-alerta-sobre-excessos-policiais-dois-dias-antes-de-protesto-contra-bolsonaro.shtml
+2021-06-01 20:52:14,303          root     INFO: A médica Nise Yamaguchi contrariou versões dadas por autoridades que prestaram depoimentos anteriormente à CPI da <del>Covid,</del> <ins>Covid</ins> ao negar nesta terça-feira (1º) que integra um <del>"gabinete paralelo"</del> <ins>gabinete paralelo</ins> e ao afirmar que não partiu dela iniciativa para alterar a bula da hidroxicloroquina por decreto presidencial. Leia mais (06/01/2021 - 14h23)
+2021-06-01 20:52:16,216          root     INFO: Media ready with ids: 1399831181395365892
+2021-06-01 20:52:16,216          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-01 20:52:16,216          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/medica-contradiz-anvisa-e-mandetta-na-cpi-da-covid-e-relata-reunioes-da-gestao-bolsonaro-por-tratamento-precoce.shtml
+2021-06-01 20:52:16,226          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/medica-contradiz-anvisa-e-mandetta-na-cpi-da-covid-e-relata-reunioes-da-gestao-bolsonaro-por-tratamento-precoce.shtml
+2021-06-01 20:52:16,437          root     INFO: Replying to: 1399831183207325698
+2021-06-01 20:52:16,677          root     INFO: Id to store: 1399831183966547968
+2021-06-01 20:52:16,819          root     INFO: O Fórum de Governadores se reúne na tarde desta terça-feira <del>(1)</del> <ins>(1º)</ins> para debater medidas preventivas contra a possível nova onda causada pelo aumento do número de casos de Covid-19. Leia mais (06/01/2021 - 12h41)
+2021-06-01 20:52:18,715          root     INFO: Media ready with ids: 1399831191189139470
+2021-06-01 20:52:18,716          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-01 20:52:18,716          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/governadores-convocam-reuniao-para-debater-medidas-contra-3a-onda-de-covid-19-e-aceleracao-da-vacinacao.shtml
+2021-06-01 20:52:18,726          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/governadores-convocam-reuniao-para-debater-medidas-contra-3a-onda-de-covid-19-e-aceleracao-da-vacinacao.shtml
+2021-06-01 20:52:18,943          root     INFO: Replying to: 1399831193663774722
+2021-06-01 20:52:19,181          root     INFO: Id to store: 1399831194582323200
+2021-06-01 20:52:21,828          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/impulsionado-pelas-mudancas-climaticas-rio-negro-registra-cheia-historica-em-manaus.shtml
+2021-06-01 20:52:25,321          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/barroso-se-reune-com-especialistas-para-discutir-protecao-a-ataques-hackers-e-reafirma-seguranca-de-urna.shtml
+2021-06-01 20:52:25,326          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/14-vezes-em-que-acoes-do-governo-bolsonaro-tiveram-impacto-negativo-no-ambiente.shtml
+2021-06-01 20:52:25,331          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/05/a-cpi-e-o-tribunal-de-nuremberg-quem-banaliza-o-que.shtml
+2021-06-01 20:52:25,336          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/ciro-tem-que-criticar-bolsonaro-e-parar-de-atacar-lula-diz-deputado-tulio-gadelha-do-pdt.shtml
+2021-06-01 20:52:25,342          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/silvio-almeida/2021/05/destruir-a-ciencia-e-essencial-para-que-o-bolsonarismo-capture-o-estado.shtml
+2021-06-01 20:52:25,347          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2021/05/fronteiras-nacionais-e-problemas-globais.shtml
+2021-06-01 20:52:25,353          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/comite-lula-livre-continuara-ativo-mesmo-apos-ex-presidente-sair-da-prisao-e-recuperar-direitos-politicos.shtml
+2021-06-01 20:52:25,358          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/05/a-cpi-e-o-tribunal-de-nuremberg-quem-banaliza-o-que.shtml
+2021-06-01 20:52:25,359          root     INFO: Finished script
