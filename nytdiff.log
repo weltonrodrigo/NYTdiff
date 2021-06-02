@@ -1,25 +1,35 @@
-2021-06-02 19:57:27,900          root     INFO: Starting script
-2021-06-02 19:57:28,729          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-02 19:57:29,406          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-02 19:57:30,077          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-02 19:57:30,411          root     INFO: Parsing R7 - Brasil
-2021-06-02 19:57:30,564          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2021/06/voce-pode-transmitir-o-novo-coronavirus-antes-de-saber-que-esta-infectado.shtml
-2021-06-02 19:57:33,496          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/deputado-do-pt-pedira-investigacao-de-ligacao-de-pms-com-rede-bolsonarista.shtml
-2021-06-02 19:57:33,513          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/medica-defende-ciencia-e-diz-a-cpi-desconhecer-por-que-foi-barrada-na-saude-renan-ve-falta-de-autonomia-em-ministerio.shtml
-2021-06-02 19:57:33,734          root     INFO: Em operação contra desvios de recursos para o combate à Covid-19, a Polícia Federal <del>cumpre</del> <ins>realizou</ins> 25 mandados judiciais <del>na manhã desta</del> <ins>nesta</ins> quarta-feira (2) em Manaus e em Porto Alegre, incluindo busca e apreensão na casa do governador do Amazonas, Wilson Lima (PSC), e <del>a</del> <ins>tentativa de</ins> prisão temporária do Secretário Estadual de Saúde, Marcellus <del>Campêlo.</del> <ins>Campêlo -esse ainda não localizado.</ins> Leia mais (06/02/2021 - 09h11)
-2021-06-02 19:57:35,557          root     INFO: Media ready with ids: 1400179809397923840
-2021-06-02 19:57:35,558          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-02 19:57:35,558          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-faz-buscas-em-casa-do-governador-do-amazonas-e-cumpre-ordem-de-prisao-de-secretario-de-saude.shtml
-2021-06-02 19:57:35,568          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-faz-buscas-em-casa-do-governador-do-amazonas-e-cumpre-ordem-de-prisao-de-secretario-de-saude.shtml
-2021-06-02 19:57:35,740          root     INFO: Replying to: 1400179810899464199
-2021-06-02 19:57:36,029          root     INFO: Id to store: 1400179811700645889
-2021-06-02 19:57:41,579          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-renan-fala-de-luana-prova-falta-de-autonomia-de-queiroga-02062021
-2021-06-02 19:57:41,593          root     INFO: New article tracked: http://noticias.r7.com/brasil/dono-de-hospital-no-am-justifica-tiros-na-pf-pensei-que-era-assalto-02062021
-2021-06-02 19:57:41,605          root     INFO: New article tracked: http://noticias.r7.com/brasil/luana-diz-que-cloroquina-aumenta-em-77-risco-de-morte-por-covid-02062021
-2021-06-02 19:57:41,621          root     INFO: New article tracked: http://noticias.r7.com/brasil/defesa-gastou-mais-de-r-1-milhao-para-produzir-cloroquina-em-2020-02062021
-2021-06-02 19:57:41,635          root     INFO: New article tracked: http://noticias.r7.com/brasil/me-doi-diz-medica-apos-ver-na-cpi-video-com-frases-de-bolsonaro-02062021
-2021-06-02 19:57:42,073          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/defesa-de-sergio-cabral-alega-que-stf-nao-formou-maioria-para-anular-delacao-de-ex-governador.shtml
-2021-06-02 19:57:42,080          root     INFO: Removed http://noticias.r7.com/brasil/medica-que-queiroga-desistiu-de-nomear-depoe-hoje-a-cpi-da-covid-02062021
-2021-06-02 19:57:42,086          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/empresas-devem-ter-o-direito-de-demitir-em-massa-sem-negociacao-coletiva-sim.shtml
-2021-06-02 19:57:42,091          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
-2021-06-02 19:57:42,092          root     INFO: Finished script
+2021-06-02 21:32:32,187          root     INFO: Starting script
+2021-06-02 21:32:32,994          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-02 21:32:33,649          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-02 21:32:34,305          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-02 21:32:34,640          root     INFO: Parsing R7 - Brasil
+2021-06-02 21:32:34,791          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/06/o-que-os-alemaes-tem-que-outros-nao-tem.shtml
+2021-06-02 21:32:34,805          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/cpi-precisa-evitar-show-de-falso-equilibrio-dos-bolsonaristas.shtml
+2021-06-02 21:32:34,820          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/06/minha-psiquiatra-falou-em-depressao-mas-eu-prefiro-chamar-de-melancovid.shtml
+2021-06-02 21:32:34,834          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/veny-santos/2021/06/the-miseducation-of-lauryn-hill-me-despertou-para-a-minha-propria-deseducacao.shtml
+2021-06-02 21:32:37,236          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/cpi-precisa-evitar-show-de-falso-equilibrio-dos-bolsonaristas.shtml
+2021-06-02 21:32:37,248          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-convoca-rede-nacional-para-pronunciamento-as-20h30-desta-quarta-feira.shtml
+2021-06-02 21:32:37,486          root     INFO: PF faz buscas em casa do governador do Amazonas e <del>cumpre ordem de prisão de</del> <ins>prende</ins> secretário de Saúde
+2021-06-02 21:32:39,159          root     INFO: Media ready with ids: 1400203732197990402
+2021-06-02 21:32:39,159          root     INFO: Text to tweet: Modificação do Título
+2021-06-02 21:32:39,159          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-faz-buscas-em-casa-do-governador-do-amazonas-e-cumpre-ordem-de-prisao-de-secretario-de-saude.shtml
+2021-06-02 21:32:39,168          root     INFO: Replying to: 1400179811700645889
+2021-06-02 21:32:39,407          root     INFO: Id to store: 1400203733573816322
+2021-06-02 21:32:39,415          root     INFO: Em operação contra desvios de recursos para o combate à Covid-19, a Polícia Federal <del>cumpre</del> <ins>realizou</ins> 25 mandados judiciais <del>na manhã desta</del> <ins>nesta</ins> quarta-feira (2) em Manaus e em Porto Alegre, incluindo busca e apreensão na casa do governador do Amazonas, Wilson Lima (PSC), e a prisão temporária do <del>Secretário Estadual</del> <ins>secretário</ins> de <del>Saúde,</del> <ins>Saúde do estado,</ins> Marcellus Campêlo. Leia mais (06/02/2021 - 09h11)
+2021-06-02 21:32:41,223          root     INFO: Media ready with ids: 1400203740112691204
+2021-06-02 21:32:41,223          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-02 21:32:41,223          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-faz-buscas-em-casa-do-governador-do-amazonas-e-cumpre-ordem-de-prisao-de-secretario-de-saude.shtml
+2021-06-02 21:32:41,233          root     INFO: Replying to: 1400203733573816322
+2021-06-02 21:32:41,478          root     INFO: Id to store: 1400203742268567558
+2021-06-02 21:32:46,581          root     INFO: Removed http://noticias.r7.com/brasil/defesa-gastou-mais-de-r-1-milhao-para-produzir-cloroquina-em-2020-02062021
+2021-06-02 21:32:46,585          root     INFO: Removed http://noticias.r7.com/brasil/me-doi-diz-medica-apos-ver-na-cpi-video-com-frases-de-bolsonaro-02062021
+2021-06-02 21:32:46,590          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2021/05/hamas-faz-guerra-contra-acordos-de-paz-de-israel-com-paises-arabes.shtml
+2021-06-02 21:32:46,594          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/05/renan-calheiros-ensaia-passo-desastroso-ao-tentar-quantificar-mortes-evitaveis-por-covid.shtml
+2021-06-02 21:32:46,598          root     INFO: Removed http://noticias.r7.com/brasil/luana-diz-que-cloroquina-aumenta-em-77-risco-de-morte-por-covid-02062021
+2021-06-02 21:32:46,603          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/era-campanha.shtml
+2021-06-02 21:32:46,608          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/delator-sem-premio.shtml
+2021-06-02 21:32:46,612          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49661
+2021-06-02 21:32:46,616          root     INFO: Removed http://noticias.r7.com/brasil/para-renan-fala-de-luana-prova-falta-de-autonomia-de-queiroga-02062021
+2021-06-02 21:32:46,620          root     INFO: Removed http://noticias.r7.com/brasil/dono-de-hospital-no-am-justifica-tiros-na-pf-pensei-que-era-assalto-02062021
+2021-06-02 21:32:46,624          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/manifestacao-contra-bolsonaro-no-recife-e-encerrada-com-bombas-e-correria-veja-video.shtml
+2021-06-02 21:32:46,625          root     INFO: Finished script
