@@ -1,35 +1,32 @@
-2021-06-02 21:32:32,187          root     INFO: Starting script
-2021-06-02 21:32:32,994          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-02 21:32:33,649          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-02 21:32:34,305          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-02 21:32:34,640          root     INFO: Parsing R7 - Brasil
-2021-06-02 21:32:34,791          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/06/o-que-os-alemaes-tem-que-outros-nao-tem.shtml
-2021-06-02 21:32:34,805          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/cpi-precisa-evitar-show-de-falso-equilibrio-dos-bolsonaristas.shtml
-2021-06-02 21:32:34,820          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/06/minha-psiquiatra-falou-em-depressao-mas-eu-prefiro-chamar-de-melancovid.shtml
-2021-06-02 21:32:34,834          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/veny-santos/2021/06/the-miseducation-of-lauryn-hill-me-despertou-para-a-minha-propria-deseducacao.shtml
-2021-06-02 21:32:37,236          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/cpi-precisa-evitar-show-de-falso-equilibrio-dos-bolsonaristas.shtml
-2021-06-02 21:32:37,248          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-convoca-rede-nacional-para-pronunciamento-as-20h30-desta-quarta-feira.shtml
-2021-06-02 21:32:37,486          root     INFO: PF faz buscas em casa do governador do Amazonas e <del>cumpre ordem de prisão de</del> <ins>prende</ins> secretário de Saúde
-2021-06-02 21:32:39,159          root     INFO: Media ready with ids: 1400203732197990402
-2021-06-02 21:32:39,159          root     INFO: Text to tweet: Modificação do Título
-2021-06-02 21:32:39,159          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-faz-buscas-em-casa-do-governador-do-amazonas-e-cumpre-ordem-de-prisao-de-secretario-de-saude.shtml
-2021-06-02 21:32:39,168          root     INFO: Replying to: 1400179811700645889
-2021-06-02 21:32:39,407          root     INFO: Id to store: 1400203733573816322
-2021-06-02 21:32:39,415          root     INFO: Em operação contra desvios de recursos para o combate à Covid-19, a Polícia Federal <del>cumpre</del> <ins>realizou</ins> 25 mandados judiciais <del>na manhã desta</del> <ins>nesta</ins> quarta-feira (2) em Manaus e em Porto Alegre, incluindo busca e apreensão na casa do governador do Amazonas, Wilson Lima (PSC), e a prisão temporária do <del>Secretário Estadual</del> <ins>secretário</ins> de <del>Saúde,</del> <ins>Saúde do estado,</ins> Marcellus Campêlo. Leia mais (06/02/2021 - 09h11)
-2021-06-02 21:32:41,223          root     INFO: Media ready with ids: 1400203740112691204
-2021-06-02 21:32:41,223          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-02 21:32:41,223          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-faz-buscas-em-casa-do-governador-do-amazonas-e-cumpre-ordem-de-prisao-de-secretario-de-saude.shtml
-2021-06-02 21:32:41,233          root     INFO: Replying to: 1400203733573816322
-2021-06-02 21:32:41,478          root     INFO: Id to store: 1400203742268567558
-2021-06-02 21:32:46,581          root     INFO: Removed http://noticias.r7.com/brasil/defesa-gastou-mais-de-r-1-milhao-para-produzir-cloroquina-em-2020-02062021
-2021-06-02 21:32:46,585          root     INFO: Removed http://noticias.r7.com/brasil/me-doi-diz-medica-apos-ver-na-cpi-video-com-frases-de-bolsonaro-02062021
-2021-06-02 21:32:46,590          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2021/05/hamas-faz-guerra-contra-acordos-de-paz-de-israel-com-paises-arabes.shtml
-2021-06-02 21:32:46,594          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/05/renan-calheiros-ensaia-passo-desastroso-ao-tentar-quantificar-mortes-evitaveis-por-covid.shtml
-2021-06-02 21:32:46,598          root     INFO: Removed http://noticias.r7.com/brasil/luana-diz-que-cloroquina-aumenta-em-77-risco-de-morte-por-covid-02062021
-2021-06-02 21:32:46,603          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/era-campanha.shtml
-2021-06-02 21:32:46,608          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/delator-sem-premio.shtml
-2021-06-02 21:32:46,612          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49661
-2021-06-02 21:32:46,616          root     INFO: Removed http://noticias.r7.com/brasil/para-renan-fala-de-luana-prova-falta-de-autonomia-de-queiroga-02062021
-2021-06-02 21:32:46,620          root     INFO: Removed http://noticias.r7.com/brasil/dono-de-hospital-no-am-justifica-tiros-na-pf-pensei-que-era-assalto-02062021
-2021-06-02 21:32:46,624          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/manifestacao-contra-bolsonaro-no-recife-e-encerrada-com-bombas-e-correria-veja-video.shtml
-2021-06-02 21:32:46,625          root     INFO: Finished script
+2021-06-02 22:39:20,487          root     INFO: Starting script
+2021-06-02 22:39:21,426          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-02 22:39:22,192          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-02 22:39:22,960          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-02 22:39:23,987          root     INFO: Parsing R7 - Brasil
+2021-06-02 22:39:24,145          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/06/na-democracia-ameacada-cresce-a-pressao-sobre-joe-biden.shtml
+2021-06-02 22:39:26,893          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/fachin-rejeita-acao-no-tse-e-derruba-barreira-para-filiacao-de-bolsonaro-no-patriota.shtml
+2021-06-02 22:39:27,013          root     INFO: A médica Luana Araújo afirmou nesta quarta-feira (2) à CPI da Covid <del>do</del> <ins>no</ins> Senado que desconhece a razão de não ter sido efetivamente nomeada para o cargo dez dias <del>depois de ter sido</del> <ins>após ser</ins> anunciada pelo ministro <ins>da Saúde,</ins> Marcelo <del>Queiroga (Saúde).</del> <ins>Queiroga.</ins> Leia mais (06/02/2021 - 14h44)
+2021-06-02 22:39:28,850          root     INFO: Media ready with ids: 1400220549817700363
+2021-06-02 22:39:28,850          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-02 22:39:28,851          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/medica-defende-ciencia-e-diz-a-cpi-desconhecer-por-que-foi-barrada-na-saude-renan-ve-falta-de-autonomia-em-ministerio.shtml
+2021-06-02 22:39:28,864          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/medica-defende-ciencia-e-diz-a-cpi-desconhecer-por-que-foi-barrada-na-saude-renan-ve-falta-de-autonomia-em-ministerio.shtml
+2021-06-02 22:39:29,155          root     INFO: Replying to: 1400220551789023233
+2021-06-02 22:39:29,438          root     INFO: Id to store: 1400220552808308740
+2021-06-02 22:39:35,389          root     INFO: Removed http://noticias.r7.com/brasil/venceu-a-coerencia-diz-ministro-sobre-copa-america-no-brasil-02062021
+2021-06-02 22:39:35,393          root     INFO: Removed http://noticias.r7.com/brasil/tribunal-de-excecao-diz-bolsonaro-sobre-depoimento-de-nise-a-cpi-02062021
+2021-06-02 22:39:35,398          root     INFO: Removed http://noticias.r7.com/brasil/pf-foi-recebida-a-tiros-em-operacao-no-amazonas-diz-subprocuradora-02062021
+2021-06-02 22:39:35,403          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-critica-comissao-e-ataca-renan-e-aziz-cpi-dos-patifoes-02062021
+2021-06-02 22:39:35,408          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/05/quando-a-boa-politica-vence.shtml
+2021-06-02 22:39:35,412          root     INFO: Removed http://noticias.r7.com/brasil/pf-faz-buscas-na-casa-de-wilson-lima-governador-do-amazonas-02062021
+2021-06-02 22:39:35,416          root     INFO: Removed http://noticias.r7.com/brasil/assessor-de-ricardo-salles-alvo-de-operacao-da-pf-e-exonerado-02062021
+2021-06-02 22:39:35,420          root     INFO: Removed http://noticias.r7.com/brasil/cpi-discussao-sobre-tratamento-precoce-e-esdruxula-diz-medica-02062021
+2021-06-02 22:39:35,424          root     INFO: Removed http://noticias.r7.com/brasil/ministro-ha-indicios-de-fraude-em-contrato-com-ares-de-legalidade-02062021
+2021-06-02 22:39:35,429          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-convoca-queiroga-a-depor-novamente-na-proxima-terca-02062021
+2021-06-02 22:39:35,433          root     INFO: Removed http://noticias.r7.com/brasil/leilao-do-5g-deve-ocorrer-em-julho-preve-ministro-das-comunicacoes-02062021
+2021-06-02 22:39:35,437          root     INFO: Removed http://noticias.r7.com/brasil/sancionada-lei-que-cria-pedagio-proporcional-ao-trecho-percorrido-02062021
+2021-06-02 22:39:35,441          root     INFO: Removed http://noticias.r7.com/brasil/luana-araujo-diz-na-cpi-que-copa-america-e-um-risco-desnecessario-02062021
+2021-06-02 22:39:35,445          root     INFO: Removed http://noticias.r7.com/brasil/numero-de-jovens-brasileiros-e-o-menor-desde-2002-aponta-fgv-02062021
+2021-06-02 22:39:35,449          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/protesto-contra-bolsonaro-em-meio-a-pandemia-bloqueia-avenida-paulista-em-sp.shtml
+2021-06-02 22:39:35,453          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-medica-luana-araujo-assista-ao-vivo-02062021
+2021-06-02 22:39:35,458          root     INFO: Removed http://noticias.r7.com/brasil/cpi-antecipa-depoimento-do-governador-do-amazonas-02062021
+2021-06-02 22:39:35,458          root     INFO: Finished script
