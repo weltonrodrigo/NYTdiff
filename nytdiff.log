@@ -1,41 +1,25 @@
-2021-06-02 17:14:26,063          root     INFO: Starting script
-2021-06-02 17:14:26,866          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-02 17:14:27,515          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-02 17:14:28,169          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-02 17:14:28,348          root     INFO: Parsing R7 - Brasil
-2021-06-02 17:14:30,841          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/esquerda-marca-para-dia-19-novos-atos-contra-bolsonaro-incorpora-nao-vai-ter-copa-e-preve-mais-acoes.shtml
-2021-06-02 17:14:30,853          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/frentes-e-movimentos-marcam-nova-manifestacao-contra-bolsonaro-para-19-de-junho.shtml
-2021-06-02 17:14:30,958          root     INFO: <del>A Polícia Federal foi recebida com disparos na manhã desta quarta-feira (2) ao chegar</del> <ins>Investigado em esquema de desvios de recursos de combate</ins> à <del>casa do</del> <ins>Covid-19, o</ins> empresário Nilton Costa Lins <del>Júnior,</del> <ins>Júnior recebeu a Polícia Federal a tiros em sua casa, na manhã desta quarta-feira (2),</ins> em Manaus. <del>Preso em seguida, ele é um dos investigados da quarta fase da Operação Sangria, que apura desvios nos recursos públicos destinados ao combate à Covid-19.</del> <ins>Ele acabou preso, e ninguém saiu ferido.</ins> Leia mais (06/02/2021 - 10h55)
-2021-06-02 17:14:32,693          root     INFO: Media ready with ids: 1400138777176195075
-2021-06-02 17:14:32,694          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-02 17:14:32,694          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-e-recebida-a-tiros-em-casa-de-empresario-de-manaus-preso-em-operacao-sobre-desvios-na-saude.shtml
-2021-06-02 17:14:32,703          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-e-recebida-a-tiros-em-casa-de-empresario-de-manaus-preso-em-operacao-sobre-desvios-na-saude.shtml
-2021-06-02 17:14:32,908          root     INFO: Replying to: 1400138778702929926
-2021-06-02 17:14:33,128          root     INFO: Id to store: 1400138779403427843
-2021-06-02 17:14:33,342          root     INFO: Grupos de esquerda que capitanearam os atos contra Jair Bolsonaro no último sábado (29) <del>devem confirmar</del> <ins>confirmaram</ins> nesta quarta-feira (2) a data de novos protestos pelo impeachment do presidente sem conseguir ampliar o escopo ideológico da mobilização, apesar de demonstrarem disposição para isso. Leia mais (06/01/2021 - 23h15)
-2021-06-02 17:14:35,027          root     INFO: Media ready with ids: 1400138786785406978
-2021-06-02 17:14:35,028          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-02 17:14:35,028          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/organizadores-falam-em-ampliar-atos-contra-bolsonaro-para-fora-da-esquerda-mas-veem-resistencias.shtml
-2021-06-02 17:14:35,036          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/organizadores-falam-em-ampliar-atos-contra-bolsonaro-para-fora-da-esquerda-mas-veem-resistencias.shtml
-2021-06-02 17:14:35,227          root     INFO: Replying to: 1400138788454731785
-2021-06-02 17:14:35,502          root     INFO: Id to store: 1400138789239074818
-2021-06-02 17:14:39,898          root     INFO: New article tracked: http://noticias.r7.com/brasil/numero-de-jovens-brasileiros-e-o-menor-desde-2002-aponta-fgv-02062021
-2021-06-02 17:14:39,909          root     INFO: New article tracked: http://noticias.r7.com/brasil/venceu-a-coerencia-diz-ministro-sobre-copa-america-no-brasil-02062021
-2021-06-02 17:14:39,920          root     INFO: New article tracked: http://noticias.r7.com/brasil/leilao-do-5g-deve-ocorrer-em-julho-preve-ministro-das-comunicacoes-02062021
-2021-06-02 17:14:39,931          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-antecipa-depoimento-do-governador-do-amazonas-02062021
-2021-06-02 17:14:39,941          root     INFO: New article tracked: http://noticias.r7.com/brasil/assessor-de-ricardo-salles-alvo-de-operacao-da-pf-e-exonerado-02062021
-2021-06-02 17:14:39,953          root     INFO: New article tracked: http://noticias.r7.com/brasil/luana-araujo-diz-na-cpi-que-copa-america-e-um-risco-desnecessario-02062021
-2021-06-02 17:14:39,965          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-ha-indicios-de-fraude-em-contrato-com-ares-de-legalidade-02062021
-2021-06-02 17:14:39,976          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-foi-recebida-a-tiros-em-operacao-no-amazonas-diz-subprocuradora-02062021
-2021-06-02 17:14:39,987          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-discussao-sobre-tratamento-precoce-e-esdruxula-diz-medica-02062021
-2021-06-02 17:14:40,000          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-critica-comissao-e-ataca-renan-e-aziz-cpi-dos-patifoes-02062021
-2021-06-02 17:14:40,011          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-medica-luana-araujo-assista-ao-vivo-02062021
-2021-06-02 17:14:40,023          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-faz-buscas-na-casa-de-wilson-lima-governador-do-amazonas-02062021
-2021-06-02 17:14:40,036          root     INFO: New article tracked: http://noticias.r7.com/brasil/tribunal-de-excecao-diz-bolsonaro-sobre-depoimento-de-nise-a-cpi-02062021
-2021-06-02 17:14:40,048          root     INFO: New article tracked: http://noticias.r7.com/brasil/sancionada-lei-que-cria-pedagio-proporcional-ao-trecho-percorrido-02062021
-2021-06-02 17:14:40,060          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-convoca-queiroga-a-depor-novamente-na-proxima-terca-02062021
-2021-06-02 17:14:40,073          root     INFO: New article tracked: http://noticias.r7.com/brasil/medica-que-queiroga-desistiu-de-nomear-depoe-hoje-a-cpi-da-covid-02062021
-2021-06-02 17:14:40,181          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/otto-alencar-falara-sobre-governadores-e-cpi-da-covid-em-live-com-prerrogativas.shtml
-2021-06-02 17:14:40,186          root     INFO: Removed http://noticias.r7.com/brasil/wajngarten-diz-que-polemica-da-copa-america-e-por-dinheiro-01062021
-2021-06-02 17:14:40,190          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/assinante-ganha-area-personalizada-com-a-minha-folha-veja-como-usar.shtml
-2021-06-02 17:14:40,191          root     INFO: Finished script
+2021-06-02 19:57:27,900          root     INFO: Starting script
+2021-06-02 19:57:28,729          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-02 19:57:29,406          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-02 19:57:30,077          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-02 19:57:30,411          root     INFO: Parsing R7 - Brasil
+2021-06-02 19:57:30,564          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2021/06/voce-pode-transmitir-o-novo-coronavirus-antes-de-saber-que-esta-infectado.shtml
+2021-06-02 19:57:33,496          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/deputado-do-pt-pedira-investigacao-de-ligacao-de-pms-com-rede-bolsonarista.shtml
+2021-06-02 19:57:33,513          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/medica-defende-ciencia-e-diz-a-cpi-desconhecer-por-que-foi-barrada-na-saude-renan-ve-falta-de-autonomia-em-ministerio.shtml
+2021-06-02 19:57:33,734          root     INFO: Em operação contra desvios de recursos para o combate à Covid-19, a Polícia Federal <del>cumpre</del> <ins>realizou</ins> 25 mandados judiciais <del>na manhã desta</del> <ins>nesta</ins> quarta-feira (2) em Manaus e em Porto Alegre, incluindo busca e apreensão na casa do governador do Amazonas, Wilson Lima (PSC), e <del>a</del> <ins>tentativa de</ins> prisão temporária do Secretário Estadual de Saúde, Marcellus <del>Campêlo.</del> <ins>Campêlo -esse ainda não localizado.</ins> Leia mais (06/02/2021 - 09h11)
+2021-06-02 19:57:35,557          root     INFO: Media ready with ids: 1400179809397923840
+2021-06-02 19:57:35,558          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-02 19:57:35,558          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-faz-buscas-em-casa-do-governador-do-amazonas-e-cumpre-ordem-de-prisao-de-secretario-de-saude.shtml
+2021-06-02 19:57:35,568          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-faz-buscas-em-casa-do-governador-do-amazonas-e-cumpre-ordem-de-prisao-de-secretario-de-saude.shtml
+2021-06-02 19:57:35,740          root     INFO: Replying to: 1400179810899464199
+2021-06-02 19:57:36,029          root     INFO: Id to store: 1400179811700645889
+2021-06-02 19:57:41,579          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-renan-fala-de-luana-prova-falta-de-autonomia-de-queiroga-02062021
+2021-06-02 19:57:41,593          root     INFO: New article tracked: http://noticias.r7.com/brasil/dono-de-hospital-no-am-justifica-tiros-na-pf-pensei-que-era-assalto-02062021
+2021-06-02 19:57:41,605          root     INFO: New article tracked: http://noticias.r7.com/brasil/luana-diz-que-cloroquina-aumenta-em-77-risco-de-morte-por-covid-02062021
+2021-06-02 19:57:41,621          root     INFO: New article tracked: http://noticias.r7.com/brasil/defesa-gastou-mais-de-r-1-milhao-para-produzir-cloroquina-em-2020-02062021
+2021-06-02 19:57:41,635          root     INFO: New article tracked: http://noticias.r7.com/brasil/me-doi-diz-medica-apos-ver-na-cpi-video-com-frases-de-bolsonaro-02062021
+2021-06-02 19:57:42,073          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/defesa-de-sergio-cabral-alega-que-stf-nao-formou-maioria-para-anular-delacao-de-ex-governador.shtml
+2021-06-02 19:57:42,080          root     INFO: Removed http://noticias.r7.com/brasil/medica-que-queiroga-desistiu-de-nomear-depoe-hoje-a-cpi-da-covid-02062021
+2021-06-02 19:57:42,086          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/empresas-devem-ter-o-direito-de-demitir-em-massa-sem-negociacao-coletiva-sim.shtml
+2021-06-02 19:57:42,091          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/liderados-pela-esquerda-protestos-contra-bolsonaro-reunem-manifestantes-nas-ruas-em-meio-a-pandemia.shtml
+2021-06-02 19:57:42,092          root     INFO: Finished script
