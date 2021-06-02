@@ -1,8 +1,16 @@
-2021-06-02 12:10:19,226          root     INFO: Starting script
-2021-06-02 12:10:20,079          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-02 12:10:20,758          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-02 12:10:21,438          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-02 12:10:21,593          root     INFO: Parsing R7 - Brasil
-2021-06-02 12:10:21,763          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/por-uma-assistencia-farmaceutica-mais-equilibrada.shtml
-2021-06-02 12:10:30,949          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/05/ainda-existem-forcas-simbolicas-atuando-pela-manutencao-da-olimpiada.shtml
-2021-06-02 12:10:30,950          root     INFO: Finished script
+2021-06-02 13:50:16,562          root     INFO: Starting script
+2021-06-02 13:50:17,392          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-02 13:50:18,060          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-02 13:50:18,716          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-02 13:50:18,891          root     INFO: Parsing R7 - Brasil
+2021-06-02 13:50:19,046          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/pandemia-desigualdade-e-geopolitica.shtml
+2021-06-02 13:50:21,348          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pf-faz-buscas-em-casa-do-governador-do-amazonas-e-cumpre-ordem-de-prisao-de-secretario-de-saude.shtml
+2021-06-02 13:50:23,639          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/psol-pede-que-camara-suste-decisao-de-sergio-camargo-que-revogou-protecao-a-quilombos.shtml
+2021-06-02 13:50:23,649          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/camara-vota-urgencia-para-projeto-de-estrada-parque-em-area-do-parque-nacional-do-iguacu.shtml
+2021-06-02 13:50:23,660          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/assessor-de-salles-alvo-de-operacao-da-pf-e-exonerado-do-ministerio-do-meio-ambiente.shtml
+2021-06-02 13:50:26,349          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/empresas-devem-ter-o-direito-de-demitir-em-massa-sem-negociacao-coletiva-nao.shtml
+2021-06-02 13:50:26,353          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/podcasts/2021/04/a-cupula-do-clima-de-biden-e-as-pressoes-a-bolsonaro-ouca-podcast.shtml
+2021-06-02 13:50:26,357          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://aovivo.folha.uol.com.br/mundo/2021/04/22/5976-acompanhe-a-cupula-de-lideres-sobre-o-clima-convocada-por-joe-biden.shtml#post407625
+2021-06-02 13:50:26,361          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://aovivo.folha.uol.com.br/mundo/2021/04/22/5976-acompanhe-a-cupula-de-lideres-sobre-o-clima-convocada-por-joe-biden.shtml#post407626
+2021-06-02 13:50:26,366          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/construtora-compra-sede-do-sindicato-dos-metroviarios-leiloada-por-r-144-milhoes.shtml
+2021-06-02 13:50:26,366          root     INFO: Finished script
