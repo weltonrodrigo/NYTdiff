@@ -1,18 +1,25 @@
-2021-06-03 16:45:32,586          root     INFO: Starting script
-2021-06-03 16:45:33,454          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-03 16:45:34,120          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-03 16:45:34,787          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-03 16:45:35,036          root     INFO: Parsing R7 - Brasil
-2021-06-03 16:45:35,180          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/as-manobras-do-executivo-para-se-blindar-de-cpis.shtml
-2021-06-03 16:45:42,638          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-mais-527-mil-doses-de-vacina-da-pfizer-nesta-quinta-3-03062021
-2021-06-03 16:45:42,648          root     INFO: New article tracked: http://noticias.r7.com/brasil/estudio-news-deste-sabado-discute-o-marketing-de-influencia-03062021
-2021-06-03 16:45:42,661          root     INFO: New article tracked: http://noticias.r7.com/brasil/area-onde-predio-desabou-tem-ligacoes-com-milicia-e-caso-marielle-03062021
-2021-06-03 16:45:42,675          root     INFO: New article tracked: http://noticias.r7.com/brasil/programa-contra-violencia-domestica-e-aprovado-na-camara-03062021
-2021-06-03 16:45:42,688          root     INFO: New article tracked: http://noticias.r7.com/brasil/semana-da-cpi-tem-embate-sobre-cloroquina-e-gabinete-paralelo-03062021
-2021-06-03 16:45:42,701          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-medida-provisoria-que-aumenta-tributacao-de-bancos-03062021
-2021-06-03 16:45:42,713          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/capitais-tem-panelaco-contra-bolsonaro-durante-pronunciamento-02062021
-2021-06-03 16:45:42,725          root     INFO: New article tracked: http://noticias.r7.com/brasil/membros-da-cpi-da-covid-criticam-pronunciamento-de-bolsonaro-02062021
-2021-06-03 16:45:42,735          root     INFO: New article tracked: http://noticias.r7.com/brasil/sob-pressao-bolsonaro-diz-que-todos-serao-vacinados-em-2021-02062021
-2021-06-03 16:45:42,747          root     INFO: New article tracked: http://noticias.r7.com/brasil/capitais-registram-panelacos-contra-bolsonaro-durante-pronunciamento-02062021
-2021-06-03 16:45:43,002          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/bolsonaro-aposta-em-milagre-economico-para-encobrir-tragedia.shtml
-2021-06-03 16:45:43,003          root     INFO: Finished script
+2021-06-03 19:04:59,494          root     INFO: Starting script
+2021-06-03 19:05:00,337          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-03 19:05:00,997          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-03 19:05:01,655          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-03 19:05:01,833          root     INFO: Parsing R7 - Brasil
+2021-06-03 19:05:01,989          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/06/minha-mae-nao-foi-trouxa-por-acreditar-que-cuidar-da-casa-era-digno.shtml
+2021-06-03 19:05:02,306          root     INFO: Como o Brasil se prepara para criar seus problemas dos próximos <del>ano</del> <ins>anos</ins>
+2021-06-03 19:05:04,042          root     INFO: Media ready with ids: 1400528978889351171
+2021-06-03 19:05:04,043          root     INFO: Text to tweet: Modificação do Título
+2021-06-03 19:05:04,043          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/como-o-brasil-se-prepara-para-criar-seus-problemas-dos-proximos-ano.shtml
+2021-06-03 19:05:04,052          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/como-o-brasil-se-prepara-para-criar-seus-problemas-dos-proximos-ano.shtml
+2021-06-03 19:05:04,255          root     INFO: Replying to: 1400528980504109058
+2021-06-03 19:05:04,545          root     INFO: Id to store: 1400528981284249611
+2021-06-03 19:05:06,932          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/governo-bolsonaro-envia-equipamentos-para-cidades-sem-urgencia-em-pe-e-elas-redistribuem-para-as-que-precisam.shtml
+2021-06-03 19:05:06,945          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-decide-nao-punir-pazuello-por-participacao-em-ato-com-bolsonaro-no-rio.shtml
+2021-06-03 19:05:06,960          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pm-e-afastado-apos-cegar-homem-com-bala-de-borracha-em-ato-contra-bolsonaro-no-recife.shtml
+2021-06-03 19:05:06,973          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/deputado-questiona-ricardo-salles-sobre-promessa-de-r-20-milhoes-para-obras-em-fernando-de-noronha.shtml
+2021-06-03 19:05:09,528          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/salles-diz-que-atendeu-planalto-ao-tratar-de-madeira-apreendida-no-para-e-cita-ramos-a-pgr.shtml
+2021-06-03 19:05:12,647          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/aliados-de-bolsonaro-reforcam-polarizacao-e-atacam-lula-apos-atos-contra-presidente.shtml
+2021-06-03 19:05:12,653          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/05/dualidade-brasileira.shtml
+2021-06-03 19:05:12,658          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://aovivo.folha.uol.com.br/mundo/2021/04/22/5976-acompanhe-a-cupula-de-lideres-sobre-o-clima-convocada-por-joe-biden.shtml#post407634
+2021-06-03 19:05:12,663          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/tensao-com-bolsonaro-leva-stf-a-fazer-acenos-e-buscar-apoio-do-congresso.shtml
+2021-06-03 19:05:12,668          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/renan-calheiros-vai-encaminhar-informacoes-da-cpi-para-acao-no-stf-de-bolsonaro-contra-governadores.shtml
+2021-06-03 19:05:12,673          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/promotor-diz-que-decisao-de-gilmar-mendes-em-caso-de-ex-governador-da-paraiba-fomenta-impunidade.shtml
+2021-06-03 19:05:12,674          root     INFO: Finished script
