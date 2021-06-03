@@ -1,31 +1,22 @@
-2021-06-03 20:35:38,320          root     INFO: Starting script
-2021-06-03 20:35:39,219          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-03 20:35:39,911          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-03 20:35:40,582          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-03 20:35:40,799          root     INFO: Parsing R7 - Brasil
-2021-06-03 20:35:40,934          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/06/criacao-do-estado-palestino-independente-e-necessidade-vital-a-israel.shtml
-2021-06-03 20:35:40,951          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/exercito-estimula-adesao-de-tropas-a-sonhos-autoritarios-de-bolsonaro.shtml
-2021-06-03 20:35:43,767          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decisao-de-nao-punir-pazuello-mancha-imagem-do-exercito-e-e-sinalizacao-ruim-avaliam-parlamentares.shtml
-2021-06-03 20:35:43,781          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/exercito-estimula-adesao-de-tropas-a-sonhos-autoritarios-de-bolsonaro.shtml
-2021-06-03 20:35:43,794          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/nao-irei-comentar-por-questao-de-disciplina-intelectual-diz-mourao-sobre-decisao-do-exercito-de-livrar-pazuello.shtml
-2021-06-03 20:35:43,813          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-se-rende-a-bolsonaro-e-abre-porta-para-a-anarquia-militar.shtml
-2021-06-03 20:35:43,885          root     INFO: <ins>Sob pressão de Bolsonaro,</ins> Exército <del>decide não punir</del> <ins>livra</ins> Pazuello <ins>de punição</ins> por <del>participação em</del> ato com <del>Bolsonaro</del> <ins>presidente</ins> no Rio
-2021-06-03 20:35:45,680          root     INFO: Media ready with ids: 1400551802869780480
-2021-06-03 20:35:45,680          root     INFO: Text to tweet: Modificação do Título
-2021-06-03 20:35:45,681          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-decide-nao-punir-pazuello-por-participacao-em-ato-com-bolsonaro-no-rio.shtml
-2021-06-03 20:35:45,693          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-decide-nao-punir-pazuello-por-participacao-em-ato-com-bolsonaro-no-rio.shtml
-2021-06-03 20:35:45,886          root     INFO: Replying to: 1400551804400717824
-2021-06-03 20:35:46,128          root     INFO: Id to store: 1400551805185150979
-2021-06-03 20:35:46,135          root     INFO: <del>O</del> <ins>Sob pressão de Jair Bolsonaro, o</ins> comando do <del>Exércio</del> <ins>Exército</ins> anunciou nesta quinta-feira (3) que o general <ins>da ativa</ins> Eduardo Pazuello, ex-ministro da Saúde, não sofrerá punição por ter participado de um ato com o presidente <del>Jair Bolsonaro</del> no Rio de Janeiro. Leia mais (06/03/2021 - 15h56)
-2021-06-03 20:35:51,077          root     INFO: Media ready with ids: 1400551824944517125
-2021-06-03 20:35:51,078          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-03 20:35:51,079          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-decide-nao-punir-pazuello-por-participacao-em-ato-com-bolsonaro-no-rio.shtml
-2021-06-03 20:35:51,091          root     INFO: Replying to: 1400551805185150979
-2021-06-03 20:35:51,369          root     INFO: Id to store: 1400551827033231364
-2021-06-03 20:35:57,452          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/inquerito-sobre-acusacoes-de-moro-a-bolsonaro-esta-travado-ha-mais-de-250-dias.shtml
-2021-06-03 20:35:57,458          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/a-capitulacao-de-fhc.shtml
-2021-06-03 20:35:57,462          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/05/existem-emendas-orcamentarias-em-outras-democracias.shtml
-2021-06-03 20:35:57,467          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2021/05/decisoes-de-bolsonaro-causaram-por-baixo-90-mil-mortes.shtml
-2021-06-03 20:35:57,472          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/arminio-fraga/2021/05/aviso.shtml
-2021-06-03 20:35:57,477          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2021/05/origem-do-coronavirus-em-laboratorio-nao-pode-ser-descartada-mas-fonte-natural-e-mais-provavel.shtml
-2021-06-03 20:35:57,478          root     INFO: Finished script
+2021-06-03 21:43:20,014          root     INFO: Starting script
+2021-06-03 21:43:21,012          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-03 21:43:21,797          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-03 21:43:22,592          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-03 21:43:22,816          root     INFO: Parsing R7 - Brasil
+2021-06-03 21:43:22,991          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/06/copa-america-no-brasil-e-inaugurar-um-problema-novo.shtml
+2021-06-03 21:43:23,006          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandre-schneider/2021/06/o-futuro-nao-e-mais-como-era-antigamente.shtml
+2021-06-03 21:43:25,707          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/temor-de-nova-crise-fez-alto-comando-apoiar-decisao-de-isentar-pazuello.shtml
+2021-06-03 21:43:31,698          root     INFO: Removed http://noticias.r7.com/brasil/semana-da-cpi-tem-embate-sobre-cloroquina-e-gabinete-paralelo-03062021
+2021-06-03 21:43:31,703          root     INFO: Removed http://noticias.r7.com/brasil/area-onde-predio-desabou-tem-ligacoes-com-milicia-e-caso-marielle-03062021
+2021-06-03 21:43:31,708          root     INFO: Removed http://noticias.r7.com/brasil/capitais-registram-panelacos-contra-bolsonaro-durante-pronunciamento-02062021
+2021-06-03 21:43:31,713          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/metrica-do-emprego.shtml
+2021-06-03 21:43:31,719          root     INFO: Removed http://noticias.r7.com/brasil/sob-pressao-bolsonaro-diz-que-todos-serao-vacinados-em-2021-02062021
+2021-06-03 21:43:31,724          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/impeachment-e-recado-das-ruas-para-combater-a-pandemia.shtml
+2021-06-03 21:43:31,729          root     INFO: Removed http://noticias.r7.com/brasil/estudio-news-deste-sabado-discute-o-marketing-de-influencia-03062021
+2021-06-03 21:43:31,736          root     INFO: Removed http://noticias.r7.com/brasil/programa-contra-violencia-domestica-e-aprovado-na-camara-03062021
+2021-06-03 21:43:31,741          root     INFO: Removed http://noticias.r7.com/brasil/membros-da-cpi-da-covid-criticam-pronunciamento-de-bolsonaro-02062021
+2021-06-03 21:43:31,747          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-medida-provisoria-que-aumenta-tributacao-de-bancos-03062021
+2021-06-03 21:43:31,752          root     INFO: Removed http://noticias.r7.com/brasil/brasil-recebe-mais-527-mil-doses-de-vacina-da-pfizer-nesta-quinta-3-03062021
+2021-06-03 21:43:31,758          root     INFO: Removed http://noticias.r7.com/brasil/videos/capitais-tem-panelaco-contra-bolsonaro-durante-pronunciamento-02062021
+2021-06-03 21:43:31,763          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/05/gripe-russa-foi-um-coronavirus.shtml
+2021-06-03 21:43:31,764          root     INFO: Finished script
