@@ -1,13 +1,24 @@
-2021-06-03 08:42:27,177          root     INFO: Starting script
-2021-06-03 08:42:28,319          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-03 08:42:29,124          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-03 08:42:29,923          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-03 08:42:30,142          root     INFO: Parsing R7 - Brasil
-2021-06-03 08:42:39,109          root     INFO: Do R7, com Amanda <del>Ribeiro e Linda Almeida,</del> <ins>Ribeiro,</ins> da Record TV
-2021-06-03 08:42:40,782          root     INFO: Media ready with ids: 1400372350042918913
-2021-06-03 08:42:40,783          root     INFO: Text to tweet: Modificação do autor
-2021-06-03 08:42:40,783          root     INFO: Article id: http://noticias.r7.com/brasil/pf-faz-buscas-na-casa-de-wilson-lima-governador-do-amazonas-02062021
-2021-06-03 08:42:40,792          root     INFO: Tweeting url: http://noticias.r7.com/brasil/pf-faz-buscas-na-casa-de-wilson-lima-governador-do-amazonas-02062021
-2021-06-03 08:42:40,983          root     INFO: Replying to: 1400372351460597762
-2021-06-03 08:42:41,205          root     INFO: Id to store: 1400372352182013955
-2021-06-03 08:42:41,709          root     INFO: Finished script
+2021-06-03 09:40:00,280          root     INFO: Starting script
+2021-06-03 09:40:01,613          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-03 09:40:02,386          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-03 09:40:03,149          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-03 09:40:03,385          root     INFO: Parsing R7 - Brasil
+2021-06-03 09:40:11,976          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-reduz-em-38-milhoes-de-doses-previsao-para-junho-02062021
+2021-06-03 09:40:11,994          root     INFO: New article tracked: http://noticias.r7.com/brasil/carmen-lucia-autoriza-inquerito-para-investigar-ricardo-salles-02062021
+2021-06-03 09:40:12,007          root     INFO: New article tracked: http://noticias.r7.com/brasil/randolfe-ve-indicios-de-gabinete-paralelo-em-depoimento-de-luana-02062021
+2021-06-03 09:40:12,022          root     INFO: New article tracked: http://noticias.r7.com/brasil/luana-explica-remedios-testados-e-descartados-pela-ciencia-02062021
+2021-06-03 09:40:12,034          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-adia-decisao-sobre-uso-de-delacao-em-acoes-de-improbidade-02062021
+2021-06-03 09:40:12,048          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-anuncia-sancao-da-nova-rodada-do-pronampe-02062021
+2021-06-03 09:40:12,061          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-anuncia-criacao-de-comissao-especial-da-reforma-administrativa-02062021
+2021-06-03 09:40:12,077          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-define-lista-triplice-para-o-tse-composta-apenas-por-mulheres-02062021
+2021-06-03 09:40:12,092          root     INFO: New article tracked: http://noticias.r7.com/brasil/a-gente-precisa-se-preparar-para-as-proximas-pandemias-avisa-luana-02062021
+2021-06-03 09:40:12,106          root     INFO: New article tracked: http://noticias.r7.com/brasil/itamaraty-presta-assistencia-ao-medico-brasileiro-preso-no-egito-02062021
+2021-06-03 09:40:12,120          root     INFO: New article tracked: http://noticias.r7.com/brasil/a-cpi-medica-barrada-pelo-planalto-critica-tratamento-precoce-02062021
+2021-06-03 09:40:12,132          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/wilson-lima-fala-sobre-a-operacao-sangria-02062021
+2021-06-03 09:40:12,148          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-mp-que-facilita-credito-bancario-na-pandemia-02062021
+2021-06-03 09:40:12,162          root     INFO: New article tracked: http://noticias.r7.com/brasil/ciencia-nao-tem-lado-diz-infectologista-luana-araujo-a-cpi-02062021-1
+2021-06-03 09:40:12,175          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-julga-acao-que-proibe-sacrificio-de-animais-apos-maus-tratos-02062021
+2021-06-03 09:40:12,191          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministro-marcelo-queiroga-voltara-a-cpi-da-covid-no-dia-8-diz-omar-aziz-02062021
+2021-06-03 09:40:12,209          root     INFO: New article tracked: http://noticias.r7.com/brasil/secretario-de-saude-do-amazonas-e-preso-pela-policia-federal-02062021
+2021-06-03 09:40:12,222          root     INFO: New article tracked: http://noticias.r7.com/brasil/luana-se-kit-covid-fosse-util-nao-teriamos-esse-numero-de-mortes-02062021
+2021-06-03 09:40:12,287          root     INFO: Finished script
