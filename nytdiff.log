@@ -1,25 +1,31 @@
-2021-06-03 19:04:59,494          root     INFO: Starting script
-2021-06-03 19:05:00,337          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-03 19:05:00,997          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-03 19:05:01,655          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-03 19:05:01,833          root     INFO: Parsing R7 - Brasil
-2021-06-03 19:05:01,989          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/06/minha-mae-nao-foi-trouxa-por-acreditar-que-cuidar-da-casa-era-digno.shtml
-2021-06-03 19:05:02,306          root     INFO: Como o Brasil se prepara para criar seus problemas dos próximos <del>ano</del> <ins>anos</ins>
-2021-06-03 19:05:04,042          root     INFO: Media ready with ids: 1400528978889351171
-2021-06-03 19:05:04,043          root     INFO: Text to tweet: Modificação do Título
-2021-06-03 19:05:04,043          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/como-o-brasil-se-prepara-para-criar-seus-problemas-dos-proximos-ano.shtml
-2021-06-03 19:05:04,052          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/como-o-brasil-se-prepara-para-criar-seus-problemas-dos-proximos-ano.shtml
-2021-06-03 19:05:04,255          root     INFO: Replying to: 1400528980504109058
-2021-06-03 19:05:04,545          root     INFO: Id to store: 1400528981284249611
-2021-06-03 19:05:06,932          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/governo-bolsonaro-envia-equipamentos-para-cidades-sem-urgencia-em-pe-e-elas-redistribuem-para-as-que-precisam.shtml
-2021-06-03 19:05:06,945          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-decide-nao-punir-pazuello-por-participacao-em-ato-com-bolsonaro-no-rio.shtml
-2021-06-03 19:05:06,960          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pm-e-afastado-apos-cegar-homem-com-bala-de-borracha-em-ato-contra-bolsonaro-no-recife.shtml
-2021-06-03 19:05:06,973          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/deputado-questiona-ricardo-salles-sobre-promessa-de-r-20-milhoes-para-obras-em-fernando-de-noronha.shtml
-2021-06-03 19:05:09,528          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/salles-diz-que-atendeu-planalto-ao-tratar-de-madeira-apreendida-no-para-e-cita-ramos-a-pgr.shtml
-2021-06-03 19:05:12,647          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/aliados-de-bolsonaro-reforcam-polarizacao-e-atacam-lula-apos-atos-contra-presidente.shtml
-2021-06-03 19:05:12,653          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2021/05/dualidade-brasileira.shtml
-2021-06-03 19:05:12,658          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://aovivo.folha.uol.com.br/mundo/2021/04/22/5976-acompanhe-a-cupula-de-lideres-sobre-o-clima-convocada-por-joe-biden.shtml#post407634
-2021-06-03 19:05:12,663          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/tensao-com-bolsonaro-leva-stf-a-fazer-acenos-e-buscar-apoio-do-congresso.shtml
-2021-06-03 19:05:12,668          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/renan-calheiros-vai-encaminhar-informacoes-da-cpi-para-acao-no-stf-de-bolsonaro-contra-governadores.shtml
-2021-06-03 19:05:12,673          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/promotor-diz-que-decisao-de-gilmar-mendes-em-caso-de-ex-governador-da-paraiba-fomenta-impunidade.shtml
-2021-06-03 19:05:12,674          root     INFO: Finished script
+2021-06-03 20:35:38,320          root     INFO: Starting script
+2021-06-03 20:35:39,219          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-03 20:35:39,911          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-03 20:35:40,582          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-03 20:35:40,799          root     INFO: Parsing R7 - Brasil
+2021-06-03 20:35:40,934          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/06/criacao-do-estado-palestino-independente-e-necessidade-vital-a-israel.shtml
+2021-06-03 20:35:40,951          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/exercito-estimula-adesao-de-tropas-a-sonhos-autoritarios-de-bolsonaro.shtml
+2021-06-03 20:35:43,767          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decisao-de-nao-punir-pazuello-mancha-imagem-do-exercito-e-e-sinalizacao-ruim-avaliam-parlamentares.shtml
+2021-06-03 20:35:43,781          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/exercito-estimula-adesao-de-tropas-a-sonhos-autoritarios-de-bolsonaro.shtml
+2021-06-03 20:35:43,794          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/nao-irei-comentar-por-questao-de-disciplina-intelectual-diz-mourao-sobre-decisao-do-exercito-de-livrar-pazuello.shtml
+2021-06-03 20:35:43,813          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-se-rende-a-bolsonaro-e-abre-porta-para-a-anarquia-militar.shtml
+2021-06-03 20:35:43,885          root     INFO: <ins>Sob pressão de Bolsonaro,</ins> Exército <del>decide não punir</del> <ins>livra</ins> Pazuello <ins>de punição</ins> por <del>participação em</del> ato com <del>Bolsonaro</del> <ins>presidente</ins> no Rio
+2021-06-03 20:35:45,680          root     INFO: Media ready with ids: 1400551802869780480
+2021-06-03 20:35:45,680          root     INFO: Text to tweet: Modificação do Título
+2021-06-03 20:35:45,681          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-decide-nao-punir-pazuello-por-participacao-em-ato-com-bolsonaro-no-rio.shtml
+2021-06-03 20:35:45,693          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-decide-nao-punir-pazuello-por-participacao-em-ato-com-bolsonaro-no-rio.shtml
+2021-06-03 20:35:45,886          root     INFO: Replying to: 1400551804400717824
+2021-06-03 20:35:46,128          root     INFO: Id to store: 1400551805185150979
+2021-06-03 20:35:46,135          root     INFO: <del>O</del> <ins>Sob pressão de Jair Bolsonaro, o</ins> comando do <del>Exércio</del> <ins>Exército</ins> anunciou nesta quinta-feira (3) que o general <ins>da ativa</ins> Eduardo Pazuello, ex-ministro da Saúde, não sofrerá punição por ter participado de um ato com o presidente <del>Jair Bolsonaro</del> no Rio de Janeiro. Leia mais (06/03/2021 - 15h56)
+2021-06-03 20:35:51,077          root     INFO: Media ready with ids: 1400551824944517125
+2021-06-03 20:35:51,078          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-03 20:35:51,079          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-decide-nao-punir-pazuello-por-participacao-em-ato-com-bolsonaro-no-rio.shtml
+2021-06-03 20:35:51,091          root     INFO: Replying to: 1400551805185150979
+2021-06-03 20:35:51,369          root     INFO: Id to store: 1400551827033231364
+2021-06-03 20:35:57,452          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/inquerito-sobre-acusacoes-de-moro-a-bolsonaro-esta-travado-ha-mais-de-250-dias.shtml
+2021-06-03 20:35:57,458          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/a-capitulacao-de-fhc.shtml
+2021-06-03 20:35:57,462          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/05/existem-emendas-orcamentarias-em-outras-democracias.shtml
+2021-06-03 20:35:57,467          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2021/05/decisoes-de-bolsonaro-causaram-por-baixo-90-mil-mortes.shtml
+2021-06-03 20:35:57,472          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/arminio-fraga/2021/05/aviso.shtml
+2021-06-03 20:35:57,477          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2021/05/origem-do-coronavirus-em-laboratorio-nao-pode-ser-descartada-mas-fonte-natural-e-mais-provavel.shtml
+2021-06-03 20:35:57,478          root     INFO: Finished script
