@@ -1,18 +1,18 @@
-2021-06-03 15:48:00,365          root     INFO: Starting script
-2021-06-03 15:48:01,184          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-03 15:48:01,838          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-03 15:48:02,495          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-03 15:48:02,669          root     INFO: Parsing R7 - Brasil
-2021-06-03 15:48:02,799          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/06/ha-tudo-de-podre-no-reino-de-bolsonaro.shtml
-2021-06-03 15:48:02,816          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/the-economist-agora-ve-o-cristo-redentor-sem-ar-sob-bolsonaro.shtml
-2021-06-03 15:48:05,832          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/06/ha-tudo-de-podre-no-reino-de-bolsonaro.shtml
-2021-06-03 15:48:05,850          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/the-economist-agora-ve-o-cristo-redentor-sem-ar-sob-bolsonaro.shtml
-2021-06-03 15:48:05,867          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-assessor-de-bolsonaro-e-medico-detalham-em-lives-gabinete-paralelo-na-gestao-da-pandemia.shtml
-2021-06-03 15:48:05,888          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/um-dia-apos-prometer-vacina-a-todos-bolsonaro-anda-de-moto-e-vai-a-igreja-no-interior-de-goias.shtml
-2021-06-03 15:48:12,414          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/deputado-diz-que-regulamentacao-sobre-criptomoedas-sai-em-tres-meses-e-pede-cpi-por-uso-em-golpes.shtml
-2021-06-03 15:48:12,420          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/05/v-de-vingapp.shtml
-2021-06-03 15:48:12,425          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/eduardo-cunha-fara-noite-de-autografos-de-seu-livro-tchau-querida.shtml
-2021-06-03 15:48:12,431          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/delacao-na-faroeste-abre-flancos-sobre-venda-de-decisoes-contra-petrobras-e-ate-de-uma-barraca-de-praia.shtml
-2021-06-03 15:48:12,437          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/bolsonaro-tem-inclinacoes-nazistas-e-facistas-afirmam-intelectuais-judeus-em-carta.shtml
-2021-06-03 15:48:12,443          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/nada-mudou.shtml
-2021-06-03 15:48:12,444          root     INFO: Finished script
+2021-06-03 16:45:32,586          root     INFO: Starting script
+2021-06-03 16:45:33,454          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-03 16:45:34,120          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-03 16:45:34,787          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-03 16:45:35,036          root     INFO: Parsing R7 - Brasil
+2021-06-03 16:45:35,180          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/as-manobras-do-executivo-para-se-blindar-de-cpis.shtml
+2021-06-03 16:45:42,638          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-mais-527-mil-doses-de-vacina-da-pfizer-nesta-quinta-3-03062021
+2021-06-03 16:45:42,648          root     INFO: New article tracked: http://noticias.r7.com/brasil/estudio-news-deste-sabado-discute-o-marketing-de-influencia-03062021
+2021-06-03 16:45:42,661          root     INFO: New article tracked: http://noticias.r7.com/brasil/area-onde-predio-desabou-tem-ligacoes-com-milicia-e-caso-marielle-03062021
+2021-06-03 16:45:42,675          root     INFO: New article tracked: http://noticias.r7.com/brasil/programa-contra-violencia-domestica-e-aprovado-na-camara-03062021
+2021-06-03 16:45:42,688          root     INFO: New article tracked: http://noticias.r7.com/brasil/semana-da-cpi-tem-embate-sobre-cloroquina-e-gabinete-paralelo-03062021
+2021-06-03 16:45:42,701          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-medida-provisoria-que-aumenta-tributacao-de-bancos-03062021
+2021-06-03 16:45:42,713          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/capitais-tem-panelaco-contra-bolsonaro-durante-pronunciamento-02062021
+2021-06-03 16:45:42,725          root     INFO: New article tracked: http://noticias.r7.com/brasil/membros-da-cpi-da-covid-criticam-pronunciamento-de-bolsonaro-02062021
+2021-06-03 16:45:42,735          root     INFO: New article tracked: http://noticias.r7.com/brasil/sob-pressao-bolsonaro-diz-que-todos-serao-vacinados-em-2021-02062021
+2021-06-03 16:45:42,747          root     INFO: New article tracked: http://noticias.r7.com/brasil/capitais-registram-panelacos-contra-bolsonaro-durante-pronunciamento-02062021
+2021-06-03 16:45:43,002          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/bolsonaro-aposta-em-milagre-economico-para-encobrir-tragedia.shtml
+2021-06-03 16:45:43,003          root     INFO: Finished script
