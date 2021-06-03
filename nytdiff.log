@@ -1,12 +1,19 @@
-2021-06-02 23:30:56,690          root     INFO: Starting script
-2021-06-02 23:30:57,650          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-02 23:30:58,444          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-02 23:30:59,225          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-02 23:30:59,458          root     INFO: Parsing R7 - Brasil
-2021-06-02 23:31:02,232          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49678
-2021-06-02 23:31:02,249          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/em-formatura-com-bolsonaro-pms-resgatam-lema-de-campanha-eleitoral-do-presidente.shtml
-2021-06-02 23:31:04,796          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/carmen-lucia-do-stf-determina-abertura-de-inquerito-contra-ricardo-salles.shtml
-2021-06-02 23:31:07,733          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/protestos-nas-ruas-servem-a-lula-e-abrem-nova-frente-contra-bolsonaro.shtml
-2021-06-02 23:31:07,740          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/05/com-vacina-disponivel-para-todos-manifestacoes-contra-bolsonaro-seriam-maiores.shtml
-2021-06-02 23:31:07,745          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://aovivo.folha.uol.com.br/mundo/2021/04/22/5976-acompanhe-a-cupula-de-lideres-sobre-o-clima-convocada-por-joe-biden.shtml#post407628
-2021-06-02 23:31:07,745          root     INFO: Finished script
+2021-06-03 00:42:30,916          root     INFO: Starting script
+2021-06-03 00:42:31,709          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-03 00:42:32,354          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-03 00:42:33,000          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-03 00:42:33,160          root     INFO: Parsing R7 - Brasil
+2021-06-03 00:42:35,723          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/inflexao-de-bolsonaro-celebrando-vacinas-em-rede-nacional-vem-com-atraso-fatal-e-doloroso-afirma-cpi-da-covid.shtml
+2021-06-03 00:42:35,738          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/jornalista-e-vitima-de-truculencia-de-segurancas-ao-tentar-questionar-governador-do-rj.shtml
+2021-06-03 00:42:35,750          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-costura-discurso-possivel-para-sua-candidatura-em-2022.shtml
+2021-06-03 00:42:35,762          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/fala-de-bolsonaro-vem-com-atraso-desumano-de-quase-470-mil-mortes-diz-cpi-da-covid.shtml
+2021-06-03 00:42:35,774          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/veja-a-integra-do-pronunciamento-de-bolsonaro-em-rede-nacional.shtml
+2021-06-03 00:42:35,786          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/sob-protestos-e-pressao-de-cpi-bolsonaro-agora-defende-vacina-destaca-pib-e-critica-politicas-de-isolamento.shtml
+2021-06-03 00:42:35,798          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-e-alvo-de-panelacos-durante-pronunciamento-em-rede-nacional.shtml
+2021-06-03 00:42:40,775          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/05/bolsonaro-aposta-em-milagre-economico-para-encobrir-tragedia.shtml
+2021-06-03 00:42:40,780          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/com-braga-netto-defesa-se-aproxima-mais-da-politica-e-provoca-divergencia-geracional-entre-militares.shtml
+2021-06-03 00:42:40,784          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/testado-em-2002-voto-impresso-causou-confusao-e-tornou-urna-eletronica-vulneravel-a-fraude.shtml
+2021-06-03 00:42:40,788          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/de-olho-em-governos-estaduais-lava-jatistas-terao-eleicao-decisiva-em-2022.shtml
+2021-06-03 00:42:40,793          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/rival-da-lava-jato-grupo-de-advogados-atrai-ministros-do-supremo-e-usa-lives-para-ampliar-influencia.shtml
+2021-06-03 00:42:40,797          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/apos-um-mes-cpi-inicia-2a-fase-de-materializacao-de-provas-e-governo-tenta-romper-grupo-majoritario.shtml
+2021-06-03 00:42:40,798          root     INFO: Finished script
