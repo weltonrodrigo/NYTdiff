@@ -1,26 +1,12 @@
-2021-06-03 22:28:47,094          root     INFO: Starting script
-2021-06-03 22:28:47,908          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-03 22:28:48,556          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-03 22:28:49,213          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-03 22:28:49,374          root     INFO: Parsing R7 - Brasil
-2021-06-03 22:28:49,526          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/a-explosao-social-na-colombia-e-a-crise-do-uribismo.shtml
-2021-06-03 22:28:49,540          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/06/cometa-que-anunciaria-o-apocalipse-ha-210-anos-trouxe-otimos-vinhos.shtml
-2021-06-03 22:28:52,096          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/general-da-reserva-fala-em-desmoralizacao-e-cita-caso-pazuello-como-precedente-para-politica-entrar-nos-quarteis.shtml
-2021-06-03 22:28:52,297          root     INFO: <ins>Sob pressão de Bolsonaro,</ins> Exército <del>decide não punir</del> <ins>livra</ins> Pazuello <ins>de punição</ins> por <del>participação em</del> ato com <del>Bolsonaro</del> <ins>presidente</ins> no Rio
-2021-06-03 22:28:53,982          root     INFO: Media ready with ids: 1400580275155898368
-2021-06-03 22:28:53,982          root     INFO: Text to tweet: Modificação do Título
-2021-06-03 22:28:53,982          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-decide-nao-punir-pazuello-por-participacao-em-ato-com-bolsonaro-no-rio.shtml
-2021-06-03 22:28:53,992          root     INFO: Replying to: 1400551827033231364
-2021-06-03 22:28:54,241          root     INFO: Id to store: 1400580276527448080
-2021-06-03 22:28:54,250          root     INFO: O <del>comando</del> <ins>comandante</ins> do <del>Exércio anunciou</del> <ins>Exército, general Paulo Sérgio Nogueira de Oliveira, aceitou a pressão e a interferência de Jair Bolsonaro e decidiu</ins> nesta quinta-feira (3) <del>que</del> <ins>livrar</ins> o general <del>Eduardo Pazuello, ex-ministro</del> da <del>Saúde, não sofrerá</del> <ins>ativa Eduardo Pazuello de qualquer</ins> punição por ter participado de um ato <del>com o presidente Jair Bolsonaro no Rio de Janeiro.</del> <ins>político do presidente.</ins> Leia mais (06/03/2021 - 15h56)
-2021-06-03 22:28:55,929          root     INFO: Media ready with ids: 1400580283104124929
-2021-06-03 22:28:55,930          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-03 22:28:55,930          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-decide-nao-punir-pazuello-por-participacao-em-ato-com-bolsonaro-no-rio.shtml
-2021-06-03 22:28:55,944          root     INFO: Replying to: 1400580276527448080
-2021-06-03 22:28:56,193          root     INFO: Id to store: 1400580284731596800
-2021-06-03 22:28:58,621          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/substituir-a-floresta-amazonica-por-grandes-plantacoes-comerciais-eleva-temperatura-e-reduz-chuva.shtml
-2021-06-03 22:29:01,553          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jose-henrique-mariante-ombudsman/2021/05/uma-semana-esquisita.shtml
-2021-06-03 22:29:01,558          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/05/brasileiro-tem-inicio-com-a-maior-rivalidade-nacional-da-atualidade.shtml
-2021-06-03 22:29:01,562          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/as-vesperas-da-cupula-do-clima-rondonia-faz-reducao-recorde-de-areas-protegidas.shtml
-2021-06-03 22:29:01,567          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/defesa-de-lula-pede-a-fux-que-julgue-suspeicao-de-moro-antes-da-saida-de-marco-aurelio.shtml
-2021-06-03 22:29:01,567          root     INFO: Finished script
+2021-06-03 23:33:16,363          root     INFO: Starting script
+2021-06-03 23:33:17,181          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-03 23:33:17,843          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-03 23:33:18,514          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-03 23:33:18,678          root     INFO: Parsing R7 - Brasil
+2021-06-03 23:33:18,837          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/06/comorbidade-nutella.shtml
+2021-06-03 23:33:21,052          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decano-do-stf-afirma-que-absolvicao-de-pazuello-causa-perplexidade-e-abre-preocupante-precedente.shtml
+2021-06-03 23:33:21,063          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/sem-citar-pazuello-bolsonaro-diz-que-e-comum-exercito-nao-aplicar-punicoes.shtml
+2021-06-03 23:33:25,899          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49672
+2021-06-03 23:33:25,903          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4497
+2021-06-03 23:33:25,908          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2021/05/espaco-para-aumentar-a-tributacao-da-renda-e-da-propriedade-e-limitado.shtml
+2021-06-03 23:33:25,908          root     INFO: Finished script
