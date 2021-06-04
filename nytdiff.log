@@ -1,12 +1,21 @@
-2021-06-03 23:33:16,363          root     INFO: Starting script
-2021-06-03 23:33:17,181          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-03 23:33:17,843          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-03 23:33:18,514          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-03 23:33:18,678          root     INFO: Parsing R7 - Brasil
-2021-06-03 23:33:18,837          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/06/comorbidade-nutella.shtml
-2021-06-03 23:33:21,052          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decano-do-stf-afirma-que-absolvicao-de-pazuello-causa-perplexidade-e-abre-preocupante-precedente.shtml
-2021-06-03 23:33:21,063          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/sem-citar-pazuello-bolsonaro-diz-que-e-comum-exercito-nao-aplicar-punicoes.shtml
-2021-06-03 23:33:25,899          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49672
-2021-06-03 23:33:25,903          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4497
-2021-06-03 23:33:25,908          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2021/05/espaco-para-aumentar-a-tributacao-da-renda-e-da-propriedade-e-limitado.shtml
-2021-06-03 23:33:25,908          root     INFO: Finished script
+2021-06-04 00:43:27,294          root     INFO: Starting script
+2021-06-04 00:43:28,275          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-04 00:43:29,066          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-04 00:43:29,895          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-04 00:43:30,156          root     INFO: Parsing R7 - Brasil
+2021-06-04 00:43:30,323          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2021/06/aposta-do-amazon-dom-mostra-tragedia-nacional-de-maneira-pasteurizada.shtml
+2021-06-04 00:43:32,797          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/esporte/2021/06/bolsonaro-ataca-globo-e-luis-roberto-em-defesa-da-copa-america-no-pais.shtml
+2021-06-04 00:43:32,810          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/um-dia-apos-prometer-vacina-na-tv-bolsonaro-insiste-em-remedio-sem-eficacia-e-ataca-cpi.shtml
+2021-06-04 00:43:37,808          root     INFO: New article tracked: http://noticias.r7.com/brasil/a-apoiadores-bolsonaro-diz-que-apesar-de-problemas-pais-vai-bem-03062021
+2021-06-04 00:43:37,820          root     INFO: New article tracked: http://noticias.r7.com/brasil/revista-the-economist-critica-bolsonaro-e-ve-decada-sombria-03062021
+2021-06-04 00:43:37,833          root     INFO: New article tracked: http://noticias.r7.com/brasil/alexandre-libera-a-ricardo-salles-depoimento-direto-para-pgr-03062021
+2021-06-04 00:43:37,845          root     INFO: New article tracked: http://noticias.r7.com/brasil/exercito-decide-nao-punir-pazuello-por-ato-com-bolsonaro-no-rio-03062021
+2021-06-04 00:43:37,857          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-caminha-para-independencia-na-producao-de-vacinas-diz-mourao-03062021
+2021-06-04 00:43:37,870          root     INFO: New article tracked: http://noticias.r7.com/brasil/o-que-a-cpi-da-covid-busca-no-novo-depoimento-de-marcelo-queiroga-03062021
+2021-06-04 00:43:37,884          root     INFO: New article tracked: http://noticias.r7.com/brasil/secretario-e-empresarios-do-am-sao-transferidos-para-presidios-03062021
+2021-06-04 00:43:37,896          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-defende-auxilio-enxuto-como-ponte-ao-novo-bolsa-familia-03062021
+2021-06-04 00:43:37,908          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-de-sp-manda-4-lideres-do-pcc-para-cadeias-federais-03062021
+2021-06-04 00:43:38,197          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/bolsonaro-minimiza-atos-contra-ele-e-diz-que-faltou-maconha-para-manifestantes.shtml
+2021-06-04 00:43:38,202          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/05/bolsonaro-e-motivo-para-que-atual-sistema-de-votacao-e-apuracao-seja-preservado.shtml
+2021-06-04 00:43:38,207          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/chefe-juridico-da-campanha-de-bolsonaro-enaltece-urna-eletronica-e-diz-que-voto-impresso-pode-aperfeicoar-eleicao.shtml
+2021-06-04 00:43:38,208          root     INFO: Finished script
