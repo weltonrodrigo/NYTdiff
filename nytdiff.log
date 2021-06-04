@@ -1,21 +1,28 @@
-2021-06-04 21:34:49,640          root     INFO: Starting script
-2021-06-04 21:34:50,617          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-04 21:34:51,414          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-04 21:34:52,212          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-04 21:34:52,433          root     INFO: Parsing R7 - Brasil
-2021-06-04 21:34:55,388          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-troca-e-afastamentos-na-pm-excesso-policial-em-ato-contra-bolsonaro-leva-a-queda-de-secretario-em-pe.shtml
-2021-06-04 21:34:55,402          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decisao-do-exercito-de-livrar-pazuello-e-criticada-em-diferentes-poderes-por-cotados-para-2022-e-ex-aliados-de-bolsonaro.shtml
-2021-06-04 21:35:00,986          root     INFO: Programa do 'Jornal da Record' conversa com deputado federal Vinicius Carvalho <del>(Republicanos)</del> <ins>(Republicanos-SP)</ins> e advogado Luiz Augusto D’Urso
-2021-06-04 21:35:02,714          root     INFO: Media ready with ids: 1400929109979680768
-2021-06-04 21:35:02,714          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-04 21:35:02,714          root     INFO: Article id: http://noticias.r7.com/brasil/live-jr-debate-lei-mais-dura-para-quem-pratica-crimes-virtuais-04062021
-2021-06-04 21:35:02,724          root     INFO: Tweeting url: http://noticias.r7.com/brasil/live-jr-debate-lei-mais-dura-para-quem-pratica-crimes-virtuais-04062021
-2021-06-04 21:35:02,926          root     INFO: Replying to: 1400929111493779466
-2021-06-04 21:35:03,220          root     INFO: Id to store: 1400929112236216325
-2021-06-04 21:35:03,780          root     INFO: Removed http://noticias.r7.com/brasil/executiva-do-psdb-apresentara-na-terca-8-parecer-sobre-previas-04062021
-2021-06-04 21:35:03,785          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-troca-farpas-com-doria-sobre-vacinas-pare-de-palanque-04062021
-2021-06-04 21:35:03,790          root     INFO: Removed http://noticias.r7.com/brasil/alertas-de-desmatamento-na-amazonia-saltam-64-em-maio-04062021
-2021-06-04 21:35:03,795          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/esporte/2021/06/no-que-depender-de-mim-havera-copa-america-diz-bolsonaro.shtml
-2021-06-04 21:35:03,800          root     INFO: Removed http://noticias.r7.com/brasil/ex-ministro-sobre-arquivamento-de-caso-pazuello-vergonha-a-todos-04062021
-2021-06-04 21:35:03,805          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-se-aproxima-de-nanico-patriota-e-contraria-centrao-sobre-estrutura-para-2022.shtml
-2021-06-04 21:35:03,806          root     INFO: Finished script
+2021-06-04 22:19:53,689          root     INFO: Starting script
+2021-06-04 22:19:54,506          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-04 22:19:55,170          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-04 22:19:55,827          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-04 22:19:55,966          root     INFO: Parsing R7 - Brasil
+2021-06-04 22:19:56,106          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/um-ponto-de-virada-para-a-democracia-colombiana.shtml
+2021-06-04 22:19:56,120          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/06/fenomeno-sarah-j-maas-faz-record-disparar-no-mercado-de-livros-de-fantasia.shtml
+2021-06-04 22:19:56,132          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2021/06/simulacro-democratico.shtml
+2021-06-04 22:19:56,251          root     INFO: Lula vai repetir a <del>historia</del> <ins>história</ins> de Brizola?
+2021-06-04 22:19:57,939          root     INFO: Media ready with ids: 1400940414606135298
+2021-06-04 22:19:57,940          root     INFO: Text to tweet: Modificação do Título
+2021-06-04 22:19:57,940          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/lula-vai-repetir-a-historia-de-brizola.shtml
+2021-06-04 22:19:57,950          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/lula-vai-repetir-a-historia-de-brizola.shtml
+2021-06-04 22:19:58,149          root     INFO: Replying to: 1400940416111984649
+2021-06-04 22:19:58,389          root     INFO: Id to store: 1400940416908861443
+2021-06-04 22:20:01,077          root     INFO: Lula vai repetir a <del>historia</del> <ins>história</ins> de Brizola?
+2021-06-04 22:20:02,734          root     INFO: Media ready with ids: 1400940434730491905
+2021-06-04 22:20:02,735          root     INFO: Text to tweet: Modificação do Título
+2021-06-04 22:20:02,736          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/lula-vai-repetir-a-historia-de-brizola.shtml
+2021-06-04 22:20:02,749          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/lula-vai-repetir-a-historia-de-brizola.shtml
+2021-06-04 22:20:02,940          root     INFO: Replying to: 1400940436215238660
+2021-06-04 22:20:03,169          root     INFO: Id to store: 1400940436982796294
+2021-06-04 22:20:05,448          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/david-miranda-pede-que-lideres-reconsiderem-acordos-com-o-brasil-por-causa-de-politica-ambiental.shtml
+2021-06-04 22:20:08,465          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/a-protecao-da-agua-do-sistema-cantareira.shtml
+2021-06-04 22:20:08,472          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/uma-alternativa-ao-contribuinte-paulistano.shtml
+2021-06-04 22:20:08,477          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/impeachment-e-recado-das-ruas-para-combater-a-pandemia.shtml
+2021-06-04 22:20:08,482          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/04/escanteado-por-biden-bolsonaro-usa-ate-gravata-verde-para-pedir-dinheiro-aos-paises-ricos.shtml
+2021-06-04 22:20:08,482          root     INFO: Finished script
