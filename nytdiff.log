@@ -1,26 +1,13 @@
-2021-06-04 14:59:38,565          root     INFO: Starting script
-2021-06-04 14:59:39,369          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-04 14:59:40,026          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-04 14:59:40,678          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-04 14:59:40,843          root     INFO: Parsing R7 - Brasil
-2021-06-04 14:59:40,995          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/06/justica-vai-leiloar-bens-da-igreja-de-valdemiro-santiago-apos-calote.shtml
-2021-06-04 14:59:48,760          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-troca-farpas-com-doria-sobre-vacinas-pare-de-palanque-04062021
-2021-06-04 14:59:48,774          root     INFO: New article tracked: http://noticias.r7.com/brasil/executiva-do-psdb-apresentara-na-terca-8-parecer-sobre-previas-04062021
-2021-06-04 14:59:48,787          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-ministro-sobre-arquivamento-de-caso-pazuello-vergonha-a-todos-04062021
-2021-06-04 14:59:48,801          root     INFO: New article tracked: http://noticias.r7.com/brasil/alertas-de-desmatamento-na-amazonia-saltam-64-em-maio-04062021
-2021-06-04 14:59:48,816          root     INFO: New article tracked: http://noticias.r7.com/brasil/live-jr-debate-lei-mais-dura-para-quem-pratica-crimes-virtuais-04062021
-2021-06-04 14:59:48,832          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/saude-e-governadores-sao-foco-dos-proximos-depoimentos-na-cpi-04062021
-2021-06-04 14:59:48,847          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-libera-saque-do-auxilio-emergencial-para-23-milhoes-04062021
-2021-06-04 14:59:48,860          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-decide-hoje-sobre-importacao-da-sputnik-v-e-covaxin-04062021
-2021-06-04 14:59:48,873          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-deve-entregar-hoje-mais-51-milhoes-da-astrazeneca-04062021
-2021-06-04 14:59:48,885          root     INFO: New article tracked: http://noticias.r7.com/brasil/e-hora-de-reagir-antes-que-seja-tarde-diz-jungmann-sobre-pazuello-03062021
-2021-06-04 14:59:48,896          root     INFO: New article tracked: http://noticias.r7.com/brasil/salles-diz-que-se-reuniu-tres-vezes-com-madeireiros-e-parlamentares-03062021
-2021-06-04 14:59:48,908          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-suspende-desocupacoes-de-areas-habitadas-antes-da-pandemia-03062021
-2021-06-04 14:59:48,923          root     INFO: New article tracked: http://noticias.r7.com/brasil/documento-de-ministerio-aponta-contradicao-em-fala-de-pazuello-03062021
-2021-06-04 14:59:48,937          root     INFO: New article tracked: http://noticias.r7.com/brasil/sem-citar-pazuello-bolsonaro-fala-sobre-punicoes-nas-forcas-armadas-03062021
-2021-06-04 14:59:48,953          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-diz-esperar-que-decisao-do-exercito-seja-de-retirada-03062021
-2021-06-04 14:59:48,966          root     INFO: New article tracked: http://noticias.r7.com/brasil/mais-um-lote-com-527-mil-doses-de-vacina-da-pfizer-chega-ao-brasil-03062021
-2021-06-04 14:59:48,978          root     INFO: New article tracked: http://noticias.r7.com/brasil/partidarizacao-das-forcas-ameaca-democracia-diz-presidente-da-oab-03062021
-2021-06-04 14:59:48,991          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputados-criticam-exercito-por-deixar-pazuello-impune-03062021
-2021-06-04 14:59:49,067          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/05/existem-emendas-orcamentarias-em-outras-democracias.shtml
-2021-06-04 14:59:49,069          root     INFO: Finished script
+2021-06-04 16:04:29,826          root     INFO: Starting script
+2021-06-04 16:04:30,627          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-04 16:04:31,274          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-04 16:04:31,928          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-04 16:04:32,210          root     INFO: Parsing R7 - Brasil
+2021-06-04 16:04:32,381          root     INFO: Justiça vai leiloar bens da <del>Igreja</del> <ins>igreja</ins> de Valdemiro Santiago após calote
+2021-06-04 16:04:34,160          root     INFO: Media ready with ids: 1400845942480375809
+2021-06-04 16:04:34,160          root     INFO: Text to tweet: Modificação do Título
+2021-06-04 16:04:34,160          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/06/justica-vai-leiloar-bens-da-igreja-de-valdemiro-santiago-apos-calote.shtml
+2021-06-04 16:04:34,169          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/06/justica-vai-leiloar-bens-da-igreja-de-valdemiro-santiago-apos-calote.shtml
+2021-06-04 16:04:34,375          root     INFO: Replying to: 1400845944548122633
+2021-06-04 16:04:34,611          root     INFO: Id to store: 1400845945328357378
+2021-06-04 16:04:42,311          root     INFO: Finished script
