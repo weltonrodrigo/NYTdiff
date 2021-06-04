@@ -1,12 +1,19 @@
-2021-06-04 19:53:21,051          root     INFO: Starting script
-2021-06-04 19:53:21,868          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-04 19:53:22,522          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-04 19:53:23,181          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-04 19:53:23,383          root     INFO: Parsing R7 - Brasil
-2021-06-04 19:53:26,197          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/movimento-conservador-de-pe-denuncia-vereadora-que-foi-atacada-com-spray-de-pimenta.shtml
-2021-06-04 19:53:26,212          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/relator-diz-que-cpi-pode-mandar-representante-aos-eua-para-ouvir-arthur-weintraub-sobre-gabinete-paralelo.shtml
-2021-06-04 19:53:26,226          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4513
-2021-06-04 19:53:32,053          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/aliados-de-doria-vao-insistir-em-voto-direto-nas-previas-do-psdb-mas-tucanos-preevem-nova-derrota.shtml
-2021-06-04 19:53:32,064          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/tiroteio-de-junho-veja-quem-sao-os-autores-dos-disparos-politicos-e-os-alvos-criticados-do-mes.shtml
-2021-06-04 19:53:32,070          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/prefeito-de-sao-paulo-nunes-diz-que-nao-ve-problemas-em-receber-copa-america-na-cidade.shtml
-2021-06-04 19:53:32,070          root     INFO: Finished script
+2021-06-04 20:53:27,309          root     INFO: Starting script
+2021-06-04 20:53:28,229          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-04 20:53:28,937          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-04 20:53:29,612          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-04 20:53:29,766          root     INFO: Parsing R7 - Brasil
+2021-06-04 20:53:32,908          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/em-reuniao-virologista-sugeriu-a-bolsonaro-criar-gabinete-da-sombra-contra-covid.shtml
+2021-06-04 20:53:32,923          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/citado-na-cpi-da-covid-penis-inflavel-existiu-e-foi-usado-em-campanha-sobre-hiv.shtml
+2021-06-04 20:53:32,943          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/governadores-pedem-a-anvisa-celeridade-em-analise-de-testes-da-butanvac-e-da-producao-de-insumos-para-vacinas.shtml
+2021-06-04 20:53:33,106          root     INFO: Parlamentares que integram partidos de oposição e de centro, como MDB e PL, iniciaram mobilização nesta sexta-feira (3) para impulsionar a PEC (proposta de emenda à <del>Constiuição)</del> <ins>Constituição)</ins> da deputada Perpétua Almeida (PC do B-AC), que tem o objetivo de impedir que militares da ativa ocupem cargos políticos em governos. Leia mais (06/04/2021 - 10h00)
+2021-06-04 20:53:34,995          root     INFO: Media ready with ids: 1400918675641745410
+2021-06-04 20:53:34,996          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-04 20:53:34,996          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/parlamentares-se-mobilizam-por-pec-para-barrar-militares-da-ativa-em-cargos-politicos.shtml
+2021-06-04 20:53:35,007          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/parlamentares-se-mobilizam-por-pec-para-barrar-militares-da-ativa-em-cargos-politicos.shtml
+2021-06-04 20:53:35,212          root     INFO: Replying to: 1400918677235568644
+2021-06-04 20:53:35,474          root     INFO: Id to store: 1400918678066143232
+2021-06-04 20:53:41,698          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2021/06/os-impactos-das-manifestacoes-contra-bolsonaro-ouca-podcast.shtml
+2021-06-04 20:53:41,703          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/frentes-que-puxaram-atos-contra-bolsonaro-se-reunem-nesta-terca-pra-discutir-novas-mobilizacoes.shtml
+2021-06-04 20:53:41,708          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/ele-nao-vai-me-frustrar-diz-marco-aurelio-sobre-demora-de-fux-para-colocar-suspeicao-de-sergio-moro-na-pauta.shtml
+2021-06-04 20:53:41,709          root     INFO: Finished script
