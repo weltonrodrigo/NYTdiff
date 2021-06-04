@@ -1,8 +1,16 @@
-2021-06-04 12:37:30,188          root     INFO: Starting script
-2021-06-04 12:37:31,138          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-04 12:37:31,926          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-04 12:37:32,715          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-04 12:37:32,937          root     INFO: Parsing R7 - Brasil
-2021-06-04 12:37:37,976          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/seminariosfolha/2021/06/falta-de-infraestrutura-e-de-incentivos-fiscais-dificultam-reciclagem.shtml
-2021-06-04 12:37:40,817          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://aovivo.folha.uol.com.br/mundo/2021/04/22/5976-acompanhe-a-cupula-de-lideres-sobre-o-clima-convocada-por-joe-biden.shtml#post407673
-2021-06-04 12:37:40,818          root     INFO: Finished script
+2021-06-04 14:04:44,832          root     INFO: Starting script
+2021-06-04 14:04:45,792          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-04 14:04:46,580          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-04 14:04:47,371          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-04 14:04:47,629          root     INFO: Parsing R7 - Brasil
+2021-06-04 14:04:47,801          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/terra-vegana/2021/06/e-impossivel-ser-ecologico-enchendo-a-ecobag-de-carne-e-queijo.shtml
+2021-06-04 14:04:47,818          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/lula-vai-repetir-a-historia-de-brizola.shtml
+2021-06-04 14:04:50,450          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/vergonha-e-desmoralizacao-para-todos-diz-santos-cruz-sobre-ausencia-de-punicao-para-pazuello.shtml
+2021-06-04 14:04:50,464          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/parlamentares-se-mobilizam-por-pec-para-barrar-militares-da-ativa-em-cargos-politicos.shtml
+2021-06-04 14:04:50,477          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/lula-vai-repetir-a-historia-de-brizola.shtml
+2021-06-04 14:04:56,179          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/05/a-capitulacao-de-fhc.shtml
+2021-06-04 14:04:56,183          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2021/05/desconexao-digital.shtml
+2021-06-04 14:04:56,189          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/05/ministros-de-bolsonaro-simulam-entrega-de-equipamentos-que-ja-tinham-sido-enviados-por-governo-de-pe.shtml
+2021-06-04 14:04:56,194          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/presidente-do-patriota-que-pode-receber-bolsonaro-destinou-r-11-mi-de-verba-publica-a-parentes.shtml
+2021-06-04 14:04:56,198          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/05/cpi-quer-esclarecer-reunioes-de-medica-com-bolsonaro-e-decreto-para-mudar-bula-da-cloroquina.shtml
+2021-06-04 14:04:56,199          root     INFO: Finished script
