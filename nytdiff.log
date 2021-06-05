@@ -1,6 +1,8 @@
-2021-06-05 11:01:53,045          root     INFO: Starting script
-2021-06-05 11:01:54,003          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-05 11:01:54,790          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-05 11:01:55,558          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-05 11:01:55,808          root     INFO: Parsing R7 - Brasil
-2021-06-05 11:02:03,684          root     INFO: Finished script
+2021-06-05 11:51:57,010          root     INFO: Starting script
+2021-06-05 11:51:57,975          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-05 11:51:58,747          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-05 11:51:59,519          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-05 11:51:59,745          root     INFO: Parsing R7 - Brasil
+2021-06-05 11:52:00,251          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/america-latina-busca-protecao-social.shtml
+2021-06-05 11:52:08,045          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/a-origem-do-virus.shtml
+2021-06-05 11:52:08,046          root     INFO: Finished script
