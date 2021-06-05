@@ -1,20 +1,15 @@
-2021-06-05 15:52:20,802          root     INFO: Starting script
-2021-06-05 15:52:21,935          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-05 15:52:22,719          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-05 15:52:23,510          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-05 15:52:23,694          root     INFO: Parsing R7 - Brasil
-2021-06-05 15:52:26,847          root     INFO: Cúpula da CPI deixa Pazuello de lado e irá focar <del>em</del> investigação de gabinete paralelo
-2021-06-05 15:52:28,737          root     INFO: Media ready with ids: 1401205287663583234
-2021-06-05 15:52:28,737          root     INFO: Text to tweet: Modificação do Título
-2021-06-05 15:52:28,737          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cupula-da-cpi-deixa-pazuello-de-lado-e-ira-focar-em-investigacao-de-gabinete-paralelo.shtml
-2021-06-05 15:52:28,753          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cupula-da-cpi-deixa-pazuello-de-lado-e-ira-focar-em-investigacao-de-gabinete-paralelo.shtml
-2021-06-05 15:52:28,956          root     INFO: Replying to: 1401205289764986880
-2021-06-05 15:52:29,196          root     INFO: Id to store: 1401205290524102658
-2021-06-05 15:52:29,204          root     INFO: A cúpula da CPI da Covid decidiu deixar momentaneamente de lado questões relativas ao ex-ministro da Saúde e general da ativa Eduardo Pazuello. O foco da investigação agora é o chamado "gabinete paralelo". <ins>?A nova tendência se dá após dois fatos. O primeiro é a decisão do Exército de não punir Pazuello por participar de ato ao lado de Jair Bolsonaro. O segundo é o ressurgimento de um vídeo de uma reunião no Planalto, transmitida no Facebook do presidente, na qual foi sugerido um "gabinete das sombras".</ins> Leia mais (06/05/2021 - 12h00)
-2021-06-05 15:52:30,980          root     INFO: Media ready with ids: 1401205297495089153
-2021-06-05 15:52:30,981          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-05 15:52:30,981          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cupula-da-cpi-deixa-pazuello-de-lado-e-ira-focar-em-investigacao-de-gabinete-paralelo.shtml
-2021-06-05 15:52:30,991          root     INFO: Replying to: 1401205290524102658
-2021-06-05 15:52:31,222          root     INFO: Id to store: 1401205299034349572
-2021-06-05 15:52:37,298          root     INFO: Removed http://noticias.r7.com/brasil/ons-defende-liberar-mais-agua-em-2-usinas-e-poupar-reservatorios-05062021
-2021-06-05 15:52:37,298          root     INFO: Finished script
+2021-06-05 16:22:27,640          root     INFO: Starting script
+2021-06-05 16:22:28,624          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-05 16:22:29,448          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-05 16:22:30,287          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-05 16:22:30,489          root     INFO: Parsing R7 - Brasil
+2021-06-05 16:22:38,311          root     INFO: Removed http://noticias.r7.com/brasil/pgr-pede-ao-stf-arquivar-acao-sobre-atos-antidemocraticos-04062021
+2021-06-05 16:22:38,316          root     INFO: Removed http://noticias.r7.com/brasil/fotos/copa-america-no-brasil-alta-do-pib-e-cpi-da-covid-marcam-semana-05062021
+2021-06-05 16:22:38,320          root     INFO: Removed http://noticias.r7.com/brasil/mt-rj-e-df-seriam-top-5-em-ranking-de-mortes-por-paises-na-pandemia-05062021
+2021-06-05 16:22:38,325          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-atinge-marca-de-50-milhoes-de-vacinas-entregues-04062021
+2021-06-05 16:22:38,329          root     INFO: Removed http://noticias.r7.com/brasil/lixo-mal-descartado-em-aterros-e-lixoes-cresce-16-em-uma-decada-05062021
+2021-06-05 16:22:38,332          root     INFO: Removed http://noticias.r7.com/brasil/senado-defende-depoimentos-de-governadores-na-cpi-da-covid-04062021
+2021-06-05 16:22:38,336          root     INFO: Removed http://noticias.r7.com/brasil/pgr-defende-que-eduardo-bim-seja-alvo-de-inquerito-de-salles-04062021
+2021-06-05 16:22:38,340          root     INFO: Removed http://noticias.r7.com/brasil/juiz-marcelo-bretas-e-acusado-de-negociar-penas-e-influenciar-eleicao-04062021
+2021-06-05 16:22:38,344          root     INFO: Removed http://noticias.r7.com/brasil/brasil-e-o-66-que-mais-vacina-em-proporcao-e-o-4-em-numeros-totais-05062021
+2021-06-05 16:22:38,345          root     INFO: Finished script
