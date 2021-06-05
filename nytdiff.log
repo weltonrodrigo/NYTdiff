@@ -1,8 +1,26 @@
-2021-06-05 11:51:57,010          root     INFO: Starting script
-2021-06-05 11:51:57,975          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-05 11:51:58,747          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-05 11:51:59,519          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-05 11:51:59,745          root     INFO: Parsing R7 - Brasil
-2021-06-05 11:52:00,251          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/america-latina-busca-protecao-social.shtml
-2021-06-05 11:52:08,045          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/a-origem-do-virus.shtml
-2021-06-05 11:52:08,046          root     INFO: Finished script
+2021-06-05 12:22:19,750          root     INFO: Starting script
+2021-06-05 12:22:20,872          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-05 12:22:21,550          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-05 12:22:22,231          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-05 12:22:22,393          root     INFO: Parsing R7 - Brasil
+2021-06-05 12:22:30,325          root     INFO: New article tracked: http://noticias.r7.com/brasil/ons-defende-liberar-mais-agua-em-2-usinas-e-poupar-reservatorios-05062021
+2021-06-05 12:22:30,343          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/copa-america-no-brasil-alta-do-pib-e-cpi-da-covid-marcam-semana-05062021
+2021-06-05 12:22:30,356          root     INFO: New article tracked: http://noticias.r7.com/brasil/mt-rj-e-df-seriam-top-5-em-ranking-de-mortes-por-paises-na-pandemia-05062021
+2021-06-05 12:22:30,369          root     INFO: New article tracked: http://noticias.r7.com/brasil/lixo-mal-descartado-em-aterros-e-lixoes-cresce-16-em-uma-decada-05062021
+2021-06-05 12:22:30,391          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-e-o-66-que-mais-vacina-em-proporcao-e-o-4-em-numeros-totais-05062021
+2021-06-05 12:22:30,404          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-defende-que-eduardo-bim-seja-alvo-de-inquerito-de-salles-04062021
+2021-06-05 12:22:30,417          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiz-marcelo-bretas-e-acusado-de-negociar-penas-e-influenciar-eleicao-04062021
+2021-06-05 12:22:30,431          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-pede-ao-stf-arquivar-acao-sobre-atos-antidemocraticos-04062021
+2021-06-05 12:22:30,443          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-atinge-marca-de-50-milhoes-de-vacinas-entregues-04062021
+2021-06-05 12:22:30,454          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-defende-depoimentos-de-governadores-na-cpi-da-covid-04062021
+2021-06-05 12:22:30,731          root     INFO: Removed http://noticias.r7.com/brasil/salles-diz-que-se-reuniu-tres-vezes-com-madeireiros-e-parlamentares-03062021
+2021-06-05 12:22:30,736          root     INFO: Removed http://noticias.r7.com/brasil/e-hora-de-reagir-antes-que-seja-tarde-diz-jungmann-sobre-pazuello-03062021
+2021-06-05 12:22:30,741          root     INFO: Removed http://noticias.r7.com/brasil/sem-citar-pazuello-bolsonaro-fala-sobre-punicoes-nas-forcas-armadas-03062021
+2021-06-05 12:22:30,746          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-deve-entregar-hoje-mais-51-milhoes-da-astrazeneca-04062021
+2021-06-05 12:22:30,750          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-decide-hoje-sobre-importacao-da-sputnik-v-e-covaxin-04062021
+2021-06-05 12:22:30,755          root     INFO: Removed http://noticias.r7.com/brasil/barroso-suspende-desocupacoes-de-areas-habitadas-antes-da-pandemia-03062021
+2021-06-05 12:22:30,759          root     INFO: Removed http://noticias.r7.com/brasil/documento-de-ministerio-aponta-contradicao-em-fala-de-pazuello-03062021
+2021-06-05 12:22:30,764          root     INFO: Removed http://noticias.r7.com/brasil/governo-libera-saque-do-auxilio-emergencial-para-23-milhoes-04062021
+2021-06-05 12:22:30,769          root     INFO: Removed http://noticias.r7.com/brasil/renan-diz-esperar-que-decisao-do-exercito-seja-de-retirada-03062021
+2021-06-05 12:22:30,774          root     INFO: Removed http://noticias.r7.com/brasil/mais-um-lote-com-527-mil-doses-de-vacina-da-pfizer-chega-ao-brasil-03062021
+2021-06-05 12:22:30,774          root     INFO: Finished script
