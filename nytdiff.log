@@ -1,12 +1,8 @@
-2021-06-04 23:12:09,141          root     INFO: Starting script
-2021-06-04 23:12:09,935          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-04 23:12:10,579          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-04 23:12:11,224          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-04 23:12:11,432          root     INFO: Parsing R7 - Brasil
-2021-06-04 23:12:11,582          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/forca-enfraquecida.shtml
-2021-06-04 23:12:14,299          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pgr-pede-ao-stf-arquivamento-de-investigacao-de-bolsonaristas-no-inquerito-dos-atos-antidemocraticos.shtml
-2021-06-04 23:12:14,317          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-criticas-a-exercito-por-caso-pazuello-carlos-bolsonaro-associa-lula-e-defesa-sob-petista-a-beijo-gay.shtml
-2021-06-04 23:12:20,156          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/governadores-convocam-reuniao-para-debater-medidas-contra-3a-onda-de-covid-19-e-aceleracao-da-vacinacao.shtml
-2021-06-04 23:12:20,161          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/esporte/2021/06/supremo-solicita-informacoes-ao-governo-bolsonaro-sobre-copa-america-no-brasil.shtml
-2021-06-04 23:12:20,166          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/05/adoracao-pela-ciencia-se-tornou-quase-religiosa-e-teria-deixado-comte-mudo.shtml
-2021-06-04 23:12:20,166          root     INFO: Finished script
+2021-06-05 00:01:02,590          root     INFO: Starting script
+2021-06-05 00:01:03,392          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-05 00:01:04,051          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-05 00:01:04,713          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-05 00:01:04,913          root     INFO: Parsing R7 - Brasil
+2021-06-05 00:01:07,124          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-governador-pezao-e-condenado-a-mais-de-98-anos-de-prisao-na-lava-jato.shtml
+2021-06-05 00:01:11,611          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/comportamento-de-pms-gera-alarme-sobre-tatica-de-bolsonaro-para-2022.shtml
+2021-06-05 00:01:11,612          root     INFO: Finished script
