@@ -1,54 +1,10 @@
-2021-06-05 03:36:56,446          root     INFO: Starting script
-2021-06-05 03:36:57,434          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-05 03:36:58,216          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-05 03:36:59,008          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-05 03:36:59,242          root     INFO: Parsing R7 - Brasil
-2021-06-05 03:36:59,380          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2021/06/a-importancia-da-infraestrutura-dos-bairros-na-mobilidade-social-intergeracional.shtml
-2021-06-05 03:36:59,396          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/06/bolsonaro-e-a-anarquia-militar.shtml
-2021-06-05 03:36:59,409          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/06/temos-de-resistir-independentemente-da-guerra-que-travamos.shtml
-2021-06-05 03:36:59,422          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/06/aviso.shtml
-2021-06-05 03:36:59,434          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/06/nao-e-mais-o-momento-de-votar-reformas-constitucionais-complexas.shtml
-2021-06-05 03:36:59,447          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/e-correto-que-juizes-e-procuradores-tenham-ferias-de-60-dias-por-ano-sim.shtml
-2021-06-05 03:36:59,459          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/marco-inovador.shtml
-2021-06-05 03:36:59,471          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/e-correto-que-juizes-e-procuradores-tenham-ferias-de-60-dias-por-ano-nao.shtml
-2021-06-05 03:36:59,484          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/06/o-bota-dentro-de-eduardo-paes.shtml
-2021-06-05 03:36:59,500          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/06/planeta-terra-na-uti.shtml
-2021-06-05 03:36:59,513          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/paises-precisam-de-exercitos.shtml
-2021-06-05 03:37:01,840          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/comandantes-de-tropas-do-exercito-temem-efeito-de-absolvicao-de-pazuello-e-buscam-conter-danos.shtml
-2021-06-05 03:37:01,853          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ronaldo-caiado-fala-em-questao-nacional-e-indica-intervencao-por-alckmin-no-dem-de-sp.shtml
-2021-06-05 03:37:01,867          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/para-lideres-do-centrao-criacao-de-comissao-especial-deve-atrasar-reforma-administrativa.shtml
-2021-06-05 03:37:01,880          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/renan-apresenta-ao-stf-pedido-para-participar-de-acao-do-governo-contra-lockdown-de-governadores.shtml
-2021-06-05 03:37:01,892          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/pesquisa-do-senado-aponta-que-58-dos-ouvidos-leram-noticias-falsas-sobre-vacinas-nas-redes-sociais.shtml
-2021-06-05 03:37:01,905          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/06/aviso.shtml
-2021-06-05 03:37:01,916          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/reducao-do-numero-de-partidos-ajudaria-a-deter-corrupcao-no-brasil-diz-especialista-americana.shtml
-2021-06-05 03:37:01,928          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/sindicato-da-pf-de-sp-diz-que-reforma-administrativa-de-bolsonaro-pode-inviabilizar-atuacao-de-policiais.shtml
-2021-06-05 03:37:04,301          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/david-miranda-quer-proibir-empresas-com-passivo-ambiental-de-fazerem-propaganda-de-sua-responsabilidade.shtml
-2021-06-05 03:37:04,313          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/seminariosfolha/2021/06/avanco-populacional-e-economia-predatoria-poem-amazonia-nos-limites-da-sustentabilidade.shtml
-2021-06-05 03:37:06,799          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-pretende-convocar-carlos-bolsonaro-para-depor-diz-renan-04062021
-2021-06-05 03:37:06,811          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos-mostram-bolsonaro-sendo-aconselhado-por-ministerio-paralelo-04062021
-2021-06-05 03:37:06,823          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-vai-antecipar-3-milhoes-de-doses-da-johnson-diz-queiroga-04062021
-2021-06-05 03:37:06,835          root     INFO: New article tracked: http://noticias.r7.com/brasil/vice-da-cpi-diz-que-53-e-mails-da-pfizer-nao-tiveram-resposta-04062021
-2021-06-05 03:37:07,289          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/um-tsunami-se-aproxima.shtml
-2021-06-05 03:37:07,294          root     INFO: Removed http://noticias.r7.com/brasil/partidarizacao-das-forcas-ameaca-democracia-diz-presidente-da-oab-03062021
-2021-06-05 03:37:07,299          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/esporte/2021/06/cbf-aproveita-foco-em-bolsonaro-para-adotar-postura-de-coadjuvante-sobre-copa-america.shtml
-2021-06-05 03:37:07,303          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pablo-acosta/2021/05/precisamos-atuar-agora-para-recuperar-a-perda-educacional.shtml
-2021-06-05 03:37:07,308          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/medica-contradiz-anvisa-e-mandetta-na-cpi-da-covid-e-relata-reunioes-da-gestao-bolsonaro-por-tratamento-precoce.shtml
-2021-06-05 03:37:07,313          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/copa-america-no-brasil-e-inoportuna-e-desaconselhavel-diz-conselho-de-secretarios-de-saude.shtml
-2021-06-05 03:37:07,317          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/nao-e-caminhada-de-um-grupo-que-vai-fazer-andar-impeachment-de-bolsonaro-afirma-lira.shtml
-2021-06-05 03:37:07,322          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-censo-e-um-exercicio-de-cidadania.shtml
-2021-06-05 03:37:07,326          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/05/palmeiras-esta-bem-servido-de-camisa-10.shtml
-2021-06-05 03:37:07,331          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2021/05/doia-e-eu-nao-sabia.shtml
-2021-06-05 03:37:07,336          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cupula-da-seguranca-de-pe-recebeu-alerta-sobre-excessos-policiais-dois-dias-antes-de-protesto-contra-bolsonaro.shtml
-2021-06-05 03:37:07,341          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/05/brasil-vai-improvisar-a-copa-america-para-salvar-a-conmebol.shtml
-2021-06-05 03:37:07,345          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joao-wainer/2021/05/vai-passar.shtml
-2021-06-05 03:37:07,350          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-da-parecer-favoravel-a-cassacao-do-mandato-da-deputada-flordelis.shtml
-2021-06-05 03:37:07,355          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://ambiencia.blogfolha.uol.com.br/?p=933
-2021-06-05 03:37:07,360          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/05/bolsonaro-cbf-e-conmebol-querem-realizar-a-cova-america.shtml
-2021-06-05 03:37:07,364          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/04/leia-a-integra-do-discurso-de-bolsonaro-na-cupula-do-clima-com-checagens-e-contextualizacao.shtml
-2021-06-05 03:37:07,369          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-nomeia-general-pazuello-para-atuar-em-secretaria-vinculada-a-presidencia.shtml
-2021-06-05 03:37:07,375          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/05/voce-morrera-de-saudades-do-temer-alertava-o-meu-eu-do-futuro-em-2017.shtml
-2021-06-05 03:37:07,379          root     INFO: Removed http://noticias.r7.com/brasil/deputados-criticam-exercito-por-deixar-pazuello-impune-03062021
-2021-06-05 03:37:07,384          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/alerta-hidrico.shtml
-2021-06-05 03:37:07,390          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/d-dimeros-do-senador-anulam-seriedade-de-whatsapp-emprestada-a-cloroquina.shtml
-2021-06-05 03:37:07,395          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/05/o-centro-ja-venceu-em-2022.shtml
-2021-06-05 03:37:07,396          root     INFO: Finished script
+2021-06-05 04:56:39,850          root     INFO: Starting script
+2021-06-05 04:56:40,687          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-05 04:56:41,330          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-05 04:56:41,976          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-05 04:56:42,233          root     INFO: Parsing R7 - Brasil
+2021-06-05 04:56:49,869          root     INFO: Removed http://noticias.r7.com/brasil/cpi-pretende-convocar-carlos-bolsonaro-para-depor-diz-renan-04062021
+2021-06-05 04:56:49,874          root     INFO: Removed http://noticias.r7.com/brasil/videos-mostram-bolsonaro-sendo-aconselhado-por-ministerio-paralelo-04062021
+2021-06-05 04:56:49,879          root     INFO: Removed http://noticias.r7.com/brasil/brasil-vai-antecipar-3-milhoes-de-doses-da-johnson-diz-queiroga-04062021
+2021-06-05 04:56:49,883          root     INFO: Removed http://noticias.r7.com/brasil/vice-da-cpi-diz-que-53-e-mails-da-pfizer-nao-tiveram-resposta-04062021
+2021-06-05 04:56:49,883          root     INFO: Finished script
