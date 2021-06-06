@@ -1,18 +1,10 @@
-2021-06-06 04:59:35,660          root     INFO: Starting script
-2021-06-06 04:59:36,540          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-06 04:59:37,237          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-06 04:59:37,931          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-06 04:59:38,202          root     INFO: Parsing R7 - Brasil
-2021-06-06 04:59:48,346          root     INFO: New article tracked: http://noticias.r7.com/brasil/weintraub-nega-gabinete-paralelo-eu-fazia-contato-cientifico-05062021
-2021-06-06 04:59:48,362          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-pede-que-deputado-daniel-silveira-volte-para-a-prisao-05062021
-2021-06-06 04:59:48,397          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-aval-com-restricoes-para-sputnik-governadores-se-reunem-05062021
-2021-06-06 04:59:48,411          root     INFO: New article tracked: http://noticias.r7.com/brasil/decisao-sobre-pazuello-destoa-de-historico-de-punicoes-dos-militares-05062021
-2021-06-06 04:59:48,635          root     INFO: País ganha posições em ranking global, mas com menos de 11% de <del>vacinados</del> <ins>imunizados</ins> com a 2ª <del>dose e</del> <ins>dose,</ins> está longe do fim da pandemia
-2021-06-06 04:59:50,329          root     INFO: Media ready with ids: 1401403433945550851
-2021-06-06 04:59:50,329          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-06 04:59:50,330          root     INFO: Article id: http://noticias.r7.com/brasil/brasil-e-o-66-que-mais-vacina-em-proporcao-e-o-4-em-numeros-totais-05062021
-2021-06-06 04:59:50,340          root     INFO: Tweeting url: http://noticias.r7.com/brasil/brasil-e-o-66-que-mais-vacina-em-proporcao-e-o-4-em-numeros-totais-05062021
-2021-06-06 04:59:50,501          root     INFO: Replying to: 1401403435199741955
-2021-06-06 04:59:50,724          root     INFO: Id to store: 1401403435891793922
-2021-06-06 04:59:51,131          root     INFO: Removed http://noticias.r7.com/brasil/live-jr-debate-lei-mais-dura-para-quem-pratica-crimes-virtuais-04062021
-2021-06-06 04:59:51,132          root     INFO: Finished script
+2021-06-06 06:12:07,067          root     INFO: Starting script
+2021-06-06 06:12:07,899          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-06 06:12:08,577          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-06 06:12:09,258          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-06 06:12:09,407          root     INFO: Parsing R7 - Brasil
+2021-06-06 06:12:18,387          root     INFO: Removed http://noticias.r7.com/brasil/decisao-sobre-pazuello-destoa-de-historico-de-punicoes-dos-militares-05062021
+2021-06-06 06:12:18,392          root     INFO: Removed http://noticias.r7.com/brasil/apos-aval-com-restricoes-para-sputnik-governadores-se-reunem-05062021
+2021-06-06 06:12:18,397          root     INFO: Removed http://noticias.r7.com/brasil/weintraub-nega-gabinete-paralelo-eu-fazia-contato-cientifico-05062021
+2021-06-06 06:12:18,402          root     INFO: Removed http://noticias.r7.com/brasil/pgr-pede-que-deputado-daniel-silveira-volte-para-a-prisao-05062021
+2021-06-06 06:12:18,402          root     INFO: Finished script
