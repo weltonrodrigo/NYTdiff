@@ -1,6 +1,13 @@
-2021-06-06 10:42:00,876          root     INFO: Starting script
-2021-06-06 10:42:01,684          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-06 10:42:02,340          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-06 10:42:02,998          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-06 10:42:03,141          root     INFO: Parsing R7 - Brasil
-2021-06-06 10:42:12,488          root     INFO: Finished script
+2021-06-06 11:28:18,381          root     INFO: Starting script
+2021-06-06 11:28:19,375          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-06 11:28:20,186          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-06 11:28:20,997          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-06 11:28:21,226          root     INFO: Parsing R7 - Brasil
+2021-06-06 11:28:21,385          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/casos-do-acaso/2021/06/entre-portugal-e-espanha-a-pandemia-mudou-minha-vida-amorosa.shtml
+2021-06-06 11:28:31,021          root     INFO: Removed http://noticias.r7.com/brasil/acompanhe-ao-vivo-a-transmissao-do-santo-culto-em-seu-lar-06062021
+2021-06-06 11:28:31,028          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2021/06/golpes-digitais-tem-links-anexos-e-erros-de-portugues-lei-sancionada-pode-aumentar-pena.shtml
+2021-06-06 11:28:31,035          root     INFO: Removed http://noticias.r7.com/brasil/mega-sena-acumula-e-premio-pode-chegar-a-r-12-milhoes-05062021
+2021-06-06 11:28:31,050          root     INFO: Removed http://noticias.r7.com/brasil/apreensao-de-crack-e-a-que-mais-cresce-em-rodovias-no-pais-06062021
+2021-06-06 11:28:31,056          root     INFO: Removed http://noticias.r7.com/brasil/allan-dos-santos-tentou-emplacar-secretaria-de-radiofusao-diz-pf-05062021
+2021-06-06 11:28:31,062          root     INFO: Removed http://noticias.r7.com/brasil/antes-de-fechar-as-portas-bares-e-restaurantes-leiloam-ate-uniformes-06062021
+2021-06-06 11:28:31,062          root     INFO: Finished script
