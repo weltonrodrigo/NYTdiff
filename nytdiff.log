@@ -1,22 +1,13 @@
-2021-06-07 21:36:26,419          root     INFO: Starting script
-2021-06-07 21:36:27,209          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-07 21:36:27,851          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-07 21:36:28,496          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-07 21:36:28,658          root     INFO: Parsing R7 - Brasil
-2021-06-07 21:36:28,833          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/06/reacao-padrao-diante-de-comportamentos-abusivos-e-o-silencio.shtml
-2021-06-07 21:36:31,257          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/morre-mozart-vianna-secretario-geral-da-camara-por-25-anos-e-promotor-da-transparencia-no-legislativo.shtml
-2021-06-07 21:36:31,391          root     INFO: Doria toma sol sem máscara em piscina de hotel no Rio e vira alvo de <del>bolsonaristas</del> <ins>críticas em meio à pandemia</ins>
-2021-06-07 21:36:33,050          root     INFO: Media ready with ids: 1402016652431085568
-2021-06-07 21:36:33,050          root     INFO: Text to tweet: Modificação do Título
-2021-06-07 21:36:33,050          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/doria-toma-sol-sem-mascara-em-piscina-de-hotel-no-rio-e-vira-alvo-de-bolsonaristas.shtml
-2021-06-07 21:36:33,059          root     INFO: Replying to: 1401972751833964558
-2021-06-07 21:36:33,316          root     INFO: Id to store: 1402016654016581632
-2021-06-07 21:36:33,322          root     INFO: No momento em que o Brasil <del>ultrapassa</del> <ins>ultrapassava</ins> 473 mil óbitos por Covid após 135 dias com média móvel de mortes acima de 1.000, o governador <ins>de São Paulo,</ins> João Doria <del>(PSDB)</del> <ins>(PSDB),</ins> foi flagrado sem máscara tomando sol na piscina de um hotel em meio a <del>turistas</del> <ins>turistas,</ins> neste domingo <del>(6)</del> <ins>(6),</ins> no Rio de Janeiro. Leia mais (06/07/2021 - 08h32)
-2021-06-07 21:36:35,209          root     INFO: Media ready with ids: 1402016660547063808
-2021-06-07 21:36:35,210          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-07 21:36:35,210          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/doria-toma-sol-sem-mascara-em-piscina-de-hotel-no-rio-e-vira-alvo-de-bolsonaristas.shtml
-2021-06-07 21:36:35,219          root     INFO: Replying to: 1402016654016581632
-2021-06-07 21:36:35,425          root     INFO: Id to store: 1402016662883274753
-2021-06-07 21:36:40,588          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2021/06/gordofobia-mata.shtml
-2021-06-07 21:36:40,592          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/parlamentares-e-magistrados-atuam-nos-bastidores-por-nomes-da-lista-triplice-de-mulheres-que-buscam-vaga-no-tse.shtml
-2021-06-07 21:36:40,593          root     INFO: Finished script
+2021-06-07 22:22:14,662          root     INFO: Starting script
+2021-06-07 22:22:15,667          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-07 22:22:16,473          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-07 22:22:17,270          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-07 22:22:17,482          root     INFO: Parsing R7 - Brasil
+2021-06-07 22:22:17,745          root     INFO: A <del>Canceladora</del> <ins>canceladora</ins> não distingue seus alvos por credo, raça ou ideologia
+2021-06-07 22:22:19,495          root     INFO: Media ready with ids: 1402028171856338946
+2021-06-07 22:22:19,495          root     INFO: Text to tweet: Modificação do Título
+2021-06-07 22:22:19,495          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/06/a-canceladora-nao-distingue-seus-alvos-por-credo-raca-ou-ideologia.shtml
+2021-06-07 22:22:19,506          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/06/a-canceladora-nao-distingue-seus-alvos-por-credo-raca-ou-ideologia.shtml
+2021-06-07 22:22:19,704          root     INFO: Replying to: 1402028173357993993
+2021-06-07 22:22:19,938          root     INFO: Id to store: 1402028174154870785
+2021-06-07 22:22:28,632          root     INFO: Finished script
