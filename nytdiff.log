@@ -1,8 +1,25 @@
-2021-06-07 10:41:40,157          root     INFO: Starting script
-2021-06-07 10:41:40,990          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-07 10:41:41,672          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-07 10:41:42,360          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-07 10:41:42,485          root     INFO: Parsing R7 - Brasil
-2021-06-07 10:41:45,515          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-bolsonaro-ataca-the-economist-apos-reportagem-critica-mostrar-cristo-redentor-sem-ar.shtml
-2021-06-07 10:41:51,811          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/em-pronunciamento-bolsonaro-distorce-dados-de-vacinacao-no-pais-e-erra-sobre-br-163.shtml
-2021-06-07 10:41:51,812          root     INFO: Finished script
+2021-06-07 11:41:24,182          root     INFO: Starting script
+2021-06-07 11:41:25,034          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-07 11:41:25,732          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-07 11:41:26,427          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-07 11:41:26,600          root     INFO: Parsing R7 - Brasil
+2021-06-07 11:41:26,746          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/portunhol-o-reflexo-de-nossas-identidades-hibridas.shtml
+2021-06-07 11:41:26,763          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/um-marco-para-o-mercado-varejista-e-financeiro.shtml
+2021-06-07 11:41:29,734          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/doria-toma-sol-sem-mascara-em-piscina-de-hotel-no-rio-e-vira-alvo-de-bolsonaristas.shtml
+2021-06-07 11:41:29,953          root     INFO: Viagens de Bolsonaro com aglomeração na pandemia representam 90% <del>do</del> <ins>de</ins> gasto <ins>em deslocamentos nacionais</ins>
+2021-06-07 11:41:31,642          root     INFO: Media ready with ids: 1401866909990199299
+2021-06-07 11:41:31,643          root     INFO: Text to tweet: Modificação do Título
+2021-06-07 11:41:31,643          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/viagens-de-bolsonaro-com-aglomeracao-na-pandemia-representam-90-do-gasto.shtml
+2021-06-07 11:41:31,657          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/viagens-de-bolsonaro-com-aglomeracao-na-pandemia-representam-90-do-gasto.shtml
+2021-06-07 11:41:31,855          root     INFO: Replying to: 1401866911428845573
+2021-06-07 11:41:32,128          root     INFO: Id to store: 1401866912242585600
+2021-06-07 11:41:32,135          root     INFO: Cerca de 90% das despesas do presidente Jair Bolsonaro com viagens durante a pandemia estão associadas a agendas que tiveram aglomerações. Pelo menos R$ 16,6 milhões, de um total de R$ 18,4 milhões gastos com deslocamentos, bancaram idas a eventos em que o presidente contrariou as recomendações de enfrentamento ao novo coronavírus. <del>Desse total, as viagens mais caras, entre março do ano passado e o mesmo mês deste ano, foram para folgas nas praias de Guarujá (SP) e São Francisco do Sul (SC), que somaram R$ 3,5 milhões. Pressionado pela queda de popularidade, Bolsonaro intensificou agendas fora de Brasília mesmo na crise sanitária. Ele disse a apoiadores na quinta-feira (3) que planeja duas saídas por semana. Uma viagem de dois dias pelo interior paulista, em setembro de 2020, custou R$ 820 mil. Sem máscara, contrariando decreto estadual, o presidente atraiu dezenas de pessoas em Eldorado (SP), cidade onde passou parte da infância e da adolescência. No mesmo passeio, Bolsonaro fez uma visita relâmpago ao posto da PRF (Polícia Rodoviária Federal) de Registro (SP). À beira da estrada, ele vestiu o boné dos policiais e acenou aos motoristas por cerca de uma hora.</del> Leia mais (06/06/2021 - 23h15)
+2021-06-07 11:41:34,174          root     INFO: Media ready with ids: 1401866919767117825
+2021-06-07 11:41:34,174          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-07 11:41:34,174          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/viagens-de-bolsonaro-com-aglomeracao-na-pandemia-representam-90-do-gasto.shtml
+2021-06-07 11:41:34,188          root     INFO: Replying to: 1401866912242585600
+2021-06-07 11:41:34,533          root     INFO: Id to store: 1401866922023657475
+2021-06-07 11:41:40,908          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/06/politizacao-das-forcas-armadas-e-risco-claro-e-presente.shtml
+2021-06-07 11:41:40,914          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/os-desafios-de-ricardo-nunes.shtml
+2021-06-07 11:41:40,919          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josimarmelo/2021/06/comendo-com-mari-hirata.shtml
+2021-06-07 11:41:40,920          root     INFO: Finished script
