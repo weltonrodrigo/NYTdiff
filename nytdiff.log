@@ -1,8 +1,32 @@
-2021-06-08 04:34:57,825          root     INFO: Starting script
-2021-06-08 04:34:58,780          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-08 04:34:59,573          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-08 04:35:00,366          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-08 04:35:00,587          root     INFO: Parsing R7 - Brasil
-2021-06-08 04:35:00,754          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/06/bolsonaro-e-o-gabinete-da-morte.shtml
-2021-06-08 04:35:09,404          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/06/criacao-do-estado-palestino-independente-e-necessidade-vital-a-israel.shtml
-2021-06-08 04:35:09,405          root     INFO: Finished script
+2021-06-08 05:40:48,578          root     INFO: Starting script
+2021-06-08 05:40:49,433          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-08 05:40:50,089          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-08 05:40:50,735          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-08 05:40:50,902          root     INFO: Parsing R7 - Brasil
+2021-06-08 05:40:58,613          root     INFO: New article tracked: http://noticias.r7.com/brasil/5g-apos-reuniao-com-faria-eua-prometem-aprofundar-cooperacao-07062021
+2021-06-08 05:40:58,635          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-justica-autoriza-envio-da-forca-nacional-a-manaus-07062021
+2021-06-08 05:40:58,648          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-contabiliza-mais-de-40-ataques-e-31-presos-em-manaus-07062021
+2021-06-08 05:40:58,659          root     INFO: New article tracked: http://noticias.r7.com/brasil/copa-america-tera-testes-pcr-a-cada-48h-e-controle-nos-hoteis-07062021
+2021-06-08 05:40:58,670          root     INFO: New article tracked: http://noticias.r7.com/brasil/bia-kicis-disse-ao-stf-que-assessor-acampou-com-o-grupo-dos-300-07062021
+2021-06-08 05:40:58,683          root     INFO: New article tracked: http://noticias.r7.com/brasil/oab-pede-afastamento-de-marcelo-bretas-apos-delacao-de-advogado-07062021
+2021-06-08 05:40:58,696          root     INFO: New article tracked: http://noticias.r7.com/brasil/a-pf-moro-afirma-que-sabia-da-existencia-do-gabinete-do-odio-07062021
+2021-06-08 05:40:58,709          root     INFO: New article tracked: http://noticias.r7.com/brasil/a-pf-eduardo-bolsonaro-negou-possivel-ruptura-entre-poderes-07062021
+2021-06-08 05:40:58,721          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-secretario-da-mesa-da-camara-mozart-vianna-morre-em-brasilia-07062021
+2021-06-08 05:40:58,731          root     INFO: New article tracked: http://noticias.r7.com/brasil/blogueiros-investigados-por-atos-antidemocraticos-se-contradizem-07062021
+2021-06-08 05:40:58,745          root     INFO: New article tracked: http://noticias.r7.com/brasil/carlos-bolsonaro-negou-a-pf-criar-conteudo-contra-democracia-07062021
+2021-06-08 05:40:58,756          root     INFO: New article tracked: http://noticias.r7.com/brasil/tcu-desmente-bolsonaro-sobre-numeros-de-mortes-por-covid-07062021
+2021-06-08 05:40:58,769          root     INFO: New article tracked: http://noticias.r7.com/brasil/anvisa-enviara-lista-de-viajantes-em-quarentena-obrigatoria-para-aereas-07062021
+2021-06-08 05:40:58,781          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-baixa-adesao-vacinacao-contra-a-gripe-entra-na-terceira-fase-07062021
+2021-06-08 05:40:58,793          root     INFO: New article tracked: http://noticias.r7.com/brasil/luiz-carlos-heinze-assume-vaga-de-ciro-nogueira-na-cpi-da-covid-07062021
+2021-06-08 05:40:58,806          root     INFO: New article tracked: http://noticias.r7.com/brasil/salles-entrega-celular-a-policia-federal-19-dias-depois-de-buscas-07062021
+2021-06-08 05:40:58,818          root     INFO: New article tracked: http://noticias.r7.com/brasil/carmen-lucia-autoriza-investigacao-conjunta-de-ibama-e-salles-07062021
+2021-06-08 05:40:58,829          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-e-senado-pressionam-por-ampliacao-do-bolsa-familia-07062021
+2021-06-08 05:40:58,840          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-cobra-governo-para-ter-pacote-completo-da-reforma-tributaria-07062021
+2021-06-08 05:40:58,853          root     INFO: New article tracked: http://noticias.r7.com/brasil/manifestacao-pressionara-camara-a-votar-marco-legal-da-energia-solar-07062021
+2021-06-08 05:40:58,869          root     INFO: Removed http://noticias.r7.com/brasil/manifestantes-fazem-carreata-em-brasilia-contra-a-copa-america-06062021
+2021-06-08 05:40:58,875          root     INFO: Removed http://noticias.r7.com/brasil/videos/para-flavio-bolsonaro-globo-e-tite-tentam-politizar-copa-america-06062021
+2021-06-08 05:40:58,880          root     INFO: Removed http://noticias.r7.com/brasil/em-carta-a-selecao-cpi-diz-que-copa-america-nao-e-segura-06062021
+2021-06-08 05:40:58,885          root     INFO: Removed http://noticias.r7.com/brasil/osmar-terra-nega-existencia-de-gabinete-paralelo-fake-news-06062021
+2021-06-08 05:40:58,890          root     INFO: Removed http://noticias.r7.com/brasil/dificil-acesso-a-hospitais-faz-crescer-mortes-por-covid-19-no-brasil-06062021
+2021-06-08 05:40:58,896          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-diz-que-faltam-documentos-para-a-liberacao-da-butanvac-06062021
+2021-06-08 05:40:58,897          root     INFO: Finished script
