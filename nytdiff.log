@@ -1,8 +1,10 @@
-2021-06-08 21:55:51,253          root     INFO: Starting script
-2021-06-08 21:55:52,099          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-08 21:55:52,788          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-08 21:55:53,472          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-08 21:55:53,707          root     INFO: Parsing R7 - Brasil
-2021-06-08 21:55:53,883          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/06/a-nova-alianca-de-yellen-contra-os-leprechauns.shtml
-2021-06-08 21:56:02,460          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2021/06/aposta-do-amazon-dom-mostra-tragedia-nacional-de-maneira-pasteurizada.shtml
-2021-06-08 21:56:02,461          root     INFO: Finished script
+2021-06-08 22:06:20,627          root     INFO: Starting script
+2021-06-08 22:06:21,486          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-08 22:06:22,140          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-08 22:06:22,797          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-08 22:06:23,060          root     INFO: Parsing R7 - Brasil
+2021-06-08 22:06:23,244          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/a-miopia-politica-do-governo-bolsonaro-na-america-do-sul.shtml
+2021-06-08 22:06:23,261          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/esper-kallas/2021/06/coronavirus-falando-grego.shtml
+2021-06-08 22:06:31,693          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/quem-ganha-com-os-incentivos-fiscais.shtml
+2021-06-08 22:06:31,698          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/e-ele-nem-sequer-enrubesceu.shtml
+2021-06-08 22:06:31,698          root     INFO: Finished script
