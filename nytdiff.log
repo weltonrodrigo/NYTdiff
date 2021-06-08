@@ -1,24 +1,15 @@
-2021-06-08 18:02:05,997          root     INFO: Starting script
-2021-06-08 18:02:06,963          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-08 18:02:07,769          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-08 18:02:08,534          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-08 18:02:08,777          root     INFO: Parsing R7 - Brasil
-2021-06-08 18:02:08,921          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/06/nomadland-e-cruzamento-de-la-la-land-com-neorrealismo-italiano.shtml
-2021-06-08 18:02:11,265          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-se-contrapoe-a-bolsonaro-sobre-cloroquina-na-cpi-mas-reforca-falta-de-autonomia-no-ministerio.shtml
-2021-06-08 18:02:11,275          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/psdb-aprova-regra-de-previas-para-2022-mas-adiamento-sobre-brechas-da-sobrevida-a-plano-de-doria.shtml
-2021-06-08 18:02:11,362          root     INFO: Desmentido pelo TCU, Bolsonaro agora diz que errou, mas insiste em <del>tese de</del> supernotificação de <del>Covid</del> <ins>mortes pelo coronavírus</ins>
-2021-06-08 18:02:13,349          root     INFO: Media ready with ids: 1402325101891162117
-2021-06-08 18:02:13,349          root     INFO: Text to tweet: Modificação do Título
-2021-06-08 18:02:13,349          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/desmentido-pelo-tcu-bolsonaro-agora-diz-que-errou-mas-insiste-em-tese-de-supernotificacao-de-covid.shtml
-2021-06-08 18:02:13,358          root     INFO: Replying to: 1402273621989642248
-2021-06-08 18:02:13,717          root     INFO: Id to store: 1402325104684634120
-2021-06-08 18:02:13,726          root     INFO: <del>Após</del> <ins>Um dia após</ins> ter sido desmentido pelo TCU (Tribunal de Contas da União), o presidente Jair Bolsonaro <del>(sem partido)</del> disse <ins>nesta terça-feira (8)</ins> que <del>"errou"</del> <ins>errou</ins> ao atribuir à corte um documento que questionaria 50% dos registros de morte por Covid-19 no país -o órgão nega ter produzido algo nesse sentido. Leia mais (06/08/2021 - 11h07)
-2021-06-08 18:02:15,533          root     INFO: Media ready with ids: 1402325111764668423
-2021-06-08 18:02:15,533          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-08 18:02:15,533          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/desmentido-pelo-tcu-bolsonaro-agora-diz-que-errou-mas-insiste-em-tese-de-supernotificacao-de-covid.shtml
-2021-06-08 18:02:15,542          root     INFO: Replying to: 1402325104684634120
-2021-06-08 18:02:15,840          root     INFO: Id to store: 1402325113563922440
-2021-06-08 18:02:20,878          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/a-explosao-social-na-colombia-e-a-crise-do-uribismo.shtml
-2021-06-08 18:02:20,882          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/sem-citar-pazuello-bolsonaro-diz-que-e-comum-exercito-nao-aplicar-punicoes.shtml
-2021-06-08 18:02:20,886          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decano-do-stf-afirma-que-absolvicao-de-pazuello-causa-perplexidade-e-abre-preocupante-precedente.shtml
-2021-06-08 18:02:20,887          root     INFO: Finished script
+2021-06-08 18:54:48,475          root     INFO: Starting script
+2021-06-08 18:54:49,477          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-08 18:54:50,311          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-08 18:54:51,132          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-08 18:54:51,400          root     INFO: Parsing R7 - Brasil
+2021-06-08 18:54:54,273          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/pf-indicia-lider-do-governo-bolsonaro-sob-suspeita-de-propina-de-r-10-milhoes-em-obras-no-nordeste.shtml
+2021-06-08 18:54:54,317          root     INFO: Em seu segundo depoimento à CPI da Covid <del>do</del> <ins>no</ins> Senado, o ministro <ins>da Saúde,</ins> Marcelo <del>Queiroga (Saúde)</del> <ins>Queiroga,</ins> mudou <del>nesta terça-feira (8)</del> seu posicionamento em relação à hidroxicloroquina e <del>agora afirma</del> <ins>afirmou nesta terça-feira (8)</ins> que o medicamento não tem eficácia científica comprovada para o tratamento da Covid-19, <del>contrariando o</del> <ins>em um contraponto às ações do</ins> presidente Jair <del>Bolsonaro.</del> <ins>Bolsonaro desde o início da pandemia.</ins> Leia mais (06/08/2021 - 14h44)
+2021-06-08 18:54:56,235          root     INFO: Media ready with ids: 1402338368705470466
+2021-06-08 18:54:56,235          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-08 18:54:56,235          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-se-contrapoe-a-bolsonaro-sobre-cloroquina-na-cpi-mas-reforca-falta-de-autonomia-no-ministerio.shtml
+2021-06-08 18:54:56,250          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-se-contrapoe-a-bolsonaro-sobre-cloroquina-na-cpi-mas-reforca-falta-de-autonomia-no-ministerio.shtml
+2021-06-08 18:54:56,485          root     INFO: Replying to: 1402338370592952324
+2021-06-08 18:54:56,804          root     INFO: Id to store: 1402338371616268290
+2021-06-08 18:55:02,795          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/um-dia-apos-prometer-vacina-na-tv-bolsonaro-insiste-em-remedio-sem-eficacia-e-ataca-cpi.shtml
+2021-06-08 18:55:02,796          root     INFO: Finished script
