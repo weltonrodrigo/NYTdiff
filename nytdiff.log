@@ -1,15 +1,8 @@
-2021-06-08 18:54:48,475          root     INFO: Starting script
-2021-06-08 18:54:49,477          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-08 18:54:50,311          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-08 18:54:51,132          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-08 18:54:51,400          root     INFO: Parsing R7 - Brasil
-2021-06-08 18:54:54,273          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/pf-indicia-lider-do-governo-bolsonaro-sob-suspeita-de-propina-de-r-10-milhoes-em-obras-no-nordeste.shtml
-2021-06-08 18:54:54,317          root     INFO: Em seu segundo depoimento à CPI da Covid <del>do</del> <ins>no</ins> Senado, o ministro <ins>da Saúde,</ins> Marcelo <del>Queiroga (Saúde)</del> <ins>Queiroga,</ins> mudou <del>nesta terça-feira (8)</del> seu posicionamento em relação à hidroxicloroquina e <del>agora afirma</del> <ins>afirmou nesta terça-feira (8)</ins> que o medicamento não tem eficácia científica comprovada para o tratamento da Covid-19, <del>contrariando o</del> <ins>em um contraponto às ações do</ins> presidente Jair <del>Bolsonaro.</del> <ins>Bolsonaro desde o início da pandemia.</ins> Leia mais (06/08/2021 - 14h44)
-2021-06-08 18:54:56,235          root     INFO: Media ready with ids: 1402338368705470466
-2021-06-08 18:54:56,235          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-08 18:54:56,235          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-se-contrapoe-a-bolsonaro-sobre-cloroquina-na-cpi-mas-reforca-falta-de-autonomia-no-ministerio.shtml
-2021-06-08 18:54:56,250          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-se-contrapoe-a-bolsonaro-sobre-cloroquina-na-cpi-mas-reforca-falta-de-autonomia-no-ministerio.shtml
-2021-06-08 18:54:56,485          root     INFO: Replying to: 1402338370592952324
-2021-06-08 18:54:56,804          root     INFO: Id to store: 1402338371616268290
-2021-06-08 18:55:02,795          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/um-dia-apos-prometer-vacina-na-tv-bolsonaro-insiste-em-remedio-sem-eficacia-e-ataca-cpi.shtml
-2021-06-08 18:55:02,796          root     INFO: Finished script
+2021-06-08 19:29:22,710          root     INFO: Starting script
+2021-06-08 19:29:23,542          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-08 19:29:24,188          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-08 19:29:24,836          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-08 19:29:25,037          root     INFO: Parsing R7 - Brasil
+2021-06-08 19:29:27,668          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/conselho-de-etica-aprova-parecer-favoravel-a-cassacao-do-mandato-da-deputada-flordelis.shtml
+2021-06-08 19:29:32,979          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/esporte/2021/06/bolsonaro-ataca-globo-e-luis-roberto-em-defesa-da-copa-america-no-pais.shtml
+2021-06-08 19:29:32,980          root     INFO: Finished script
