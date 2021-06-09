@@ -1,17 +1,26 @@
-2021-06-09 01:51:58,843          root     INFO: Starting script
-2021-06-09 01:51:59,633          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-09 01:52:00,275          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-09 01:52:00,918          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-09 01:52:01,169          root     INFO: Parsing R7 - Brasil
-2021-06-09 01:52:01,350          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/bilionarios-quase-nao-pagam-imposto-nos-eua-mas-a-questao-e-quem-vazou.shtml
-2021-06-09 01:52:03,492          root     INFO: <del>Antes restrito a</del> <ins>Moda entre</ins> milionários, Proust <del>teve pico de popularidade</del> <ins>virou hit popular</ins> no Brasil <del>nos anos</del> <ins>da década de</ins> 1950
-2021-06-09 01:52:05,139          root     INFO: Media ready with ids: 1402443347898273797
-2021-06-09 01:52:05,140          root     INFO: Text to tweet: Modificação do Título
-2021-06-09 01:52:05,140          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/06/antes-restrito-a-milionarios-proust-teve-pico-de-popularidade-no-brasil-nos-anos-1950.shtml
-2021-06-09 01:52:05,149          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/06/antes-restrito-a-milionarios-proust-teve-pico-de-popularidade-no-brasil-nos-anos-1950.shtml
-2021-06-09 01:52:05,352          root     INFO: Replying to: 1402443349324402689
-2021-06-09 01:52:05,589          root     INFO: Id to store: 1402443350104494085
-2021-06-09 01:52:05,926          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49702
-2021-06-09 01:52:11,296          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/centrao-celebra-inflexao-de-bolsonaro-em-pronunciamento-na-tv-sem-apostar-em-moderacao.shtml
-2021-06-09 01:52:11,299          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/06/e-impossivel-entender-a-china-sem-passar-pelo-partido-comunista.shtml
-2021-06-09 01:52:11,300          root     INFO: Finished script
+2021-06-09 02:44:12,974          root     INFO: Starting script
+2021-06-09 02:44:13,853          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-09 02:44:14,524          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-09 02:44:15,183          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-09 02:44:15,431          root     INFO: Parsing R7 - Brasil
+2021-06-09 02:44:23,982          root     INFO: New article tracked: http://noticias.r7.com/brasil/rosa-weber-sera-a-relatora-de-acoes-contra-orcamento-secreto-08062021
+2021-06-09 02:44:23,999          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-dispensa-meta-de-exportacao-a-empresas-de-oxigenio-08062021
+2021-06-09 02:44:24,011          root     INFO: New article tracked: http://noticias.r7.com/brasil/fatos-sao-graves-e-auditor-podera-ser-punido-diz-corregedor-do-tcu-08062021
+2021-06-09 02:44:24,023          root     INFO: New article tracked: http://noticias.r7.com/brasil/cobrado-pelo-stf-por-aglomeracao-bolsonaro-nega-irresponsabilidade-08062021
+2021-06-09 02:44:24,038          root     INFO: New article tracked: http://noticias.r7.com/brasil/fux-se-reune-com-bolsonaro-e-pede-que-adie-indicacao-de-novo-ministro-08062021
+2021-06-09 02:44:24,050          root     INFO: New article tracked: http://noticias.r7.com/brasil/mais-de-70-anos-depois-colegio-naval-passara-a-aceitar-mulheres-08062021
+2021-06-09 02:44:24,064          root     INFO: New article tracked: http://noticias.r7.com/brasil/randolfe-queiroga-procurou-proteger-presidente-da-republica-08062021
+2021-06-09 02:44:24,083          root     INFO: New article tracked: http://noticias.r7.com/brasil/tcu-investigara-auditor-sobre-relatorio-de-mortes-por-covid-19-08062021
+2021-06-09 02:44:24,106          root     INFO: New article tracked: http://noticias.r7.com/brasil/sigilo-de-auditor-do-tcu-tera-de-ser-quebrado-diz-randolfe-rodrigues-08062021
+2021-06-09 02:44:24,123          root     INFO: New article tracked: http://noticias.r7.com/brasil/governador-do-amazonas-pede-ao-stf-para-nao-comparecer-a-cpi-08062021
+2021-06-09 02:44:24,139          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-recebera-3-milhoes-de-doses-da-janssen-validas-ate-dia-27-08062021
+2021-06-09 02:44:24,153          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-alerta-para-falta-de-ifa-de-vacinas-em-julho-e-em-agosto-08062021
+2021-06-09 02:44:24,166          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-quer-ouvir-auditor-do-tcu-sobre-relatorio-de-mortes-por-covid-08062021
+2021-06-09 02:44:24,181          root     INFO: New article tracked: http://noticias.r7.com/brasil/arthur-lira-autoriza-grupo-para-discutir-a-reforma-dos-cartorios-08062021
+2021-06-09 02:44:24,194          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-conitec-vai-decidir-sobre-protocolo-de-tratamento-hospitalar-08062021
+2021-06-09 02:44:24,207          root     INFO: New article tracked: http://noticias.r7.com/brasil/sp-e-roraima-lideram-ranking-de-liberdade-economica-do-brasil-08062021
+2021-06-09 02:44:24,220          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-evita-defender-relatorio-de-bolsonaro-sobre-mortes-da-covid-08062021
+2021-06-09 02:44:24,233          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-julga-quinta-feira-acoes-contra-a-copa-america-no-brasil-08062021
+2021-06-09 02:44:24,247          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-defende-copa-america-e-diz-que-vetou-luana-araujo-08062021
+2021-06-09 02:44:24,259          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-de-etica-aprova-perda-do-mandato-da-deputada-flordelis-08062021
+2021-06-09 02:44:24,271          root     INFO: Finished script
