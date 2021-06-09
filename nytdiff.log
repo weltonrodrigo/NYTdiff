@@ -1,6 +1,25 @@
-2021-06-09 21:39:32,424          root     INFO: Starting script
-2021-06-09 21:39:33,250          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-09 21:39:33,919          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-09 21:39:34,600          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-09 21:39:34,768          root     INFO: Parsing R7 - Brasil
-2021-06-09 21:39:43,661          root     INFO: Finished script
+2021-06-09 21:54:14,047          root     INFO: Starting script
+2021-06-09 21:54:14,867          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-09 21:54:15,529          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-09 21:54:16,194          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-09 21:54:16,420          root     INFO: Parsing R7 - Brasil
+2021-06-09 21:54:19,391          root     INFO: Centrais sindicais estão convocando uma mobilização nacional contra o presidente Jair Bolsonaro para o dia 19 de junho. <ins>A participação desses grupos engrossa o ato que grupos de esquerda já haviam chamado para a mesma data.</ins> Leia mais (06/09/2021 - 17h48)
+2021-06-09 21:54:21,139          root     INFO: Media ready with ids: 1402745908169740290
+2021-06-09 21:54:21,139          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-09 21:54:21,139          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/centrais-sindicais-convocam-mobilizacao-contra-bolsonaro-para-19-de-junho.shtml
+2021-06-09 21:54:21,149          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/centrais-sindicais-convocam-mobilizacao-contra-bolsonaro-para-19-de-junho.shtml
+2021-06-09 21:54:21,317          root     INFO: Replying to: 1402745909486686208
+2021-06-09 21:54:21,605          root     INFO: Id to store: 1402745910300381186
+2021-06-09 21:54:21,882          root     INFO: <del>Corregedor do</del> TCU <del>quer</del> <ins>afasta auditor e pede</ins> investigação da PF sobre documento com dados falsos citados por Bolsonaro
+2021-06-09 21:54:23,516          root     INFO: Media ready with ids: 1402745918139600906
+2021-06-09 21:54:23,516          root     INFO: Text to tweet: Modificação do Título
+2021-06-09 21:54:23,516          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/corregedor-do-tcu-quer-investigacao-da-pf-sobre-documento-com-dados-falsos-citados-por-bolsonaro.shtml
+2021-06-09 21:54:23,528          root     INFO: Replying to: 1402691823982809089
+2021-06-09 21:54:23,781          root     INFO: Id to store: 1402745919573987328
+2021-06-09 21:54:23,789          root     INFO: O <del>ministro-corregedor do TCU, Bruno Dantas, quer que a</del> <ins>TCU (Tribunal de Contas da União) irá pedir à</ins> Polícia Federal <del>investigue a inclusão de</del> <ins>investigação sobre</ins> documento <ins>elaborado por auditor do órgão</ins> com informações distorcidas sobre a <del>Covid dentro do sistema do órgão.</del> <ins>pandemia de Covid.</ins> Leia mais (06/09/2021 - 12h20)
+2021-06-09 21:54:25,499          root     INFO: Media ready with ids: 1402745926201061378
+2021-06-09 21:54:25,499          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-09 21:54:25,501          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/corregedor-do-tcu-quer-investigacao-da-pf-sobre-documento-com-dados-falsos-citados-por-bolsonaro.shtml
+2021-06-09 21:54:25,512          root     INFO: Replying to: 1402745919573987328
+2021-06-09 21:54:25,731          root     INFO: Id to store: 1402745927752900611
+2021-06-09 21:54:31,499          root     INFO: Finished script
