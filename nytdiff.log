@@ -1,6 +1,10 @@
-2021-06-09 14:57:47,247          root     INFO: Starting script
-2021-06-09 14:57:48,305          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-09 14:57:49,113          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-09 14:57:49,918          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-09 14:57:50,222          root     INFO: Parsing R7 - Brasil
-2021-06-09 14:58:00,633          root     INFO: Finished script
+2021-06-09 15:29:45,945          root     INFO: Starting script
+2021-06-09 15:29:46,941          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-09 15:29:47,762          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-09 15:29:48,578          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-09 15:29:48,858          root     INFO: Parsing R7 - Brasil
+2021-06-09 15:29:51,964          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/corregedor-do-tcu-quer-investigacao-da-pf-sobre-documento-com-dados-falsos-citados-por-bolsonaro.shtml
+2021-06-09 15:29:51,979          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/barroso-fala-em-fraudes-e-diz-que-vida-vai-ficar-bem-pior-se-voto-impresso-for-aprovado.shtml
+2021-06-09 15:29:58,665          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-troca-e-afastamentos-na-pm-excesso-policial-em-ato-contra-bolsonaro-leva-a-queda-de-secretario-em-pe.shtml
+2021-06-09 15:29:58,670          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decisao-do-exercito-de-livrar-pazuello-e-criticada-em-diferentes-poderes-por-cotados-para-2022-e-ex-aliados-de-bolsonaro.shtml
+2021-06-09 15:29:58,670          root     INFO: Finished script
