@@ -1,13 +1,8 @@
-2021-06-09 10:57:44,906          root     INFO: Starting script
-2021-06-09 10:57:45,753          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-09 10:57:46,421          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-09 10:57:47,085          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-09 10:57:47,274          root     INFO: Parsing R7 - Brasil
-2021-06-09 10:57:50,703          root     INFO: <del>Entidades</del> <ins>Ofensiva de entidades</ins> e especialistas <del>lançam ofensiva para tentar</del> <ins>tenta</ins> barrar retrocessos na lei eleitoral <ins>para 2022</ins>
-2021-06-09 10:57:52,528          root     INFO: Media ready with ids: 1402580699870281742
-2021-06-09 10:57:52,528          root     INFO: Text to tweet: Modificação do Título
-2021-06-09 10:57:52,528          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entidades-e-especialistas-lancam-ofensiva-para-tentar-barrar-retrocessos-na-lei-eleitoral.shtml
-2021-06-09 10:57:52,539          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entidades-e-especialistas-lancam-ofensiva-para-tentar-barrar-retrocessos-na-lei-eleitoral.shtml
-2021-06-09 10:57:52,713          root     INFO: Replying to: 1402580701715877888
-2021-06-09 10:57:52,917          root     INFO: Id to store: 1402580702365900808
-2021-06-09 10:57:59,020          root     INFO: Finished script
+2021-06-09 11:21:58,082          root     INFO: Starting script
+2021-06-09 11:21:59,054          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-09 11:21:59,854          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-09 11:22:00,632          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-09 11:22:00,876          root     INFO: Parsing R7 - Brasil
+2021-06-09 11:22:01,019          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/henrique-gomes/2021/06/videos-de-ovnis-estao-longe-de-provar-visita-de-ets-a-terra.shtml
+2021-06-09 11:22:09,537          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/forca-enfraquecida.shtml
+2021-06-09 11:22:09,538          root     INFO: Finished script
