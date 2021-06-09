@@ -1,29 +1,8 @@
-2021-06-09 18:19:14,946          root     INFO: Starting script
-2021-06-09 18:19:15,834          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-09 18:19:16,497          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-09 18:19:17,170          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-09 18:19:17,373          root     INFO: Parsing R7 - Brasil
-2021-06-09 18:19:19,985          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/depoimento-de-coronel-a-cpi-da-covid-reforca-lentidao-por-vacina-e-foco-em-tratamento-precoce-na-gestao-pazuello.shtml
-2021-06-09 18:19:20,000          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/sogro-de-auditor-do-tcu-vereador-de-sp-diz-que-genro-nao-agiu-por-ma-fe-e-nao-e-bolsonarista-radical.shtml
-2021-06-09 18:19:20,069          root     INFO: O relator da representação contra o deputado Daniel Silveira (PSL-RJ) no <del>conselho</del> <ins>Conselho</ins> de <del>ética</del> <ins>Ética</ins> da Câmara recomendou a suspensão do mandato do bolsonarista por <del>6</del> <ins>seis</ins> meses por ter publicado um vídeo com ataques ao STF (Supremo Tribunal Federal) e <del>com</del> apologia <del>à</del> <ins>da</ins> ditadura militar. Leia mais (06/09/2021 - 12h28)
-2021-06-09 18:19:21,927          root     INFO: Media ready with ids: 1402691804714131459
-2021-06-09 18:19:21,927          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-09 18:19:21,928          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-no-conselho-de-etica-da-camara-pede-suspensao-por-6-meses-de-mandato-de-daniel-silveira.shtml
-2021-06-09 18:19:21,939          root     INFO: Replying to: 1402669194651570181
-2021-06-09 18:19:22,184          root     INFO: Id to store: 1402691806383509505
-2021-06-09 18:19:22,238          root     INFO: <del>Corregedor do</del> TCU <del>quer</del> <ins>afasta auditor e pede</ins> investigação da PF sobre documento com dados falsos citados por Bolsonaro
-2021-06-09 18:19:23,942          root     INFO: Media ready with ids: 1402691813241204743
-2021-06-09 18:19:23,943          root     INFO: Text to tweet: Modificação do Título
-2021-06-09 18:19:23,943          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/corregedor-do-tcu-quer-investigacao-da-pf-sobre-documento-com-dados-falsos-citados-por-bolsonaro.shtml
-2021-06-09 18:19:23,953          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/corregedor-do-tcu-quer-investigacao-da-pf-sobre-documento-com-dados-falsos-citados-por-bolsonaro.shtml
-2021-06-09 18:19:24,136          root     INFO: Replying to: 1402691814839177218
-2021-06-09 18:19:24,382          root     INFO: Id to store: 1402691815594209287
-2021-06-09 18:19:24,389          root     INFO: O <del>ministro-corregedor do TCU, Bruno Dantas, quer que a</del> <ins>TCU (Tribunal de Contas da União) irá pedir à</ins> Polícia Federal <del>investigue</del> <ins>investigação sobre</ins> a inclusão de documento com informações distorcidas sobre a Covid dentro do sistema do órgão. Leia mais (06/09/2021 - 12h20)
-2021-06-09 18:19:26,118          root     INFO: Media ready with ids: 1402691822376435714
-2021-06-09 18:19:26,119          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-09 18:19:26,119          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/corregedor-do-tcu-quer-investigacao-da-pf-sobre-documento-com-dados-falsos-citados-por-bolsonaro.shtml
-2021-06-09 18:19:26,128          root     INFO: Replying to: 1402691815594209287
-2021-06-09 18:19:26,374          root     INFO: Id to store: 1402691823982809089
-2021-06-09 18:19:31,681          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/sindicato-da-pf-de-sp-diz-que-reforma-administrativa-de-bolsonaro-pode-inviabilizar-atuacao-de-policiais.shtml
-2021-06-09 18:19:31,686          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-governador-pezao-e-condenado-a-mais-de-98-anos-de-prisao-na-lava-jato.shtml
-2021-06-09 18:19:31,689          root     INFO: Finished script
+2021-06-09 19:04:15,638          root     INFO: Starting script
+2021-06-09 19:04:16,723          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-09 19:04:17,524          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-09 19:04:18,320          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-09 19:04:18,604          root     INFO: Parsing R7 - Brasil
+2021-06-09 19:04:21,878          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49706
+2021-06-09 19:04:28,342          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/reducao-do-numero-de-partidos-ajudaria-a-deter-corrupcao-no-brasil-diz-especialista-americana.shtml
+2021-06-09 19:04:28,343          root     INFO: Finished script
