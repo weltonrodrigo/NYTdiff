@@ -1,6 +1,17 @@
-2021-06-09 00:19:34,151          root     INFO: Starting script
-2021-06-09 00:19:35,018          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-09 00:19:35,678          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-09 00:19:36,338          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-09 00:19:36,567          root     INFO: Parsing R7 - Brasil
-2021-06-09 00:19:45,690          root     INFO: Finished script
+2021-06-09 01:51:58,843          root     INFO: Starting script
+2021-06-09 01:51:59,633          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-09 01:52:00,275          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-09 01:52:00,918          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-09 01:52:01,169          root     INFO: Parsing R7 - Brasil
+2021-06-09 01:52:01,350          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/bilionarios-quase-nao-pagam-imposto-nos-eua-mas-a-questao-e-quem-vazou.shtml
+2021-06-09 01:52:03,492          root     INFO: <del>Antes restrito a</del> <ins>Moda entre</ins> milionários, Proust <del>teve pico de popularidade</del> <ins>virou hit popular</ins> no Brasil <del>nos anos</del> <ins>da década de</ins> 1950
+2021-06-09 01:52:05,139          root     INFO: Media ready with ids: 1402443347898273797
+2021-06-09 01:52:05,140          root     INFO: Text to tweet: Modificação do Título
+2021-06-09 01:52:05,140          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/06/antes-restrito-a-milionarios-proust-teve-pico-de-popularidade-no-brasil-nos-anos-1950.shtml
+2021-06-09 01:52:05,149          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/06/antes-restrito-a-milionarios-proust-teve-pico-de-popularidade-no-brasil-nos-anos-1950.shtml
+2021-06-09 01:52:05,352          root     INFO: Replying to: 1402443349324402689
+2021-06-09 01:52:05,589          root     INFO: Id to store: 1402443350104494085
+2021-06-09 01:52:05,926          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49702
+2021-06-09 01:52:11,296          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/centrao-celebra-inflexao-de-bolsonaro-em-pronunciamento-na-tv-sem-apostar-em-moderacao.shtml
+2021-06-09 01:52:11,299          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/06/e-impossivel-entender-a-china-sem-passar-pelo-partido-comunista.shtml
+2021-06-09 01:52:11,300          root     INFO: Finished script
