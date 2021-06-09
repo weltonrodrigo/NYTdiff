@@ -1,6 +1,10 @@
-2021-06-09 09:56:09,472          root     INFO: Starting script
-2021-06-09 09:56:10,470          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-09 09:56:11,270          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-09 09:56:12,075          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-09 09:56:12,318          root     INFO: Parsing R7 - Brasil
-2021-06-09 09:56:21,017          root     INFO: Finished script
+2021-06-09 10:08:27,308          root     INFO: Starting script
+2021-06-09 10:08:28,088          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-09 10:08:28,726          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-09 10:08:29,369          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-09 10:08:29,617          root     INFO: Parsing R7 - Brasil
+2021-06-09 10:08:29,805          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/06/meio-ambiente-responsabilidades-comuns-porem-diferenciadas.shtml
+2021-06-09 10:08:34,372          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/06/meio-ambiente-responsabilidades-comuns-porem-diferenciadas.shtml
+2021-06-09 10:08:36,918          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/06/fenomeno-sarah-j-maas-faz-record-disparar-no-mercado-de-livros-de-fantasia.shtml
+2021-06-09 10:08:36,922          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/veja-quais-sao-os-seis-biomas-brasileiros-tema-foi-alvo-de-discussao-entre-ricardo-salles-e-anitta.shtml
+2021-06-09 10:08:36,923          root     INFO: Finished script
