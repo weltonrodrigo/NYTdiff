@@ -1,28 +1,28 @@
-2021-06-09 16:01:47,678          root     INFO: Starting script
-2021-06-09 16:01:48,641          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-09 16:01:49,313          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-09 16:01:49,996          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-09 16:01:52,634          root     INFO: Parsing R7 - Brasil
-2021-06-09 16:01:56,021          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-no-conselho-de-etica-da-camara-pede-suspensao-por-6-meses-de-mandato-de-daniel-silveira.shtml
-2021-06-09 16:02:01,770          root     INFO: New article tracked: http://noticias.r7.com/brasil/elcio-franco-diz-que-pfizer-exigiu-lei-para-viabilizar-acordo-por-vacina-09062021
-2021-06-09 16:02:01,783          root     INFO: New article tracked: http://noticias.r7.com/brasil/tcu-afasta-auditor-do-grupo-que-fiscaliza-gastos-com-covid-19-09062021
-2021-06-09 16:02:01,799          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-que-raio-de-sistema-falho-e-esse-que-permite-alternancia-09062021
-2021-06-09 16:02:01,813          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-se-manifesta-contra-cheque-em-branco-de-emendas-09062021
-2021-06-09 16:02:01,826          root     INFO: New article tracked: http://noticias.r7.com/brasil/elcio-franco-diz-que-negociacao-por-coronavac-nunca-foi-interrompida-09062021
-2021-06-09 16:02:01,837          root     INFO: New article tracked: http://noticias.r7.com/brasil/voto-em-papel-e-retrocesso-diz-barroso-na-camara-dos-deputados-09062021
-2021-06-09 16:02:01,853          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-criterio-do-tcu-incentiva-notificacoes-de-covid-19-09062021
-2021-06-09 16:02:01,872          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-convoca-auditor-de-estudo-atribuido-ao-tcu-e-osmar-terra-09062021
-2021-06-09 16:02:01,886          root     INFO: New article tracked: http://noticias.r7.com/brasil/sp-rio-e-mais-capitais-avancam-na-vacinacao-da-covid-veja-calendario-09062021
-2021-06-09 16:02:01,901          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-secretario-do-ministerio-da-saude-assista-09062021
-2021-06-09 16:02:01,915          root     INFO: New article tracked: http://noticias.r7.com/brasil/policia-cumpre-mandados-em-17-estados-contra-pornografia-infantil-09062021
-2021-06-09 16:02:01,930          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/operacao-contra-pornografia-cumpre-mandados-em-17-estados-e-5-paises-09062021
-2021-06-09 16:02:01,945          root     INFO: New article tracked: http://noticias.r7.com/brasil/exportacao-de-carne-bovina-cai-em-maio-com-menor-demanda-da-china-09062021
-2021-06-09 16:02:02,048          root     INFO: Ex-secretário executivo, Elcio Franco esteve na cúpula do ministério <del>da Saúde</del> durante <ins>momentos</ins> sensíveis ao governo Bolsonaro na pandemia
-2021-06-09 16:02:03,812          root     INFO: Media ready with ids: 1402657251760947202
-2021-06-09 16:02:03,813          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-09 16:02:03,813          root     INFO: Article id: http://noticias.r7.com/brasil/cpi-ouve-numero-2-de-pazuello-na-saude-sobre-compra-de-vacinas-09062021
-2021-06-09 16:02:03,824          root     INFO: Tweeting url: http://noticias.r7.com/brasil/cpi-ouve-numero-2-de-pazuello-na-saude-sobre-compra-de-vacinas-09062021
-2021-06-09 16:02:04,041          root     INFO: Replying to: 1402657253350690823
-2021-06-09 16:02:04,303          root     INFO: Id to store: 1402657254139207682
-2021-06-09 16:02:04,450          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-criticas-a-exercito-por-caso-pazuello-carlos-bolsonaro-associa-lula-e-defesa-sob-petista-a-beijo-gay.shtml
-2021-06-09 16:02:04,451          root     INFO: Finished script
+2021-06-09 16:49:23,315          root     INFO: Starting script
+2021-06-09 16:49:24,211          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-09 16:49:24,875          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-09 16:49:25,546          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-09 16:49:25,695          root     INFO: Parsing R7 - Brasil
+2021-06-09 16:49:28,806          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cupula-do-exercito-apoia-pec-do-pazuello-para-barrar-militar-da-ativa-no-governo.shtml
+2021-06-09 16:49:28,854          root     INFO: O relator da representação contra o deputado Daniel Silveira (PSL-RJ) no <del>conselho</del> <ins>Conselho</ins> de <del>ética</del> <ins>Ética</ins> da Câmara recomendou a suspensão do mandato do bolsonarista por <del>6</del> <ins>seis</ins> meses por ter publicado um vídeo com ataques ao STF (Supremo Tribunal Federal) e <del>com</del> apologia à ditadura militar. Leia mais (06/09/2021 - 12h28)
+2021-06-09 16:49:30,687          root     INFO: Media ready with ids: 1402669192277602306
+2021-06-09 16:49:30,687          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-09 16:49:30,687          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-no-conselho-de-etica-da-camara-pede-suspensao-por-6-meses-de-mandato-de-daniel-silveira.shtml
+2021-06-09 16:49:30,697          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-no-conselho-de-etica-da-camara-pede-suspensao-por-6-meses-de-mandato-de-daniel-silveira.shtml
+2021-06-09 16:49:30,887          root     INFO: Replying to: 1402669193863086081
+2021-06-09 16:49:31,132          root     INFO: Id to store: 1402669194651570181
+2021-06-09 16:49:37,514          root     INFO: Removed http://noticias.r7.com/brasil/cpi-convoca-auditor-de-estudo-atribuido-ao-tcu-e-osmar-terra-09062021
+2021-06-09 16:49:37,521          root     INFO: Removed http://noticias.r7.com/brasil/exportacao-de-carne-bovina-cai-em-maio-com-menor-demanda-da-china-09062021
+2021-06-09 16:49:37,526          root     INFO: Removed http://noticias.r7.com/brasil/elcio-franco-diz-que-negociacao-por-coronavac-nunca-foi-interrompida-09062021
+2021-06-09 16:49:37,532          root     INFO: Removed http://noticias.r7.com/brasil/elcio-franco-diz-que-pfizer-exigiu-lei-para-viabilizar-acordo-por-vacina-09062021
+2021-06-09 16:49:37,536          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-secretario-do-ministerio-da-saude-assista-09062021
+2021-06-09 16:49:37,541          root     INFO: Removed http://noticias.r7.com/brasil/tcu-afasta-auditor-do-grupo-que-fiscaliza-gastos-com-covid-19-09062021
+2021-06-09 16:49:37,547          root     INFO: Removed http://noticias.r7.com/brasil/barroso-que-raio-de-sistema-falho-e-esse-que-permite-alternancia-09062021
+2021-06-09 16:49:37,554          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pgr-pede-ao-stf-arquivamento-de-investigacao-de-bolsonaristas-no-inquerito-dos-atos-antidemocraticos.shtml
+2021-06-09 16:49:37,559          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-criterio-do-tcu-incentiva-notificacoes-de-covid-19-09062021
+2021-06-09 16:49:37,565          root     INFO: Removed http://noticias.r7.com/brasil/videos/operacao-contra-pornografia-cumpre-mandados-em-17-estados-e-5-paises-09062021
+2021-06-09 16:49:37,570          root     INFO: Removed http://noticias.r7.com/brasil/pgr-se-manifesta-contra-cheque-em-branco-de-emendas-09062021
+2021-06-09 16:49:37,576          root     INFO: Removed http://noticias.r7.com/brasil/sp-rio-e-mais-capitais-avancam-na-vacinacao-da-covid-veja-calendario-09062021
+2021-06-09 16:49:37,582          root     INFO: Removed http://noticias.r7.com/brasil/policia-cumpre-mandados-em-17-estados-contra-pornografia-infantil-09062021
+2021-06-09 16:49:37,588          root     INFO: Removed http://noticias.r7.com/brasil/voto-em-papel-e-retrocesso-diz-barroso-na-camara-dos-deputados-09062021
+2021-06-09 16:49:37,589          root     INFO: Finished script
