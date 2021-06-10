@@ -1,8 +1,10 @@
-2021-06-10 10:57:34,695          root     INFO: Starting script
-2021-06-10 10:57:35,492          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-10 10:57:36,134          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-10 10:57:36,781          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-10 10:57:36,988          root     INFO: Parsing R7 - Brasil
-2021-06-10 10:57:45,736          root     INFO: Removed http://noticias.r7.com/brasil/acao-de-metalurgicos-contra-copa-america-e-ilegitima-diz-carmen-lucia-10062021
-2021-06-10 10:57:45,742          root     INFO: Removed http://noticias.r7.com/brasil/lewandowski-vota-a-favor-da-copa-america-mas-cobra-plano-anticovid-10062021
-2021-06-10 10:57:45,742          root     INFO: Finished script
+2021-06-10 11:21:20,077          root     INFO: Starting script
+2021-06-10 11:21:20,868          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-10 11:21:21,509          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-10 11:21:22,154          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-10 11:21:22,353          root     INFO: Parsing R7 - Brasil
+2021-06-10 11:21:22,487          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/06/lula-e-fhc-alguem-esta-sendo-enganado.shtml
+2021-06-10 11:21:25,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/06/lula-e-fhc-alguem-esta-sendo-enganado.shtml
+2021-06-10 11:21:30,835          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/06/historia-e-pontilhada-por-interferencias-de-militares-na-politica.shtml
+2021-06-10 11:21:30,840          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/haja-ruido.shtml
+2021-06-10 11:21:30,840          root     INFO: Finished script
