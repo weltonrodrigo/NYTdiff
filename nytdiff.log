@@ -1,8 +1,14 @@
-2021-06-10 21:23:13,547          root     INFO: Starting script
-2021-06-10 21:23:14,372          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-10 21:23:15,039          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-10 21:23:15,702          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-10 21:23:16,035          root     INFO: Parsing R7 - Brasil
-2021-06-10 21:23:16,182          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/06/abismo-que-separa-copa-america-da-eurocopa-ficara-evidente.shtml
-2021-06-10 21:23:24,959          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jose-henrique-mariante-ombudsman/2021/06/panelas-na-borda-da-terra-plana.shtml
-2021-06-10 21:23:24,959          root     INFO: Finished script
+2021-06-10 21:37:30,403          root     INFO: Starting script
+2021-06-10 21:37:31,191          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-10 21:37:31,835          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-10 21:37:32,478          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-10 21:37:32,578          root     INFO: Parsing R7 - Brasil
+2021-06-10 21:37:35,408          root     INFO: Os senadores da CPI da Covid aprovaram nesta quinta-feira (10) a quebra de sigilo telefônico e telemático dos ex-ministros Eduardo Pazuello (Saúde) e Ernesto Araújo (Relações Exteriores) e de integrantes do chamado <del>?gabinete paralelo?,</del> <ins>"gabinete paralelo",</ins> estrutura de aconselhamento do presidente Jair Bolsonaro para temas ligados à pandemia e <del>que defendia</del> <ins>com defesa de</ins> teses negacionistas. Leia mais (06/10/2021 - 12h22)
+2021-06-10 21:37:37,122          root     INFO: Media ready with ids: 1403104084698316805
+2021-06-10 21:37:37,122          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-10 21:37:37,122          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-quebra-sigilo-de-pazuello-ernesto-e-integrantes-do-gabinete-paralelo-de-bolsonaro.shtml
+2021-06-10 21:37:37,131          root     INFO: Replying to: 1403031819759636490
+2021-06-10 21:37:37,396          root     INFO: Id to store: 1403104086313029641
+2021-06-10 21:37:39,684          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/biodiversidade-amazonica-pode-ser-celeiro-global-contra-inseguranca-alimentar-do-planeta-diz-artigo.shtml
+2021-06-10 21:37:42,612          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/04/paises-iniciam-corrida-para-descarbonizacao-apos-cupula-do-clima.shtml
+2021-06-10 21:37:42,613          root     INFO: Finished script
