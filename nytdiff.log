@@ -1,20 +1,10 @@
-2021-06-10 15:29:31,111          root     INFO: Starting script
-2021-06-10 15:29:31,938          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-10 15:29:32,606          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-10 15:29:33,269          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-10 15:29:33,387          root     INFO: Parsing R7 - Brasil
-2021-06-10 15:29:36,022          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-quebra-sigilo-de-pazuello-ernesto-e-integrantes-do-gabinete-paralelo-de-bolsonaro.shtml
-2021-06-10 15:29:36,137          root     INFO: <del>Rosa Weber, do STF, autoriza</del> <ins>STF livra</ins> governador do <del>Amazonas a não</del> <ins>AM de</ins> depor à CPI da Covid <ins>e abre caminho para esvaziar foco governista na comissão</ins>
-2021-06-10 15:29:37,864          root     INFO: Media ready with ids: 1403011477682937858
-2021-06-10 15:29:37,864          root     INFO: Text to tweet: Modificação do Título
-2021-06-10 15:29:37,864          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rosa-weber-do-stf-autoriza-governador-do-amazonas-a-nao-depor-a-cpi-da-covid.shtml
-2021-06-10 15:29:37,873          root     INFO: Replying to: 1402969020622573569
-2021-06-10 15:29:38,140          root     INFO: Id to store: 1403011479188787201
-2021-06-10 15:29:38,146          root     INFO: A ministra Rosa Weber, do STF (Supremo Tribunal Federal), concedeu habeas corpus e autorizou o governador do Amazonas, Wilson Lima (PSC), a não depor à CPI da <del>Covid. Caso resolva comparecer à comissão, ele tem o direito de se manter calado, segundo a decisão da magistrada.</del> <ins>Covid do Senado.</ins> Leia mais (06/10/2021 - 00h14)
-2021-06-10 15:29:39,878          root     INFO: Media ready with ids: 1403011486000291840
-2021-06-10 15:29:39,878          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-10 15:29:39,878          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rosa-weber-do-stf-autoriza-governador-do-amazonas-a-nao-depor-a-cpi-da-covid.shtml
-2021-06-10 15:29:39,889          root     INFO: Replying to: 1403011479188787201
-2021-06-10 15:29:40,111          root     INFO: Id to store: 1403011487485026304
-2021-06-10 15:29:45,368          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/aliados-no-congresso-veem-andre-mendonca-como-nome-de-bolsonaro-ao-stf-mesmo-com-pressao-do-centrao.shtml
-2021-06-10 15:29:45,369          root     INFO: Finished script
+2021-06-10 16:01:34,293          root     INFO: Starting script
+2021-06-10 16:01:35,106          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-10 16:01:35,762          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-10 16:01:36,425          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-10 16:01:36,676          root     INFO: Parsing R7 - Brasil
+2021-06-10 16:01:39,786          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/manifesto-contra-intimacao-de-jornalista-do-intercept-ja-tem-mais-de-cem-assinaturas.shtml
+2021-06-10 16:01:39,803          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/stf-compartilha-conversas-de-delegada-investigada-por-forjar-depoimentos-na-lava-jato.shtml
+2021-06-10 16:01:46,180          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/apos-criticas-a-cobertura-de-manaus-e-biden-ebc-deixa-de-publicar-relatorios-bimestrais-de-ombudsman-em-seu-site.shtml
+2021-06-10 16:01:46,185          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/fundacoes-do-mdb-e-do-psl-trabalham-juntas-em-programa-e-falam-em-apoiar-mesmo-candidato-nas-eleicoes-de-2022.shtml
+2021-06-10 16:01:46,186          root     INFO: Finished script
