@@ -1,29 +1,8 @@
-2021-06-10 17:33:39,736          root     INFO: Starting script
-2021-06-10 17:33:40,552          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-10 17:33:41,210          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-10 17:33:41,871          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-10 17:33:42,116          root     INFO: Parsing R7 - Brasil
-2021-06-10 17:33:42,280          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/06/quando-bolsonaro-cair-populacao-negra-deixara-de-ser-massacrada-ou-nao.shtml
-2021-06-10 17:33:44,723          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/do-novo-ao-psol-partidos-expoem-rachas-com-pre-candidaturas-a-presidencia-em-2022.shtml
-2021-06-10 17:33:44,761          root     INFO: A defesa do senador Flávio Bolsonaro (Patriota-RJ) pediu à Justiça Federal que determine à Receita Federal e ao Serpro que <del>disponibilize</del> <ins>disponibilizem</ins> o resultado da devassa feita nos sistemas do <del>Fisco</del> <ins>fisco</ins> para identificar acessos aos dados fiscais do filho do presidente Jair Bolsonaro. Leia mais (06/10/2021 - 13h43)
-2021-06-10 17:33:46,592          root     INFO: Media ready with ids: 1403042719396683776
-2021-06-10 17:33:46,592          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-10 17:33:46,592          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/flavio-bolsonaro-entra-na-justica-para-obter-dados-de-investigacoes-contra-ele-rastreados-pela-receita.shtml
-2021-06-10 17:33:46,602          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/flavio-bolsonaro-entra-na-justica-para-obter-dados-de-investigacoes-contra-ele-rastreados-pela-receita.shtml
-2021-06-10 17:33:46,795          root     INFO: Replying to: 1403042721401606146
-2021-06-10 17:33:47,042          root     INFO: Id to store: 1403042722085212160
-2021-06-10 17:33:47,239          root     INFO: <del>Rosa Weber, do STF, autoriza</del> <ins>STF livra</ins> governador do <del>Amazonas a não</del> <ins>AM de</ins> depor à CPI da Covid <ins>e abre caminho para esvaziar foco governista na comissão</ins>
-2021-06-10 17:33:48,884          root     INFO: Media ready with ids: 1403042729450483713
-2021-06-10 17:33:48,884          root     INFO: Text to tweet: Modificação do Título
-2021-06-10 17:33:48,885          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rosa-weber-do-stf-autoriza-governador-do-amazonas-a-nao-depor-a-cpi-da-covid.shtml
-2021-06-10 17:33:48,894          root     INFO: Replying to: 1403011487485026304
-2021-06-10 17:33:49,135          root     INFO: Id to store: 1403042731010711557
-2021-06-10 17:33:49,141          root     INFO: A ministra Rosa Weber, do STF (Supremo Tribunal Federal), concedeu habeas corpus e autorizou o governador do Amazonas, Wilson Lima (PSC), a não depor à CPI da <del>Covid. Caso resolva comparecer à comissão, ele tem o direito de se manter calado, segundo a decisão da magistrada.</del> <ins>Covid no Senado.</ins> Leia mais (06/10/2021 - 00h14)
-2021-06-10 17:33:50,799          root     INFO: Media ready with ids: 1403042737541332999
-2021-06-10 17:33:50,800          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-10 17:33:50,800          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rosa-weber-do-stf-autoriza-governador-do-amazonas-a-nao-depor-a-cpi-da-covid.shtml
-2021-06-10 17:33:50,809          root     INFO: Replying to: 1403042731010711557
-2021-06-10 17:33:51,053          root     INFO: Id to store: 1403042739026022404
-2021-06-10 17:33:56,217          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/por-que-o-gabinete-paralelo-e-uma-peca-chave-da-cpi-da-covid.shtml
-2021-06-10 17:33:56,222          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/peritos-da-pf-se-unem-a-universidades-para-estudar-novas-drogas-vendidas-no-brasil.shtml
-2021-06-10 17:33:56,223          root     INFO: Finished script
+2021-06-10 18:18:16,572          root     INFO: Starting script
+2021-06-10 18:18:17,380          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-10 18:18:18,036          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-10 18:18:18,700          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-10 18:18:18,919          root     INFO: Parsing R7 - Brasil
+2021-06-10 18:18:21,929          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/vereador-e-expulso-do-patriota-depois-de-criticar-flavio-bolsonaro-e-diz-que-nao-faz-fileira-com-bandido.shtml
+2021-06-10 18:18:27,959          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/delegado-diz-que-dinheiro-de-madeira-ilegal-vai-para-grupos-criminosos-que-financiam-politicos.shtml
+2021-06-10 18:18:27,959          root     INFO: Finished script
