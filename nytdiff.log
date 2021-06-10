@@ -1,15 +1,8 @@
-2021-06-10 21:51:26,107          root     INFO: Starting script
-2021-06-10 21:51:26,982          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-10 21:51:27,667          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-10 21:51:28,361          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-10 21:51:28,669          root     INFO: Parsing R7 - Brasil
-2021-06-10 21:51:32,073          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/nao-tem-pe-nem-cabeca-diz-presidente-do-conselho-de-secretarios-de-saude-sobre-desobrigar-o-uso-de-mascara.shtml
-2021-06-10 21:51:32,124          root     INFO: O STF (Supremo Tribunal Federal) <del>determinou</del> <ins>determinou,</ins> nesta quinta-feira <del>(10)</del> <ins>(10),</ins> que o deputado Daniel Silveira (PSL-RJ) pague uma fiança de R$ 100 mil após o parlamentar violar por diversas vezes o monitoramento por tornozeleira eletrônica. Leia mais (06/10/2021 - 17h42)
-2021-06-10 21:51:34,021          root     INFO: Media ready with ids: 1403107594504396811
-2021-06-10 21:51:34,021          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-10 21:51:34,021          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/moraes-do-stf-determina-que-deputado-daniel-silveira-pague-r-100-mil-de-fianca.shtml
-2021-06-10 21:51:34,031          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/moraes-do-stf-determina-que-deputado-daniel-silveira-pague-r-100-mil-de-fianca.shtml
-2021-06-10 21:51:34,324          root     INFO: Replying to: 1403107596509368322
-2021-06-10 21:51:34,626          root     INFO: Id to store: 1403107597721427969
-2021-06-10 21:51:41,616          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/documento-diz-que-ordem-para-dispersar-manifestacao-contra-bolsonaro-em-pe-foi-do-comando-da-pm.shtml
-2021-06-10 21:51:41,617          root     INFO: Finished script
+2021-06-10 21:57:48,454          root     INFO: Starting script
+2021-06-10 21:57:49,440          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-10 21:57:50,233          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-10 21:57:51,042          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-10 21:57:51,295          root     INFO: Parsing R7 - Brasil
+2021-06-10 21:57:54,292          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/pf-investiga-professores-por-palestras-antifascistas-no-ceara.shtml
+2021-06-10 21:58:00,361          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/em-video-cidadania-defende-terceira-via-para-2022-e-critica-os-governos-lula-dilma-e-bolsonaro.shtml
+2021-06-10 21:58:00,362          root     INFO: Finished script
