@@ -1,14 +1,14 @@
-2021-06-11 03:31:33,867          root     INFO: Starting script
-2021-06-11 03:31:34,807          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-11 03:31:35,569          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-11 03:31:36,337          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-11 03:31:36,538          root     INFO: Parsing R7 - Brasil
-2021-06-11 03:31:43,291          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-promete-colocar-pec-do-fim-do-foro-na-proxima-reuniao-de-lideres-10062021
-2021-06-11 03:31:43,306          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-marqueteiro-de-pazuello-pede-que-cpi-nao-vote-quebra-de-sigilo-10062021
-2021-06-11 03:31:43,316          root     INFO: New article tracked: http://noticias.r7.com/brasil/embaixador-dos-eua-no-brasil-anuncia-que-vai-se-aposentar-10062021
-2021-06-11 03:31:43,325          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-critica-decisao-que-liberou-wilson-lima-de-ir-a-cpi-10062021
-2021-06-11 03:31:43,334          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-aprova-quebra-de-sigilo-de-pazuello-e-ernesto-araujo-10062021
-2021-06-11 03:31:43,343          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-segue-lewandowski-e-da-2-voto-a-favor-da-copa-america-10062021
-2021-06-11 03:31:43,352          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-responde-a-presidente-argentino-para-ele-nao-tem-vacina-10062021
-2021-06-11 03:31:43,361          root     INFO: New article tracked: http://noticias.r7.com/brasil/ccj-da-camara-analisa-projeto-de-educacao-domiciliar-10062021
-2021-06-11 03:31:43,631          root     INFO: Finished script
+2021-06-11 03:59:23,722          root     INFO: Starting script
+2021-06-11 03:59:24,586          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-11 03:59:25,264          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-11 03:59:25,943          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-11 03:59:26,175          root     INFO: Parsing R7 - Brasil
+2021-06-11 03:59:35,104          root     INFO: Removed http://noticias.r7.com/brasil/ex-marqueteiro-de-pazuello-pede-que-cpi-nao-vote-quebra-de-sigilo-10062021
+2021-06-11 03:59:35,112          root     INFO: Removed http://noticias.r7.com/brasil/ccj-da-camara-analisa-projeto-de-educacao-domiciliar-10062021
+2021-06-11 03:59:35,119          root     INFO: Removed http://noticias.r7.com/brasil/lira-promete-colocar-pec-do-fim-do-foro-na-proxima-reuniao-de-lideres-10062021
+2021-06-11 03:59:35,124          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-responde-a-presidente-argentino-para-ele-nao-tem-vacina-10062021
+2021-06-11 03:59:35,130          root     INFO: Removed http://noticias.r7.com/brasil/fachin-segue-lewandowski-e-da-2-voto-a-favor-da-copa-america-10062021
+2021-06-11 03:59:35,136          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-aprova-quebra-de-sigilo-de-pazuello-e-ernesto-araujo-10062021
+2021-06-11 03:59:35,142          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-critica-decisao-que-liberou-wilson-lima-de-ir-a-cpi-10062021
+2021-06-11 03:59:35,147          root     INFO: Removed http://noticias.r7.com/brasil/embaixador-dos-eua-no-brasil-anuncia-que-vai-se-aposentar-10062021
+2021-06-11 03:59:35,148          root     INFO: Finished script
