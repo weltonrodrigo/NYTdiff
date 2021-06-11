@@ -1,10 +1,27 @@
-2021-06-11 18:59:41,707          root     INFO: Starting script
-2021-06-11 18:59:42,520          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-11 18:59:43,167          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-11 18:59:43,823          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-11 18:59:44,003          root     INFO: Parsing R7 - Brasil
-2021-06-11 18:59:44,173          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/06/confira-rabiscos-daquilo-que-poderia-virar-cronica-mas-e-jogado-fora.shtml
-2021-06-11 18:59:46,518          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/presidente-entra-em-voo-comercial-no-es-e-ouve-gritos-de-genocida-fora-bolsonaro-e-mito.shtml
-2021-06-11 18:59:51,575          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/o-que-e-moralidade-para-voce.shtml
-2021-06-11 18:59:51,580          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governista-marcos-rogerio-vai-de-rolando-lero-a-estrela-bolsonarista-na-cpi-da-covid.shtml
-2021-06-11 18:59:51,581          root     INFO: Finished script
+2021-06-11 19:19:26,017          root     INFO: Starting script
+2021-06-11 19:19:26,833          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-11 19:19:27,490          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-11 19:19:28,152          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-11 19:19:28,381          root     INFO: Parsing R7 - Brasil
+2021-06-11 19:19:28,538          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2021/06/inocentes-presos.shtml
+2021-06-11 19:19:31,400          root     INFO: A chamada 'motociata' com o presidente Jair Bolsonaro deve afetar o trânsito de ruas e avenidas da cidade de São Paulo no final da manhã e início da tarde deste sábado (12), além de uma das principais rodovias do estado, que liga a capital <del>à</del> <ins>a</ins> Campinas. Leia mais (06/11/2021 - 15h20)
+2021-06-11 19:19:33,088          root     INFO: Media ready with ids: 1403431726970454022
+2021-06-11 19:19:33,088          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-11 19:19:33,088          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-deve-afetar-transito-ate-de-estrada-neste-sabado-confira-o-possivel-trajeto.shtml
+2021-06-11 19:19:33,099          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-deve-afetar-transito-ate-de-estrada-neste-sabado-confira-o-possivel-trajeto.shtml
+2021-06-11 19:19:33,273          root     INFO: Replying to: 1403431728346193921
+2021-06-11 19:19:33,510          root     INFO: Id to store: 1403431729130582016
+2021-06-11 19:19:33,679          root     INFO: Após reunião com PM, 'motociata' com Bolsonaro <ins>em SP</ins> muda trajeto e promete respeito a regras contra Covid
+2021-06-11 19:19:35,337          root     INFO: Media ready with ids: 1403431736344780802
+2021-06-11 19:19:35,337          root     INFO: Text to tweet: Modificação do Título
+2021-06-11 19:19:35,337          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-reuniao-com-pm-motociata-com-bolsonaro-muda-trajeto-e-promete-respeito-a-regras-contra-covid.shtml
+2021-06-11 19:19:35,348          root     INFO: Replying to: 1403363489394135042
+2021-06-11 19:19:35,587          root     INFO: Id to store: 1403431737829507072
+2021-06-11 19:19:35,594          root     INFO: A previsão maior de participantes e as exigências da segurança do presidente Jair Bolsonaro (sem partido) fizeram os organizadores da "motociata" <del>prevista</del> <ins>marcada</ins> para este sábado (12) em São Paulo mudarem o planejamento do evento. Leia mais (06/11/2021 - 09h40)
+2021-06-11 19:19:37,254          root     INFO: Media ready with ids: 1403431744410468360
+2021-06-11 19:19:37,255          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-11 19:19:37,255          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-reuniao-com-pm-motociata-com-bolsonaro-muda-trajeto-e-promete-respeito-a-regras-contra-covid.shtml
+2021-06-11 19:19:37,272          root     INFO: Replying to: 1403431737829507072
+2021-06-11 19:19:37,494          root     INFO: Id to store: 1403431745786101761
+2021-06-11 19:19:43,491          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2021/06/a-onda-das-bebidas-nao-alcoolicas.shtml
+2021-06-11 19:19:43,491          root     INFO: Finished script
