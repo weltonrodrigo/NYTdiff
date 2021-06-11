@@ -1,6 +1,10 @@
-2021-06-11 18:04:09,838          root     INFO: Starting script
-2021-06-11 18:04:10,648          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-11 18:04:11,315          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-11 18:04:11,987          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-11 18:04:12,181          root     INFO: Parsing R7 - Brasil
-2021-06-11 18:04:20,236          root     INFO: Finished script
+2021-06-11 18:32:21,947          root     INFO: Starting script
+2021-06-11 18:32:22,926          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-11 18:32:23,710          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-11 18:32:24,479          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-11 18:32:24,702          root     INFO: Parsing R7 - Brasil
+2021-06-11 18:32:24,867          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/cuba-e-a-pandemia-entre-a-vacina-e-a-miseria.shtml
+2021-06-11 18:32:27,407          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-deve-afetar-transito-ate-de-estrada-neste-sabado-confira-o-possivel-trajeto.shtml
+2021-06-11 18:32:32,924          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/escravidao-e-igreja-catolica-como-lidar-com-um-passado-silenciado.shtml
+2021-06-11 18:32:32,929          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decisao-do-supremo-sobre-cabral-poe-em-duvida-limites-para-delacoes-premiadas.shtml
+2021-06-11 18:32:32,930          root     INFO: Finished script
