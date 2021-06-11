@@ -1,12 +1,26 @@
-2021-06-11 16:42:02,969          root     INFO: Starting script
-2021-06-11 16:42:03,937          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-11 16:42:04,727          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-11 16:42:05,527          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-11 16:42:05,729          root     INFO: Parsing R7 - Brasil
-2021-06-11 16:42:14,666          root     INFO: New article tracked: http://noticias.r7.com/brasil/industria-mantem-crescimento-durante-piora-da-pandemia-diz-cni-11062021
-2021-06-11 16:42:14,683          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-cientistas-maierovitch-e-pasternak-assista-11062021
-2021-06-11 16:42:14,696          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-mourao-mascara-para-quem-se-vacinou-e-questao-de-foro-intimo-11062021
-2021-06-11 16:42:14,709          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-veja-quem-pode-se-vacinar-em-sp-rio-bh-e-mais-8-capitais-11062021
-2021-06-11 16:42:14,721          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-espera-300-mil-motos-em-sp-e-ironiza-ameaca-de-joao-doria-11062021
-2021-06-11 16:42:14,734          root     INFO: New article tracked: http://noticias.r7.com/brasil/joao-amoedo-decide-nao-disputar-a-presidencia-pelo-novo-em-2022-11062021
-2021-06-11 16:42:15,146          root     INFO: Finished script
+2021-06-11 17:17:49,530          root     INFO: Starting script
+2021-06-11 17:17:50,357          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-11 17:17:51,029          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-11 17:17:51,706          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-11 17:17:51,906          root     INFO: Parsing R7 - Brasil
+2021-06-11 17:17:54,691          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/centrao-pressiona-por-saida-de-general-ramos-e-bolsonaro-avalia-minirreforma-ministerial.shtml
+2021-06-11 17:17:54,736          root     INFO: Exército aponta <del>erros</del> <ins>erros,</ins> mas livra militares por morte de paraquedista homenageado por Bolsonaro; veja vídeo do salto
+2021-06-11 17:17:56,408          root     INFO: Media ready with ids: 1403401122480594948
+2021-06-11 17:17:56,409          root     INFO: Text to tweet: Modificação do Título
+2021-06-11 17:17:56,409          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-aponta-erros-mas-nao-pune-militares-por-morte-de-paraquedista-homenageado-por-bolsonaro-veja-video-do-salto.shtml
+2021-06-11 17:17:56,422          root     INFO: Replying to: 1403381148114370562
+2021-06-11 17:17:56,638          root     INFO: Id to store: 1403401123843784705
+2021-06-11 17:17:56,646          root     INFO: Uma sequência de três erros cometidos por dois mestres de salto sem <del>qualquer</del> <ins>nenhuma</ins> punição. Esse foi o resultado da investigação da Justiça Militar sobre a morte do paraquedista Pedro Chaves, 19, ocorrida há um ano. Leia mais (06/11/2021 - 12h15)
+2021-06-11 17:17:58,312          root     INFO: Media ready with ids: 1403401130449776648
+2021-06-11 17:17:58,313          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-11 17:17:58,313          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-aponta-erros-mas-nao-pune-militares-por-morte-de-paraquedista-homenageado-por-bolsonaro-veja-video-do-salto.shtml
+2021-06-11 17:17:58,323          root     INFO: Replying to: 1403401123843784705
+2021-06-11 17:17:58,563          root     INFO: Id to store: 1403401131930365956
+2021-06-11 17:18:04,227          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-cientistas-maierovitch-e-pasternak-assista-11062021
+2021-06-11 17:18:04,235          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/deputado-heni-ozi-cukier-lancara-seu-nome-para-disputar-o-senado-em-2022.shtml
+2021-06-11 17:18:04,239          root     INFO: Removed http://noticias.r7.com/brasil/joao-amoedo-decide-nao-disputar-a-presidencia-pelo-novo-em-2022-11062021
+2021-06-11 17:18:04,245          root     INFO: Removed http://noticias.r7.com/brasil/para-mourao-mascara-para-quem-se-vacinou-e-questao-de-foro-intimo-11062021
+2021-06-11 17:18:04,251          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-espera-300-mil-motos-em-sp-e-ironiza-ameaca-de-joao-doria-11062021
+2021-06-11 17:18:04,255          root     INFO: Removed http://noticias.r7.com/brasil/covid-veja-quem-pode-se-vacinar-em-sp-rio-bh-e-mais-8-capitais-11062021
+2021-06-11 17:18:04,260          root     INFO: Removed http://noticias.r7.com/brasil/industria-mantem-crescimento-durante-piora-da-pandemia-diz-cni-11062021
+2021-06-11 17:18:04,261          root     INFO: Finished script
