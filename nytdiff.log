@@ -1,10 +1,13 @@
-2021-06-11 15:27:18,632          root     INFO: Starting script
-2021-06-11 15:27:19,806          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-11 15:27:20,619          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-11 15:27:21,462          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-11 15:27:21,651          root     INFO: Parsing R7 - Brasil
-2021-06-11 15:27:25,259          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-aponta-erros-mas-nao-pune-militares-por-morte-de-paraquedista-homenageado-por-bolsonaro-veja-video-do-salto.shtml
-2021-06-11 15:27:25,274          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-descola-de-lula-e-retoma-lideranca-isolada-de-popularidade-nas-redes-sociais.shtml
-2021-06-11 15:27:32,285          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/funcionario-de-damares-bancou-protesto-em-que-bolsonaro-discursou-no-qg-do-exercito-e-gerou-crise-diz-pf.shtml
-2021-06-11 15:27:32,293          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ministros-de-bolsonaro-nao-comparecem-a-audiencia-na-camara-sobre-exploracao-de-petroleo-perto-de-noronha.shtml
-2021-06-11 15:27:32,293          root     INFO: Finished script
+2021-06-11 15:58:26,831          root     INFO: Starting script
+2021-06-11 15:58:27,649          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-11 15:58:28,315          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-11 15:58:28,980          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-11 15:58:29,111          root     INFO: Parsing R7 - Brasil
+2021-06-11 15:58:31,958          root     INFO: Uma sequência de três erros cometidos por dois mestres de salto sem <del>qualquer</del> <ins>nenhuma</ins> punição. Esse foi o resultado da investigação da Justiça Militar sobre a morte do paraquedista Pedro Chaves, 19, ocorrida há um ano. Leia mais (06/11/2021 - 12h15)
+2021-06-11 15:58:33,643          root     INFO: Media ready with ids: 1403381145971179531
+2021-06-11 15:58:33,644          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-11 15:58:33,644          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-aponta-erros-mas-nao-pune-militares-por-morte-de-paraquedista-homenageado-por-bolsonaro-veja-video-do-salto.shtml
+2021-06-11 15:58:33,655          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-aponta-erros-mas-nao-pune-militares-por-morte-de-paraquedista-homenageado-por-bolsonaro-veja-video-do-salto.shtml
+2021-06-11 15:58:33,821          root     INFO: Replying to: 1403381147317510149
+2021-06-11 15:58:34,091          root     INFO: Id to store: 1403381148114370562
+2021-06-11 15:58:39,854          root     INFO: Finished script
