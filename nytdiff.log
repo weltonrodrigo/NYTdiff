@@ -1,8 +1,20 @@
-2021-06-11 14:34:18,595          root     INFO: Starting script
-2021-06-11 14:34:19,425          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-11 14:34:20,092          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-11 14:34:20,754          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-11 14:34:20,950          root     INFO: Parsing R7 - Brasil
-2021-06-11 14:34:26,178          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/militares-voltarao-a-atuar-na-amazonia-para-tentar-conter-desmatamento.shtml
-2021-06-11 14:34:29,132          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/cotidiano/2021/04/governo-do-rn-recomenda-interdicao-de-trechos-das-praias-com-lixo-hospitalar.shtml
-2021-06-11 14:34:29,133          root     INFO: Finished script
+2021-06-11 14:48:15,848          root     INFO: Starting script
+2021-06-11 14:48:16,672          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-11 14:48:17,346          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-11 14:48:18,037          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-11 14:48:18,229          root     INFO: Parsing R7 - Brasil
+2021-06-11 14:48:21,549          root     INFO: Após reunião com PM, 'motociata' com Bolsonaro <ins>em SP</ins> muda trajeto e promete respeito a regras contra Covid
+2021-06-11 14:48:23,494          root     INFO: Media ready with ids: 1403363486516887555
+2021-06-11 14:48:23,495          root     INFO: Text to tweet: Modificação do Título
+2021-06-11 14:48:23,495          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-reuniao-com-pm-motociata-com-bolsonaro-muda-trajeto-e-promete-respeito-a-regras-contra-covid.shtml
+2021-06-11 14:48:23,507          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-reuniao-com-pm-motociata-com-bolsonaro-muda-trajeto-e-promete-respeito-a-regras-contra-covid.shtml
+2021-06-11 14:48:23,675          root     INFO: Replying to: 1403363488714702850
+2021-06-11 14:48:23,883          root     INFO: Id to store: 1403363489394135042
+2021-06-11 14:48:24,291          root     INFO: Um julgamento de grande relevância para o futuro das demarcações de terras indígenas <del>está</del> <ins>estava</ins> marcado para começar nesta sexta-feira (11) no STF (Supremo Tribunal <del>Federal).</del> <ins>Federal), mas foi retirado de pauta após pedido de destaque do ministro Alexandre de Moraes.</ins> Leia mais (06/10/2021 - 23h15)
+2021-06-11 14:48:25,992          root     INFO: Media ready with ids: 1403363497619173378
+2021-06-11 14:48:25,993          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-11 14:48:25,993          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entenda-julgamento-no-supremo-sobre-demarcacao-de-terras-indigenas.shtml
+2021-06-11 14:48:26,004          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entenda-julgamento-no-supremo-sobre-demarcacao-de-terras-indigenas.shtml
+2021-06-11 14:48:26,175          root     INFO: Replying to: 1403363499187843076
+2021-06-11 14:48:26,430          root     INFO: Id to store: 1403363500018307082
+2021-06-11 14:48:32,271          root     INFO: Finished script
