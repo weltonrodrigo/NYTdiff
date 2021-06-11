@@ -1,8 +1,23 @@
-2021-06-11 10:00:13,447          root     INFO: Starting script
-2021-06-11 10:00:14,287          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-11 10:00:14,937          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-11 10:00:15,598          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-11 10:00:15,754          root     INFO: Parsing R7 - Brasil
-2021-06-11 10:00:24,409          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-recebe-os-cientistas-claudio-maierovitch-e-natalia-pasternak-11062021
-2021-06-11 10:00:24,425          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-pede-urgencia-para-projeto-sobre-vacina-a-jornalistas-11062021
-2021-06-11 10:00:24,918          root     INFO: Finished script
+2021-06-11 10:27:32,429          root     INFO: Starting script
+2021-06-11 10:27:33,317          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-11 10:27:33,992          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-11 10:27:34,671          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-11 10:27:37,005          root     INFO: Parsing R7 - Brasil
+2021-06-11 10:27:37,147          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2021/06/o-nojo-nos-faz-humanos.shtml
+2021-06-11 10:27:37,584          root     INFO: Foi também manchete de Wall Street Journal <del>(abaixo)</del> <ins>(imagem abaixo)</ins> e Financial Times, enfatizando ser "a maior taxa de inflação em <del>quase</del> 13 anos", desde a crise de 2008. Leia mais (06/10/2021 - 22h32)
+2021-06-11 10:27:39,429          root     INFO: Media ready with ids: 1403297870892126211
+2021-06-11 10:27:39,429          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-11 10:27:39,429          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/biden-vai-a-europa-e-deixa-rastro-de-problemas-nos-eua.shtml
+2021-06-11 10:27:39,443          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/biden-vai-a-europa-e-deixa-rastro-de-problemas-nos-eua.shtml
+2021-06-11 10:27:39,637          root     INFO: Replying to: 1403297872842473474
+2021-06-11 10:27:39,857          root     INFO: Id to store: 1403297873526235137
+2021-06-11 10:27:42,557          root     INFO: <del>Ex-marqueteiro de Cabral e</del> <ins>Freixo escolhe</ins> pai do 'pato da Fiesp' <del>é escolhido por Freixo</del> <ins>e ex-marqueteiro de Cabral</ins> para pré-campanha <del>no RJ</del> <ins>ao Governo do Rio</ins>
+2021-06-11 10:27:44,187          root     INFO: Media ready with ids: 1403297891360333829
+2021-06-11 10:27:44,188          root     INFO: Text to tweet: Modificação do Título
+2021-06-11 10:27:44,188          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-marqueteiro-de-cabral-e-pai-do-pato-da-fiesp-e-escolhido-por-freixo-para-pre-campanha-no-rj.shtml
+2021-06-11 10:27:44,203          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-marqueteiro-de-cabral-e-pai-do-pato-da-fiesp-e-escolhido-por-freixo-para-pre-campanha-no-rj.shtml
+2021-06-11 10:27:44,388          root     INFO: Replying to: 1403297892786388993
+2021-06-11 10:27:44,596          root     INFO: Id to store: 1403297893449093124
+2021-06-11 10:27:49,952          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-incentivos-para-clubes-de-futebol-virarem-empresas-11062021
+2021-06-11 10:27:50,419          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/06/boicote-a-cova-america-sera-algo-tao-inedito-que-o-melhor-e-aguardar.shtml
+2021-06-11 10:27:50,420          root     INFO: Finished script
