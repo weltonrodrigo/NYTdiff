@@ -1,25 +1,6 @@
-2021-06-11 11:19:56,969          root     INFO: Starting script
-2021-06-11 11:19:58,049          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-11 11:19:58,837          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-11 11:19:59,624          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-11 11:19:59,865          root     INFO: Parsing R7 - Brasil
-2021-06-11 11:20:03,115          root     INFO: Marco Aurélio <del>diz que</del> <ins>acusa Fux de 'interceptar'</ins> petição de Lula <del>enviada</del> <ins>dirigida</ins> a <del>ele foi 'interceptada' e encaminhada a Luiz Fux</del> <ins>seu gabinete</ins>
-2021-06-11 11:20:05,054          root     INFO: Media ready with ids: 1403311064624869379
-2021-06-11 11:20:05,055          root     INFO: Text to tweet: Modificação do Título
-2021-06-11 11:20:05,055          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/marco-aurelio-diz-que-peticao-de-lula-enviada-a-ele-foi-interceptada-e-encaminhada-a-luiz-fux.shtml
-2021-06-11 11:20:05,064          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/marco-aurelio-diz-que-peticao-de-lula-enviada-a-ele-foi-interceptada-e-encaminhada-a-luiz-fux.shtml
-2021-06-11 11:20:05,305          root     INFO: Replying to: 1403311066705285121
-2021-06-11 11:20:05,595          root     INFO: Id to store: 1403311067707723776
-2021-06-11 11:20:05,888          root     INFO: <del>Ex-marqueteiro de Cabral</del> <ins>Freixo deixa PSOL</ins> e <ins>escolhe</ins> pai do 'pato da Fiesp' <del>é escolhido por Freixo</del> <ins>e ex-marqueteiro de Cabral</ins> para <del>pré-campanha no RJ</del> <ins>campanha ao Governo do Rio</ins>
-2021-06-11 11:20:07,576          root     INFO: Media ready with ids: 1403311075701952513
-2021-06-11 11:20:07,576          root     INFO: Text to tweet: Modificação do Título
-2021-06-11 11:20:07,576          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-marqueteiro-de-cabral-e-pai-do-pato-da-fiesp-e-escolhido-por-freixo-para-pre-campanha-no-rj.shtml
-2021-06-11 11:20:07,586          root     INFO: Replying to: 1403297893449093124
-2021-06-11 11:20:07,877          root     INFO: Id to store: 1403311077262233601
-2021-06-11 11:20:07,884          root     INFO: O deputado Marcelo Freixo <del>(PSOL-RJ)</del> <ins>(RJ) anunciou nesta sexta-feira (11) sua desfiliação do PSOL, onde estava desde 2005. Freixo é pré-candidato ao Governo do Rio e</ins> escolheu o marqueteiro Renato Pereira como um dos estrategistas <del>de sua pré-campanha</del> para a <del>disputa ao Governo do Rio de Janeiro.</del> <ins>sua campanha eleitoral.</ins> Leia mais (06/10/2021 - 23h15)
-2021-06-11 11:20:09,650          root     INFO: Media ready with ids: 1403311084224798721
-2021-06-11 11:20:09,651          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-11 11:20:09,651          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-marqueteiro-de-cabral-e-pai-do-pato-da-fiesp-e-escolhido-por-freixo-para-pre-campanha-no-rj.shtml
-2021-06-11 11:20:09,660          root     INFO: Replying to: 1403311077262233601
-2021-06-11 11:20:09,938          root     INFO: Id to store: 1403311085965430788
-2021-06-11 11:20:15,353          root     INFO: Finished script
+2021-06-11 11:32:33,925          root     INFO: Starting script
+2021-06-11 11:32:34,888          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-11 11:32:35,674          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-11 11:32:36,454          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-11 11:32:36,667          root     INFO: Parsing R7 - Brasil
+2021-06-11 11:32:45,047          root     INFO: Finished script
