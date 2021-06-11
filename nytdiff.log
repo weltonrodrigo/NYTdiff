@@ -1,6 +1,10 @@
-2021-06-11 07:57:47,581          root     INFO: Starting script
-2021-06-11 07:57:48,398          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-11 07:57:49,053          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-11 07:57:49,718          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-11 07:57:49,965          root     INFO: Parsing R7 - Brasil
-2021-06-11 07:57:59,281          root     INFO: Finished script
+2021-06-11 08:26:31,586          root     INFO: Starting script
+2021-06-11 08:26:32,423          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-11 08:26:33,115          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-11 08:26:33,799          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-11 08:26:33,989          root     INFO: Parsing R7 - Brasil
+2021-06-11 08:26:37,172          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/rogerio-carvalho-sera-o-relator-no-senado-de-projeto-que-revoga-a-lei-de-seguranca-nacional.shtml
+2021-06-11 08:26:40,214          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/podcasts/2021/06/um-ano-depois-pantanal-enfrenta-seca-e-teme-a-volta-do-fogo-ouca-podcast.shtml
+2021-06-11 08:26:43,769          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/para-bia-kicis-eleicao-de-2022-so-sera-confiavel-com-voto-impresso-em-100-das-urnas-india-adotou-modelo.shtml
+2021-06-11 08:26:43,774          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/04/criacao-de-rodovia-na-amazonia-ameaca-disparar-a-violencia-no-lado-peruano.shtml
+2021-06-11 08:26:43,775          root     INFO: Finished script
