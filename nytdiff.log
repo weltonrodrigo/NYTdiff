@@ -1,6 +1,12 @@
-2021-06-11 12:36:48,491          root     INFO: Starting script
-2021-06-11 12:36:49,310          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-11 12:36:49,969          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-11 12:36:50,634          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-11 12:36:50,800          root     INFO: Parsing R7 - Brasil
-2021-06-11 12:36:58,776          root     INFO: Finished script
+2021-06-11 13:10:24,884          root     INFO: Starting script
+2021-06-11 13:10:25,720          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-11 13:10:26,364          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-11 13:10:27,010          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-11 13:10:27,260          root     INFO: Parsing R7 - Brasil
+2021-06-11 13:10:27,788          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/terra-vegana/2021/06/bolo-de-milho-com-pipoca-para-mais-um-arraial-em-casa.shtml
+2021-06-11 13:10:30,359          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/alcantara-deve-ser-primeira-cidade-a-atingir-100-de-vacinados-com-primeira-dose-anuncia-flavio-dino.shtml
+2021-06-11 13:10:30,369          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-reuniao-com-pm-motociata-com-bolsonaro-muda-trajeto-e-promete-respeito-a-regras-contra-covid.shtml
+2021-06-11 13:10:35,933          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/morre-mozart-vianna-secretario-geral-da-camara-por-25-anos-e-promotor-da-transparencia-no-legislativo.shtml
+2021-06-11 13:10:35,937          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49698
+2021-06-11 13:10:35,942          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/imprensa-dos-eua-acorda-para-um-biden-que-age-como-trump.shtml
+2021-06-11 13:10:35,942          root     INFO: Finished script
