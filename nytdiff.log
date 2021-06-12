@@ -1,15 +1,13 @@
-2021-06-12 03:28:01,524          root     INFO: Starting script
-2021-06-12 03:28:02,388          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-12 03:28:03,077          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-12 03:28:03,765          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-12 03:28:03,940          root     INFO: Parsing R7 - Brasil
-2021-06-12 03:28:06,975          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/presidente-da-caixa-e-ministro-da-cidadania-viajarao-para-toquio-para-acompanhar-a-olimpiada.shtml
-2021-06-12 03:28:07,024          root     INFO: Doria <del>inaugura</del> <ins>acompanha obras de</ins> hospital na região de Bolsonaro no dia em que presidente comanda 'motociata' em SP
-2021-06-12 03:28:08,770          root     INFO: Media ready with ids: 1403554685869608966
-2021-06-12 03:28:08,770          root     INFO: Text to tweet: Modificação do Título
-2021-06-12 03:28:08,771          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/doria-inaugura-hospital-na-regiao-de-bolsonaro-no-dia-em-que-presidente-comanda-motociata-em-sp.shtml
-2021-06-12 03:28:08,782          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/doria-inaugura-hospital-na-regiao-de-bolsonaro-no-dia-em-que-presidente-comanda-motociata-em-sp.shtml
-2021-06-12 03:28:08,950          root     INFO: Replying to: 1403554687199105024
-2021-06-12 03:28:09,155          root     INFO: Id to store: 1403554687882874882
-2021-06-12 03:28:15,521          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-alega-informacao-pessoal-e-impoe-sigilo-de-ate-100-anos-a-processo-que-absolveu-pazuello.shtml
-2021-06-12 03:28:15,522          root     INFO: Finished script
+2021-06-12 03:56:48,379          root     INFO: Starting script
+2021-06-12 03:56:49,295          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-12 03:56:49,992          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-12 03:56:50,698          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-12 03:56:50,952          root     INFO: Parsing R7 - Brasil
+2021-06-12 03:56:55,160          root     INFO: As recentes mudanças efetuadas pelo governo <ins>Jair</ins> Bolsonaro em cargos de chefia dos fundos de pensão de funcionários da Caixa (Funcef) e do Banco do Brasil (Previ) geraram preocupação entre técnicos da Previc (Superintendência Nacional de Previdência Complementar), responsável por fiscalizar as entidades. Leia mais (06/11/2021 - 23h15)
+2021-06-12 03:56:56,991          root     INFO: Media ready with ids: 1403561934528684035
+2021-06-12 03:56:56,991          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-12 03:56:56,992          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/trocas-nas-chefias-de-fundos-de-pensao-pelo-governo-bolsonaro-preocupam-orgao-de-fiscalizacao.shtml
+2021-06-12 03:56:57,001          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/trocas-nas-chefias-de-fundos-de-pensao-pelo-governo-bolsonaro-preocupam-orgao-de-fiscalizacao.shtml
+2021-06-12 03:56:57,169          root     INFO: Replying to: 1403561935875055621
+2021-06-12 03:56:57,409          root     INFO: Id to store: 1403561936663498754
+2021-06-12 03:57:04,293          root     INFO: Finished script
