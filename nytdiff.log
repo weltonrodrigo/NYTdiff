@@ -1,41 +1,13 @@
-2021-06-12 20:23:59,217          root     INFO: Starting script
-2021-06-12 20:24:00,065          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-12 20:24:00,750          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-12 20:24:01,441          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-12 20:24:01,724          root     INFO: Parsing R7 - Brasil
-2021-06-12 20:24:01,890          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2021/06/ato-falho-de-bolsonaro-ao-chamar-mascara-de-simbolo-e-retrato-maximo-de-sua-ignorancia-e-irresponsabilidade.shtml
-2021-06-12 20:24:01,905          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/brasil-enfrenta-nova-ameaca-de-ruptura-democratica.shtml
-2021-06-12 20:24:01,918          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/06/a-falsa-dicotomia-baco-x-bacon.shtml
-2021-06-12 20:24:01,966          root     INFO: Neste domingo (13), o Brasil enfrenta a Venezuela, pela Copa América. Gostei da atuação contra o Paraguai, pelas Eliminatórias. O time atuou com dois jogadores pelos lados, Richarlison e Gabriel Jesus, velozes, hábeis, disciplinados, que conseguem defender e atacar. Leia mais (06/12/2021 - <del>16h25)</del> <ins>16h56)</ins>
-2021-06-12 20:24:03,983          root     INFO: Media ready with ids: 1403810349422350337
-2021-06-12 20:24:03,983          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-12 20:24:03,983          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/06/conceitos-e-verdades-do-futebol-sao-com-frequencia-desmentidos-em-campo.shtml
-2021-06-12 20:24:03,999          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/06/conceitos-e-verdades-do-futebol-sao-com-frequencia-desmentidos-em-campo.shtml
-2021-06-12 20:24:04,197          root     INFO: Replying to: 1403810352006111233
-2021-06-12 20:24:04,442          root     INFO: Id to store: 1403810352815607811
-2021-06-12 20:24:07,312          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/o-selvagem-da-motociata.shtml
-2021-06-12 20:24:07,328          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/brasil-enfrenta-nova-ameaca-de-ruptura-democratica.shtml
-2021-06-12 20:24:07,401          root     INFO: Em discurso <ins>no Ibirapuera em São Paulo</ins> diante de millhares de <del>apoiadores que participaram</del> <ins>apoiadores, após participar</ins> de uma motociata neste <del>sábado,</del> <ins>sábado (12),</ins> o presidente Jair Bolsonaro voltou a atacar as políticas de isolamento <ins>social</ins> e disse comandar um governo que acredita em Deus, <ins>que</ins> é leal à <ins>sua</ins> população e que respeita os militares. Leia mais (06/12/2021 - 14h30)
-2021-06-12 20:24:09,137          root     INFO: Media ready with ids: 1403810371987775491
-2021-06-12 20:24:09,138          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-12 20:24:09,138          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-motociata-bolsonaro-cita-deus-e-militares-enaltece-pm-sp-e-cloroquina-e-ataca-isolamento.shtml
-2021-06-12 20:24:09,153          root     INFO: Replying to: 1403803779254865920
-2021-06-12 20:24:09,395          root     INFO: Id to store: 1403810373619400708
-2021-06-12 20:24:09,525          root     INFO: <del>Concentração para 'motociata'</del> <ins>Ato</ins> com Bolsonaro reúne <del>milhares</del> <ins>12 mil motos</ins> em SP em meio a <ins>novo</ins> avanço da pandemia
-2021-06-12 20:24:11,216          root     INFO: Media ready with ids: 1403810380745523202
-2021-06-12 20:24:11,216          root     INFO: Text to tweet: Modificação do Título
-2021-06-12 20:24:11,216          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/concentracao-para-motociata-com-bolsonaro-reune-milhares-em-sp-em-meio-a-avanco-da-pandemia.shtml
-2021-06-12 20:24:11,227          root     INFO: Replying to: 1403794556152340482
-2021-06-12 20:24:11,492          root     INFO: Id to store: 1403810382314151936
-2021-06-12 20:24:11,507          root     INFO: <del>Centenas de motociclistas e apoiadores a pé se aglomeraram na manhã deste sábado (12), na avenida Braz Leme, em Santana, zona norte de São Paulo, parar participar da chamada "motociata"</del> <ins>Um ato político</ins> com <del>o</del> presidente Jair Bolsonaro (sem <del>partido).</del> <ins>partido) reuniu milhares de motociclistas em São Paulo neste sábado (12). A motociata durou cerca de quatro horas, reuniu cerca de 12 mil motos, segundo o governo paulista, travou o trânsito em diferentes pontos da capital e levou ao fechamento completo dos dois sentidos da rodovia dos Bandeirantes até região de Jundiaí.</ins> Leia mais (06/12/2021 - 09h17)
-2021-06-12 20:24:13,270          root     INFO: Media ready with ids: 1403810389238947845
-2021-06-12 20:24:13,270          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-12 20:24:13,270          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/concentracao-para-motociata-com-bolsonaro-reune-milhares-em-sp-em-meio-a-avanco-da-pandemia.shtml
-2021-06-12 20:24:13,281          root     INFO: Replying to: 1403810382314151936
-2021-06-12 20:24:13,524          root     INFO: Id to store: 1403810390912516106
-2021-06-12 20:24:19,467          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/policia-do-rio-intima-jornalista-e-intercept-brasil-diz-que-nao-ira-se-curvar.shtml
-2021-06-12 20:24:19,473          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/tcu-ve-caso-grave-e-pode-afastar-autor-de-documento-citado-por-bolsonaro-com-distorcao-sobre-covid.shtml
-2021-06-12 20:24:19,478          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/faroeste-caboclo.shtml
-2021-06-12 20:24:19,483          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/06/produtores-brasileiros-e-americanos-tem-ganho-recorde-com-alta-de-precos.shtml
-2021-06-12 20:24:19,488          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/06/sem-tempo-para-contornar-pandemia-japao-vira-refem-dos-jogos-olimpicos.shtml
-2021-06-12 20:24:19,489          root     INFO: Finished script
+2021-06-12 20:36:29,223          root     INFO: Starting script
+2021-06-12 20:36:30,024          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-12 20:36:30,680          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-12 20:36:31,334          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-12 20:36:31,541          root     INFO: Parsing R7 - Brasil
+2021-06-12 20:36:40,111          root     INFO: Removed http://noticias.r7.com/brasil/motociata-de-apoiadores-de-bolsonaro-tem-bloqueios-em-sp-12062021
+2021-06-12 20:36:40,119          root     INFO: Removed http://noticias.r7.com/brasil/ibama-quer-mexer-em-regras-para-remocao-de-servidores-12062021
+2021-06-12 20:36:40,124          root     INFO: Removed http://noticias.r7.com/brasil/governo-de-sp-autua-bolsonaro-por-nao-usar-mascara-em-ato-12062021
+2021-06-12 20:36:40,129          root     INFO: Removed http://noticias.r7.com/brasil/policiamento-em-motociata-de-bolsonaro-custou-r-12-milhao-12062021
+2021-06-12 20:36:40,134          root     INFO: Removed http://noticias.r7.com/brasil/novo-marco-de-saneamento-e-alvo-de-ofensiva-no-stf-e-no-congresso-12062021
+2021-06-12 20:36:40,139          root     INFO: Removed http://noticias.r7.com/brasil/justica-abre-consulta-publica-para-classificacao-etaria-para-tv-e-apps-12062021
+2021-06-12 20:36:40,144          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-saude-confirma-antecipacao-da-vacina-da-johnson-12062021
+2021-06-12 20:36:40,145          root     INFO: Finished script
