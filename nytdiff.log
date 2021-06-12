@@ -1,39 +1,30 @@
-2021-06-12 16:39:10,033          root     INFO: Starting script
-2021-06-12 16:39:11,158          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-12 16:39:11,811          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-12 16:39:12,467          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-12 16:39:12,723          root     INFO: Parsing R7 - Brasil
-2021-06-12 16:39:15,839          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/no-dia-criado-pelo-pai-de-doria-bolsonaro-provoca-tucano-em-seu-quintal.shtml
-2021-06-12 16:39:15,918          root     INFO: O governo João Doria <del>(PSDB), de São Paulo,</del> <ins>(PSDB)</ins> autuou o presidente Jair Bolsonaro (sem partido) neste sábado (12) por não usar máscara de proteção facial contra a Covid-19 em evento <del>na capital paulista.</del> <ins>em São Paulo.</ins> Leia mais (06/12/2021 - 12h03)
-2021-06-12 16:39:17,703          root     INFO: Media ready with ids: 1403753784887726081
-2021-06-12 16:39:17,704          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-12 16:39:17,704          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-doria-multa-bolsonaro-por-nao-usar-mascara-em-motociata-em-sao-paulo.shtml
-2021-06-12 16:39:17,714          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-doria-multa-bolsonaro-por-nao-usar-mascara-em-motociata-em-sao-paulo.shtml
-2021-06-12 16:39:17,917          root     INFO: Replying to: 1403753786489909256
-2021-06-12 16:39:18,207          root     INFO: Id to store: 1403753787265802242
-2021-06-12 16:39:18,259          root     INFO: <del>Concentração para 'motociata'</del> <ins>Motociata</ins> com Bolsonaro reúne milhares em SP em meio a avanço da pandemia
-2021-06-12 16:39:19,955          root     INFO: Media ready with ids: 1403753794425470983
-2021-06-12 16:39:19,955          root     INFO: Text to tweet: Modificação do Título
-2021-06-12 16:39:19,955          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/concentracao-para-motociata-com-bolsonaro-reune-milhares-em-sp-em-meio-a-avanco-da-pandemia.shtml
-2021-06-12 16:39:19,966          root     INFO: Replying to: 1403719166209757184
-2021-06-12 16:39:20,198          root     INFO: Id to store: 1403753795864219649
-2021-06-12 16:39:20,206          root     INFO: <del>Centenas</del> <ins>Milhares</ins> de motociclistas <del>e apoiadores a pé se aglomeraram na manhã deste sábado (12), na avenida Braz Leme,</del> <ins>participam</ins> em <del>Santana, zona norte de</del> São <del>Paulo, parar participar da chamada "motociata"</del> <ins>Paulo neste sábado (12) de mais uma motociata</ins> com o presidente Jair Bolsonaro (sem partido). <ins>Com o presidente à frente, sem máscara, a manifestação intitulada "Acelera para Cristo" começou às 10h, na região de Santana, zona norte da capital, e irá terminar no obelisco do Ibirapuera. O trajeto, que incluiu um bate-volta a Jundiaí, é de 130 km.</ins> Leia mais (06/12/2021 - 09h17)
-2021-06-12 16:39:21,948          root     INFO: Media ready with ids: 1403753802713419781
-2021-06-12 16:39:21,948          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-12 16:39:21,948          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/concentracao-para-motociata-com-bolsonaro-reune-milhares-em-sp-em-meio-a-avanco-da-pandemia.shtml
-2021-06-12 16:39:21,958          root     INFO: Replying to: 1403753795864219649
-2021-06-12 16:39:22,197          root     INFO: Id to store: 1403753804210786313
-2021-06-12 16:39:22,762          root     INFO: <del>'Motociata' com Bolsonaro em SP deve afetar trânsito até</del> <ins>Rodovia dos Bandeirantes é liberada no sentido interior após motociata</ins> de <del>estrada neste sábado; confira o possível trajeto</del> <ins>Bolsonaro</ins>
-2021-06-12 16:39:24,445          root     INFO: Media ready with ids: 1403753813295644672
-2021-06-12 16:39:24,445          root     INFO: Text to tweet: Modificação do Título
-2021-06-12 16:39:24,445          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-deve-afetar-transito-ate-de-estrada-neste-sabado-confira-o-possivel-trajeto.shtml
-2021-06-12 16:39:24,456          root     INFO: Replying to: 1403719184538865669
-2021-06-12 16:39:24,668          root     INFO: Id to store: 1403753814575005701
-2021-06-12 16:39:24,676          root     INFO: A <del>chamada 'motociata'</del> <ins>motociata</ins> com o presidente Jair Bolsonaro <del>deve afetar</del> <ins>afeta</ins> o trânsito de ruas e avenidas da cidade de São Paulo <del>no final da manhã e início da tarde deste</del> <ins>neste</ins> sábado (12), além de uma das principais rodovias do estado, que liga a capital <del>à</del> <ins>a</ins> Campinas. Leia mais (06/11/2021 - 15h20)
-2021-06-12 16:39:26,482          root     INFO: Media ready with ids: 1403753821264822283
-2021-06-12 16:39:26,483          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-12 16:39:26,483          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-deve-afetar-transito-ate-de-estrada-neste-sabado-confira-o-possivel-trajeto.shtml
-2021-06-12 16:39:26,496          root     INFO: Replying to: 1403753814575005701
-2021-06-12 16:39:26,753          root     INFO: Id to store: 1403753823248826368
-2021-06-12 16:39:32,473          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/na-cpi-da-covid-queiroga-cita-dados-falsos-sobre-infectados-no-brasileirao-e-reunioes-com-bolsonaro.shtml
-2021-06-12 16:39:32,474          root     INFO: Finished script
+2021-06-12 17:14:03,807          root     INFO: Starting script
+2021-06-12 17:14:04,794          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-12 17:14:05,583          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-12 17:14:06,381          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-12 17:14:06,632          root     INFO: Parsing R7 - Brasil
+2021-06-12 17:14:09,774          root     INFO: <del>Concentração para 'motociata'</del> <ins>Motociata</ins> com Bolsonaro reúne milhares em SP em meio a avanço da pandemia
+2021-06-12 17:14:11,509          root     INFO: Media ready with ids: 1403762567013666816
+2021-06-12 17:14:11,509          root     INFO: Text to tweet: Modificação do Título
+2021-06-12 17:14:11,509          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/concentracao-para-motociata-com-bolsonaro-reune-milhares-em-sp-em-meio-a-avanco-da-pandemia.shtml
+2021-06-12 17:14:11,521          root     INFO: Replying to: 1403753804210786313
+2021-06-12 17:14:11,814          root     INFO: Id to store: 1403762568703918088
+2021-06-12 17:14:11,822          root     INFO: <del>Centenas</del> <ins>Milhares</ins> de motociclistas <del>e apoiadores a pé se aglomeraram na manhã deste sábado (12), na avenida Braz Leme,</del> <ins>participaram</ins> em <del>Santana, zona norte de</del> São <del>Paulo, parar participar da chamada "motociata"</del> <ins>Paulo neste sábado (12) de mais uma motociata</ins> com o presidente Jair Bolsonaro (sem partido). Leia mais (06/12/2021 - 09h17)
+2021-06-12 17:14:13,538          root     INFO: Media ready with ids: 1403762575456849925
+2021-06-12 17:14:13,539          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-12 17:14:13,539          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/concentracao-para-motociata-com-bolsonaro-reune-milhares-em-sp-em-meio-a-avanco-da-pandemia.shtml
+2021-06-12 17:14:13,549          root     INFO: Replying to: 1403762568703918088
+2021-06-12 17:14:13,792          root     INFO: Id to store: 1403762576958316544
+2021-06-12 17:14:14,348          root     INFO: <del>'Motociata' com Bolsonaro</del> <ins>Rodovia dos Bandeirantes é liberada</ins> em <del>SP deve afetar trânsito até</del> <ins>ambos os sentidos após motociata</ins> de <del>estrada neste sábado; confira o possível trajeto</del> <ins>Bolsonaro</ins>
+2021-06-12 17:14:16,024          root     INFO: Media ready with ids: 1403762585938374656
+2021-06-12 17:14:16,025          root     INFO: Text to tweet: Modificação do Título
+2021-06-12 17:14:16,025          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-deve-afetar-transito-ate-de-estrada-neste-sabado-confira-o-possivel-trajeto.shtml
+2021-06-12 17:14:16,037          root     INFO: Replying to: 1403753823248826368
+2021-06-12 17:14:16,285          root     INFO: Id to store: 1403762587389644800
+2021-06-12 17:14:16,293          root     INFO: A <del>chamada 'motociata'</del> <ins>motociata</ins> com o presidente Jair Bolsonaro <del>deve afetar</del> <ins>afetou</ins> o trânsito de ruas e avenidas da cidade de São Paulo <del>no final da manhã e início da tarde deste</del> <ins>neste</ins> sábado (12), além de uma das principais rodovias do estado, que liga a capital <del>à</del> <ins>a</ins> Campinas. Leia mais (06/11/2021 - 15h20)
+2021-06-12 17:14:18,054          root     INFO: Media ready with ids: 1403762594251411473
+2021-06-12 17:14:18,056          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-12 17:14:18,056          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-deve-afetar-transito-ate-de-estrada-neste-sabado-confira-o-possivel-trajeto.shtml
+2021-06-12 17:14:18,067          root     INFO: Replying to: 1403762587389644800
+2021-06-12 17:14:18,306          root     INFO: Id to store: 1403762595899785217
+2021-06-12 17:14:23,704          root     INFO: Finished script
