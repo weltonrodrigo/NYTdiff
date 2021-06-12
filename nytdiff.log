@@ -1,8 +1,13 @@
-2021-06-12 17:44:31,161          root     INFO: Starting script
-2021-06-12 17:44:32,154          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-12 17:44:32,939          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-12 17:44:33,733          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-12 17:44:33,986          root     INFO: Parsing R7 - Brasil
-2021-06-12 17:44:37,151          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-motociata-bolsonaro-cita-deus-e-militares-enaltece-pm-sp-e-cloroquina-e-ataca-isolamento.shtml
-2021-06-12 17:44:43,730          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-sai-ainda-mais-enfraquecido-de-segundo-depoimento-a-cpi.shtml
-2021-06-12 17:44:43,731          root     INFO: Finished script
+2021-06-12 17:58:49,872          root     INFO: Starting script
+2021-06-12 17:58:50,883          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-12 17:58:51,675          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-12 17:58:52,482          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-12 17:58:52,708          root     INFO: Parsing R7 - Brasil
+2021-06-12 17:58:55,950          root     INFO: Em discurso <ins>no Ibirapuera em São Paulo</ins> diante de millhares de apoiadores que participaram de uma motociata neste <del>sábado,</del> <ins>sábado (12),</ins> o presidente Jair Bolsonaro voltou a atacar as políticas de isolamento e disse comandar um governo que acredita em Deus, é leal à população e que respeita os militares. Leia mais (06/12/2021 - 14h30)
+2021-06-12 17:58:57,808          root     INFO: Media ready with ids: 1403773834088570883
+2021-06-12 17:58:57,809          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-12 17:58:57,809          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-motociata-bolsonaro-cita-deus-e-militares-enaltece-pm-sp-e-cloroquina-e-ataca-isolamento.shtml
+2021-06-12 17:58:57,818          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-motociata-bolsonaro-cita-deus-e-militares-enaltece-pm-sp-e-cloroquina-e-ataca-isolamento.shtml
+2021-06-12 17:58:58,176          root     INFO: Replying to: 1403773836084924419
+2021-06-12 17:58:58,475          root     INFO: Id to store: 1403773837297192962
+2021-06-12 17:59:05,032          root     INFO: Finished script
