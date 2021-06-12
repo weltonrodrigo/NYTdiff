@@ -1,10 +1,15 @@
-2021-06-12 02:59:48,103          root     INFO: Starting script
-2021-06-12 02:59:49,166          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-12 02:59:50,000          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-12 02:59:50,802          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-12 02:59:51,019          root     INFO: Parsing R7 - Brasil
-2021-06-12 02:59:54,084          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/doria-inaugura-hospital-na-regiao-de-bolsonaro-no-dia-em-que-presidente-comanda-motociata-em-sp.shtml
-2021-06-12 02:59:54,099          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/prefeitos-dizem-ao-governo-que-preferem-reforma-tributaria-fatiada-do-que-a-mais-ampla.shtml
-2021-06-12 03:00:00,264          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/desmentido-pelo-tcu-bolsonaro-agora-diz-que-errou-mas-insiste-em-tese-de-supernotificacao-de-covid.shtml
-2021-06-12 03:00:00,269          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/quarentena-eleitoral-para-juizes-vira-trunfo-de-pec-que-barra-militares-da-ativa-em-cargos-de-governo.shtml
-2021-06-12 03:00:00,271          root     INFO: Finished script
+2021-06-12 03:28:01,524          root     INFO: Starting script
+2021-06-12 03:28:02,388          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-12 03:28:03,077          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-12 03:28:03,765          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-12 03:28:03,940          root     INFO: Parsing R7 - Brasil
+2021-06-12 03:28:06,975          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/presidente-da-caixa-e-ministro-da-cidadania-viajarao-para-toquio-para-acompanhar-a-olimpiada.shtml
+2021-06-12 03:28:07,024          root     INFO: Doria <del>inaugura</del> <ins>acompanha obras de</ins> hospital na região de Bolsonaro no dia em que presidente comanda 'motociata' em SP
+2021-06-12 03:28:08,770          root     INFO: Media ready with ids: 1403554685869608966
+2021-06-12 03:28:08,770          root     INFO: Text to tweet: Modificação do Título
+2021-06-12 03:28:08,771          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/doria-inaugura-hospital-na-regiao-de-bolsonaro-no-dia-em-que-presidente-comanda-motociata-em-sp.shtml
+2021-06-12 03:28:08,782          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/doria-inaugura-hospital-na-regiao-de-bolsonaro-no-dia-em-que-presidente-comanda-motociata-em-sp.shtml
+2021-06-12 03:28:08,950          root     INFO: Replying to: 1403554687199105024
+2021-06-12 03:28:09,155          root     INFO: Id to store: 1403554687882874882
+2021-06-12 03:28:15,521          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exercito-alega-informacao-pessoal-e-impoe-sigilo-de-ate-100-anos-a-processo-que-absolveu-pazuello.shtml
+2021-06-12 03:28:15,522          root     INFO: Finished script
