@@ -1,12 +1,30 @@
-2021-06-12 13:57:52,635          root     INFO: Starting script
-2021-06-12 13:57:53,520          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-12 13:57:54,196          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-12 13:57:54,864          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-12 13:57:55,073          root     INFO: Parsing R7 - Brasil
-2021-06-12 13:57:57,663          root     INFO: Morreu na madrugada neste sábado (12), aos 80 anos, em Brasília, Marco Maciel, vice-presidente da República durante os oito anos de mandato de Fernando Henrique Cardoso, entre 1995 e <del>2002</del> <ins>2002,</ins> e <del>ex-senador,</del> <ins>ex-senador.</ins> Leia mais (06/12/2021 - 08h13)
-2021-06-12 13:57:59,486          root     INFO: Media ready with ids: 1403713191495057413
-2021-06-12 13:57:59,486          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-12 13:57:59,486          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/morre-aos-80-anos-marco-maciel-vice-presidente-da-republica-nos-dois-mandatos-de-fhc.shtml
-2021-06-12 13:57:59,495          root     INFO: Replying to: 1403680186407833600
-2021-06-12 13:57:59,753          root     INFO: Id to store: 1403713193105580043
-2021-06-12 13:58:05,027          root     INFO: Finished script
+2021-06-12 14:21:35,076          root     INFO: Starting script
+2021-06-12 14:21:35,862          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-12 14:21:36,503          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-12 14:21:37,147          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-12 14:21:37,333          root     INFO: Parsing R7 - Brasil
+2021-06-12 14:21:39,866          root     INFO: <del>Concentração para 'motociata'</del> <ins>Motociata</ins> com Bolsonaro reúne milhares em SP em meio a avanço da pandemia
+2021-06-12 14:21:41,586          root     INFO: Media ready with ids: 1403719156202192896
+2021-06-12 14:21:41,586          root     INFO: Text to tweet: Modificação do Título
+2021-06-12 14:21:41,587          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/concentracao-para-motociata-com-bolsonaro-reune-milhares-em-sp-em-meio-a-avanco-da-pandemia.shtml
+2021-06-12 14:21:41,595          root     INFO: Replying to: 1403708097294704643
+2021-06-12 14:21:41,811          root     INFO: Id to store: 1403719157670105100
+2021-06-12 14:21:41,819          root     INFO: <del>Centenas</del> <ins>Milhares</ins> de motociclistas <del>e apoiadores a pé se aglomeraram na manhã deste sábado (12), na avenida Braz Leme,</del> <ins>participam</ins> em <del>Santana, zona norte de</del> São <del>Paulo, parar participar da chamada "motociata"</del> <ins>Paulo neste sábado (12) de mais uma motociata</ins> com o presidente Jair Bolsonaro (sem partido). <ins>Com o presidente à frente, sem máscara, a manifestação intitulada "Acelera para Cristo" começou às 10h, na região de Santana, zona norte da capital, e irá terminar no obelisco do Ibirapuera. O trajeto, que incliu um bate-volta a Jundiaí, é de 130 km.</ins> Leia mais (06/12/2021 - 09h17)
+2021-06-12 14:21:43,636          root     INFO: Media ready with ids: 1403719164339052547
+2021-06-12 14:21:43,636          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-12 14:21:43,637          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/concentracao-para-motociata-com-bolsonaro-reune-milhares-em-sp-em-meio-a-avanco-da-pandemia.shtml
+2021-06-12 14:21:43,645          root     INFO: Replying to: 1403719157670105100
+2021-06-12 14:21:43,854          root     INFO: Id to store: 1403719166209757184
+2021-06-12 14:21:44,331          root     INFO: <del>'Motociata'</del> <ins>Motociata</ins> com Bolsonaro em SP <del>deve afetar trânsito até de estrada neste sábado;</del> <ins>fecha acessos à rodovia dos Bandeirantes;</ins> confira o <del>possível</del> trajeto
+2021-06-12 14:21:46,052          root     INFO: Media ready with ids: 1403719174560665609
+2021-06-12 14:21:46,052          root     INFO: Text to tweet: Modificação do Título
+2021-06-12 14:21:46,053          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-deve-afetar-transito-ate-de-estrada-neste-sabado-confira-o-possivel-trajeto.shtml
+2021-06-12 14:21:46,061          root     INFO: Replying to: 1403700797578358786
+2021-06-12 14:21:46,289          root     INFO: Id to store: 1403719176456445956
+2021-06-12 14:21:46,295          root     INFO: A <del>chamada 'motociata'</del> <ins>motociata</ins> com o presidente Jair Bolsonaro deve afetar o trânsito de ruas e avenidas da cidade de São Paulo no final da manhã e início da tarde deste sábado (12), além de uma das principais rodovias do estado, que liga a capital <del>à</del> <ins>a</ins> Campinas. Leia mais (06/11/2021 - 15h20)
+2021-06-12 14:21:48,004          root     INFO: Media ready with ids: 1403719183024668679
+2021-06-12 14:21:48,005          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-12 14:21:48,005          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-deve-afetar-transito-ate-de-estrada-neste-sabado-confira-o-possivel-trajeto.shtml
+2021-06-12 14:21:48,014          root     INFO: Replying to: 1403719176456445956
+2021-06-12 14:21:48,223          root     INFO: Id to store: 1403719184538865669
+2021-06-12 14:21:52,919          root     INFO: Finished script
