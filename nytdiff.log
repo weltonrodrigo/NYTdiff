@@ -1,6 +1,12 @@
-2021-06-12 14:57:52,943          root     INFO: Starting script
-2021-06-12 14:57:54,164          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-12 14:57:54,850          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-12 14:57:55,551          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-12 14:57:55,722          root     INFO: Parsing R7 - Brasil
-2021-06-12 14:58:05,807          root     INFO: Finished script
+2021-06-12 15:27:52,128          root     INFO: Starting script
+2021-06-12 15:27:53,107          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-12 15:27:53,921          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-12 15:27:54,722          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-12 15:27:54,979          root     INFO: Parsing R7 - Brasil
+2021-06-12 15:27:55,130          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/hermano-vianna/2021/06/pensamento-ousado-de-psicanalista-ajuda-a-lidar-com-mundo-que-explodiu.shtml
+2021-06-12 15:27:58,170          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-doria-multa-bolsonaro-por-nao-usar-mascara-em-motociata-em-sao-paulo.shtml
+2021-06-12 15:28:03,885          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-vice-presidente-marco-maciel-morre-aos-80-anos-em-brasilia-12062021
+2021-06-12 15:28:03,900          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-participa-de-motociata-em-sp-em-ato-de-apoiadores-12062021
+2021-06-12 15:28:04,415          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/pf-indicia-lider-do-governo-bolsonaro-sob-suspeita-de-propina-de-r-10-milhoes-em-obras-no-nordeste.shtml
+2021-06-12 15:28:04,420          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/tributar-herancas-deveria-unir-da-esquerda-a-direita.shtml
+2021-06-12 15:28:04,421          root     INFO: Finished script
