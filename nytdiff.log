@@ -1,13 +1,13 @@
-2021-06-12 23:35:30,864          root     INFO: Starting script
-2021-06-12 23:35:31,848          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-12 23:35:32,668          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-12 23:35:33,449          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-12 23:35:33,682          root     INFO: Parsing R7 - Brasil
-2021-06-12 23:35:36,476          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/lula-compara-mascara-a-cabresto-mas-diz-que-usa-para-se-diferenciar-de-genocida.shtml
-2021-06-12 23:35:41,703          root     INFO: New article tracked: http://noticias.r7.com/brasil/ms-e-to-sao-os-estados-que-mais-preocupam-diz-ministro-queiroga-12062021
-2021-06-12 23:35:41,716          root     INFO: New article tracked: http://noticias.r7.com/brasil/luis-barroso-do-stf-lamenta-morte-do-jornalista-domingos-fraga-12062021
-2021-06-12 23:35:41,730          root     INFO: New article tracked: http://noticias.r7.com/brasil/domingos-fraga-era-um-profissional-admirado-diz-abratel-12062021
-2021-06-12 23:35:41,745          root     INFO: New article tracked: http://noticias.r7.com/brasil/morre-o-jornalista-domingos-fraga-diretor-executivo-da-record-tv-12062021
-2021-06-12 23:35:41,758          root     INFO: New article tracked: http://noticias.r7.com/brasil/flavio-bolsonaro-comemora-eliminacao-do-miliciano-ecko-12062021
-2021-06-12 23:35:42,156          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entidades-e-especialistas-lancam-ofensiva-para-tentar-barrar-retrocessos-na-lei-eleitoral.shtml
-2021-06-12 23:35:42,156          root     INFO: Finished script
+2021-06-12 23:49:59,384          root     INFO: Starting script
+2021-06-12 23:50:00,213          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-12 23:50:00,892          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-12 23:50:01,564          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-12 23:50:01,867          root     INFO: Parsing R7 - Brasil
+2021-06-12 23:50:04,791          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/stf-nega-pedidos-de-liminar-e-mantem-quebras-de-sigilo-de-pazuello-ernesto-e-capita-cloroquina-na-cpi.shtml
+2021-06-12 23:50:10,755          root     INFO: Removed http://noticias.r7.com/brasil/luis-barroso-do-stf-lamenta-morte-do-jornalista-domingos-fraga-12062021
+2021-06-12 23:50:10,762          root     INFO: Removed http://noticias.r7.com/brasil/domingos-fraga-era-um-profissional-admirado-diz-abratel-12062021
+2021-06-12 23:50:10,767          root     INFO: Removed http://noticias.r7.com/brasil/morre-o-jornalista-domingos-fraga-diretor-executivo-da-record-tv-12062021
+2021-06-12 23:50:10,781          root     INFO: Removed http://noticias.r7.com/brasil/ms-e-to-sao-os-estados-que-mais-preocupam-diz-ministro-queiroga-12062021
+2021-06-12 23:50:10,787          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/comissao-arns-entrara-como-amicus-curiae-em-acao-no-stf-sobre-a-lei-de-seguranca-nacional.shtml
+2021-06-12 23:50:10,792          root     INFO: Removed http://noticias.r7.com/brasil/flavio-bolsonaro-comemora-eliminacao-do-miliciano-ecko-12062021
+2021-06-12 23:50:10,792          root     INFO: Finished script
