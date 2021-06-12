@@ -1,13 +1,13 @@
-2021-06-12 09:57:39,334          root     INFO: Starting script
-2021-06-12 09:57:40,121          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-12 09:57:40,765          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-12 09:57:41,409          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-12 09:57:43,635          root     INFO: Parsing R7 - Brasil
-2021-06-12 09:57:51,162          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/quebra-de-sigilos-de-ex-ministros-e-inflacao-recorde-marcam-a-semana-12062021
-2021-06-12 09:57:51,175          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-2020-bolsonaro-sugeriu-fabricar-cloroquina-para-outros-paises-12062021
-2021-06-12 09:57:51,186          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-e-o-10-pais-em-proporcao-onde-a-covid-mais-mata-no-mundo-12062021
-2021-06-12 09:57:51,195          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-19-confira-o-calendario-de-vacinacao-em-23-capitais-do-pais-12062021
-2021-06-12 09:57:51,206          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-recebe-insumos-neste-sabado-para-mais-6-milhoes-de-vacinas-12062021
-2021-06-12 09:57:51,217          root     INFO: New article tracked: http://noticias.r7.com/brasil/agu-vai-ao-stf-contra-quebra-de-sigilo-de-pazuello-aprovada-por-cpi-11062021
-2021-06-12 09:57:51,226          root     INFO: New article tracked: http://noticias.r7.com/brasil/meninos-negros-sao-maioria-no-trabalho-infantil-afirma-secretario-11062021
-2021-06-12 09:57:51,550          root     INFO: Finished script
+2021-06-12 10:26:17,349          root     INFO: Starting script
+2021-06-12 10:26:18,380          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-12 10:26:19,178          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-12 10:26:19,971          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-12 10:26:20,200          root     INFO: Parsing R7 - Brasil
+2021-06-12 10:26:29,334          root     INFO: Removed http://noticias.r7.com/brasil/agu-vai-ao-stf-contra-quebra-de-sigilo-de-pazuello-aprovada-por-cpi-11062021
+2021-06-12 10:26:29,340          root     INFO: Removed http://noticias.r7.com/brasil/brasil-e-o-10-pais-em-proporcao-onde-a-covid-mais-mata-no-mundo-12062021
+2021-06-12 10:26:29,345          root     INFO: Removed http://noticias.r7.com/brasil/fotos/quebra-de-sigilos-de-ex-ministros-e-inflacao-recorde-marcam-a-semana-12062021
+2021-06-12 10:26:29,351          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-recebe-insumos-neste-sabado-para-mais-6-milhoes-de-vacinas-12062021
+2021-06-12 10:26:29,356          root     INFO: Removed http://noticias.r7.com/brasil/covid-19-confira-o-calendario-de-vacinacao-em-23-capitais-do-pais-12062021
+2021-06-12 10:26:29,361          root     INFO: Removed http://noticias.r7.com/brasil/em-2020-bolsonaro-sugeriu-fabricar-cloroquina-para-outros-paises-12062021
+2021-06-12 10:26:29,366          root     INFO: Removed http://noticias.r7.com/brasil/meninos-negros-sao-maioria-no-trabalho-infantil-afirma-secretario-11062021
+2021-06-12 10:26:29,367          root     INFO: Finished script
