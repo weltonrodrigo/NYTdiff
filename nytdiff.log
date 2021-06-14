@@ -1,41 +1,8 @@
-2021-06-14 16:40:34,573          root     INFO: Starting script
-2021-06-14 16:40:35,511          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-14 16:40:36,264          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-14 16:40:37,015          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-14 16:40:37,191          root     INFO: Parsing R7 - Brasil
-2021-06-14 16:40:40,666          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/em-convencao-do-patriota-flavio-diz-que-bolsonaro-quer-um-partido-com-seguranca-juridica.shtml
-2021-06-14 16:40:41,218          root     INFO: É falso que motociata de Bolsonaro entrou para livro de recordes por reunir 1,3 <del>mi</del> <ins>milhão de</ins> veículos
-2021-06-14 16:40:43,138          root     INFO: Media ready with ids: 1404478917969334278
-2021-06-14 16:40:43,139          root     INFO: Text to tweet: Modificação do Título
-2021-06-14 16:40:43,139          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/e-falso-que-motociata-de-bolsonaro-entrou-para-livro-de-recordes-por-reunir-13-mi-veiculos.shtml
-2021-06-14 16:40:43,148          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/e-falso-que-motociata-de-bolsonaro-entrou-para-livro-de-recordes-por-reunir-13-mi-veiculos.shtml
-2021-06-14 16:40:43,393          root     INFO: Replying to: 1404478920511135744
-2021-06-14 16:40:43,614          root     INFO: Id to store: 1404478921408663561
-2021-06-14 16:40:43,622          root     INFO: É falsa a informação que circula nas redes sociais de que a motociata liderada pelo presidente Jair Bolsonaro, em São Paulo, neste sábado (12), foi a maior do mundo e entrou para o Guinness <del>Book, livro de recordes,</del> <ins>World Records,</ins> após reunir 1,3 milhão de veículos. Leia mais (06/13/2021 - 20h12)
-2021-06-14 16:40:45,533          root     INFO: Media ready with ids: 1404478928069214212
-2021-06-14 16:40:45,533          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-14 16:40:45,533          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/e-falso-que-motociata-de-bolsonaro-entrou-para-livro-de-recordes-por-reunir-13-mi-veiculos.shtml
-2021-06-14 16:40:45,547          root     INFO: Replying to: 1404478921408663561
-2021-06-14 16:40:45,761          root     INFO: Id to store: 1404478930443198465
-2021-06-14 16:40:48,549          root     INFO: Madeireiras suspeitas de exportação ilegal no caso Salles transportaram R$ 84 mi em <del>madeira em</del> pouco mais de um ano
-2021-06-14 16:40:50,243          root     INFO: Media ready with ids: 1404478948822634511
-2021-06-14 16:40:50,243          root     INFO: Text to tweet: Modificação do Título
-2021-06-14 16:40:50,243          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/madeireiras-suspeitas-de-exportacao-ilegal-no-caso-salles-transportaram-r-84-mi-em-madeira-em-pouco-mais-de-um-ano.shtml
-2021-06-14 16:40:50,254          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/madeireiras-suspeitas-de-exportacao-ilegal-no-caso-salles-transportaram-r-84-mi-em-madeira-em-pouco-mais-de-um-ano.shtml
-2021-06-14 16:40:50,442          root     INFO: Replying to: 1404478950278062081
-2021-06-14 16:40:50,690          root     INFO: Id to store: 1404478951066685442
-2021-06-14 16:40:50,697          root     INFO: Madeireiras suspeitas de exportação ilegal para os EUA e a <del>Europa,</del> <ins>Europa</ins> e que estão no centro das investigações envolvendo o ministro Ricardo Salles (Meio <del>Ambiente),</del> <ins>Ambiente)</ins> movimentaram no país cargas de madeira avaliadas em R$ 83,6 milhões. Essas cargas foram transportadas em 2020 e nos primeiros meses de 2021. Leia mais (06/14/2021 - 12h00)
-2021-06-14 16:40:52,447          root     INFO: Media ready with ids: 1404478957983051780
-2021-06-14 16:40:52,448          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-14 16:40:52,448          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/madeireiras-suspeitas-de-exportacao-ilegal-no-caso-salles-transportaram-r-84-mi-em-madeira-em-pouco-mais-de-um-ano.shtml
-2021-06-14 16:40:52,458          root     INFO: Replying to: 1404478951066685442
-2021-06-14 16:40:52,689          root     INFO: Id to store: 1404478959497121795
-2021-06-14 16:40:56,411          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-alfineta-joao-doria-e-ironiza-criticas-a-copa-america-14062021
-2021-06-14 16:40:56,417          root     INFO: Removed http://noticias.r7.com/brasil/doria-cobra-queiroga-desde-antes-de-o-ministro-tomar-posse-14062021
-2021-06-14 16:40:56,423          root     INFO: Removed http://noticias.r7.com/brasil/governo-autoriza-uso-da-forca-nacional-na-terra-yanomami-14062021
-2021-06-14 16:40:56,428          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-e-doria-se-alfinetam-apos-anuncio-de-sp-quanto-recalque-14062021
-2021-06-14 16:40:56,434          root     INFO: Removed http://noticias.r7.com/brasil/auxilio-precisa-ser-sucedido-por-novo-programa-social-diz-pacheco-14062021
-2021-06-14 16:40:56,441          root     INFO: Removed http://noticias.r7.com/brasil/cpi-stf-nega-quebra-de-sigilos-de-membros-do-ministerio-da-saude-14062021
-2021-06-14 16:40:56,456          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-critica-cpi-e-renan-especialista-em-desvio-de-recursos-14062021
-2021-06-14 16:40:56,462          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rosa-weber-do-stf-autoriza-governador-do-amazonas-a-nao-depor-a-cpi-da-covid.shtml
-2021-06-14 16:40:56,463          root     INFO: Finished script
+2021-06-14 17:15:55,054          root     INFO: Starting script
+2021-06-14 17:15:55,892          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-14 17:15:56,562          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-14 17:15:57,242          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-14 17:15:57,410          root     INFO: Parsing R7 - Brasil
+2021-06-14 17:15:57,608          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/06/o-conservadorismo-do-futuro-sera-liberal-ou-nao-sera-como-disse-oakeshott.shtml
+2021-06-14 17:16:07,081          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/06/seguimos-os-protocolos-e-lorota-de-quem-deixa-o-nariz-para-fora-da-mascara.shtml
+2021-06-14 17:16:07,082          root     INFO: Finished script
