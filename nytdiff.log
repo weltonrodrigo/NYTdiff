@@ -1,8 +1,13 @@
-2021-06-15 20:23:49,051          root     INFO: Starting script
-2021-06-15 20:23:49,909          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-15 20:23:50,601          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-15 20:23:51,296          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-15 20:23:51,476          root     INFO: Parsing R7 - Brasil
-2021-06-15 20:23:51,625          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/06/a-pandemia-trouxe-muita-gente-nova-para-a-turma-dos-sem-foco.shtml
-2021-06-15 20:24:01,355          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/biden-vai-a-europa-e-deixa-rastro-de-problemas-nos-eua.shtml
-2021-06-15 20:24:01,356          root     INFO: Finished script
+2021-06-15 20:36:12,654          root     INFO: Starting script
+2021-06-15 20:36:13,468          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-15 20:36:14,126          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-15 20:36:14,787          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-15 20:36:15,355          root     INFO: Parsing R7 - Brasil
+2021-06-15 20:36:15,551          root     INFO: Evito usar a palavra call. Não pelo anglicismo, mas porque não sei por qual pronome tratá-la. Um call? Uma call? Ninguém sabe. Mas também odeio <ins>a</ins> palavra videochamada, e gosto menos ainda da <del>gigante</del> <ins>gigantesca</ins> videoconferência. Resta a simpática palavra zoom, que passou a designar qualquer videochamada, mesmo que não seja feita por Zoom -esse aplicativo que, curiosamente, não dá zoom. Leia mais (06/15/2021 - 17h00)
+2021-06-15 20:36:17,585          root     INFO: Media ready with ids: 1404900590136840196
+2021-06-15 20:36:17,586          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-15 20:36:17,586          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/06/a-pandemia-trouxe-muita-gente-nova-para-a-turma-dos-sem-foco.shtml
+2021-06-15 20:36:17,595          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gregorioduvivier/2021/06/a-pandemia-trouxe-muita-gente-nova-para-a-turma-dos-sem-foco.shtml
+2021-06-15 20:36:17,776          root     INFO: Replying to: 1404900592481443841
+2021-06-15 20:36:18,049          root     INFO: Id to store: 1404900593307688961
+2021-06-15 20:36:27,060          root     INFO: Finished script
