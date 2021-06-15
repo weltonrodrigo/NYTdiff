@@ -1,12 +1,13 @@
-2021-06-15 20:57:48,378          root     INFO: Starting script
-2021-06-15 20:57:49,334          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-15 20:57:50,142          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-15 20:57:50,926          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-15 20:57:51,172          root     INFO: Parsing R7 - Brasil
-2021-06-15 20:57:54,729          root     INFO: O relator <ins>na Câmara dos Deputados</ins> do projeto que atualiza a <del>lei</del> <ins>Lei</ins> de <del>improbidade</del> <ins>Improbidade</ins> manteve o artigo que trata dos atos que atentam contra os princípios da administração pública e incluiu entre as ações o nepotismo e a prática de publicidade que personalize programas ou serviços de órgãos públicos. Leia mais (06/15/2021 - 09h29)
-2021-06-15 20:57:56,606          root     INFO: Media ready with ids: 1404906039519109124
-2021-06-15 20:57:56,606          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-15 20:57:56,606          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-na-camara-inclui-nepotismo-como-ato-de-improbidade-e-fixa-prescricao-em-8-anos.shtml
-2021-06-15 20:57:56,618          root     INFO: Replying to: 1404788751126118410
-2021-06-15 20:57:56,993          root     INFO: Id to store: 1404906041452765197
-2021-06-15 20:58:03,275          root     INFO: Finished script
+2021-06-15 21:23:09,574          root     INFO: Starting script
+2021-06-15 21:23:10,404          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-15 21:23:11,072          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-15 21:23:11,746          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-15 21:23:11,881          root     INFO: Parsing R7 - Brasil
+2021-06-15 21:23:14,941          root     INFO: O médico oftamologista e ex-Polegar Alan Frank, 48, <ins>afirma que</ins> terá que usar um colete para se recuperar das fraturas <del>que sofreu</del> <ins>sofridas</ins> na coluna <ins>após se envolver</ins> em <ins>um</ins> acidente durante <ins>a</ins> motociata a favor do presidente Jair Bolsonaro (sem partido), no último fim de semana, em São Paulo. <del>Tenente reformado da Aeronáutica, ele diz sofrer ataques de ódio, inclusive com ameaças de morte.</del> Leia mais (06/15/2021 - 17h41)
+2021-06-15 21:23:16,943          root     INFO: Media ready with ids: 1404912415263838210
+2021-06-15 21:23:16,944          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-15 21:23:16,944          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/celebridades/2021/06/ex-polegar-fratura-coluna-e-diz-sofrer-ameacas-de-morte-apos-ir-a-motociata-de-bolsonaro.shtml
+2021-06-15 21:23:16,955          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/celebridades/2021/06/ex-polegar-fratura-coluna-e-diz-sofrer-ameacas-de-morte-apos-ir-a-motociata-de-bolsonaro.shtml
+2021-06-15 21:23:17,170          root     INFO: Replying to: 1404912417864364032
+2021-06-15 21:23:17,423          root     INFO: Id to store: 1404912418690637825
+2021-06-15 21:23:23,743          root     INFO: Finished script
