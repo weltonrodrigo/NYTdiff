@@ -1,20 +1,8 @@
-2021-06-15 02:55:26,065          root     INFO: Starting script
-2021-06-15 02:55:27,050          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-15 02:55:27,844          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-15 02:55:28,654          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-15 02:55:28,892          root     INFO: Parsing R7 - Brasil
-2021-06-15 02:55:29,039          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/06/preco-alto-compensa-quebra-de-safra-e-faturamento-do-agro-deve-crescer.shtml
-2021-06-15 02:55:29,056          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2021/06/despreconceituosamente.shtml
-2021-06-15 02:55:29,074          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/06/seriam-as-bonecas-barbie-demonios-ou-vitimas.shtml
-2021-06-15 02:55:29,097          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2021/06/voce-precisa-de-uma-massagem.shtml
-2021-06-15 02:55:29,112          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pablo-acosta/2021/06/estudos-descartam-que-beneficio-social-provoca-efeito-preguica-nos-mais-pobres.shtml
-2021-06-15 02:55:31,911          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/com-dois-diretores-a-menos-cvm-aplicou-r-65-milhoes-em-multas-em-2021-valor-considerado-baixo.shtml
-2021-06-15 02:55:32,067          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/06/a-quem-interessa-ser-contra-as-vacinas.shtml
-2021-06-15 02:55:38,191          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gabriel-kanner/2021/06/vamos-falar-de-noticia-boa.shtml
-2021-06-15 02:55:38,197          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/reflexoes-para-mais-uma-crise-hidrica.shtml
-2021-06-15 02:55:38,202          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entenda-julgamento-no-supremo-sobre-demarcacao-de-terras-indigenas.shtml
-2021-06-15 02:55:38,208          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2021/06/ha-que-escrever-mas-sem-perder-a-docura-jamais.shtml
-2021-06-15 02:55:38,215          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/devassa-em-dados-da-receita-teve-pico-em-ano-de-pesquisa-sobre-entorno-de-bolsonaro.shtml
-2021-06-15 02:55:38,221          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/06/debate-ambiental-rompe-bolha-e-chega-nas-favelas-onde-mudancas-climaticas-serao-mais-sentidas.shtml
-2021-06-15 02:55:38,226          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/06/lula-e-fhc-alguem-esta-sendo-enganado.shtml
-2021-06-15 02:55:38,227          root     INFO: Finished script
+2021-06-15 03:09:30,340          root     INFO: Starting script
+2021-06-15 03:09:31,280          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-15 03:09:32,077          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-15 03:09:32,849          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-15 03:09:33,115          root     INFO: Parsing R7 - Brasil
+2021-06-15 03:09:36,286          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/capita-cloroquina-e-criticada-por-seguidores-apos-mostrar-que-tomou-vacina-contra-a-covid-19.shtml
+2021-06-15 03:09:42,801          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-preve-efeito-cascata-e-foco-governista-esvaziado-apos-stf-livrar-governador-de-prestar-depoimento.shtml
+2021-06-15 03:09:42,802          root     INFO: Finished script
