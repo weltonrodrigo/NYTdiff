@@ -1,6 +1,10 @@
-2021-06-15 14:57:55,053          root     INFO: Starting script
-2021-06-15 14:57:55,862          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-15 14:57:56,520          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-15 14:57:57,187          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-15 14:57:57,412          root     INFO: Parsing R7 - Brasil
-2021-06-15 14:58:06,644          root     INFO: Finished script
+2021-06-15 15:28:35,888          root     INFO: Starting script
+2021-06-15 15:28:36,698          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-15 15:28:37,368          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-15 15:28:38,035          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-15 15:28:38,430          root     INFO: Parsing R7 - Brasil
+2021-06-15 15:28:41,254          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/campanhas-de-haddad-e-boulos-avancam-em-sp-e-lancam-temor-sobre-busca-de-unidade-da-esquerda.shtml
+2021-06-15 15:28:41,269          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49738
+2021-06-15 15:28:47,122          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/presidente-de-associacao-de-juizes-rebate-deputado-e-diz-que-categoria-nao-entra-na-reforma-administrativa.shtml
+2021-06-15 15:28:47,128          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/deputado-defende-enforcamento-de-lideres-do-trafico-durante-sessao-da-camara.shtml
+2021-06-15 15:28:47,128          root     INFO: Finished script
