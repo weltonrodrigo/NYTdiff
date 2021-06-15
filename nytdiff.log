@@ -1,18 +1,11 @@
-2021-06-15 13:11:44,150          root     INFO: Starting script
-2021-06-15 13:11:45,144          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-15 13:11:45,958          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-15 13:11:46,759          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-15 13:11:47,092          root     INFO: Parsing R7 - Brasil
-2021-06-15 13:11:50,177          root     INFO: O relator <ins>na Câmara dos Deputados</ins> do projeto que atualiza a lei de improbidade manteve o artigo que trata dos atos que atentam contra os princípios da administração pública e incluiu entre as ações o nepotismo e a prática de publicidade que personalize programas ou serviços de órgãos públicos. Leia mais (06/15/2021 - 09h29)
-2021-06-15 13:11:52,196          root     INFO: Media ready with ids: 1404788748240539650
-2021-06-15 13:11:52,197          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-15 13:11:52,197          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-na-camara-inclui-nepotismo-como-ato-de-improbidade-e-fixa-prescricao-em-8-anos.shtml
-2021-06-15 13:11:52,206          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-na-camara-inclui-nepotismo-como-ato-de-improbidade-e-fixa-prescricao-em-8-anos.shtml
-2021-06-15 13:11:52,515          root     INFO: Replying to: 1404788750245371904
-2021-06-15 13:11:52,783          root     INFO: Id to store: 1404788751126118410
-2021-06-15 13:11:58,589          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-secretario-de-saude-do-amazonas-assista-ao-vivo-15062021
-2021-06-15 13:11:58,602          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-ser-expulso-do-partido-maia-afirma-que-dem-diminuiu-15062021
-2021-06-15 13:11:58,614          root     INFO: New article tracked: http://noticias.r7.com/brasil/investigacao-da-cpi-chega-ao-amazonas-reduto-de-omar-aziz-15062021
-2021-06-15 13:11:58,627          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-secretario-de-saude-do-amazonas-nesta-terca-15062021
-2021-06-15 13:11:58,642          root     INFO: New article tracked: http://noticias.r7.com/brasil/nascidos-em-outubro-podem-sacar-2-parcela-do-auxilio-emergencial-15062021
-2021-06-15 13:11:59,074          root     INFO: Finished script
+2021-06-15 13:38:51,292          root     INFO: Starting script
+2021-06-15 13:38:52,167          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-15 13:38:52,825          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-15 13:38:53,507          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-15 13:38:53,799          root     INFO: Parsing R7 - Brasil
+2021-06-15 13:39:03,699          root     INFO: Removed http://noticias.r7.com/brasil/nascidos-em-outubro-podem-sacar-2-parcela-do-auxilio-emergencial-15062021
+2021-06-15 13:39:03,706          root     INFO: Removed http://noticias.r7.com/brasil/investigacao-da-cpi-chega-ao-amazonas-reduto-de-omar-aziz-15062021
+2021-06-15 13:39:03,712          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-secretario-de-saude-do-amazonas-nesta-terca-15062021
+2021-06-15 13:39:03,718          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-ex-secretario-de-saude-do-amazonas-assista-ao-vivo-15062021
+2021-06-15 13:39:03,723          root     INFO: Removed http://noticias.r7.com/brasil/apos-ser-expulso-do-partido-maia-afirma-que-dem-diminuiu-15062021
+2021-06-15 13:39:03,724          root     INFO: Finished script
