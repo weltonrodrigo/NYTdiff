@@ -1,26 +1,39 @@
-2021-06-16 09:59:27,391          root     INFO: Starting script
-2021-06-16 09:59:28,339          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-16 09:59:29,111          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-16 09:59:29,897          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-16 09:59:30,106          root     INFO: Parsing R7 - Brasil
-2021-06-16 09:59:37,862          root     INFO: New article tracked: http://noticias.r7.com/brasil/mais-530-mil-doses-de-vacina-da-pfizer-chegam-ao-brasil-15062021
-2021-06-16 09:59:37,879          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-quer-concentrar-no-stf-inquerito-sobre-madeira-ilegal-na-amazonia-15062021
-2021-06-16 09:59:37,890          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-inclui-gravidas-e-lactantes-no-grupo-prioritario-de-vacinacao-15062021
-2021-06-16 09:59:37,902          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-aprova-pec-que-dificulta-perda-de-nacionalidade-brasileira-15062021
-2021-06-16 09:59:37,914          root     INFO: New article tracked: http://noticias.r7.com/brasil/nunes-marques-do-stf-autoriza-witzel-a-nao-ir-a-cpi-da-covid-15062021
-2021-06-16 09:59:37,926          root     INFO: New article tracked: http://noticias.r7.com/brasil/nova-lei-amplia-conteudo-jornalistico-para-amazonia-legal-15062021
-2021-06-16 09:59:37,938          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-ve-risco-de-racionamento-de-energia-semelhante-ao-de-2001-15062021
-2021-06-16 09:59:37,949          root     INFO: New article tracked: http://noticias.r7.com/brasil/divergencia-sobre-quebra-de-sigilo-pela-cpi-deve-ir-ao-plenario-do-stf-15062021
-2021-06-16 09:59:37,960          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-assina-intencao-de-compra-de-60-milhoes-de-doses-da-cansino-15062021
-2021-06-16 09:59:37,972          root     INFO: New article tracked: http://noticias.r7.com/brasil/relator-apresenta-mudancas-na-lei-de-improbidade-administrativa-15062021
-2021-06-16 09:59:37,984          root     INFO: New article tracked: http://noticias.r7.com/brasil/felicidade-do-brasileiro-cai-em-meio-a-pandemia-mostra-estudo-da-fgv-15062021
-2021-06-16 09:59:37,997          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-secretario-diz-que-mayra-sugeriu-tratamento-precoce-no-amazonas-15062021
-2021-06-16 09:59:38,009          root     INFO: New article tracked: http://noticias.r7.com/brasil/secretaria-foi-contra-reabertura-de-am-antes-do-colapso-diz-campelo-15062021
-2021-06-16 09:59:38,021          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-suspende-processo-contra-investigada-na-operacao-zelotes-15062021
-2021-06-16 09:59:38,033          root     INFO: New article tracked: http://noticias.r7.com/brasil/internacoes-triplicaram-em-janeiro-diz-campelo-sobre-crise-em-manaus-15062021
-2021-06-16 09:59:38,045          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-reduz-encargos-de-antenas-de-internet-15062021
-2021-06-16 09:59:38,059          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-producao-da-vacina-pela-industria-veterinaria-15062021
-2021-06-16 09:59:38,071          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-ve-expansao-suspeita-e-pede-suspensao-da-vacinacao-no-df-15062021
-2021-06-16 09:59:38,083          root     INFO: New article tracked: http://noticias.r7.com/brasil/moodys-projeta-alta-de-49-do-pib-apos-recessao-da-pandemia-15062021
-2021-06-16 09:59:38,098          root     INFO: New article tracked: http://noticias.r7.com/brasil/falta-de-chuvas-deve-elevar-valor-medio-da-conta-de-luz-em-75-15062021
-2021-06-16 09:59:38,108          root     INFO: Finished script
+2021-06-16 10:27:13,235          root     INFO: Starting script
+2021-06-16 10:27:14,332          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-16 10:27:14,992          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-16 10:27:15,656          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-16 10:27:15,960          root     INFO: Parsing R7 - Brasil
+2021-06-16 10:27:18,591          root     INFO: Bolsonaro nega existência, mas diz não ver problema em gabinete paralelo <del>para tomar providências contra</del> <ins>no combate à</ins> Covid
+2021-06-16 10:27:20,646          root     INFO: Media ready with ids: 1405109730855428096
+2021-06-16 10:27:20,647          root     INFO: Text to tweet: Modificação do Título
+2021-06-16 10:27:20,647          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-nega-existencia-mas-diz-nao-ver-problema-em-gabinete-paralelo-para-tomar-providencias-contra-covid.shtml
+2021-06-16 10:27:20,656          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-nega-existencia-mas-diz-nao-ver-problema-em-gabinete-paralelo-para-tomar-providencias-contra-covid.shtml
+2021-06-16 10:27:20,841          root     INFO: Replying to: 1405109733359558656
+2021-06-16 10:27:21,202          root     INFO: Id to store: 1405109734122917889
+2021-06-16 10:27:21,209          root     INFO: O presidente Jair Bolsonaro negou nesta terça-feira (15) a existência de um <del>"gabinete paralelo"</del> <ins>gabinete paralelo</ins> que ditasse as regras de enfrentamento à pandemia de <del>Covid-10</del> <ins>Covid</ins> ao Ministério da Saúde, mas que, se existisse, não seria um problema. <del>As investigações da CPI da Covid no Senado estão direcionadas aos 14 integrantes do grupo de suposto assessoramento ao presidente para temas ligados à pandemia e com defesa de teses negacionistas.</del> Leia mais (06/15/2021 - 23h16)
+2021-06-16 10:27:23,245          root     INFO: Media ready with ids: 1405109742406496258
+2021-06-16 10:27:23,246          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-16 10:27:23,246          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-nega-existencia-mas-diz-nao-ver-problema-em-gabinete-paralelo-para-tomar-providencias-contra-covid.shtml
+2021-06-16 10:27:23,257          root     INFO: Replying to: 1405109734122917889
+2021-06-16 10:27:23,630          root     INFO: Id to store: 1405109744260550657
+2021-06-16 10:27:28,834          root     INFO: Removed http://noticias.r7.com/brasil/senado-inclui-gravidas-e-lactantes-no-grupo-prioritario-de-vacinacao-15062021
+2021-06-16 10:27:28,839          root     INFO: Removed http://noticias.r7.com/brasil/senado-aprova-pec-que-dificulta-perda-de-nacionalidade-brasileira-15062021
+2021-06-16 10:27:28,844          root     INFO: Removed http://noticias.r7.com/brasil/mpf-ve-expansao-suspeita-e-pede-suspensao-da-vacinacao-no-df-15062021
+2021-06-16 10:27:28,848          root     INFO: Removed http://noticias.r7.com/brasil/relator-apresenta-mudancas-na-lei-de-improbidade-administrativa-15062021
+2021-06-16 10:27:28,851          root     INFO: Removed http://noticias.r7.com/brasil/pf-quer-concentrar-no-stf-inquerito-sobre-madeira-ilegal-na-amazonia-15062021
+2021-06-16 10:27:28,856          root     INFO: Removed http://noticias.r7.com/brasil/nova-lei-amplia-conteudo-jornalistico-para-amazonia-legal-15062021
+2021-06-16 10:27:28,860          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-producao-da-vacina-pela-industria-veterinaria-15062021
+2021-06-16 10:27:28,864          root     INFO: Removed http://noticias.r7.com/brasil/stf-suspende-processo-contra-investigada-na-operacao-zelotes-15062021
+2021-06-16 10:27:28,868          root     INFO: Removed http://noticias.r7.com/brasil/lira-ve-risco-de-racionamento-de-energia-semelhante-ao-de-2001-15062021
+2021-06-16 10:27:28,871          root     INFO: Removed http://noticias.r7.com/brasil/secretaria-foi-contra-reabertura-de-am-antes-do-colapso-diz-campelo-15062021
+2021-06-16 10:27:28,875          root     INFO: Removed http://noticias.r7.com/brasil/moodys-projeta-alta-de-49-do-pib-apos-recessao-da-pandemia-15062021
+2021-06-16 10:27:28,879          root     INFO: Removed http://noticias.r7.com/brasil/ex-secretario-diz-que-mayra-sugeriu-tratamento-precoce-no-amazonas-15062021
+2021-06-16 10:27:28,883          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sanciona-lei-que-reduz-encargos-de-antenas-de-internet-15062021
+2021-06-16 10:27:28,887          root     INFO: Removed http://noticias.r7.com/brasil/falta-de-chuvas-deve-elevar-valor-medio-da-conta-de-luz-em-75-15062021
+2021-06-16 10:27:28,892          root     INFO: Removed http://noticias.r7.com/brasil/governo-assina-intencao-de-compra-de-60-milhoes-de-doses-da-cansino-15062021
+2021-06-16 10:27:28,895          root     INFO: Removed http://noticias.r7.com/brasil/internacoes-triplicaram-em-janeiro-diz-campelo-sobre-crise-em-manaus-15062021
+2021-06-16 10:27:28,899          root     INFO: Removed http://noticias.r7.com/brasil/mais-530-mil-doses-de-vacina-da-pfizer-chegam-ao-brasil-15062021
+2021-06-16 10:27:28,903          root     INFO: Removed http://noticias.r7.com/brasil/nunes-marques-do-stf-autoriza-witzel-a-nao-ir-a-cpi-da-covid-15062021
+2021-06-16 10:27:28,907          root     INFO: Removed http://noticias.r7.com/brasil/divergencia-sobre-quebra-de-sigilo-pela-cpi-deve-ir-ao-plenario-do-stf-15062021
+2021-06-16 10:27:28,911          root     INFO: Removed http://noticias.r7.com/brasil/felicidade-do-brasileiro-cai-em-meio-a-pandemia-mostra-estudo-da-fgv-15062021
+2021-06-16 10:27:28,912          root     INFO: Finished script
