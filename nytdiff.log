@@ -1,6 +1,27 @@
-2021-06-16 18:02:32,593          root     INFO: Starting script
-2021-06-16 18:02:33,580          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-16 18:02:34,397          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-16 18:02:35,215          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-16 18:02:35,451          root     INFO: Parsing R7 - Brasil
-2021-06-16 18:02:46,092          root     INFO: Finished script
+2021-06-16 18:33:27,914          root     INFO: Starting script
+2021-06-16 18:33:28,925          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-16 18:33:29,707          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-16 18:33:30,508          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-16 18:33:30,748          root     INFO: Parsing R7 - Brasil
+2021-06-16 18:33:33,636          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/recem-eleito-presidente-do-diretorio-de-sp-do-novo-diz-que-e-oposicao-ferrenha-a-bolsonaro.shtml
+2021-06-16 18:33:33,684          root     INFO: <del>Existência de</del> <ins>Combater a pandemia com</ins> gabinete paralelo <del>seria fato gravíssimo no enfrentamento à pandemia,</del> <ins>é gravíssimo,</ins> diz Rosa Weber, do STF
+2021-06-16 18:33:35,682          root     INFO: Media ready with ids: 1405232100748382208
+2021-06-16 18:33:35,682          root     INFO: Text to tweet: Modificação do Título
+2021-06-16 18:33:35,682          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/existencia-de-gabinete-paralelo-seria-fato-gravissimo-no-enfrentamento-a-pandemia-diz-rosa-weber-do-stf.shtml
+2021-06-16 18:33:35,692          root     INFO: Replying to: 1405221625251995650
+2021-06-16 18:33:36,143          root     INFO: Id to store: 1405232102673727497
+2021-06-16 18:33:36,152          root     INFO: A ministra Rosa Weber, do STF (Supremo Tribunal Federal), <del>manteve</del> <ins>afirmou em decisão desta quarta-feira (16) que</ins> a <del>quebra dos sigilos telefônico e telemático aprovada pela CPI da Covid contra Filipe Martins, assessor internacional da Presidência da República, e</del> <ins>eventual existência</ins> de <del>Carlos Wizard, empresário e aliado do</del> <ins>um gabinete paralelo no</ins> governo <ins>federal para gerir o enfrentamento da pandemia da Covid-19 "constitui fato gravíssimo" que pode "ter impactado diretamente no modo</ins> de <del>Jair Bolsonaro.</del> <ins>enfrentamento da pandemia".</ins> Leia mais (06/16/2021 - 14h16)
+2021-06-16 18:33:41,314          root     INFO: Media ready with ids: 1405232124223889408
+2021-06-16 18:33:41,314          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-16 18:33:41,314          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/existencia-de-gabinete-paralelo-seria-fato-gravissimo-no-enfrentamento-a-pandemia-diz-rosa-weber-do-stf.shtml
+2021-06-16 18:33:41,324          root     INFO: Replying to: 1405232102673727497
+2021-06-16 18:33:41,693          root     INFO: Id to store: 1405232126061072388
+2021-06-16 18:33:41,748          root     INFO: O sistema de monitoramento da rodovia dos Bandeirantes registrou 6.661 <del>"passagens"</del> <ins>passagens</ins> de veículos na manhã do último sábado (12) no primeiro pedágio dentro do trecho bloqueado para a motociata liderada pelo presidente Jair Bolsonaro em São Paulo. Leia mais (06/16/2021 - 13h03)
+2021-06-16 18:33:43,662          root     INFO: Media ready with ids: 1405232134114009088
+2021-06-16 18:33:43,663          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-16 18:33:43,663          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-teve-6661-registros-de-veiculos-aponta-sistema-de-pedagio.shtml
+2021-06-16 18:33:43,672          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-com-bolsonaro-em-sp-teve-6661-registros-de-veiculos-aponta-sistema-de-pedagio.shtml
+2021-06-16 18:33:43,883          root     INFO: Replying to: 1405232135867453443
+2021-06-16 18:33:44,314          root     INFO: Id to store: 1405232136794345474
+2021-06-16 18:33:50,108          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/confianca-dos-brasileiros-nas-forcas-armadas-despenca-sob-bolsonaro-diz-pesquisa-xpipespe.shtml
+2021-06-16 18:33:50,110          root     INFO: Finished script
