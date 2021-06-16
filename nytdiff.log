@@ -1,6 +1,10 @@
-2021-06-15 23:57:50,461          root     INFO: Starting script
-2021-06-15 23:57:51,886          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-15 23:57:52,679          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-15 23:57:53,476          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-15 23:57:53,706          root     INFO: Parsing R7 - Brasil
-2021-06-15 23:58:01,784          root     INFO: Finished script
+2021-06-16 01:11:52,438          root     INFO: Starting script
+2021-06-16 01:11:53,339          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-16 01:11:54,021          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-16 01:11:54,711          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-16 01:11:55,035          root     INFO: Parsing R7 - Brasil
+2021-06-16 01:11:55,193          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/06/tite-cuidado-com-as-teorizacoes-e-nao-invente.shtml
+2021-06-16 01:11:55,210          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/peru-uma-eleicao-presidencial-sem-resultados-oficiais.shtml
+2021-06-16 01:12:04,914          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/de-onde-vem-o-fascinio-por-bolsonaro.shtml
+2021-06-16 01:12:04,920          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/privatizar-a-eletrobras-agravara-a-desindustrializacao.shtml
+2021-06-16 01:12:04,921          root     INFO: Finished script
