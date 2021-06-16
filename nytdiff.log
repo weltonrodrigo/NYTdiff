@@ -1,28 +1,32 @@
-2021-06-16 17:17:56,100          root     INFO: Starting script
-2021-06-16 17:17:56,906          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-16 17:17:57,555          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-16 17:17:58,206          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-16 17:17:58,445          root     INFO: Parsing R7 - Brasil
-2021-06-16 17:18:01,208          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/existencia-de-gabinete-paralelo-seria-fato-gravissimo-no-enfrentamento-a-pandemia-diz-rosa-weber-do-stf.shtml
-2021-06-16 17:18:01,280          root     INFO: Witzel bate boca com Flávio Bolsonaro <del>em</del> <ins>na</ins> CPI da Covid e diz que não é porteiro para ser intimidado
-2021-06-16 17:18:03,184          root     INFO: Media ready with ids: 1405213090120040452
-2021-06-16 17:18:03,185          root     INFO: Text to tweet: Modificação do Título
-2021-06-16 17:18:03,185          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/witzel-bate-boca-com-flavio-bolsonaro-em-cpi-da-covid-e-diz-que-nao-e-porteiro-para-ser-intimidado.shtml
-2021-06-16 17:18:03,195          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/witzel-bate-boca-com-flavio-bolsonaro-em-cpi-da-covid-e-diz-que-nao-e-porteiro-para-ser-intimidado.shtml
-2021-06-16 17:18:03,419          root     INFO: Replying to: 1405213091781021696
-2021-06-16 17:18:03,730          root     INFO: Id to store: 1405213092598984704
-2021-06-16 17:18:03,740          root     INFO: Em uma sessão tumultuada da CPI da Covid, o ex-governador <ins>do Rio de Janeiro</ins> Wilson Witzel (PSC) <del>bateu-boca</del> <ins>bateu boca</ins> com o senador Flávio Bolsonaro <del>(Patriota-RJ), filho do presidenter da República, Jair Bolsonaro,</del> <ins>(Patriota-RJ)</ins> e disse que não era "porteiro" para ser intimidado pelo parlamentar. Leia mais (06/16/2021 - 12h55)
-2021-06-16 17:18:05,909          root     INFO: Media ready with ids: 1405213101406916609
-2021-06-16 17:18:05,910          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-16 17:18:05,910          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/witzel-bate-boca-com-flavio-bolsonaro-em-cpi-da-covid-e-diz-que-nao-e-porteiro-para-ser-intimidado.shtml
-2021-06-16 17:18:05,924          root     INFO: Replying to: 1405213092598984704
-2021-06-16 17:18:06,257          root     INFO: Id to store: 1405213102992465930
-2021-06-16 17:18:12,044          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-retira-sigilo-de-documentos-do-itamaraty-16062021
-2021-06-16 17:18:12,048          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-se-nao-privatizar-a-eletrobras-havera-caos-energetico-16062021
-2021-06-16 17:18:12,053          root     INFO: Removed http://noticias.r7.com/brasil/operacao-militar-vai-combater-crimes-em-25-cidades-da-amazonia-16062021
-2021-06-16 17:18:12,057          root     INFO: Removed http://noticias.r7.com/brasil/videos/witzel-fala-antes-de-prestar-depoimento-a-cpi-da-covid-19-16062021
-2021-06-16 17:18:12,063          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/trocas-nas-chefias-de-fundos-de-pensao-pelo-governo-bolsonaro-preocupam-orgao-de-fiscalizacao.shtml
-2021-06-16 17:18:12,067          root     INFO: Removed http://noticias.r7.com/brasil/witzel-vai-a-cpi-e-diz-que-pandemia-reflete-postura-do-governo-federal-16062021
-2021-06-16 17:18:12,072          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-wilson-witzel-ex-governador-do-rio-assista-ao-vivo-16062021
-2021-06-16 17:18:12,077          root     INFO: Removed http://noticias.r7.com/brasil/um-terco-da-populacao-vacinavel-tomou-a-primeira-dose-contra-covid-16062021
-2021-06-16 17:18:12,078          root     INFO: Finished script
+2021-06-16 17:51:47,054          root     INFO: Starting script
+2021-06-16 17:51:48,102          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-16 17:51:48,890          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-16 17:51:49,717          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-16 17:51:49,909          root     INFO: Parsing R7 - Brasil
+2021-06-16 17:51:50,938          root     INFO: Estudos descartam que benefício social <del>provoca</del> <ins>provoque</ins> efeito preguiça nos mais pobres
+2021-06-16 17:51:52,850          root     INFO: Media ready with ids: 1405221603105927173
+2021-06-16 17:51:52,851          root     INFO: Text to tweet: Modificação do Título
+2021-06-16 17:51:52,851          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pablo-acosta/2021/06/estudos-descartam-que-beneficio-social-provoca-efeito-preguica-nos-mais-pobres.shtml
+2021-06-16 17:51:52,859          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pablo-acosta/2021/06/estudos-descartam-que-beneficio-social-provoca-efeito-preguica-nos-mais-pobres.shtml
+2021-06-16 17:51:53,233          root     INFO: Replying to: 1405221605232418819
+2021-06-16 17:51:53,602          root     INFO: Id to store: 1405221606398566408
+2021-06-16 17:51:55,619          root     INFO: <del>Existência de</del> <ins>Um</ins> gabinete paralelo seria fato gravíssimo no enfrentamento <del>à</del> <ins>da</ins> pandemia, diz Rosa Weber, do STF
+2021-06-16 17:51:57,497          root     INFO: Media ready with ids: 1405221622634541059
+2021-06-16 17:51:57,498          root     INFO: Text to tweet: Modificação do Título
+2021-06-16 17:51:57,498          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/existencia-de-gabinete-paralelo-seria-fato-gravissimo-no-enfrentamento-a-pandemia-diz-rosa-weber-do-stf.shtml
+2021-06-16 17:51:57,508          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/existencia-de-gabinete-paralelo-seria-fato-gravissimo-no-enfrentamento-a-pandemia-diz-rosa-weber-do-stf.shtml
+2021-06-16 17:51:57,728          root     INFO: Replying to: 1405221624299786241
+2021-06-16 17:51:58,127          root     INFO: Id to store: 1405221625251995650
+2021-06-16 17:51:58,200          root     INFO: Witzel <del>bate</del> <ins>abandona CPI da Covid após bater</ins> boca com Flávio Bolsonaro <del>em CPI da Covid</del> e <del>diz que não é porteiro para ser intimidado</del> <ins>senadores governistas</ins>
+2021-06-16 17:52:00,132          root     INFO: Media ready with ids: 1405221633619496960
+2021-06-16 17:52:00,133          root     INFO: Text to tweet: Modificação do Título
+2021-06-16 17:52:00,133          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/witzel-bate-boca-com-flavio-bolsonaro-em-cpi-da-covid-e-diz-que-nao-e-porteiro-para-ser-intimidado.shtml
+2021-06-16 17:52:00,141          root     INFO: Replying to: 1405213102992465930
+2021-06-16 17:52:00,494          root     INFO: Id to store: 1405221635377016840
+2021-06-16 17:52:00,502          root     INFO: Em uma sessão tumultuada da CPI da Covid, o ex-governador <ins>do Rio de Janeiro</ins> Wilson Witzel (PSC) <del>bateu-boca</del> <ins>bateu boca</ins> com o senador Flávio Bolsonaro (Patriota-RJ), <del>filho do presidenter da República, Jair Bolsonaro, e</del> disse que não era <del>"porteiro"</del> <ins>“porteiro”</ins> para ser intimidado pelo <del>parlamentar.</del> <ins>parlamentar e abandonou a comissão no início da tarde desta quarta-feira (16).</ins> Leia mais (06/16/2021 - 12h55)
+2021-06-16 17:52:02,670          root     INFO: Media ready with ids: 1405221643882942465
+2021-06-16 17:52:02,671          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-16 17:52:02,671          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/witzel-bate-boca-com-flavio-bolsonaro-em-cpi-da-covid-e-diz-que-nao-e-porteiro-para-ser-intimidado.shtml
+2021-06-16 17:52:02,684          root     INFO: Replying to: 1405221635377016840
+2021-06-16 17:52:03,045          root     INFO: Id to store: 1405221646093455369
+2021-06-16 17:52:08,899          root     INFO: Finished script
