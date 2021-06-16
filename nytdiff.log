@@ -1,18 +1,7 @@
-2021-06-16 10:52:37,768          root     INFO: Starting script
-2021-06-16 10:52:38,721          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-16 10:52:39,507          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-16 10:52:40,284          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-16 10:52:40,546          root     INFO: Parsing R7 - Brasil
-2021-06-16 10:52:43,150          root     INFO: Bolsonaro nega existência, mas diz não ver problema em gabinete paralelo <del>para tomar providências contra</del> <ins>no combate à</ins> Covid
-2021-06-16 10:52:45,088          root     INFO: Media ready with ids: 1405116125709430784
-2021-06-16 10:52:45,088          root     INFO: Text to tweet: Modificação do Título
-2021-06-16 10:52:45,088          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-nega-existencia-mas-diz-nao-ver-problema-em-gabinete-paralelo-para-tomar-providencias-contra-covid.shtml
-2021-06-16 10:52:45,097          root     INFO: Replying to: 1405109744260550657
-2021-06-16 10:52:45,585          root     INFO: Id to store: 1405116127823503363
-2021-06-16 10:52:45,592          root     INFO: <del>O</del> <ins>Apesar de todas as evidências, o</ins> presidente Jair Bolsonaro negou nesta terça-feira (15) a existência <del>de um "gabinete paralelo"</del> <ins>do gabinete paralelo</ins> que <del>ditasse</del> <ins>ditava a eles</ins> as regras de enfrentamento à pandemia de <del>Covid-10 ao Ministério da Saúde, mas que, se</del> <ins>Covid. Caso</ins> existisse, <ins>seguiu o presidente, isso</ins> não seria um problema. <del>As investigações da CPI da Covid no Senado estão direcionadas aos 14 integrantes do grupo de suposto assessoramento ao presidente para temas ligados à pandemia e com defesa de teses negacionistas.</del> Leia mais (06/15/2021 - 23h16)
-2021-06-16 10:52:47,803          root     INFO: Media ready with ids: 1405116136358772737
-2021-06-16 10:52:47,803          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-16 10:52:47,803          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-nega-existencia-mas-diz-nao-ver-problema-em-gabinete-paralelo-para-tomar-providencias-contra-covid.shtml
-2021-06-16 10:52:47,815          root     INFO: Replying to: 1405116127823503363
-2021-06-16 10:52:48,202          root     INFO: Id to store: 1405116138829266946
-2021-06-16 10:52:53,399          root     INFO: Finished script
+2021-06-16 10:58:01,432          root     INFO: Starting script
+2021-06-16 10:58:02,246          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-16 10:58:02,910          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-16 10:58:03,563          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-16 10:58:03,792          root     INFO: Parsing R7 - Brasil
+2021-06-16 10:58:12,075          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-habeas-corpus-witzel-podera-faltar-a-cpi-da-covid-16062021
+2021-06-16 10:58:12,622          root     INFO: Finished script
