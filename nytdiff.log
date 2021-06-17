@@ -1,8 +1,14 @@
-2021-06-17 08:26:47,410          root     INFO: Starting script
-2021-06-17 08:26:48,582          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-17 08:26:49,381          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-17 08:26:50,183          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-17 08:26:50,396          root     INFO: Parsing R7 - Brasil
-2021-06-17 08:26:53,439          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2021/06/o-caminho-dificil-da-terceira-via-para-a-eleicao-de-2022-ouca-podcast.shtml
-2021-06-17 08:26:59,670          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/o-mico-da-ferrovia-esta-com-a-viuva.shtml
-2021-06-17 08:26:59,671          root     INFO: Finished script
+2021-06-17 08:51:36,285          root     INFO: Starting script
+2021-06-17 08:51:37,123          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-17 08:51:37,800          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-17 08:51:38,476          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-17 08:51:38,684          root     INFO: Parsing R7 - Brasil
+2021-06-17 08:51:47,389          root     INFO: New article tracked: http://noticias.r7.com/brasil/atacado-de-medicamentos-lidera-emissao-de-notas-fiscais-em-2020-17062021
+2021-06-17 08:51:47,410          root     INFO: New article tracked: http://noticias.r7.com/brasil/carlos-wizard-e-auditor-do-tcu-poderao-ficar-calados-na-cpi-17062021
+2021-06-17 08:51:47,425          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-nega-recurso-de-silveira-contra-multa-por-violacoes-em-tornozeleira-16062021
+2021-06-17 08:51:47,443          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-vai-participar-de-nova-motociata-em-chapeco-sc-16062021
+2021-06-17 08:51:47,458          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-da-a-carlos-wizard-direito-ao-silencio-em-depoimento-a-cpi-16062021
+2021-06-17 08:51:47,473          root     INFO: New article tracked: http://noticias.r7.com/brasil/relator-acolhe-dezenas-de-emendas-a-mp-da-privatizacao-da-eletrobras-16062021
+2021-06-17 08:51:47,489          root     INFO: New article tracked: http://noticias.r7.com/brasil/lote-com-936-mil-doses-de-vacina-da-pfizer-chega-ao-brasil-16062021
+2021-06-17 08:51:47,505          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/936-mil-doses-da-vacina-da-pfizer-chegam-ao-brasil-16062021
+2021-06-17 08:51:47,855          root     INFO: Finished script
