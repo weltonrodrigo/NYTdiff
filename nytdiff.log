@@ -1,6 +1,20 @@
-2021-06-17 22:24:28,412          root     INFO: Starting script
-2021-06-17 22:24:29,206          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-17 22:24:29,849          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-17 22:24:30,493          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-17 22:24:30,698          root     INFO: Parsing R7 - Brasil
-2021-06-17 22:24:39,453          root     INFO: Finished script
+2021-06-17 22:39:21,983          root     INFO: Starting script
+2021-06-17 22:39:22,798          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-17 22:39:23,444          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-17 22:39:24,111          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-17 22:39:24,331          root     INFO: Parsing R7 - Brasil
+2021-06-17 22:39:27,201          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/flavio-dino-deixa-pc-do-b-e-deve-entrar-no-psb-que-ja-recebeu-freixo-e-pode-se-aproximar-de-lula.shtml
+2021-06-17 22:39:27,316          root     INFO: <del>Almoço</del> <ins>Encontro</ins> de Lula com bispo da Assembleia de Deus irrita evangélicos e anima petistas
+2021-06-17 22:39:29,139          root     INFO: Media ready with ids: 1405656368565137408
+2021-06-17 22:39:29,140          root     INFO: Text to tweet: Modificação do Título
+2021-06-17 22:39:29,140          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/almoco-de-lula-com-bispo-da-assembleia-de-deus-irrita-evangelicos-e-anima-petistas.shtml
+2021-06-17 22:39:29,150          root     INFO: Replying to: 1405615672781123592
+2021-06-17 22:39:29,394          root     INFO: Id to store: 1405656370691649543
+2021-06-17 22:39:29,402          root     INFO: Uma foto de Manoel Ferreira, bispo primaz de <del>um dos</del> <ins>uma das</ins> mais <del>poderosos galhos</del> <ins>poderosas ramificações</ins> da Assembleia de Deus, o Ministério Madureira, entre Lula e outro <del>petista, o líder da Alerj (Assembleia Legislativa do Rio de Janeiro), André Ceciliano,</del> <ins>petista</ins> agitou os bastidores evangélicos. Seria sinal de uma igreja de peso disposta a fazer as pazes com o <del>ex-presidente?</del> <ins>ex-presidente da República?</ins> Leia mais (06/17/2021 - 15h31)
+2021-06-17 22:39:31,266          root     INFO: Media ready with ids: 1405656377880678401
+2021-06-17 22:39:31,267          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-17 22:39:31,267          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/almoco-de-lula-com-bispo-da-assembleia-de-deus-irrita-evangelicos-e-anima-petistas.shtml
+2021-06-17 22:39:31,285          root     INFO: Replying to: 1405656370691649543
+2021-06-17 22:39:31,520          root     INFO: Id to store: 1405656379495493638
+2021-06-17 22:39:37,189          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/bolsonaro-e-1o-chefe-de-estado-a-nomear-embaixador-proibido-de-deixar-o-pais.shtml
+2021-06-17 22:39:37,190          root     INFO: Finished script
