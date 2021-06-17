@@ -1,15 +1,15 @@
-2021-06-17 11:18:21,163          root     INFO: Starting script
-2021-06-17 11:18:21,971          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-17 11:18:22,631          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-17 11:18:23,287          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-17 11:18:23,588          root     INFO: Parsing R7 - Brasil
-2021-06-17 11:18:23,751          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/06/onde-esta-o-centro.shtml
-2021-06-17 11:18:27,057          root     INFO: <del>O relator</del> <ins>Relator</ins> da CPI da Covid, <ins>o</ins> senador Renan Calheiros <del>(MDB-AL),</del> <ins>(MDB-AL)</ins> deve apresentar nesta sexta-feira (18) uma lista com 10 pessoas que vão passar da condição de testemunha para a de investigado perante a comissão. Leia mais (06/16/2021 - 22h15)
-2021-06-17 11:18:28,800          root     INFO: Media ready with ids: 1405484988552855558
-2021-06-17 11:18:28,800          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-17 11:18:28,801          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/renan-deve-apresentar-lista-de-investigados-na-cpi-da-covid-com-10-nomes-incluindo-queiroga.shtml
-2021-06-17 11:18:28,811          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/renan-deve-apresentar-lista-de-investigados-na-cpi-da-covid-com-10-nomes-incluindo-queiroga.shtml
-2021-06-17 11:18:29,002          root     INFO: Replying to: 1405484990025146372
-2021-06-17 11:18:29,240          root     INFO: Id to store: 1405484990784233478
-2021-06-17 11:18:34,976          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/brasil-enfrenta-nova-ameaca-de-ruptura-democratica.shtml
-2021-06-17 11:18:34,977          root     INFO: Finished script
+2021-06-17 11:34:30,226          root     INFO: Starting script
+2021-06-17 11:34:31,028          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-17 11:34:31,683          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-17 11:34:32,341          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-17 11:34:32,481          root     INFO: Parsing R7 - Brasil
+2021-06-17 11:34:35,306          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4584
+2021-06-17 11:34:35,778          root     INFO: A intenção do presidente Jair Bolsonaro (sem partido) de migrar para o Patriota -?partido nanico e com pouco acesso ao fundo <del>partidário-dividiu</del> <ins>partidário- dividiu</ins> a base ideológica bolsonarista no Congresso e nos estados. Leia mais (06/16/2021 - 21h53)
+2021-06-17 11:34:37,528          root     INFO: Media ready with ids: 1405489051621265409
+2021-06-17 11:34:37,529          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-17 11:34:37,529          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/migracao-de-bolsonaro-para-o-patriota-divide-base-ideologica-no-congresso.shtml
+2021-06-17 11:34:37,539          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/migracao-de-bolsonaro-para-o-patriota-divide-base-ideologica-no-congresso.shtml
+2021-06-17 11:34:37,708          root     INFO: Replying to: 1405489053064126466
+2021-06-17 11:34:37,932          root     INFO: Id to store: 1405489053777211395
+2021-06-17 11:34:43,364          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/06/os-golpistas-tem-uma-duvida.shtml
+2021-06-17 11:34:43,365          root     INFO: Finished script
