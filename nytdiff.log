@@ -1,6 +1,27 @@
-2021-06-17 09:59:17,732          root     INFO: Starting script
-2021-06-17 09:59:18,521          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-17 09:59:19,166          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-17 09:59:19,810          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-17 09:59:20,003          root     INFO: Parsing R7 - Brasil
-2021-06-17 09:59:27,917          root     INFO: Finished script
+2021-06-17 10:27:44,671          root     INFO: Starting script
+2021-06-17 10:27:45,782          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-17 10:27:46,555          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-17 10:27:47,342          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-17 10:27:47,568          root     INFO: Parsing R7 - Brasil
+2021-06-17 10:27:50,609          root     INFO: Farmacêutica diz à CPI que faturou 8 vezes mais em 2020 com medicamentos do <del>kit Covid</del> <ins>'kit Covid'</ins>
+2021-06-17 10:27:52,507          root     INFO: Media ready with ids: 1405472253446443013
+2021-06-17 10:27:52,508          root     INFO: Text to tweet: Modificação do Título
+2021-06-17 10:27:52,508          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/farmaceutica-diz-a-cpi-que-faturou-8-vezes-mais-em-2020-com-medicamentos-do-kit-covid.shtml
+2021-06-17 10:27:52,518          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/farmaceutica-diz-a-cpi-que-faturou-8-vezes-mais-em-2020-com-medicamentos-do-kit-covid.shtml
+2021-06-17 10:27:52,808          root     INFO: Replying to: 1405472255241506816
+2021-06-17 10:27:53,083          root     INFO: Id to store: 1405472256202055682
+2021-06-17 10:27:53,090          root     INFO: A farmacêutica EMS informou à CPI da <del>Covid-19</del> <ins>Covid</ins> no Senado que faturou R$ 142 milhões com medicamentos do <del>kit covid-19</del> <ins>"kit Covid"</ins> em 2020, valor <del>8</del> <ins>oito</ins> vezes superior ao registrado no ano anterior. <ins>Apenas a soma com a venda de ivermectina foi de R$ 2,2 milhões para R$ 71,1 milhões na pandemia.</ins> Leia mais (06/16/2021 - 23h39)
+2021-06-17 10:27:54,896          root     INFO: Media ready with ids: 1405472263227510785
+2021-06-17 10:27:54,897          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-17 10:27:54,897          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/farmaceutica-diz-a-cpi-que-faturou-8-vezes-mais-em-2020-com-medicamentos-do-kit-covid.shtml
+2021-06-17 10:27:54,909          root     INFO: Replying to: 1405472256202055682
+2021-06-17 10:27:55,191          root     INFO: Id to store: 1405472265052037124
+2021-06-17 10:28:01,267          root     INFO: Removed http://noticias.r7.com/brasil/carlos-wizard-e-auditor-do-tcu-poderao-ficar-calados-na-cpi-17062021
+2021-06-17 10:28:01,274          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-vai-participar-de-nova-motociata-em-chapeco-sc-16062021
+2021-06-17 10:28:01,280          root     INFO: Removed http://noticias.r7.com/brasil/videos/936-mil-doses-da-vacina-da-pfizer-chegam-ao-brasil-16062021
+2021-06-17 10:28:01,287          root     INFO: Removed http://noticias.r7.com/brasil/stf-nega-recurso-de-silveira-contra-multa-por-violacoes-em-tornozeleira-16062021
+2021-06-17 10:28:01,294          root     INFO: Removed http://noticias.r7.com/brasil/lote-com-936-mil-doses-de-vacina-da-pfizer-chega-ao-brasil-16062021
+2021-06-17 10:28:01,299          root     INFO: Removed http://noticias.r7.com/brasil/atacado-de-medicamentos-lidera-emissao-de-notas-fiscais-em-2020-17062021
+2021-06-17 10:28:01,307          root     INFO: Removed http://noticias.r7.com/brasil/barroso-da-a-carlos-wizard-direito-ao-silencio-em-depoimento-a-cpi-16062021
+2021-06-17 10:28:01,313          root     INFO: Removed http://noticias.r7.com/brasil/relator-acolhe-dezenas-de-emendas-a-mp-da-privatizacao-da-eletrobras-16062021
+2021-06-17 10:28:01,314          root     INFO: Finished script
