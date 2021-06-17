@@ -1,6 +1,10 @@
-2021-06-17 18:33:41,308          root     INFO: Starting script
-2021-06-17 18:33:42,116          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-17 18:33:42,775          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-17 18:33:43,445          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-17 18:33:43,672          root     INFO: Parsing R7 - Brasil
-2021-06-17 18:33:52,551          root     INFO: Finished script
+2021-06-17 19:00:59,604          root     INFO: Starting script
+2021-06-17 19:01:00,660          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-17 19:01:01,465          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-17 19:01:02,261          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-17 19:01:02,520          root     INFO: Parsing R7 - Brasil
+2021-06-17 19:01:05,864          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/homem-que-ameacou-lula-com-arma-diz-que-usou-liberdade-de-expressao-e-compara-petista-a-arbitro-de-futebol.shtml
+2021-06-17 19:01:05,879          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/almoco-de-lula-com-bispo-da-assembleia-de-deus-irrita-evangelicos-e-anima-petistas.shtml
+2021-06-17 19:01:12,627          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ambicao-politica-moveu-gabinete-paralelo-de-bolsonaro-hoje-principal-foco-da-cpi-da-covid.shtml
+2021-06-17 19:01:12,634          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/lider-do-governo-no-senado-se-reune-com-ministro-da-justica-apos-ser-indiciado-pela-pf.shtml
+2021-06-17 19:01:12,635          root     INFO: Finished script
