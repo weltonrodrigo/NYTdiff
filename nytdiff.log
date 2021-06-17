@@ -1,27 +1,20 @@
-2021-06-17 10:27:44,671          root     INFO: Starting script
-2021-06-17 10:27:45,782          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-17 10:27:46,555          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-17 10:27:47,342          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-17 10:27:47,568          root     INFO: Parsing R7 - Brasil
-2021-06-17 10:27:50,609          root     INFO: Farmacêutica diz à CPI que faturou 8 vezes mais em 2020 com medicamentos do <del>kit Covid</del> <ins>'kit Covid'</ins>
-2021-06-17 10:27:52,507          root     INFO: Media ready with ids: 1405472253446443013
-2021-06-17 10:27:52,508          root     INFO: Text to tweet: Modificação do Título
-2021-06-17 10:27:52,508          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/farmaceutica-diz-a-cpi-que-faturou-8-vezes-mais-em-2020-com-medicamentos-do-kit-covid.shtml
-2021-06-17 10:27:52,518          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/farmaceutica-diz-a-cpi-que-faturou-8-vezes-mais-em-2020-com-medicamentos-do-kit-covid.shtml
-2021-06-17 10:27:52,808          root     INFO: Replying to: 1405472255241506816
-2021-06-17 10:27:53,083          root     INFO: Id to store: 1405472256202055682
-2021-06-17 10:27:53,090          root     INFO: A farmacêutica EMS informou à CPI da <del>Covid-19</del> <ins>Covid</ins> no Senado que faturou R$ 142 milhões com medicamentos do <del>kit covid-19</del> <ins>"kit Covid"</ins> em 2020, valor <del>8</del> <ins>oito</ins> vezes superior ao registrado no ano anterior. <ins>Apenas a soma com a venda de ivermectina foi de R$ 2,2 milhões para R$ 71,1 milhões na pandemia.</ins> Leia mais (06/16/2021 - 23h39)
-2021-06-17 10:27:54,896          root     INFO: Media ready with ids: 1405472263227510785
-2021-06-17 10:27:54,897          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-17 10:27:54,897          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/farmaceutica-diz-a-cpi-que-faturou-8-vezes-mais-em-2020-com-medicamentos-do-kit-covid.shtml
-2021-06-17 10:27:54,909          root     INFO: Replying to: 1405472256202055682
-2021-06-17 10:27:55,191          root     INFO: Id to store: 1405472265052037124
-2021-06-17 10:28:01,267          root     INFO: Removed http://noticias.r7.com/brasil/carlos-wizard-e-auditor-do-tcu-poderao-ficar-calados-na-cpi-17062021
-2021-06-17 10:28:01,274          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-vai-participar-de-nova-motociata-em-chapeco-sc-16062021
-2021-06-17 10:28:01,280          root     INFO: Removed http://noticias.r7.com/brasil/videos/936-mil-doses-da-vacina-da-pfizer-chegam-ao-brasil-16062021
-2021-06-17 10:28:01,287          root     INFO: Removed http://noticias.r7.com/brasil/stf-nega-recurso-de-silveira-contra-multa-por-violacoes-em-tornozeleira-16062021
-2021-06-17 10:28:01,294          root     INFO: Removed http://noticias.r7.com/brasil/lote-com-936-mil-doses-de-vacina-da-pfizer-chega-ao-brasil-16062021
-2021-06-17 10:28:01,299          root     INFO: Removed http://noticias.r7.com/brasil/atacado-de-medicamentos-lidera-emissao-de-notas-fiscais-em-2020-17062021
-2021-06-17 10:28:01,307          root     INFO: Removed http://noticias.r7.com/brasil/barroso-da-a-carlos-wizard-direito-ao-silencio-em-depoimento-a-cpi-16062021
-2021-06-17 10:28:01,313          root     INFO: Removed http://noticias.r7.com/brasil/relator-acolhe-dezenas-de-emendas-a-mp-da-privatizacao-da-eletrobras-16062021
-2021-06-17 10:28:01,314          root     INFO: Finished script
+2021-06-17 10:52:55,958          root     INFO: Starting script
+2021-06-17 10:52:56,765          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-17 10:52:57,419          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-17 10:52:58,070          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-17 10:52:58,336          root     INFO: Parsing R7 - Brasil
+2021-06-17 10:52:58,735          root     INFO: O colunista está em férias <del>?</del> Leia mais (06/16/2021 - 23h15)
+2021-06-17 10:53:00,408          root     INFO: Media ready with ids: 1405478577907306498
+2021-06-17 10:53:00,408          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-17 10:53:00,408          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/06/aviso.shtml
+2021-06-17 10:53:00,419          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/06/aviso.shtml
+2021-06-17 10:53:00,576          root     INFO: Replying to: 1405478579341758471
+2021-06-17 10:53:00,821          root     INFO: Id to store: 1405478580155465739
+2021-06-17 10:53:03,656          root     INFO: O colunista está em férias <del>?</del> Leia mais (06/16/2021 - 23h15)
+2021-06-17 10:53:05,305          root     INFO: Media ready with ids: 1405478598589435905
+2021-06-17 10:53:05,306          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-17 10:53:05,306          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/06/aviso.shtml
+2021-06-17 10:53:05,318          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/06/aviso.shtml
+2021-06-17 10:53:05,503          root     INFO: Replying to: 1405478600002920459
+2021-06-17 10:53:05,747          root     INFO: Id to store: 1405478600787308548
+2021-06-17 10:53:11,295          root     INFO: Finished script
