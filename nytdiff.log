@@ -1,10 +1,13 @@
-2021-06-17 19:00:59,604          root     INFO: Starting script
-2021-06-17 19:01:00,660          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-17 19:01:01,465          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-17 19:01:02,261          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-17 19:01:02,520          root     INFO: Parsing R7 - Brasil
-2021-06-17 19:01:05,864          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/homem-que-ameacou-lula-com-arma-diz-que-usou-liberdade-de-expressao-e-compara-petista-a-arbitro-de-futebol.shtml
-2021-06-17 19:01:05,879          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/almoco-de-lula-com-bispo-da-assembleia-de-deus-irrita-evangelicos-e-anima-petistas.shtml
-2021-06-17 19:01:12,627          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ambicao-politica-moveu-gabinete-paralelo-de-bolsonaro-hoje-principal-foco-da-cpi-da-covid.shtml
-2021-06-17 19:01:12,634          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/lider-do-governo-no-senado-se-reune-com-ministro-da-justica-apos-ser-indiciado-pela-pf.shtml
-2021-06-17 19:01:12,635          root     INFO: Finished script
+2021-06-17 19:20:19,648          root     INFO: Starting script
+2021-06-17 19:20:20,438          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-17 19:20:21,073          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-17 19:20:21,713          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-17 19:20:21,972          root     INFO: Parsing R7 - Brasil
+2021-06-17 19:20:25,037          root     INFO: Uma foto de Manoel Ferreira, bispo primaz de um dos mais poderosos galhos da Assembleia de Deus, o Ministério Madureira, entre Lula e outro <del>petista, o líder da Alerj (Assembleia Legislativa do Rio de Janeiro), André Ceciliano,</del> <ins>petista</ins> agitou os bastidores evangélicos. Seria sinal de uma igreja de peso disposta a fazer as pazes com o <del>ex-presidente?</del> <ins>ex-presidente da República?</ins> Leia mais (06/17/2021 - 15h31)
+2021-06-17 19:20:26,772          root     INFO: Media ready with ids: 1405606279238897664
+2021-06-17 19:20:26,773          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-17 19:20:26,773          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/almoco-de-lula-com-bispo-da-assembleia-de-deus-irrita-evangelicos-e-anima-petistas.shtml
+2021-06-17 19:20:26,783          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/almoco-de-lula-com-bispo-da-assembleia-de-deus-irrita-evangelicos-e-anima-petistas.shtml
+2021-06-17 19:20:26,964          root     INFO: Replying to: 1405606280727830531
+2021-06-17 19:20:27,214          root     INFO: Id to store: 1405606281491189768
+2021-06-17 19:20:33,326          root     INFO: Finished script
