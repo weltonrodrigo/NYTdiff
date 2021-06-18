@@ -1,15 +1,13 @@
-2021-06-18 18:01:46,369          root     INFO: Starting script
-2021-06-18 18:01:47,380          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-18 18:01:48,200          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-18 18:01:49,030          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-18 18:01:49,311          root     INFO: Parsing R7 - Brasil
-2021-06-18 18:01:52,163          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/fhc-faz-90-anos-e-assiste-a-video-com-exaltacao-a-perfil-democratico-e-homenagens-de-doria-temer-e-huck.shtml
-2021-06-18 18:01:52,236          root     INFO: Pela quarta vez em pouco mais de um mês, o presidente da Funai, o delegado da <del>PF</del> <ins>Polícia Federal</ins> Marcelo Xavier, tenta incriminar indígenas críticos do presidente Jair <del>Bolsonaro (sem partido).</del> <ins>Bolsonaro.</ins> Leia mais (06/18/2021 - 14h28)
-2021-06-18 18:01:54,052          root     INFO: Media ready with ids: 1405948900507369478
-2021-06-18 18:01:54,052          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-18 18:01:54,053          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/resgate-de-mulher-refem-de-isolados-no-am-leva-a-nova-investida-da-funai-contra-lideres-indigenas.shtml
-2021-06-18 18:01:54,062          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/resgate-de-mulher-refem-de-isolados-no-am-leva-a-nova-investida-da-funai-contra-lideres-indigenas.shtml
-2021-06-18 18:01:54,325          root     INFO: Replying to: 1405948902306635778
-2021-06-18 18:01:54,613          root     INFO: Id to store: 1405948903275614209
-2021-06-18 18:02:00,389          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/lewandowski-mantem-quebra-de-sigilo-de-medico-investigado-por-tentar-mudar-a-bula-da-hidroxicloroquina.shtml
-2021-06-18 18:02:00,390          root     INFO: Finished script
+2021-06-18 18:30:20,188          root     INFO: Starting script
+2021-06-18 18:30:20,981          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-18 18:30:21,627          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-18 18:30:22,276          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-18 18:30:22,472          root     INFO: Parsing R7 - Brasil
+2021-06-18 18:30:25,769          root     INFO: Com orçamento apertado, Exército quer gastar R$ 4 milhões <del>com</del> <ins>em</ins> game
+2021-06-18 18:30:27,392          root     INFO: Media ready with ids: 1405956086956441600
+2021-06-18 18:30:27,393          root     INFO: Text to tweet: Modificação do Título
+2021-06-18 18:30:27,393          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-orcamento-apertado-exercito-quer-gastar-r-4-milhoes-com-game.shtml
+2021-06-18 18:30:27,402          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-orcamento-apertado-exercito-quer-gastar-r-4-milhoes-com-game.shtml
+2021-06-18 18:30:27,635          root     INFO: Replying to: 1405956088357347330
+2021-06-18 18:30:27,888          root     INFO: Id to store: 1405956089275879427
+2021-06-18 18:30:33,697          root     INFO: Finished script
