@@ -1,6 +1,10 @@
-2021-06-18 10:58:01,559          root     INFO: Starting script
-2021-06-18 10:58:02,534          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-18 10:58:03,321          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-18 10:58:04,110          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-18 10:58:04,293          root     INFO: Parsing R7 - Brasil
-2021-06-18 10:58:13,546          root     INFO: Finished script
+2021-06-18 11:19:53,146          root     INFO: Starting script
+2021-06-18 11:19:54,109          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-18 11:19:54,909          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-18 11:19:55,702          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-18 11:19:55,919          root     INFO: Parsing R7 - Brasil
+2021-06-18 11:19:56,088          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/fhc-90-um-homem-alem-do-seu-tempo.shtml
+2021-06-18 11:19:58,647          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-orcamento-apertado-exercito-quer-gastar-r-4-milhoes-com-game.shtml
+2021-06-18 11:20:04,140          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/assassinato-de-agente-fez-miliciano-ecko-entrar-na-mira-da-pf-em-2020.shtml
+2021-06-18 11:20:04,145          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/g7-racha-e-se-limita-a-criar-um-grupo-de-trabalho-sobre-china.shtml
+2021-06-18 11:20:04,146          root     INFO: Finished script
