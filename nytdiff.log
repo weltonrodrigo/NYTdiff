@@ -1,6 +1,15 @@
-2021-06-18 22:50:15,369          root     INFO: Starting script
-2021-06-18 22:50:16,390          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-18 22:50:17,213          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-18 22:50:18,034          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-18 22:50:18,236          root     INFO: Parsing R7 - Brasil
-2021-06-18 22:50:26,588          root     INFO: Finished script
+2021-06-18 22:57:47,397          root     INFO: Starting script
+2021-06-18 22:57:48,615          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-18 22:57:49,278          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-18 22:57:49,938          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-18 22:57:50,196          root     INFO: Parsing R7 - Brasil
+2021-06-18 22:57:53,216          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-microfone-dado-por-bolsonaro-no-para-apoiador-pede-defesa-de-garimpeiros-e-madeireiros.shtml
+2021-06-18 22:57:53,407          root     INFO: Em clima de campanha eleitoral em um evento oficial nesta sexta-feira (18) que contou com gritos de "Lula, ladrão" e a presença do pastor Silas Malafaia, o presidente Jair Bolsonaro (sem partido) entregou 50 mil títulos fundiários em Marabá, <del>na região sudeste</del> <ins>no sul</ins> do Pará. Leia mais (06/18/2021 - 13h43)
+2021-06-18 22:57:55,215          root     INFO: Media ready with ids: 1406023396119486473
+2021-06-18 22:57:55,216          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-18 22:57:55,216          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/evento-com-bolsonaro-no-para-tem-malafaia-no-palanque-clima-de-campanha-e-ataques-a-lula.shtml
+2021-06-18 22:57:55,228          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/evento-com-bolsonaro-no-para-tem-malafaia-no-palanque-clima-de-campanha-e-ataques-a-lula.shtml
+2021-06-18 22:57:55,460          root     INFO: Replying to: 1406023397839097860
+2021-06-18 22:57:55,730          root     INFO: Id to store: 1406023398749245442
+2021-06-18 22:58:01,724          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/oposicao-a-bolsonaro-busca-se-diferenciar-de-motociata-e-amplia-convocacoes-para-protestos-no-dia-19.shtml
+2021-06-18 22:58:01,725          root     INFO: Finished script
