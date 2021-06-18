@@ -1,19 +1,6 @@
-2021-06-18 20:23:59,124          root     INFO: Starting script
-2021-06-18 20:23:59,930          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-18 20:24:00,588          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-18 20:24:01,250          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-18 20:24:01,427          root     INFO: Parsing R7 - Brasil
-2021-06-18 20:24:01,596          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/06/primavera-da-pos-covid-pode-ser-tanto-de-venus-quanto-da-virgem.shtml
-2021-06-18 20:24:01,614          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2021/06/gabinete-paralelo-do-bozo-briga-por-cargo-de-compartilhador-de-merda.shtml
-2021-06-18 20:24:01,692          root     INFO: A Justiça de São Paulo condenou um colégio particular de Guarulhos a pagar uma indenização de R$ 30 mil por danos morais a uma aluna vítima de bullying. A estudante é portadora de uma doença rara, a síndrome de Moebius, que se caracteriza pela paralisia de nervos cranianos. Os portadores dessa doença possuem a chamada face em máscara, ou seja, falta de expressão facial. As manifestações mais frequentes da doença incluem estrabismo, inabilidade para sorrir, alterações nos dentes e na fala, entre outros problemas. A garota entrou no colégio em 2013 e, conforme seus advogados disseram à Justiça, sempre sofreu discriminação, "sendo excluída pelos colegas e alvo constante de chacotas". A situação piorou em 2016, de acordo com o relato, quando cursava o segundo ano do ensino médio. "As gozações foram crescendo de tal modo que ela não teve mais condições de frequentar a escola." A mãe da menina disse à Justiça ter procurado a direção do colégio, mas que nada foi feito. "A escola alegou que não cabia a ela dar sermão sobre a postura da turma, afinal os alunos já tinham em torno de 15 anos." Leia mais (06/18/2021 - 10h36)
-2021-06-18 20:24:03,750          root     INFO: Media ready with ids: 1405984676209217537
-2021-06-18 20:24:03,750          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-18 20:24:03,750          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/06/colegio-e-condenado-a-pagar-r-30-mil-a-aluna-vitima-de-bullying.shtml
-2021-06-18 20:24:03,761          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/06/colegio-e-condenado-a-pagar-r-30-mil-a-aluna-vitima-de-bullying.shtml
-2021-06-18 20:24:03,932          root     INFO: Replying to: 1405984678121725956
-2021-06-18 20:24:04,237          root     INFO: Id to store: 1405984678897754116
-2021-06-18 20:24:07,060          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/marco-aurelio-adia-saida-do-stf-e-diz-que-sucessor-nao-pode-ter-paixoes.shtml
-2021-06-18 20:24:13,363          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/06/o-cemiterio-moral-do-bolsonarismo.shtml
-2021-06-18 20:24:13,368          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2021/06/planeje-antes-de-usar-credito.shtml
-2021-06-18 20:24:13,373          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/dem-expulsa-rodrigo-maia-que-chama-presidente-do-partido-de-torquemada-neto.shtml
-2021-06-18 20:24:13,374          root     INFO: Finished script
+2021-06-18 20:36:30,216          root     INFO: Starting script
+2021-06-18 20:36:31,008          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-18 20:36:31,653          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-18 20:36:32,302          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-18 20:36:32,619          root     INFO: Parsing R7 - Brasil
+2021-06-18 20:36:41,132          root     INFO: Finished script
