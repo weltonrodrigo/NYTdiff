@@ -1,6 +1,13 @@
-2021-06-18 19:31:00,225          root     INFO: Starting script
-2021-06-18 19:31:01,014          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-18 19:31:01,656          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-18 19:31:02,299          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-18 19:31:02,540          root     INFO: Parsing R7 - Brasil
-2021-06-18 19:31:10,731          root     INFO: Finished script
+2021-06-18 19:46:51,879          root     INFO: Starting script
+2021-06-18 19:46:52,677          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-18 19:46:53,326          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-18 19:46:53,973          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-18 19:46:54,322          root     INFO: Parsing R7 - Brasil
+2021-06-18 19:46:57,497          root     INFO: Em entrevista à revista Veja, o general Luis Carlos Gomes Mattos, 73, presidente do STM (Superior Tribunal Militar), defende o presidente Jair Bolsonaro <ins>(sem partido)</ins> e, quando questionado sobre a candidatura do ex-presidente <ins>Luiz Inácio</ins> Lula <ins>da Silva</ins> (PT) ao Palácio do Planalto, afirma que o brasileiro precisa saber votar. Leia mais (06/18/2021 - 15h51)
+2021-06-18 19:46:59,222          root     INFO: Media ready with ids: 1405975346214752257
+2021-06-18 19:46:59,222          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-18 19:46:59,222          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/o-brasileiro-precisa-saber-votar-diz-general-chefe-de-tribunal-militar-sobre-lula-em-2022.shtml
+2021-06-18 19:46:59,233          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/o-brasileiro-precisa-saber-votar-diz-general-chefe-de-tribunal-militar-sobre-lula-em-2022.shtml
+2021-06-18 19:46:59,444          root     INFO: Replying to: 1405975347934474248
+2021-06-18 19:46:59,697          root     INFO: Id to store: 1405975348718837761
+2021-06-18 19:47:06,197          root     INFO: Finished script
