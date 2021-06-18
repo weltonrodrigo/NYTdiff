@@ -1,13 +1,8 @@
-2021-06-18 18:30:20,188          root     INFO: Starting script
-2021-06-18 18:30:20,981          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-18 18:30:21,627          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-18 18:30:22,276          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-18 18:30:22,472          root     INFO: Parsing R7 - Brasil
-2021-06-18 18:30:25,769          root     INFO: Com orçamento apertado, Exército quer gastar R$ 4 milhões <del>com</del> <ins>em</ins> game
-2021-06-18 18:30:27,392          root     INFO: Media ready with ids: 1405956086956441600
-2021-06-18 18:30:27,393          root     INFO: Text to tweet: Modificação do Título
-2021-06-18 18:30:27,393          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-orcamento-apertado-exercito-quer-gastar-r-4-milhoes-com-game.shtml
-2021-06-18 18:30:27,402          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-orcamento-apertado-exercito-quer-gastar-r-4-milhoes-com-game.shtml
-2021-06-18 18:30:27,635          root     INFO: Replying to: 1405956088357347330
-2021-06-18 18:30:27,888          root     INFO: Id to store: 1405956089275879427
-2021-06-18 18:30:33,697          root     INFO: Finished script
+2021-06-18 18:59:43,509          root     INFO: Starting script
+2021-06-18 18:59:44,322          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-18 18:59:44,958          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-18 18:59:45,610          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-18 18:59:45,925          root     INFO: Parsing R7 - Brasil
+2021-06-18 18:59:48,264          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/o-brasileiro-precisa-saber-votar-diz-general-chefe-de-tribunal-militar-sobre-lula-em-2022.shtml
+2021-06-18 18:59:53,087          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/remocao-de-seguidores-de-bolsonaristas-no-twitter-vira-combustivel-para-decreto-que-controla-redes-sociais.shtml
+2021-06-18 18:59:53,088          root     INFO: Finished script
