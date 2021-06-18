@@ -1,25 +1,27 @@
-2021-06-18 23:32:18,833          root     INFO: Starting script
-2021-06-18 23:32:19,826          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-18 23:32:20,629          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-18 23:32:21,428          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-18 23:32:21,777          root     INFO: Parsing R7 - Brasil
-2021-06-18 23:32:31,502          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-tenta-conducao-coercitiva-de-wizard-mas-empresario-viajou-18062021
-2021-06-18 23:32:31,521          root     INFO: New article tracked: http://noticias.r7.com/brasil/marco-aurelio-adia-aposentadoria-do-stf-para-reduzir-acervo-18062021
-2021-06-18 23:32:31,535          root     INFO: New article tracked: http://noticias.r7.com/brasil/aras-retoma-apuracao-sobre-defesa-de-bolsonaro-do-kit-covid-18062021
-2021-06-18 23:32:31,554          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-se-desentende-com-medicos-defensores-da-cloroquina-18062021
-2021-06-18 23:32:31,568          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-diz-estar-tranquilo-sobre-se-tornar-investigado-pela-cpi-18062021
-2021-06-18 23:32:31,581          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-volta-a-atacar-governadores-sanha-ditatorial-18062021
-2021-06-18 23:32:31,597          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-covid-ja-e-principal-justificativa-para-auxilio-doenca-diz-medico-18062021
-2021-06-18 23:32:31,612          root     INFO: New article tracked: http://noticias.r7.com/brasil/estudio-news-debate-cirurgias-plasticas-mesmo-na-pandemia-18062021
-2021-06-18 23:32:31,625          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-queiroga-sera-investigado-por-participacao-pifia-na-cpi-18062021
-2021-06-18 23:32:31,638          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-queiroga-pazuello-e-araujo-estao-entre-os-14-investigados-18062021
-2021-06-18 23:32:31,652          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-pede-convocacao-de-executivos-do-facebook-e-youtube-18062021
-2021-06-18 23:32:31,666          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-saude-fara-pesquisa-sobre-uso-de-mascara-diz-queiroga-18062021
-2021-06-18 23:32:31,680          root     INFO: New article tracked: http://noticias.r7.com/brasil/pais-permitem-maus-tratos-aos-filhos-em-nome-do-relacionamento-18062021
-2021-06-18 23:32:31,699          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-calheiros-se-recusa-a-fazer-perguntas-a-medicos-na-cpi-18062021
-2021-06-18 23:32:31,717          root     INFO: New article tracked: http://noticias.r7.com/brasil/medidas-que-tomei-se-mostraram-positivas-diz-bolsonaro-sobre-covid-18062021
-2021-06-18 23:32:31,731          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacao-militar-na-amazonia-deve-comecar-em-10-dias-avisa-mourao-18062021
-2021-06-18 23:32:31,744          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-ouve-medicos-que-defendem-tratamento-precoce-assista-ao-vivo-18062021
-2021-06-18 23:32:31,757          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-pede-vista-e-suspende-acao-que-pode-barrar-autonomia-do-bc-18062021
-2021-06-18 23:32:31,771          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-medico-que-vai-defender-tratamento-precoce-e-alvo-do-inss-18062021
-2021-06-18 23:32:31,811          root     INFO: Finished script
+2021-06-18 23:47:10,687          root     INFO: Starting script
+2021-06-18 23:47:11,564          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-18 23:47:12,234          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-18 23:47:12,901          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-18 23:47:13,176          root     INFO: Parsing R7 - Brasil
+2021-06-18 23:47:16,536          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-promovida-por-bolsonaro-em-sao-paulo-nao-gerou-renda-de-r-40-mi.shtml
+2021-06-18 23:47:23,062          root     INFO: Removed http://noticias.r7.com/brasil/aziz-se-desentende-com-medicos-defensores-da-cloroquina-18062021
+2021-06-18 23:47:23,069          root     INFO: Removed http://noticias.r7.com/brasil/aras-retoma-apuracao-sobre-defesa-de-bolsonaro-do-kit-covid-18062021
+2021-06-18 23:47:23,074          root     INFO: Removed http://noticias.r7.com/brasil/cpi-medico-que-vai-defender-tratamento-precoce-e-alvo-do-inss-18062021
+2021-06-18 23:47:23,078          root     INFO: Removed http://noticias.r7.com/brasil/barroso-pede-vista-e-suspende-acao-que-pode-barrar-autonomia-do-bc-18062021
+2021-06-18 23:47:23,085          root     INFO: Removed http://noticias.r7.com/brasil/operacao-militar-na-amazonia-deve-comecar-em-10-dias-avisa-mourao-18062021
+2021-06-18 23:47:23,089          root     INFO: Removed http://noticias.r7.com/brasil/cpi-queiroga-pazuello-e-araujo-estao-entre-os-14-investigados-18062021
+2021-06-18 23:47:23,094          root     INFO: Removed http://noticias.r7.com/brasil/cpi-ouve-medicos-que-defendem-tratamento-precoce-assista-ao-vivo-18062021
+2021-06-18 23:47:23,098          root     INFO: Removed http://noticias.r7.com/brasil/renan-queiroga-sera-investigado-por-participacao-pifia-na-cpi-18062021
+2021-06-18 23:47:23,102          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/doria-sinaliza-que-aceitara-disputar-previas-do-psdb-sob-quaisquer-regras.shtml
+2021-06-18 23:47:23,107          root     INFO: Removed http://noticias.r7.com/brasil/estudio-news-debate-cirurgias-plasticas-mesmo-na-pandemia-18062021
+2021-06-18 23:47:23,112          root     INFO: Removed http://noticias.r7.com/brasil/cpi-pede-convocacao-de-executivos-do-facebook-e-youtube-18062021
+2021-06-18 23:47:23,116          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-volta-a-atacar-governadores-sanha-ditatorial-18062021
+2021-06-18 23:47:23,122          root     INFO: Removed http://noticias.r7.com/brasil/cpi-covid-ja-e-principal-justificativa-para-auxilio-doenca-diz-medico-18062021
+2021-06-18 23:47:23,127          root     INFO: Removed http://noticias.r7.com/brasil/medidas-que-tomei-se-mostraram-positivas-diz-bolsonaro-sobre-covid-18062021
+2021-06-18 23:47:23,132          root     INFO: Removed http://noticias.r7.com/brasil/renan-calheiros-se-recusa-a-fazer-perguntas-a-medicos-na-cpi-18062021
+2021-06-18 23:47:23,137          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-saude-fara-pesquisa-sobre-uso-de-mascara-diz-queiroga-18062021
+2021-06-18 23:47:23,143          root     INFO: Removed http://noticias.r7.com/brasil/pais-permitem-maus-tratos-aos-filhos-em-nome-do-relacionamento-18062021
+2021-06-18 23:47:23,147          root     INFO: Removed http://noticias.r7.com/brasil/marco-aurelio-adia-aposentadoria-do-stf-para-reduzir-acervo-18062021
+2021-06-18 23:47:23,153          root     INFO: Removed http://noticias.r7.com/brasil/pf-tenta-conducao-coercitiva-de-wizard-mas-empresario-viajou-18062021
+2021-06-18 23:47:23,158          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-diz-estar-tranquilo-sobre-se-tornar-investigado-pela-cpi-18062021
+2021-06-18 23:47:23,159          root     INFO: Finished script
