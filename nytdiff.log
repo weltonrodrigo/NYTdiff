@@ -1,6 +1,13 @@
-2021-06-19 18:30:34,275          root     INFO: Starting script
-2021-06-19 18:30:35,121          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-19 18:30:35,784          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-19 18:30:36,441          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-19 18:30:36,610          root     INFO: Parsing R7 - Brasil
-2021-06-19 18:30:46,329          root     INFO: Finished script
+2021-06-19 19:00:31,075          root     INFO: Starting script
+2021-06-19 19:00:32,059          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-19 19:00:32,868          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-19 19:00:33,664          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-19 19:00:33,924          root     INFO: Parsing R7 - Brasil
+2021-06-19 19:00:37,414          root     INFO: A frase de Jair Bolsonaro sobre a posse de armas de fogo em casa como forma de proteção do cidadão e da família se choca frontalmente com o que aconteceu no caso do <del>"serial</del> <ins>“serial</ins> killer do <del>DF",</del> <ins>DF”,</ins> como tem sido chamado Lázaro de Sousa. Leia mais (06/18/2021 - 23h15)
+2021-06-19 19:00:39,280          root     INFO: Media ready with ids: 1406326074133319684
+2021-06-19 19:00:39,281          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-19 19:00:39,281          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/caso-lazaro-mostra-que-declaracao-de-bolsonaro-sobre-armas-e-falacia-dizem-especialistas.shtml
+2021-06-19 19:00:39,290          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/caso-lazaro-mostra-que-declaracao-de-bolsonaro-sobre-armas-e-falacia-dizem-especialistas.shtml
+2021-06-19 19:00:39,556          root     INFO: Replying to: 1406326076062810117
+2021-06-19 19:00:39,894          root     INFO: Id to store: 1406326077056819209
+2021-06-19 19:00:45,899          root     INFO: Finished script
