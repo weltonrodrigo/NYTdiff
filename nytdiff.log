@@ -1,10 +1,17 @@
-2021-06-19 03:29:59,149          root     INFO: Starting script
-2021-06-19 03:30:00,216          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-19 03:30:01,002          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-19 03:30:01,808          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-19 03:30:02,236          root     INFO: Parsing R7 - Brasil
-2021-06-19 03:30:05,326          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/policia-da-bahia-investiga-se-assassinato-de-homens-que-roubaram-carne-de-mercado-teve-mandantes.shtml
-2021-06-19 03:30:05,341          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/tabata-amaral-e-disputada-por-psd-e-psb.shtml
-2021-06-19 03:30:11,535          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/livro-de-ex-pastor-que-universal-tentou-censurar-nos-anos-1990-e-relancado.shtml
-2021-06-19 03:30:11,540          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/relator-na-camara-inclui-nepotismo-como-ato-de-improbidade-e-fixa-prescricao-em-8-anos.shtml
-2021-06-19 03:30:11,541          root     INFO: Finished script
+2021-06-19 03:56:34,228          root     INFO: Starting script
+2021-06-19 03:56:35,135          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-19 03:56:35,841          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-19 03:56:36,523          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-19 03:56:36,834          root     INFO: Parsing R7 - Brasil
+2021-06-19 03:56:39,733          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2020/06/ex-presidente-de-banco-candido-bracher-estreia-como-colunista-da-folha.shtml
+2021-06-19 03:56:45,174          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-determina-que-pf-rastreie-denuncias-em-urnas-eletronicas-18062021
+2021-06-19 03:56:45,186          root     INFO: New article tracked: http://noticias.r7.com/brasil/sancionada-lei-que-prorroga-medidas-emergenciais-para-aviacao-18062021
+2021-06-19 03:56:45,200          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-autoriza-conducao-coercitiva-de-wizard-a-cpi-18062021
+2021-06-19 03:56:45,214          root     INFO: New article tracked: http://noticias.r7.com/brasil/procon-notifica-bancos-por-brechas-exploradas-por-ladroes-de-celulares-18062021
+2021-06-19 03:56:45,227          root     INFO: New article tracked: http://noticias.r7.com/brasil/justica-determina-retencao-de-passaporte-de-carlos-wizard-18062021
+2021-06-19 03:56:45,239          root     INFO: New article tracked: http://noticias.r7.com/brasil/secretario-especial-de-comunicacao-social-faz-visita-institucional-a-record-tv-18062021
+2021-06-19 03:56:45,252          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-entrega-mais-5-milhoes-de-doses-da-astrazeneca-nesta-sexta-18062021
+2021-06-19 03:56:45,264          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-se-ilude-achando-que-vai-derrubar-o-governo-diz-bolsonaro-18062021
+2021-06-19 03:56:45,276          root     INFO: New article tracked: http://noticias.r7.com/brasil/toffoli-suspende-quebra-de-sigilo-de-ex-assessor-de-pazuello-18062021
+2021-06-19 03:56:45,586          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49738
+2021-06-19 03:56:45,587          root     INFO: Finished script
