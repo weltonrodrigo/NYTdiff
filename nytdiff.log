@@ -1,10 +1,9 @@
-2021-06-19 09:52:36,540          root     INFO: Starting script
-2021-06-19 09:52:37,502          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-19 09:52:38,293          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-19 09:52:39,066          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-19 09:52:39,379          root     INFO: Parsing R7 - Brasil
-2021-06-19 09:52:48,008          root     INFO: New article tracked: http://noticias.r7.com/brasil/fotos/fuga-de-lazaro-eletrobras-e-bolsa-familia-a-r-300-marcam-semana-19062021
-2021-06-19 09:52:48,025          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-quase-dois-meses-cpi-da-covid-ja-acumula-37-acoes-no-stf-19062021
-2021-06-19 09:52:48,037          root     INFO: New article tracked: http://noticias.r7.com/brasil/veja-quem-pode-se-vacinar-contra-covid-19-em-9-capitais-neste-sabado-19062021
-2021-06-19 09:52:48,550          root     INFO: Removed http://noticias.r7.com/brasil/brasil-bate-recorde-ao-aplicar-22-mi-de-doses-contra-covid-em-um-dia-18062021
-2021-06-19 09:52:48,551          root     INFO: Finished script
+2021-06-19 09:58:02,153          root     INFO: Starting script
+2021-06-19 09:58:03,030          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-19 09:58:03,693          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-19 09:58:04,363          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-19 09:58:04,625          root     INFO: Parsing R7 - Brasil
+2021-06-19 09:58:14,683          root     INFO: Removed http://noticias.r7.com/brasil/veja-quem-pode-se-vacinar-contra-covid-19-em-9-capitais-neste-sabado-19062021
+2021-06-19 09:58:14,704          root     INFO: Removed http://noticias.r7.com/brasil/em-quase-dois-meses-cpi-da-covid-ja-acumula-37-acoes-no-stf-19062021
+2021-06-19 09:58:14,709          root     INFO: Removed http://noticias.r7.com/brasil/fotos/fuga-de-lazaro-eletrobras-e-bolsa-familia-a-r-300-marcam-semana-19062021
+2021-06-19 09:58:14,710          root     INFO: Finished script
