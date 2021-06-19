@@ -1,33 +1,32 @@
-2021-06-19 02:18:15,436          root     INFO: Starting script
-2021-06-19 02:18:16,405          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-19 02:18:17,171          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-19 02:18:17,958          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-19 02:18:19,050          root     INFO: Parsing R7 - Brasil
-2021-06-19 02:18:19,185          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/a-folha-cobre-corretamente-o-governo-bolsonaro-nao.shtml
-2021-06-19 02:18:19,197          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/06/guedes-e-o-odio-aos-pobres.shtml
-2021-06-19 02:18:19,209          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/a-folha-cobre-corretamente-o-governo-bolsonaro-sim.shtml
-2021-06-19 02:18:19,221          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/06/estado-capturado.shtml
-2021-06-19 02:18:19,231          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/a-reforma-que-nao-faremos.shtml
-2021-06-19 02:18:19,242          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/06/republiqueta-das-mentiras.shtml
-2021-06-19 02:18:19,253          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/sanders-tenta-conter-os-tambores-da-guerra-fria-nos-eua.shtml
-2021-06-19 02:18:21,689          root     INFO: <del>'Motociata'</del> <ins>Motociata</ins> promovida por Bolsonaro em São Paulo não gerou renda de R$ 40 mi
-2021-06-19 02:18:23,473          root     INFO: Media ready with ids: 1406073846516625414
-2021-06-19 02:18:23,473          root     INFO: Text to tweet: Modificação do Título
-2021-06-19 02:18:23,473          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-promovida-por-bolsonaro-em-sao-paulo-nao-gerou-renda-de-r-40-mi.shtml
-2021-06-19 02:18:23,483          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-promovida-por-bolsonaro-em-sao-paulo-nao-gerou-renda-de-r-40-mi.shtml
-2021-06-19 02:18:23,747          root     INFO: Replying to: 1406073848206876673
-2021-06-19 02:18:24,023          root     INFO: Id to store: 1406073849133867010
-2021-06-19 02:18:24,029          root     INFO: Não é verdade que a <del>"motociata"</del> <ins>“motociata”</ins> promovida pelo presidente Jair Bolsonaro (sem partido) no dia 12 de junho gerou R$ 40 milhões em emprego e renda para a cidade de São Paulo. O texto publicado em um site e verificado pelo Projeto Comprova, atribui o suposto ganho econômico ao <del>"aquecimento"</del> <ins>“aquecimento”</ins> do setor hoteleiro e de bares e restaurantes por causa da grande quantidade de participantes do evento. O número no qual o site baseou sua estimativa é, no entanto, muito maior do que o real número de participantes. Leia mais (06/18/2021 - 20h30)
-2021-06-19 02:18:25,877          root     INFO: Media ready with ids: 1406073856352305154
-2021-06-19 02:18:25,878          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-19 02:18:25,878          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-promovida-por-bolsonaro-em-sao-paulo-nao-gerou-renda-de-r-40-mi.shtml
-2021-06-19 02:18:25,888          root     INFO: Replying to: 1406073849133867010
-2021-06-19 02:18:26,158          root     INFO: Id to store: 1406073858076155911
-2021-06-19 02:18:31,694          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joao-wainer/2021/06/primeiro-cartel-da-capital.shtml
-2021-06-19 02:18:31,698          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/06/endogamia-musical.shtml
-2021-06-19 02:18:31,702          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/06/quem-recusa-astrazeneca-sao-os-mesmos-que-encaram-ovo-colorido-de-boteco.shtml
-2021-06-19 02:18:31,706          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/06/o-conservadorismo-do-futuro-sera-liberal-ou-nao-sera-como-disse-oakeshott.shtml
-2021-06-19 02:18:31,711          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/06/a-armadilha-do-pluralismo-polarizado.shtml
-2021-06-19 02:18:31,715          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/06/selecao-feminina-foi-a-voz-das-mulheres-sobre-caso-de-assedio-na-cbf.shtml
-2021-06-19 02:18:31,719          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/desde-a-vitoria-de-amlo-a-sociedade-mexicana-tem-se-tornado-cada-vez-mais-polarizada.shtml
-2021-06-19 02:18:31,720          root     INFO: Finished script
+2021-06-19 02:55:21,865          root     INFO: Starting script
+2021-06-19 02:55:23,080          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-19 02:55:23,863          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-19 02:55:24,670          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-19 02:55:24,979          root     INFO: Parsing R7 - Brasil
+2021-06-19 02:55:25,140          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/06/polarizacao-entre-lula-e-bolsonaro-indica-fracasso-de-liderancas-da-terceira-via.shtml
+2021-06-19 02:55:25,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/06/o-que-mudou-no-cenario-fiscal.shtml
+2021-06-19 02:55:25,170          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/06/venda-de-carros-desacelera-na-primeira-quinzena-de-junho.shtml
+2021-06-19 02:55:27,977          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/defesa-de-hacker-da-lava-jato-questiona-ausencia-de-hd-com-integra-de-mensagens.shtml
+2021-06-19 02:55:27,999          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/indigenas-acampados-em-brasilia-se-juntarao-a-ato-contra-jair-bolsonaro-neste-sabado.shtml
+2021-06-19 02:55:28,029          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/marina-silva-e-presidente-de-associacao-de-juizes-farao-live-sobre-mulheres-na-politica.shtml
+2021-06-19 02:55:28,052          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/caso-lazaro-mostra-que-declaracao-de-bolsonaro-sobre-armas-e-falacia-dizem-especialistas.shtml
+2021-06-19 02:55:28,073          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/06/polarizacao-entre-lula-e-bolsonaro-indica-fracasso-de-liderancas-da-terceira-via.shtml
+2021-06-19 02:55:28,089          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/erro-da-oposicao-com-lula-no-mensalao-estimula-pressao-por-impeachment-de-bolsonaro.shtml
+2021-06-19 02:55:28,103          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/fala-de-bolsonaro-sobre-desobrigar-o-uso-de-mascaras-atinge-95-de-reprovacao-nas-redes-sociais.shtml
+2021-06-19 02:55:28,118          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-precisa-ser-responsabilizado-o-povo-esta-perdendo-a-paciencia-diz-lider-de-manifestacoes.shtml
+2021-06-19 02:55:28,132          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/stf-deliberou-sobre-um-numero-recorde-de-processos-em-2020-diz-anuario-da-justica.shtml
+2021-06-19 02:55:28,145          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/de-chico-buarque-a-ze-dirceu-geracao-1968-se-une-contra-bolsonaro.shtml
+2021-06-19 02:55:34,156          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/06/o-pais-da-gracinha.shtml
+2021-06-19 02:55:34,161          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/mato-grosso-do-sul-pede-ao-governo-5-das-vacinas-janssen-para-estudo-de-barreira-anti-covid-na-fronteira.shtml
+2021-06-19 02:55:34,167          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/pt-quer-boulos-candidato-a-deputado-em-troca-de-apoio-a-candidatura-a-prefeito-de-sp-em-2024.shtml
+2021-06-19 02:55:34,172          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-tenta-resolver-impasse-sobre-wizard-e-quer-mirar-em-pazuello-como-investigado.shtml
+2021-06-19 02:55:34,177          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/precisamos-falar-sobre-o-cfm.shtml
+2021-06-19 02:55:34,183          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/soninha-francine-liberou-r-75-mil-de-secretaria-de-marta-suplicy-para-motociata-de-bolsonaro.shtml
+2021-06-19 02:55:34,188          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/com-dois-diretores-a-menos-cvm-aplicou-r-65-milhoes-em-multas-em-2021-valor-considerado-baixo.shtml
+2021-06-19 02:55:34,193          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/organizadores-preveem-manifestacoes-contra-bolsonaro-em-mais-de-500-cidades-em-19-de-junho.shtml
+2021-06-19 02:55:34,197          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/06/a-quem-interessa-ser-contra-as-vacinas.shtml
+2021-06-19 02:55:34,203          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/impunidade-disfarcada.shtml
+2021-06-19 02:55:34,208          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/motociata-de-bolsonaro-nao-teve-moto-de-trabalhador-e-motoboys-nao-tem-o-que-comemorar-diz-lider-da-categoria.shtml
+2021-06-19 02:55:34,213          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/boulos-vai-se-encontrar-com-rodrigo-pacheco-para-discutir-projeto-que-suspende-despejos-na-pandemia.shtml
+2021-06-19 02:55:34,219          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/capita-cloroquina-e-criticada-por-seguidores-apos-mostrar-que-tomou-vacina-contra-a-covid-19.shtml
+2021-06-19 02:55:34,219          root     INFO: Finished script
