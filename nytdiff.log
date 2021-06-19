@@ -1,32 +1,6 @@
-2021-06-19 02:55:21,865          root     INFO: Starting script
-2021-06-19 02:55:23,080          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-19 02:55:23,863          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-19 02:55:24,670          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-19 02:55:24,979          root     INFO: Parsing R7 - Brasil
-2021-06-19 02:55:25,140          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/06/polarizacao-entre-lula-e-bolsonaro-indica-fracasso-de-liderancas-da-terceira-via.shtml
-2021-06-19 02:55:25,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/06/o-que-mudou-no-cenario-fiscal.shtml
-2021-06-19 02:55:25,170          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/06/venda-de-carros-desacelera-na-primeira-quinzena-de-junho.shtml
-2021-06-19 02:55:27,977          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/defesa-de-hacker-da-lava-jato-questiona-ausencia-de-hd-com-integra-de-mensagens.shtml
-2021-06-19 02:55:27,999          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/indigenas-acampados-em-brasilia-se-juntarao-a-ato-contra-jair-bolsonaro-neste-sabado.shtml
-2021-06-19 02:55:28,029          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/marina-silva-e-presidente-de-associacao-de-juizes-farao-live-sobre-mulheres-na-politica.shtml
-2021-06-19 02:55:28,052          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/caso-lazaro-mostra-que-declaracao-de-bolsonaro-sobre-armas-e-falacia-dizem-especialistas.shtml
-2021-06-19 02:55:28,073          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/06/polarizacao-entre-lula-e-bolsonaro-indica-fracasso-de-liderancas-da-terceira-via.shtml
-2021-06-19 02:55:28,089          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/erro-da-oposicao-com-lula-no-mensalao-estimula-pressao-por-impeachment-de-bolsonaro.shtml
-2021-06-19 02:55:28,103          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/fala-de-bolsonaro-sobre-desobrigar-o-uso-de-mascaras-atinge-95-de-reprovacao-nas-redes-sociais.shtml
-2021-06-19 02:55:28,118          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-precisa-ser-responsabilizado-o-povo-esta-perdendo-a-paciencia-diz-lider-de-manifestacoes.shtml
-2021-06-19 02:55:28,132          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/stf-deliberou-sobre-um-numero-recorde-de-processos-em-2020-diz-anuario-da-justica.shtml
-2021-06-19 02:55:28,145          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/de-chico-buarque-a-ze-dirceu-geracao-1968-se-une-contra-bolsonaro.shtml
-2021-06-19 02:55:34,156          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/06/o-pais-da-gracinha.shtml
-2021-06-19 02:55:34,161          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/mato-grosso-do-sul-pede-ao-governo-5-das-vacinas-janssen-para-estudo-de-barreira-anti-covid-na-fronteira.shtml
-2021-06-19 02:55:34,167          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/pt-quer-boulos-candidato-a-deputado-em-troca-de-apoio-a-candidatura-a-prefeito-de-sp-em-2024.shtml
-2021-06-19 02:55:34,172          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-tenta-resolver-impasse-sobre-wizard-e-quer-mirar-em-pazuello-como-investigado.shtml
-2021-06-19 02:55:34,177          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/precisamos-falar-sobre-o-cfm.shtml
-2021-06-19 02:55:34,183          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/soninha-francine-liberou-r-75-mil-de-secretaria-de-marta-suplicy-para-motociata-de-bolsonaro.shtml
-2021-06-19 02:55:34,188          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/com-dois-diretores-a-menos-cvm-aplicou-r-65-milhoes-em-multas-em-2021-valor-considerado-baixo.shtml
-2021-06-19 02:55:34,193          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/organizadores-preveem-manifestacoes-contra-bolsonaro-em-mais-de-500-cidades-em-19-de-junho.shtml
-2021-06-19 02:55:34,197          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/06/a-quem-interessa-ser-contra-as-vacinas.shtml
-2021-06-19 02:55:34,203          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/impunidade-disfarcada.shtml
-2021-06-19 02:55:34,208          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/motociata-de-bolsonaro-nao-teve-moto-de-trabalhador-e-motoboys-nao-tem-o-que-comemorar-diz-lider-da-categoria.shtml
-2021-06-19 02:55:34,213          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/boulos-vai-se-encontrar-com-rodrigo-pacheco-para-discutir-projeto-que-suspende-despejos-na-pandemia.shtml
-2021-06-19 02:55:34,219          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/capita-cloroquina-e-criticada-por-seguidores-apos-mostrar-que-tomou-vacina-contra-a-covid-19.shtml
-2021-06-19 02:55:34,219          root     INFO: Finished script
+2021-06-19 03:02:31,594          root     INFO: Starting script
+2021-06-19 03:02:32,485          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-19 03:02:33,156          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-19 03:02:33,836          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-19 03:02:34,076          root     INFO: Parsing R7 - Brasil
+2021-06-19 03:02:43,335          root     INFO: Finished script
