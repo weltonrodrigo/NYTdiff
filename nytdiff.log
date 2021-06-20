@@ -1,27 +1,13 @@
-2021-06-20 13:10:25,706          root     INFO: Starting script
-2021-06-20 13:10:26,588          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-20 13:10:27,243          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-20 13:10:27,911          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-20 13:10:28,149          root     INFO: Parsing R7 - Brasil
-2021-06-20 13:10:31,284          root     INFO: O governo de Jair Bolsonaro <del>defendeu</del> <ins>defende</ins> que civis sejam julgados e punidos pela Justiça Militar por supostas ofensas a instituições militares e às Forças Armadas. <del>A defesa foi feita em um parecer assinado pelo advogado-geral da União substituto, Fabrício da Soller, e protocolado no STF (Supremo Tribunal Federal) na quinta-feira (17).</del> Leia mais (06/19/2021 - 23h45)
-2021-06-20 13:10:33,116          root     INFO: Media ready with ids: 1406600355832545285
-2021-06-20 13:10:33,116          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-20 13:10:33,116          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-bolsonaro-defende-que-civis-sejam-julgados-pela-justica-militar-em-caso-de-ofensa-as-forcas-armadas.shtml
-2021-06-20 13:10:33,130          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-bolsonaro-defende-que-civis-sejam-julgados-pela-justica-militar-em-caso-de-ofensa-as-forcas-armadas.shtml
-2021-06-20 13:10:33,329          root     INFO: Replying to: 1406600357489295367
-2021-06-20 13:10:33,677          root     INFO: Id to store: 1406600358277771275
-2021-06-20 13:10:33,972          root     INFO: Superpedido de impeachment <ins>contra Bolsonaro</ins> deve listar acusações de mais de 20 crimes <del>atribuídos a Bolsonaro</del>
-2021-06-20 13:10:35,663          root     INFO: Media ready with ids: 1406600366704168960
-2021-06-20 13:10:35,664          root     INFO: Text to tweet: Modificação do Título
-2021-06-20 13:10:35,664          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/superpedido-de-impeachment-deve-listar-acusacoes-de-mais-de-20-crimes-atribuidos-a-bolsonaro.shtml
-2021-06-20 13:10:35,674          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/superpedido-de-impeachment-deve-listar-acusacoes-de-mais-de-20-crimes-atribuidos-a-bolsonaro.shtml
-2021-06-20 13:10:35,835          root     INFO: Replying to: 1406600367996116996
-2021-06-20 13:10:36,096          root     INFO: Id to store: 1406600368788758529
-2021-06-20 13:10:36,154          root     INFO: Diante da queda de popularidade e do avanço da CPI da Covid <ins>do Senado</ins> sobre <ins>seus</ins> aliados, Jair Bolsonaro multiplicou os palcos para discursos radicais e os acenos a grupos específicos, com o objetivo de mobilizar a base que o ajudou a chegar à Presidência da República em 2018. Leia mais (06/19/2021 - 23h15)
-2021-06-20 13:10:37,910          root     INFO: Media ready with ids: 1406600375973646341
-2021-06-20 13:10:37,911          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-20 13:10:37,911          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-multiplica-palcos-para-radicalismo-e-busca-recuperar-popularidade-para-2022.shtml
-2021-06-20 13:10:37,921          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-multiplica-palcos-para-radicalismo-e-busca-recuperar-popularidade-para-2022.shtml
-2021-06-20 13:10:38,102          root     INFO: Replying to: 1406600377521389572
-2021-06-20 13:10:38,340          root     INFO: Id to store: 1406600378293145601
-2021-06-20 13:10:44,156          root     INFO: Finished script
+2021-06-20 13:36:18,897          root     INFO: Starting script
+2021-06-20 13:36:19,770          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-20 13:36:20,442          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-20 13:36:21,104          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-20 13:36:21,287          root     INFO: Parsing R7 - Brasil
+2021-06-20 13:36:24,288          root     INFO: <del>Proposta</del> <ins>Investigação</ins> de <ins>vítima sem controle externo é brecha em proposta de novo</ins> Código de Processo Penal <del>abre espaço para suspeitos investigarem vítimas sem controle externo</del>
+2021-06-20 13:36:26,105          root     INFO: Media ready with ids: 1406606869116948482
+2021-06-20 13:36:26,105          root     INFO: Text to tweet: Modificação do Título
+2021-06-20 13:36:26,105          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/proposta-de-codigo-de-processo-penal-abre-espaco-para-suspeitos-investigarem-vitimas-sem-controle-externo.shtml
+2021-06-20 13:36:26,114          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/proposta-de-codigo-de-processo-penal-abre-espaco-para-suspeitos-investigarem-vitimas-sem-controle-externo.shtml
+2021-06-20 13:36:26,275          root     INFO: Replying to: 1406606870991757315
+2021-06-20 13:36:26,524          root     INFO: Id to store: 1406606871763505160
+2021-06-20 13:36:31,799          root     INFO: Finished script
