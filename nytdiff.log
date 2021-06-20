@@ -1,13 +1,10 @@
-2021-06-20 13:36:18,897          root     INFO: Starting script
-2021-06-20 13:36:19,770          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-20 13:36:20,442          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-20 13:36:21,104          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-20 13:36:21,287          root     INFO: Parsing R7 - Brasil
-2021-06-20 13:36:24,288          root     INFO: <del>Proposta</del> <ins>Investigação</ins> de <ins>vítima sem controle externo é brecha em proposta de novo</ins> Código de Processo Penal <del>abre espaço para suspeitos investigarem vítimas sem controle externo</del>
-2021-06-20 13:36:26,105          root     INFO: Media ready with ids: 1406606869116948482
-2021-06-20 13:36:26,105          root     INFO: Text to tweet: Modificação do Título
-2021-06-20 13:36:26,105          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/proposta-de-codigo-de-processo-penal-abre-espaco-para-suspeitos-investigarem-vitimas-sem-controle-externo.shtml
-2021-06-20 13:36:26,114          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/proposta-de-codigo-de-processo-penal-abre-espaco-para-suspeitos-investigarem-vitimas-sem-controle-externo.shtml
-2021-06-20 13:36:26,275          root     INFO: Replying to: 1406606870991757315
-2021-06-20 13:36:26,524          root     INFO: Id to store: 1406606871763505160
-2021-06-20 13:36:31,799          root     INFO: Finished script
+2021-06-20 13:50:12,604          root     INFO: Starting script
+2021-06-20 13:50:13,594          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-20 13:50:14,412          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-20 13:50:15,206          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-20 13:50:15,442          root     INFO: Parsing R7 - Brasil
+2021-06-20 13:50:15,604          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/bukele-e-seu-proximo-assalto-constitucional.shtml
+2021-06-20 13:50:15,623          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/enquanto-brasil-conta-meio-milhao-de-mortos-china-vacina-um-bilhao.shtml
+2021-06-20 13:50:25,070          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/06/por-que-os-republicanos-nao-querem-reconstruir-os-eua.shtml
+2021-06-20 13:50:25,075          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/uma-cena-racista-no-leblon.shtml
+2021-06-20 13:50:25,076          root     INFO: Finished script
