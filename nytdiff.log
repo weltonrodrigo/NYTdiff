@@ -1,6 +1,36 @@
-2021-06-21 19:57:49,296          root     INFO: Starting script
-2021-06-21 19:57:50,314          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-21 19:57:51,111          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-21 19:57:51,894          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-21 19:57:52,128          root     INFO: Parsing R7 - Brasil
-2021-06-21 19:58:01,011          root     INFO: Finished script
+2021-06-21 20:23:26,932          root     INFO: Starting script
+2021-06-21 20:23:27,754          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-21 20:23:28,417          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-21 20:23:29,091          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-21 20:23:29,220          root     INFO: Parsing R7 - Brasil
+2021-06-21 20:23:29,379          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/06/serial-killer-de-brasilia-ja-matou-meio-milhao-de-brasileiros-e-segue-impune.shtml
+2021-06-21 20:23:32,248          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/filha-de-olavo-de-carvalho-se-filia-ao-pt.shtml
+2021-06-21 20:23:32,262          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/propagandeada-por-bolsonaro-ivermectina-teve-aumento-de-1230-nas-vendas-em-2020-diz-famarceutica-a-cpi.shtml
+2021-06-21 20:23:35,145          root     INFO: Com só 60 mil habitantes, o município goiano de Cristalina é um dos berços de um sistema que leva água e eletricidade aos lares de cerca de 60 <del>de</del> milhões de brasileiros. Leia mais (06/21/2021 - 10h49)
+2021-06-21 20:23:36,810          root     INFO: Media ready with ids: 1407071727281127429
+2021-06-21 20:23:36,811          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-21 20:23:36,811          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/desmatamento-avanca-no-cerrado-e-faz-crescer-risco-de-apagao-eletrico-no-brasil.shtml
+2021-06-21 20:23:36,820          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/desmatamento-avanca-no-cerrado-e-faz-crescer-risco-de-apagao-eletrico-no-brasil.shtml
+2021-06-21 20:23:36,994          root     INFO: Replying to: 1407071728694607873
+2021-06-21 20:23:37,262          root     INFO: Id to store: 1407071729390862348
+2021-06-21 20:23:40,109          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-diz-que-marca-de-500-mil-mortos-e-retrato-da-desigualdade-21062021
+2021-06-21 20:23:40,124          root     INFO: New article tracked: http://noticias.r7.com/brasil/dois-dias-depois-bolsonaro-afirma-lamentar-500-mil-mortes-por-covid-21062021
+2021-06-21 20:23:40,137          root     INFO: New article tracked: http://noticias.r7.com/brasil/relator-da-mp-da-eletrobras-defende-mp-de-racionamento-21062021
+2021-06-21 20:23:40,150          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-libera-quase-r-60-milhoes-para-hospitais-universitarios-21062021
+2021-06-21 20:23:40,162          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiz-absolve-lula-e-gilberto-carvalho-na-acao-da-zelotes-21062021
+2021-06-21 20:23:40,175          root     INFO: New article tracked: http://noticias.r7.com/brasil/agencia-de-comunicacao-do-governo-recorre-de-quebra-de-sigilo-21062021
+2021-06-21 20:23:40,189          root     INFO: New article tracked: http://noticias.r7.com/brasil/depoimento-de-carlos-wizard-na-cpi-e-remarcado-para-dia-30-21062021
+2021-06-21 20:23:40,202          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-deve-receber-projeto-que-altera-ir-nesta-semana-21062021
+2021-06-21 20:23:40,215          root     INFO: New article tracked: http://noticias.r7.com/brasil/intencao-de-consumo-sobe-mas-e-a-pior-para-junho-na-serie-historica-21062021
+2021-06-21 20:23:40,229          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-diz-que-15-milhao-de-doses-da-johnson-chegam-amanha-21062021
+2021-06-21 20:23:40,242          root     INFO: New article tracked: http://noticias.r7.com/brasil/mercado-financeiro-ve-alta-de-5-na-atividade-economica-para-2021-21062021
+2021-06-21 20:23:40,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-indicara-apenas-em-julho-novo-ministro-do-stf-21062021
+2021-06-21 20:23:40,271          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-autoriza-retorno-de-militares-a-amazonia-diz-mourao-21062021
+2021-06-21 20:23:40,286          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-era-do-cancelamento-a-inquisicao-do-seculo-21-21062021
+2021-06-21 20:23:40,298          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-defende-voto-impresso-e-critica-investigacao-da-facada-21062021
+2021-06-21 20:23:40,311          root     INFO: New article tracked: http://noticias.r7.com/brasil/em-operacao-antidrogas-ministerio-da-justica-faz-bloqueios-em-estados-21062021
+2021-06-21 20:23:40,323          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-afirma-que-todos-os-adultos-terao-1-dose-ate-setembro-21062021
+2021-06-21 20:23:40,427          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/homem-que-ameacou-lula-com-arma-diz-que-usou-liberdade-de-expressao-e-compara-petista-a-arbitro-de-futebol.shtml
+2021-06-21 20:23:40,435          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/para-ter-uma-privatizacao-no-curriculo-guedes-apoia-zorra-na-venda-da-eletrobras.shtml
+2021-06-21 20:23:40,440          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/centrais-sindicais-farao-esquenta-nesta-sexta-feira-para-manifestacoes-nacionais-contra-bolsonaro.shtml
+2021-06-21 20:23:40,441          root     INFO: Finished script
