@@ -1,17 +1,12 @@
-2021-06-21 23:24:03,639          root     INFO: Starting script
-2021-06-21 23:24:04,465          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-21 23:24:05,146          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-21 23:24:05,811          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-21 23:24:06,021          root     INFO: Parsing R7 - Brasil
-2021-06-21 23:24:08,967          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2021/06/para-voce-leitor-a-democracia-brasileira-corre-risco-por-que.shtml
-2021-06-21 23:24:08,983          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-que-apontou-pressao-atipica-por-vacina-relatou-pagamentos-indevidos-por-remedios-na-saude.shtml
-2021-06-21 23:24:09,056          root     INFO: A ministra Rosa Weber, do STF (Supremo Tribunal Federal), decidiu nesta segunda-feira (21) que a CPI da Covid <ins>no Senado</ins> não tem poderes para convocar governadores a prestar depoimento. Leia mais (06/21/2021 - 19h11)
-2021-06-21 23:24:10,803          root     INFO: Media ready with ids: 1407117168324534278
-2021-06-21 23:24:10,804          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-21 23:24:10,804          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rosa-weber-do-stf-decide-que-governadores-nao-podem-ser-convocados-pela-cpi-da-covid.shtml
-2021-06-21 23:24:10,814          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rosa-weber-do-stf-decide-que-governadores-nao-podem-ser-convocados-pela-cpi-da-covid.shtml
-2021-06-21 23:24:10,998          root     INFO: Replying to: 1407117169851252736
-2021-06-21 23:24:11,272          root     INFO: Id to store: 1407117170614624259
-2021-06-21 23:24:17,217          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/poupar-bolsonaro-do-impeachment-cria-riscos-para-instituicoes-diz-pesquisador.shtml
-2021-06-21 23:24:17,223          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/castro-amplia-aliancas-no-rj-de-olho-em-2022-e-inclui-no-governo-psdb-e-deputado-citado-em-caso-witzel.shtml
-2021-06-21 23:24:17,225          root     INFO: Finished script
+2021-06-21 23:36:19,412          root     INFO: Starting script
+2021-06-21 23:36:20,219          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-21 23:36:20,885          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-21 23:36:21,546          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-21 23:36:21,670          root     INFO: Parsing R7 - Brasil
+2021-06-21 23:36:24,656          root     INFO: <del>Visivelmente irritado,</del> <ins>Num momento em que o país supera 500 mil mortes pela Covid e que é alvo de protestos a favor do impeachment,</ins> o presidente Jair Bolsonaro <del>mandou uma repórter de uma afiliada da TV Globo e integrantes da sua própria equipe calarem</del> <ins>reagiu com agressividade</ins> a <del>boca, tirou</del> <ins>perguntas feitas</ins> a <del>máscara e reclamou da CNN Brasil em entrevista após a formatura de sargentos da Aeronáutica</del> <ins>ele</ins> nesta segunda-feira (21) em <del>Guaratinguetá (SP).</del> <ins>Guaratinguetá, no interior de São Paulo.</ins> Leia mais (06/21/2021 - 14h55)
+2021-06-21 23:36:26,393          root     INFO: Media ready with ids: 1407120253541400587
+2021-06-21 23:36:26,393          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-21 23:36:26,393          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/furioso-bolsonaro-tira-mascara-manda-reporter-e-equipe-calarem-a-boca-reclama-da-cnn-e-ataca-a-globo.shtml
+2021-06-21 23:36:26,402          root     INFO: Replying to: 1407093801387282440
+2021-06-21 23:36:26,652          root     INFO: Id to store: 1407120255126753286
+2021-06-21 23:36:32,083          root     INFO: Finished script
