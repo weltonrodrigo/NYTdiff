@@ -1,13 +1,14 @@
-2021-06-22 15:28:50,569          root     INFO: Starting script
-2021-06-22 15:28:51,555          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-22 15:28:52,349          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-22 15:28:53,161          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-22 15:28:53,416          root     INFO: Parsing R7 - Brasil
-2021-06-22 15:28:56,665          root     INFO: A maioria da advocacia brasileira <del>se disse</del> <ins>tem posição</ins> contrária à criação de cotas raciais e de gênero para ocupação de cargos de liderança em <del>escritórios. O apoio a cotas raciais foi maior, com 40% dos profissionais favoráveis à medida e 58% contrários à implementação da regra nas bancas jurídicas,</del> <ins>escritórios,</ins> segundo pesquisa inédita do Datafolha sobre o perfil e as opiniões da classe. Leia mais (06/22/2021 - 08h00)
-2021-06-22 15:28:58,524          root     INFO: Media ready with ids: 1407359967028469763
-2021-06-22 15:28:58,524          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-22 15:28:58,524          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/maioria-da-advocacia-e-contra-cota-racial-e-de-genero-no-comando-de-escritorios-diz-datafolha.shtml
-2021-06-22 15:28:58,536          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/maioria-da-advocacia-e-contra-cota-racial-e-de-genero-no-comando-de-escritorios-diz-datafolha.shtml
-2021-06-22 15:28:58,824          root     INFO: Replying to: 1407359968928579590
-2021-06-22 15:28:59,107          root     INFO: Id to store: 1407359969893273601
-2021-06-22 15:29:05,714          root     INFO: Finished script
+2021-06-22 15:59:06,550          root     INFO: Starting script
+2021-06-22 15:59:07,509          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-22 15:59:08,279          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-22 15:59:09,047          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-22 15:59:09,278          root     INFO: Parsing R7 - Brasil
+2021-06-22 15:59:12,304          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/esquerda-marca-para-24-de-julho-novos-atos-contra-bolsonaro.shtml
+2021-06-22 15:59:12,317          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/conselho-de-etica-aprova-censura-a-deputado-que-quebrou-peca-sobre-consciencia-negra.shtml
+2021-06-22 15:59:12,328          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/oposicao-marca-novos-atos-contra-bolsonaro-para-24-de-julho-e-eleva-pressao-sobre-lira.shtml
+2021-06-22 15:59:12,339          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/campanha-nacional-contra-bolsonaro-marca-nova-manifestacao-para-24-de-julho.shtml
+2021-06-22 15:59:18,952          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/fhc-faz-90-anos-e-assiste-a-video-com-exaltacao-a-perfil-democratico-e-homenagens-de-doria-temer-e-huck.shtml
+2021-06-22 15:59:18,957          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-microfone-dado-por-bolsonaro-no-para-apoiador-pede-defesa-de-garimpeiros-e-madeireiros.shtml
+2021-06-22 15:59:18,962          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/marco-aurelio-adia-saida-do-stf-e-diz-que-sucessor-nao-pode-ter-paixoes.shtml
+2021-06-22 15:59:18,967          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/o-brasileiro-precisa-saber-votar-diz-general-chefe-de-tribunal-militar-sobre-lula-em-2022.shtml
+2021-06-22 15:59:18,968          root     INFO: Finished script
