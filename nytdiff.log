@@ -1,18 +1,12 @@
-2021-06-22 05:24:47,684          root     INFO: Starting script
-2021-06-22 05:24:49,042          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-22 05:24:49,870          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-22 05:24:50,680          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-22 05:24:51,057          root     INFO: Parsing R7 - Brasil
-2021-06-22 05:25:00,282          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-envia-ao-congresso-texto-de-acordo-entre-brasil-e-israel-21062021
-2021-06-22 05:25:00,299          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-discute-reajustes-dos-precos-dos-planos-de-saude-21062021
-2021-06-22 05:25:00,311          root     INFO: New article tracked: http://noticias.r7.com/brasil/rosa-weber-suspende-convocacao-de-governadores-na-cpi-da-covid-21062021
-2021-06-22 05:25:00,324          root     INFO: New article tracked: http://noticias.r7.com/brasil/prefeitura-de-sao-paulo-abre-mais-de-800-vagas-de-emprego-21062021
-2021-06-22 05:25:00,337          root     INFO: New article tracked: http://noticias.r7.com/brasil/aras-defende-rejeicao-de-acao-de-bolsonaro-contra-governadores-21062021
-2021-06-22 05:25:00,351          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-texto-base-da-mp-da-eletrobras-21062021
-2021-06-22 05:25:00,792          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-diz-que-15-milhao-de-doses-da-johnson-chegam-amanha-21062021
-2021-06-22 05:25:00,797          root     INFO: Removed http://noticias.r7.com/brasil/mercado-financeiro-ve-alta-de-5-na-atividade-economica-para-2021-21062021
-2021-06-22 05:25:00,801          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-autoriza-retorno-de-militares-a-amazonia-diz-mourao-21062021
-2021-06-22 05:25:00,806          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-indicara-apenas-em-julho-novo-ministro-do-stf-21062021
-2021-06-22 05:25:00,812          root     INFO: Removed http://noticias.r7.com/brasil/analise-era-do-cancelamento-a-inquisicao-do-seculo-21-21062021
-2021-06-22 05:25:00,816          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-defende-voto-impresso-e-critica-investigacao-da-facada-21062021
-2021-06-22 05:25:00,817          root     INFO: Finished script
+2021-06-22 05:36:00,758          root     INFO: Starting script
+2021-06-22 05:36:01,801          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-22 05:36:02,461          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-22 05:36:03,129          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-22 05:36:03,284          root     INFO: Parsing R7 - Brasil
+2021-06-22 05:36:11,229          root     INFO: Removed http://noticias.r7.com/brasil/senado-discute-reajustes-dos-precos-dos-planos-de-saude-21062021
+2021-06-22 05:36:11,235          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-texto-base-da-mp-da-eletrobras-21062021
+2021-06-22 05:36:11,241          root     INFO: Removed http://noticias.r7.com/brasil/prefeitura-de-sao-paulo-abre-mais-de-800-vagas-de-emprego-21062021
+2021-06-22 05:36:11,246          root     INFO: Removed http://noticias.r7.com/brasil/rosa-weber-suspende-convocacao-de-governadores-na-cpi-da-covid-21062021
+2021-06-22 05:36:11,250          root     INFO: Removed http://noticias.r7.com/brasil/aras-defende-rejeicao-de-acao-de-bolsonaro-contra-governadores-21062021
+2021-06-22 05:36:11,255          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-envia-ao-congresso-texto-de-acordo-entre-brasil-e-israel-21062021
+2021-06-22 05:36:11,256          root     INFO: Finished script
