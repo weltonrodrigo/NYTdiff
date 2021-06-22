@@ -1,6 +1,20 @@
-2021-06-22 20:57:41,161          root     INFO: Starting script
-2021-06-22 20:57:42,022          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-22 20:57:42,665          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-22 20:57:43,311          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-22 20:57:43,526          root     INFO: Parsing R7 - Brasil
-2021-06-22 20:57:51,440          root     INFO: Finished script
+2021-06-22 21:22:32,174          root     INFO: Starting script
+2021-06-22 21:22:32,995          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-22 21:22:33,655          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-22 21:22:34,317          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-22 21:22:34,521          root     INFO: Parsing R7 - Brasil
+2021-06-22 21:22:34,667          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/yascha-mounk/2021/06/o-perigo-das-redes-sociais-ou-de-tentar-reforma-las.shtml
+2021-06-22 21:22:34,743          root     INFO: EUA derrubam <del>'três dezenas'</del> <ins>'dezenas'</ins> de sites <del>de mídia</del> do Irã ao Reino <del>Unido</del> <ins>Unido, por 'desinformação'</ins>
+2021-06-22 21:22:36,483          root     INFO: Media ready with ids: 1407448961728847877
+2021-06-22 21:22:36,484          root     INFO: Text to tweet: Modificação do Título
+2021-06-22 21:22:36,484          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/eua-derrubam-tres-dezenas-de-sites-de-midia-do-ira-ao-reino-unido.shtml
+2021-06-22 21:22:36,495          root     INFO: Replying to: 1407440144957837314
+2021-06-22 21:22:36,761          root     INFO: Id to store: 1407448963200978948
+2021-06-22 21:22:36,770          root     INFO: Da Fox News, <del>a</del> primeira a confirmar nos EUA: "Autoridades de segurança apreenderam <del>aproximadamente</del> três dezenas de sites baseados no Irã, citando preocupações <del>sobre</del> <ins>com</ins> a disseminação de desinformação, disse uma autoridade de segurança nacional à Fox News". Leia mais (06/22/2021 - 16h58)
+2021-06-22 21:22:38,520          root     INFO: Media ready with ids: 1407448970125791239
+2021-06-22 21:22:38,521          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-22 21:22:38,522          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/eua-derrubam-tres-dezenas-de-sites-de-midia-do-ira-ao-reino-unido.shtml
+2021-06-22 21:22:38,535          root     INFO: Replying to: 1407448963200978948
+2021-06-22 21:22:38,744          root     INFO: Id to store: 1407448971564486659
+2021-06-22 21:22:47,699          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2021/06/ter-microfone-poderoso-e-dar-voz-ao-meu-filho-autista-diz-marcos-mion.shtml
+2021-06-22 21:22:47,700          root     INFO: Finished script
