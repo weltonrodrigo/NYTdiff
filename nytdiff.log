@@ -1,15 +1,13 @@
-2021-06-22 20:36:09,526          root     INFO: Starting script
-2021-06-22 20:36:10,635          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-22 20:36:11,273          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-22 20:36:11,913          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-22 20:36:12,100          root     INFO: Parsing R7 - Brasil
-2021-06-22 20:36:12,278          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/eua-derrubam-tres-dezenas-de-sites-de-midia-do-ira-ao-reino-unido.shtml
-2021-06-22 20:36:15,279          root     INFO: Em julho de 2020, a Abin (Agência Brasileira de Inteligência) produziu um relatório de 15 páginas apontando problemas e inconsistências na fortuna do empresário dono da Havan, Luciano Hang, apoiador com influência no governo do presidente Jair <del>Bolsonaro (sem partido).</del> <ins>Bolsonaro.</ins> O texto oficial serviu para alertar o Palácio do Planalto sobre os riscos que a proximidade de Hang poderia causar à atual gestão. Leia mais (06/22/2021 - 14h44)
-2021-06-22 20:36:17,080          root     INFO: Media ready with ids: 1407437303795130374
-2021-06-22 20:36:17,080          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-22 20:36:17,080          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/abin-produziu-relatorio-questionando-lisura-da-fortuna-do-dono-da-havan.shtml
-2021-06-22 20:36:17,089          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/abin-produziu-relatorio-questionando-lisura-da-fortuna-do-dono-da-havan.shtml
-2021-06-22 20:36:17,302          root     INFO: Replying to: 1407437305531482112
-2021-06-22 20:36:17,606          root     INFO: Id to store: 1407437306362007554
-2021-06-22 20:36:23,940          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/a-biblia-e-o-odio.shtml
-2021-06-22 20:36:23,941          root     INFO: Finished script
+2021-06-22 20:47:29,171          root     INFO: Starting script
+2021-06-22 20:47:30,125          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-22 20:47:30,897          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-22 20:47:31,670          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-22 20:47:31,946          root     INFO: Parsing R7 - Brasil
+2021-06-22 20:47:32,150          root     INFO: Da Fox News, <del>a</del> primeira a confirmar nos EUA: "Autoridades de segurança apreenderam <del>aproximadamente</del> três dezenas de sites baseados no Irã, citando preocupações <del>sobre</del> <ins>com</ins> a disseminação de desinformação, disse uma autoridade de segurança nacional à Fox News". Leia mais (06/22/2021 - 16h58)
+2021-06-22 20:47:33,884          root     INFO: Media ready with ids: 1407440142583877639
+2021-06-22 20:47:33,884          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-22 20:47:33,884          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/eua-derrubam-tres-dezenas-de-sites-de-midia-do-ira-ao-reino-unido.shtml
+2021-06-22 20:47:33,894          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/eua-derrubam-tres-dezenas-de-sites-de-midia-do-ira-ao-reino-unido.shtml
+2021-06-22 20:47:34,093          root     INFO: Replying to: 1407440144198688772
+2021-06-22 20:47:34,444          root     INFO: Id to store: 1407440144957837314
+2021-06-22 20:47:42,690          root     INFO: Finished script
