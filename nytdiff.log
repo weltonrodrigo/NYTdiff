@@ -1,21 +1,20 @@
-2021-06-22 10:27:15,744          root     INFO: Starting script
-2021-06-22 10:27:16,877          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-22 10:27:17,547          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-22 10:27:18,225          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-22 10:27:18,443          root     INFO: Parsing R7 - Brasil
-2021-06-22 10:27:18,620          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pedro-hallal/2021/06/uma-inveja-saudavel.shtml
-2021-06-22 10:27:21,920          root     INFO: CPI da Covid mira auxiliar de Pazuello citado <del>em depoimento</del> por suposta 'pressão atípica' em contrato de vacina
-2021-06-22 10:27:23,582          root     INFO: Media ready with ids: 1407284071479365634
-2021-06-22 10:27:23,583          root     INFO: Text to tweet: Modificação do Título
-2021-06-22 10:27:23,583          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-mira-auxiliar-de-pazuello-citado-em-depoimento-por-suposta-pressao-atipica-em-contrato-de-vacina.shtml
-2021-06-22 10:27:23,593          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-mira-auxiliar-de-pazuello-citado-em-depoimento-por-suposta-pressao-atipica-em-contrato-de-vacina.shtml
-2021-06-22 10:27:23,765          root     INFO: Replying to: 1407284072787976196
-2021-06-22 10:27:23,997          root     INFO: Id to store: 1407284073526140928
-2021-06-22 10:27:24,004          root     INFO: Integrantes da cúpula da CPI da Covid pretendem convocar o tenente-coronel Alex Lial Marinho, apontado em um depoimento como um dos autores de pressão sobre um servidor do Ministério da Saúde para agilizar a liberação da <ins>vacina</ins> Covaxin durante a gestão do ex-ministro Eduardo <del>Pazuello (Saúde).</del> <ins>Pazuello.</ins> Leia mais (06/21/2021 - 23h15)
-2021-06-22 10:27:25,747          root     INFO: Media ready with ids: 1407284080396406787
-2021-06-22 10:27:25,747          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-22 10:27:25,747          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-mira-auxiliar-de-pazuello-citado-em-depoimento-por-suposta-pressao-atipica-em-contrato-de-vacina.shtml
-2021-06-22 10:27:25,762          root     INFO: Replying to: 1407284073526140928
-2021-06-22 10:27:25,968          root     INFO: Id to store: 1407284081834987530
-2021-06-22 10:27:32,377          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/eua-exportam-inflacao-diz-wsj-e-dor-e-maior-em-emergente-endividado.shtml
-2021-06-22 10:27:32,378          root     INFO: Finished script
+2021-06-22 10:51:57,808          root     INFO: Starting script
+2021-06-22 10:51:58,785          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-22 10:51:59,576          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-22 10:52:00,393          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-22 10:52:00,667          root     INFO: Parsing R7 - Brasil
+2021-06-22 10:52:04,049          root     INFO: O mesmo servidor do Ministério da Saúde que apontou pressão atípica para importação da vacina indiana Covaxin disse em depoimento em 2018 que a pasta fez pagamentos antecipados e indevidos por medicamentos para doenças raras. <del>As duas empresas beneficiadas, responsáveis pelo imunizante e pelas drogas, têm um mesmo sócio.</del> Leia mais (06/21/2021 - 19h55)
+2021-06-22 10:52:05,885          root     INFO: Media ready with ids: 1407290288490663937
+2021-06-22 10:52:05,885          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-22 10:52:05,885          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-que-apontou-pressao-atipica-por-vacina-relatou-pagamentos-indevidos-por-remedios-na-saude.shtml
+2021-06-22 10:52:05,895          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-que-apontou-pressao-atipica-por-vacina-relatou-pagamentos-indevidos-por-remedios-na-saude.shtml
+2021-06-22 10:52:06,157          root     INFO: Replying to: 1407290290361278470
+2021-06-22 10:52:06,447          root     INFO: Id to store: 1407290291304947716
+2021-06-22 10:52:06,494          root     INFO: <del>O corregedor-geral</del> <ins>Corregedor-geral</ins> da Justiça Eleitoral, <ins>o</ins> ministro Luís Felipe <del>Salomão,</del> <ins>Salomão</ins> deu 15 dias para que o presidente Jair Bolsonaro apresente as provas que diz ter sobre uma suposta fraude no sistema eletrônico de votação nas eleições de 2018. Leia mais (06/21/2021 - 19h27)
+2021-06-22 10:52:11,376          root     INFO: Media ready with ids: 1407290311576014851
+2021-06-22 10:52:11,376          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-22 10:52:11,376          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/tse-da-15-dias-para-bolsonaro-apresentar-provas-de-fraudes-que-ele-nunca-mostrou-sobre-eleicoes-de-2018.shtml
+2021-06-22 10:52:11,386          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/tse-da-15-dias-para-bolsonaro-apresentar-provas-de-fraudes-que-ele-nunca-mostrou-sobre-eleicoes-de-2018.shtml
+2021-06-22 10:52:11,608          root     INFO: Replying to: 1407290313220165638
+2021-06-22 10:52:11,900          root     INFO: Id to store: 1407290314205843458
+2021-06-22 10:52:17,544          root     INFO: Finished script
