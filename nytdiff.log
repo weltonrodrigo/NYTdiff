@@ -1,8 +1,20 @@
-2021-06-22 17:57:05,708          root     INFO: Starting script
-2021-06-22 17:57:06,547          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-22 17:57:07,216          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-22 17:57:07,904          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-22 17:57:08,048          root     INFO: Parsing R7 - Brasil
-2021-06-22 17:57:11,047          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/abin-produziu-relatorio-questionando-lisura-da-fortuna-do-dono-da-havan.shtml
-2021-06-22 17:57:17,214          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-aponta-pressao-atipica-por-contrato-de-vacina-na-gestao-pazuello-e-cpi-investiga-favorecimento.shtml
-2021-06-22 17:57:17,214          root     INFO: Finished script
+2021-06-22 18:13:17,229          root     INFO: Starting script
+2021-06-22 18:13:18,027          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-22 18:13:18,671          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-22 18:13:19,322          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-22 18:13:19,500          root     INFO: Parsing R7 - Brasil
+2021-06-22 18:13:22,501          root     INFO: Polícia dispersa ato <del>de indígenas</del> <ins>indígena</ins> com bombas de gás, e Câmara suspende discussão de demarcação de terras
+2021-06-22 18:13:24,226          root     INFO: Media ready with ids: 1407401346911850497
+2021-06-22 18:13:24,226          root     INFO: Text to tweet: Modificação do Título
+2021-06-22 18:13:24,226          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/policia-dispersa-ato-de-indigenas-com-bombas-de-gas-e-camara-suspende-discussao-de-demarcacao-de-terras.shtml
+2021-06-22 18:13:24,238          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/policia-dispersa-ato-de-indigenas-com-bombas-de-gas-e-camara-suspende-discussao-de-demarcacao-de-terras.shtml
+2021-06-22 18:13:24,422          root     INFO: Replying to: 1407401348300259336
+2021-06-22 18:13:24,725          root     INFO: Id to store: 1407401349072015369
+2021-06-22 18:13:24,918          root     INFO: O MPF (Ministério Público Federal) desmembrou e transferiu a investigação sobre a compra da vacina indiana Covaxin ao identificar indícios de crime no contrato entre o Ministério da Saúde do governo <del>do presidente</del> Jair Bolsonaro e a Precisa Medicamentos. Leia mais (06/22/2021 - 11h23)
+2021-06-22 18:13:26,654          root     INFO: Media ready with ids: 1407401356835573760
+2021-06-22 18:13:26,655          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-22 18:13:26,655          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/procuradoria-ve-indicios-de-crime-e-risco-temerario-em-compra-da-covaxin-pela-gestao-bolsonaro.shtml
+2021-06-22 18:13:26,665          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/procuradoria-ve-indicios-de-crime-e-risco-temerario-em-compra-da-covaxin-pela-gestao-bolsonaro.shtml
+2021-06-22 18:13:26,846          root     INFO: Replying to: 1407401358467252237
+2021-06-22 18:13:27,058          root     INFO: Id to store: 1407401359134035972
+2021-06-22 18:13:32,975          root     INFO: Finished script
