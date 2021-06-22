@@ -1,15 +1,8 @@
-2021-06-22 13:37:12,230          root     INFO: Starting script
-2021-06-22 13:37:13,053          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-22 13:37:13,719          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-22 13:37:14,382          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-22 13:37:14,638          root     INFO: Parsing R7 - Brasil
-2021-06-22 13:37:22,822          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-vai-reenviar-militares-para-conter-desmatamento-na-amazonia-21062021
-2021-06-22 13:37:22,918          root     INFO: Ministro <del>promete intensificar testagem e concluir ainda neste ano imunização</del> <ins>acredita que população receberá as duas doses até o fim</ins> do <del>país</del> <ins>ano; ele também anunciou estímulo às testagens contra a covid</ins>
-2021-06-22 13:37:24,881          root     INFO: Media ready with ids: 1407331890894409737
-2021-06-22 13:37:24,882          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-22 13:37:24,882          root     INFO: Article id: http://noticias.r7.com/brasil/queiroga-afirma-que-todos-os-adultos-terao-1-dose-ate-setembro-21062021
-2021-06-22 13:37:24,892          root     INFO: Tweeting url: http://noticias.r7.com/brasil/queiroga-afirma-que-todos-os-adultos-terao-1-dose-ate-setembro-21062021
-2021-06-22 13:37:25,097          root     INFO: Replying to: 1407331893394223118
-2021-06-22 13:37:25,342          root     INFO: Id to store: 1407331894224642048
-2021-06-22 13:37:25,693          root     INFO: New article tracked: http://noticias.r7.com/brasil/maioria-de-obitos-por-covid-19-ja-e-no-grupo-com-menos-de-60-anos-21062021
-2021-06-22 13:37:25,780          root     INFO: Finished script
+2021-06-22 13:50:43,475          root     INFO: Starting script
+2021-06-22 13:50:44,443          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-22 13:50:45,242          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-22 13:50:46,082          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-22 13:50:46,255          root     INFO: Parsing R7 - Brasil
+2021-06-22 13:50:55,993          root     INFO: Removed http://noticias.r7.com/brasil/maioria-de-obitos-por-covid-19-ja-e-no-grupo-com-menos-de-60-anos-21062021
+2021-06-22 13:50:56,000          root     INFO: Removed http://noticias.r7.com/brasil/governo-vai-reenviar-militares-para-conter-desmatamento-na-amazonia-21062021
+2021-06-22 13:50:56,001          root     INFO: Finished script
