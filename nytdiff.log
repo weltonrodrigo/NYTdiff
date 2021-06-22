@@ -1,31 +1,8 @@
-2021-06-22 17:44:50,959          root     INFO: Starting script
-2021-06-22 17:44:51,784          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-22 17:44:52,461          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-22 17:44:53,129          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-22 17:44:53,431          root     INFO: Parsing R7 - Brasil
-2021-06-22 17:44:56,232          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/policia-dispersa-ato-de-indigenas-com-bombas-de-gas-e-camara-suspende-discussao-de-demarcacao-de-terras.shtml
-2021-06-22 17:44:56,278          root     INFO: O deputado federal Osmar Terra (MDB-RS) admitiu em depoimento à CPI da Covid <del>do</del> <ins>no</ins> Senado que errou nas projeções sobre mortes e duração da pandemia do coronavírus e apresentou uma visão sobre a tese de imunidade de rebanho que contraria <del>as</del> suas falas anteriores -sendo por isso confrontado pelos senadores. Leia mais (06/22/2021 - 13h52)
-2021-06-22 17:44:58,065          root     INFO: Media ready with ids: 1407394190552612870
-2021-06-22 17:44:58,066          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-22 17:44:58,066          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/aliado-de-bolsonaro-osmar-terra-admite-a-cpi-erro-em-projecao-da-pandemia-e-e-confrontado-sobre-imunidade-de-rebanho.shtml
-2021-06-22 17:44:58,076          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/aliado-de-bolsonaro-osmar-terra-admite-a-cpi-erro-em-projecao-da-pandemia-e-e-confrontado-sobre-imunidade-de-rebanho.shtml
-2021-06-22 17:44:58,246          root     INFO: Replying to: 1407394192058429441
-2021-06-22 17:44:58,513          root     INFO: Id to store: 1407394192888844294
-2021-06-22 17:45:03,676          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/video-mostra-indigena-ferido-em-confronto-com-pm-em-brasilia-22062021
-2021-06-22 17:45:03,689          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/indigena-fica-ferido-em-confronto-com-pm-em-brasilia-22062021
-2021-06-22 17:45:03,701          root     INFO: New article tracked: http://noticias.r7.com/brasil/abin-nega-ter-feito-relatorio-sobre-fortuna-de-luciano-hang-22062021
-2021-06-22 17:45:03,712          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/pm-e-indigenas-entram-em-confronto-em-protesto-22062021
-2021-06-22 17:45:03,724          root     INFO: New article tracked: http://noticias.r7.com/brasil/pm-e-indigenas-entram-em-confronto-durante-ato-em-brasilia-22062021
-2021-06-22 17:45:03,737          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-da-cpi-faz-apelo-para-bolsonaro-se-vacinar-contra-covid-22062021
-2021-06-22 17:45:03,749          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-brasil-recebera-ao-menos-69-milhoes-de-doses-ate-domingo-27-22062021
-2021-06-22 17:45:03,762          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-osmar-terra-diz-que-bolsonaro-fala-as-coisas-da-cabeca-dele-22062021
-2021-06-22 17:45:03,776          root     INFO: New article tracked: http://noticias.r7.com/brasil/mp-isenta-coaf-por-enviar-dados-de-advogado-de-flavio-bolsonaro-22062021
-2021-06-22 17:45:03,789          root     INFO: New article tracked: http://noticias.r7.com/brasil/menos-operacoes-e-mais-estrategia-buscas-por-lazaro-chegam-a-14-dia-22062021
-2021-06-22 17:45:03,801          root     INFO: New article tracked: http://noticias.r7.com/brasil/eu-nao-sou-negacionista-defendo-as-vacinas-diz-osmar-terra-22062021
-2021-06-22 17:45:03,812          root     INFO: New article tracked: http://noticias.r7.com/brasil/eletrobras-para-ministerio-reducao-na-conta-de-luz-sera-expressiva-22062021
-2021-06-22 17:45:03,824          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-agradece-a-johnson-por-corte-de-25-no-custo-das-vacinas-22062021
-2021-06-22 17:45:03,836          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-ouve-ex-ministro-da-cidadania-osmar-terra-assista-ao-vivo-22062021
-2021-06-22 17:45:03,846          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-1-lote-de-vacinas-da-johnson-aplicadas-em-dose-unica-22062021
-2021-06-22 17:45:03,858          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-hoje-15-milhao-de-doses-da-vacina-da-johnson-22062021
-2021-06-22 17:45:03,984          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/motociata-promovida-por-bolsonaro-em-sao-paulo-nao-gerou-renda-de-r-40-mi.shtml
-2021-06-22 17:45:03,985          root     INFO: Finished script
+2021-06-22 17:57:05,708          root     INFO: Starting script
+2021-06-22 17:57:06,547          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-22 17:57:07,216          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-22 17:57:07,904          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-22 17:57:08,048          root     INFO: Parsing R7 - Brasil
+2021-06-22 17:57:11,047          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/abin-produziu-relatorio-questionando-lisura-da-fortuna-do-dono-da-havan.shtml
+2021-06-22 17:57:17,214          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-aponta-pressao-atipica-por-contrato-de-vacina-na-gestao-pazuello-e-cpi-investiga-favorecimento.shtml
+2021-06-22 17:57:17,214          root     INFO: Finished script
