@@ -1,6 +1,22 @@
-2021-06-22 02:58:28,971          root     INFO: Starting script
-2021-06-22 02:58:29,847          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-22 02:58:30,498          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-22 02:58:31,152          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-22 02:58:31,319          root     INFO: Parsing R7 - Brasil
-2021-06-22 02:58:39,233          root     INFO: Finished script
+2021-06-22 03:27:06,617          root     INFO: Starting script
+2021-06-22 03:27:07,623          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-22 03:27:08,451          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-22 03:27:09,259          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-22 03:27:09,465          root     INFO: Parsing R7 - Brasil
+2021-06-22 03:27:09,641          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/06/sobre-amar-um-homem-inculto.shtml
+2021-06-22 03:27:10,439          root     INFO: O dia havia começado bem. O sol brilhava, os pássaros cantavam. Até que, do alto de minha incauta e tolinha sinceridade, escrevi nas redes sociais: "A vida é bem mais difícil quando se odeia figurinhas de WhatsApp". <del>ENTER.</del> <ins>Enter.</ins> Leia mais (06/20/2021 - 17h00)
+2021-06-22 03:27:12,724          root     INFO: Media ready with ids: 1407178329250316289
+2021-06-22 03:27:12,724          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-22 03:27:12,725          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bia-braune/2021/06/a-vida-e-bem-mais-dificil-quando-se-odeia-figurinhas-de-whatsapp.shtml
+2021-06-22 03:27:12,736          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bia-braune/2021/06/a-vida-e-bem-mais-dificil-quando-se-odeia-figurinhas-de-whatsapp.shtml
+2021-06-22 03:27:13,028          root     INFO: Replying to: 1407178331271933952
+2021-06-22 03:27:13,295          root     INFO: Id to store: 1407178332211453954
+2021-06-22 03:27:20,360          root     INFO: New article tracked: http://noticias.r7.com/brasil/tres-fugas-e-mais-de-dez-crimes-a-trajetoria-de-lazaro-desde-2007-21062021
+2021-06-22 03:27:20,373          root     INFO: New article tracked: http://noticias.r7.com/brasil/lei-seca-completa-13-anos-e-multas-nas-rodovias-federais-caem-64-21062021
+2021-06-22 03:27:20,386          root     INFO: New article tracked: http://noticias.r7.com/brasil/congresso-fara-tres-dias-de-luto-sem-interrupcao-dos-trabalhos-21062021
+2021-06-22 03:27:20,400          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-propoe-nova-lei-para-rastrear-fornecedor-indireto-de-gado-21062021
+2021-06-22 03:27:20,414          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-tira-a-mascara-e-manda-jornalista-calar-a-boca-em-sp-21062021
+2021-06-22 03:27:20,811          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2021/06/handmaids-tale-chega-ao-final-com-realpolitik-e-rompimento-da-alegoria.shtml
+2021-06-22 03:27:20,816          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-afirma-que-todos-os-adultos-terao-1-dose-ate-setembro-21062021
+2021-06-22 03:27:20,821          root     INFO: Removed http://noticias.r7.com/brasil/em-operacao-antidrogas-ministerio-da-justica-faz-bloqueios-em-estados-21062021
+2021-06-22 03:27:20,822          root     INFO: Finished script
