@@ -1,8 +1,21 @@
-2021-06-23 11:57:58,584          root     INFO: Starting script
-2021-06-23 11:57:59,531          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 11:58:00,303          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 11:58:01,081          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 11:58:01,273          root     INFO: Parsing R7 - Brasil
-2021-06-23 11:58:01,444          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/apple-daily-de-hong-kong-anuncia-que-vai-suspender-publicacao.shtml
-2021-06-23 11:58:09,382          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2021/06/singapura-um-exemplo-de-planejamento-para-o-mundo.shtml
-2021-06-23 11:58:09,383          root     INFO: Finished script
+2021-06-23 12:29:51,817          root     INFO: Starting script
+2021-06-23 12:29:52,932          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 12:29:53,704          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 12:29:54,491          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 12:29:54,784          root     INFO: Parsing R7 - Brasil
+2021-06-23 12:29:54,988          root     INFO: Apple Daily, de Hong Kong, <del>anuncia que vai suspender publicação</del> <ins>prepara a sua última edição</ins>
+2021-06-23 12:29:56,611          root     INFO: Media ready with ids: 1407677300188057601
+2021-06-23 12:29:56,612          root     INFO: Text to tweet: Modificação do Título
+2021-06-23 12:29:56,612          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/apple-daily-de-hong-kong-anuncia-que-vai-suspender-publicacao.shtml
+2021-06-23 12:29:56,622          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/apple-daily-de-hong-kong-anuncia-que-vai-suspender-publicacao.shtml
+2021-06-23 12:29:56,815          root     INFO: Replying to: 1407677301584695301
+2021-06-23 12:29:57,045          root     INFO: Id to store: 1407677302301986820
+2021-06-23 12:29:57,052          root     INFO: O tabloide Pingguo Ribao ou Apple <del>Daily, como é conhecido em inglês,</del> <ins>Daily</ins> prepara uma última edição para rodar em cinco horas, à meia-noite de Hong Kong, informa <del>em manchete</del> o South China Morning Post <del>(abaixo).</del> <ins>em manchete abaixo).</ins> É chamada também <del>no</del> <ins>por</ins> New York Times e <del>noutros</del> <ins>outros</ins> jornais ocidentais. Leia mais (06/23/2021 - 08h00)
+2021-06-23 12:29:58,753          root     INFO: Media ready with ids: 1407677308966686720
+2021-06-23 12:29:58,754          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-23 12:29:58,754          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/apple-daily-de-hong-kong-anuncia-que-vai-suspender-publicacao.shtml
+2021-06-23 12:29:58,764          root     INFO: Replying to: 1407677302301986820
+2021-06-23 12:29:58,984          root     INFO: Id to store: 1407677310480834563
+2021-06-23 12:30:01,774          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/em-emails-governo-admite-prazo-estourado-e-quebra-de-clausulas-pela-covaxin-na-mira-de-cpi-e-procuradoria.shtml
+2021-06-23 12:30:07,700          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/protestos-contra-bolsonaro-se-consolidam-no-xadrez-eleitoral-de-2022.shtml
+2021-06-23 12:30:07,701          root     INFO: Finished script
