@@ -1,18 +1,20 @@
-2021-06-23 13:23:34,021          root     INFO: Starting script
-2021-06-23 13:23:34,857          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 13:23:35,539          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 13:23:36,224          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 13:23:36,518          root     INFO: Parsing R7 - Brasil
-2021-06-23 13:23:36,727          root     INFO: Apple Daily, de Hong Kong, <del>anuncia que vai suspender publicação</del> <ins>prepara a sua última edição</ins>
-2021-06-23 13:23:38,377          root     INFO: Media ready with ids: 1407690813186969603
-2021-06-23 13:23:38,377          root     INFO: Text to tweet: Modificação do Título
-2021-06-23 13:23:38,377          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/apple-daily-de-hong-kong-anuncia-que-vai-suspender-publicacao.shtml
-2021-06-23 13:23:38,388          root     INFO: Replying to: 1407677310480834563
-2021-06-23 13:23:38,601          root     INFO: Id to store: 1407690814554349572
-2021-06-23 13:23:38,609          root     INFO: O tabloide Pingguo Ribao ou Apple <del>Daily, como é conhecido em inglês,</del> <ins>Daily</ins> prepara uma última edição para rodar <del>em cinco horas,</del> à meia-noite de Hong <del>Kong, informa</del> <ins>Kong (13h</ins> em <del>manchete</del> <ins>Brasília), como acompanha ao vivo</ins> o South China Morning <del>Post</del> <ins>Post, em manchete</ins> (abaixo). É chamada também <del>no</del> <ins>por</ins> New York Times e <del>noutros</del> <ins>outros</ins> jornais ocidentais. Leia mais (06/23/2021 - 08h00)
-2021-06-23 13:23:43,438          root     INFO: Media ready with ids: 1407690834221449219
-2021-06-23 13:23:43,439          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-23 13:23:43,439          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/apple-daily-de-hong-kong-anuncia-que-vai-suspender-publicacao.shtml
-2021-06-23 13:23:43,448          root     INFO: Replying to: 1407690814554349572
-2021-06-23 13:23:43,674          root     INFO: Id to store: 1407690835794223104
-2021-06-23 13:23:53,140          root     INFO: Finished script
+2021-06-23 13:32:51,549          root     INFO: Starting script
+2021-06-23 13:32:52,572          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 13:32:53,351          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 13:32:54,141          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 13:32:54,323          root     INFO: Parsing R7 - Brasil
+2021-06-23 13:32:54,551          root     INFO: Apple Daily, de Hong Kong, <del>anuncia que vai suspender publicação</del> <ins>prepara a sua última edição</ins>
+2021-06-23 13:32:56,287          root     INFO: Media ready with ids: 1407693153256316935
+2021-06-23 13:32:56,288          root     INFO: Text to tweet: Modificação do Título
+2021-06-23 13:32:56,288          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/apple-daily-de-hong-kong-anuncia-que-vai-suspender-publicacao.shtml
+2021-06-23 13:32:56,299          root     INFO: Replying to: 1407690835794223104
+2021-06-23 13:32:56,575          root     INFO: Id to store: 1407693154841772034
+2021-06-23 13:32:56,582          root     INFO: O tabloide Pingguo Ribao ou Apple <del>Daily, como é conhecido em inglês,</del> <ins>Daily</ins> prepara uma última edição para rodar <del>em cinco horas,</del> à meia-noite de Hong <del>Kong, informa</del> <ins>Kong (13h</ins> em <del>manchete</del> <ins>Brasília), como acompanha ao vivo</ins> o South China Morning <del>Post</del> <ins>Post, em manchete</ins> (abaixo). É chamada também <del>no</del> <ins>por</ins> New York Times e <del>noutros jornais ocidentais.</del> <ins>outros.</ins> Leia mais (06/23/2021 - 08h00)
+2021-06-23 13:32:58,372          root     INFO: Media ready with ids: 1407693161774845954
+2021-06-23 13:32:58,372          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-23 13:32:58,372          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/apple-daily-de-hong-kong-anuncia-que-vai-suspender-publicacao.shtml
+2021-06-23 13:32:58,383          root     INFO: Replying to: 1407693154841772034
+2021-06-23 13:32:58,656          root     INFO: Id to store: 1407693163540668416
+2021-06-23 13:33:01,301          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-aprova-depoimentos-para-avancar-em-suspeita-sobre-compra-da-covaxin-pelo-governo-bolsonaro.shtml
+2021-06-23 13:33:06,913          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/presenca-da-esquerda-da-brecha-para-bolsonaristas-carimbarem-atos-como-pro-lula.shtml
+2021-06-23 13:33:06,914          root     INFO: Finished script
