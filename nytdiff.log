@@ -1,23 +1,6 @@
-2021-06-23 10:27:17,256          root     INFO: Starting script
-2021-06-23 10:27:18,066          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 10:27:18,723          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 10:27:19,385          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 10:27:19,654          root     INFO: Parsing R7 - Brasil
-2021-06-23 10:27:19,804          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/06/encontros-e-desencontros-em-tempos-de-pandemia.shtml
-2021-06-23 10:27:22,733          root     INFO: Para Mourão, <del>maior</del> <ins>grande</ins> erro do governo <ins>Bolsonaro na pandemia</ins> foi falta de orientação à população <del>sobre a Covid-19</del>
-2021-06-23 10:27:24,450          root     INFO: Media ready with ids: 1407646462918418434
-2021-06-23 10:27:24,451          root     INFO: Text to tweet: Modificação do Título
-2021-06-23 10:27:24,451          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/para-mourao-maior-erro-do-governo-foi-falta-de-orientacao-a-populacao-sobre-a-covid-19.shtml
-2021-06-23 10:27:24,463          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/para-mourao-maior-erro-do-governo-foi-falta-de-orientacao-a-populacao-sobre-a-covid-19.shtml
-2021-06-23 10:27:24,717          root     INFO: Replying to: 1407646464646451205
-2021-06-23 10:27:24,953          root     INFO: Id to store: 1407646465447677955
-2021-06-23 10:27:24,963          root     INFO: O <del>vice-presidente</del> <ins>vice-presidente, general</ins> Hamilton Mourão <del>(PRTB)</del> <ins>(PRTB),</ins> afirmou nesta terça-feira <del>(22),</del> <ins>(22)</ins> em entrevista <del>ao jornalista Roberto D'Ávila (GloboNews),</del> <ins>à GloboNews</ins> que o governo <ins>Bolsonaro</ins> errou ao não realizar uma campanha de comunicação firme para orientar a população desde o início da pandemia da Covid-19. Leia mais (06/23/2021 - 02h03)
-2021-06-23 10:27:26,725          root     INFO: Media ready with ids: 1407646472347295745
-2021-06-23 10:27:26,726          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-23 10:27:26,726          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/para-mourao-maior-erro-do-governo-foi-falta-de-orientacao-a-populacao-sobre-a-covid-19.shtml
-2021-06-23 10:27:26,736          root     INFO: Replying to: 1407646465447677955
-2021-06-23 10:27:26,968          root     INFO: Id to store: 1407646473907576834
-2021-06-23 10:27:29,792          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/06/encontros-e-desencontros-em-tempos-de-pandemia.shtml
-2021-06-23 10:27:33,129          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/blindado-por-bolsonaristas-na-camara-salles-foge-de-perguntas-sobre-madeira-apreendida-e-ataca-pt.shtml
-2021-06-23 10:27:33,135          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/06/japao-e-comite-olimpico-precisam-abrir-mao-de-tradicao-para-realizar-jogos.shtml
-2021-06-23 10:27:33,135          root     INFO: Finished script
+2021-06-23 10:52:18,858          root     INFO: Starting script
+2021-06-23 10:52:19,873          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 10:52:20,664          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 10:52:21,444          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 10:52:21,638          root     INFO: Parsing R7 - Brasil
+2021-06-23 10:52:29,428          root     INFO: Finished script
