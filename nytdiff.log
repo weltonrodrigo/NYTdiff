@@ -1,20 +1,6 @@
-2021-06-23 21:34:35,707          root     INFO: Starting script
-2021-06-23 21:34:36,581          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 21:34:37,230          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 21:34:37,897          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 21:34:38,092          root     INFO: Parsing R7 - Brasil
-2021-06-23 21:34:41,612          root     INFO: Bolsonaro foi alertado e recebeu documentos sobre suspeitas na compra da Covaxin, diz <del>deputado</del> <ins>deputado; veja mensagens</ins>
-2021-06-23 21:34:43,374          root     INFO: Media ready with ids: 1407814398400471045
-2021-06-23 21:34:43,374          root     INFO: Text to tweet: Modificação do Título
-2021-06-23 21:34:43,375          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-foi-alertado-e-recebeu-documentos-sobre-suspeitas-na-compra-da-covaxin-diz-deputado.shtml
-2021-06-23 21:34:43,385          root     INFO: Replying to: 1407721794556071938
-2021-06-23 21:34:43,649          root     INFO: Id to store: 1407814399906156545
-2021-06-23 21:34:43,659          root     INFO: O deputado <ins>federal</ins> Luis Miranda (DEM-DF) afirma <del>que alertou</del> <ins>ter alertado</ins> o presidente Jair Bolsonaro <ins>(sem partido)</ins> sobre indícios de irregularidade na negociação do Ministério da Saúde para a compra da vacina indiana Covaxin. Leia mais (06/23/2021 - 09h55)
-2021-06-23 21:34:45,337          root     INFO: Media ready with ids: 1407814406457733123
-2021-06-23 21:34:45,338          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-23 21:34:45,338          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-foi-alertado-e-recebeu-documentos-sobre-suspeitas-na-compra-da-covaxin-diz-deputado.shtml
-2021-06-23 21:34:45,349          root     INFO: Replying to: 1407814399906156545
-2021-06-23 21:34:45,633          root     INFO: Id to store: 1407814408043126788
-2021-06-23 21:34:47,951          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/bolsonaro-repete-padrao-e-entrega-ultimo-anel-ideologico-com-saida-de-salles.shtml
-2021-06-23 21:34:51,300          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/compra-de-fazendas-em-ms-tenta-criar-corredor-ecologico-no-pantanal.shtml
-2021-06-23 21:34:51,301          root     INFO: Finished script
+2021-06-23 21:47:14,550          root     INFO: Starting script
+2021-06-23 21:47:15,361          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 21:47:16,024          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 21:47:16,678          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 21:47:16,793          root     INFO: Parsing R7 - Brasil
+2021-06-23 21:47:26,074          root     INFO: Finished script
