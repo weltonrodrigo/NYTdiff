@@ -1,13 +1,19 @@
-2021-06-23 13:46:42,816          root     INFO: Starting script
-2021-06-23 13:46:43,630          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 13:46:44,288          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 13:46:44,947          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 13:46:45,108          root     INFO: Parsing R7 - Brasil
-2021-06-23 13:46:48,005          root     INFO: <del>Criticado por defensores da Lava Jato e elogiado por políticos e integrantes de cortes superiores,</del> Augusto Aras assinou desde o início de sua gestão na Procuradoria-Geral da República, em setembro de 2019, 34 acordos de colaboração premiada. Leia mais (06/22/2021 - 23h15)
-2021-06-23 13:46:49,738          root     INFO: Media ready with ids: 1407696648835375111
-2021-06-23 13:46:49,739          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-23 13:46:49,739          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/aras-assinou-34-acordos-de-delacao-premiada-em-sua-gestao-13-deles-em-2021.shtml
-2021-06-23 13:46:49,748          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/aras-assinou-34-acordos-de-delacao-premiada-em-sua-gestao-13-deles-em-2021.shtml
-2021-06-23 13:46:49,914          root     INFO: Replying to: 1407696650332741640
-2021-06-23 13:46:50,130          root     INFO: Id to store: 1407696651003826182
-2021-06-23 13:46:55,395          root     INFO: Finished script
+2021-06-23 13:57:52,313          root     INFO: Starting script
+2021-06-23 13:57:53,130          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 13:57:53,774          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 13:57:54,427          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 13:57:54,768          root     INFO: Parsing R7 - Brasil
+2021-06-23 13:57:57,618          root     INFO: CPI da Covid aprova depoimentos para avançar em suspeita sobre compra da Covaxin <del>pelo governo</del> <ins>pela gestão</ins> Bolsonaro
+2021-06-23 13:57:59,332          root     INFO: Media ready with ids: 1407699457391611904
+2021-06-23 13:57:59,332          root     INFO: Text to tweet: Modificação do Título
+2021-06-23 13:57:59,332          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-aprova-depoimentos-para-avancar-em-suspeita-sobre-compra-da-covaxin-pelo-governo-bolsonaro.shtml
+2021-06-23 13:57:59,342          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-aprova-depoimentos-para-avancar-em-suspeita-sobre-compra-da-covaxin-pelo-governo-bolsonaro.shtml
+2021-06-23 13:57:59,574          root     INFO: Replying to: 1407699458981175300
+2021-06-23 13:57:59,806          root     INFO: Id to store: 1407699459866234884
+2021-06-23 13:57:59,814          root     INFO: Os senadores da CPI da Covid aprovaram nesta quarta-feira (23) requerimento de convite para que o servidor <del>do Ministério da Saúde</del> Luís Ricardo Miranda <ins>(Ministério da Saúde)</ins> preste depoimento à <del>comissão,</del> <ins>comissão</ins> para explicar a pressão que <del>sofreu</del> <ins>diz ter sofrido</ins> para liberar a importação da vacina Covaxin. Leia mais (06/23/2021 - 10h23)
+2021-06-23 13:58:01,510          root     INFO: Media ready with ids: 1407699466363211776
+2021-06-23 13:58:01,510          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-23 13:58:01,511          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-aprova-depoimentos-para-avancar-em-suspeita-sobre-compra-da-covaxin-pelo-governo-bolsonaro.shtml
+2021-06-23 13:58:01,521          root     INFO: Replying to: 1407699459866234884
+2021-06-23 13:58:01,721          root     INFO: Id to store: 1407699467915116544
+2021-06-23 13:58:07,497          root     INFO: Finished script
