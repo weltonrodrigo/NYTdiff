@@ -1,9 +1,8 @@
-2021-06-23 07:57:43,036          root     INFO: Starting script
-2021-06-23 07:57:43,848          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 07:57:44,507          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 07:57:45,167          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 07:57:45,429          root     INFO: Parsing R7 - Brasil
-2021-06-23 07:57:54,831          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-recebe-insumos-para-producao-de-58-milhoes-de-doses-23062021
-2021-06-23 07:57:54,838          root     INFO: Removed http://noticias.r7.com/brasil/relatorios-apontam-retrato-dos-refugiados-no-brasil-em-2020-23062021
-2021-06-23 07:57:54,843          root     INFO: Removed http://noticias.r7.com/brasil/socio-da-precisa-nao-ira-a-cpi-que-votara-requerimentos-nesta-quarta-23062021
-2021-06-23 07:57:54,844          root     INFO: Finished script
+2021-06-23 08:24:39,359          root     INFO: Starting script
+2021-06-23 08:24:40,479          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 08:24:41,147          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 08:24:41,816          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 08:24:42,043          root     INFO: Parsing R7 - Brasil
+2021-06-23 08:24:44,777          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2021/06/o-contrato-de-vacinas-do-governo-bolsonaro-que-levantou-suspeitas-dentro-do-ministerio-publico-ouca-podcast.shtml
+2021-06-23 08:24:50,411          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/sem-mencionar-500-mil-mortos-ou-protestos-bolsonaro-homenageia-policiais-em-video.shtml
+2021-06-23 08:24:50,412          root     INFO: Finished script
