@@ -1,8 +1,26 @@
-2021-06-23 14:30:17,600          root     INFO: Starting script
-2021-06-23 14:30:18,396          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 14:30:19,050          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 14:30:19,696          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 14:30:19,939          root     INFO: Parsing R7 - Brasil
-2021-06-23 14:30:23,334          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-se-irrita-com-pergunta-sobre-covaxin-imita-bolsonaro-e-abandona-entrevista.shtml
-2021-06-23 14:30:30,688          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ministro-da-saude-foi-o-unico-do-governo-bolsonaro-a-lamentar-marca-de-500-mil-mortes.shtml
-2021-06-23 14:30:30,689          root     INFO: Finished script
+2021-06-23 14:46:54,397          root     INFO: Starting script
+2021-06-23 14:46:55,234          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 14:46:55,874          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 14:46:56,540          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 14:46:56,680          root     INFO: Parsing R7 - Brasil
+2021-06-23 14:46:59,450          root     INFO: Queiroga se irrita com pergunta sobre Covaxin, imita Bolsonaro e abandona <del>entrevista</del> <ins>entrevista; assista</ins>
+2021-06-23 14:47:01,157          root     INFO: Media ready with ids: 1407711796434178052
+2021-06-23 14:47:01,157          root     INFO: Text to tweet: Modificação do Título
+2021-06-23 14:47:01,157          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-se-irrita-com-pergunta-sobre-covaxin-imita-bolsonaro-e-abandona-entrevista.shtml
+2021-06-23 14:47:01,167          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-se-irrita-com-pergunta-sobre-covaxin-imita-bolsonaro-e-abandona-entrevista.shtml
+2021-06-23 14:47:01,378          root     INFO: Replying to: 1407711797889712133
+2021-06-23 14:47:01,606          root     INFO: Id to store: 1407711798678245377
+2021-06-23 14:47:01,613          root     INFO: <del>O ministro</del> <ins>Investigado pela CPI</ins> da <del>Saúde,</del> <ins>Covid do Senado, o ministro</ins> Marcelo <del>Queiroga, irritou-se</del> <ins>Queiroga (Saúde) se irritou</ins> com uma pergunta sobre a vacina indiana Covaxin e, assim como costuma fazer o presidente Jair Bolsonaro <del>(sem partido)</del> quando não gosta de um questionamento, abandonou a <del>entrevista.</del> <ins>entrevista aos jornalistas.</ins> Leia mais (06/23/2021 - 11h18)
+2021-06-23 14:47:03,321          root     INFO: Media ready with ids: 1407711805330317320
+2021-06-23 14:47:03,321          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-23 14:47:03,321          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-se-irrita-com-pergunta-sobre-covaxin-imita-bolsonaro-e-abandona-entrevista.shtml
+2021-06-23 14:47:03,330          root     INFO: Replying to: 1407711798678245377
+2021-06-23 14:47:03,564          root     INFO: Id to store: 1407711806873911297
+2021-06-23 14:47:03,610          root     INFO: Perícias técnicas divergentes, inquérito policial anulado, guerra de versões na imprensa, ameaças a membro do júri e, no fim, ninguém <del>preso ou</del> <ins>foi</ins> condenado. Leia mais (06/23/2021 - 11h09)
+2021-06-23 14:47:05,288          root     INFO: Media ready with ids: 1407711813614059527
+2021-06-23 14:47:05,288          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-23 14:47:05,289          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/mortes-de-pc-farias-e-suzana-marcolino-completam-25-anos-ainda-sem-respostas.shtml
+2021-06-23 14:47:05,298          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/mortes-de-pc-farias-e-suzana-marcolino-completam-25-anos-ainda-sem-respostas.shtml
+2021-06-23 14:47:05,478          root     INFO: Replying to: 1407711815115620360
+2021-06-23 14:47:05,717          root     INFO: Id to store: 1407711815870599171
+2021-06-23 14:47:11,298          root     INFO: Finished script
