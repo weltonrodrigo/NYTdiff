@@ -1,21 +1,6 @@
-2021-06-23 01:02:52,721          root     INFO: Starting script
-2021-06-23 01:02:53,671          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 01:02:54,433          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 01:02:55,212          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 01:02:55,468          root     INFO: Parsing R7 - Brasil
-2021-06-23 01:02:55,640          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/06/recursos-do-plano-safra-serao-de-r-251-bilhoes-com-aumento-de-63.shtml
-2021-06-23 01:02:55,656          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/putin-cobra-europa-nos-80-anos-da-guerra-de-aniquilacao.shtml
-2021-06-23 01:02:58,282          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rachado-entre-aliados-e-opositores-de-bolsonaro-psl-filia-vereador-e-abre-caminho-para-lideres-do-mbl.shtml
-2021-06-23 01:02:58,414          root     INFO: Ivete Sangalo capitulou. Depois de anos evitando se posicionar, com o mesmo empenho com que o Cascão foge do banho, a cantora baiana finalmente desceu do muro. No sábado (21), dia em que o Brasil atingiu a marca trágica de 500 mil mortos pela Covid-19, Veveta extravasou sua indignação no Instagram. "É estarrecedor pensar sobre as milhares de vidas ceifadas e dores irreparáveis em torno dessas perdas", escreveu ela. "Não é sobre partidos, é sobre humanidade". <del>Só que esta última frase caiu mal. Sem citar a colega, Anitta logo respondeu pelo Twitter: "500 mil mortos... É sobre Fora, Bolsonaro, sim! A favor da democracia, da economia, da saúde, da educação, do senso coletivo".</del> Leia mais (06/22/2021 - 18h30)
-2021-06-23 01:03:00,378          root     INFO: Media ready with ids: 1407504426202546176
-2021-06-23 01:03:00,379          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-23 01:03:00,379          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/colunistas/tonygoes/2021/06/com-ivete-sangalo-artistas-formam-frente-anti-bolsonaro-que-a-oposicao-nao-obteve.shtml
-2021-06-23 01:03:00,388          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://f5.folha.uol.com.br/colunistas/tonygoes/2021/06/com-ivete-sangalo-artistas-formam-frente-anti-bolsonaro-que-a-oposicao-nao-obteve.shtml
-2021-06-23 01:03:00,684          root     INFO: Replying to: 1407504428576485379
-2021-06-23 01:03:00,963          root     INFO: Id to store: 1407504429528621059
-2021-06-23 01:03:03,554          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/direcao-da-pf-barra-promocao-de-delegado-de-caso-salles-para-cargo-de-chefia.shtml
-2021-06-23 01:03:06,758          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/caso-lazaro-mostra-que-declaracao-de-bolsonaro-sobre-armas-e-falacia-dizem-especialistas.shtml
-2021-06-23 01:03:06,763          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/06/esbofeteados-por-bolsonaro.shtml
-2021-06-23 01:03:06,768          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/05/governo-bolsonaro-recebe-recado-de-emissarios-alemaes-sobre-desmatamento.shtml
-2021-06-23 01:03:06,773          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2021/06/o-nem-nem-da-terceira-via-e-um-erro-antes-de-tudo-etico.shtml
-2021-06-23 01:03:06,774          root     INFO: Finished script
+2021-06-23 01:57:02,801          root     INFO: Starting script
+2021-06-23 01:57:03,621          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 01:57:04,294          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 01:57:04,968          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 01:57:05,121          root     INFO: Parsing R7 - Brasil
+2021-06-23 01:57:13,954          root     INFO: Finished script
