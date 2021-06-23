@@ -1,12 +1,18 @@
-2021-06-23 23:32:15,961          root     INFO: Starting script
-2021-06-23 23:32:16,928          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 23:32:17,695          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 23:32:18,480          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 23:32:18,791          root     INFO: Parsing R7 - Brasil
-2021-06-23 23:32:18,954          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/bolsonaro-elimina-salles-para-abafar-cheiro-de-corrupcao-no-governo.shtml
-2021-06-23 23:32:21,640          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/bolsonaro-elimina-salles-para-abafar-cheiro-de-corrupcao-no-governo.shtml
-2021-06-23 23:32:21,653          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/barroso-nega-pedido-de-bolsonaro-contra-medidas-dos-estados-para-conter-a-covid-19.shtml
-2021-06-23 23:32:27,402          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2021/06/o-que-mudou-no-cenario-fiscal.shtml
-2021-06-23 23:32:27,412          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/partidos-de-oposicao-pedem-que-lira-e-pacheco-declarem-luto-de-sete-dias-pelas-500-mil-mortes-de-covid-19.shtml
-2021-06-23 23:32:27,421          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-bolsonaro-defende-que-civis-sejam-julgados-pela-justica-militar-em-caso-de-ofensa-as-forcas-armadas.shtml
-2021-06-23 23:32:27,421          root     INFO: Finished script
+2021-06-23 23:47:00,975          root     INFO: Starting script
+2021-06-23 23:47:01,790          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 23:47:02,451          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 23:47:03,109          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 23:47:03,394          root     INFO: Parsing R7 - Brasil
+2021-06-23 23:47:06,646          root     INFO: Bolsonaro <del>pede</del> <ins>escala investigado pela CPI</ins> para <ins>explicar caso Covaxin, não rebate eixo das suspeitas e manda</ins> PF investigar <del>deputado e irmão que apontaram suspeita na compra da Covaxin</del> <ins>denunciantes</ins>
+2021-06-23 23:47:08,349          root     INFO: Media ready with ids: 1407847722028310532
+2021-06-23 23:47:08,349          root     INFO: Text to tweet: Modificação do Título
+2021-06-23 23:47:08,349          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-pede-para-pf-investigar-deputado-e-irmao-que-apontaram-suspeita-na-compra-da-covaxin.shtml
+2021-06-23 23:47:08,361          root     INFO: Replying to: 1407826252216606720
+2021-06-23 23:47:08,600          root     INFO: Id to store: 1407847723450224641
+2021-06-23 23:47:08,610          root     INFO: O presidente Jair Bolsonaro <ins>(sem partido)</ins> mandou a Polícia Federal investigar o deputado Luis Miranda (DEM-DF) e o irmão dele, Luis Ricardo <ins>Fernandes</ins> Miranda, servidor do Ministério da Saúde, por declarações de ambos sobre supostas irregularidades no contrato de compra da vacina indiana Covaxin. Leia mais (06/23/2021 - 18h44)
+2021-06-23 23:47:10,372          root     INFO: Media ready with ids: 1407847730324684800
+2021-06-23 23:47:10,373          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-23 23:47:10,373          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-pede-para-pf-investigar-deputado-e-irmao-que-apontaram-suspeita-na-compra-da-covaxin.shtml
+2021-06-23 23:47:10,384          root     INFO: Replying to: 1407847723450224641
+2021-06-23 23:47:10,619          root     INFO: Id to store: 1407847731893264387
+2021-06-23 23:47:16,712          root     INFO: Finished script
