@@ -1,17 +1,6 @@
-2021-06-23 20:46:52,172          root     INFO: Starting script
-2021-06-23 20:46:52,979          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 20:46:53,642          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 20:46:54,310          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 20:46:54,513          root     INFO: Parsing R7 - Brasil
-2021-06-23 20:46:54,696          root     INFO: Devo a Claude Lelouch duas dádivas: o rosto de Anouk Aimée e a bossa nova. Ambas foram importantes na minha educação sentimental porque apareceram na altura certa: o início da adolescência, quando assisti pela primeira vez ao clássico "Um <del>homem</del> <ins>Homem</ins> e uma <del>mulher"</del> <ins>Mulher"</ins> (1966). Leia mais (06/23/2021 - 17h24)
-2021-06-23 20:46:56,397          root     INFO: Media ready with ids: 1407802373192421379
-2021-06-23 20:46:56,397          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-23 20:46:56,397          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/06/os-melhores-anos-da-nossa-vida-assalta-a-memoria-e-trai-os-amantes.shtml
-2021-06-23 20:46:56,407          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/06/os-melhores-anos-da-nossa-vida-assalta-a-memoria-e-trai-os-amantes.shtml
-2021-06-23 20:46:56,569          root     INFO: Replying to: 1407802374694047749
-2021-06-23 20:46:56,795          root     INFO: Id to store: 1407802375381868551
-2021-06-23 20:46:56,815          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/06/conheca-o-isentones-dialeto-dos-que-nao-se-posicionam-politicamente.shtml
-2021-06-23 20:46:59,508          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/eu-avisei-que-nao-ia-passar-boiada-diz-delegado-da-policia-federal-que-denunciou-salles.shtml
-2021-06-23 20:47:05,434          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/arrependidos-ex-eleitores-de-bolsonaro-engrossam-coro-do-protesto-em-sao-paulo.shtml
-2021-06-23 20:47:05,438          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/a-folha-cobre-corretamente-o-governo-bolsonaro-nao.shtml
-2021-06-23 20:47:05,439          root     INFO: Finished script
+2021-06-23 20:57:42,259          root     INFO: Starting script
+2021-06-23 20:57:43,072          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 20:57:43,731          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 20:57:44,409          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 20:57:44,671          root     INFO: Parsing R7 - Brasil
+2021-06-23 20:57:52,959          root     INFO: Finished script
