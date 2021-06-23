@@ -1,8 +1,13 @@
-2021-06-23 19:46:52,262          root     INFO: Starting script
-2021-06-23 19:46:53,075          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 19:46:53,734          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 19:46:54,396          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 19:46:54,643          root     INFO: Parsing R7 - Brasil
-2021-06-23 19:46:57,487          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/vitorias-de-lula-na-justica-reabrem-disputa-narrativa-com-moro-para-2022.shtml
-2021-06-23 19:47:03,323          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/superpedido-de-impeachment-deve-listar-acusacoes-de-mais-de-20-crimes-atribuidos-a-bolsonaro.shtml
-2021-06-23 19:47:03,324          root     INFO: Finished script
+2021-06-23 19:57:45,301          root     INFO: Starting script
+2021-06-23 19:57:46,285          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 19:57:47,085          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 19:57:47,885          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 19:57:48,323          root     INFO: Parsing R7 - Brasil
+2021-06-23 19:57:51,715          root     INFO: O presidente Jair Bolsonaro (sem partido) editou um decreto que libera militares da ativa em cargos no governo por tempo indeterminado. <del>O texto, assinado também pelo ministro da Defesa, general Walter Braga Netto, foi publicado na edição desta quarta-feira (23) do "Diário Oficial da União", alterando um decreto de 2017 sobre cargos e funções considerados de natureza militar.</del> Leia mais (06/23/2021 - 15h12)
+2021-06-23 19:57:53,483          root     INFO: Media ready with ids: 1407790029724921857
+2021-06-23 19:57:53,483          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-23 19:57:53,483          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decreto-de-bolsonaro-libera-militares-da-ativa-em-cargos-do-governo-por-tempo-indeterminado.shtml
+2021-06-23 19:57:53,494          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decreto-de-bolsonaro-libera-militares-da-ativa-em-cargos-do-governo-por-tempo-indeterminado.shtml
+2021-06-23 19:57:53,697          root     INFO: Replying to: 1407790031377403910
+2021-06-23 19:57:53,963          root     INFO: Id to store: 1407790032145063936
+2021-06-23 19:58:00,652          root     INFO: Finished script
