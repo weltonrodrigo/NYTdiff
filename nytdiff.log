@@ -1,14 +1,18 @@
-2021-06-23 18:54:42,920          root     INFO: Starting script
-2021-06-23 18:54:43,733          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 18:54:44,391          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 18:54:45,049          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 18:54:45,190          root     INFO: Parsing R7 - Brasil
-2021-06-23 18:54:45,350          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/06/invasao-do-congresso-dos-eua-deve-servir-como-alarme-ao-brasil.shtml
-2021-06-23 18:54:45,363          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/esquerda-e-direita-entre-a-esperanca-e-o-mal-menor.shtml
-2021-06-23 18:54:48,264          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-ressalvas-tce-aprova-contas-de-doria-e-cobra-transparencia-em-gastos-com-coronavac.shtml
-2021-06-23 18:54:54,548          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/06/estado-capturado.shtml
-2021-06-23 18:54:54,553          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/bolsonaro-e-um-sexagenario-com-fantasias-infantis.shtml
-2021-06-23 18:54:54,557          root     INFO: Removed http://noticias.r7.com/brasil/randolfe-cobra-documentos-sobre-mp-que-liberaria-compra-da-pfizer-23062021
-2021-06-23 18:54:54,562          root     INFO: Removed http://noticias.r7.com/brasil/governistas-da-cpi-criticam-reuniao-secreta-com-wilson-witzel-23062021
-2021-06-23 18:54:54,567          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/a-folha-cobre-corretamente-o-governo-bolsonaro-sim.shtml
-2021-06-23 18:54:54,568          root     INFO: Finished script
+2021-06-23 19:16:35,117          root     INFO: Starting script
+2021-06-23 19:16:35,965          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 19:16:36,647          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 19:16:37,322          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 19:16:37,513          root     INFO: Parsing R7 - Brasil
+2021-06-23 19:16:40,837          root     INFO: Presidente da CPI da Covid vê gravidade em caso Covaxin, cita Bolsonaro e <del>fala em acionar a Polícia Federal</del> <ins>aciona PF</ins>
+2021-06-23 19:16:42,575          root     INFO: Media ready with ids: 1407779666073694209
+2021-06-23 19:16:42,576          root     INFO: Text to tweet: Modificação do Título
+2021-06-23 19:16:42,577          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/presidente-da-cpi-da-covid-ve-gravidade-em-caso-covaxin-cita-bolsonaro-e-fala-em-acionar-a-policia-federal.shtml
+2021-06-23 19:16:42,589          root     INFO: Replying to: 1407759817125605377
+2021-06-23 19:16:42,868          root     INFO: Id to store: 1407779667667566603
+2021-06-23 19:16:42,876          root     INFO: Presidente da CPI da Covid, o senador Omar Aziz (PSD-AM) afirmou nesta quarta-feira (23) que as denúncias de pressão para a liberação da importação da vacina Covaxin e a possibilidade de que o presidente Jair Bolsonaro <del>tinha</del> <ins>tenha tido</ins> conhecimento da situação talvez seja a denúncia mais grave recebida <ins>até aqui</ins> pela comissão. Leia mais (06/23/2021 - 14h26)
+2021-06-23 19:16:44,636          root     INFO: Media ready with ids: 1407779674734870528
+2021-06-23 19:16:44,637          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-23 19:16:44,637          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/presidente-da-cpi-da-covid-ve-gravidade-em-caso-covaxin-cita-bolsonaro-e-fala-em-acionar-a-policia-federal.shtml
+2021-06-23 19:16:44,649          root     INFO: Replying to: 1407779667667566603
+2021-06-23 19:16:44,864          root     INFO: Id to store: 1407779676152606721
+2021-06-23 19:16:51,303          root     INFO: Finished script
