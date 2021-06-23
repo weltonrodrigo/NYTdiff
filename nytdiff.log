@@ -1,18 +1,21 @@
-2021-06-23 19:16:35,117          root     INFO: Starting script
-2021-06-23 19:16:35,965          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 19:16:36,647          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 19:16:37,322          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 19:16:37,513          root     INFO: Parsing R7 - Brasil
-2021-06-23 19:16:40,837          root     INFO: Presidente da CPI da Covid vê gravidade em caso Covaxin, cita Bolsonaro e <del>fala em acionar a Polícia Federal</del> <ins>aciona PF</ins>
-2021-06-23 19:16:42,575          root     INFO: Media ready with ids: 1407779666073694209
-2021-06-23 19:16:42,576          root     INFO: Text to tweet: Modificação do Título
-2021-06-23 19:16:42,577          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/presidente-da-cpi-da-covid-ve-gravidade-em-caso-covaxin-cita-bolsonaro-e-fala-em-acionar-a-policia-federal.shtml
-2021-06-23 19:16:42,589          root     INFO: Replying to: 1407759817125605377
-2021-06-23 19:16:42,868          root     INFO: Id to store: 1407779667667566603
-2021-06-23 19:16:42,876          root     INFO: Presidente da CPI da Covid, o senador Omar Aziz (PSD-AM) afirmou nesta quarta-feira (23) que as denúncias de pressão para a liberação da importação da vacina Covaxin e a possibilidade de que o presidente Jair Bolsonaro <del>tinha</del> <ins>tenha tido</ins> conhecimento da situação talvez seja a denúncia mais grave recebida <ins>até aqui</ins> pela comissão. Leia mais (06/23/2021 - 14h26)
-2021-06-23 19:16:44,636          root     INFO: Media ready with ids: 1407779674734870528
-2021-06-23 19:16:44,637          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-23 19:16:44,637          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/presidente-da-cpi-da-covid-ve-gravidade-em-caso-covaxin-cita-bolsonaro-e-fala-em-acionar-a-policia-federal.shtml
-2021-06-23 19:16:44,649          root     INFO: Replying to: 1407779667667566603
-2021-06-23 19:16:44,864          root     INFO: Id to store: 1407779676152606721
-2021-06-23 19:16:51,303          root     INFO: Finished script
+2021-06-23 19:24:08,292          root     INFO: Starting script
+2021-06-23 19:24:09,224          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 19:24:09,991          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 19:24:10,759          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 19:24:11,000          root     INFO: Parsing R7 - Brasil
+2021-06-23 19:24:13,950          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/supremo-confirma-decisao-que-declarou-moro-parcial-em-caso-de-lula.shtml
+2021-06-23 19:24:13,993          root     INFO: <del>Com ressalvas,</del> TCE aprova contas de Doria <ins>com ressalvas</ins> e cobra transparência em gastos com Coronavac
+2021-06-23 19:24:15,798          root     INFO: Media ready with ids: 1407781567095840769
+2021-06-23 19:24:15,799          root     INFO: Text to tweet: Modificação do Título
+2021-06-23 19:24:15,799          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-ressalvas-tce-aprova-contas-de-doria-e-cobra-transparencia-em-gastos-com-coronavac.shtml
+2021-06-23 19:24:15,808          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-ressalvas-tce-aprova-contas-de-doria-e-cobra-transparencia-em-gastos-com-coronavac.shtml
+2021-06-23 19:24:16,123          root     INFO: Replying to: 1407781568882556940
+2021-06-23 19:24:16,526          root     INFO: Id to store: 1407781570031886341
+2021-06-23 19:24:16,532          root     INFO: O <del>TCE-SP</del> <ins>TCE</ins> (Tribunal de Contas do <del>Estado</del> <ins>Estado)</ins> de São <del>Paulo)</del> <ins>Paulo</ins> votou nesta quarta-feira (23) pela aprovação com ressalvas das contas do governador João Doria (PSDB) referentes ao ano de <del>2020, sinalizando ao estado que faça ajustes para evitar a explosão de gastos com pessoal e do rombo na Previdência nos próximos anos.</del> <ins>2020.</ins> Leia mais (06/23/2021 - 15h27)
+2021-06-23 19:24:18,290          root     INFO: Media ready with ids: 1407781577459970051
+2021-06-23 19:24:18,290          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-23 19:24:18,290          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-ressalvas-tce-aprova-contas-de-doria-e-cobra-transparencia-em-gastos-com-coronavac.shtml
+2021-06-23 19:24:18,300          root     INFO: Replying to: 1407781570031886341
+2021-06-23 19:24:18,576          root     INFO: Id to store: 1407781579099889667
+2021-06-23 19:24:24,609          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-multiplica-palcos-para-radicalismo-e-busca-recuperar-popularidade-para-2022.shtml
+2021-06-23 19:24:24,610          root     INFO: Finished script
