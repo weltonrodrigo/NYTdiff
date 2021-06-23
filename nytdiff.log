@@ -1,6 +1,8 @@
-2021-06-23 15:59:59,337          root     INFO: Starting script
-2021-06-23 16:00:00,133          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 16:00:00,781          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 16:00:01,430          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 16:00:01,698          root     INFO: Parsing R7 - Brasil
-2021-06-23 16:00:10,776          root     INFO: Finished script
+2021-06-23 16:30:32,279          root     INFO: Starting script
+2021-06-23 16:30:33,143          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-23 16:30:33,816          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-23 16:30:34,510          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-23 16:30:34,650          root     INFO: Parsing R7 - Brasil
+2021-06-23 16:30:37,699          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2021/06/leitor-da-folha-faz-desabafo-sobre-rotina-de-acompanhar-o-noticiario.shtml
+2021-06-23 16:30:44,071          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/vale-e-bhp-transformaram-em-divida-o-que-gastaram-nas-indenizacoes-pelo-desastre-de-mariana.shtml
+2021-06-23 16:30:44,072          root     INFO: Finished script
