@@ -1,27 +1,32 @@
-2021-06-24 20:58:00,068          root     INFO: Starting script
-2021-06-24 20:58:00,925          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-24 20:58:01,597          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-24 20:58:02,284          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-24 20:58:02,416          root     INFO: Parsing R7 - Brasil
-2021-06-24 20:58:05,334          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ex-ministro-da-saude-serra-esta-contaminado-com-novo-coronavirus.shtml
-2021-06-24 20:58:05,386          root     INFO: Em meio a desconforto, vice-procurador eleitoral pede dispensa de cargo seis dias após <del>entrar com</del> <ins>mover</ins> ação contra Bolsonaro
-2021-06-24 20:58:07,068          root     INFO: Media ready with ids: 1408167574253228037
-2021-06-24 20:58:07,068          root     INFO: Text to tweet: Modificação do Título
-2021-06-24 20:58:07,068          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/em-meio-a-desconforto-vice-procurador-eleitoral-pede-dispensa-de-cargo-seis-dias-apos-entrar-com-acao-contra-bolsonaro.shtml
-2021-06-24 20:58:07,078          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/em-meio-a-desconforto-vice-procurador-eleitoral-pede-dispensa-de-cargo-seis-dias-apos-entrar-com-acao-contra-bolsonaro.shtml
-2021-06-24 20:58:07,257          root     INFO: Replying to: 1408167575612239875
-2021-06-24 20:58:07,499          root     INFO: Id to store: 1408167576316878860
-2021-06-24 20:58:07,891          root     INFO: Bolsonaro <del>ignora</del> <ins>ataca CPI da Covid e diz que 'acusação é arma que sobra' no</ins> caso Covaxin <del>e repete que não há suspeitas de corrupção em seu governo</del>
-2021-06-24 20:58:09,511          root     INFO: Media ready with ids: 1408167584562831360
-2021-06-24 20:58:09,511          root     INFO: Text to tweet: Modificação do Título
-2021-06-24 20:58:09,511          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-ignora-caso-covaxin-e-repete-que-nao-ha-suspeitas-de-corrupcao-em-seu-governo.shtml
-2021-06-24 20:58:09,521          root     INFO: Replying to: 1408141482234687490
-2021-06-24 20:58:09,751          root     INFO: Id to store: 1408167585833684993
-2021-06-24 20:58:09,760          root     INFO: Acossado pelas suspeitas <del>de corrupção envolvendo a</del> <ins>em torno da</ins> compra da vacina <del>indiana</del> Covaxin, o presidente Jair Bolsonaro (sem partido) <del>afirmou nesta quinta-feira (24) no Rio Grande do Norte</del> <ins>fustigou integrantes da CPI da Covid, repetiu</ins> que não há suspeitas de corrupção em seu <del>governo.</del> <ins>governo e afirmou que a acusação sobre o imunizante indiano é a arma que sobra aos seus opositores.</ins> Leia mais (06/24/2021 - 12h49)
-2021-06-24 20:58:11,447          root     INFO: Media ready with ids: 1408167592527814664
-2021-06-24 20:58:11,448          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-24 20:58:11,448          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-ignora-caso-covaxin-e-repete-que-nao-ha-suspeitas-de-corrupcao-em-seu-governo.shtml
-2021-06-24 20:58:11,462          root     INFO: Replying to: 1408167585833684993
-2021-06-24 20:58:11,677          root     INFO: Id to store: 1408167593953857548
-2021-06-24 20:58:17,497          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/bolsonaro-se-irritou-e-reclamou-de-ter-sido-chamado-de-genocida-diz-prefeito-de-guaratingueta.shtml
-2021-06-24 20:58:17,498          root     INFO: Finished script
+2021-06-24 21:17:48,991          root     INFO: Starting script
+2021-06-24 21:17:49,789          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-24 21:17:50,433          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-24 21:17:51,080          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-24 21:17:51,258          root     INFO: Parsing R7 - Brasil
+2021-06-24 21:17:51,447          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/06/por-que-a-agenda-do-clima-interessa-a-china.shtml
+2021-06-24 21:17:51,461          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/06/cristiano-ronaldo-e-o-maior-jogador-europeu-de-todos-os-tempos.shtml
+2021-06-24 21:17:51,472          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/06/drinque-hot-toddy-cantado-por-jay-z-e-cole-porter-e-promessa-de-calor-no-inverno.shtml
+2021-06-24 21:17:51,515          root     INFO: Com fotos, a queda do ministro do Meio Ambiente, Ricardo Salles, <del>chegou às</del> <ins>se espalhou pelas</ins> páginas iniciais de veículos europeus e americanos, com enunciados como "Bolsonaro perde outro linha-dura", no alemão Frankfurter Allgemeine Zeitung, mas com uma <del>dúvida:</del> <ins>questão:</ins> Leia mais (06/24/2021 - 17h27)
+2021-06-24 21:17:53,245          root     INFO: Media ready with ids: 1408172549364666378
+2021-06-24 21:17:53,245          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-24 21:17:53,245          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/no-exterior-queda-da-bete-noire-ricardo-salles-nao-indica-mudanca-de-bolsonaro.shtml
+2021-06-24 21:17:53,255          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/no-exterior-queda-da-bete-noire-ricardo-salles-nao-indica-mudanca-de-bolsonaro.shtml
+2021-06-24 21:17:53,472          root     INFO: Replying to: 1408172550962745344
+2021-06-24 21:17:53,715          root     INFO: Id to store: 1408172551768055808
+2021-06-24 21:17:56,508          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/frente-nacional-dos-prefeitos-diz-que-envio-de-3-milhoes-de-vacinas-atendeu-pedido-da-entidade-aos-eua.shtml
+2021-06-24 21:17:56,521          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/gilmar-estende-suspeicao-de-moro-para-todos-os-processos-em-que-ex-juiz-atuou-contra-lula.shtml
+2021-06-24 21:17:56,534          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-psdb-dividido-presidente-do-partido-na-cidade-de-sp-se-lanca-ao-senado-contra-serra.shtml
+2021-06-24 21:17:56,579          root     INFO: Ex-ministro da Saúde, Serra está contaminado com <del>novo coronavírus</del> <ins>Covid-19</ins>
+2021-06-24 21:17:58,184          root     INFO: Media ready with ids: 1408172570092965889
+2021-06-24 21:17:58,185          root     INFO: Text to tweet: Modificação do Título
+2021-06-24 21:17:58,185          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ex-ministro-da-saude-serra-esta-contaminado-com-novo-coronavirus.shtml
+2021-06-24 21:17:58,195          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ex-ministro-da-saude-serra-esta-contaminado-com-novo-coronavirus.shtml
+2021-06-24 21:17:58,353          root     INFO: Replying to: 1408172571456069637
+2021-06-24 21:17:58,617          root     INFO: Id to store: 1408172572114665477
+2021-06-24 21:18:04,760          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/advogados-lancam-manifesto-contra-omissao-da-oab-sp-sobre-violencias-raciais-e-de-genero.shtml
+2021-06-24 21:18:04,765          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/bolsonaro-e-um-sexagenario-com-fantasias-infantis.shtml
+2021-06-24 21:18:04,770          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jose-henrique-mariante-ombudsman/2021/06/dizer-nao-funciona-nao-basta.shtml
+2021-06-24 21:18:04,774          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/pressao-de-setor-financeiro-por-autonomia-do-bc-incomoda-ministros-do-stf.shtml
+2021-06-24 21:18:04,779          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2021/06/langoni-a-verdade-da-direita.shtml
+2021-06-24 21:18:04,783          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/06/vale-dar-palco-a-um-negacionista-na-cpi.shtml
+2021-06-24 21:18:04,784          root     INFO: Finished script
