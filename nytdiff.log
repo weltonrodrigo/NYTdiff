@@ -1,25 +1,20 @@
-2021-06-24 17:04:58,767          root     INFO: Starting script
-2021-06-24 17:04:59,781          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-24 17:05:00,552          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-24 17:05:01,317          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-24 17:05:01,664          root     INFO: Parsing R7 - Brasil
-2021-06-24 17:05:04,421          root     INFO: Superpedido de impeachment contra Bolsonaro será protocolado na quarta (30) <del>e terá</del> <ins>com</ins> ato em Brasília
-2021-06-24 17:05:06,496          root     INFO: Media ready with ids: 1408108934599225346
-2021-06-24 17:05:06,497          root     INFO: Text to tweet: Modificação do Título
-2021-06-24 17:05:06,497          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/superpedido-de-impeachment-contra-bolsonaro-sera-protocolado-na-quarta-30-e-tera-ato-em-brasilia.shtml
-2021-06-24 17:05:06,507          root     INFO: Replying to: 1408092447444512768
-2021-06-24 17:05:06,857          root     INFO: Id to store: 1408108937317060611
-2021-06-24 17:05:06,864          root     INFO: Partidos e movimentos sociais decidiram em reunião nesta quinta-feira (24) que apresentarão na quarta-feira (30) o chamado superpedido de impeachment contra Jair Bolsonaro, que <del>une</del> <ins>reúne</ins> mais de 100 pedidos feitos por movimentos sociais, partidos de oposição e parlamentares que se arrependeram de ter apoiado o presidente, como Joice Hasselmann (PSL-SP) e Alexandre Frota (PSDB-SP). Leia mais (06/24/2021 - 12h46)
-2021-06-24 17:05:08,673          root     INFO: Media ready with ids: 1408108944254513158
-2021-06-24 17:05:08,673          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-24 17:05:08,674          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/superpedido-de-impeachment-contra-bolsonaro-sera-protocolado-na-quarta-30-e-tera-ato-em-brasilia.shtml
-2021-06-24 17:05:08,684          root     INFO: Replying to: 1408108937317060611
-2021-06-24 17:05:08,975          root     INFO: Id to store: 1408108946133598209
-2021-06-24 17:05:11,593          root     INFO: Grandes investidores internacionais vão esperar um <del>“firme</del> <ins>"firme</ins> compromisso político do recém-nomeado ministro do Meio Ambiente com a redução do <del>desmatamento”</del> <ins>desmatamento"</ins> antes de retomar seus negócios com o Brasil, afirmou nesta quinta (24) Jan Erik Saugestad, principal executivo da gestora norueguesa Storebrand, sobre a exoneração de Ricardo Salles e sua substituição por Joaquim Pereira Leite. Leia mais (06/24/2021 - 09h35)
-2021-06-24 17:05:13,466          root     INFO: Media ready with ids: 1408108964328398856
-2021-06-24 17:05:13,466          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-24 17:05:13,466          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/06/apos-saida-de-salles-fundos-estrangeiros-esperam-prova-de-compromisso-contra-desmatamento.shtml
-2021-06-24 17:05:13,476          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mercado/2021/06/apos-saida-de-salles-fundos-estrangeiros-esperam-prova-de-compromisso-contra-desmatamento.shtml
-2021-06-24 17:05:13,703          root     INFO: Replying to: 1408108966278832129
-2021-06-24 17:05:13,993          root     INFO: Id to store: 1408108967235047426
-2021-06-24 17:05:16,960          root     INFO: Finished script
+2021-06-24 17:27:18,649          root     INFO: Starting script
+2021-06-24 17:27:19,461          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-24 17:27:20,126          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-24 17:27:20,780          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-24 17:27:20,891          root     INFO: Parsing R7 - Brasil
+2021-06-24 17:27:21,071          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/06/cuidar-de-si-nao-e-egoismo-ou-algo-exclusivo-mas-autopreservacao.shtml
+2021-06-24 17:27:23,781          root     INFO: <del>Após denúncias, governo</del> <ins>Governo</ins> Bolsonaro discute cancelar contrato da Covaxin, alvo de CPI e Procuradoria
+2021-06-24 17:27:25,388          root     INFO: Media ready with ids: 1408114551258746886
+2021-06-24 17:27:25,389          root     INFO: Text to tweet: Modificação do Título
+2021-06-24 17:27:25,389          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-denuncias-governo-bolsonaro-discute-cancelar-contrato-da-covaxin-alvo-de-cpi-e-procuradoria.shtml
+2021-06-24 17:27:25,398          root     INFO: Replying to: 1408099992368254979
+2021-06-24 17:27:25,604          root     INFO: Id to store: 1408114552504475656
+2021-06-24 17:27:25,611          root     INFO: O governo <ins>do presidente Jair Bolsonaro</ins> estuda cancelar o contrato assinado com a Precisa Medicamentos em fevereiro para obter 20 milhões de doses da vacina indiana Covaxin, produzida pela Bharat <del>Biotech,</del> <ins>Biotech. A avaliação ocorre</ins> no momento em que avançam as investigações a respeito de indícios de irregularidades <del>do</del> <ins>no</ins> acordo. Leia mais (06/24/2021 - 12h08)
+2021-06-24 17:27:27,293          root     INFO: Media ready with ids: 1408114558984667136
+2021-06-24 17:27:27,294          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-24 17:27:27,294          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-denuncias-governo-bolsonaro-discute-cancelar-contrato-da-covaxin-alvo-de-cpi-e-procuradoria.shtml
+2021-06-24 17:27:27,303          root     INFO: Replying to: 1408114552504475656
+2021-06-24 17:27:27,539          root     INFO: Id to store: 1408114560595267594
+2021-06-24 17:27:33,910          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/crise-de-2001-ocorreu-em-um-clima-de-civilizacao-que-parece-perdido.shtml
+2021-06-24 17:27:33,911          root     INFO: Finished script
