@@ -1,30 +1,20 @@
-2021-06-24 10:37:08,989          root     INFO: Starting script
-2021-06-24 10:37:10,232          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-24 10:37:11,023          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-24 10:37:11,810          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-24 10:37:12,011          root     INFO: Parsing R7 - Brasil
-2021-06-24 10:37:15,222          root     INFO: CPI <ins>da Covid</ins> avalia prevaricação e vê responsabilização de Bolsonaro mais próxima após caso Covaxin
-2021-06-24 10:37:16,916          root     INFO: Media ready with ids: 1408011335804329987
-2021-06-24 10:37:16,917          root     INFO: Text to tweet: Modificação do Título
-2021-06-24 10:37:16,917          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-avalia-prevaricacao-e-ve-responsabilizacao-de-bolsonaro-mais-proxima-apos-caso-covaxin.shtml
-2021-06-24 10:37:16,928          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-avalia-prevaricacao-e-ve-responsabilizacao-de-bolsonaro-mais-proxima-apos-caso-covaxin.shtml
-2021-06-24 10:37:17,165          root     INFO: Replying to: 1408011337423335430
-2021-06-24 10:37:17,395          root     INFO: Id to store: 1408011338190884872
-2021-06-24 10:37:17,403          root     INFO: A cúpula da CPI da Covid <ins>do Senado</ins> afirma que as novas suspeitas contra o governo envolvendo a compra da vacina indiana Covaxin abrem um novo e promissor caminho de investigação, que pode levar à responsabilização do presidente Jair Bolsonaro. Leia mais (06/23/2021 - 23h15)
-2021-06-24 10:37:19,126          root     INFO: Media ready with ids: 1408011345002471435
-2021-06-24 10:37:19,127          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-24 10:37:19,127          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-avalia-prevaricacao-e-ve-responsabilizacao-de-bolsonaro-mais-proxima-apos-caso-covaxin.shtml
-2021-06-24 10:37:19,141          root     INFO: Replying to: 1408011338190884872
-2021-06-24 10:37:19,372          root     INFO: Id to store: 1408011346470477827
-2021-06-24 10:37:19,527          root     INFO: O STF (Supremo Tribunal Federal) <del>decidirá, nos próximos dois dias,</del> <ins>decidirá até esta sexta-feira (25)</ins> se a CPI da Covid <ins>do Senado</ins> pode convocar governadores a depor. Leia mais (06/23/2021 - 23h15)
-2021-06-24 10:37:21,224          root     INFO: Media ready with ids: 1408011353768480772
-2021-06-24 10:37:21,224          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-24 10:37:21,224          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/stf-que-criou-cpi-da-covid-pode-esvazia-la-a-metade-entenda-julgamento-sobre-convocacao-de-governadores.shtml
-2021-06-24 10:37:21,236          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/stf-que-criou-cpi-da-covid-pode-esvazia-la-a-metade-entenda-julgamento-sobre-convocacao-de-governadores.shtml
-2021-06-24 10:37:21,414          root     INFO: Replying to: 1408011355261747202
-2021-06-24 10:37:21,647          root     INFO: Id to store: 1408011356004102146
-2021-06-24 10:37:27,457          root     INFO: New article tracked: http://noticias.r7.com/brasil/barroso-nega-novo-pedido-de-bolsonaro-contra-toque-de-recolher-23062021
-2021-06-24 10:37:27,476          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiz-torna-assessor-de-bolsonaro-reu-por-crime-de-racismo-23062021
-2021-06-24 10:37:27,490          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-diz-que-compra-da-covaxin-pode-ser-cancelada-23062021
-2021-06-24 10:37:27,506          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-rejeita-emendas-do-senado-e-retoma-parecer-de-mp-1034-23062021
-2021-06-24 10:37:28,013          root     INFO: Finished script
+2021-06-24 10:50:14,204          root     INFO: Starting script
+2021-06-24 10:50:15,193          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-24 10:50:16,013          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-24 10:50:16,825          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-24 10:50:17,254          root     INFO: Parsing R7 - Brasil
+2021-06-24 10:50:21,430          root     INFO: O texto da reforma <del>eleitoral,</del> <ins>eleitoral</ins> que será apresentado nesta quinta-feira (24) aos líderes da Câmara dos <del>Deputados,</del> <ins>Deputados</ins> prevê blindagem para os candidatos e partidos que espalham fake news ou conteúdo que viola as regras das plataformas em ano eleitoral. Leia mais (06/23/2021 - 23h15)
+2021-06-24 10:50:23,363          root     INFO: Media ready with ids: 1408014634196549635
+2021-06-24 10:50:23,364          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-24 10:50:23,364          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/reforma-discutida-na-camara-preve-blindar-politicos-que-espalham-fake-news-em-ano-de-eleicao.shtml
+2021-06-24 10:50:23,380          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/reforma-discutida-na-camara-preve-blindar-politicos-que-espalham-fake-news-em-ano-de-eleicao.shtml
+2021-06-24 10:50:23,577          root     INFO: Replying to: 1408014635886862345
+2021-06-24 10:50:23,808          root     INFO: Id to store: 1408014636620959755
+2021-06-24 10:50:24,184          root     INFO: Ex-youtuber, <del>pró-Bolsonaro,</del> <ins>pró-Bolsonaro e</ins> com vidraça eleitoral; saiba quem é <del>o deputado</del> Luís Miranda, <ins>deputado</ins> que citou suspeita sobre Covaxin
+2021-06-24 10:50:25,853          root     INFO: Media ready with ids: 1408014644850081796
+2021-06-24 10:50:25,853          root     INFO: Text to tweet: Modificação do Título
+2021-06-24 10:50:25,853          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-youtuber-pro-bolsonaro-com-vidraca-eleitoral-saiba-quem-e-o-deputado-luis-miranda-que-citou-suspeita-sobre-covaxin.shtml
+2021-06-24 10:50:25,865          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-youtuber-pro-bolsonaro-com-vidraca-eleitoral-saiba-quem-e-o-deputado-luis-miranda-que-citou-suspeita-sobre-covaxin.shtml
+2021-06-24 10:50:26,048          root     INFO: Replying to: 1408014646263566337
+2021-06-24 10:50:26,283          root     INFO: Id to store: 1408014646980792335
+2021-06-24 10:50:33,845          root     INFO: Finished script
