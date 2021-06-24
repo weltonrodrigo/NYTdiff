@@ -1,6 +1,16 @@
-2021-06-23 23:58:06,203          root     INFO: Starting script
-2021-06-23 23:58:06,997          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-23 23:58:07,648          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-23 23:58:08,301          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-23 23:58:08,460          root     INFO: Parsing R7 - Brasil
-2021-06-23 23:58:16,686          root     INFO: Finished script
+2021-06-24 01:01:53,219          root     INFO: Starting script
+2021-06-24 01:01:54,014          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-24 01:01:54,656          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-24 01:01:55,304          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-24 01:01:55,447          root     INFO: Parsing R7 - Brasil
+2021-06-24 01:01:58,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/salles-e-o-160-ministro-a-sair-do-governo-bolsonaro-em-dois-anos-e-meio-de-governo.shtml
+2021-06-24 01:01:58,170          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/fonte-oculta-sao-emprestimos-de-bancos-diz-luciano-hang-apos-reportagem-sobre-relatorio-da-abin.shtml
+2021-06-24 01:01:58,185          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/acionar-a-pf-e-tentativa-de-calar-testemunhas-e-indica-que-bolsonaro-nao-fez-nada-apos-alerta-sobre-covaxin-diz-deputado.shtml
+2021-06-24 01:02:00,658          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/com-apoio-de-ala-moderna-do-agro-novo-ministro-e-visto-como-nome-mais-plausivel.shtml
+2021-06-24 01:02:00,670          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/moraes-do-stf-autoriza-envio-do-celular-de-salles-aos-eua-em-busca-de-ajuda-para-desbloquear-aparelho.shtml
+2021-06-24 01:02:03,577          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2021/05/os-sinos-dobram-por-mim-por-ti-e-por-nos.shtml
+2021-06-24 01:02:03,582          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/dpu-envia-ao-inep-recomendacao-contra-tribunal-ideologico-do-enem.shtml
+2021-06-24 01:02:03,587          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/05/paises-so-vao-responder-a-apelo-de-biden-se-atender-aos-seus-interesses-diz-jornalista.shtml
+2021-06-24 01:02:03,592          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/nise-yamaguchi-processa-senadores-de-cpi-e-pede-ao-menos-r-320-mil-por-danos-morais.shtml
+2021-06-24 01:02:03,597          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/cpi-vai-pedir-ajuda-da-interpol-para-encontrar-empresario-carlos-wizard-diz-presidente-da-comissao.shtml
+2021-06-24 01:02:03,598          root     INFO: Finished script
