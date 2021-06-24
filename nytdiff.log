@@ -1,14 +1,13 @@
-2021-06-24 15:21:25,362          root     INFO: Starting script
-2021-06-24 15:21:26,187          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-24 15:21:26,853          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-24 15:21:27,528          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-24 15:21:27,816          root     INFO: Parsing R7 - Brasil
-2021-06-24 15:21:27,988          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/06/boiada-levou-salles-junto.shtml
-2021-06-24 15:21:30,852          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-denuncias-governo-bolsonaro-discute-cancelar-contrato-da-covaxin-alvo-de-cpi-e-procuradoria.shtml
-2021-06-24 15:21:30,867          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/06/boiada-levou-salles-junto.shtml
-2021-06-24 15:21:30,893          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49805
-2021-06-24 15:21:37,134          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/vale-e-bhp-transformaram-em-divida-o-que-gastaram-nas-indenizacoes-pelo-desastre-de-mariana.shtml
-2021-06-24 15:21:37,141          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/propagandeada-por-bolsonaro-ivermectina-teve-aumento-de-1230-nas-vendas-em-2020-diz-famarceutica-a-cpi.shtml
-2021-06-24 15:21:37,148          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49780
-2021-06-24 15:21:37,155          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/furioso-bolsonaro-tira-mascara-manda-reporter-e-equipe-calarem-a-boca-reclama-da-cnn-e-ataca-a-globo.shtml
-2021-06-24 15:21:37,155          root     INFO: Finished script
+2021-06-24 15:40:24,116          root     INFO: Starting script
+2021-06-24 15:40:25,099          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-24 15:40:25,759          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-24 15:40:26,414          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-24 15:40:26,583          root     INFO: Parsing R7 - Brasil
+2021-06-24 15:40:29,597          root     INFO: O governo <ins>do presidente Jair Bolsonaro</ins> estuda cancelar o contrato assinado com a Precisa Medicamentos em fevereiro para obter 20 milhões de doses da vacina indiana Covaxin, produzida pela Bharat Biotech, no momento em que avançam as investigações a respeito de indícios de irregularidades <del>do</del> <ins>no</ins> acordo. Leia mais (06/24/2021 - 12h08)
+2021-06-24 15:40:31,417          root     INFO: Media ready with ids: 1408087648980373514
+2021-06-24 15:40:31,418          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-24 15:40:31,418          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-denuncias-governo-bolsonaro-discute-cancelar-contrato-da-covaxin-alvo-de-cpi-e-procuradoria.shtml
+2021-06-24 15:40:31,428          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apos-denuncias-governo-bolsonaro-discute-cancelar-contrato-da-covaxin-alvo-de-cpi-e-procuradoria.shtml
+2021-06-24 15:40:31,595          root     INFO: Replying to: 1408087650410565633
+2021-06-24 15:40:31,835          root     INFO: Id to store: 1408087651186511881
+2021-06-24 15:40:38,058          root     INFO: Finished script
