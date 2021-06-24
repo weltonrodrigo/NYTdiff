@@ -1,32 +1,16 @@
-2021-06-24 21:17:48,991          root     INFO: Starting script
-2021-06-24 21:17:49,789          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-24 21:17:50,433          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-24 21:17:51,080          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-24 21:17:51,258          root     INFO: Parsing R7 - Brasil
-2021-06-24 21:17:51,447          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/06/por-que-a-agenda-do-clima-interessa-a-china.shtml
-2021-06-24 21:17:51,461          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/06/cristiano-ronaldo-e-o-maior-jogador-europeu-de-todos-os-tempos.shtml
-2021-06-24 21:17:51,472          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/06/drinque-hot-toddy-cantado-por-jay-z-e-cole-porter-e-promessa-de-calor-no-inverno.shtml
-2021-06-24 21:17:51,515          root     INFO: Com fotos, a queda do ministro do Meio Ambiente, Ricardo Salles, <del>chegou às</del> <ins>se espalhou pelas</ins> páginas iniciais de veículos europeus e americanos, com enunciados como "Bolsonaro perde outro linha-dura", no alemão Frankfurter Allgemeine Zeitung, mas com uma <del>dúvida:</del> <ins>questão:</ins> Leia mais (06/24/2021 - 17h27)
-2021-06-24 21:17:53,245          root     INFO: Media ready with ids: 1408172549364666378
-2021-06-24 21:17:53,245          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-24 21:17:53,245          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/no-exterior-queda-da-bete-noire-ricardo-salles-nao-indica-mudanca-de-bolsonaro.shtml
-2021-06-24 21:17:53,255          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/no-exterior-queda-da-bete-noire-ricardo-salles-nao-indica-mudanca-de-bolsonaro.shtml
-2021-06-24 21:17:53,472          root     INFO: Replying to: 1408172550962745344
-2021-06-24 21:17:53,715          root     INFO: Id to store: 1408172551768055808
-2021-06-24 21:17:56,508          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/frente-nacional-dos-prefeitos-diz-que-envio-de-3-milhoes-de-vacinas-atendeu-pedido-da-entidade-aos-eua.shtml
-2021-06-24 21:17:56,521          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/gilmar-estende-suspeicao-de-moro-para-todos-os-processos-em-que-ex-juiz-atuou-contra-lula.shtml
-2021-06-24 21:17:56,534          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-psdb-dividido-presidente-do-partido-na-cidade-de-sp-se-lanca-ao-senado-contra-serra.shtml
-2021-06-24 21:17:56,579          root     INFO: Ex-ministro da Saúde, Serra está contaminado com <del>novo coronavírus</del> <ins>Covid-19</ins>
-2021-06-24 21:17:58,184          root     INFO: Media ready with ids: 1408172570092965889
-2021-06-24 21:17:58,185          root     INFO: Text to tweet: Modificação do Título
-2021-06-24 21:17:58,185          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ex-ministro-da-saude-serra-esta-contaminado-com-novo-coronavirus.shtml
-2021-06-24 21:17:58,195          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ex-ministro-da-saude-serra-esta-contaminado-com-novo-coronavirus.shtml
-2021-06-24 21:17:58,353          root     INFO: Replying to: 1408172571456069637
-2021-06-24 21:17:58,617          root     INFO: Id to store: 1408172572114665477
-2021-06-24 21:18:04,760          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/advogados-lancam-manifesto-contra-omissao-da-oab-sp-sobre-violencias-raciais-e-de-genero.shtml
-2021-06-24 21:18:04,765          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/bolsonaro-e-um-sexagenario-com-fantasias-infantis.shtml
-2021-06-24 21:18:04,770          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jose-henrique-mariante-ombudsman/2021/06/dizer-nao-funciona-nao-basta.shtml
-2021-06-24 21:18:04,774          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/pressao-de-setor-financeiro-por-autonomia-do-bc-incomoda-ministros-do-stf.shtml
-2021-06-24 21:18:04,779          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2021/06/langoni-a-verdade-da-direita.shtml
-2021-06-24 21:18:04,783          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/06/vale-dar-palco-a-um-negacionista-na-cpi.shtml
-2021-06-24 21:18:04,784          root     INFO: Finished script
+2021-06-24 21:40:06,710          root     INFO: Starting script
+2021-06-24 21:40:07,531          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-24 21:40:08,196          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-24 21:40:08,858          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-24 21:40:09,092          root     INFO: Parsing R7 - Brasil
+2021-06-24 21:40:09,283          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/06/safrinha-de-milho-tem-quebra-de-186-milhoes-de-toneladas.shtml
+2021-06-24 21:40:11,703          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-abaixa-mascara-de-menino-e-pede-para-menina-retirar-protecao-contra-o-coronavirus-no-rn-assista.shtml
+2021-06-24 21:40:11,816          root     INFO: Ex-ministro da Saúde, <ins>senador José</ins> Serra está <del>contaminado</del> com <del>novo coronavírus</del> <ins>Covid-19</ins>
+2021-06-24 21:40:13,424          root     INFO: Media ready with ids: 1408178170575179788
+2021-06-24 21:40:13,425          root     INFO: Text to tweet: Modificação do Título
+2021-06-24 21:40:13,425          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ex-ministro-da-saude-serra-esta-contaminado-com-novo-coronavirus.shtml
+2021-06-24 21:40:13,439          root     INFO: Replying to: 1408172572114665477
+2021-06-24 21:40:13,655          root     INFO: Id to store: 1408178171896385536
+2021-06-24 21:40:18,939          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2021/06/a-privatizacao-da-eletrobras-e-os-jabutis-do-congresso-na-mp-do-governo-ouca-podcast.shtml
+2021-06-24 21:40:18,944          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/alem-de-lula-adversarios-de-bolsonaro-sao-abstracoes-sem-forma-politica.shtml
+2021-06-24 21:40:18,944          root     INFO: Finished script
