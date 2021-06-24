@@ -1,20 +1,10 @@
-2021-06-24 10:50:14,204          root     INFO: Starting script
-2021-06-24 10:50:15,193          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-24 10:50:16,013          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-24 10:50:16,825          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-24 10:50:17,254          root     INFO: Parsing R7 - Brasil
-2021-06-24 10:50:21,430          root     INFO: O texto da reforma <del>eleitoral,</del> <ins>eleitoral</ins> que será apresentado nesta quinta-feira (24) aos líderes da Câmara dos <del>Deputados,</del> <ins>Deputados</ins> prevê blindagem para os candidatos e partidos que espalham fake news ou conteúdo que viola as regras das plataformas em ano eleitoral. Leia mais (06/23/2021 - 23h15)
-2021-06-24 10:50:23,363          root     INFO: Media ready with ids: 1408014634196549635
-2021-06-24 10:50:23,364          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-24 10:50:23,364          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/reforma-discutida-na-camara-preve-blindar-politicos-que-espalham-fake-news-em-ano-de-eleicao.shtml
-2021-06-24 10:50:23,380          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/reforma-discutida-na-camara-preve-blindar-politicos-que-espalham-fake-news-em-ano-de-eleicao.shtml
-2021-06-24 10:50:23,577          root     INFO: Replying to: 1408014635886862345
-2021-06-24 10:50:23,808          root     INFO: Id to store: 1408014636620959755
-2021-06-24 10:50:24,184          root     INFO: Ex-youtuber, <del>pró-Bolsonaro,</del> <ins>pró-Bolsonaro e</ins> com vidraça eleitoral; saiba quem é <del>o deputado</del> Luís Miranda, <ins>deputado</ins> que citou suspeita sobre Covaxin
-2021-06-24 10:50:25,853          root     INFO: Media ready with ids: 1408014644850081796
-2021-06-24 10:50:25,853          root     INFO: Text to tweet: Modificação do Título
-2021-06-24 10:50:25,853          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-youtuber-pro-bolsonaro-com-vidraca-eleitoral-saiba-quem-e-o-deputado-luis-miranda-que-citou-suspeita-sobre-covaxin.shtml
-2021-06-24 10:50:25,865          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-youtuber-pro-bolsonaro-com-vidraca-eleitoral-saiba-quem-e-o-deputado-luis-miranda-que-citou-suspeita-sobre-covaxin.shtml
-2021-06-24 10:50:26,048          root     INFO: Replying to: 1408014646263566337
-2021-06-24 10:50:26,283          root     INFO: Id to store: 1408014646980792335
-2021-06-24 10:50:33,845          root     INFO: Finished script
+2021-06-24 10:58:11,093          root     INFO: Starting script
+2021-06-24 10:58:12,354          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-24 10:58:13,040          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-24 10:58:13,735          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-24 10:58:13,888          root     INFO: Parsing R7 - Brasil
+2021-06-24 10:58:24,424          root     INFO: Removed http://noticias.r7.com/brasil/camara-rejeita-emendas-do-senado-e-retoma-parecer-de-mp-1034-23062021
+2021-06-24 10:58:24,430          root     INFO: Removed http://noticias.r7.com/brasil/juiz-torna-assessor-de-bolsonaro-reu-por-crime-de-racismo-23062021
+2021-06-24 10:58:24,436          root     INFO: Removed http://noticias.r7.com/brasil/barroso-nega-novo-pedido-de-bolsonaro-contra-toque-de-recolher-23062021
+2021-06-24 10:58:24,441          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-diz-que-compra-da-covaxin-pode-ser-cancelada-23062021
+2021-06-24 10:58:24,442          root     INFO: Finished script
