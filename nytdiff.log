@@ -1,29 +1,6 @@
-2021-06-24 19:14:13,794          root     INFO: Starting script
-2021-06-24 19:14:14,630          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-24 19:14:15,310          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-24 19:14:15,993          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-24 19:14:16,395          root     INFO: Parsing R7 - Brasil
-2021-06-24 19:14:19,558          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/organizadores-de-atos-de-junho-de-2013-em-porto-alegre-sao-absolvidos-por-falta-de-provas.shtml
-2021-06-24 19:14:19,575          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/apos-pedido-da-gestao-doria-juiza-determina-reintegracao-de-posse-do-sindicato-dos-metroviarios-de-sp.shtml
-2021-06-24 19:14:19,683          root     INFO: Um grupo de operários que posou para foto ao lado <del>do presidente</del> <ins>de</ins> Jair Bolsonaro (sem partido), em Jucurutu, Rio Grande do Norte, fez o símbolo de "L" com os dedos. <ins>Todos estavam sem máscaras.</ins> Leia mais (06/24/2021 - 14h53)
-2021-06-24 19:14:21,607          root     INFO: Media ready with ids: 1408141462051643405
-2021-06-24 19:14:21,608          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-24 19:14:21,608          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/operarios-fazem-l-de-lula-com-os-dedos-em-foto-com-bolsonaro.shtml
-2021-06-24 19:14:21,618          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/operarios-fazem-l-de-lula-com-os-dedos-em-foto-com-bolsonaro.shtml
-2021-06-24 19:14:21,809          root     INFO: Replying to: 1408141464211791893
-2021-06-24 19:14:22,108          root     INFO: Id to store: 1408141465004412928
-2021-06-24 19:14:22,161          root     INFO: Bolsonaro <del>ignora</del> <ins>ataca CPI da Covid e diz que 'acusação é arma que sobra' no</ins> caso Covaxin <del>e repete que não há suspeitas de corrupção em seu governo</del>
-2021-06-24 19:14:23,898          root     INFO: Media ready with ids: 1408141472277336068
-2021-06-24 19:14:23,899          root     INFO: Text to tweet: Modificação do Título
-2021-06-24 19:14:23,899          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-ignora-caso-covaxin-e-repete-que-nao-ha-suspeitas-de-corrupcao-em-seu-governo.shtml
-2021-06-24 19:14:23,909          root     INFO: Replying to: 1408137960655142920
-2021-06-24 19:14:24,158          root     INFO: Id to store: 1408141473825050624
-2021-06-24 19:14:24,167          root     INFO: Acossado pelas suspeitas <del>de corrupção envolvendo a</del> <ins>em torno da</ins> compra da <del>vacina indiana</del> Covaxin, o presidente Jair Bolsonaro <del>(sem partido) afirmou nesta quinta-feira (24) no Rio Grande do Norte</del> <ins>fustigou integrantes da CPI da Covid, repetiu</ins> que não há suspeitas de corrupção em seu <del>governo.</del> <ins>governo e afirmou que a acusação sobre a vacina indiana é a arma que sobra aos seus opositores.</ins> Leia mais (06/24/2021 - 12h49)
-2021-06-24 19:14:25,906          root     INFO: Media ready with ids: 1408141480745701379
-2021-06-24 19:14:25,907          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-24 19:14:25,907          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-ignora-caso-covaxin-e-repete-que-nao-ha-suspeitas-de-corrupcao-em-seu-governo.shtml
-2021-06-24 19:14:25,917          root     INFO: Replying to: 1408141473825050624
-2021-06-24 19:14:26,182          root     INFO: Id to store: 1408141482234687490
-2021-06-24 19:14:32,646          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-que-apontou-pressao-atipica-por-vacina-relatou-pagamentos-indevidos-por-remedios-na-saude.shtml
-2021-06-24 19:14:32,659          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2021/06/para-voce-leitor-a-democracia-brasileira-corre-risco-por-que.shtml
-2021-06-24 19:14:32,660          root     INFO: Finished script
+2021-06-24 19:22:39,330          root     INFO: Starting script
+2021-06-24 19:22:40,300          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-24 19:22:41,063          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-24 19:22:41,835          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-24 19:22:42,071          root     INFO: Parsing R7 - Brasil
+2021-06-24 19:22:50,367          root     INFO: Finished script
