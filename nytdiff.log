@@ -1,14 +1,8 @@
-2021-06-25 15:41:01,725          root     INFO: Starting script
-2021-06-25 15:41:02,528          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-25 15:41:03,181          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-25 15:41:03,838          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-25 15:41:04,042          root     INFO: Parsing R7 - Brasil
-2021-06-25 15:41:07,206          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/tv-globo-diz-que-bolsonaro-antecipa-debate-e-passa-a-divulgar-pesquisa-eleitoral.shtml
-2021-06-25 15:41:07,314          root     INFO: O presidente Jair Bolsonaro (sem partido) afirmou nesta sexta-feira (25) que a Polícia Federal vai abrir inquérito para investigar a compra da vacina <ins>indiana</ins> Covaxin. "É lógico que a PF vai abrir <del>inquérito."</del> <ins>inquérito", disse o presidente em entrevista durante evento em Sorocaba, no interior de São Paulo.</ins> Leia mais (06/25/2021 - 11h07)
-2021-06-25 15:41:09,316          root     INFO: Media ready with ids: 1408450195113889797
-2021-06-25 15:41:09,317          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-25 15:41:09,317          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-diz-que-pf-vai-abrir-inquerito-para-investigar-acordo-do-governo-com-a-covaxin.shtml
-2021-06-25 15:41:09,327          root     INFO: Replying to: 1408431708601524229
-2021-06-25 15:41:09,584          root     INFO: Id to store: 1408450197395578887
-2021-06-25 15:41:16,097          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/aras-assinou-34-acordos-de-delacao-premiada-em-sua-gestao-13-deles-em-2021.shtml
-2021-06-25 15:41:16,098          root     INFO: Finished script
+2021-06-25 15:54:13,026          root     INFO: Starting script
+2021-06-25 15:54:13,843          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-25 15:54:14,497          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-25 15:54:15,159          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-25 15:54:15,353          root     INFO: Parsing R7 - Brasil
+2021-06-25 15:54:18,600          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/carmen-lucia-determina-que-ricardo-salles-entregue-passaporte-a-policia-federal.shtml
+2021-06-25 15:54:25,012          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/delegado-e-tirado-de-cargo-de-chefia-apos-pedir-informacoes-sobre-fraude-em-urnas-eletronicas.shtml
+2021-06-25 15:54:25,013          root     INFO: Finished script
