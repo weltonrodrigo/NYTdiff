@@ -1,19 +1,6 @@
-2021-06-25 17:06:56,586          root     INFO: Starting script
-2021-06-25 17:06:57,486          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-25 17:06:58,180          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-25 17:06:58,868          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-25 17:06:59,007          root     INFO: Parsing R7 - Brasil
-2021-06-25 17:06:59,177          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/06/cortazar-cria-um-labirinto-que-vem-ate-o-presente-em-todos-os-contos.shtml
-2021-06-25 17:06:59,193          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/cpi-pode-se-perder-se-buscar-atalho-na-investigacao-da-covaxin.shtml
-2021-06-25 17:07:01,985          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/cpi-pode-se-perder-se-buscar-atalho-na-investigacao-da-covaxin.shtml
-2021-06-25 17:07:02,815          root     INFO: O fazendeiro Marcos Prochet, ex-presidente da UDR (União Democrática Ruralista) no noroeste do Paraná, foi condenado nesta quinta-feira (24) a 14 anos e três meses de prisão pelo assassinato do trabalhador <del>sem-terra</del> <ins>sem terra</ins> Sebastião Camargo, ocorrido em 1998. Leia mais (06/24/2021 - 20h21)
-2021-06-25 17:07:04,638          root     INFO: Media ready with ids: 1408471818793635843
-2021-06-25 17:07:04,639          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-25 17:07:04,639          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/fazendeiro-e-condenado-de-novo-por-morte-de-sem-terra-no-parana-mas-seguira-solto-23-anos-apos-o-crime.shtml
-2021-06-25 17:07:04,652          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/fazendeiro-e-condenado-de-novo-por-morte-de-sem-terra-no-parana-mas-seguira-solto-23-anos-apos-o-crime.shtml
-2021-06-25 17:07:04,853          root     INFO: Replying to: 1408471820358066181
-2021-06-25 17:07:05,094          root     INFO: Id to store: 1408471821154930688
-2021-06-25 17:07:10,513          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/para-mourao-maior-erro-do-governo-foi-falta-de-orientacao-a-populacao-sobre-a-covid-19.shtml
-2021-06-25 17:07:10,521          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/06/o-pranto-de-neymar.shtml
-2021-06-25 17:07:10,527          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/06/a-memoria-reduzida-ao-tablet.shtml
-2021-06-25 17:07:10,528          root     INFO: Finished script
+2021-06-25 17:36:01,500          root     INFO: Starting script
+2021-06-25 17:36:02,547          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-25 17:36:03,362          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-25 17:36:04,170          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-25 17:36:04,423          root     INFO: Parsing R7 - Brasil
+2021-06-25 17:36:14,662          root     INFO: Finished script
