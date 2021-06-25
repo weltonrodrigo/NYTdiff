@@ -1,13 +1,10 @@
-2021-06-25 11:31:40,121          root     INFO: Starting script
-2021-06-25 11:31:41,130          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-25 11:31:41,903          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-25 11:31:42,690          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-25 11:31:42,914          root     INFO: Parsing R7 - Brasil
-2021-06-25 11:31:43,135          root     INFO: <del>Le Monde vê 'terceira onda' no Brasil;</del> NYT vê 'tragédia sem sinal de cessar' <ins>no Brasil; Le Monde já aponta 'terceira onda'</ins>
-2021-06-25 11:31:44,969          root     INFO: Media ready with ids: 1408387430739230721
-2021-06-25 11:31:44,970          root     INFO: Text to tweet: Modificação do Título
-2021-06-25 11:31:44,970          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/le-monde-ve-terceira-onda-no-brasil-nyt-ve-tragedia-sem-sinal-de-cessar.shtml
-2021-06-25 11:31:44,980          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/le-monde-ve-terceira-onda-no-brasil-nyt-ve-tragedia-sem-sinal-de-cessar.shtml
-2021-06-25 11:31:45,256          root     INFO: Replying to: 1408387432656125957
-2021-06-25 11:31:45,535          root     INFO: Id to store: 1408387433528532992
-2021-06-25 11:31:54,986          root     INFO: Finished script
+2021-06-25 11:47:08,928          root     INFO: Starting script
+2021-06-25 11:47:09,762          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-25 11:47:10,447          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-25 11:47:11,125          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-25 11:47:11,226          root     INFO: Parsing R7 - Brasil
+2021-06-25 11:47:20,118          root     INFO: New article tracked: http://noticias.r7.com/brasil/quem-e-luis-miranda-deputado-que-denunciou-compra-da-covaxin-24062021
+2021-06-25 11:47:20,137          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-libera-r-38-milhoes-para-concluir-obras-de-barragens-no-rn-24062021
+2021-06-25 11:47:20,151          root     INFO: New article tracked: http://noticias.r7.com/brasil/hallal-diz-a-cpi-ter-sido-censurado-em-evento-no-palacio-do-planalto-24062021
+2021-06-25 11:47:20,165          root     INFO: New article tracked: http://noticias.r7.com/brasil/medica-diz-que-pandemia-causou-305-mil-mortes-a-mais-em-um-ano-24062021
+2021-06-25 11:47:20,711          root     INFO: Finished script
