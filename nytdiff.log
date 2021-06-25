@@ -1,10 +1,26 @@
-2021-06-25 06:57:14,450          root     INFO: Starting script
-2021-06-25 06:57:15,518          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-25 06:57:16,322          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-25 06:57:17,128          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-25 06:57:17,404          root     INFO: Parsing R7 - Brasil
-2021-06-25 06:57:25,222          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-pede-a-cpi-da-covid-prisao-de-onyx-e-elcio-franco-24062021
-2021-06-25 06:57:25,237          root     INFO: New article tracked: http://noticias.r7.com/brasil/entenda-as-suspeitas-relacionadas-a-compra-da-vacina-covaxin-24062021
-2021-06-25 06:57:25,252          root     INFO: Removed http://noticias.r7.com/brasil/novo-lote-com-936-mil-doses-da-pfizer-chegam-a-viracopos-24062021
-2021-06-25 06:57:25,256          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-luis-miranda-nao-o-avisou-de-corrupcao-na-covaxin-24062021
-2021-06-25 06:57:25,257          root     INFO: Finished script
+2021-06-25 07:06:42,871          root     INFO: Starting script
+2021-06-25 07:06:43,709          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-25 07:06:44,391          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-25 07:06:45,070          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-25 07:06:45,251          root     INFO: Parsing R7 - Brasil
+2021-06-25 07:06:55,096          root     INFO: Removed http://noticias.r7.com/brasil/maioria-do-stf-vota-para-suspender-convocacao-de-governadores-na-cpi-24062021
+2021-06-25 07:06:55,103          root     INFO: Removed http://noticias.r7.com/brasil/mendes-estende-suspeicao-de-moro-para-outros-dois-processos-de-lula-24062021
+2021-06-25 07:06:55,109          root     INFO: Removed http://noticias.r7.com/brasil/pesquisador-associa-gargalo-em-dados-a-recorde-de-casos-por-covid-24062021
+2021-06-25 07:06:55,115          root     INFO: Removed http://noticias.r7.com/brasil/patriota-afasta-presidente-adilson-barroso-por-90-dias-24062021
+2021-06-25 07:06:55,120          root     INFO: Removed http://noticias.r7.com/brasil/as-vesperas-de-filiar-bolsonaro-patriota-afasta-lider-do-partido-24062021
+2021-06-25 07:06:55,126          root     INFO: Removed http://noticias.r7.com/brasil/reciclagem-e-coleta-seletiva-sao-os-temas-do-estudio-news-24062021
+2021-06-25 07:06:55,131          root     INFO: Removed http://noticias.r7.com/brasil/delegado-da-pf-ironiza-salles-eu-avisei-que-nao-ia-passar-boiada-24062021
+2021-06-25 07:06:55,137          root     INFO: Removed http://noticias.r7.com/brasil/presidente-da-record-tv-recebe-ceo-da-tim-brasil-em-sao-paulo-24062021
+2021-06-25 07:06:55,142          root     INFO: Removed http://noticias.r7.com/brasil/senador-jose-serra-e-internado-com-covid-19-em-sao-paulo-24062021
+2021-06-25 07:06:55,148          root     INFO: Removed http://noticias.r7.com/brasil/presidente-da-camara-quer-acelerar-reformas-e-pautas-economicas-24062021
+2021-06-25 07:06:55,153          root     INFO: Removed http://noticias.r7.com/brasil/cinco-ministros-votam-contra-ida-de-governadores-a-cpi-da-covid-24062021
+2021-06-25 07:06:55,159          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-denuncias-sao-mentiras-e-fake-news-24062021
+2021-06-25 07:06:55,164          root     INFO: Removed http://noticias.r7.com/brasil/parlamentares-pedem-ao-stf-apreensao-de-passaporte-de-salles-24062021
+2021-06-25 07:06:55,171          root     INFO: Removed http://noticias.r7.com/brasil/anvisa-encontrou-29-erros-na-covaxin-apos-saude-fechar-contrato-24062021
+2021-06-25 07:06:55,177          root     INFO: Removed http://noticias.r7.com/brasil/entenda-as-suspeitas-relacionadas-a-compra-da-vacina-covaxin-24062021
+2021-06-25 07:06:55,183          root     INFO: Removed http://noticias.r7.com/brasil/camara-abranda-inelegibilidade-para-quem-teve-contas-rejeitadas-24062021
+2021-06-25 07:06:55,189          root     INFO: Removed http://noticias.r7.com/brasil/alexandre-de-moraes-manda-daniel-silveira-de-volta-a-prisao-24062021
+2021-06-25 07:06:55,194          root     INFO: Removed http://noticias.r7.com/brasil/ronaldo-caiado-inclui-jornalistas-na-vacinacao-prioritaria-em-goias-24062021
+2021-06-25 07:06:55,200          root     INFO: Removed http://noticias.r7.com/brasil/deputado-pede-a-cpi-da-covid-prisao-de-onyx-e-elcio-franco-24062021
+2021-06-25 07:06:55,206          root     INFO: Removed http://noticias.r7.com/brasil/hallal-compara-comemorar-curados-da-covid-com-gol-do-brasil-no-7x1-24062021
+2021-06-25 07:06:55,207          root     INFO: Finished script
