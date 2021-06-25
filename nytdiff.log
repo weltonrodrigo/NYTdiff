@@ -1,6 +1,24 @@
-2021-06-25 09:58:02,924          root     INFO: Starting script
-2021-06-25 09:58:03,712          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-25 09:58:04,353          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-25 09:58:04,998          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-25 09:58:05,161          root     INFO: Parsing R7 - Brasil
-2021-06-25 09:58:12,974          root     INFO: Finished script
+2021-06-25 10:20:32,192          root     INFO: Starting script
+2021-06-25 10:20:33,157          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-25 10:20:33,952          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-25 10:20:34,729          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-25 10:20:34,966          root     INFO: Parsing R7 - Brasil
+2021-06-25 10:20:35,122          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luciano-melo/2021/06/a-cognicao-da-ideologia-sobre-a-cloroquina.shtml
+2021-06-25 10:20:35,140          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/nicaragua-eleicoes-autoritarias-e-crise-de-regime.shtml
+2021-06-25 10:20:38,126          root     INFO: Justiça condena governo <ins>Bolsonaro</ins> a pagar multa e fazer campanha após ofensas de <del>Bolsonaro contra</del> <ins>presidente a</ins> mulheres
+2021-06-25 10:20:39,931          root     INFO: Media ready with ids: 1408369542024286214
+2021-06-25 10:20:39,932          root     INFO: Text to tweet: Modificação do Título
+2021-06-25 10:20:39,932          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/justica-condena-governo-a-pagar-multa-e-fazer-campanha-apos-ofensas-de-bolsonaro-contra-mulheres.shtml
+2021-06-25 10:20:39,943          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/justica-condena-governo-a-pagar-multa-e-fazer-campanha-apos-ofensas-de-bolsonaro-contra-mulheres.shtml
+2021-06-25 10:20:40,168          root     INFO: Replying to: 1408369543559405573
+2021-06-25 10:20:40,422          root     INFO: Id to store: 1408369544465420295
+2021-06-25 10:20:40,573          root     INFO: Suspeita sobre Covaxin trinca discurso anticorrupção de Bolsonaro, e <del>governo avalia romper contrato</del> <ins>Planalto tenta se desvencilhar de crise</ins>
+2021-06-25 10:20:42,312          root     INFO: Media ready with ids: 1408369552006778884
+2021-06-25 10:20:42,313          root     INFO: Text to tweet: Modificação do Título
+2021-06-25 10:20:42,313          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/suspeita-sobre-covaxin-trinca-discurso-anticorrupcao-de-bolsonaro-e-governo-avalia-romper-contrato.shtml
+2021-06-25 10:20:42,324          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/suspeita-sobre-covaxin-trinca-discurso-anticorrupcao-de-bolsonaro-e-governo-avalia-romper-contrato.shtml
+2021-06-25 10:20:42,548          root     INFO: Replying to: 1408369553550237699
+2021-06-25 10:20:42,829          root     INFO: Id to store: 1408369554502438916
+2021-06-25 10:20:48,995          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marciadessen/2021/06/acesso-a-credito-com-o-nome-sujo.shtml
+2021-06-25 10:20:49,005          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/06/eurocopa-e-previa-da-copa-de-multiplas-funcoes.shtml
+2021-06-25 10:20:49,006          root     INFO: Finished script
