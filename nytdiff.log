@@ -1,8 +1,20 @@
-2021-06-25 14:16:33,664          root     INFO: Starting script
-2021-06-25 14:16:34,470          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-25 14:16:35,134          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-25 14:16:35,785          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-25 14:16:35,969          root     INFO: Parsing R7 - Brasil
-2021-06-25 14:16:38,825          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-diz-que-pf-vai-abrir-inquerito-para-investigar-acordo-do-governo-com-a-covaxin.shtml
-2021-06-25 14:16:44,582          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/autoritario-bolsonaro-diz-que-faz-o-que-quer-relembre-episodios-em-que-fez-mesmo.shtml
-2021-06-25 14:16:44,583          root     INFO: Finished script
+2021-06-25 14:27:33,763          root     INFO: Starting script
+2021-06-25 14:27:34,571          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-25 14:27:35,224          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-25 14:27:35,877          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-25 14:27:36,092          root     INFO: Parsing R7 - Brasil
+2021-06-25 14:27:39,203          root     INFO: O presidente Jair Bolsonaro (sem partido) afirmou nesta sexta-feira (25) que a Polícia Federal vai abrir inquérito para investigar a compra da vacina <ins>indiana</ins> Covaxin. "É lógico que a PF vai abrir inquérito." Leia mais (06/25/2021 - 11h07)
+2021-06-25 14:27:41,076          root     INFO: Media ready with ids: 1408431705682231296
+2021-06-25 14:27:41,077          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-25 14:27:41,077          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-diz-que-pf-vai-abrir-inquerito-para-investigar-acordo-do-governo-com-a-covaxin.shtml
+2021-06-25 14:27:41,088          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-diz-que-pf-vai-abrir-inquerito-para-investigar-acordo-do-governo-com-a-covaxin.shtml
+2021-06-25 14:27:41,291          root     INFO: Replying to: 1408431707884298242
+2021-06-25 14:27:41,524          root     INFO: Id to store: 1408431708601524229
+2021-06-25 14:27:44,504          root     INFO: Novo ministro <del>alia área</del> do <del>agronegócio com questão ambiental, diz Mourão após Leite cancelar</del> <ins>Meio Ambiente cancela primeira</ins> reunião <ins>com Mourão</ins>
+2021-06-25 14:27:46,180          root     INFO: Media ready with ids: 1408431727807275010
+2021-06-25 14:27:46,180          root     INFO: Text to tweet: Modificação do Título
+2021-06-25 14:27:46,180          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/novo-ministro-alia-area-do-agronegocio-com-questao-ambiental-diz-mourao-apos-leite-cancelar-reuniao.shtml
+2021-06-25 14:27:46,191          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/06/novo-ministro-alia-area-do-agronegocio-com-questao-ambiental-diz-mourao-apos-leite-cancelar-reuniao.shtml
+2021-06-25 14:27:46,372          root     INFO: Replying to: 1408431729120006144
+2021-06-25 14:27:46,586          root     INFO: Id to store: 1408431729866592260
+2021-06-25 14:27:50,050          root     INFO: Finished script
