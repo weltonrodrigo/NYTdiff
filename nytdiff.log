@@ -1,17 +1,19 @@
-2021-06-26 01:42:43,300          root     INFO: Starting script
-2021-06-26 01:42:44,242          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-26 01:42:45,017          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-26 01:42:45,791          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-26 01:42:46,060          root     INFO: Parsing R7 - Brasil
-2021-06-26 01:42:48,636          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/tapetao-por-tapetao-sou-mais-o-meu-diz-bolsonaro-apos-criticar-cpi-por-caso-covaxin.shtml
-2021-06-26 01:42:48,652          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/denuncia-sobre-covaxin-leva-centrao-para-dentro-da-cpi-da-covid.shtml
-2021-06-26 01:42:48,745          root     INFO: <del>Histeria governista prova que Covaxin entrou</del> <ins>Citação a líder do governo</ins> na <del>sala</del> <ins>CPI da Covid complica situação</ins> de Bolsonaro <del>para não sair</del>
-2021-06-26 01:42:50,501          root     INFO: Media ready with ids: 1408601615255355393
-2021-06-26 01:42:50,501          root     INFO: Text to tweet: Modificação do Título
-2021-06-26 01:42:50,502          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/histeria-governista-prova-que-covaxin-entrou-na-sala-de-bolsonaro-para-nao-sair.shtml
-2021-06-26 01:42:50,511          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/histeria-governista-prova-que-covaxin-entrou-na-sala-de-bolsonaro-para-nao-sair.shtml
-2021-06-26 01:42:50,785          root     INFO: Replying to: 1408601616958341124
-2021-06-26 01:42:51,064          root     INFO: Id to store: 1408601617906212870
-2021-06-26 01:42:56,266          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-convoca-facebook-twitter-e-google-para-explicar-posts-de-bolsonaro.shtml
-2021-06-26 01:42:56,270          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2021/06/leitor-da-folha-faz-desabafo-sobre-rotina-de-acompanhar-o-noticiario.shtml
-2021-06-26 01:42:56,271          root     INFO: Finished script
+2021-06-26 02:14:13,224          root     INFO: Starting script
+2021-06-26 02:14:14,023          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-26 02:14:14,666          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-26 02:14:15,312          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-26 02:14:15,650          root     INFO: Parsing R7 - Brasil
+2021-06-26 02:14:19,061          root     INFO: <del>Servidor reafirma</del> <ins>Deputado diz</ins> à CPI <del>alerta a Bolsonaro sobre pressão por vacina e diz</del> que <del>colega citou pedido de propina</del> <ins>Bolsonaro levantou suspeitas sobre líder do governo no caso Covaxin</ins>
+2021-06-26 02:14:20,729          root     INFO: Media ready with ids: 1408609543379111936
+2021-06-26 02:14:20,730          root     INFO: Text to tweet: Modificação do Título
+2021-06-26 02:14:20,730          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-reafirma-a-cpi-alerta-a-bolsonaro-sobre-pressao-por-vacina-e-diz-que-colega-citou-pedido-de-propina.shtml
+2021-06-26 02:14:20,740          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-reafirma-a-cpi-alerta-a-bolsonaro-sobre-pressao-por-vacina-e-diz-que-colega-citou-pedido-de-propina.shtml
+2021-06-26 02:14:20,937          root     INFO: Replying to: 1408609544901648385
+2021-06-26 02:14:21,180          root     INFO: Id to store: 1408609545706934273
+2021-06-26 02:14:21,187          root     INFO: O <del>servidor do Ministério da Saúde Luis Ricardo e seu irmão, o</del> deputado Luis Miranda <del>(DEM-DF), reforçaram</del> <ins>(DEM-DF) disse</ins> à CPI da Covid <del>no Senado</del> nesta sexta-feira (25) que o <ins>líder do governo na Câmara, Ricardo Barros (PP-PR), foi o nome atribuído pelo</ins> presidente Jair Bolsonaro <del>foi alertado sobre</del> <ins>às</ins> supostas irregularidades na compra da vacina indiana Covaxin. Leia mais (06/25/2021 - 21h06)
+2021-06-26 02:14:22,896          root     INFO: Media ready with ids: 1408609552304676866
+2021-06-26 02:14:22,896          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-26 02:14:22,896          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-reafirma-a-cpi-alerta-a-bolsonaro-sobre-pressao-por-vacina-e-diz-que-colega-citou-pedido-de-propina.shtml
+2021-06-26 02:14:22,912          root     INFO: Replying to: 1408609545706934273
+2021-06-26 02:14:23,115          root     INFO: Id to store: 1408609553827106819
+2021-06-26 02:14:29,793          root     INFO: Finished script
