@@ -1,19 +1,40 @@
-2021-06-26 02:14:13,224          root     INFO: Starting script
-2021-06-26 02:14:14,023          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-26 02:14:14,666          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-26 02:14:15,312          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-26 02:14:15,650          root     INFO: Parsing R7 - Brasil
-2021-06-26 02:14:19,061          root     INFO: <del>Servidor reafirma</del> <ins>Deputado diz</ins> à CPI <del>alerta a Bolsonaro sobre pressão por vacina e diz</del> que <del>colega citou pedido de propina</del> <ins>Bolsonaro levantou suspeitas sobre líder do governo no caso Covaxin</ins>
-2021-06-26 02:14:20,729          root     INFO: Media ready with ids: 1408609543379111936
-2021-06-26 02:14:20,730          root     INFO: Text to tweet: Modificação do Título
-2021-06-26 02:14:20,730          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-reafirma-a-cpi-alerta-a-bolsonaro-sobre-pressao-por-vacina-e-diz-que-colega-citou-pedido-de-propina.shtml
-2021-06-26 02:14:20,740          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-reafirma-a-cpi-alerta-a-bolsonaro-sobre-pressao-por-vacina-e-diz-que-colega-citou-pedido-de-propina.shtml
-2021-06-26 02:14:20,937          root     INFO: Replying to: 1408609544901648385
-2021-06-26 02:14:21,180          root     INFO: Id to store: 1408609545706934273
-2021-06-26 02:14:21,187          root     INFO: O <del>servidor do Ministério da Saúde Luis Ricardo e seu irmão, o</del> deputado Luis Miranda <del>(DEM-DF), reforçaram</del> <ins>(DEM-DF) disse</ins> à CPI da Covid <del>no Senado</del> nesta sexta-feira (25) que o <ins>líder do governo na Câmara, Ricardo Barros (PP-PR), foi o nome atribuído pelo</ins> presidente Jair Bolsonaro <del>foi alertado sobre</del> <ins>às</ins> supostas irregularidades na compra da vacina indiana Covaxin. Leia mais (06/25/2021 - 21h06)
-2021-06-26 02:14:22,896          root     INFO: Media ready with ids: 1408609552304676866
-2021-06-26 02:14:22,896          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-26 02:14:22,896          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-reafirma-a-cpi-alerta-a-bolsonaro-sobre-pressao-por-vacina-e-diz-que-colega-citou-pedido-de-propina.shtml
-2021-06-26 02:14:22,912          root     INFO: Replying to: 1408609545706934273
-2021-06-26 02:14:23,115          root     INFO: Id to store: 1408609553827106819
-2021-06-26 02:14:29,793          root     INFO: Finished script
+2021-06-26 02:38:43,230          root     INFO: Starting script
+2021-06-26 02:38:44,051          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-26 02:38:44,723          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-26 02:38:45,395          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-26 02:38:45,578          root     INFO: Parsing R7 - Brasil
+2021-06-26 02:38:45,730          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/06/na-praca-do-por-do-sol-restricoes-sanitarias-revelam-sua-face-de-restricoes-sociais.shtml
+2021-06-26 02:38:45,744          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/tirania-chinesa.shtml
+2021-06-26 02:38:45,757          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/enfim-a-renda.shtml
+2021-06-26 02:38:45,770          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2021/06/nacionalismos-de-xi-e-de-putin.shtml
+2021-06-26 02:38:45,782          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/06/vacina-nas-quebradas-ja.shtml
+2021-06-26 02:38:45,794          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/06/o-vacinagate-de-bolsonaro.shtml
+2021-06-26 02:38:45,808          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/06/amem-a-corrupcao.shtml
+2021-06-26 02:38:45,820          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/o-projeto-que-autoriza-o-cultivo-de-maconha-para-fins-medicinais-deve-ser-aprovado-no-congresso-sim.shtml
+2021-06-26 02:38:45,832          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/por-que-ainda-se-receita-cloroquina.shtml
+2021-06-26 02:38:45,846          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/o-projeto-que-autoriza-o-cultivo-de-maconha-para-fins-medicinais-deve-ser-aprovado-no-congresso-nao.shtml
+2021-06-26 02:38:48,118          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/06/na-praca-do-por-do-sol-restricoes-sanitarias-revelam-sua-face-de-restricoes-sociais.shtml
+2021-06-26 02:38:48,132          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/contador-de-cagadas-do-governo-bolsonaro-passara-a-usar-horas-em-vez-de-dias.shtml
+2021-06-26 02:38:48,144          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/prestes-a-se-aposentar-marco-aurelio-diz-que-stf-se-aproximou-da-sociedade-nos-ultimos-31-anos.shtml
+2021-06-26 02:38:48,159          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/cut-tera-campanha-para-auxiliar-usina-de-oxigenio-hospitalar-da-venezuela.shtml
+2021-06-26 02:38:48,173          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/empresarios-comemoraram-saida-de-salles-em-jantar-com-lira.shtml
+2021-06-26 02:38:48,186          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/proposta-na-camara-esvazia-fiscalizacao-sobre-contas-dos-partidos-que-usam-r-1-bi-por-ano-em-verba-publica.shtml
+2021-06-26 02:38:50,565          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/empresarios-comemoraram-saida-de-salles-em-jantar-com-lira.shtml
+2021-06-26 02:38:53,561          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/guilhermeboulos/2021/06/as-ruas-e-a-historia.shtml
+2021-06-26 02:38:53,566          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/06/ofensiva-anti-indigena-em-brasilia.shtml
+2021-06-26 02:38:53,570          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/presidente-da-cpi-da-covid-ve-gravidade-em-caso-covaxin-cita-bolsonaro-e-fala-em-acionar-a-policia-federal.shtml
+2021-06-26 02:38:53,575          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/mais-de-650-ex-alunos-de-direito-da-universidade-federal-de-pernambuco-pedem-impeachment-de-bolsonaro.shtml
+2021-06-26 02:38:53,580          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/pendulo-persa.shtml
+2021-06-26 02:38:53,585          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/apos-caso-da-motociata-de-bolsonaro-marta-suplicy-decide-exonerar-soninha-da-prefeitura-de-sao-paulo.shtml
+2021-06-26 02:38:53,590          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/edgardalves/2021/06/covid-19-fustiga-olimpiada-a-um-mes-da-abertura.shtml
+2021-06-26 02:38:53,595          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-ressalvas-tce-aprova-contas-de-doria-e-cobra-transparencia-em-gastos-com-coronavac.shtml
+2021-06-26 02:38:53,599          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/empresa-responsavel-por-covaxin-tentou-por-duas-vezes-garantir-pagamentos-antecipados-de-us-45-mi.shtml
+2021-06-26 02:38:53,604          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/vacina-sem-lacuna.shtml
+2021-06-26 02:38:53,608          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/como-bolsonaro-nao-foi-deposto.shtml
+2021-06-26 02:38:53,613          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/06/vem-ai-o-telejornal-do-governo-so-boas-noticias.shtml
+2021-06-26 02:38:53,618          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/procuradoria-diz-que-nao-foi-consultada-pelo-stf-sobre-acao-contra-salles.shtml
+2021-06-26 02:38:53,622          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/06/sojicultor-do-parana-vence-desafio-com-produtividade-120-maior-que-a-media.shtml
+2021-06-26 02:38:53,627          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/06/sobre-amar-um-homem-inculto.shtml
+2021-06-26 02:38:53,632          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/06/baixo-desempenho-do-mercado-de-trabalho-levanta-duvidas-sobre-recuperacao-da-economia.shtml
+2021-06-26 02:38:53,637          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/decreto-de-bolsonaro-libera-militares-da-ativa-em-cargos-do-governo-por-tempo-indeterminado.shtml
+2021-06-26 02:38:53,638          root     INFO: Finished script
