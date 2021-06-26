@@ -1,8 +1,17 @@
-2021-06-26 18:00:30,537          root     INFO: Starting script
-2021-06-26 18:00:31,428          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-26 18:00:32,105          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-26 18:00:32,800          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-26 18:00:32,924          root     INFO: Parsing R7 - Brasil
-2021-06-26 18:00:36,590          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-senador-jose-paulo-bisol-morre-por-falencia-organica-multipla-aos-92-anos.shtml
-2021-06-26 18:00:43,367          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/barroso-nega-pedido-de-bolsonaro-contra-medidas-dos-estados-para-conter-a-covid-19.shtml
-2021-06-26 18:00:43,369          root     INFO: Finished script
+2021-06-26 18:22:05,592          root     INFO: Starting script
+2021-06-26 18:22:06,467          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-26 18:22:07,160          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-26 18:22:07,852          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-26 18:22:07,970          root     INFO: Parsing R7 - Brasil
+2021-06-26 18:22:08,162          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/06/na-manifestacao.shtml
+2021-06-26 18:22:11,389          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/uniao-de-11-partidos-contra-o-voto-impresso-mata-o-assunto-diz-paulinho-da-forca.shtml
+2021-06-26 18:22:11,445          root     INFO: <del>Ex-senador</del> <ins>Vice na chapa de Lula em 1989, ex-senador</ins> José Paulo Bisol morre <del>por falência orgânica múltipla</del> aos 92 anos
+2021-06-26 18:22:13,207          root     INFO: Media ready with ids: 1408853116984901632
+2021-06-26 18:22:13,207          root     INFO: Text to tweet: Modificação do Título
+2021-06-26 18:22:13,207          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-senador-jose-paulo-bisol-morre-por-falencia-organica-multipla-aos-92-anos.shtml
+2021-06-26 18:22:13,220          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ex-senador-jose-paulo-bisol-morre-por-falencia-organica-multipla-aos-92-anos.shtml
+2021-06-26 18:22:13,420          root     INFO: Replying to: 1408853118507495429
+2021-06-26 18:22:13,662          root     INFO: Id to store: 1408853119304454147
+2021-06-26 18:22:20,877          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/bolsonaro-elimina-salles-para-abafar-cheiro-de-corrupcao-no-governo.shtml
+2021-06-26 18:22:20,883          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/yascha-mounk/2021/06/o-perigo-das-redes-sociais-ou-de-tentar-reforma-las.shtml
+2021-06-26 18:22:20,884          root     INFO: Finished script
