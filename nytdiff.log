@@ -1,6 +1,12 @@
-2021-06-26 10:58:09,201          root     INFO: Starting script
-2021-06-26 10:58:10,120          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-26 10:58:10,777          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-26 10:58:11,458          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-26 10:58:11,636          root     INFO: Parsing R7 - Brasil
-2021-06-26 10:58:20,114          root     INFO: Finished script
+2021-06-26 11:14:40,771          root     INFO: Starting script
+2021-06-26 11:14:41,584          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-26 11:14:42,240          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-26 11:14:42,894          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-26 11:14:43,070          root     INFO: Parsing R7 - Brasil
+2021-06-26 11:14:43,217          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/america-latina-e-caribe-da-decada-perdida-a-decada-da-esperanca.shtml
+2021-06-26 11:14:43,233          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/os-parabens-sao-para-sergio-vaz-mas-os-presentes.shtml
+2021-06-26 11:14:46,064          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/caboclo-aciona-cbf-para-revogar-suspensao-e-reassumir-imediatamente-a-presidencia-da-entidade.shtml
+2021-06-26 11:14:52,186          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/o-exercito-brasileiro-precisa-de-ajuda.shtml
+2021-06-26 11:14:52,191          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entenda-as-suspeitas-no-caso-covaxin-a-citacao-a-bolsonaro-e-possiveis-impactos-na-cpi-da-covid.shtml
+2021-06-26 11:14:52,196          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pedro-hallal/2021/06/uma-inveja-saudavel.shtml
+2021-06-26 11:14:52,197          root     INFO: Finished script
