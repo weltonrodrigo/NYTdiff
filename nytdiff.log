@@ -1,14 +1,17 @@
-2021-06-26 00:55:05,914          root     INFO: Starting script
-2021-06-26 00:55:06,722          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-26 00:55:07,377          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-26 00:55:08,038          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-26 00:55:08,216          root     INFO: Parsing R7 - Brasil
-2021-06-26 00:55:08,358          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2021/06/merda-em-boca.shtml
-2021-06-26 00:55:08,402          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/o-jornalismo-nao-e-um-crime-diz-biden-sobre-o-apple-daily.shtml
-2021-06-26 00:55:11,322          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/citado-em-cpi-servidor-nega-fala-sobre-propina-e-diz-que-coronel-do-exercito-o-procurou-para-tratar-de-vacina.shtml
-2021-06-26 00:55:11,338          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/servidor-reafirma-a-cpi-alerta-a-bolsonaro-sobre-pressao-por-vacina-e-diz-que-colega-citou-pedido-de-propina.shtml
-2021-06-26 00:55:17,730          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/queiroga-se-irrita-com-pergunta-sobre-covaxin-imita-bolsonaro-e-abandona-entrevista.shtml
-2021-06-26 00:55:17,736          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/mortes-de-pc-farias-e-suzana-marcolino-completam-25-anos-ainda-sem-respostas.shtml
-2021-06-26 00:55:17,741          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/nao-e-hora-de-escolher-vacina.shtml
-2021-06-26 00:55:17,746          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/geografia-da-fome-uma-nova-visao.shtml
-2021-06-26 00:55:17,747          root     INFO: Finished script
+2021-06-26 01:42:43,300          root     INFO: Starting script
+2021-06-26 01:42:44,242          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-26 01:42:45,017          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-26 01:42:45,791          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-26 01:42:46,060          root     INFO: Parsing R7 - Brasil
+2021-06-26 01:42:48,636          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/tapetao-por-tapetao-sou-mais-o-meu-diz-bolsonaro-apos-criticar-cpi-por-caso-covaxin.shtml
+2021-06-26 01:42:48,652          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/denuncia-sobre-covaxin-leva-centrao-para-dentro-da-cpi-da-covid.shtml
+2021-06-26 01:42:48,745          root     INFO: <del>Histeria governista prova que Covaxin entrou</del> <ins>Citação a líder do governo</ins> na <del>sala</del> <ins>CPI da Covid complica situação</ins> de Bolsonaro <del>para não sair</del>
+2021-06-26 01:42:50,501          root     INFO: Media ready with ids: 1408601615255355393
+2021-06-26 01:42:50,501          root     INFO: Text to tweet: Modificação do Título
+2021-06-26 01:42:50,502          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/histeria-governista-prova-que-covaxin-entrou-na-sala-de-bolsonaro-para-nao-sair.shtml
+2021-06-26 01:42:50,511          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/histeria-governista-prova-que-covaxin-entrou-na-sala-de-bolsonaro-para-nao-sair.shtml
+2021-06-26 01:42:50,785          root     INFO: Replying to: 1408601616958341124
+2021-06-26 01:42:51,064          root     INFO: Id to store: 1408601617906212870
+2021-06-26 01:42:56,266          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-convoca-facebook-twitter-e-google-para-explicar-posts-de-bolsonaro.shtml
+2021-06-26 01:42:56,270          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2021/06/leitor-da-folha-faz-desabafo-sobre-rotina-de-acompanhar-o-noticiario.shtml
+2021-06-26 01:42:56,271          root     INFO: Finished script
