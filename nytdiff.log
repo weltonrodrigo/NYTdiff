@@ -1,13 +1,7 @@
-2021-06-26 22:33:49,754          root     INFO: Starting script
-2021-06-26 22:33:50,567          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-26 22:33:51,225          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-26 22:33:51,889          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-26 22:33:52,082          root     INFO: Parsing R7 - Brasil
-2021-06-26 22:33:54,867          root     INFO: <del>CPI da Covid começou investigando vírus</del> <ins>Randolfe levará suspeita de prevaricação de Bolsonaro à PGR,</ins> e <ins>Renan diz que CPI</ins> chegou ao <del>câncer</del> <ins>'câncer</ins> da <del>corrupção, diz Renan</del> <ins>corrupção'</ins>
-2021-06-26 22:33:56,549          root     INFO: Media ready with ids: 1408916464988561411
-2021-06-26 22:33:56,549          root     INFO: Text to tweet: Modificação do Título
-2021-06-26 22:33:56,549          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-comecou-investigando-virus-e-chegou-ao-cancer-da-corrupcao-diz-renan.shtml
-2021-06-26 22:33:56,559          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-comecou-investigando-virus-e-chegou-ao-cancer-da-corrupcao-diz-renan.shtml
-2021-06-26 22:33:56,748          root     INFO: Replying to: 1408916466490036232
-2021-06-26 22:33:57,004          root     INFO: Id to store: 1408916467261792257
-2021-06-26 22:34:02,464          root     INFO: Finished script
+2021-06-26 22:47:12,680          root     INFO: Starting script
+2021-06-26 22:47:13,686          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-26 22:47:14,470          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-26 22:47:15,258          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-26 22:47:15,463          root     INFO: Parsing R7 - Brasil
+2021-06-26 22:47:18,325          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/apos-caso-covaxin-campanha-nacional-contra-bolsonaro-adianta-manifestacoes-para-3-de-julho.shtml
+2021-06-26 22:47:24,179          root     INFO: Finished script
