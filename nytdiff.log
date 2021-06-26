@@ -1,12 +1,8 @@
-2021-06-26 02:57:56,820          root     INFO: Starting script
-2021-06-26 02:57:57,641          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-26 02:57:58,302          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-26 02:57:58,969          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-26 02:57:59,145          root     INFO: Parsing R7 - Brasil
-2021-06-26 02:58:07,493          root     INFO: Removed http://noticias.r7.com/brasil/deputados-arrecadam-r-108-mil-para-fianca-de-daniel-silveira-25062021
-2021-06-26 02:58:07,499          root     INFO: Removed http://noticias.r7.com/brasil/servidor-da-saude-relata-a-cpi-pressao-por-compra-da-covaxin-25062021
-2021-06-26 02:58:07,505          root     INFO: Removed http://noticias.r7.com/brasil/pazuello-desabafou-sobre-boicote-a-vacina-nacional-diz-deputado-a-cpi-25062021
-2021-06-26 02:58:07,513          root     INFO: Removed http://noticias.r7.com/brasil/se-eu-assinasse-a-1-invoice-estaria-tratando-de-maneira-errada-25062021
-2021-06-26 02:58:07,518          root     INFO: Removed http://noticias.r7.com/brasil/petrobras-e-vendedora-unica-nos-leiloes-de-energia-a-4-e-a-5-25062021
-2021-06-26 02:58:07,522          root     INFO: Removed http://noticias.r7.com/brasil/barroso-suspende-a-conducao-coercitiva-do-wizard-na-cpi-25062021
-2021-06-26 02:58:07,523          root     INFO: Finished script
+2021-06-26 03:20:53,591          root     INFO: Starting script
+2021-06-26 03:20:54,758          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-26 03:20:55,539          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-26 03:20:56,325          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-26 03:21:11,353          root     INFO: Parsing R7 - Brasil
+2021-06-26 03:21:14,031          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/decisao-de-fachin-que-favoreceu-desembargador-do-rj-deve-travar-investigacoes-sobre-corrupcao-no-judiciario-fluminense.shtml
+2021-06-26 03:21:19,589          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/supremo-confirma-decisao-que-declarou-moro-parcial-em-caso-de-lula.shtml
+2021-06-26 03:21:19,589          root     INFO: Finished script
