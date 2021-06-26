@@ -1,6 +1,18 @@
-2021-06-26 15:58:43,995          root     INFO: Starting script
-2021-06-26 15:58:44,868          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-26 15:58:45,526          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-26 15:58:46,190          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-26 15:58:46,469          root     INFO: Parsing R7 - Brasil
-2021-06-26 15:58:56,143          root     INFO: Finished script
+2021-06-26 16:27:30,882          root     INFO: Starting script
+2021-06-26 16:27:31,670          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-26 16:27:32,322          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-26 16:27:32,969          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-26 16:27:33,251          root     INFO: Parsing R7 - Brasil
+2021-06-26 16:27:35,831          root     INFO: <ins>Sob pressão,</ins> Bolsonaro <ins>diz que CPI não ganhará no tapetão e</ins> repete rotina <del>pró-Covid, sem máscara e</del> <ins>pró-Covid</ins> com <del>aglomeração, durante</del> motociata <del>em SC</del>
+2021-06-26 16:27:37,465          root     INFO: Media ready with ids: 1408824278074728453
+2021-06-26 16:27:37,465          root     INFO: Text to tweet: Modificação do Título
+2021-06-26 16:27:37,465          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-repete-rotina-pro-covid-sem-mascara-e-com-aglomeracao-durante-motociata-em-sc.shtml
+2021-06-26 16:27:37,475          root     INFO: Replying to: 1408815623975677958
+2021-06-26 16:27:37,755          root     INFO: Id to store: 1408824279509184519
+2021-06-26 16:27:37,763          root     INFO: <del>O</del> <ins>Pressionado após ter sido levado ao centro das investigações da CPI da Covid no Congresso diante das denúncias de irregularidades na compra da Covaxin, o</ins> presidente Jair Bolsonaro <del>novamente promoveu aglomeração durante</del> <ins>(sem partido) atacou a comissão em nova</ins> motociata na manhã deste sábado (26) em Chapecó (SC), no oeste catarinense. <del>Ele não utilizava máscara de proteção contra o novo coronavírus.</del> Leia mais (06/26/2021 - 11h33)
+2021-06-26 16:27:39,683          root     INFO: Media ready with ids: 1408824286413000708
+2021-06-26 16:27:39,684          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-26 16:27:39,684          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-repete-rotina-pro-covid-sem-mascara-e-com-aglomeracao-durante-motociata-em-sc.shtml
+2021-06-26 16:27:39,693          root     INFO: Replying to: 1408824279509184519
+2021-06-26 16:27:39,931          root     INFO: Id to store: 1408824288707293184
+2021-06-26 16:27:45,101          root     INFO: Finished script
