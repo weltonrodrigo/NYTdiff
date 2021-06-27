@@ -1,8 +1,12 @@
-2021-06-27 23:18:36,068          root     INFO: Starting script
-2021-06-27 23:18:37,044          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-27 23:18:37,839          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-27 23:18:38,628          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-27 23:18:38,880          root     INFO: Parsing R7 - Brasil
-2021-06-27 23:18:47,769          root     INFO: New article tracked: http://noticias.r7.com/brasil/tomar-a-segunda-dose-de-vacina-pode-render-premio-no-maranhao-27062021
-2021-06-27 23:18:47,788          root     INFO: New article tracked: http://noticias.r7.com/brasil/anatel-diz-que-ja-atendeu-a-todos-pedidos-do-tcu-para-leilao-do-5g-27062021
-2021-06-27 23:18:48,329          root     INFO: Finished script
+2021-06-27 23:32:26,222          root     INFO: Starting script
+2021-06-27 23:32:27,394          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-27 23:32:28,083          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-27 23:32:28,782          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-27 23:32:29,053          root     INFO: Parsing R7 - Brasil
+2021-06-27 23:32:29,209          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/06/na-triste-cova-america-sem-neymar-brasil-joga-mal-contra-o-equador.shtml
+2021-06-27 23:32:32,678          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/alem-da-covaxin-cpi-da-covid-quer-investigar-negociacao-para-compra-de-vacina-chinesa.shtml
+2021-06-27 23:32:39,848          root     INFO: Removed http://noticias.r7.com/brasil/tomar-a-segunda-dose-de-vacina-pode-render-premio-no-maranhao-27062021
+2021-06-27 23:32:39,854          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/bolsonaro-elimina-salles-para-abafar-cheiro-de-corrupcao-no-governo.shtml
+2021-06-27 23:32:39,860          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/epidemiologista-afirma-a-cpi-da-covid-que-400-mil-mortes-poderiam-ter-sido-evitadas.shtml
+2021-06-27 23:32:39,868          root     INFO: Removed http://noticias.r7.com/brasil/anatel-diz-que-ja-atendeu-a-todos-pedidos-do-tcu-para-leilao-do-5g-27062021
+2021-06-27 23:32:39,868          root     INFO: Finished script
