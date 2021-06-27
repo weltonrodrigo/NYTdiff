@@ -1,8 +1,23 @@
-2021-06-27 01:03:49,972          root     INFO: Starting script
-2021-06-27 01:03:50,874          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-27 01:03:51,560          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-27 01:03:52,253          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-27 01:03:52,472          root     INFO: Parsing R7 - Brasil
-2021-06-27 01:03:55,866          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-da-covid-complica-a-situacao-de-bolsonaro.shtml
-2021-06-27 01:04:02,560          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2021/06/proposta-golpista.shtml
-2021-06-27 01:04:02,561          root     INFO: Finished script
+2021-06-27 02:07:03,093          root     INFO: Starting script
+2021-06-27 02:07:04,068          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-27 02:07:04,870          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-27 02:07:05,659          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-27 02:07:05,902          root     INFO: Parsing R7 - Brasil
+2021-06-27 02:07:06,058          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2021/06/continua-a-duvida-se-o-brasil-esta-tao-bem-assim-para-enfrentar-os-europeus.shtml
+2021-06-27 02:07:14,517          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-temos-uma-cpi-de-sete-pilantras-26062021
+2021-06-27 02:07:14,531          root     INFO: New article tracked: http://noticias.r7.com/brasil/pib-sobe-mas-indice-de-bem-estar-da-populacao-e-o-pior-desde-2002-26062021
+2021-06-27 02:07:14,544          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-miranda-tem-obrigacao-de-provar-acusacoes-26062021
+2021-06-27 02:07:14,558          root     INFO: New article tracked: http://noticias.r7.com/brasil/orcamento-secreto-e-inconstitucional-diz-analise-do-tcu-26062021
+2021-06-27 02:07:14,571          root     INFO: New article tracked: http://noticias.r7.com/brasil/quem-e-ricardo-barros-lider-do-governo-citado-em-rolo-da-covaxin-26062021
+2021-06-27 02:07:14,586          root     INFO: New article tracked: http://noticias.r7.com/brasil/covaxin-cpi-da-covid-avalia-levar-ao-stf-acusacao-contra-bolsonaro-26062021
+2021-06-27 02:07:14,599          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-promete-apresentar-provas-de-fraudes-nas-eleicoes-26062021
+2021-06-27 02:07:14,611          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-sobe-para-3-lugar-em-ranking-de-paises-que-mais-vacinam-26062021
+2021-06-27 02:07:14,624          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-leva-prefeito-de-chapeco-na-garupa-em-nova-motociata-26062021
+2021-06-27 02:07:14,638          root     INFO: New article tracked: http://noticias.r7.com/brasil/videos/bolsonaro-leva-prefeito-de-chapeco-na-garupa-em-motociata-26062021
+2021-06-27 02:07:14,651          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-2-lote-com-vacinas-da-johnson-doadas-pelos-eua-26062021
+2021-06-27 02:07:14,663          root     INFO: New article tracked: http://noticias.r7.com/brasil/entenda-os-principais-pontos-da-fala-dos-irmaos-miranda-a-cpi-26062021
+2021-06-27 02:07:14,757          root     INFO: New article tracked: http://noticias.r7.com/brasil/ricardo-barros-se-defende-de-denuncia-por-compra-da-covaxin-26062021
+2021-06-27 02:07:14,772          root     INFO: New article tracked: http://noticias.r7.com/brasil/ricardo-barros-e-o-parlamentar-citado-por-bolsonaro-diz-miranda-26062021
+2021-06-27 02:07:14,811          root     INFO: New article tracked: http://noticias.r7.com/brasil/frederick-wassef-causa-tumulto-ao-tentar-entrar-sem-mascara-na-cpi-26062021
+2021-06-27 02:07:14,856          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/06/recursos-do-plano-safra-serao-de-r-251-bilhoes-com-aumento-de-63.shtml
+2021-06-27 02:07:14,856          root     INFO: Finished script
