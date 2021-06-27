@@ -1,19 +1,18 @@
-2021-06-27 03:37:27,477          root     INFO: Starting script
-2021-06-27 03:37:28,321          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-27 03:37:29,005          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-27 03:37:29,698          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-27 03:37:29,928          root     INFO: Parsing R7 - Brasil
-2021-06-27 03:37:33,271          root     INFO: Ricardo Salles é suplente na Câmara e <del>assume</del> <ins>pode assumir</ins> mandato <del>se qualquer</del> <ins>em caso de afastamento de</ins> deputado do Novo <del>se afastar</del>
-2021-06-27 03:37:34,908          root     INFO: Media ready with ids: 1408992878408437764
-2021-06-27 03:37:34,908          root     INFO: Text to tweet: Modificação do Título
-2021-06-27 03:37:34,908          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ricardo-salles-e-suplente-na-camara-e-assume-mandato-se-qualquer-deputado-do-novo-se-afastar.shtml
-2021-06-27 03:37:34,920          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ricardo-salles-e-suplente-na-camara-e-assume-mandato-se-qualquer-deputado-do-novo-se-afastar.shtml
-2021-06-27 03:37:35,122          root     INFO: Replying to: 1408992879842893830
-2021-06-27 03:37:35,365          root     INFO: Id to store: 1408992880677605377
-2021-06-27 03:37:35,373          root     INFO: Ex-ministro do Meio Ambiente, Ricardo Salles pode não ficar muito tempo longe da vida política. Ele é primeiro suplente de deputado <del>federal,</del> <ins>federal por São Paulo,</ins> posição que conseguiu ao disputar as eleições de 2018 pelo Novo. Leia mais (06/26/2021 - 23h15)
-2021-06-27 03:37:37,074          root     INFO: Media ready with ids: 1408992887413616640
-2021-06-27 03:37:37,074          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-27 03:37:37,074          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ricardo-salles-e-suplente-na-camara-e-assume-mandato-se-qualquer-deputado-do-novo-se-afastar.shtml
-2021-06-27 03:37:37,086          root     INFO: Replying to: 1408992880677605377
-2021-06-27 03:37:37,290          root     INFO: Id to store: 1408992888776691714
-2021-06-27 03:37:44,074          root     INFO: Finished script
+2021-06-27 03:49:52,000          root     INFO: Starting script
+2021-06-27 03:49:52,852          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-27 03:49:53,528          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-27 03:49:54,218          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-27 03:49:54,365          root     INFO: Parsing R7 - Brasil
+2021-06-27 03:49:57,734          root     INFO: <del>Ricardo</del> Salles é suplente na Câmara e <del>assume</del> <ins>pode assumir</ins> mandato <del>se qualquer</del> <ins>em caso de afastamento de</ins> deputado do Novo <del>se afastar</del>
+2021-06-27 03:49:59,484          root     INFO: Media ready with ids: 1408996001298460676
+2021-06-27 03:49:59,485          root     INFO: Text to tweet: Modificação do Título
+2021-06-27 03:49:59,485          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ricardo-salles-e-suplente-na-camara-e-assume-mandato-se-qualquer-deputado-do-novo-se-afastar.shtml
+2021-06-27 03:49:59,496          root     INFO: Replying to: 1408992888776691714
+2021-06-27 03:49:59,705          root     INFO: Id to store: 1408996002716131331
+2021-06-27 03:49:59,714          root     INFO: Ex-ministro do Meio Ambiente, Ricardo Salles pode não ficar muito tempo longe da vida política. Ele é primeiro suplente de deputado <del>federal,</del> <ins>federal por São Paulo,</ins> posição que conseguiu ao disputar as eleições de 2018 pelo Novo. Leia mais (06/26/2021 - 23h15)
+2021-06-27 03:50:01,401          root     INFO: Media ready with ids: 1408996009368330240
+2021-06-27 03:50:01,401          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-27 03:50:01,401          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ricardo-salles-e-suplente-na-camara-e-assume-mandato-se-qualquer-deputado-do-novo-se-afastar.shtml
+2021-06-27 03:50:01,414          root     INFO: Replying to: 1408996002716131331
+2021-06-27 03:50:01,621          root     INFO: Id to store: 1408996010735570945
+2021-06-27 03:50:08,169          root     INFO: Finished script
