@@ -1,6 +1,21 @@
-2021-06-27 14:15:58,344          root     INFO: Starting script
-2021-06-27 14:15:59,312          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-27 14:16:00,096          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-27 14:16:00,883          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-27 14:16:01,115          root     INFO: Parsing R7 - Brasil
-2021-06-27 14:16:10,315          root     INFO: Finished script
+2021-06-27 14:26:26,354          root     INFO: Starting script
+2021-06-27 14:26:27,165          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-27 14:26:27,885          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-27 14:26:28,562          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-27 14:26:28,789          root     INFO: Parsing R7 - Brasil
+2021-06-27 14:26:28,986          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/polarizacao-o-que-ha-de-novo.shtml
+2021-06-27 14:26:29,067          root     INFO: <del>Ricos</del> <ins>Ricos, pobres, impostos</ins> e <del>pobres</del> <ins>pixulecos</ins> na queda de Bolsonaro
+2021-06-27 14:26:30,768          root     INFO: Media ready with ids: 1409156187308924928
+2021-06-27 14:26:30,768          root     INFO: Text to tweet: Modificação do Título
+2021-06-27 14:26:30,768          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/ricos-e-pobres-na-queda-de-bolsonaro.shtml
+2021-06-27 14:26:30,780          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/ricos-e-pobres-na-queda-de-bolsonaro.shtml
+2021-06-27 14:26:30,994          root     INFO: Replying to: 1409156188789428224
+2021-06-27 14:26:31,270          root     INFO: Id to store: 1409156189724815363
+2021-06-27 14:26:31,279          root     INFO: O plano de mudança do Imposto de Renda de Jair Bolsonaro não pegou nada bem entre ricos, financistas, tributaristas variados e entre a classe média-rica que já se deu conta do que se passa. Para ser justo, reforma tributária quase alguma faz sucesso de público, pois ainda se está para ver mudança quediminua imposto em regra, em geral. Leia mais (06/27/2021 - 08h09)
+2021-06-27 14:26:33,006          root     INFO: Media ready with ids: 1409156196595126272
+2021-06-27 14:26:33,008          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-27 14:26:33,008          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/ricos-e-pobres-na-queda-de-bolsonaro.shtml
+2021-06-27 14:26:33,020          root     INFO: Replying to: 1409156189724815363
+2021-06-27 14:26:33,286          root     INFO: Id to store: 1409156198067277826
+2021-06-27 14:26:42,055          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/06/invasao-do-congresso-dos-eua-deve-servir-como-alarme-ao-brasil.shtml
+2021-06-27 14:26:42,056          root     INFO: Finished script
