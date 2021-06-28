@@ -1,8 +1,10 @@
-2021-06-28 02:59:16,748          root     INFO: Starting script
-2021-06-28 02:59:17,715          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-28 02:59:18,502          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-28 02:59:19,290          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-28 02:59:19,510          root     INFO: Parsing R7 - Brasil
-2021-06-28 02:59:27,552          root     INFO: New article tracked: http://noticias.r7.com/brasil/empresas-estrangeiras-retomam-planos-de-investir-no-brasil-27062021
-2021-06-28 02:59:27,570          root     INFO: New article tracked: http://noticias.r7.com/brasil/escolas-fechadas-prejudicam-retorno-das-mulheres-ao-trabalho-27062021
-2021-06-28 02:59:28,034          root     INFO: Finished script
+2021-06-28 03:21:14,768          root     INFO: Starting script
+2021-06-28 03:21:15,657          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-28 03:21:16,344          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-28 03:21:17,019          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-28 03:21:17,141          root     INFO: Parsing R7 - Brasil
+2021-06-28 03:21:17,301          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2021/06/se-ainda-existe-amor-em-sao-paulo-porque-so-a-paulista-aberta-esta-fechada.shtml
+2021-06-28 03:21:27,254          root     INFO: Removed http://noticias.r7.com/brasil/empresas-estrangeiras-retomam-planos-de-investir-no-brasil-27062021
+2021-06-28 03:21:27,261          root     INFO: Removed http://noticias.r7.com/brasil/escolas-fechadas-prejudicam-retorno-das-mulheres-ao-trabalho-27062021
+2021-06-28 03:21:27,267          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/perifaconnection/2021/06/como-lgbts-no-brasil-devemos-nos-levantar-contra-a-opressao-como-marsha-e-sylvia-em-stonewall.shtml
+2021-06-28 03:21:27,268          root     INFO: Finished script
