@@ -1,13 +1,18 @@
-2021-06-27 23:58:09,162          root     INFO: Starting script
-2021-06-27 23:58:10,051          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-27 23:58:10,733          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-27 23:58:11,414          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-27 23:58:11,608          root     INFO: Parsing R7 - Brasil
-2021-06-27 23:58:15,087          root     INFO: Integrantes da CPI da Covid querem apurar uma negociação envolvendo a vacina chinesa Convidecia e o Ministério da Saúde. A empresa Belcher Farmacêutica, com sede em Maringá (PR), atuou como representante <ins>no Brasil</ins> do laboratório CanSino Biologics no <del>Brasil.</del> <ins>Brasil, responsável pela vacina.</ins> Leia mais (06/27/2021 - 20h16)
-2021-06-27 23:58:16,921          root     INFO: Media ready with ids: 1409300077483540485
-2021-06-27 23:58:16,921          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-27 23:58:16,922          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/alem-da-covaxin-cpi-da-covid-quer-investigar-negociacao-para-compra-de-vacina-chinesa.shtml
-2021-06-27 23:58:16,936          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/alem-da-covaxin-cpi-da-covid-quer-investigar-negociacao-para-compra-de-vacina-chinesa.shtml
-2021-06-27 23:58:17,142          root     INFO: Replying to: 1409300079123574785
-2021-06-27 23:58:17,409          root     INFO: Id to store: 1409300079970762752
-2021-06-27 23:58:24,725          root     INFO: Finished script
+2021-06-28 00:58:36,522          root     INFO: Starting script
+2021-06-28 00:58:37,376          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-28 00:58:38,031          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-28 00:58:38,689          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-28 00:58:38,991          root     INFO: Parsing R7 - Brasil
+2021-06-28 00:58:41,950          root     INFO: Além da Covaxin, CPI da Covid quer investigar negociação para compra de vacina chinesa <ins>da CanSino</ins>
+2021-06-28 00:58:43,672          root     INFO: Media ready with ids: 1409315289351790595
+2021-06-28 00:58:43,673          root     INFO: Text to tweet: Modificação do Título
+2021-06-28 00:58:43,673          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/alem-da-covaxin-cpi-da-covid-quer-investigar-negociacao-para-compra-de-vacina-chinesa.shtml
+2021-06-28 00:58:43,684          root     INFO: Replying to: 1409300079970762752
+2021-06-28 00:58:43,952          root     INFO: Id to store: 1409315290916212737
+2021-06-28 00:58:43,960          root     INFO: Integrantes da CPI da Covid querem apurar uma negociação envolvendo a vacina chinesa Convidecia e o Ministério da Saúde. A empresa Belcher Farmacêutica, com sede em Maringá (PR), atuou como representante <ins>no Brasil</ins> do laboratório CanSino Biologics no <del>Brasil.</del> <ins>Brasil, responsável pelo imunizante.</ins> Leia mais (06/27/2021 - 20h16)
+2021-06-28 00:58:45,704          root     INFO: Media ready with ids: 1409315297778192386
+2021-06-28 00:58:45,704          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-28 00:58:45,704          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/alem-da-covaxin-cpi-da-covid-quer-investigar-negociacao-para-compra-de-vacina-chinesa.shtml
+2021-06-28 00:58:45,714          root     INFO: Replying to: 1409315290916212737
+2021-06-28 00:58:45,953          root     INFO: Id to store: 1409315299300679681
+2021-06-28 00:58:51,788          root     INFO: Finished script
