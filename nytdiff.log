@@ -1,10 +1,8 @@
-2021-06-28 14:47:30,861          root     INFO: Starting script
-2021-06-28 14:47:31,716          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-28 14:47:32,358          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-28 14:47:33,003          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-28 14:47:33,216          root     INFO: Parsing R7 - Brasil
-2021-06-28 14:47:33,711          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joao-wainer/2021/06/aos-80-eduardo-suplicy-e-um-tipo-de-politico-raro-com-vocacao-para-o-servico-publico.shtml
-2021-06-28 14:47:36,342          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4650
-2021-06-28 14:47:42,075          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ricardomelo/2021/06/boiada-levou-salles-junto.shtml
-2021-06-28 14:47:42,080          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/lula-e-dilma-se-unem-a-ex-presidentes-e-pedem-confirmacao-da-vitoria-de-castillo-no-peru.shtml
-2021-06-28 14:47:42,081          root     INFO: Finished script
+2021-06-28 14:58:15,130          root     INFO: Starting script
+2021-06-28 14:58:15,971          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-28 14:58:16,666          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-28 14:58:17,350          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-28 14:58:17,534          root     INFO: Parsing R7 - Brasil
+2021-06-28 14:58:20,736          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/nao-tenho-como-saber-o-que-acontece-nos-ministerios-diz-bolsonaro-sobre-caso-covaxin.shtml
+2021-06-28 14:58:27,178          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/fazendeiro-e-condenado-de-novo-por-morte-de-sem-terra-no-parana-mas-seguira-solto-23-anos-apos-o-crime.shtml
+2021-06-28 14:58:27,178          root     INFO: Finished script
