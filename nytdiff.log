@@ -1,22 +1,18 @@
-2021-06-29 17:48:48,515          root     INFO: Starting script
-2021-06-29 17:48:49,301          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-29 17:48:49,938          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-29 17:48:50,577          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-29 17:48:50,784          root     INFO: Parsing R7 - Brasil
-2021-06-29 17:48:53,513          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/cento-e-sessenta-e-quatro-organizacoes-assinam-carta-a-lira-contra-projeto-que-dificulta-demarcacao-de-terras-indigenas.shtml
-2021-06-29 17:48:53,524          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/projeto-que-dificulta-demarcacao-de-terras-indigenas-avanca-na-camara.shtml
-2021-06-29 17:48:58,594          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-mantem-pp-na-chefia-de-area-que-compra-vacinas-29062021
-2021-06-29 17:48:58,604          root     INFO: New article tracked: http://noticias.r7.com/brasil/covaxin-lider-do-governo-diz-que-ex-numero-2-da-saude-apurou-caso-29062021
-2021-06-29 17:48:58,614          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-diz-que-houve-negacao-da-necessidade-do-lockdown-no-am-29062021
-2021-06-29 17:48:58,626          root     INFO: New article tracked: http://noticias.r7.com/brasil/nao-paguei-um-centavo-diz-bolsonaro-sobre-covaxin-29062021
-2021-06-29 17:48:58,638          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-estuda-reduzir-aliquota-de-ir-de-empresa-para-10-ja-em-2022-29062021
-2021-06-29 17:48:58,649          root     INFO: New article tracked: http://noticias.r7.com/brasil/rosa-weber-encaminha-a-pgr-noticia-crime-contra-bolsonaro-29062021
-2021-06-29 17:48:58,660          root     INFO: New article tracked: http://noticias.r7.com/brasil/depoente-da-cpi-da-covid-diz-que-queria-indiciar-senador-omar-aziz-29062021
-2021-06-29 17:48:58,670          root     INFO: New article tracked: http://noticias.r7.com/brasil/grandes-consumidores-de-energia-defendem-medidas-para-conter-crise-29062021
-2021-06-29 17:48:58,680          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-relator-de-investigacao-no-amazonas-assista-29062021
-2021-06-29 17:48:58,690          root     INFO: New article tracked: http://noticias.r7.com/brasil/policia-federal-mira-contratos-de-ti-assinados-por-empresas-publicas-29062021
-2021-06-29 17:48:58,701          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-inclui-mais-tres-florestas-nacionais-em-plano-de-privatizacao-29062021
-2021-06-29 17:48:58,712          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-suspende-permissao-de-queimada-controlada-por-4-meses-29062021
-2021-06-29 17:48:58,916          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/marcha-de-19-de-junho-bolsonaro-perde-tambem-nas-midias-sociais.shtml
-2021-06-29 17:48:58,922          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/cpi-pode-se-perder-se-buscar-atalho-na-investigacao-da-covaxin.shtml
-2021-06-29 17:48:58,923          root     INFO: Finished script
+2021-06-29 17:58:03,712          root     INFO: Starting script
+2021-06-29 17:58:04,665          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-29 17:58:05,441          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-29 17:58:06,222          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-29 17:58:06,457          root     INFO: Parsing R7 - Brasil
+2021-06-29 17:58:15,229          root     INFO: Removed http://noticias.r7.com/brasil/rosa-weber-encaminha-a-pgr-noticia-crime-contra-bolsonaro-29062021
+2021-06-29 17:58:15,236          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-relator-de-investigacao-no-amazonas-assista-29062021
+2021-06-29 17:58:15,242          root     INFO: Removed http://noticias.r7.com/brasil/deputado-diz-que-houve-negacao-da-necessidade-do-lockdown-no-am-29062021
+2021-06-29 17:58:15,248          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-mantem-pp-na-chefia-de-area-que-compra-vacinas-29062021
+2021-06-29 17:58:15,253          root     INFO: Removed http://noticias.r7.com/brasil/nao-paguei-um-centavo-diz-bolsonaro-sobre-covaxin-29062021
+2021-06-29 17:58:15,260          root     INFO: Removed http://noticias.r7.com/brasil/depoente-da-cpi-da-covid-diz-que-queria-indiciar-senador-omar-aziz-29062021
+2021-06-29 17:58:15,265          root     INFO: Removed http://noticias.r7.com/brasil/covaxin-lider-do-governo-diz-que-ex-numero-2-da-saude-apurou-caso-29062021
+2021-06-29 17:58:15,272          root     INFO: Removed http://noticias.r7.com/brasil/grandes-consumidores-de-energia-defendem-medidas-para-conter-crise-29062021
+2021-06-29 17:58:15,278          root     INFO: Removed http://noticias.r7.com/brasil/governo-inclui-mais-tres-florestas-nacionais-em-plano-de-privatizacao-29062021
+2021-06-29 17:58:15,283          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-suspende-permissao-de-queimada-controlada-por-4-meses-29062021
+2021-06-29 17:58:15,288          root     INFO: Removed http://noticias.r7.com/brasil/governo-estuda-reduzir-aliquota-de-ir-de-empresa-para-10-ja-em-2022-29062021
+2021-06-29 17:58:15,294          root     INFO: Removed http://noticias.r7.com/brasil/policia-federal-mira-contratos-de-ti-assinados-por-empresas-publicas-29062021
+2021-06-29 17:58:15,294          root     INFO: Finished script
