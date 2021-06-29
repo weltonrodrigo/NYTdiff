@@ -1,6 +1,13 @@
-2021-06-29 22:34:19,792          root     INFO: Starting script
-2021-06-29 22:34:20,930          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-29 22:34:21,604          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-29 22:34:22,302          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-29 22:34:22,521          root     INFO: Parsing R7 - Brasil
-2021-06-29 22:34:31,821          root     INFO: Finished script
+2021-06-29 22:48:43,480          root     INFO: Starting script
+2021-06-29 22:48:44,359          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-29 22:48:45,019          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-29 22:48:45,684          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-29 22:48:45,859          root     INFO: Parsing R7 - Brasil
+2021-06-29 22:48:46,106          root     INFO: O telejornal <del>noturno</del> da estatal CCTV, principal rede chinesa, dedicou 19 minutos ao espetáculo "A Grande Jornada" na noite de segunda (28), no Ninho de Pássaro, em Pequim. Pode ser visto na principal plataforma chinesa de vídeos longos, Bilibili, e já no YouTube (abaixo). Leia mais (06/29/2021 - 17h40)
+2021-06-29 22:48:47,841          root     INFO: Media ready with ids: 1410007366733606916
+2021-06-29 22:48:47,842          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-29 22:48:47,842          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/china-abre-comemoracao-com-espetaculo-unindo-mao-deng-e-xi.shtml
+2021-06-29 22:48:47,853          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/china-abre-comemoracao-com-espetaculo-unindo-mao-deng-e-xi.shtml
+2021-06-29 22:48:48,019          root     INFO: Replying to: 1410007368348352514
+2021-06-29 22:48:48,233          root     INFO: Id to store: 1410007368994336776
+2021-06-29 22:48:55,641          root     INFO: Finished script
