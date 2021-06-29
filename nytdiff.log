@@ -1,13 +1,23 @@
-2021-06-29 22:48:43,480          root     INFO: Starting script
-2021-06-29 22:48:44,359          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-29 22:48:45,019          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-29 22:48:45,684          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-29 22:48:45,859          root     INFO: Parsing R7 - Brasil
-2021-06-29 22:48:46,106          root     INFO: O telejornal <del>noturno</del> da estatal CCTV, principal rede chinesa, dedicou 19 minutos ao espetáculo "A Grande Jornada" na noite de segunda (28), no Ninho de Pássaro, em Pequim. Pode ser visto na principal plataforma chinesa de vídeos longos, Bilibili, e já no YouTube (abaixo). Leia mais (06/29/2021 - 17h40)
-2021-06-29 22:48:47,841          root     INFO: Media ready with ids: 1410007366733606916
-2021-06-29 22:48:47,842          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-29 22:48:47,842          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/china-abre-comemoracao-com-espetaculo-unindo-mao-deng-e-xi.shtml
-2021-06-29 22:48:47,853          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/china-abre-comemoracao-com-espetaculo-unindo-mao-deng-e-xi.shtml
-2021-06-29 22:48:48,019          root     INFO: Replying to: 1410007368348352514
-2021-06-29 22:48:48,233          root     INFO: Id to store: 1410007368994336776
-2021-06-29 22:48:55,641          root     INFO: Finished script
+2021-06-29 22:58:16,888          root     INFO: Starting script
+2021-06-29 22:58:17,725          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-29 22:58:18,367          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-29 22:58:19,011          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-29 22:58:19,314          root     INFO: Parsing R7 - Brasil
+2021-06-29 22:58:27,994          root     INFO: New article tracked: http://noticias.r7.com/brasil/nunes-marques-e-eleito-presidente-da-segunda-turma-do-stf-29062021
+2021-06-29 22:58:28,010          root     INFO: New article tracked: http://noticias.r7.com/brasil/pacheco-pedido-para-prorrogar-cpi-so-sera-analisado-ao-fim-de-90-dias-29062021
+2021-06-29 22:58:28,052          root     INFO: New article tracked: http://noticias.r7.com/brasil/caso-covaxin-ministro-pede-para-chefe-da-pf-abrir-inquerito-29062021
+2021-06-29 22:58:28,067          root     INFO: New article tracked: http://noticias.r7.com/brasil/massa-de-ar-polar-provoca-frio-intenso-durante-a-semana-no-pais-29062021
+2021-06-29 22:58:28,079          root     INFO: New article tracked: http://noticias.r7.com/brasil/agora-virou-judicial-afirma-arthur-lira-sobre-cpi-da-covid-29062021
+2021-06-29 22:58:28,091          root     INFO: New article tracked: http://noticias.r7.com/brasil/terapia-usada-por-paulo-gustavo-nao-sera-incorporada-ao-sus-29062021
+2021-06-29 22:58:28,102          root     INFO: New article tracked: http://noticias.r7.com/brasil/bndes-abre-hoje-inscricoes-para-o-premio-de-dados-abertos-29062021
+2021-06-29 22:58:28,114          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-envia-para-justica-eleitoral-processo-sobre-ex-governador-de-minas-29062021
+2021-06-29 22:58:28,126          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-vai-suspender-compra-da-vacina-covaxin-alvo-de-investigacao-29062021
+2021-06-29 22:58:28,137          root     INFO: New article tracked: http://noticias.r7.com/brasil/tenho-conviccao-que-wilson-lima-sabia-de-tudo-diz-deputado-a-cpi-29062021
+2021-06-29 22:58:28,149          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-de-etica-aprova-2-meses-de-suspensao-a-daniel-silveira-29062021
+2021-06-29 22:58:28,164          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-convite-para-queiroga-e-onyx-sobre-covaxin-29062021
+2021-06-29 22:58:28,176          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-19-estado-de-sp-pode-antecipar-calendario-de-vacinacao-29062021
+2021-06-29 22:58:28,188          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-caso-lazaro-e-a-fantasia-progressista-29062021
+2021-06-29 22:58:28,202          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-autoriza-volta-de-militares-a-amazonia-por-2-meses-29062021
+2021-06-29 22:58:28,214          root     INFO: New article tracked: http://noticias.r7.com/brasil/ccj-conclui-votacao-sobre-demarcacao-de-terras-indigenas-29062021
+2021-06-29 22:58:28,228          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-estadual-e-omar-aziz-trocam-acusacoes-na-cpi-da-covid-29062021
+2021-06-29 22:58:28,321          root     INFO: Finished script
