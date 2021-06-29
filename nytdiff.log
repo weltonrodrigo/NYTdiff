@@ -1,18 +1,22 @@
-2021-06-29 10:20:28,331          root     INFO: Starting script
-2021-06-29 10:20:29,354          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-29 10:20:30,135          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-29 10:20:30,925          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-29 10:20:31,176          root     INFO: Parsing R7 - Brasil
-2021-06-29 10:20:31,324          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pedro-hallal/2021/06/a-luana-e-o-pedro-antes-e-depois-da-cpi.shtml
-2021-06-29 10:20:34,040          root     INFO: Advogado de Ricardo Barros trabalhou para chineses da CanSino em negociação com governo <del>Bolsonaro</del> alvo da CPI da Covid
-2021-06-29 10:20:35,805          root     INFO: Media ready with ids: 1409819076126466051
-2021-06-29 10:20:35,805          root     INFO: Text to tweet: Modificação do Título
-2021-06-29 10:20:35,805          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/advogado-de-ricardo-barros-trabalhou-para-chineses-da-cansino-em-negociacao-com-governo-bolsonaro-alvo-da-cpi-da-covid.shtml
-2021-06-29 10:20:35,815          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/advogado-de-ricardo-barros-trabalhou-para-chineses-da-cansino-em-negociacao-com-governo-bolsonaro-alvo-da-cpi-da-covid.shtml
-2021-06-29 10:20:36,108          root     INFO: Replying to: 1409819077972013061
-2021-06-29 10:20:36,415          root     INFO: Id to store: 1409819078949322756
-2021-06-29 10:20:41,334          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-libera-r-43-milhoes-para-custear-3-mil-leitos-de-covid-19-29062021
-2021-06-29 10:20:41,345          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-relator-da-cpi-da-saude-do-amazonas-nesta-terca-29062021
-2021-06-29 10:20:41,356          root     INFO: New article tracked: http://noticias.r7.com/brasil/pais-recebe-hoje-5288-mil-doses-da-pfizer-e-1-milhao-da-coronavac-29062021
-2021-06-29 10:20:41,809          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/aras-pode-se-tornar-socio-do-golpismo-de-bolsonaro-na-eleicao.shtml
-2021-06-29 10:20:41,810          root     INFO: Finished script
+2021-06-29 10:36:44,036          root     INFO: Starting script
+2021-06-29 10:36:45,093          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-29 10:36:45,734          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-29 10:36:46,379          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-29 10:36:46,581          root     INFO: Parsing R7 - Brasil
+2021-06-29 10:36:49,548          root     INFO: CPI quer investigar compra de testes de Covid e fechar o cerco a <ins>Ricardo</ins> Barros, líder do governo Bolsonaro
+2021-06-29 10:36:51,206          root     INFO: Media ready with ids: 1409823167380705280
+2021-06-29 10:36:51,207          root     INFO: Text to tweet: Modificação do Título
+2021-06-29 10:36:51,207          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-quer-investigar-compra-de-testes-de-covid-e-fechar-o-cerco-a-barros-lider-do-governo-bolsonaro.shtml
+2021-06-29 10:36:51,217          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-quer-investigar-compra-de-testes-de-covid-e-fechar-o-cerco-a-barros-lider-do-governo-bolsonaro.shtml
+2021-06-29 10:36:51,466          root     INFO: Replying to: 1409823168865345538
+2021-06-29 10:36:51,695          root     INFO: Id to store: 1409823169737863170
+2021-06-29 10:36:51,703          root     INFO: Na semana seguinte à apresentação de documentos e depoimentos que levaram suspeitas de corrupção para perto do Palácio do Planalto, a CPI <del>da Covid</del> <ins>do Senado</ins> pretende se aprofundar na investigação de irregularidades na compra de testes de <del>Covid-19,</del> <ins>Covid,</ins> além de buscar <del>com</del> novos convocados e quebras de sigilo <ins>para</ins> fechar o cerco ao grupo ligado ao deputado Ricardo Barros (PP-PR), líder do governo Bolsonaro na Câmara. Leia mais (06/28/2021 - 23h15)
+2021-06-29 10:36:53,390          root     INFO: Media ready with ids: 1409823176285208578
+2021-06-29 10:36:53,391          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-29 10:36:53,391          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-quer-investigar-compra-de-testes-de-covid-e-fechar-o-cerco-a-barros-lider-do-governo-bolsonaro.shtml
+2021-06-29 10:36:53,404          root     INFO: Replying to: 1409823169737863170
+2021-06-29 10:36:53,758          root     INFO: Id to store: 1409823177987870728
+2021-06-29 10:36:59,269          root     INFO: Removed http://noticias.r7.com/brasil/governo-libera-r-43-milhoes-para-custear-3-mil-leitos-de-covid-19-29062021
+2021-06-29 10:36:59,274          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-relator-da-cpi-da-saude-do-amazonas-nesta-terca-29062021
+2021-06-29 10:36:59,279          root     INFO: Removed http://noticias.r7.com/brasil/pais-recebe-hoje-5288-mil-doses-da-pfizer-e-1-milhao-da-coronavac-29062021
+2021-06-29 10:36:59,280          root     INFO: Finished script
