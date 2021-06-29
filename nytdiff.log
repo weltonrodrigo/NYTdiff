@@ -1,30 +1,14 @@
-2021-06-29 23:18:25,182          root     INFO: Starting script
-2021-06-29 23:18:26,178          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-29 23:18:26,997          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-29 23:18:27,826          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-29 23:18:28,059          root     INFO: Parsing R7 - Brasil
-2021-06-29 23:18:28,674          root     INFO: As suspeitas na negociação da compra da Covaxin levaram à CPI da Covid um novelo com uma variedade de pontas soltas. A comissão precisará de técnica investigativa para desatar esse emaranhado. <del>O vice-presidente da comissão, senador Randolfe Rodrigues (Rede-AP), disse haver indícios fortes de corrupção. Não basta. Há que encontrar elementos para sustentar ou refutar a tese de que havia interesse em desviar dinheiro e beneficiar agentes públicos e privados na importação da vacina indiana.</del> Leia mais (06/28/2021 - 23h15)
-2021-06-29 23:18:30,544          root     INFO: Media ready with ids: 1410014843864817665
-2021-06-29 23:18:30,544          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-29 23:18:30,545          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/o-novelo-da-covaxin.shtml
-2021-06-29 23:18:30,555          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/o-novelo-da-covaxin.shtml
-2021-06-29 23:18:30,839          root     INFO: Replying to: 1410014846003855362
-2021-06-29 23:18:31,116          root     INFO: Id to store: 1410014846943481857
-2021-06-29 23:18:39,571          root     INFO: Removed http://noticias.r7.com/brasil/nunes-marques-e-eleito-presidente-da-segunda-turma-do-stf-29062021
-2021-06-29 23:18:39,576          root     INFO: Removed http://noticias.r7.com/brasil/caso-covaxin-ministro-pede-para-chefe-da-pf-abrir-inquerito-29062021
-2021-06-29 23:18:39,581          root     INFO: Removed http://noticias.r7.com/brasil/stf-envia-para-justica-eleitoral-processo-sobre-ex-governador-de-minas-29062021
-2021-06-29 23:18:39,589          root     INFO: Removed http://noticias.r7.com/brasil/pacheco-pedido-para-prorrogar-cpi-so-sera-analisado-ao-fim-de-90-dias-29062021
-2021-06-29 23:18:39,595          root     INFO: Removed http://noticias.r7.com/brasil/conselho-de-etica-aprova-2-meses-de-suspensao-a-daniel-silveira-29062021
-2021-06-29 23:18:39,600          root     INFO: Removed http://noticias.r7.com/brasil/bndes-abre-hoje-inscricoes-para-o-premio-de-dados-abertos-29062021
-2021-06-29 23:18:39,606          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-convite-para-queiroga-e-onyx-sobre-covaxin-29062021
-2021-06-29 23:18:39,615          root     INFO: Removed http://noticias.r7.com/brasil/ccj-conclui-votacao-sobre-demarcacao-de-terras-indigenas-29062021
-2021-06-29 23:18:39,622          root     INFO: Removed http://noticias.r7.com/brasil/terapia-usada-por-paulo-gustavo-nao-sera-incorporada-ao-sus-29062021
-2021-06-29 23:18:39,627          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-vai-suspender-compra-da-vacina-covaxin-alvo-de-investigacao-29062021
-2021-06-29 23:18:39,634          root     INFO: Removed http://noticias.r7.com/brasil/tenho-conviccao-que-wilson-lima-sabia-de-tudo-diz-deputado-a-cpi-29062021
-2021-06-29 23:18:39,640          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-autoriza-volta-de-militares-a-amazonia-por-2-meses-29062021
-2021-06-29 23:18:39,646          root     INFO: Removed http://noticias.r7.com/brasil/agora-virou-judicial-afirma-arthur-lira-sobre-cpi-da-covid-29062021
-2021-06-29 23:18:39,651          root     INFO: Removed http://noticias.r7.com/brasil/covid-19-estado-de-sp-pode-antecipar-calendario-de-vacinacao-29062021
-2021-06-29 23:18:39,657          root     INFO: Removed http://noticias.r7.com/brasil/deputado-estadual-e-omar-aziz-trocam-acusacoes-na-cpi-da-covid-29062021
-2021-06-29 23:18:39,663          root     INFO: Removed http://noticias.r7.com/brasil/massa-de-ar-polar-provoca-frio-intenso-durante-a-semana-no-pais-29062021
-2021-06-29 23:18:39,669          root     INFO: Removed http://noticias.r7.com/brasil/analise-caso-lazaro-e-a-fantasia-progressista-29062021
-2021-06-29 23:18:39,670          root     INFO: Finished script
+2021-06-29 23:32:30,580          root     INFO: Starting script
+2021-06-29 23:32:31,558          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-29 23:32:32,342          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-29 23:32:33,124          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-29 23:32:33,387          root     INFO: Parsing R7 - Brasil
+2021-06-29 23:32:36,439          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exclusivo-governo-bolsonaro-pediu-propina-de-us-1-por-dose-diz-vendedor-de-vacina.shtml
+2021-06-29 23:32:36,569          root     INFO: O Ministério da Saúde <del>irá</del> <ins>decidiu</ins> suspender o contrato com a Precisa <del>Medicamento</del> <ins>Medicamentos</ins> para obter 20 milhões de doses da <ins>vacina indiana</ins> Covaxin. Leia mais (06/29/2021 - 17h12)
+2021-06-29 23:32:38,487          root     INFO: Media ready with ids: 1410018400064229376
+2021-06-29 23:32:38,487          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-29 23:32:38,487          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-bolsonaro-decide-suspender-contrato-sob-suspeita-para-compra-da-covaxin.shtml
+2021-06-29 23:32:38,497          root     INFO: Replying to: 1409984482485153794
+2021-06-29 23:32:38,847          root     INFO: Id to store: 1410018402547142659
+2021-06-29 23:32:44,909          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/denuncia-sobre-covaxin-leva-centrao-para-dentro-da-cpi-da-covid.shtml
+2021-06-29 23:32:44,910          root     INFO: Finished script
