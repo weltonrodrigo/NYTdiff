@@ -1,15 +1,8 @@
-2021-06-29 21:17:43,551          root     INFO: Starting script
-2021-06-29 21:17:44,369          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-29 21:17:45,040          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-29 21:17:45,710          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-29 21:17:45,947          root     INFO: Parsing R7 - Brasil
-2021-06-29 21:17:46,098          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/atila-iamarino/2021/06/como-terminam-as-pandemias.shtml
-2021-06-29 21:17:49,398          root     INFO: O Ministério da Saúde <del>irá</del> <ins>decidiu</ins> suspender o contrato com a Precisa <del>Medicamento</del> <ins>Medicamentos</ins> para obter 20 milhões de doses da Covaxin. Leia mais (06/29/2021 - 17h12)
-2021-06-29 21:17:51,256          root     INFO: Media ready with ids: 1409984479700127749
-2021-06-29 21:17:51,257          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-29 21:17:51,257          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-bolsonaro-decide-suspender-contrato-sob-suspeita-para-compra-da-covaxin.shtml
-2021-06-29 21:17:51,267          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-bolsonaro-decide-suspender-contrato-sob-suspeita-para-compra-da-covaxin.shtml
-2021-06-29 21:17:51,449          root     INFO: Replying to: 1409984481814065156
-2021-06-29 21:17:51,729          root     INFO: Id to store: 1409984482485153794
-2021-06-29 21:17:58,438          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/terra-vegana/2021/06/veganos-podem-comer-queijo.shtml
-2021-06-29 21:17:58,438          root     INFO: Finished script
+2021-06-29 21:34:30,887          root     INFO: Starting script
+2021-06-29 21:34:31,697          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-29 21:34:32,341          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-29 21:34:32,991          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-29 21:34:33,258          root     INFO: Parsing R7 - Brasil
+2021-06-29 21:34:36,071          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pacheco-diz-que-analisara-conveniencia-de-prorrogar-cpi-da-covid-no-senado.shtml
+2021-06-29 21:34:41,857          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/citado-em-cpi-servidor-nega-fala-sobre-propina-e-diz-que-coronel-do-exercito-o-procurou-para-tratar-de-vacina.shtml
+2021-06-29 21:34:41,858          root     INFO: Finished script
