@@ -1,14 +1,6 @@
-2021-06-29 23:32:30,580          root     INFO: Starting script
-2021-06-29 23:32:31,558          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-29 23:32:32,342          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-29 23:32:33,124          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-29 23:32:33,387          root     INFO: Parsing R7 - Brasil
-2021-06-29 23:32:36,439          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exclusivo-governo-bolsonaro-pediu-propina-de-us-1-por-dose-diz-vendedor-de-vacina.shtml
-2021-06-29 23:32:36,569          root     INFO: O Ministério da Saúde <del>irá</del> <ins>decidiu</ins> suspender o contrato com a Precisa <del>Medicamento</del> <ins>Medicamentos</ins> para obter 20 milhões de doses da <ins>vacina indiana</ins> Covaxin. Leia mais (06/29/2021 - 17h12)
-2021-06-29 23:32:38,487          root     INFO: Media ready with ids: 1410018400064229376
-2021-06-29 23:32:38,487          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-29 23:32:38,487          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-bolsonaro-decide-suspender-contrato-sob-suspeita-para-compra-da-covaxin.shtml
-2021-06-29 23:32:38,497          root     INFO: Replying to: 1409984482485153794
-2021-06-29 23:32:38,847          root     INFO: Id to store: 1410018402547142659
-2021-06-29 23:32:44,909          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/denuncia-sobre-covaxin-leva-centrao-para-dentro-da-cpi-da-covid.shtml
-2021-06-29 23:32:44,910          root     INFO: Finished script
+2021-06-29 23:47:04,670          root     INFO: Starting script
+2021-06-29 23:47:05,648          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-29 23:47:06,449          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-29 23:47:07,242          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-29 23:47:07,442          root     INFO: Parsing R7 - Brasil
+2021-06-29 23:47:16,134          root     INFO: Finished script
