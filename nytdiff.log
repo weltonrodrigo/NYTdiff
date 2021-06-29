@@ -1,6 +1,13 @@
-2021-06-29 11:31:31,156          root     INFO: Starting script
-2021-06-29 11:31:32,099          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-29 11:31:32,886          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-29 11:31:33,697          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-29 11:31:33,988          root     INFO: Parsing R7 - Brasil
-2021-06-29 11:31:42,054          root     INFO: Finished script
+2021-06-29 11:47:02,362          root     INFO: Starting script
+2021-06-29 11:47:03,233          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-29 11:47:03,888          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-29 11:47:04,543          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-29 11:47:04,972          root     INFO: Parsing R7 - Brasil
+2021-06-29 11:47:08,700          root     INFO: <del>Entenda o crime de</del> <ins>O que significa</ins> prevaricação e como isso pode ser usado contra Bolsonaro no caso Covaxin
+2021-06-29 11:47:10,591          root     INFO: Media ready with ids: 1409840863975559168
+2021-06-29 11:47:10,592          root     INFO: Text to tweet: Modificação do Título
+2021-06-29 11:47:10,592          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entenda-o-crime-de-prevaricacao-e-como-isso-pode-ser-usado-contra-bolsonaro-no-caso-covaxin.shtml
+2021-06-29 11:47:10,603          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entenda-o-crime-de-prevaricacao-e-como-isso-pode-ser-usado-contra-bolsonaro-no-caso-covaxin.shtml
+2021-06-29 11:47:10,804          root     INFO: Replying to: 1409840866181722116
+2021-06-29 11:47:11,015          root     INFO: Id to store: 1409840866840174592
+2021-06-29 11:47:16,795          root     INFO: Finished script
