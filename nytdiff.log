@@ -1,13 +1,18 @@
-2021-06-30 03:37:34,577          root     INFO: Starting script
-2021-06-30 03:37:35,536          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-30 03:37:36,240          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-30 03:37:36,934          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-30 03:37:37,129          root     INFO: Parsing R7 - Brasil
-2021-06-30 03:37:41,163          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/oposicao-aciona-procuradoria-para-investigar-denuncia-de-pedido-de-propina-do-governo-bolsonaro.shtml
-2021-06-30 03:37:48,543          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-mais-529-mil-doses-da-pfizer-total-chega-a-163-milhoes-29062021
-2021-06-30 03:37:48,557          root     INFO: New article tracked: http://noticias.r7.com/brasil/testes-da-butanvac-em-humanos-dependem-de-dados-diz-anvisa-29062021
-2021-06-30 03:37:48,570          root     INFO: New article tracked: http://noticias.r7.com/brasil/fachin-determina-que-governo-amplie-vacinacao-em-quilombolas-29062021
-2021-06-30 03:37:48,590          root     INFO: New article tracked: http://noticias.r7.com/brasil/ibge-se-prepara-para-coleta-do-censo-em-junho-de-2022-29062021
-2021-06-30 03:37:48,606          root     INFO: New article tracked: http://noticias.r7.com/brasil/pgr-pede-que-stf-aguarde-fim-da-cpi-para-investigar-bolsonaro-29062021
-2021-06-30 03:37:49,227          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/citacao-a-lider-do-governo-em-cpi-engrossa-mobilizacao-contra-bolsonaro-e-aliados-minimizam-suspeitas.shtml
-2021-06-30 03:37:49,228          root     INFO: Finished script
+2021-06-30 03:49:54,300          root     INFO: Starting script
+2021-06-30 03:49:55,157          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-30 03:49:55,812          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-30 03:49:56,477          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-30 03:49:56,627          root     INFO: Parsing R7 - Brasil
+2021-06-30 03:49:59,951          root     INFO: O Depol (Departamento de Polícia Legislativa) não encontrou razões para concluir que o deputado Luís Miranda (DEM-DF) precise receber proteção policial. O parlamentar fez o pedido após ser ouvido na CPI da Covid sobre suposta pressão no Ministério da <del>Saúda</del> <ins>Saúde</ins> para aprovação da vacina indiana. Leia mais (06/29/2021 - 23h52)
+2021-06-30 03:50:01,801          root     INFO: Media ready with ids: 1410083174508597253
+2021-06-30 03:50:01,802          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-30 03:50:01,802          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/camara-dos-deputados-deve-rejeitar-protecao-a-luis-miranda-pivo-do-caso-covaxin.shtml
+2021-06-30 03:50:01,814          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/camara-dos-deputados-deve-rejeitar-protecao-a-luis-miranda-pivo-do-caso-covaxin.shtml
+2021-06-30 03:50:02,022          root     INFO: Replying to: 1410083176219877376
+2021-06-30 03:50:02,255          root     INFO: Id to store: 1410083176870027266
+2021-06-30 03:50:08,763          root     INFO: Removed http://noticias.r7.com/brasil/fachin-determina-que-governo-amplie-vacinacao-em-quilombolas-29062021
+2021-06-30 03:50:08,768          root     INFO: Removed http://noticias.r7.com/brasil/pgr-pede-que-stf-aguarde-fim-da-cpi-para-investigar-bolsonaro-29062021
+2021-06-30 03:50:08,773          root     INFO: Removed http://noticias.r7.com/brasil/ibge-se-prepara-para-coleta-do-censo-em-junho-de-2022-29062021
+2021-06-30 03:50:08,779          root     INFO: Removed http://noticias.r7.com/brasil/brasil-recebe-mais-529-mil-doses-da-pfizer-total-chega-a-163-milhoes-29062021
+2021-06-30 03:50:08,784          root     INFO: Removed http://noticias.r7.com/brasil/testes-da-butanvac-em-humanos-dependem-de-dados-diz-anvisa-29062021
+2021-06-30 03:50:08,785          root     INFO: Finished script
