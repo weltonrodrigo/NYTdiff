@@ -1,15 +1,6 @@
-2021-06-30 17:35:51,999          root     INFO: Starting script
-2021-06-30 17:35:52,818          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-30 17:35:53,482          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-30 17:35:54,142          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-30 17:35:54,407          root     INFO: Parsing R7 - Brasil
-2021-06-30 17:35:57,083          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/bolsonaro-ignora-denuncia-de-propina-fala-em-amigos-do-congresso-e-diz-que-nao-sera-atingido-por-mentiras.shtml
-2021-06-30 17:35:57,126          root     INFO: Luiz Paulo Dominguetti Pereira, que denunciou à Folha pedidos de propina do Ministério da Saúde para a aquisição de vacinas contra a Covid, disse que <del>"não</del> <ins>“não</ins> terá melindre <del>nenhum"</del> <ins>nenhum”</ins> em contar tudo o que sabe à CPI da Covid no Senado. Leia mais (06/30/2021 - 13h44)
-2021-06-30 17:35:58,778          root     INFO: Media ready with ids: 1410291031661232128
-2021-06-30 17:35:58,779          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-30 17:35:58,779          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/nao-tenho-melindre-nenhum-de-falar-a-cpi-diz-vendedor-de-vacinas-que-denunciou-propina-de-us-1-por-dose.shtml
-2021-06-30 17:35:58,788          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/nao-tenho-melindre-nenhum-de-falar-a-cpi-diz-vendedor-de-vacinas-que-denunciou-propina-de-us-1-por-dose.shtml
-2021-06-30 17:35:58,986          root     INFO: Replying to: 1410291033024438287
-2021-06-30 17:35:59,304          root     INFO: Id to store: 1410291033842274305
-2021-06-30 17:36:04,744          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/deslocamento-de-comitiva-de-bolsonaro-para-inaugurar-ponte-custou-dez-pontes.shtml
-2021-06-30 17:36:04,745          root     INFO: Finished script
+2021-06-30 17:49:43,810          root     INFO: Starting script
+2021-06-30 17:49:44,643          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-30 17:49:45,309          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-30 17:49:45,985          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-30 17:49:46,178          root     INFO: Parsing R7 - Brasil
+2021-06-30 17:49:54,896          root     INFO: Finished script
