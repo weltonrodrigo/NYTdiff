@@ -1,19 +1,13 @@
-2021-06-30 11:47:18,670          root     INFO: Starting script
-2021-06-30 11:47:19,507          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-30 11:47:20,147          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-30 11:47:20,795          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-30 11:47:21,117          root     INFO: Parsing R7 - Brasil
-2021-06-30 11:47:24,867          root     INFO: <del>Ministério da Saúde decide exonerar</del> <ins>Governo Bolsonaro exonera</ins> diretor após denúncia de propina <ins>de US$ 1</ins> por <ins>dose de</ins> vacina
-2021-06-30 11:47:26,719          root     INFO: Media ready with ids: 1410203319608414210
-2021-06-30 11:47:26,719          root     INFO: Text to tweet: Modificação do Título
-2021-06-30 11:47:26,719          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ministerio-da-saude-decide-exonerar-diretor-apos-denuncia-de-propina-por-vacina.shtml
-2021-06-30 11:47:26,730          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ministerio-da-saude-decide-exonerar-diretor-apos-denuncia-de-propina-por-vacina.shtml
-2021-06-30 11:47:26,886          root     INFO: Replying to: 1410203321495953410
-2021-06-30 11:47:27,119          root     INFO: Id to store: 1410203322246696964
-2021-06-30 11:47:27,126          root     INFO: <del>O ministro da Saúde, Marcelo Queiroga, decidiu exonerar o</del> <ins>A exoneração do</ins> diretor de Logística <ins>do Ministério</ins> da <del>pasta,</del> <ins>Saúde,</ins> Roberto Ferreira <del>Dias. A medida ocorre em meio</del> <ins>Dias, foi publicada na edição desta quarta-feira (30) do DOU (Diário Oficial da União) após</ins> a <del>uma denúncia,</del> <ins>denúncia</ins> revelada pela <del>Folha,</del> <ins>Folha</ins> de que ele teria cobrado propina de um representante de uma vendedora de <del>vacinas.</del> <ins>vacinas contra a Covid-19.</ins> Leia mais (06/29/2021 - 22h19)
-2021-06-30 11:47:31,840          root     INFO: Media ready with ids: 1410203341536256000
-2021-06-30 11:47:31,841          root     INFO: Text to tweet: Modificação da Descrição
-2021-06-30 11:47:31,841          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/ministerio-da-saude-decide-exonerar-diretor-apos-denuncia-de-propina-por-vacina.shtml
-2021-06-30 11:47:31,851          root     INFO: Replying to: 1410203322246696964
-2021-06-30 11:47:32,105          root     INFO: Id to store: 1410203343130136582
-2021-06-30 11:47:38,040          root     INFO: Finished script
+2021-06-30 11:58:07,895          root     INFO: Starting script
+2021-06-30 11:58:08,740          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-30 11:58:09,383          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-30 11:58:10,026          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-30 11:58:10,211          root     INFO: Parsing R7 - Brasil
+2021-06-30 11:58:13,759          root     INFO: O Ministério da Saúde lançou nesta terça-feira <del>(30)</del> <ins>(29)</ins> o "Guia de atividade física para a população brasileira", voltado a orientar a população na prática de atividades físicas. Leia mais (06/29/2021 - 17h38)
+2021-06-30 11:58:15,471          root     INFO: Media ready with ids: 1410206041145544704
+2021-06-30 11:58:15,471          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-30 11:58:15,471          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ministerio-da-saude-nao-chama-autores-para-lancamento-de-guia-de-exercicios-e-pesquisador-ve-retaliacao.shtml
+2021-06-30 11:58:15,481          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ministerio-da-saude-nao-chama-autores-para-lancamento-de-guia-de-exercicios-e-pesquisador-ve-retaliacao.shtml
+2021-06-30 11:58:15,698          root     INFO: Replying to: 1410206042823315459
+2021-06-30 11:58:15,934          root     INFO: Id to store: 1410206043569803270
+2021-06-30 11:58:21,484          root     INFO: Finished script
