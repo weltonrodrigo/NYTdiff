@@ -1,6 +1,20 @@
-2021-06-30 22:17:53,651          root     INFO: Starting script
-2021-06-30 22:17:54,469          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-30 22:17:55,138          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-30 22:17:55,811          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-30 22:17:56,023          root     INFO: Parsing R7 - Brasil
-2021-06-30 22:18:04,154          root     INFO: Finished script
+2021-06-30 22:34:13,648          root     INFO: Starting script
+2021-06-30 22:34:14,654          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-30 22:34:15,456          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-30 22:34:16,241          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-30 22:34:16,550          root     INFO: Parsing R7 - Brasil
+2021-06-30 22:34:16,712          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/06/brasil-e-chile-poderao-fazer-um-bom-jogo-na-cova-america.shtml
+2021-06-30 22:34:19,897          root     INFO: <del>Em meio a denúncia de propina, oposição protocola</del> <ins>Oposição entra com</ins> superpedido de impeachment <del>contra</del> <ins>de</ins> Bolsonaro <ins>e agora mira pressão em Lira</ins>
+2021-06-30 22:34:21,740          root     INFO: Media ready with ids: 1410366121904152579
+2021-06-30 22:34:21,741          root     INFO: Text to tweet: Modificação do Título
+2021-06-30 22:34:21,741          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/em-meio-a-denuncia-de-propina-oposicao-protocola-superpedido-de-impeachment-contra-bolsonaro.shtml
+2021-06-30 22:34:21,751          root     INFO: Replying to: 1410341940441358339
+2021-06-30 22:34:22,090          root     INFO: Id to store: 1410366123980247043
+2021-06-30 22:34:22,105          root     INFO: Em meio à denúncia de cobrança de propina por vacina, a oposição e movimentos sociais protocolaram nesta quarta-feira (30) o superpedido de impeachment contra o presidente Jair Bolsonaro (sem partido), mas <ins>ainda</ins> sem apoio político <ins>necessário</ins> para que o processo prospere na Câmara dos Deputados. Leia mais (06/30/2021 - <del>16h15)</del> <ins>19h21)</ins>
+2021-06-30 22:34:23,928          root     INFO: Media ready with ids: 1410366131102269440
+2021-06-30 22:34:23,929          root     INFO: Text to tweet: Modificação da Descrição
+2021-06-30 22:34:23,929          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/em-meio-a-denuncia-de-propina-oposicao-protocola-superpedido-de-impeachment-contra-bolsonaro.shtml
+2021-06-30 22:34:23,942          root     INFO: Replying to: 1410366123980247043
+2021-06-30 22:34:24,230          root     INFO: Id to store: 1410366132914114573
+2021-06-30 22:34:31,118          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/06/carro-voador-traca-futuro-da-mobilidade-aerea.shtml
+2021-06-30 22:34:31,119          root     INFO: Finished script
