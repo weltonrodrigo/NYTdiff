@@ -1,6 +1,30 @@
-2021-06-30 20:32:05,719          root     INFO: Starting script
-2021-06-30 20:32:06,525          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-30 20:32:07,169          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-30 20:32:07,826          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-30 20:32:07,978          root     INFO: Parsing R7 - Brasil
-2021-06-30 20:32:15,511          root     INFO: Finished script
+2021-06-30 20:47:02,847          root     INFO: Starting script
+2021-06-30 20:47:04,539          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-30 20:47:05,193          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-30 20:47:05,851          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-30 20:47:06,007          root     INFO: Parsing R7 - Brasil
+2021-06-30 20:47:06,153          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/flavia-boggio/2021/06/pandeminions-criam-teorias-absurdas-para-recusar-as-evidencias.shtml
+2021-06-30 20:47:08,779          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/apesar-de-emails-dono-de-empresa-nega-negociacao-com-governo-bolsonaro-apos-relato-de-propina.shtml
+2021-06-30 20:47:14,039          root     INFO: New article tracked: http://noticias.r7.com/brasil/faria-diz-que-postura-de-servidor-exonerado-vai-contra-diretrizes-do-governo-30062021
+2021-06-30 20:47:14,051          root     INFO: New article tracked: http://noticias.r7.com/brasil/fiocruz-antecipa-entrega-semanal-com-3-milhoes-da-astrazeneca-30062021
+2021-06-30 20:47:14,063          root     INFO: New article tracked: http://noticias.r7.com/brasil/investigado-wizard-abrira-sigilo-bancario-e-fiscal-a-cpi-da-covid-30062021
+2021-06-30 20:47:14,074          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-critica-rifa-de-propina-e-diz-que-emenda-agiliza-importacao-30062021
+2021-06-30 20:47:14,087          root     INFO: New article tracked: http://noticias.r7.com/brasil/pazuello-diz-a-pgr-que-bolsonaro-investigou-compra-da-covaxin-30062021
+2021-06-30 20:47:14,101          root     INFO: New article tracked: http://noticias.r7.com/brasil/wizard-apresenta-livro-e-leva-bronca-na-cpi-nao-vai-vender-aqui-30062021
+2021-06-30 20:47:14,118          root     INFO: New article tracked: http://noticias.r7.com/brasil/general-da-reserva-sera-novo-diretor-de-logistica-da-saude-30062021
+2021-06-30 20:47:14,130          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-quebra-sigilo-de-pazuello-e-de-diretor-exonerado-do-ministerio-30062021
+2021-06-30 20:47:14,140          root     INFO: New article tracked: http://noticias.r7.com/brasil/tcu-aprova-contas-do-governo-bolsonaro-de-2020-com-ressalvas-30062021
+2021-06-30 20:47:14,151          root     INFO: New article tracked: http://noticias.r7.com/brasil/jair-bolsonaro-ficou-7-segundos-sem-mascara-em-aviao-diz-azul-30062021
+2021-06-30 20:47:14,164          root     INFO: New article tracked: http://noticias.r7.com/brasil/jair-bolsonaro-volta-a-criticar-cpi-da-covid-sete-bandidos-30062021
+2021-06-30 20:47:14,176          root     INFO: New article tracked: http://noticias.r7.com/brasil/silveira-recebe-3-recomendacao-de-suspensao-do-mandato-30062021
+2021-06-30 20:47:14,188          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-vai-recorrer-de-decisao-do-stf-que-permitiu-silencio-de-wizard-30062021
+2021-06-30 20:47:14,200          root     INFO: New article tracked: http://noticias.r7.com/brasil/escola-criada-por-wizard-diz-ter-posicao-diferente-da-do-ex-dono-30062021
+2021-06-30 20:47:14,212          root     INFO: New article tracked: http://noticias.r7.com/brasil/wizard-nega-gabinete-paralelo-e-se-recusa-a-responder-questoes-da-cpi-30062021
+2021-06-30 20:47:14,223          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacinacao-devera-impulsionar-matriculas-no-ensino-superior-30062021
+2021-06-30 20:47:14,235          root     INFO: New article tracked: http://noticias.r7.com/brasil/barros-nega-que-seja-alvo-de-lira-e-diz-que-cargo-e-do-presidente-30062021
+2021-06-30 20:47:14,246          root     INFO: New article tracked: http://noticias.r7.com/brasil/advogado-diz-que-wizard-nao-respondera-perguntas-da-cpi-30062021
+2021-06-30 20:47:14,258          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-convoca-lider-do-governo-e-marca-retorno-de-luis-miranda-30062021
+2021-06-30 20:47:14,269          root     INFO: New article tracked: http://noticias.r7.com/brasil/bharat-biotech-nega-irregularidades-na-venda-de-vacinas-ao-governo-30062021
+2021-06-30 20:47:14,285          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/america-latina-e-caribe-da-decada-perdida-a-decada-da-esperanca.shtml
+2021-06-30 20:47:14,290          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/folha-lanca-caderno-exclusivo-de-versao-digital.shtml
+2021-06-30 20:47:14,290          root     INFO: Finished script
