@@ -1,6 +1,13 @@
-2021-06-30 09:58:14,315          root     INFO: Starting script
-2021-06-30 09:58:15,384          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-30 09:58:16,188          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-30 09:58:16,992          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-30 09:58:17,232          root     INFO: Parsing R7 - Brasil
-2021-06-30 09:58:26,965          root     INFO: Finished script
+2021-06-30 10:20:51,245          root     INFO: Starting script
+2021-06-30 10:20:52,072          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-30 10:20:52,749          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-30 10:20:53,421          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-06-30 10:20:53,805          root     INFO: Parsing R7 - Brasil
+2021-06-30 10:20:57,072          root     INFO: <del>Com caso Covaxin, superpedido</del> <ins>Superpedido</ins> de impeachment vai à <del>Câmara,</del> <ins>Câmara com caso Covaxin,</ins> mas Bolsonaro ainda tem base para <del>barrar</del> <ins>barrá-lo</ins>
+2021-06-30 10:20:58,808          root     INFO: Media ready with ids: 1410181560507187200
+2021-06-30 10:20:58,809          root     INFO: Text to tweet: Modificação do Título
+2021-06-30 10:20:58,809          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-caso-covaxin-superpedido-de-impeachment-vai-a-camara-mas-bolsonaro-ainda-tem-base-para-barrar.shtml
+2021-06-30 10:20:58,819          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-caso-covaxin-superpedido-de-impeachment-vai-a-camara-mas-bolsonaro-ainda-tem-base-para-barrar.shtml
+2021-06-30 10:20:58,987          root     INFO: Replying to: 1410181561857761284
+2021-06-30 10:20:59,195          root     INFO: Id to store: 1410181562533044225
+2021-06-30 10:21:05,394          root     INFO: Finished script
