@@ -1,49 +1,22 @@
-2021-06-30 02:36:09,307          root     INFO: Starting script
-2021-06-30 02:36:10,204          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-06-30 02:36:10,886          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-06-30 02:36:11,570          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-06-30 02:36:11,710          root     INFO: Parsing R7 - Brasil
-2021-06-30 02:36:11,867          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/lula-nao-deveria-ter-exagerado-ao-citar-governo-forte-da-china-no-combate-a-pandemia.shtml
-2021-06-30 02:36:11,889          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/fantasma-da-corrupcao-representa-pressao-dupla-sobre-bolsonaro.shtml
-2021-06-30 02:36:11,904          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/insistencia-no-erro.shtml
-2021-06-30 02:36:11,921          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/bolsonaro-se-afunda-em-rolos-mas-povo-dos-mercados-nao-da-bola.shtml
-2021-06-30 02:36:11,935          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariaines/2021/06/hora-de-combater-o-assedio-algoritmico.shtml
-2021-06-30 02:36:11,951          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2021/06/politica-monetaria-nao-e-solucao-para-a-desigualdade.shtml
-2021-06-30 02:36:11,967          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/06/agropecuarios-tem-primeira-queda-no-atacado-no-ano.shtml
-2021-06-30 02:36:11,983          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/mal-parada.shtml
-2021-06-30 02:36:11,997          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/06/jornalismo-deve-se-posicionar.shtml
-2021-06-30 02:36:12,013          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/criticas-sim-ofensas-nao.shtml
-2021-06-30 02:36:12,029          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/impeachment-a-hora-e-a-vez-do-superpedido.shtml
-2021-06-30 02:36:12,045          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/a-biografia-ou-o-cargo.shtml
-2021-06-30 02:36:12,060          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antoniodelfim/2021/06/pasticcio-fiscal.shtml
-2021-06-30 02:36:14,796          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/so-abandono-bolsonaro-se-souber-que-ele-roubou-diz-deputada-carla-zambelli-a-folha.shtml
-2021-06-30 02:36:14,812          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/com-caso-covaxin-superpedido-de-impeachment-vai-a-camara-mas-bolsonaro-ainda-tem-base-para-barrar.shtml
-2021-06-30 02:36:14,828          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/lula-nao-deveria-ter-exagerado-ao-citar-governo-forte-da-china-no-combate-a-pandemia.shtml
-2021-06-30 02:36:14,844          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/fantasma-da-corrupcao-representa-pressao-dupla-sobre-bolsonaro.shtml
-2021-06-30 02:36:14,861          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/pressionado-bolsonaro-cometeu-ao-menos-10-crimes-so-nas-ultimas-tres-semanas.shtml
-2021-06-30 02:36:14,947          root     INFO: Acusações sobre <del>Covid</del> <ins>vacina</ins> deixam bolsonaristas atordoados; em vídeo, Zambelli pede orações
-2021-06-30 02:36:16,703          root     INFO: Media ready with ids: 1410064614453354512
-2021-06-30 02:36:16,704          root     INFO: Text to tweet: Modificação do Título
-2021-06-30 02:36:16,704          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4678
-2021-06-30 02:36:16,713          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://saidapeladireita.blogfolha.uol.com.br/?p=4678
-2021-06-30 02:36:17,069          root     INFO: Replying to: 1410064615917170690
-2021-06-30 02:36:17,288          root     INFO: Id to store: 1410064617305522178
-2021-06-30 02:36:23,806          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/o-projeto-que-autoriza-o-cultivo-de-maconha-para-fins-medicinais-deve-ser-aprovado-no-congresso-nao.shtml
-2021-06-30 02:36:23,812          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/decisao-de-fachin-que-favoreceu-desembargador-do-rj-deve-travar-investigacoes-sobre-corrupcao-no-judiciario-fluminense.shtml
-2021-06-30 02:36:23,819          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2021/06/ricardo-salles-deveria-ser-substituido-por-lazaro-que-entende-de-matas.shtml
-2021-06-30 02:36:23,824          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/06/cpi-pode-se-perder-se-buscar-atalho-na-investigacao-da-covaxin.shtml
-2021-06-30 02:36:23,832          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/por-que-ainda-se-receita-cloroquina.shtml
-2021-06-30 02:36:23,837          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2021/06/a-vida-ficou-para-depois-da-pandemia.shtml
-2021-06-30 02:36:23,843          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/o-projeto-que-autoriza-o-cultivo-de-maconha-para-fins-medicinais-deve-ser-aprovado-no-congresso-sim.shtml
-2021-06-30 02:36:23,849          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/o-jornalismo-nao-e-um-crime-diz-biden-sobre-o-apple-daily.shtml
-2021-06-30 02:36:23,855          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2021/06/cortazar-cria-um-labirinto-que-vem-ate-o-presente-em-todos-os-contos.shtml
-2021-06-30 02:36:23,862          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2021/06/merda-em-boca.shtml
-2021-06-30 02:36:23,867          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/06/lidar-com-o-imponderavel-e-o-desafio-dos-jogos-de-toquio-na-pandemia.shtml
-2021-06-30 02:36:23,872          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/banco-do-brasil-adere-a-campanha-contra-a-violencia-domestica.shtml
-2021-06-30 02:36:23,880          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/06/o-vacinagate-de-bolsonaro.shtml
-2021-06-30 02:36:23,886          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/caboclo-aciona-cbf-para-revogar-suspensao-e-reassumir-imediatamente-a-presidencia-da-entidade.shtml
-2021-06-30 02:36:23,892          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/06/tarsila-do-amaral-mais-popular-que-nunca-vai-ganhar-biografia-em-2023.shtml
-2021-06-30 02:36:23,899          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/06/amem-a-corrupcao.shtml
-2021-06-30 02:36:23,905          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/06/em-resposta-a-aziz-zambelli-mostra-curriculo-e-diz-que-nao-teria-vergonha-se-tivesse-sido-prostituta.shtml
-2021-06-30 02:36:23,910          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/06/na-praca-do-por-do-sol-restricoes-sanitarias-revelam-sua-face-de-restricoes-sociais.shtml
-2021-06-30 02:36:23,911          root     INFO: Finished script
+2021-06-30 02:52:53,362          root     INFO: Starting script
+2021-06-30 02:52:54,340          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-06-30 02:52:55,165          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-06-30 02:52:59,747          root    ERROR: RSS
+Traceback (most recent call last):
+  File "/home/runner/work/NYTdiff/NYTdiff/.venv/lib/python3.6/site-packages/feedparser.py", line 398, in __getattr__
+    return self.__getitem__(key)
+  File "/home/runner/work/NYTdiff/NYTdiff/.venv/lib/python3.6/site-packages/feedparser.py", line 356, in __getitem__
+    return dict.__getitem__(self, key)
+KeyError: 'title'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "nytdiff.py", line 527, in main
+    rss.parse_rss()
+  File "nytdiff.py", line 491, in parse_rss
+    logging.info('Parsing %s', r.feed.title)
+  File "/home/runner/work/NYTdiff/NYTdiff/.venv/lib/python3.6/site-packages/feedparser.py", line 400, in __getattr__
+    raise AttributeError("object has no attribute '%s'" % key)
+AttributeError: object has no attribute 'title'
+2021-06-30 02:52:59,748          root     INFO: Finished script
