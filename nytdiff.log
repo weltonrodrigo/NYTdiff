@@ -1,17 +1,13 @@
-2021-07-01 13:04:14,014          root     INFO: Starting script
-2021-07-01 13:04:14,882          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 13:04:15,543          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 13:04:16,209          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 13:04:16,469          root     INFO: Parsing R7 - Brasil
-2021-07-01 13:04:16,604          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/07/uma-agenda-ambiental-para-o-peru.shtml
-2021-07-01 13:04:16,702          root     INFO: O editor-chefe do <ins>jornal</ins> nacionalista Global Times/Huanqiu, de Pequim, Hu Xijin, divulgou que uma frase do secretário-geral do PC, Xi JInping, no discurso do centenário do partido, foi para o topo dos assuntos em mídia social da China. Leia mais (07/01/2021 - 07h42)
-2021-07-01 13:04:18,402          root     INFO: Media ready with ids: 1410585050765221891
-2021-07-01 13:04:18,402          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-01 13:04:18,403          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/advertencia-de-xi-ecoa-na-midia-social-chinesa-e-na-imprensa-americana.shtml
-2021-07-01 13:04:18,412          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/advertencia-de-xi-ecoa-na-midia-social-chinesa-e-na-imprensa-americana.shtml
-2021-07-01 13:04:18,601          root     INFO: Replying to: 1410585052292001792
-2021-07-01 13:04:18,873          root     INFO: Id to store: 1410585053046968323
-2021-07-01 13:04:21,300          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/ministro-do-stj-revoga-prisao-de-desembargadoras-investigadas-na-operacao-faroeste.shtml
-2021-07-01 13:04:26,711          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/alivio-cambial.shtml
-2021-07-01 13:04:26,716          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2021/06/temos-convencimento-de-que-ha-corrupcao-diz-vice-presidente-da-cpi-ouca-podcast.shtml
-2021-07-01 13:04:26,716          root     INFO: Finished script
+2021-07-01 13:26:01,586          root     INFO: Starting script
+2021-07-01 13:26:02,504          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-01 13:26:03,155          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-01 13:26:03,808          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-01 13:26:04,066          root     INFO: Parsing R7 - Brasil
+2021-07-01 13:26:09,755          root     INFO: A Amazônia, pelo segundo ano consecutivo, teve junho com o maior número de queimadas desde 2007. Foram 2.308 focos de incêndios no bioma, pouco acima dos 2.248 focos registrados em junho do ano <del>passado.</del> <ins>passado, crescimento de quase 3%.</ins> Os dados são do Programa Queimadas, do Inpe (Instituto Nacional de Pesquisas Espaciais), atualizados diariamente. Leia mais (07/01/2021 - 09h08)
+2021-07-01 13:26:11,590          root     INFO: Media ready with ids: 1410590558633054212
+2021-07-01 13:26:11,591          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-01 13:26:11,591          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/07/amazonia-tem-junho-com-maior-numero-de-queimadas-desde-2007.shtml
+2021-07-01 13:26:11,601          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/07/amazonia-tem-junho-com-maior-numero-de-queimadas-desde-2007.shtml
+2021-07-01 13:26:11,810          root     INFO: Replying to: 1410590560205819909
+2021-07-01 13:26:12,058          root     INFO: Id to store: 1410590561069940739
+2021-07-01 13:26:15,221          root     INFO: Finished script
