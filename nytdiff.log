@@ -1,24 +1,8 @@
-2021-07-01 21:17:48,381          root     INFO: Starting script
-2021-07-01 21:17:49,330          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 21:17:50,107          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 21:17:50,876          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 21:17:51,123          root     INFO: Parsing R7 - Brasil
-2021-07-01 21:17:51,293          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/07/crise-na-cbf-e-vista-como-chance-para-clubes-formatarem-liga.shtml
-2021-07-01 21:17:51,308          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/07/nos-60-anos-da-morte-de-hemingway-um-brinde-com-o-coquetel-que-ele-criou.shtml
-2021-07-01 21:17:51,418          root     INFO: Hoje quero pedir a bênção e aplaudir uma das maiores cantoras e compositoras <del>brasileira</del> <ins>brasileiras</ins> de todos os tempos. Com 34 anos de carreira, sucessos em listas prestigiadas de world music, shows em mais de 30 países, presença em grandes festivais internacionais, autora de composições musicais de valorização do povo negro brasileiro, Margareth Menezes é um grande ícone a ser festejado. Leia mais (07/01/2021 - 12h08)
-2021-07-01 21:17:53,227          root     INFO: Media ready with ids: 1410709264159625218
-2021-07-01 21:17:53,228          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-01 21:17:53,228          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/07/margareth-menezes-a-rainha-do-axe-brasileiro-e-um-icone-a-ser-festejado-e-valorizado.shtml
-2021-07-01 21:17:53,238          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2021/07/margareth-menezes-a-rainha-do-axe-brasileiro-e-um-icone-a-ser-festejado-e-valorizado.shtml
-2021-07-01 21:17:53,420          root     INFO: Replying to: 1410709265803845634
-2021-07-01 21:17:53,664          root     INFO: Id to store: 1410709266575601667
-2021-07-01 21:17:55,980          root     INFO: <del>Ex-diretor</del> <ins>Exonerado da direção</ins> de Logística do Ministério da Saúde, Roberto Ferreira Dias negou nesta quinta-feira (1º) que tenha cobrado propina de Luiz Paulo Dominguetti Pereira para negociar a compra de vacinas pelo governo Jair Bolsonaro. Leia mais (07/01/2021 - 17h11)
-2021-07-01 21:17:57,676          root     INFO: Media ready with ids: 1410709282929131520
-2021-07-01 21:17:57,676          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-01 21:17:57,676          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/ex-diretor-da-saude-confirma-encontro-com-vendedor-de-vacinas-nega-pedido-de-propina-e-sugere-armacao.shtml
-2021-07-01 21:17:57,686          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/ex-diretor-da-saude-confirma-encontro-com-vendedor-de-vacinas-nega-pedido-de-propina-e-sugere-armacao.shtml
-2021-07-01 21:17:57,868          root     INFO: Replying to: 1410709284468502539
-2021-07-01 21:17:58,102          root     INFO: Id to store: 1410709285215125509
-2021-07-01 21:18:03,120          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2021/06/estranha-crise-economica.shtml
-2021-07-01 21:18:03,126          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/a-economia-digital-sob-a-perspectiva-dos-nfts.shtml
-2021-07-01 21:18:03,126          root     INFO: Finished script
+2021-07-01 21:35:11,929          root     INFO: Starting script
+2021-07-01 21:35:12,756          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-01 21:35:13,427          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-01 21:35:14,099          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-01 21:35:14,387          root     INFO: Parsing R7 - Brasil
+2021-07-01 21:35:14,514          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/07/ser-aceito-no-partido-comunista-representa-uma-estrela-no-curriculo.shtml
+2021-07-01 21:35:25,024          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/ricos-e-pobres-na-queda-de-bolsonaro.shtml
+2021-07-01 21:35:25,025          root     INFO: Finished script
