@@ -1,26 +1,35 @@
-2021-07-01 20:47:11,616          root     INFO: Starting script
-2021-07-01 20:47:12,583          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 20:47:13,369          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 20:47:14,154          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 20:47:18,296          root     INFO: Parsing R7 - Brasil
-2021-07-01 20:47:26,876          root     INFO: New article tracked: http://noticias.r7.com/brasil/operacao-apreende-535-toneladas-de-drogas-em-junho-01072021
-2021-07-01 20:47:26,893          root     INFO: New article tracked: http://noticias.r7.com/brasil/diretor-da-cia-jantara-com-dois-ministros-de-bolsonaro-01072021
-2021-07-01 20:47:26,904          root     INFO: New article tracked: http://noticias.r7.com/brasil/estudio-news-especialistas-explicam-impactos-da-reforma-tributaria-na-vida-dos-brasileiros-01072021
-2021-07-01 20:47:26,916          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-cobertura-de-planos-de-saude-para-quimioterapia-oral-01072021
-2021-07-01 20:47:26,928          root     INFO: New article tracked: http://noticias.r7.com/brasil/ao-stf-aras-aponta-que-nao-ha-falta-de-vacinas-no-momento-01072021
-2021-07-01 20:47:26,942          root     INFO: New article tracked: http://noticias.r7.com/brasil/miranda-apresenta-documento-de-conversa-com-vendedor-a-cpi-01072021
-2021-07-01 20:47:26,954          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-pede-a-cpi-prisao-de-empresario-que-denunciou-propina-01072021
-2021-07-01 20:47:26,967          root     INFO: New article tracked: http://noticias.r7.com/brasil/moraes-do-stf-arquiva-inquerito-dos-atos-antidemocraticos-01072021
-2021-07-01 20:47:26,982          root     INFO: New article tracked: http://noticias.r7.com/brasil/oab-convoca-reuniao-para-decidir-sobre-pedido-de-impeachment-01072021
-2021-07-01 20:47:26,995          root     INFO: New article tracked: http://noticias.r7.com/brasil/shopping-diz-nao-ter-filmagem-de-encontro-por-propina-das-vacinas-01072021
-2021-07-01 20:47:27,007          root     INFO: New article tracked: http://noticias.r7.com/brasil/senadores-falam-em-testemunha-plantada-e-duvidam-de-audio-01072021
-2021-07-01 20:47:27,019          root     INFO: New article tracked: http://noticias.r7.com/brasil/relator-da-reforma-administrativa-propoe-renomear-carreiras-tipicas-01072021
-2021-07-01 20:47:27,032          root     INFO: New article tracked: http://noticias.r7.com/brasil/nossas-eleicoes-sempre-foram-limpas-diz-presidente-do-tse-01072021
-2021-07-01 20:47:27,055          root     INFO: New article tracked: http://noticias.r7.com/brasil/entenda-as-suspeitas-de-corrupcao-que-envolvem-vacinas-contra-covid-01072021
-2021-07-01 20:47:27,068          root     INFO: New article tracked: http://noticias.r7.com/brasil/davati-recua-e-diz-que-denunciante-negociou-vacinas-com-governo-01072021
-2021-07-01 20:47:27,081          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-saude-vai-distribuir-8-milhoes-de-doses-ate-domingo-27-01072021
-2021-07-01 20:47:27,094          root     INFO: New article tracked: http://noticias.r7.com/brasil/weber-manda-a-pgr-investigacao-contra-bolsonaro-e-roberto-dias-01072021
-2021-07-01 20:47:27,106          root     INFO: New article tracked: http://noticias.r7.com/brasil/amazonia-tem-junho-com-maior-numero-de-incendios-desde-2007-01072021
-2021-07-01 20:47:27,118          root     INFO: New article tracked: http://noticias.r7.com/brasil/luis-miranda-rebate-empresario-e-pede-sua-prisao-por-mentir-a-cpi-01072021
-2021-07-01 20:47:27,133          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-diz-que-luis-miranda-afirmou-que-audio-nao-se-refere-a-vacina-01072021
-2021-07-01 20:47:27,144          root     INFO: Finished script
+2021-07-01 20:58:10,227          root     INFO: Starting script
+2021-07-01 20:58:11,066          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-01 20:58:11,717          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-01 20:58:12,369          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-01 20:58:12,663          root     INFO: Parsing R7 - Brasil
+2021-07-01 20:58:12,833          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alexandre-schneider/2021/07/como-ensinar-em-um-pais-mais-pobre-desigual-e-triste.shtml
+2021-07-01 20:58:16,081          root     INFO: Aprovado há quase dois meses pela Câmara dos Deputados, o projeto que revoga a Lei de Segurança Nacional e acaba com um dos resquícios da ditadura militar deve ser votado <del>nesta quinta-feira (1°)</del> <ins>na próxima semana</ins> no Senado já com a expectativa de, posteriormente, sofrer vetos do presidente Jair Bolsonaro. Leia mais (06/30/2021 - 23h15)
+2021-07-01 20:58:17,877          root     INFO: Media ready with ids: 1410704334476689410
+2021-07-01 20:58:17,878          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-01 20:58:17,878          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/senado-vota-projeto-que-revoga-lei-de-seguranca-nacional-e-relator-anteve-vetos-de-bolsonaro.shtml
+2021-07-01 20:58:17,888          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/senado-vota-projeto-que-revoga-lei-de-seguranca-nacional-e-relator-anteve-vetos-de-bolsonaro.shtml
+2021-07-01 20:58:18,079          root     INFO: Replying to: 1410704336083111939
+2021-07-01 20:58:18,341          root     INFO: Id to store: 1410704336880123909
+2021-07-01 20:58:23,531          root     INFO: Removed http://noticias.r7.com/brasil/operacao-apreende-535-toneladas-de-drogas-em-junho-01072021
+2021-07-01 20:58:23,536          root     INFO: Removed http://noticias.r7.com/brasil/oab-convoca-reuniao-para-decidir-sobre-pedido-de-impeachment-01072021
+2021-07-01 20:58:23,541          root     INFO: Removed http://noticias.r7.com/brasil/diretor-da-cia-jantara-com-dois-ministros-de-bolsonaro-01072021
+2021-07-01 20:58:23,545          root     INFO: Removed http://noticias.r7.com/brasil/amazonia-tem-junho-com-maior-numero-de-incendios-desde-2007-01072021
+2021-07-01 20:58:23,552          root     INFO: Removed http://noticias.r7.com/brasil/shopping-diz-nao-ter-filmagem-de-encontro-por-propina-das-vacinas-01072021
+2021-07-01 20:58:23,556          root     INFO: Removed http://noticias.r7.com/brasil/davati-recua-e-diz-que-denunciante-negociou-vacinas-com-governo-01072021
+2021-07-01 20:58:23,561          root     INFO: Removed http://noticias.r7.com/brasil/nossas-eleicoes-sempre-foram-limpas-diz-presidente-do-tse-01072021
+2021-07-01 20:58:23,566          root     INFO: Removed http://noticias.r7.com/brasil/estudio-news-especialistas-explicam-impactos-da-reforma-tributaria-na-vida-dos-brasileiros-01072021
+2021-07-01 20:58:23,570          root     INFO: Removed http://noticias.r7.com/brasil/ao-stf-aras-aponta-que-nao-ha-falta-de-vacinas-no-momento-01072021
+2021-07-01 20:58:23,575          root     INFO: Removed http://noticias.r7.com/brasil/miranda-apresenta-documento-de-conversa-com-vendedor-a-cpi-01072021
+2021-07-01 20:58:23,580          root     INFO: Removed http://noticias.r7.com/brasil/relator-da-reforma-administrativa-propoe-renomear-carreiras-tipicas-01072021
+2021-07-01 20:58:23,584          root     INFO: Removed http://noticias.r7.com/brasil/aziz-diz-que-luis-miranda-afirmou-que-audio-nao-se-refere-a-vacina-01072021
+2021-07-01 20:58:23,588          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/06/entre-o-amor-e-o-mal.shtml
+2021-07-01 20:58:23,593          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-cobertura-de-planos-de-saude-para-quimioterapia-oral-01072021
+2021-07-01 20:58:23,597          root     INFO: Removed http://noticias.r7.com/brasil/senadores-falam-em-testemunha-plantada-e-duvidam-de-audio-01072021
+2021-07-01 20:58:23,602          root     INFO: Removed http://noticias.r7.com/brasil/moraes-do-stf-arquiva-inquerito-dos-atos-antidemocraticos-01072021
+2021-07-01 20:58:23,607          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-saude-vai-distribuir-8-milhoes-de-doses-ate-domingo-27-01072021
+2021-07-01 20:58:23,613          root     INFO: Removed http://noticias.r7.com/brasil/luis-miranda-rebate-empresario-e-pede-sua-prisao-por-mentir-a-cpi-01072021
+2021-07-01 20:58:23,618          root     INFO: Removed http://noticias.r7.com/brasil/weber-manda-a-pgr-investigacao-contra-bolsonaro-e-roberto-dias-01072021
+2021-07-01 20:58:23,623          root     INFO: Removed http://noticias.r7.com/brasil/senador-pede-a-cpi-prisao-de-empresario-que-denunciou-propina-01072021
+2021-07-01 20:58:23,627          root     INFO: Removed http://noticias.r7.com/brasil/entenda-as-suspeitas-de-corrupcao-que-envolvem-vacinas-contra-covid-01072021
+2021-07-01 20:58:23,628          root     INFO: Finished script
