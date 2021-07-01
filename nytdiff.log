@@ -1,12 +1,22 @@
-2021-07-01 01:00:17,845          root     INFO: Starting script
-2021-07-01 01:00:18,753          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 01:00:19,433          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 01:00:20,118          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 01:00:21,623          root     INFO: Parsing R7 - Brasil
-2021-07-01 01:00:24,642          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/policial-em-minas-vendedor-de-vacina-vira-alvo-de-apuracao-da-pm-apos-denuncia-de-propina.shtml
-2021-07-01 01:00:24,660          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/controladoria-da-uniao-confirma-ida-de-vendedor-de-vacina-a-saude-e-abre-apuracao-sobre-denuncia-de-propina.shtml
-2021-07-01 01:00:24,673          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/lira-ironiza-cpi-e-sinaliza-que-nao-dara-sequencia-por-ora-a-pedido-de-impeachment-contra-bolsonaro.shtml
-2021-07-01 01:00:30,965          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/empresario-preso-10-anos-atras-tenta-provar-que-suspeita-contra-ele-foi-fake-news-das-instituicoes-publicas.shtml
-2021-07-01 01:00:30,971          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/supremo-ganha-celeridade-com-julgamento-virtual-mas-reduz-transparencia.shtml
-2021-07-01 01:00:30,977          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/deboche-e-autoironia-entram-no-cardapio-de-politicos-em-busca-de-atencao-nas-redes.shtml
-2021-07-01 01:00:30,978          root     INFO: Finished script
+2021-07-01 02:03:27,157          root     INFO: Starting script
+2021-07-01 02:03:27,959          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-01 02:03:28,613          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-01 02:03:29,263          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-01 02:03:29,602          root     INFO: Parsing R7 - Brasil
+2021-07-01 02:03:32,294          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-antecipa-para-esta-quinta-depoimento-de-vendedor-de-vacina-que-denunciou-pedido-de-propina-do-governo-bolsonaro.shtml
+2021-07-01 02:03:32,363          root     INFO: O ministro da CGU (Controladoria-Geral da <del>República),</del> <ins>União),</ins> Wagner Rosário, disse nesta quarta-feira (30) que abrirá investigação sobre suposto pedido de propina feito em negociação do governo Jair Bolsonaro por vacinas, revelado pela Folha, e confirmou que Luiz Paulo Dominguetti Pereira esteve no Ministério da Saúde. Leia mais (06/30/2021 - 21h30)
+2021-07-01 02:03:34,087          root     INFO: Media ready with ids: 1410418770485592066
+2021-07-01 02:03:34,087          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-01 02:03:34,087          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/controladoria-da-uniao-confirma-ida-de-vendedor-de-vacina-a-saude-e-abre-apuracao-sobre-denuncia-de-propina.shtml
+2021-07-01 02:03:34,097          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/controladoria-da-uniao-confirma-ida-de-vendedor-de-vacina-a-saude-e-abre-apuracao-sobre-denuncia-de-propina.shtml
+2021-07-01 02:03:34,314          root     INFO: Replying to: 1410418771974668292
+2021-07-01 02:03:34,546          root     INFO: Id to store: 1410418772855476226
+2021-07-01 02:03:34,648          root     INFO: A ministra Rosa Weber, do STF (Supremo Tribunal Federal), autorizou Francisco Maximiano, sócio da Precisa Medicamento, a ficar em silêncio <del>no</del> <ins>em</ins> depoimento à CPI da <del>Covid marcado para quinta-feira (1).</del> <ins>Covid.</ins> Leia mais (06/30/2021 - 19h54)
+2021-07-01 02:03:36,278          root     INFO: Media ready with ids: 1410418779641856011
+2021-07-01 02:03:36,278          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-01 02:03:36,278          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rosa-weber-do-stf-autoriza-empresario-da-covaxin-a-ficar-em-silencio-em-cpi.shtml
+2021-07-01 02:03:36,287          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rosa-weber-do-stf-autoriza-empresario-da-covaxin-a-ficar-em-silencio-em-cpi.shtml
+2021-07-01 02:03:36,470          root     INFO: Replying to: 1410418781122449411
+2021-07-01 02:03:36,676          root     INFO: Id to store: 1410418781776760832
+2021-07-01 02:03:42,373          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/deputado-do-pt-aciona-mpf-apos-luis-miranda-afirmar-que-seu-irmao-foi-bloqueado-do-sistema-da-saude.shtml
+2021-07-01 02:03:42,374          root     INFO: Finished script
