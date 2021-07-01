@@ -1,6 +1,15 @@
-2021-07-01 22:33:39,917          root     INFO: Starting script
-2021-07-01 22:33:40,914          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 22:33:41,708          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 22:33:42,510          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 22:33:42,821          root     INFO: Parsing R7 - Brasil
-2021-07-01 22:33:52,586          root     INFO: Finished script
+2021-07-01 22:48:51,628          root     INFO: Starting script
+2021-07-01 22:48:52,507          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-01 22:48:53,170          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-01 22:48:53,835          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-01 22:48:54,027          root     INFO: Parsing R7 - Brasil
+2021-07-01 22:48:54,179          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2021/07/luiz-gama-tera-coletanea-de-5000-paginas-com-farta-documentacao-inedita.shtml
+2021-07-01 22:48:57,158          root     INFO: Luiz Paulo Dominguetti Pereira, que representou a empresa Davati Medical Supply em uma negociação com o governo <del>de</del> Jair Bolsonaro, reafirmou à CPI da Covid nesta quinta-feira <del>(1)</del> <ins>(1º)</ins> que recebeu pedido de propina de um diretor do Ministério da Saúde para a compra de vacinas contra a <del>Covid.</del> <ins>Covid-19.</ins> Leia mais (07/01/2021 - 15h21)
+2021-07-01 22:48:58,923          root     INFO: Media ready with ids: 1410732189101199360
+2021-07-01 22:48:58,923          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-01 22:48:58,923          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/vendedor-de-vacinas-reafirma-a-cpi-pedido-de-propina-divulga-audio-de-deputado-e-vira-alvo-de-embate-entre-senadores.shtml
+2021-07-01 22:48:58,934          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/vendedor-de-vacinas-reafirma-a-cpi-pedido-de-propina-divulga-audio-de-deputado-e-vira-alvo-de-embate-entre-senadores.shtml
+2021-07-01 22:48:59,158          root     INFO: Replying to: 1410732190669836288
+2021-07-01 22:48:59,500          root     INFO: Id to store: 1410732191579926534
+2021-07-01 22:49:05,323          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/06/polarizacao-o-que-ha-de-novo.shtml
+2021-07-01 22:49:05,324          root     INFO: Finished script
