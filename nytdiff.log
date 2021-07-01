@@ -1,8 +1,20 @@
-2021-07-01 10:20:00,936          root     INFO: Starting script
-2021-07-01 10:20:01,913          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 10:20:02,742          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 10:20:03,548          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 10:20:03,815          root     INFO: Parsing R7 - Brasil
-2021-07-01 10:20:03,986          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-gualano/2021/07/quem-faz-cirurgia-bariatrica-tambem-deve-se-exercitar.shtml
-2021-07-01 10:20:13,714          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/governo-acossado.shtml
-2021-07-01 10:20:13,715          root     INFO: Finished script
+2021-07-01 10:36:03,045          root     INFO: Starting script
+2021-07-01 10:36:04,024          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-01 10:36:04,824          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-01 10:36:05,624          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-01 10:36:05,896          root     INFO: Parsing R7 - Brasil
+2021-07-01 10:36:09,597          root     INFO: Enquanto membros da Campanha Nacional Fora Bolsonaro esperam maior adesão do público nas manifestações em defesa do impeachment do presidente Jair Bolsonaro <del>(sem partido) previstas</del> <ins>marcadas</ins> para <del>o próximo</del> <ins>este</ins> sábado (3), partidos e atores políticos mais ao centro e à direita avaliam que a crise se agravou, mas ainda digerem os novos fatos com ceticismo sobre a formação de uma força de oposição mais ampla e decisiva. Leia mais (06/30/2021 - 23h15)
+2021-07-01 10:36:11,410          root     INFO: Media ready with ids: 1410547775889104901
+2021-07-01 10:36:11,411          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-01 10:36:11,412          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/novos-protestos-contra-bolsonaro-puxados-pela-esquerda-terao-tucanos-e-mbl-avalia-adesao.shtml
+2021-07-01 10:36:11,424          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/novos-protestos-contra-bolsonaro-puxados-pela-esquerda-terao-tucanos-e-mbl-avalia-adesao.shtml
+2021-07-01 10:36:11,617          root     INFO: Replying to: 1410547777537511424
+2021-07-01 10:36:11,855          root     INFO: Id to store: 1410547778284032004
+2021-07-01 10:36:12,234          root     INFO: Crise fortalece defesa do impeachment de Bolsonaro, afirma Kassab <ins>à Folha</ins>
+2021-07-01 10:36:13,863          root     INFO: Media ready with ids: 1410547786412703747
+2021-07-01 10:36:13,864          root     INFO: Text to tweet: Modificação do Título
+2021-07-01 10:36:13,864          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/crise-fortalece-defesa-do-impeachment-de-bolsonaro-afirma-kassab.shtml
+2021-07-01 10:36:13,878          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/crise-fortalece-defesa-do-impeachment-de-bolsonaro-afirma-kassab.shtml
+2021-07-01 10:36:14,063          root     INFO: Replying to: 1410547787796779010
+2021-07-01 10:36:14,295          root     INFO: Id to store: 1410547788555898881
+2021-07-01 10:36:21,162          root     INFO: Finished script
