@@ -1,16 +1,14 @@
-2021-07-01 03:49:58,613          root     INFO: Starting script
-2021-07-01 03:49:59,622          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 03:50:00,420          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 03:50:01,219          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 03:50:01,422          root     INFO: Parsing R7 - Brasil
-2021-07-01 03:50:11,148          root     INFO: New article tracked: http://noticias.r7.com/brasil/denuncia-queiroga-nao-descarta-participacao-de-outros-servidores-30062021
-2021-07-01 03:50:11,164          root     INFO: New article tracked: http://noticias.r7.com/brasil/gostaria-de-ir-o-quanto-antes-diz-ricardo-barros-sobre-cpi-da-covid-30062021
-2021-07-01 03:50:11,177          root     INFO: New article tracked: http://noticias.r7.com/brasil/mae-faz-vaquinha-para-tratar-filha-com-sindrome-rara-30062021
-2021-07-01 03:50:11,190          root     INFO: New article tracked: http://noticias.r7.com/brasil/meio-ambiente-numero-2-de-salles-e-exonerado-pelo-novo-ministro-30062021
-2021-07-01 03:50:11,203          root     INFO: New article tracked: http://noticias.r7.com/brasil/relator-da-cpi-da-covid-chama-queiroga-de-pazuello-de-jaleco-30062021
-2021-07-01 03:50:11,218          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-da-covid-ouve-empresario-carlos-wizard-assista-ao-vivo-30062021
-2021-07-01 03:50:11,232          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-presidente-nao-tem-como-controlar-tudo-no-governo-30062021
-2021-07-01 03:50:11,246          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-confirma-demissao-de-diretor-denunciado-por-propina-30062021
-2021-07-01 03:50:11,260          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-incorpora-vacinas-da-fiocruz-e-da-pfizer-ao-sus-30062021
-2021-07-01 03:50:11,305          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-exonera-diretor-da-saude-denunciado-por-suposta-propina-30062021
-2021-07-01 03:50:11,456          root     INFO: Finished script
+2021-07-01 03:58:06,907          root     INFO: Starting script
+2021-07-01 03:58:07,912          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-01 03:58:08,709          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-01 03:58:09,511          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-01 03:58:09,821          root     INFO: Parsing R7 - Brasil
+2021-07-01 03:58:19,714          root     INFO: New article tracked: http://noticias.r7.com/brasil/vidente-incompreendida-exige-reconhecimento-30062021
+2021-07-01 03:58:20,211          root     INFO: Removed http://noticias.r7.com/brasil/mourao-presidente-nao-tem-como-controlar-tudo-no-governo-30062021
+2021-07-01 03:58:20,216          root     INFO: Removed http://noticias.r7.com/brasil/governo-incorpora-vacinas-da-fiocruz-e-da-pfizer-ao-sus-30062021
+2021-07-01 03:58:20,221          root     INFO: Removed http://noticias.r7.com/brasil/governo-exonera-diretor-da-saude-denunciado-por-suposta-propina-30062021
+2021-07-01 03:58:20,226          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouve-empresario-carlos-wizard-assista-ao-vivo-30062021
+2021-07-01 03:58:20,231          root     INFO: Removed http://noticias.r7.com/brasil/meio-ambiente-numero-2-de-salles-e-exonerado-pelo-novo-ministro-30062021
+2021-07-01 03:58:20,237          root     INFO: Removed http://noticias.r7.com/brasil/relator-da-cpi-da-covid-chama-queiroga-de-pazuello-de-jaleco-30062021
+2021-07-01 03:58:20,243          root     INFO: Removed http://noticias.r7.com/brasil/governo-confirma-demissao-de-diretor-denunciado-por-propina-30062021
+2021-07-01 03:58:20,244          root     INFO: Finished script
