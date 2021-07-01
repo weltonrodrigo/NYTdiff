@@ -1,6 +1,8 @@
-2021-07-01 02:50:48,094          root     INFO: Starting script
-2021-07-01 02:50:48,900          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 02:50:49,559          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 02:50:50,216          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 02:50:50,492          root     INFO: Parsing R7 - Brasil
-2021-07-01 02:50:59,769          root     INFO: Finished script
+2021-07-01 02:58:04,385          root     INFO: Starting script
+2021-07-01 02:58:05,214          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-01 02:58:05,890          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-01 02:58:06,565          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-01 02:58:06,758          root     INFO: Parsing R7 - Brasil
+2021-07-01 02:58:09,788          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ministro-da-saude-diz-que-governo-analisa-protocolo-nacional-para-liberar-eventos-com-aglomeracao.shtml
+2021-07-01 02:58:16,067          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/deputado-fala-em-esquema-muito-maior-levanta-suspeita-sobre-compra-de-testes-de-covid-e-cita-indicado-de-barros.shtml
+2021-07-01 02:58:16,068          root     INFO: Finished script
