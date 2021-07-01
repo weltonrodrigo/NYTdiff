@@ -1,8 +1,20 @@
-2021-07-01 21:35:11,929          root     INFO: Starting script
-2021-07-01 21:35:12,756          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 21:35:13,427          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 21:35:14,099          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 21:35:14,387          root     INFO: Parsing R7 - Brasil
-2021-07-01 21:35:14,514          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/07/ser-aceito-no-partido-comunista-representa-uma-estrela-no-curriculo.shtml
-2021-07-01 21:35:25,024          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/ricos-e-pobres-na-queda-de-bolsonaro.shtml
-2021-07-01 21:35:25,025          root     INFO: Finished script
+2021-07-01 21:47:42,581          root     INFO: Starting script
+2021-07-01 21:47:43,471          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-01 21:47:44,113          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-01 21:47:44,762          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-01 21:47:45,063          root     INFO: Parsing R7 - Brasil
+2021-07-01 21:47:47,824          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/na-cpi-dominguetti-erra-sobre-posts-em-defesa-de-bolsonaro-e-apresenta-audio-sem-relacao-com-vacina-veja-checagem.shtml
+2021-07-01 21:47:48,129          root     INFO: Em meio <del>à</del> <ins>a</ins> crise, Bolsonaro vai <del>à</del> <ins>a</ins> missa com transmissão ao vivo em TV pública
+2021-07-01 21:47:49,799          root     INFO: Media ready with ids: 1410716799797190656
+2021-07-01 21:47:49,800          root     INFO: Text to tweet: Modificação do Título
+2021-07-01 21:47:49,800          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/em-meio-a-crise-bolsonaro-vai-a-missa-com-transmissao-ao-vivo-em-tv-publica.shtml
+2021-07-01 21:47:49,810          root     INFO: Replying to: 1410646123174322176
+2021-07-01 21:47:50,048          root     INFO: Id to store: 1410716801248464897
+2021-07-01 21:47:50,054          root     INFO: Em meio a denúncias contra seu governo envolvendo contratação de vacinas, o presidente Jair Bolsonaro <del>(sem partido)</del> rezou. Na manhã desta quinta-feira (1º), foi à Paróquia Nossa Senhora da Saúde, na Asa Norte de Brasília. Leia mais (07/01/2021 - 12h24)
+2021-07-01 21:47:51,776          root     INFO: Media ready with ids: 1410716807380471812
+2021-07-01 21:47:51,777          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-01 21:47:51,777          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/em-meio-a-crise-bolsonaro-vai-a-missa-com-transmissao-ao-vivo-em-tv-publica.shtml
+2021-07-01 21:47:51,787          root     INFO: Replying to: 1410716801248464897
+2021-07-01 21:47:52,481          root     INFO: Id to store: 1410716810777751560
+2021-07-01 21:47:57,801          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/entenda-o-crime-de-prevaricacao-e-como-isso-pode-ser-usado-contra-bolsonaro-no-caso-covaxin.shtml
+2021-07-01 21:47:57,802          root     INFO: Finished script
