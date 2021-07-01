@@ -1,6 +1,10 @@
-2021-07-01 19:57:58,546          root     INFO: Starting script
-2021-07-01 19:57:59,328          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 19:57:59,968          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 19:58:00,604          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 19:58:00,824          root     INFO: Parsing R7 - Brasil
-2021-07-01 19:58:08,929          root     INFO: Finished script
+2021-07-01 20:20:24,003          root     INFO: Starting script
+2021-07-01 20:20:24,807          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-01 20:20:25,469          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-01 20:20:26,133          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-01 20:20:26,409          root     INFO: Parsing R7 - Brasil
+2021-07-01 20:20:29,479          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/acusacao-de-propina-da-vacina-segue-no-colo-do-governo-bolsonaro.shtml
+2021-07-01 20:20:29,494          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/ex-diretor-da-saude-confirma-encontro-com-vendedor-de-vacinas-nega-pedido-de-propina-e-sugere-armacao.shtml
+2021-07-01 20:20:35,892          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/rosa-weber-do-stf-cita-grave-suspeita-e-diz-que-compra-da-covaxin-pelo-governo-bolsonaro-foi-pouco-transparente.shtml
+2021-07-01 20:20:35,897          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/senadores-apresentam-noticia-crime-contra-bolsonaro-no-supremo-pelo-crime-de-prevaricacao.shtml
+2021-07-01 20:20:35,898          root     INFO: Finished script
