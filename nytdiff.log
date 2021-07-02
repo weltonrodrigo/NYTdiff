@@ -1,8 +1,10 @@
-2021-07-01 23:58:12,119          root     INFO: Starting script
-2021-07-01 23:58:13,028          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-01 23:58:13,676          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-01 23:58:14,319          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-01 23:58:14,609          root     INFO: Parsing R7 - Brasil
-2021-07-01 23:58:17,442          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/em-live-bolsonaro-ironiza-denuncia-de-pedido-de-propina-que-derrubou-diretor-do-ministerio-da-saude.shtml
-2021-07-01 23:58:23,152          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/06/a-ditadura-dos-outros.shtml
-2021-07-01 23:58:23,153          root     INFO: Finished script
+2021-07-02 00:56:38,154          root     INFO: Starting script
+2021-07-02 00:56:38,942          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-02 00:56:39,585          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-02 00:56:40,228          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-02 00:56:40,545          root     INFO: Parsing R7 - Brasil
+2021-07-02 00:56:40,682          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2021/07/serie-the-underground-railroad-reconta-o-colapso-da-escravidao.shtml
+2021-07-02 00:56:43,418          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/grupo-evangelico-fez-oferta-paralela-de-vacinas-ao-ministerio-da-saude-e-prefeituras.shtml
+2021-07-02 00:56:49,293          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2021/06/idiotas-das-selfies-se-promovem-com-lagrimas-de-crocodilo-por-mortos.shtml
+2021-07-02 00:56:49,299          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-quer-investigar-compra-de-testes-de-covid-e-fechar-o-cerco-a-barros-lider-do-governo-bolsonaro.shtml
+2021-07-02 00:56:49,300          root     INFO: Finished script
