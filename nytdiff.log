@@ -1,15 +1,6 @@
-2021-07-02 21:17:10,444          root     INFO: Starting script
-2021-07-02 21:17:11,243          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-02 21:17:11,901          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-02 21:17:12,561          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-02 21:17:12,646          root     INFO: Parsing R7 - Brasil
-2021-07-02 21:17:12,800          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/07/jogos-olimpicos-tem-tambem-historias-fantasticas-de-quem-nao-subiu-ao-podio.shtml
-2021-07-02 21:17:15,339          root     INFO: Desde que a CPI da Covid no Senado avançou sobre suspeitas de corrupção no governo Jair Bolsonaro (sem partido), o ex-presidente Luiz Inácio Lula da Silva (PT), principal adversário do presidente na eleição de 2022, não comentou em suas redes sociais <del>sobre</del> o caso Covaxin ou o relato de pedido de propina revelado pela Folha. O fato tem sido explorado por adversários do petista. Leia mais (07/02/2021 - 16h19)
-2021-07-02 21:17:17,185          root     INFO: Media ready with ids: 1411071500371775493
-2021-07-02 21:17:17,186          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-02 21:17:17,186          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/lula-mantem-silencio-sobre-suspeitas-de-corrupcao-no-governo-bolsonaro.shtml
-2021-07-02 21:17:17,195          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/lula-mantem-silencio-sobre-suspeitas-de-corrupcao-no-governo-bolsonaro.shtml
-2021-07-02 21:17:17,354          root     INFO: Replying to: 1411071502418595840
-2021-07-02 21:17:17,573          root     INFO: Id to store: 1411071503102263297
-2021-07-02 21:17:22,699          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/a-liberdade-que-meus-filhos-negros-nao-terao.shtml
-2021-07-02 21:17:22,700          root     INFO: Finished script
+2021-07-02 21:31:02,145          root     INFO: Starting script
+2021-07-02 21:31:02,937          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-02 21:31:03,578          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-02 21:31:04,216          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-02 21:31:04,524          root     INFO: Parsing R7 - Brasil
+2021-07-02 21:31:12,441          root     INFO: Finished script
