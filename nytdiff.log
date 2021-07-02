@@ -1,8 +1,10 @@
-2021-07-02 19:29:21,754          root     INFO: Starting script
-2021-07-02 19:29:22,573          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-02 19:29:23,233          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-02 19:29:23,894          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-02 19:29:24,079          root     INFO: Parsing R7 - Brasil
-2021-07-02 19:29:24,230          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2021/07/com-estrategia-faca-no-pescoco-guedes-se-esforca-para-afastar-investidores.shtml
-2021-07-02 19:29:32,533          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/06/so-a-vacina-podera-dizer-o-futuro-dos-casais-formados-durante-a-pandemia.shtml
-2021-07-02 19:29:32,534          root     INFO: Finished script
+2021-07-02 19:47:10,577          root     INFO: Starting script
+2021-07-02 19:47:11,391          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-02 19:47:12,051          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-02 19:47:12,725          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-02 19:47:12,901          root     INFO: Parsing R7 - Brasil
+2021-07-02 19:47:15,713          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/ambiente/2021/07/inquerito-que-apura-atuacao-de-salles-pro-madeireiras-sai-do-stf.shtml
+2021-07-02 19:47:18,377          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/07/inquerito-que-apura-atuacao-de-salles-pro-madeireiras-sai-do-stf.shtml
+2021-07-02 19:47:21,492          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/exclusivo-governo-bolsonaro-pediu-propina-de-us-1-por-dose-diz-vendedor-de-vacina.shtml
+2021-07-02 19:47:21,498          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/iceberg-3-vezes-maior-que-a-cidade-de-sp-desprende-da-antartica-e-se-torna-o-maior-do-mundo.shtml
+2021-07-02 19:47:21,499          root     INFO: Finished script
