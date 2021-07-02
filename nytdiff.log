@@ -1,27 +1,16 @@
-2021-07-02 17:50:26,888          root     INFO: Starting script
-2021-07-02 17:50:28,155          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-02 17:50:28,819          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-02 17:50:29,496          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-02 17:50:29,703          root     INFO: Parsing R7 - Brasil
-2021-07-02 17:50:29,850          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/07/antes-de-investigacao-pgr-ja-fala-em-ausencia-de-indicios-e-cita-linha-de-defesa-de-bolsonaro.shtml
-2021-07-02 17:50:29,998          root     INFO: O Tribunal de Justiça de São Paulo condenou a bióloga Giselma Carmen Campos Carneiro Magalhães a pagar uma indenização de cerca de R$ 2,8 milhões ao filho, Carlos Eduardo Campos Magalhães. Em dezembro de 2008, <del>Giselda</del> <ins>?Giselma</ins> ordenou o assassinato do ex-marido Humberto de Campos Magalhães, pai de Carlos, executivo da multinacional Friboi. Ela foi condenada e está presa na penitenciária feminina de Santana, em São Paulo. Humberto foi morto por um motoqueiro na Vila Leopoldina, zona oeste de São Paulo. Ele foi atraído ao local do crime por uma ligação feita por uma terceira pessoa do aparelho celular de Carlos. No telefonema, o interlocutor disse ao executivo que o filho estava passando mal e que precisava de sua ajuda. "Humberto de Campos correu em seu socorro, quando foi emboscado, alvejado e morto", afirmaram à Justiça os advogados de Carlos. "A mãe organizou e ordenou a morte de seu ex-marido, utilizando o próprio filho como chamariz para a armadilha que idealizou." Leia mais (07/02/2021 - 10h46)
-2021-07-02 17:50:32,022          root     INFO: Media ready with ids: 1411019469581848585
-2021-07-02 17:50:32,022          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-02 17:50:32,022          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/07/caso-friboi-tj-condena-mae-a-indenizar-filho-em-r-28-mi-pelo-assassinato-do-pai.shtml
-2021-07-02 17:50:32,034          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/rogeriogentile/2021/07/caso-friboi-tj-condena-mae-a-indenizar-filho-em-r-28-mi-pelo-assassinato-do-pai.shtml
-2021-07-02 17:50:32,240          root     INFO: Replying to: 1411019471523926016
-2021-07-02 17:50:32,484          root     INFO: Id to store: 1411019472257929219
-2021-07-02 17:50:34,849          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/07/antes-de-investigacao-pgr-ja-fala-em-ausencia-de-indicios-e-cita-linha-de-defesa-de-bolsonaro.shtml
-2021-07-02 17:50:34,861          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/gay-e-presidenciavel-eduardo-leite-faz-ato-politico-de-coragem-equilibrista.shtml
-2021-07-02 17:50:39,744          root     INFO: New article tracked: http://noticias.r7.com/brasil/carmen-lucia-envia-inquerito-sobre-ricardo-salles-ao-trf-1-02072021
-2021-07-02 17:50:39,756          root     INFO: New article tracked: http://noticias.r7.com/brasil/covaxin-pgr-pede-investigacao-de-bolsonaro-por-prevaricacao-02072021
-2021-07-02 17:50:39,767          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-decreto-contra-lockdowns-nao-e-mais-necessario-02072021
-2021-07-02 17:50:39,778          root     INFO: New article tracked: http://noticias.r7.com/brasil/mp-envia-a-justica-acao-contra-pazuello-por-improbidade-02072021
-2021-07-02 17:50:39,790          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-tem-uma-turma-ali-que-esta-doida-para-prender-diz-mourao-02072021
-2021-07-02 17:50:39,802          root     INFO: New article tracked: http://noticias.r7.com/brasil/rosa-weber-diz-que-pgr-nao-pode-adiar-parecer-sobre-bolsonaro-02072021
-2021-07-02 17:50:39,814          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-admite-sentir-dor-com-privatizacoes-mas-defende-vendas-02072021
-2021-07-02 17:50:39,826          root     INFO: New article tracked: http://noticias.r7.com/brasil/live-jr-discute-a-estiagem-no-brasil-a-pior-dos-ultimos-91-anos-02072021
-2021-07-02 17:50:40,149          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/06/lei-anti-lgbtqia-e-embaracosa-a-qualquer-macho-hetero-que-se-preze.shtml
-2021-07-02 17:50:40,153          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/governo-bolsonaro-decide-suspender-contrato-sob-suspeita-para-compra-da-covaxin.shtml
-2021-07-02 17:50:40,158          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/conselho-de-etica-aprova-suspensao-de-daniel-silveira-por-dois-meses.shtml
-2021-07-02 17:50:40,159          root     INFO: Finished script
+2021-07-02 17:58:01,732          root     INFO: Starting script
+2021-07-02 17:58:03,430          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-02 17:58:04,712          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-02 17:58:05,662          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-02 17:58:05,901          root     INFO: Parsing R7 - Brasil
+2021-07-02 17:58:08,914          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-dizer-que-e-gay-eduardo-leite-recebe-elogios-mas-e-questionado-por-apoio-a-bolsonaro-em-2018.shtml
+2021-07-02 17:58:14,769          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-decreto-contra-lockdowns-nao-e-mais-necessario-02072021
+2021-07-02 17:58:14,774          root     INFO: Removed http://noticias.r7.com/brasil/mp-envia-a-justica-acao-contra-pazuello-por-improbidade-02072021
+2021-07-02 17:58:14,780          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/ministerio-da-saude-nao-chama-autores-para-lancamento-de-guia-de-exercicios-e-pesquisador-ve-retaliacao.shtml
+2021-07-02 17:58:14,785          root     INFO: Removed http://noticias.r7.com/brasil/cpi-tem-uma-turma-ali-que-esta-doida-para-prender-diz-mourao-02072021
+2021-07-02 17:58:14,790          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-admite-sentir-dor-com-privatizacoes-mas-defende-vendas-02072021
+2021-07-02 17:58:14,795          root     INFO: Removed http://noticias.r7.com/brasil/rosa-weber-diz-que-pgr-nao-pode-adiar-parecer-sobre-bolsonaro-02072021
+2021-07-02 17:58:14,800          root     INFO: Removed http://noticias.r7.com/brasil/live-jr-discute-a-estiagem-no-brasil-a-pior-dos-ultimos-91-anos-02072021
+2021-07-02 17:58:14,804          root     INFO: Removed http://noticias.r7.com/brasil/carmen-lucia-envia-inquerito-sobre-ricardo-salles-ao-trf-1-02072021
+2021-07-02 17:58:14,808          root     INFO: Removed http://noticias.r7.com/brasil/covaxin-pgr-pede-investigacao-de-bolsonaro-por-prevaricacao-02072021
+2021-07-02 17:58:14,809          root     INFO: Finished script
