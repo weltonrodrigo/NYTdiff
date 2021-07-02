@@ -1,13 +1,10 @@
-2021-07-02 12:28:49,562          root     INFO: Starting script
-2021-07-02 12:28:50,515          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-02 12:28:51,310          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-02 12:28:52,108          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-02 12:28:52,347          root     INFO: Parsing R7 - Brasil
-2021-07-02 12:28:53,009          root     INFO: Rogério Caboclo está no Rio de Janeiro e diz que não sairá da Barra da Tijuca até voltar a se sentar na cadeira da presidência da CBF. O afastamento provisório de 30 dias se <del>encerra</del> <ins>encerraria</ins> na terça-feira <del>(6) e</del> <ins>(6), mas</ins> a comissão de ética <del>deve estender</del> <ins>estendeu</ins> o período por mais <del>15 dias.</del> <ins>60 dias nesta quinta (1º).</ins> Leia mais (07/01/2021 - 18h06)
-2021-07-02 12:28:54,886          root     INFO: Media ready with ids: 1410938531795591172
-2021-07-02 12:28:54,887          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-02 12:28:54,887          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/07/crise-na-cbf-e-vista-como-chance-para-clubes-formatarem-liga.shtml
-2021-07-02 12:28:54,899          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/07/crise-na-cbf-e-vista-como-chance-para-clubes-formatarem-liga.shtml
-2021-07-02 12:28:55,185          root     INFO: Replying to: 1410938533758619650
-2021-07-02 12:28:55,614          root     INFO: Id to store: 1410938534895054848
-2021-07-02 12:29:04,246          root     INFO: Finished script
+2021-07-02 13:03:36,927          root     INFO: Starting script
+2021-07-02 13:03:37,779          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-02 13:03:38,456          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-02 13:03:39,124          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-02 13:03:39,279          root     INFO: Parsing R7 - Brasil
+2021-07-02 13:03:39,465          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/07/o-mercosul-e-a-disputa-por-sua-precarizacao.shtml
+2021-07-02 13:03:39,481          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/terra-vegana/2021/07/aviso.shtml
+2021-07-02 13:03:47,316          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/fora-de-lugar.shtml
+2021-07-02 13:03:47,322          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/06/bolsonaro-e-barros-a-politica-como-ela-e.shtml
+2021-07-02 13:03:47,323          root     INFO: Finished script
