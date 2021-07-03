@@ -1,20 +1,6 @@
-2021-07-03 22:47:16,122          root     INFO: Starting script
-2021-07-03 22:47:17,299          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-03 22:47:17,968          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-03 22:47:18,639          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-03 22:47:18,836          root     INFO: Parsing R7 - Brasil
-2021-07-03 22:47:18,970          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/delibere-arthur-lira.shtml
-2021-07-03 22:47:22,076          root     INFO: Manifestantes <del>vão às ruas em ao menos 15 capitais em atos</del> pelo <del>impeachment de</del> <ins>país fazem 3º ato contra</ins> Bolsonaro <ins>em 35 dias e destacam denúncias de corrupção; SP reúne 5.500, diz PM</ins>
-2021-07-03 22:47:23,832          root     INFO: Media ready with ids: 1411456566109298693
-2021-07-03 22:47:23,832          root     INFO: Text to tweet: Modificação do Título
-2021-07-03 22:47:23,833          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/manifestantes-vao-as-ruas-em-ao-menos-15-capitais-em-atos-pelo-impeachment-de-bolsonaro.shtml
-2021-07-03 22:47:23,843          root     INFO: Replying to: 1411444215473741825
-2021-07-03 22:47:24,096          root     INFO: Id to store: 1411456567560622085
-2021-07-03 22:47:24,105          root     INFO: Manifestantes <del>foram às ruas</del> <ins>fazem</ins> neste sábado (3) <del>em ao menos 15 capitais pedindo</del> o <ins>terceiro ato em 35 dias pelo</ins> impeachment do presidente Jair Bolsonaro (sem partido). <ins>Todas as 27 capitais registraram a ocorrência de protestos.</ins> Leia mais (07/03/2021 - 15h34)
-2021-07-03 22:47:25,941          root     INFO: Media ready with ids: 1411456574334377984
-2021-07-03 22:47:25,942          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-03 22:47:25,942          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/manifestantes-vao-as-ruas-em-ao-menos-15-capitais-em-atos-pelo-impeachment-de-bolsonaro.shtml
-2021-07-03 22:47:25,952          root     INFO: Replying to: 1411456567560622085
-2021-07-03 22:47:26,189          root     INFO: Id to store: 1411456576385339392
-2021-07-03 22:47:32,561          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helio-beltrao/2021/06/com-essa-reforma-do-imposto-de-renda-a-casa-cai.shtml
-2021-07-03 22:47:32,562          root     INFO: Finished script
+2021-07-03 22:58:02,133          root     INFO: Starting script
+2021-07-03 22:58:03,140          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-03 22:58:03,913          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-03 22:58:04,689          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-03 22:58:04,936          root     INFO: Parsing R7 - Brasil
+2021-07-03 22:58:12,685          root     INFO: Finished script
