@@ -1,6 +1,18 @@
-2021-07-03 16:27:37,148          root     INFO: Starting script
-2021-07-03 16:27:38,101          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-03 16:27:38,894          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-03 16:27:39,688          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-03 16:27:39,972          root     INFO: Parsing R7 - Brasil
-2021-07-03 16:27:48,682          root     INFO: Finished script
+2021-07-03 17:04:13,915          root     INFO: Starting script
+2021-07-03 17:04:14,801          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-03 17:04:15,495          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-03 17:04:16,175          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-03 17:04:16,438          root     INFO: Parsing R7 - Brasil
+2021-07-03 17:04:21,119          root     INFO: Moraes <ins>dribla PGR,</ins> arquiva inquérito dos atos antidemocráticos <del>no STF</del> e abre <del>outra</del> <ins>nova</ins> investigação <ins>no STF</ins> sobre ataques à democracia <del>na internet</del>
+2021-07-03 17:04:22,801          root     INFO: Media ready with ids: 1411370243033812995
+2021-07-03 17:04:22,801          root     INFO: Text to tweet: Modificação do Título
+2021-07-03 17:04:22,801          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/moraes-arquiva-inquerito-dos-atos-antidemocraticos-no-stf-e-abre-outra-investigacao-sobre-ataques-a-democracia-na-internet.shtml
+2021-07-03 17:04:22,812          root     INFO: Replying to: 1410739732397494273
+2021-07-03 17:04:23,069          root     INFO: Id to store: 1411370244455731200
+2021-07-03 17:04:23,077          root     INFO: O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), <ins>e</ins> determinou o arquivamento do inquérito dos atos antidemocráticos e a abertura de outra investigação para apurar a existência de uma organização criminosa digital voltada a atacar as instituições a fim de abalar a <del>democracia.</del> <ins>democracia, driblando pedido da PGR (Procuradoria-Geral da República).</ins> Leia mais (07/01/2021 - 15h56)
+2021-07-03 17:04:24,845          root     INFO: Media ready with ids: 1411370251305033729
+2021-07-03 17:04:24,846          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-03 17:04:24,846          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/moraes-arquiva-inquerito-dos-atos-antidemocraticos-no-stf-e-abre-outra-investigacao-sobre-ataques-a-democracia-na-internet.shtml
+2021-07-03 17:04:24,859          root     INFO: Replying to: 1411370244455731200
+2021-07-03 17:04:25,081          root     INFO: Id to store: 1411370252890513409
+2021-07-03 17:04:30,158          root     INFO: Finished script
