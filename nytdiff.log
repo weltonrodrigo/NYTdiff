@@ -1,6 +1,20 @@
-2021-07-03 20:57:57,388          root     INFO: Starting script
-2021-07-03 20:57:58,387          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-03 20:57:59,183          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-03 20:57:59,960          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-03 20:58:00,189          root     INFO: Parsing R7 - Brasil
-2021-07-03 20:58:08,661          root     INFO: Finished script
+2021-07-03 21:16:48,066          root     INFO: Starting script
+2021-07-03 21:16:48,944          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-03 21:16:49,616          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-03 21:16:50,293          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-03 21:16:50,571          root     INFO: Parsing R7 - Brasil
+2021-07-03 21:16:53,627          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/pedido-de-propina-de-us-1-revelado-pela-folha-pauta-cartazes-de-manifestantes-em-atos-contra-bolsonaro.shtml
+2021-07-03 21:16:53,704          root     INFO: Manifestantes vão às ruas em ao menos <del>15</del> <ins>25</ins> capitais em atos pelo impeachment de Bolsonaro
+2021-07-03 21:16:55,493          root     INFO: Media ready with ids: 1411433797900451840
+2021-07-03 21:16:55,494          root     INFO: Text to tweet: Modificação do Título
+2021-07-03 21:16:55,494          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/manifestantes-vao-as-ruas-em-ao-menos-15-capitais-em-atos-pelo-impeachment-de-bolsonaro.shtml
+2021-07-03 21:16:55,506          root     INFO: Replying to: 1411418853201035265
+2021-07-03 21:16:55,729          root     INFO: Id to store: 1411433799355928577
+2021-07-03 21:16:55,738          root     INFO: Manifestantes foram às ruas neste sábado (3) em ao menos <del>15</del> <ins>25</ins> capitais pedindo o impeachment do presidente Jair Bolsonaro (sem partido). Leia mais (07/03/2021 - 15h34)
+2021-07-03 21:16:57,388          root     INFO: Media ready with ids: 1411433805970296832
+2021-07-03 21:16:57,389          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-03 21:16:57,389          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/manifestantes-vao-as-ruas-em-ao-menos-15-capitais-em-atos-pelo-impeachment-de-bolsonaro.shtml
+2021-07-03 21:16:57,405          root     INFO: Replying to: 1411433799355928577
+2021-07-03 21:16:57,663          root     INFO: Id to store: 1411433807308279808
+2021-07-03 21:17:03,977          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/06/cpi-da-covid-convoca-vendedor-de-vacinas-que-denunciou-propina-e-lider-do-governo-bolsonaro.shtml
+2021-07-03 21:17:03,979          root     INFO: Finished script
