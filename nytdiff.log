@@ -1,18 +1,8 @@
-2021-07-03 21:58:09,596          root     INFO: Starting script
-2021-07-03 21:58:10,497          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-03 21:58:11,152          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-03 21:58:11,812          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-03 21:58:12,041          root     INFO: Parsing R7 - Brasil
-2021-07-03 21:58:15,239          root     INFO: Manifestantes vão às ruas em <del>ao menos 15</del> <ins>26</ins> capitais em atos pelo impeachment de Bolsonaro
-2021-07-03 21:58:16,943          root     INFO: Media ready with ids: 1411444205931667457
-2021-07-03 21:58:16,944          root     INFO: Text to tweet: Modificação do Título
-2021-07-03 21:58:16,945          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/manifestantes-vao-as-ruas-em-ao-menos-15-capitais-em-atos-pelo-impeachment-de-bolsonaro.shtml
-2021-07-03 21:58:16,957          root     INFO: Replying to: 1411433807308279808
-2021-07-03 21:58:17,200          root     INFO: Id to store: 1411444207408107527
-2021-07-03 21:58:17,208          root     INFO: Manifestantes foram às ruas neste sábado (3) em <del>ao menos 15</del> <ins>26</ins> capitais pedindo o impeachment do presidente Jair Bolsonaro (sem partido). Leia mais (07/03/2021 - 15h34)
-2021-07-03 21:58:18,888          root     INFO: Media ready with ids: 1411444214152503296
-2021-07-03 21:58:18,889          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-03 21:58:18,889          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/manifestantes-vao-as-ruas-em-ao-menos-15-capitais-em-atos-pelo-impeachment-de-bolsonaro.shtml
-2021-07-03 21:58:18,903          root     INFO: Replying to: 1411444207408107527
-2021-07-03 21:58:19,114          root     INFO: Id to store: 1411444215473741825
-2021-07-03 21:58:25,106          root     INFO: Finished script
+2021-07-03 22:17:24,050          root     INFO: Starting script
+2021-07-03 22:17:24,902          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-03 22:17:25,558          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-03 22:17:26,214          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-03 22:17:26,366          root     INFO: Parsing R7 - Brasil
+2021-07-03 22:17:26,520          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/07/a-grande-mentira.shtml
+2021-07-03 22:17:36,176          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/06/entre-fotos-do-brasil-terrivel-cobertura-externa-aponta-culpados.shtml
+2021-07-03 22:17:36,177          root     INFO: Finished script
