@@ -1,26 +1,8 @@
-2021-07-03 02:58:02,276          root     INFO: Starting script
-2021-07-03 02:58:03,091          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-03 02:58:03,747          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-03 02:58:04,405          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-03 02:58:04,558          root     INFO: Parsing R7 - Brasil
-2021-07-03 02:58:13,902          root     INFO: Removed http://noticias.r7.com/brasil/pgr-recorre-da-decisao-que-estende-efeito-da-suspeicao-de-moro-02072021
-2021-07-03 02:58:13,909          root     INFO: Removed http://noticias.r7.com/brasil/concessionarias-cortam-previsao-de-venda-de-carros-em-2021-02072021
-2021-07-03 02:58:13,916          root     INFO: Removed http://noticias.r7.com/brasil/ministerio-da-justica-apoia-acoes-para-combater-o-trafico-de-pessoas-02072021
-2021-07-03 02:58:13,922          root     INFO: Removed http://noticias.r7.com/brasil/videos/video-presidente-da-precisa-rebate-acusacoes-dos-irmaos-02072021
-2021-07-03 02:58:13,928          root     INFO: Removed http://noticias.r7.com/brasil/vai-melhorar-para-todo-mundo-diz-mourao-na-1-reuniao-sem-salles-02072021
-2021-07-03 02:58:13,934          root     INFO: Removed http://noticias.r7.com/brasil/apos-depoimento-barroso-autoriza-devolucao-do-passaporte-de-wizard-02072021
-2021-07-03 02:58:13,940          root     INFO: Removed http://noticias.r7.com/brasil/para-barrar-voto-impresso-partidos-trocam-integrantes-da-comissao-02072021
-2021-07-03 02:58:13,946          root     INFO: Removed http://noticias.r7.com/brasil/pelo-menos-26-mil-doses-de-vacina-vencida-foram-aplicadas-no-pais-02072021
-2021-07-03 02:58:13,952          root     INFO: Removed http://noticias.r7.com/brasil/presidente-da-precisa-envia-video-a-cpi-para-rebater-irmaos-miranda-02072021
-2021-07-03 02:58:13,957          root     INFO: Removed http://noticias.r7.com/brasil/leite-e-primeiro-governador-e-presidenciavel-a-assumir-ser-gay-02072021
-2021-07-03 02:58:13,963          root     INFO: Removed http://noticias.r7.com/brasil/mdb-vai-ao-stf-para-que-ministerio-apresente-protocolo-contra-covid-02072021
-2021-07-03 02:58:13,968          root     INFO: Removed http://noticias.r7.com/brasil/conass-e-conasems-vao-investigar-aplicacao-de-vacinas-vencidas-02072021
-2021-07-03 02:58:13,974          root     INFO: Removed http://noticias.r7.com/brasil/fiocruz-diz-que-lotes-vencidos-nao-foram-produzidos-pela-instituicao-02072021
-2021-07-03 02:58:13,979          root     INFO: Removed http://noticias.r7.com/brasil/comissao-quer-ouvir-presidente-da-cbf-sobre-denuncia-de-assedio-02072021
-2021-07-03 02:58:13,985          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-amplia-atuacao-das-forcas-armadas-em-rondonia-02072021
-2021-07-03 02:58:13,990          root     INFO: Removed http://noticias.r7.com/brasil/analise-e-pela-sua-saude-ou-apenas-lacracao-02072021
-2021-07-03 02:58:13,996          root     INFO: Removed http://noticias.r7.com/brasil/carmen-lucia-envia-a-pgr-pedido-de-impeachment-de-guedes-02072021
-2021-07-03 02:58:14,001          root     INFO: Removed http://noticias.r7.com/brasil/citado-em-escandalo-barros-pede-ao-stf-para-depor-logo-a-cpi-02072021
-2021-07-03 02:58:14,006          root     INFO: Removed http://noticias.r7.com/brasil/cpi-da-covid-ouvira-ex-diretor-da-saude-e-fiscal-da-covaxin-02072021
-2021-07-03 02:58:14,012          root     INFO: Removed http://noticias.r7.com/brasil/cidade-de-sp-revisa-dados-de-7-milhoes-de-doses-contra-covid-02072021
-2021-07-03 02:58:14,012          root     INFO: Finished script
+2021-07-03 03:20:11,199          root     INFO: Starting script
+2021-07-03 03:20:12,153          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-03 03:20:12,935          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-03 03:20:13,706          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-03 03:20:13,972          root     INFO: Parsing R7 - Brasil
+2021-07-03 03:20:16,786          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/defesa-de-lula-diz-que-homem-que-ameacou-petista-com-arma-deve-pagar-r-50-mil-por-efeito-pedagogico.shtml
+2021-07-03 03:20:22,395          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/camara-dos-deputados-deve-rejeitar-protecao-a-luis-miranda-pivo-do-caso-covaxin.shtml
+2021-07-03 03:20:22,396          root     INFO: Finished script
