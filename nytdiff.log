@@ -1,8 +1,10 @@
-2021-07-03 03:36:02,894          root     INFO: Starting script
-2021-07-03 03:36:03,717          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-03 03:36:04,390          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-03 03:36:05,073          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-03 03:36:05,262          root     INFO: Parsing R7 - Brasil
-2021-07-03 03:36:08,835          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/especialistas-afirmam-que-versao-atual-da-reforma-eleitoral-na-camara-pode-diminuir-a-transparencia.shtml
-2021-07-03 03:36:16,247          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/mulher-de-rogerio-caboclo-defende-o-marido-em-grupo-de-whatsapp-chamado-damas-da-bola.shtml
-2021-07-03 03:36:16,247          root     INFO: Finished script
+2021-07-03 03:48:52,316          root     INFO: Starting script
+2021-07-03 03:48:53,146          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-03 03:48:53,837          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-03 03:48:54,507          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-03 03:48:54,757          root     INFO: Parsing R7 - Brasil
+2021-07-03 03:48:54,931          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/07/enquanto-fiat-lidera-vendas-gm-prepara-reacao-com-picape-montana.shtml
+2021-07-03 03:48:58,045          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/coordenador-da-campanha-de-eduardo-paes-assumira-candidatura-de-arthur-do-val-em-sp.shtml
+2021-07-03 03:49:04,783          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/06/preco-de-produtos-agricolas-comeca-a-se-acomodar-no-pais-e-no-mercado-externo.shtml
+2021-07-03 03:49:04,789          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/06/oposicao-aciona-procuradoria-para-investigar-denuncia-de-pedido-de-propina-do-governo-bolsonaro.shtml
+2021-07-03 03:49:04,790          root     INFO: Finished script
