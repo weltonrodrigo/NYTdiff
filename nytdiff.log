@@ -1,15 +1,6 @@
-2021-07-04 17:24:05,048          root     INFO: Starting script
-2021-07-04 17:24:06,011          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-04 17:24:06,803          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-04 17:24:07,612          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-04 17:24:07,867          root     INFO: Parsing R7 - Brasil
-2021-07-04 17:24:08,010          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2021/07/o-brasil-e-inteiramente-rasgado-pela-corrupcao-sem-ela-ele-nao-anda.shtml
-2021-07-04 17:24:10,917          root     INFO: O governador do Rio Grande do Sul, Eduardo Leite (PSDB), afirmou neste domingo (4) que não fez qualquer cálculo político ao <del>assumir</del> <ins>declarar</ins> ser homossexual em entrevista na semana passada e, numa tentativa de rebater as críticas por ter declarado voto em Jair Bolsonaro (sem partido) no segundo turno de 2018, disse que não apoiou o presidente naquele pleito. Leia mais (07/04/2021 - 13h56)
-2021-07-04 17:24:12,759          root     INFO: Media ready with ids: 1411737621823377410
-2021-07-04 17:24:12,760          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-04 17:24:12,760          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/leite-alfineta-doria-sobre-apoio-a-bolsonaro-e-nega-calculo-eleitoral-em-se-declarar-gay.shtml
-2021-07-04 17:24:12,775          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/leite-alfineta-doria-sobre-apoio-a-bolsonaro-e-nega-calculo-eleitoral-em-se-declarar-gay.shtml
-2021-07-04 17:24:13,106          root     INFO: Replying to: 1411737623778021380
-2021-07-04 17:24:13,389          root     INFO: Id to store: 1411737624914579459
-2021-07-04 17:24:19,437          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/06/lula-nao-deveria-ter-exagerado-ao-citar-governo-forte-da-china-no-combate-a-pandemia.shtml
-2021-07-04 17:24:19,438          root     INFO: Finished script
+2021-07-04 17:37:03,202          root     INFO: Starting script
+2021-07-04 17:37:04,169          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-04 17:37:04,972          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-04 17:37:05,764          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-04 17:37:05,977          root     INFO: Parsing R7 - Brasil
+2021-07-04 17:37:15,970          root     INFO: Finished script
