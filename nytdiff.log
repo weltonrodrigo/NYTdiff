@@ -1,6 +1,10 @@
-2021-07-04 23:58:04,419          root     INFO: Starting script
-2021-07-04 23:58:05,302          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-04 23:58:05,983          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-04 23:58:06,658          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-04 23:58:06,871          root     INFO: Parsing R7 - Brasil
-2021-07-04 23:58:16,168          root     INFO: Finished script
+2021-07-05 00:56:13,930          root     INFO: Starting script
+2021-07-05 00:56:14,801          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-05 00:56:15,462          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-05 00:56:16,120          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-05 00:56:16,335          root     INFO: Parsing R7 - Brasil
+2021-07-05 00:56:16,511          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/07/brasil-se-atualiza-na-tatica-e-se-perde-no-campo.shtml
+2021-07-05 00:56:16,526          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/delta-atrapalha-festa-da-independencia-do-virus-nos-estados-unidos.shtml
+2021-07-05 00:56:26,010          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/terremoto-na-saude.shtml
+2021-07-05 00:56:26,015          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/06/cumplices-de-trump-e-bolsonaro-que-ficam-em-silencio-nao-podem-ter-paz.shtml
+2021-07-05 00:56:26,016          root     INFO: Finished script
