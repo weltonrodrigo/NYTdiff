@@ -1,6 +1,12 @@
-2021-07-05 16:28:34,461          root     INFO: Starting script
-2021-07-05 16:28:35,271          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-05 16:28:35,920          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-05 16:28:36,588          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-05 16:28:36,841          root     INFO: Parsing R7 - Brasil
-2021-07-05 16:28:45,943          root     INFO: Finished script
+2021-07-05 17:04:58,113          root     INFO: Starting script
+2021-07-05 17:04:59,073          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-05 17:04:59,872          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-05 17:05:00,651          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-05 17:05:00,917          root     INFO: Parsing R7 - Brasil
+2021-07-05 17:05:01,054          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/veny-santos/2021/07/como-o-conceito-de-responsavel-esta-atrelado-ao-racismo-estrutural.shtml
+2021-07-05 17:05:01,071          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/07/preconceito-contra-os-feios-ganha-nome-e-pode-ser-alvo-ate-de-protecao-legal.shtml
+2021-07-05 17:05:03,695          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/stf-forma-maioria-para-arquivar-pedido-de-investigacao-de-cheques-a-michelle-bolsonaro.shtml
+2021-07-05 17:05:09,406          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/07/coordenadas-para-acordar-do-pesadelo-brasileiro.shtml
+2021-07-05 17:05:09,410          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2021/06/o-dia-em-que-o-psicopata-genocida-chorou.shtml
+2021-07-05 17:05:09,414          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/06/copo-do-emprego-pode-estar-meio-cheio-ou-meio-vazio-mas-esta-pingado-de-sangue.shtml
+2021-07-05 17:05:09,415          root     INFO: Finished script
