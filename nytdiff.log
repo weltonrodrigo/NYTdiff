@@ -1,13 +1,13 @@
-2021-07-05 01:47:49,777          root     INFO: Starting script
-2021-07-05 01:47:50,783          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-05 01:47:51,545          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-05 01:47:52,327          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-05 01:47:52,568          root     INFO: Parsing R7 - Brasil
-2021-07-05 01:48:01,217          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-e-sua-base-criticam-nas-redes-sociais-atos-contra-o-governo-04072021
-2021-07-05 01:48:01,232          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-recuperar-passaporte-wizard-retorna-aos-estados-unidos-04072021
-2021-07-05 01:48:01,244          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-pesquisadores-nao-da-para-saber-destino-de-doses-vencidas-04072021
-2021-07-05 01:48:01,256          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-e-o-3-no-mundo-que-mais-vacina-por-dia-em-doses-totais-04072021
-2021-07-05 01:48:01,268          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-por-que-nossos-politicos-sao-como-sao-04072021
-2021-07-05 01:48:01,282          root     INFO: New article tracked: http://noticias.r7.com/brasil/bndes-e-fundo-internacional-criam-projeto-de-r-1-bi-para-semiarido-04072021
-2021-07-05 01:48:01,441          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-diz-ter-indicios-de-que-renan-recebeu-propina-da-odebrecht-04072021
-2021-07-05 01:48:01,685          root     INFO: Finished script
+2021-07-05 02:14:23,596          root     INFO: Starting script
+2021-07-05 02:14:24,495          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-05 02:14:25,185          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-05 02:14:25,882          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-05 02:14:26,022          root     INFO: Parsing R7 - Brasil
+2021-07-05 02:14:37,499          root     INFO: Removed http://noticias.r7.com/brasil/brasil-e-o-3-no-mundo-que-mais-vacina-por-dia-em-doses-totais-04072021
+2021-07-05 02:14:37,506          root     INFO: Removed http://noticias.r7.com/brasil/pf-diz-ter-indicios-de-que-renan-recebeu-propina-da-odebrecht-04072021
+2021-07-05 02:14:37,512          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-e-sua-base-criticam-nas-redes-sociais-atos-contra-o-governo-04072021
+2021-07-05 02:14:37,518          root     INFO: Removed http://noticias.r7.com/brasil/analise-por-que-nossos-politicos-sao-como-sao-04072021
+2021-07-05 02:14:37,524          root     INFO: Removed http://noticias.r7.com/brasil/apos-recuperar-passaporte-wizard-retorna-aos-estados-unidos-04072021
+2021-07-05 02:14:37,533          root     INFO: Removed http://noticias.r7.com/brasil/para-pesquisadores-nao-da-para-saber-destino-de-doses-vencidas-04072021
+2021-07-05 02:14:37,547          root     INFO: Removed http://noticias.r7.com/brasil/bndes-e-fundo-internacional-criam-projeto-de-r-1-bi-para-semiarido-04072021
+2021-07-05 02:14:37,548          root     INFO: Finished script
