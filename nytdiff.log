@@ -1,10 +1,13 @@
-2021-07-05 00:56:13,930          root     INFO: Starting script
-2021-07-05 00:56:14,801          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-05 00:56:15,462          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-05 00:56:16,120          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-05 00:56:16,335          root     INFO: Parsing R7 - Brasil
-2021-07-05 00:56:16,511          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/07/brasil-se-atualiza-na-tatica-e-se-perde-no-campo.shtml
-2021-07-05 00:56:16,526          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/delta-atrapalha-festa-da-independencia-do-virus-nos-estados-unidos.shtml
-2021-07-05 00:56:26,010          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/06/terremoto-na-saude.shtml
-2021-07-05 00:56:26,015          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/06/cumplices-de-trump-e-bolsonaro-que-ficam-em-silencio-nao-podem-ter-paz.shtml
-2021-07-05 00:56:26,016          root     INFO: Finished script
+2021-07-05 01:47:49,777          root     INFO: Starting script
+2021-07-05 01:47:50,783          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-05 01:47:51,545          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-05 01:47:52,327          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-05 01:47:52,568          root     INFO: Parsing R7 - Brasil
+2021-07-05 01:48:01,217          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-e-sua-base-criticam-nas-redes-sociais-atos-contra-o-governo-04072021
+2021-07-05 01:48:01,232          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-recuperar-passaporte-wizard-retorna-aos-estados-unidos-04072021
+2021-07-05 01:48:01,244          root     INFO: New article tracked: http://noticias.r7.com/brasil/para-pesquisadores-nao-da-para-saber-destino-de-doses-vencidas-04072021
+2021-07-05 01:48:01,256          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-e-o-3-no-mundo-que-mais-vacina-por-dia-em-doses-totais-04072021
+2021-07-05 01:48:01,268          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-por-que-nossos-politicos-sao-como-sao-04072021
+2021-07-05 01:48:01,282          root     INFO: New article tracked: http://noticias.r7.com/brasil/bndes-e-fundo-internacional-criam-projeto-de-r-1-bi-para-semiarido-04072021
+2021-07-05 01:48:01,441          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-diz-ter-indicios-de-que-renan-recebeu-propina-da-odebrecht-04072021
+2021-07-05 01:48:01,685          root     INFO: Finished script
