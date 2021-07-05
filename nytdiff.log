@@ -1,6 +1,12 @@
-2021-07-05 18:41:17,230          root     INFO: Starting script
-2021-07-05 18:41:18,140          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-05 18:41:18,808          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-05 18:41:19,483          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-05 18:41:19,636          root     INFO: Parsing R7 - Brasil
-2021-07-05 18:41:28,488          root     INFO: Finished script
+2021-07-05 18:53:12,700          root     INFO: Starting script
+2021-07-05 18:53:13,682          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-05 18:53:14,484          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-05 18:53:15,294          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-05 18:53:15,551          root     INFO: Parsing R7 - Brasil
+2021-07-05 18:53:19,082          root     INFO: O Partido Novo decidiu apoiar formalmente o impeachment do presidente Jair Bolsonaro, em razão, sobretudo, de seu desempenha no combate à pandemia da Covid-19. Leia mais (07/05/2021 - <del>12h13)</del> <ins>15h47)</ins>
+2021-07-05 18:53:20,817          root     INFO: Media ready with ids: 1412122441065840645
+2021-07-05 18:53:20,817          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-05 18:53:20,817          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/novo-decide-apoiar-impeachment-de-bolsonaro-por-falhas-contra-covid-e-denuncias-sobre-vacina.shtml
+2021-07-05 18:53:20,829          root     INFO: Replying to: 1412114655489806342
+2021-07-05 18:53:21,126          root     INFO: Id to store: 1412122442781319171
+2021-07-05 18:53:28,145          root     INFO: Finished script
