@@ -1,6 +1,15 @@
-2021-07-05 17:58:04,902          root     INFO: Starting script
-2021-07-05 17:58:05,902          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-05 17:58:06,699          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-05 17:58:07,508          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-05 17:58:07,805          root     INFO: Parsing R7 - Brasil
-2021-07-05 17:58:17,782          root     INFO: Finished script
+2021-07-05 18:22:15,981          root     INFO: Starting script
+2021-07-05 18:22:16,957          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-05 18:22:17,755          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-05 18:22:18,544          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-05 18:22:18,748          root     INFO: Parsing R7 - Brasil
+2021-07-05 18:22:22,037          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/reprovacao-do-governo-bolsonaro-sobe-para-482-aponta-pesquisa-cntmda.shtml
+2021-07-05 18:22:22,089          root     INFO: O Partido Novo decidiu apoiar formalmente o impeachment do presidente Jair Bolsonaro, em razão, sobretudo, de seu desempenha no combate à pandemia da Covid-19. Leia mais (07/05/2021 - <del>12h13)</del> <ins>15h01)</ins>
+2021-07-05 18:22:23,901          root     INFO: Media ready with ids: 1412114652599926788
+2021-07-05 18:22:23,902          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-05 18:22:23,902          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/novo-decide-apoiar-impeachment-de-bolsonaro-por-falhas-contra-covid-e-denuncias-sobre-vacina.shtml
+2021-07-05 18:22:23,914          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/novo-decide-apoiar-impeachment-de-bolsonaro-por-falhas-contra-covid-e-denuncias-sobre-vacina.shtml
+2021-07-05 18:22:24,200          root     INFO: Replying to: 1412114654516715522
+2021-07-05 18:22:24,491          root     INFO: Id to store: 1412114655489806342
+2021-07-05 18:22:31,203          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/ex-diretor-da-saude-confirma-encontro-com-vendedor-de-vacinas-nega-pedido-de-propina-e-sugere-armacao.shtml
+2021-07-05 18:22:31,204          root     INFO: Finished script
