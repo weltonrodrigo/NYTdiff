@@ -1,20 +1,19 @@
-2021-07-06 18:22:13,174          root     INFO: Starting script
-2021-07-06 18:22:14,009          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-06 18:22:14,653          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-06 18:22:15,295          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-06 18:22:15,459          root     INFO: Parsing R7 - Brasil
-2021-07-06 18:22:18,268          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/apos-13-dias-serra-e-liberado-de-isolamento-por-covid-19-em-sp.shtml
-2021-07-06 18:22:18,312          root     INFO: <del>Senadores veem</del> <ins>Ao ouvir servidora, CPI da Covid vê</ins> novos indícios de falhas em compra da Covaxin <del>ao ouvir servidora na CPI</del>
-2021-07-06 18:22:20,067          root     INFO: Media ready with ids: 1412477024376082435
-2021-07-06 18:22:20,068          root     INFO: Text to tweet: Modificação do Título
-2021-07-06 18:22:20,068          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/senadores-veem-novos-indicios-de-falhas-em-compra-da-covaxin-ao-ouvir-servidora-na-cpi.shtml
-2021-07-06 18:22:20,077          root     INFO: Replying to: 1412470945613287440
-2021-07-06 18:22:20,337          root     INFO: Id to store: 1412477025944752128
-2021-07-06 18:22:20,344          root     INFO: Os senadores que integram <del>da</del> <ins>a</ins> CPI da Covid enxergaram novos indícios de falhas na <del>aquisição</del> <ins>compra</ins> da vacina indiana <del>Covaxin, após depoimento</del> <ins>Covaxin pelo governo Jair Bolsonaro depois</ins> da servidora do Ministério da Saúde que atua como fiscal do contrato, Regina Célia Silva Oliveira, admitir <ins>em depoimento</ins> que o processo ficou sem fiscalização por cerca de um mês. Leia mais (07/06/2021 - 14h35)
-2021-07-06 18:22:25,166          root     INFO: Media ready with ids: 1412477045637066753
-2021-07-06 18:22:25,167          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-06 18:22:25,167          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/senadores-veem-novos-indicios-de-falhas-em-compra-da-covaxin-ao-ouvir-servidora-na-cpi.shtml
-2021-07-06 18:22:25,177          root     INFO: Replying to: 1412477025944752128
-2021-07-06 18:22:25,429          root     INFO: Id to store: 1412477047327297542
-2021-07-06 18:22:31,782          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/jean-wyllys-ataca-eduardo-leite-por-se-declarar-gay-mas-apoiar-bolsonaro-homofobico.shtml
-2021-07-06 18:22:31,783          root     INFO: Finished script
+2021-07-06 18:41:06,948          root     INFO: Starting script
+2021-07-06 18:41:07,900          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-06 18:41:08,683          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-06 18:41:09,450          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-06 18:41:09,688          root     INFO: Parsing R7 - Brasil
+2021-07-06 18:41:09,841          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/07/e-manha-na-america-de-joe-biden.shtml
+2021-07-06 18:41:17,515          root     INFO: New article tracked: http://noticias.r7.com/brasil/congresso-vai-instalar-comissao-para-discutir-o-orcamento-2022-06072021
+2021-07-06 18:41:17,527          root     INFO: New article tracked: http://noticias.r7.com/brasil/omar-aziz-sugere-que-queiroga-esta-alterando-contrato-da-covaxin-06072021
+2021-07-06 18:41:17,546          root     INFO: New article tracked: http://noticias.r7.com/brasil/nunca-sofri-pressao-diz-fiscal-que-autorizou-importacao-da-covaxin-06072021
+2021-07-06 18:41:17,560          root     INFO: New article tracked: http://noticias.r7.com/brasil/petrobras-encerra-venda-de-sua-participacao-na-br-distribuidora-06072021
+2021-07-06 18:41:17,573          root     INFO: New article tracked: http://noticias.r7.com/brasil/contrato-com-covaxin-ficou-sem-fiscal-por-quase-1-mes-diz-servidora-06072021
+2021-07-06 18:41:17,587          root     INFO: New article tracked: http://noticias.r7.com/brasil/servidora-diz-que-nao-houve-nada-atipico-no-processo-da-covaxin-06072021
+2021-07-06 18:41:17,600          root     INFO: New article tracked: http://noticias.r7.com/brasil/de-olho-em-2022-apresentador-jose-luiz-datena-se-filia-ao-psl-06072021
+2021-07-06 18:41:17,614          root     INFO: New article tracked: http://noticias.r7.com/brasil/servidora-contradiz-miranda-e-nega-pagamento-antecipado-por-covaxin-06072021
+2021-07-06 18:41:17,626          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-diz-nao-ver-fato-novo-que-justifique-impeachment-06072021
+2021-07-06 18:41:17,637          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-ouve-servidora-que-autorizou-importacao-da-covaxin-siga-06072021
+2021-07-06 18:41:17,648          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-insiste-em-quebras-de-sigilo-e-pressiona-por-prorrogacao-06072021
+2021-07-06 18:41:17,899          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/claudia-costin/2021/07/envelhecer-aprendendo.shtml
+2021-07-06 18:41:17,900          root     INFO: Finished script
