@@ -1,15 +1,18 @@
-2021-07-06 03:36:44,208          root     INFO: Starting script
-2021-07-06 03:36:45,026          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-06 03:36:45,684          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-06 03:36:46,346          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-06 03:36:46,530          root     INFO: Parsing R7 - Brasil
-2021-07-06 03:36:49,495          root     INFO: Campanha em <del>Arapiraca (AL)</del> <ins>Alagoas</ins> pressiona Lira por análise de superpedido de impeachment
-2021-07-06 03:36:51,120          root     INFO: Media ready with ids: 1412254185589030912
-2021-07-06 03:36:51,121          root     INFO: Text to tweet: Modificação do Título
-2021-07-06 03:36:51,121          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/campanha-em-arapiraca-al-pressiona-lira-por-analise-de-superpedido-de-impeachment.shtml
-2021-07-06 03:36:51,130          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/campanha-em-arapiraca-al-pressiona-lira-por-analise-de-superpedido-de-impeachment.shtml
-2021-07-06 03:36:51,287          root     INFO: Replying to: 1412254186830454788
-2021-07-06 03:36:51,500          root     INFO: Id to store: 1412254187514216448
-2021-07-06 03:36:51,600          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2021/07/sobre-a-violencia-nos-protestos.shtml
-2021-07-06 03:36:57,258          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/ptb-pede-cassacao-de-luis-miranda-ao-conselho-de-etica-da-camara.shtml
-2021-07-06 03:36:57,259          root     INFO: Finished script
+2021-07-06 03:49:32,609          root     INFO: Starting script
+2021-07-06 03:49:33,605          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-06 03:49:34,389          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-06 03:49:35,202          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-06 03:49:35,508          root     INFO: Parsing R7 - Brasil
+2021-07-06 03:49:44,932          root     INFO: New article tracked: http://noticias.r7.com/brasil/alta-do-diesel-surpreende-caminhoneiros-e-greve-ganha-forca-05072021
+2021-07-06 03:49:44,949          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-cobra-depoimento-de-ricardo-barros-a-cpi-da-covid-05072021
+2021-07-06 03:49:44,963          root     INFO: New article tracked: http://noticias.r7.com/brasil/ccj-do-senado-aprova-novos-ministros-para-o-stm-e-tst-05072021
+2021-07-06 03:49:44,977          root     INFO: New article tracked: http://noticias.r7.com/brasil/lewandowski-da-5-dias-para-cpi-se-manifestar-sobre-oitiva-de-barros-05072021
+2021-07-06 03:49:44,992          root     INFO: New article tracked: http://noticias.r7.com/brasil/stf-homologa-acordo-e-impoe-multa-de-r-20-mil-a-daniel-silveira-05072021
+2021-07-06 03:49:45,006          root     INFO: New article tracked: http://noticias.r7.com/brasil/stj-nega-pedido-para-garantir-vacinacao-imediata-de-adolescentes-05072021
+2021-07-06 03:49:45,018          root     INFO: New article tracked: http://noticias.r7.com/brasil/quadrilhao-do-mdb-e-juiz-de-garantias-estao-na-pauta-do-stf-05072021
+2021-07-06 03:49:45,032          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-prorroga-por-tres-meses-pagamento-do-auxilio-emergencial-05072021
+2021-07-06 03:49:45,049          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-quer-convocacao-de-ex-cunhada-de-bolsonaro-a-cpi-05072021
+2021-07-06 03:49:45,066          root     INFO: New article tracked: http://noticias.r7.com/brasil/senadores-acionam-stf-para-prorrogar-trabalhos-da-cpi-da-covid-05072021
+2021-07-06 03:49:45,081          root     INFO: New article tracked: http://noticias.r7.com/brasil/tcu-cobra-explicacoes-do-governo-sobre-preco-da-covaxin-05072021
+2021-07-06 03:49:45,096          root     INFO: New article tracked: http://noticias.r7.com/brasil/senador-protocola-pedido-de-instalacao-de-cpi-da-rachadinha-05072021
+2021-07-06 03:49:45,358          root     INFO: Finished script
