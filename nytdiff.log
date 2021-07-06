@@ -1,30 +1,6 @@
-2021-07-06 02:50:17,954          root     INFO: Starting script
-2021-07-06 02:50:18,814          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-06 02:50:19,465          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-06 02:50:20,117          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-06 02:50:20,392          root     INFO: Parsing R7 - Brasil
-2021-07-06 02:50:20,553          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/07/a-cabeca-do-general-na-bandeja.shtml
-2021-07-06 02:50:20,568          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/07/a-vacina-contra-o-golpe.shtml
-2021-07-06 02:50:23,498          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/grupo-criminoso-desvia-r-15-bi-de-investidores-em-bitcoin-mostra-pf.shtml
-2021-07-06 02:50:23,552          root     INFO: <del>Cadidatos</del> <ins>Candidatos</ins> ao Itamaraty são surpreendidos por locais de prova em lojas maçônicas
-2021-07-06 02:50:25,405          root     INFO: Media ready with ids: 1412242500899770371
-2021-07-06 02:50:25,406          root     INFO: Text to tweet: Modificação do Título
-2021-07-06 02:50:25,406          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/cadidatos-ao-itamaraty-sao-surpreendidos-por-locais-de-prova-em-lojas-maconicas.shtml
-2021-07-06 02:50:25,417          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/cadidatos-ao-itamaraty-sao-surpreendidos-por-locais-de-prova-em-lojas-maconicas.shtml
-2021-07-06 02:50:25,590          root     INFO: Replying to: 1412242502753599492
-2021-07-06 02:50:25,831          root     INFO: Id to store: 1412242503542231042
-2021-07-06 02:50:25,884          root     INFO: PDT e sindicatos querem PCO fora da organização de atos após <del>agrassões</del> <ins>agressões</ins> contra militantes
-2021-07-06 02:50:27,545          root     INFO: Media ready with ids: 1412242510441766915
-2021-07-06 02:50:27,546          root     INFO: Text to tweet: Modificação do Título
-2021-07-06 02:50:27,546          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/pdt-e-sindicatos-querem-pco-fora-da-organizacao-de-atos-apos-agrassoes-contra-militantes.shtml
-2021-07-06 02:50:27,557          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/pdt-e-sindicatos-querem-pco-fora-da-organizacao-de-atos-apos-agrassoes-contra-militantes.shtml
-2021-07-06 02:50:27,718          root     INFO: Replying to: 1412242511704252416
-2021-07-06 02:50:27,961          root     INFO: Id to store: 1412242512471863300
-2021-07-06 02:50:27,981          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/campanha-em-arapiraca-al-pressiona-lira-por-analise-de-superpedido-de-impeachment.shtml
-2021-07-06 02:50:27,996          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/abin-intensifica-monitoramento-de-protetos-contra-bolsonaro-e-pede-mais-informacoes-sobre-estados.shtml
-2021-07-06 02:50:34,318          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/parece-briga-de-grupos-criminosos-diz-renan-calheiros-sobre-denuncia-de-propina-na-saude.shtml
-2021-07-06 02:50:34,324          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/angela-alonso/2021/07/o-que-sustenta-uma-democracia-sao-instituicoes-nao-moralizadores.shtml
-2021-07-06 02:50:34,329          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/pt-aciona-o-stf-para-obrigar-lira-a-pelo-menos-analisar-pedido-de-impeachment-de-bolsonaro.shtml
-2021-07-06 02:50:34,334          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/07/ser-aceito-no-partido-comunista-representa-uma-estrela-no-curriculo.shtml
-2021-07-06 02:50:34,340          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/pvc/2021/07/crise-na-cbf-e-vista-como-chance-para-clubes-formatarem-liga.shtml
-2021-07-06 02:50:34,341          root     INFO: Finished script
+2021-07-06 02:58:10,974          root     INFO: Starting script
+2021-07-06 02:58:11,932          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-06 02:58:12,725          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-06 02:58:13,494          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-06 02:58:13,687          root     INFO: Parsing R7 - Brasil
+2021-07-06 02:58:21,786          root     INFO: Finished script
