@@ -1,8 +1,15 @@
-2021-07-06 16:28:19,186          root     INFO: Starting script
-2021-07-06 16:28:20,023          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-06 16:28:20,668          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-06 16:28:21,315          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-06 16:28:21,601          root     INFO: Parsing R7 - Brasil
-2021-07-06 16:28:24,781          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-diz-a-ministros-que-pretende-indicar-andre-mendonca-para-o-supremo.shtml
-2021-07-06 16:28:31,198          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/carmen-lucia-envia-inquerito-de-salles-ao-trf.shtml
-2021-07-06 16:28:31,199          root     INFO: Finished script
+2021-07-06 17:04:45,737          root     INFO: Starting script
+2021-07-06 17:04:46,673          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-06 17:04:47,436          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-06 17:04:48,234          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-06 17:04:48,460          root     INFO: Parsing R7 - Brasil
+2021-07-06 17:04:48,606          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/07/e-preciso-ter-muita-burrice-para-reclamar-do-apoio-tucano-as-manifestacoes.shtml
+2021-07-06 17:04:51,408          root     INFO: O presidente Jair Bolsonaro (sem partido) afirmou em reunião ministerial que pretender indicar o ministro André Mendonça, da <del>Advocacia-Geral</del> <ins>AGU (Advocacia-Geral</ins> da <del>União,</del> <ins>União),</ins> para a vaga no STF (Supremo Tribunal Federal) que será aberta com a aposentadoria do ministro Marco Aurélio, que completa a idade limite de 75 anos. Leia mais (07/06/2021 - 13h12)
+2021-07-06 17:04:53,257          root     INFO: Media ready with ids: 1412457534246490115
+2021-07-06 17:04:53,258          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-06 17:04:53,258          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-diz-a-ministros-que-pretende-indicar-andre-mendonca-para-o-supremo.shtml
+2021-07-06 17:04:53,269          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-diz-a-ministros-que-pretende-indicar-andre-mendonca-para-o-supremo.shtml
+2021-07-06 17:04:53,559          root     INFO: Replying to: 1412457536150720512
+2021-07-06 17:04:53,835          root     INFO: Id to store: 1412457537060933632
+2021-07-06 17:04:59,869          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/lockdown-nao-deve-ser-descartado.shtml
+2021-07-06 17:04:59,870          root     INFO: Finished script
