@@ -1,19 +1,8 @@
-2021-07-06 20:58:25,070          root     INFO: Starting script
-2021-07-06 20:58:25,917          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-06 20:58:26,605          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-06 20:58:27,278          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-06 20:58:27,564          root     INFO: Parsing R7 - Brasil
-2021-07-06 20:58:30,894          root     INFO: Em reunião com presidentes de partidos nesta terça-feira (6), o presidente da <del>Câmara</del> <ins>Câmara,</ins> Artur Lira <del>(PP-AL)</del> <ins>(PP-AL),</ins> se comprometeu a pautar só em agosto a votação da reforma eleitoral na Casa. Leia mais (07/06/2021 - 17h29)
-2021-07-06 20:58:32,697          root     INFO: Media ready with ids: 1412516335926624257
-2021-07-06 20:58:32,698          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-06 20:58:32,698          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/em-reuniao-com-lideres-de-partidos-lira-se-compromete-a-deixar-reforma-eleitoral-para-agosto.shtml
-2021-07-06 20:58:32,709          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/em-reuniao-com-lideres-de-partidos-lira-se-compromete-a-deixar-reforma-eleitoral-para-agosto.shtml
-2021-07-06 20:58:32,940          root     INFO: Replying to: 1412516337612636161
-2021-07-06 20:58:33,256          root     INFO: Id to store: 1412516338459873282
-2021-07-06 20:58:33,430          root     INFO: O presidente Jair Bolsonaro <del>(sem partido)</del> afirmou em reunião ministerial que <del>pretender</del> <ins>pretende</ins> indicar <del>o ministro</del> André Mendonça, <ins>chefe</ins> da <del>Advocacia-Geral</del> <ins>AGU (Advocacia-Geral</ins> da <del>União,</del> <ins>União),</ins> para a vaga no STF (Supremo Tribunal Federal) que será aberta com a aposentadoria do ministro Marco Aurélio, que completa a idade limite de 75 <del>anos.</del> <ins>anos em 12 de julho.</ins> Leia mais (07/06/2021 - 13h12)
-2021-07-06 20:58:35,200          root     INFO: Media ready with ids: 1412516346353664004
-2021-07-06 20:58:35,200          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-06 20:58:35,200          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-diz-a-ministros-que-pretende-indicar-andre-mendonca-para-o-supremo.shtml
-2021-07-06 20:58:35,211          root     INFO: Replying to: 1412457537060933632
-2021-07-06 20:58:35,435          root     INFO: Id to store: 1412516347976761344
-2021-07-06 20:58:42,159          root     INFO: Finished script
+2021-07-06 21:17:22,478          root     INFO: Starting script
+2021-07-06 21:17:23,287          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-06 21:17:23,937          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-06 21:17:24,589          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-06 21:17:24,766          root     INFO: Parsing R7 - Brasil
+2021-07-06 21:17:24,922          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/efetividade-da-pfizer-cai-de-94-para-64-contra-delta-destacam-wsj-e-ft.shtml
+2021-07-06 21:17:34,469          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/07/a-prova-de-blindagem.shtml
+2021-07-06 21:17:34,470          root     INFO: Finished script
