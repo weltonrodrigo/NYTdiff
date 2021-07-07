@@ -1,12 +1,13 @@
-2021-07-07 18:42:36,148          root     INFO: Starting script
-2021-07-07 18:42:37,089          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-07 18:42:37,858          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-07 18:42:38,626          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-07 18:42:38,886          root     INFO: Parsing R7 - Brasil
-2021-07-07 18:42:39,034          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/fernandatorres/2021/07/bolsonaro-virou-as-costas-para-pfizer-e-janssen-por-medo-de-virar-jacare.shtml
-2021-07-07 18:42:41,429          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/proposta-de-guedes-de-transformar-manaus-na-capital-mundial-sustentavel-sao-palavras-ao-vento-diz-deputado.shtml
-2021-07-07 18:42:41,439          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-sugere-oracoes-em-sessoes-do-stf-e-fala-na-intencao-de-indicar-andre-mendonca-a-corte.shtml
-2021-07-07 18:42:46,540          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/katia-rubio/2021/07/jogos-olimpicos-tem-tambem-historias-fantasticas-de-quem-nao-subiu-ao-podio.shtml
-2021-07-07 18:42:46,545          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/davati-disse-ter-distribuidor-para-fornecer-milhoes-de-vacinas-mas-se-recusa-a-informar-nome.shtml
-2021-07-07 18:42:46,548          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/executivos-do-setor-aereo-dizem-que-volta-ao-patamar-pre-pandemia-ainda-deve-demorar-no-brasil.shtml
-2021-07-07 18:42:46,549          root     INFO: Finished script
+2021-07-07 18:54:50,602          root     INFO: Starting script
+2021-07-07 18:54:51,564          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-07 18:54:52,346          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-07 18:54:53,121          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-07 18:54:53,365          root     INFO: Parsing R7 - Brasil
+2021-07-07 18:54:56,444          root     INFO: O presidente Jair Bolsonaro (sem partido) confirmou nesta quarta-feira (7) <del>que vai</del> <ins>sua intenção de</ins> indicar o atual titular da AGU (Advocacia-Geral da União), André Mendonça, para a vaga do ministro Marco Aurélio Mello no STF (Supremo Tribunal Federal). <del>Em entrevista à rádio Guaíba, Bolsonaro disse que ter que honrar seus compromissos. No passado, ele havia prometido indicar alguém "terrivelmente evangélico" para o STF. "Hoje em dia, é nossa intenção, sim, indicar o senhor André Mendonça para o STF", afirmou Bolsonaro. ? O presidente disse que Mendonça tem "um notável saber jurídico" e é um homem "sério, humilde", que "não abre mão das suas convicções".</del> Leia mais (07/07/2021 - 15h25)
+2021-07-07 18:54:58,601          root     INFO: Media ready with ids: 1412847625632616452
+2021-07-07 18:54:58,602          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-07 18:54:58,602          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-sugere-oracoes-em-sessoes-do-stf-e-fala-na-intencao-de-indicar-andre-mendonca-a-corte.shtml
+2021-07-07 18:54:58,613          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-sugere-oracoes-em-sessoes-do-stf-e-fala-na-intencao-de-indicar-andre-mendonca-a-corte.shtml
+2021-07-07 18:54:58,843          root     INFO: Replying to: 1412847628560257026
+2021-07-07 18:54:59,158          root     INFO: Id to store: 1412847629554311171
+2021-07-07 18:55:05,315          root     INFO: Finished script
