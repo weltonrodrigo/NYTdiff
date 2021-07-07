@@ -1,8 +1,10 @@
-2021-07-07 22:58:07,448          root     INFO: Starting script
-2021-07-07 22:58:08,407          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-07 22:58:09,189          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-07 22:58:09,958          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-07 22:58:10,180          root     INFO: Parsing R7 - Brasil
-2021-07-07 22:58:10,320          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/07/argentina-x-brasil-messi-x-neymar-e-tudo-de-que-cova-america-precisava.shtml
-2021-07-07 22:58:18,668          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/tres-americanas-e-duas-chinesas-levam-46-da-publicidade-global.shtml
-2021-07-07 22:58:18,669          root     INFO: Finished script
+2021-07-07 23:17:38,447          root     INFO: Starting script
+2021-07-07 23:17:39,303          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-07 23:17:39,958          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-07 23:17:40,623          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-07 23:17:40,753          root     INFO: Parsing R7 - Brasil
+2021-07-07 23:17:43,751          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-pressao-lider-do-governo-diz-que-bolsonaro-recua-e-mantem-indicacao-de-aliado-de-barros-a-ans.shtml
+2021-07-07 23:17:43,766          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/ex-diretor-apresenta-versao-inverossimil-mas-cpi-extrapola-ao-mandar-prende-lo-sem-prova-de-mentira.shtml
+2021-07-07 23:17:49,885          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/menos-nacionais-atos-trazem-bolsonaro-corrupto-ao-lado-do-genocida.shtml
+2021-07-07 23:17:49,891          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/pedido-de-propina-de-us-1-revelado-pela-folha-pauta-cartazes-de-manifestantes-em-atos-contra-bolsonaro.shtml
+2021-07-07 23:17:49,892          root     INFO: Finished script
