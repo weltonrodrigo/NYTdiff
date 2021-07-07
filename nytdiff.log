@@ -1,23 +1,6 @@
-2021-07-07 22:33:33,930          root     INFO: Starting script
-2021-07-07 22:33:34,745          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-07 22:33:35,414          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-07 22:33:36,079          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-07 22:33:36,338          root     INFO: Parsing R7 - Brasil
-2021-07-07 22:33:39,205          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-prisao-de-ex-diretor-pela-cpi-da-covid-relembre-outros-casos-de-detencao-em-cpis.shtml
-2021-07-07 22:33:39,226          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/veja-o-momento-em-que-presidente-da-cpi-da-ordem-de-prisao-a-ex-diretor-acusado-de-pedir-propina.shtml
-2021-07-07 22:33:39,943          root     INFO: <del>Dominguetti</del> <ins>Dominghetti</ins> já falava em superfaturamento de vacinas semanas antes de suposto pedido de propina
-2021-07-07 22:33:41,609          root     INFO: Media ready with ids: 1412902668801122315
-2021-07-07 22:33:41,610          root     INFO: Text to tweet: Modificação do Título
-2021-07-07 22:33:41,610          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/dominguetti-ja-falava-em-superfaturamento-de-vacinas-semanas-antes-de-suposto-pedido-de-propina.shtml
-2021-07-07 22:33:41,622          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/dominguetti-ja-falava-em-superfaturamento-de-vacinas-semanas-antes-de-suposto-pedido-de-propina.shtml
-2021-07-07 22:33:41,785          root     INFO: Replying to: 1412902670193545220
-2021-07-07 22:33:42,012          root     INFO: Id to store: 1412902670873075715
-2021-07-07 22:33:42,021          root     INFO: Mensagens de texto encontradas no telefone celular de Luiz Paulo <del>Dominguetti</del> <ins>Dominghetti</ins> mostram que o PM já falava sobre a existência de superfaturamento dentro do Ministério da Saúde no início de fevereiro, ou seja, semanas antes do jantar em que teria recebido de Roberto Ferreira Dias, então diretor de Logística da pasta, o pedido de propina de US$ 1 dólar por dose de vacina. Leia mais (07/06/2021 - 22h58)
-2021-07-07 22:33:43,763          root     INFO: Media ready with ids: 1412902677613252614
-2021-07-07 22:33:43,764          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-07 22:33:43,764          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/dominguetti-ja-falava-em-superfaturamento-de-vacinas-semanas-antes-de-suposto-pedido-de-propina.shtml
-2021-07-07 22:33:43,774          root     INFO: Replying to: 1412902670873075715
-2021-07-07 22:33:43,999          root     INFO: Id to store: 1412902679190327304
-2021-07-07 22:33:49,289          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/pf-cita-propina-de-r-1-milhao-ao-indiciar-renan-por-corrupcao-e-lavagem-de-dinheiro.shtml
-2021-07-07 22:33:49,294          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/manifestantes-vao-as-ruas-em-ao-menos-15-capitais-em-atos-pelo-impeachment-de-bolsonaro.shtml
-2021-07-07 22:33:49,295          root     INFO: Finished script
+2021-07-07 22:46:58,879          root     INFO: Starting script
+2021-07-07 22:47:00,052          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-07 22:47:00,699          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-07 22:47:01,344          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-07 22:47:01,563          root     INFO: Parsing R7 - Brasil
+2021-07-07 22:47:09,941          root     INFO: Finished script
