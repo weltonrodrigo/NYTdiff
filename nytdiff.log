@@ -1,10 +1,20 @@
-2021-07-07 23:17:38,447          root     INFO: Starting script
-2021-07-07 23:17:39,303          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-07 23:17:39,958          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-07 23:17:40,623          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-07 23:17:40,753          root     INFO: Parsing R7 - Brasil
-2021-07-07 23:17:43,751          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-pressao-lider-do-governo-diz-que-bolsonaro-recua-e-mantem-indicacao-de-aliado-de-barros-a-ans.shtml
-2021-07-07 23:17:43,766          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/ex-diretor-apresenta-versao-inverossimil-mas-cpi-extrapola-ao-mandar-prende-lo-sem-prova-de-mentira.shtml
-2021-07-07 23:17:49,885          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/menos-nacionais-atos-trazem-bolsonaro-corrupto-ao-lado-do-genocida.shtml
-2021-07-07 23:17:49,891          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/pedido-de-propina-de-us-1-revelado-pela-folha-pauta-cartazes-de-manifestantes-em-atos-contra-bolsonaro.shtml
-2021-07-07 23:17:49,892          root     INFO: Finished script
+2021-07-07 23:31:03,350          root     INFO: Starting script
+2021-07-07 23:31:04,185          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-07 23:31:04,838          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-07 23:31:05,501          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-07 23:31:05,733          root     INFO: Parsing R7 - Brasil
+2021-07-07 23:31:08,697          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/defesa-e-comandantes-reagem-a-fala-de-aziz-na-cpi-e-dizem-que-forcas-armadas-nao-aceitarao-ataque-leviano.shtml
+2021-07-07 23:31:08,885          root     INFO: <del>Presidente</del> <ins>Ex-diretor</ins> da <ins>Saúde pivô de denúncia de propina é preso sob acusação de mentir à</ins> CPI da Covid <del>determina prisão de ex-diretor acusado de pedir propina na gestão Bolsonaro</del>
+2021-07-07 23:31:10,605          root     INFO: Media ready with ids: 1412917135005847556
+2021-07-07 23:31:10,605          root     INFO: Text to tweet: Modificação do Título
+2021-07-07 23:31:10,605          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-da-cpi-da-covid-determina-prisao-de-ex-diretor-acusado-de-pedir-propina-na-gestao-bolsonaro.shtml
+2021-07-07 23:31:10,614          root     INFO: Replying to: 1412898719633190912
+2021-07-07 23:31:10,853          root     INFO: Id to store: 1412917136411013127
+2021-07-07 23:31:10,862          root     INFO: <del>O presidente</del> <ins>Presidente</ins> da CPI da Covid, <ins>o</ins> senador Omar Aziz <del>(PSD-AM),</del> <ins>(PSD-AM)</ins> determinou nesta quarta-feira (7) a <del>detenção</del> <ins>prisão</ins> do ex-diretor de logística do Ministério da Saúde Roberto Ferreira <del>Dias.</del> <ins>Dias, exonerado do cargo do governo de Jair Bolsonaro na semana passada após denúncia de pedido de propina revelada pela Folha.</ins> Leia mais (07/07/2021 - 17h33)
+2021-07-07 23:31:12,621          root     INFO: Media ready with ids: 1412917143218307077
+2021-07-07 23:31:12,622          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-07 23:31:12,623          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-da-cpi-da-covid-determina-prisao-de-ex-diretor-acusado-de-pedir-propina-na-gestao-bolsonaro.shtml
+2021-07-07 23:31:12,635          root     INFO: Replying to: 1412917136411013127
+2021-07-07 23:31:12,872          root     INFO: Id to store: 1412917144883499012
+2021-07-07 23:31:19,239          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/lula-quebra-silencio-sobre-suspeitas-de-corrupcao-sob-bolsonaro-e-diz-que-se-for-verdade-cpi-e-supremo-devem-agir.shtml
+2021-07-07 23:31:19,240          root     INFO: Finished script
