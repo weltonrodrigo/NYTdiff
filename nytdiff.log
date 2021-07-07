@@ -1,6 +1,31 @@
-2021-07-07 23:47:06,880          root     INFO: Starting script
-2021-07-07 23:47:07,696          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-07 23:47:08,370          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-07 23:47:09,057          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-07 23:47:09,164          root     INFO: Parsing R7 - Brasil
-2021-07-07 23:47:17,804          root     INFO: Finished script
+2021-07-07 23:58:14,942          root     INFO: Starting script
+2021-07-07 23:58:15,730          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-07 23:58:16,375          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-07 23:58:17,020          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-07 23:58:17,206          root     INFO: Parsing R7 - Brasil
+2021-07-07 23:58:20,191          root     INFO: Após <del>pressão, líder do governo diz que Bolsonaro recua e mantém indicação</del> <ins>recuo</ins> de <del>aliado</del> <ins>Bolsonaro, Senado aprova ex-chefe de gabinete</ins> de Barros <del>a</del> <ins>para presidir</ins> ANS
+2021-07-07 23:58:21,889          root     INFO: Media ready with ids: 1412923977035550722
+2021-07-07 23:58:21,889          root     INFO: Text to tweet: Modificação do Título
+2021-07-07 23:58:21,889          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-pressao-lider-do-governo-diz-que-bolsonaro-recua-e-mantem-indicacao-de-aliado-de-barros-a-ans.shtml
+2021-07-07 23:58:21,900          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-pressao-lider-do-governo-diz-que-bolsonaro-recua-e-mantem-indicacao-de-aliado-de-barros-a-ans.shtml
+2021-07-07 23:58:22,089          root     INFO: Replying to: 1412923978511958021
+2021-07-07 23:58:22,299          root     INFO: Id to store: 1412923979191492611
+2021-07-07 23:58:22,306          root     INFO: <del>O líder</del> <ins>Após idas e vindas</ins> do <del>governo no Senado, Fernando Bezerra (MDB-PE), afirmou nesta quarta-feira (7) que o</del> presidente Jair <del>Bolsonaro (sem partido) recuou e decidiu manter a indicação</del> <ins>Bolsonaro, o plenário</ins> do <ins>Senado aprovou na noite desta quarta-feira (7) Paulo Roberto Vanderlei Rebello Filho,</ins> ex-chefe de gabinete <del>do líder</del> do governo na Câmara, Ricardo Barros (PP-PR), para <del>a presidência</del> <ins>o cargo de diretor-presidente</ins> da ANS (Agência Nacional de Saúde Suplementar). Leia mais (07/07/2021 - 20h08)
+2021-07-07 23:58:24,148          root     INFO: Media ready with ids: 1412923985910812672
+2021-07-07 23:58:24,148          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-07 23:58:24,148          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-pressao-lider-do-governo-diz-que-bolsonaro-recua-e-mantem-indicacao-de-aliado-de-barros-a-ans.shtml
+2021-07-07 23:58:24,161          root     INFO: Replying to: 1412923979191492611
+2021-07-07 23:58:24,368          root     INFO: Id to store: 1412923987869544450
+2021-07-07 23:58:24,531          root     INFO: <del>Presidente</del> <ins>Ex-diretor</ins> da <ins>Saúde pivô de denúncia de propina é preso sob acusação de mentir à</ins> CPI da Covid <del>determina prisão de ex-diretor acusado de pedir propina na gestão Bolsonaro</del>
+2021-07-07 23:58:26,180          root     INFO: Media ready with ids: 1412923995050086400
+2021-07-07 23:58:26,180          root     INFO: Text to tweet: Modificação do Título
+2021-07-07 23:58:26,180          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-da-cpi-da-covid-determina-prisao-de-ex-diretor-acusado-de-pedir-propina-na-gestao-bolsonaro.shtml
+2021-07-07 23:58:26,190          root     INFO: Replying to: 1412917144883499012
+2021-07-07 23:58:26,473          root     INFO: Id to store: 1412923996497133568
+2021-07-07 23:58:26,481          root     INFO: <del>O presidente</del> <ins>Presidente</ins> da CPI da Covid, <ins>o</ins> senador Omar Aziz <del>(PSD-AM),</del> <ins>(PSD-AM)</ins> determinou nesta quarta-feira (7) a <del>detenção</del> <ins>prisão</ins> do ex-diretor de <del>logística</del> <ins>Logística</ins> do Ministério da Saúde Roberto Ferreira <del>Dias.</del> <ins>Dias, exonerado do cargo do governo de Jair Bolsonaro na semana passada após denúncia de pedido de propina revelada pela Folha.</ins> Leia mais (07/07/2021 - 17h33)
+2021-07-07 23:58:28,208          root     INFO: Media ready with ids: 1412924003375849477
+2021-07-07 23:58:28,208          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-07 23:58:28,208          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-da-cpi-da-covid-determina-prisao-de-ex-diretor-acusado-de-pedir-propina-na-gestao-bolsonaro.shtml
+2021-07-07 23:58:28,218          root     INFO: Replying to: 1412923996497133568
+2021-07-07 23:58:28,464          root     INFO: Id to store: 1412924005007376387
+2021-07-07 23:58:34,327          root     INFO: Finished script
