@@ -1,13 +1,8 @@
-2021-07-07 17:45:20,513          root     INFO: Starting script
-2021-07-07 17:45:21,396          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-07 17:45:22,087          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-07 17:45:22,771          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-07 17:45:23,037          root     INFO: Parsing R7 - Brasil
-2021-07-07 17:45:26,571          root     INFO: O Conselho de Ética da Câmara aprovou o parecer do deputado Fernando Rodolfo (PL-PE) que recomenda a suspensão por seis meses do mandato do bolsonarista Daniel Silveira (PSL-RJ) por ter publicado um vídeo com ataques ao STF (Supremo Tribunal Federal) e apologia <del>da</del> <ins>à</ins> ditadura militar. Leia mais (07/07/2021 - 13h37)
-2021-07-07 17:45:28,584          root     INFO: Media ready with ids: 1412830135976402951
-2021-07-07 17:45:28,584          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-07 17:45:28,584          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/conselho-de-etica-da-camara-vota-a-favor-da-suspensao-por-6-meses-do-mandato-de-daniel-silveira.shtml
-2021-07-07 17:45:28,594          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/conselho-de-etica-da-camara-vota-a-favor-da-suspensao-por-6-meses-do-mandato-de-daniel-silveira.shtml
-2021-07-07 17:45:28,791          root     INFO: Replying to: 1412830138111254533
-2021-07-07 17:45:29,059          root     INFO: Id to store: 1412830139000446982
-2021-07-07 17:45:36,119          root     INFO: Finished script
+2021-07-07 17:54:04,742          root     INFO: Starting script
+2021-07-07 17:54:05,635          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-07 17:54:06,317          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-07 17:54:06,995          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-07 17:54:07,192          root     INFO: Parsing R7 - Brasil
+2021-07-07 17:54:10,843          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/ex-diretor-nega-propina-reforca-a-cpi-negociacao-paralela-de-vacina-e-deixa-lacunas-sobre-jantar-que-o-derrubou-do-ministerio.shtml
+2021-07-07 17:54:18,420          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/especialistas-afirmam-que-versao-atual-da-reforma-eleitoral-na-camara-pode-diminuir-a-transparencia.shtml
+2021-07-07 17:54:18,421          root     INFO: Finished script
