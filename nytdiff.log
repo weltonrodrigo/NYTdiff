@@ -1,15 +1,12 @@
-2021-07-07 20:58:01,006          root     INFO: Starting script
-2021-07-07 20:58:01,834          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-07 20:58:02,510          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-07 20:58:03,176          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-07 20:58:03,405          root     INFO: Parsing R7 - Brasil
-2021-07-07 20:58:06,690          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/preso-por-ordem-da-cpi-ex-diretor-acumulou-contradicoes-e-lacunas-em-depoimento-entenda.shtml
-2021-07-07 20:58:06,742          root     INFO: <del>O presidente</del> <ins>Presidente</ins> da CPI da Covid, <ins>o</ins> senador Omar Aziz <del>(PSD-AM),</del> <ins>(PSD-AM)</ins> determinou nesta quarta-feira (7) a detenção do ex-diretor de logística do Ministério da Saúde Roberto Ferreira <del>Dias.</del> <ins>Dias, exonerado do cargo na semana passada após denúncia de pedido de propina revelada pela Folha.</ins> Leia mais (07/07/2021 - 17h33)
-2021-07-07 20:58:08,484          root     INFO: Media ready with ids: 1412878622264893443
-2021-07-07 20:58:08,485          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-07 20:58:08,485          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-da-cpi-da-covid-determina-prisao-de-ex-diretor-acusado-de-pedir-propina-na-gestao-bolsonaro.shtml
-2021-07-07 20:58:08,499          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-da-cpi-da-covid-determina-prisao-de-ex-diretor-acusado-de-pedir-propina-na-gestao-bolsonaro.shtml
-2021-07-07 20:58:08,867          root     INFO: Replying to: 1412878624609509376
-2021-07-07 20:58:09,093          root     INFO: Id to store: 1412878625301467136
-2021-07-07 20:58:15,470          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/evangelicos-de-esquerda-superam-divisoes-internas-e-se-unem-em-protesto-contra-bolsonaro.shtml
-2021-07-07 20:58:15,470          root     INFO: Finished script
+2021-07-07 21:17:13,592          root     INFO: Starting script
+2021-07-07 21:17:14,552          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-07 21:17:15,320          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-07 21:17:16,126          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-07 21:17:16,360          root     INFO: Parsing R7 - Brasil
+2021-07-07 21:17:19,371          root     INFO: <del>O presidente</del> <ins>Presidente</ins> da CPI da Covid, <ins>o</ins> senador Omar Aziz <del>(PSD-AM),</del> <ins>(PSD-AM)</ins> determinou nesta quarta-feira (7) a <del>detenção</del> <ins>prisão</ins> do ex-diretor de logística do Ministério da Saúde Roberto Ferreira <del>Dias.</del> <ins>Dias, exonerado do cargo do governo de Jair Bolsonaro na semana passada após denúncia de pedido de propina revelada pela Folha.</ins> Leia mais (07/07/2021 - 17h33)
+2021-07-07 21:17:21,261          root     INFO: Media ready with ids: 1412883457089449995
+2021-07-07 21:17:21,262          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-07 21:17:21,262          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-da-cpi-da-covid-determina-prisao-de-ex-diretor-acusado-de-pedir-propina-na-gestao-bolsonaro.shtml
+2021-07-07 21:17:21,272          root     INFO: Replying to: 1412878625301467136
+2021-07-07 21:17:21,596          root     INFO: Id to store: 1412883459173933056
+2021-07-07 21:17:27,690          root     INFO: Finished script
