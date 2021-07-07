@@ -1,28 +1,30 @@
-2021-07-07 16:46:47,426          root     INFO: Starting script
-2021-07-07 16:46:48,416          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-07 16:46:49,208          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-07 16:46:49,993          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-07 16:46:50,325          root     INFO: Parsing R7 - Brasil
-2021-07-07 16:46:53,713          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/conselho-de-etica-da-camara-vota-a-favor-da-suspensao-por-6-meses-do-mandato-de-daniel-silveira.shtml
-2021-07-07 16:46:59,799          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-tera-de-parar-de-funcionar-caso-ldo-seja-aprovada-diz-pacheco-07072021
-2021-07-07 16:46:59,812          root     INFO: New article tracked: http://noticias.r7.com/brasil/rose-de-freitas-ira-presidir-a-comissao-do-orcamento-2022-07072021
-2021-07-07 16:46:59,826          root     INFO: New article tracked: http://noticias.r7.com/brasil/nunca-fiz-pressao-diz-ex-diretor-sobre-importacao-da-covaxin-07072021
-2021-07-07 16:46:59,841          root     INFO: New article tracked: http://noticias.r7.com/brasil/analise-aglomerar-em-festa-de-famoso-e-genocidio-do-bem-07072021
-2021-07-07 16:46:59,856          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-quer-que-facilitador-de-fuga-seja-preso-em-flagrante-07072021
-2021-07-07 16:46:59,870          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-exames-serra-e-submetido-a-cateterismo-e-colocacao-de-stent-07072021
-2021-07-07 16:46:59,886          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-aprova-convocacao-de-membro-de-ong-citada-por-dominguetti-07072021
-2021-07-07 16:46:59,904          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputada-propoe-que-varias-pessoas-ocupem-vaga-parlamentar-07072021
-2021-07-07 16:46:59,918          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-acusacoes-partem-de-pessoas-desqualificadas-diz-roberto-dias-07072021
-2021-07-07 16:46:59,932          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-ja-esta-decolando-outra-vez-afirma-paulo-guedes-07072021
-2021-07-07 16:46:59,946          root     INFO: New article tracked: http://noticias.r7.com/brasil/coordenadora-da-vacinacao-nacional-tem-demissao-publicada-07072021
-2021-07-07 16:46:59,961          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-ouve-ex-diretor-do-ministerio-da-saude-roberto-dias-veja-ao-vivo-07072021
-2021-07-07 16:46:59,976          root     INFO: New article tracked: http://noticias.r7.com/brasil/general-da-reserva-e-oficializado-na-diretoria-de-logistica-da-saude-07072021
-2021-07-07 16:46:59,993          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-desiste-de-indicar-aliado-de-barros-para-presidencia-da-ans-07072021
-2021-07-07 16:47:00,009          root     INFO: New article tracked: http://noticias.r7.com/brasil/senado-ignora-lei-e-aprova-diretor-de-entidade-sindical-para-a-antt-07072021
-2021-07-07 16:47:00,024          root     INFO: New article tracked: http://noticias.r7.com/brasil/procurador-geral-se-posiciona-contra-privatizacao-dos-correios-07072021
-2021-07-07 16:47:00,038          root     INFO: New article tracked: http://noticias.r7.com/brasil/moraes-da-48h-para-daniel-silveira-explicar-pedidos-de-asilo-a-4-paises-07072021
-2021-07-07 16:47:00,051          root     INFO: New article tracked: http://noticias.r7.com/brasil/pouco-mais-de-40-dos-moradores-de-favelas-foi-vacinada-diz-pesquisa-07072021
-2021-07-07 16:47:00,066          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-ouve-ex-diretor-do-ministerio-da-saude-acusado-de-pedir-propina-07072021
-2021-07-07 16:47:00,079          root     INFO: New article tracked: http://noticias.r7.com/brasil/amazonas-tem-1-dia-sem-registro-de-morte-por-covid-19-em-16-meses-07072021
-2021-07-07 16:47:00,098          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/apesar-de-bravata-magistrados-acreditam-que-bolsonaro-nao-desafiara-o-tse.shtml
-2021-07-07 16:47:00,098          root     INFO: Finished script
+2021-07-07 17:18:22,706          root     INFO: Starting script
+2021-07-07 17:18:23,542          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-07 17:18:24,235          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-07 17:18:24,868          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-07 17:18:25,043          root     INFO: Parsing R7 - Brasil
+2021-07-07 17:18:28,660          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-diligencias-sigilosas-cgu-contradiz-ministro-bolsonarista-e-investiga-suspeitas-de-corrupcao-na-compra-de-vacinas.shtml
+2021-07-07 17:18:28,680          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/centrais-sindicais-falam-em-intolerancia-e-autoritarismo-do-pco-apos-agressoes-contra-tucanos.shtml
+2021-07-07 17:18:35,319          root     INFO: Removed http://noticias.r7.com/brasil/coordenadora-da-vacinacao-nacional-tem-demissao-publicada-07072021
+2021-07-07 17:18:35,328          root     INFO: Removed http://noticias.r7.com/brasil/senado-ignora-lei-e-aprova-diretor-de-entidade-sindical-para-a-antt-07072021
+2021-07-07 17:18:35,333          root     INFO: Removed http://noticias.r7.com/brasil/pouco-mais-de-40-dos-moradores-de-favelas-foi-vacinada-diz-pesquisa-07072021
+2021-07-07 17:18:35,337          root     INFO: Removed http://noticias.r7.com/brasil/procurador-geral-se-posiciona-contra-privatizacao-dos-correios-07072021
+2021-07-07 17:18:35,342          root     INFO: Removed http://noticias.r7.com/brasil/amazonas-tem-1-dia-sem-registro-de-morte-por-covid-19-em-16-meses-07072021
+2021-07-07 17:18:35,347          root     INFO: Removed http://noticias.r7.com/brasil/brasil-ja-esta-decolando-outra-vez-afirma-paulo-guedes-07072021
+2021-07-07 17:18:35,352          root     INFO: Removed http://noticias.r7.com/brasil/cpi-ouve-ex-diretor-do-ministerio-da-saude-acusado-de-pedir-propina-07072021
+2021-07-07 17:18:35,357          root     INFO: Removed http://noticias.r7.com/brasil/analise-aglomerar-em-festa-de-famoso-e-genocidio-do-bem-07072021
+2021-07-07 17:18:35,362          root     INFO: Removed http://noticias.r7.com/brasil/cpi-aprova-convocacao-de-membro-de-ong-citada-por-dominguetti-07072021
+2021-07-07 17:18:35,367          root     INFO: Removed http://noticias.r7.com/brasil/cpi-ouve-ex-diretor-do-ministerio-da-saude-roberto-dias-veja-ao-vivo-07072021
+2021-07-07 17:18:35,375          root     INFO: Removed http://noticias.r7.com/brasil/rose-de-freitas-ira-presidir-a-comissao-do-orcamento-2022-07072021
+2021-07-07 17:18:35,382          root     INFO: Removed http://noticias.r7.com/brasil/apos-exames-serra-e-submetido-a-cateterismo-e-colocacao-de-stent-07072021
+2021-07-07 17:18:35,388          root     INFO: Removed http://noticias.r7.com/brasil/general-da-reserva-e-oficializado-na-diretoria-de-logistica-da-saude-07072021
+2021-07-07 17:18:35,394          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49857
+2021-07-07 17:18:35,399          root     INFO: Removed http://noticias.r7.com/brasil/moraes-da-48h-para-daniel-silveira-explicar-pedidos-de-asilo-a-4-paises-07072021
+2021-07-07 17:18:35,404          root     INFO: Removed http://noticias.r7.com/brasil/nunca-fiz-pressao-diz-ex-diretor-sobre-importacao-da-covaxin-07072021
+2021-07-07 17:18:35,409          root     INFO: Removed http://noticias.r7.com/brasil/deputado-quer-que-facilitador-de-fuga-seja-preso-em-flagrante-07072021
+2021-07-07 17:18:35,414          root     INFO: Removed http://noticias.r7.com/brasil/cpi-acusacoes-partem-de-pessoas-desqualificadas-diz-roberto-dias-07072021
+2021-07-07 17:18:35,419          root     INFO: Removed http://noticias.r7.com/brasil/cpi-tera-de-parar-de-funcionar-caso-ldo-seja-aprovada-diz-pacheco-07072021
+2021-07-07 17:18:35,425          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/defesa-de-lula-diz-que-homem-que-ameacou-petista-com-arma-deve-pagar-r-50-mil-por-efeito-pedagogico.shtml
+2021-07-07 17:18:35,430          root     INFO: Removed http://noticias.r7.com/brasil/deputada-propoe-que-varias-pessoas-ocupem-vaga-parlamentar-07072021
+2021-07-07 17:18:35,438          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-desiste-de-indicar-aliado-de-barros-para-presidencia-da-ans-07072021
+2021-07-07 17:18:35,439          root     INFO: Finished script
