@@ -1,8 +1,26 @@
-2021-07-07 10:20:44,333          root     INFO: Starting script
-2021-07-07 10:20:45,246          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-07 10:20:45,887          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-07 10:20:46,528          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-07 10:20:46,746          root     INFO: Parsing R7 - Brasil
-2021-07-07 10:20:46,934          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/07/a-realidade-dos-salarios-na-venezuela.shtml
-2021-07-07 10:20:55,917          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2021/07/com-estrategia-faca-no-pescoco-guedes-se-esforca-para-afastar-investidores.shtml
-2021-07-07 10:20:55,918          root     INFO: Finished script
+2021-07-07 10:37:22,277          root     INFO: Starting script
+2021-07-07 10:37:23,132          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-07 10:37:23,781          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-07 10:37:24,428          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-07 10:37:24,565          root     INFO: Parsing R7 - Brasil
+2021-07-07 10:37:27,491          root     INFO: Grupo da Covaxin enganou Saúde em compra de R$ 20 milhões na gestão <ins>de Ricardo</ins> Barros, afirma <del>pasta</del> <ins>ministério</ins>
+2021-07-07 10:37:29,235          root     INFO: Media ready with ids: 1412722429688958977
+2021-07-07 10:37:29,235          root     INFO: Text to tweet: Modificação do Título
+2021-07-07 10:37:29,235          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/grupo-da-covaxin-enganou-saude-em-compra-de-r-20-milhoes-na-gestao-barros-afirma-pasta.shtml
+2021-07-07 10:37:29,246          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/grupo-da-covaxin-enganou-saude-em-compra-de-r-20-milhoes-na-gestao-barros-afirma-pasta.shtml
+2021-07-07 10:37:29,470          root     INFO: Replying to: 1412722431245103107
+2021-07-07 10:37:29,724          root     INFO: Id to store: 1412722432075501572
+2021-07-07 10:37:29,732          root     INFO: O Ministério da Saúde apontou que o mesmo grupo empresarial que vendeu a vacina indiana Covaxin na pandemia de Covid-19 havia enganado o governo federal em um negócio de R$ 20 milhões feito em 2017 por medicamentos jamais entregues. <del>O contrato foi firmado quando o ministro era Ricardo Barros, hoje deputado (PP-PR) e líder do governo Jair Bolsonaro na Câmara, com a empresa Global Gestão em Saúde -sócia da Precisa Medicamentos, representante da Covaxin no Brasil. Em 2019, quando cobrava a devolução da verba, a Saúde afirmou que a Global havia usado "expedientes procrastinatórios e obscuros" e induzido o governo a acreditar que os medicamentos seriam entregues.</del> Leia mais (07/06/2021 - 23h15)
+2021-07-07 10:37:31,482          root     INFO: Media ready with ids: 1412722438807425029
+2021-07-07 10:37:31,483          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-07 10:37:31,483          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/grupo-da-covaxin-enganou-saude-em-compra-de-r-20-milhoes-na-gestao-barros-afirma-pasta.shtml
+2021-07-07 10:37:31,493          root     INFO: Replying to: 1412722432075501572
+2021-07-07 10:37:31,702          root     INFO: Id to store: 1412722440426426371
+2021-07-07 10:37:31,790          root     INFO: Em meio a denúncias de irregularidades na contratação de vacinas envolvendo o nome do líder do governo na Câmara, Ricardo Barros (PP-PR), o presidente Jair Bolsonaro retirou nesta terça-feira (6) a indicação para que um ex-chefe de gabinete do deputado assumisse a presidência da ANS (Agência Nacional de Saúde Complementar). <del>Paulo Roberto Vanderlei Rebello Filho, atual diretor de Normas e Habilitação das Operadoras na ANS, havia sido indicado por Bolsonaro para exercer o cargo de diretor-presidente da agência em dezembro do ano passado e teria seu nome apreciado pelo Senado nesta semana. Além de ter trabalhado como chefe de gabinete de Barros, quando o deputado foi ministro da Saúde do governo Michel Temer (MDB), Rebello também tem parentesco com um petista, o vereador no Rio de Janeiro Lindbergh Farias, que já foi senador.</del> Leia mais (07/06/2021 - 23h07)
+2021-07-07 10:37:33,650          root     INFO: Media ready with ids: 1412722447904874498
+2021-07-07 10:37:33,651          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-07 10:37:33,651          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-retira-indicacao-de-ex-chefe-de-gabinete-de-ricardo-barros-para-comando-da-ans.shtml
+2021-07-07 10:37:33,661          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-retira-indicacao-de-ex-chefe-de-gabinete-de-ricardo-barros-para-comando-da-ans.shtml
+2021-07-07 10:37:33,846          root     INFO: Replying to: 1412722449536499715
+2021-07-07 10:37:34,094          root     INFO: Id to store: 1412722450429788160
+2021-07-07 10:37:39,364          root     INFO: Finished script
