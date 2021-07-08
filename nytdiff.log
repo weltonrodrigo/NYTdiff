@@ -1,7 +1,12 @@
-2021-07-08 02:58:04,885          root     INFO: Starting script
-2021-07-08 02:58:05,851          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-08 02:58:06,656          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-08 02:58:07,436          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-08 02:58:07,779          root     INFO: Parsing R7 - Brasil
-2021-07-08 02:58:16,292          root     INFO: Removed http://noticias.r7.com/brasil/aziz-anuncia-prisao-de-ex-diretor-da-saude-acusado-de-propina-07072021
-2021-07-08 02:58:16,292          root     INFO: Finished script
+2021-07-08 03:20:31,767          root     INFO: Starting script
+2021-07-08 03:20:32,603          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-08 03:20:33,278          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-08 03:20:33,958          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-08 03:20:34,182          root     INFO: Parsing R7 - Brasil
+2021-07-08 03:20:37,446          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/senadores-veem-possivel-tiro-pela-culatra-na-cpi-apos-prisao-de-ex-diretor-do-ministerio-da-saude.shtml
+2021-07-08 03:20:43,405          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-recebe-mais-600-mil-doses-da-vacina-da-pfizer-em-campinas-sp-07072021
+2021-07-08 03:20:43,419          root     INFO: New article tracked: http://noticias.r7.com/brasil/defesa-diz-que-silveira-agiu-sem-pensar-sobre-pedidos-de-asilo-07072021
+2021-07-08 03:20:43,433          root     INFO: New article tracked: http://noticias.r7.com/brasil/saiba-quem-e-roberto-ferreira-dias-preso-em-sessao-da-cpi-da-covid-07072021
+2021-07-08 03:20:43,447          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-da-defesa-rebate-aziz-por-fala-na-cpi-acusacao-irresponsavel-07072021
+2021-07-08 03:20:43,951          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/carmen-lucia-vai-decidir-sobre-pedido-do-pt-para-obrigar-lira-a-decidir-sobre-impeachment.shtml
+2021-07-08 03:20:43,952          root     INFO: Finished script
