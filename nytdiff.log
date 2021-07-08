@@ -1,38 +1,28 @@
-2021-07-08 22:17:54,429          root     INFO: Starting script
-2021-07-08 22:17:55,379          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-08 22:17:56,154          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-08 22:17:56,932          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-08 22:17:57,249          root     INFO: Parsing R7 - Brasil
-2021-07-08 22:17:57,512          root     INFO: Antes de sair o Datafolha, a cobertura no exterior já era crítica ao presidente brasileiro, com as novas edições das revistas Der Spiegel, alemã, e The Economist, inglesa, apontando o impacto das <del>novas</del> acusações e a ascensão de Lula. Leia mais (07/08/2021 - 17h58)
-2021-07-08 22:17:59,325          root     INFO: Media ready with ids: 1413261103996485632
-2021-07-08 22:17:59,326          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-08 22:17:59,326          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/em-queda-bolsonaro-ameaca-eleicao-mas-eua-nao-prestam-atencao.shtml
-2021-07-08 22:17:59,338          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/em-queda-bolsonaro-ameaca-eleicao-mas-eua-nao-prestam-atencao.shtml
-2021-07-08 22:17:59,544          root     INFO: Replying to: 1413261106039173121
-2021-07-08 22:17:59,776          root     INFO: Id to store: 1413261106777411585
-2021-07-08 22:18:02,277          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/aziz-evita-novo-choque-com-militares-mas-membros-da-cpi-elevam-tom-contra-tentativa-de-intimidacao.shtml
-2021-07-08 22:18:02,392          root     INFO: Antes de sair o Datafolha, a cobertura no exterior já era crítica ao presidente brasileiro, com as novas edições das revistas Der Spiegel, alemã, e The Economist, inglesa, apontando o impacto das <del>novas</del> acusações e a ascensão de Lula. Leia mais (07/08/2021 - 17h58)
-2021-07-08 22:18:04,106          root     INFO: Media ready with ids: 1413261124372414465
-2021-07-08 22:18:04,106          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-08 22:18:04,106          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/em-queda-bolsonaro-ameaca-eleicao-mas-eua-nao-prestam-atencao.shtml
-2021-07-08 22:18:04,124          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/em-queda-bolsonaro-ameaca-eleicao-mas-eua-nao-prestam-atencao.shtml
-2021-07-08 22:18:04,375          root     INFO: Replying to: 1413261126180032512
-2021-07-08 22:18:04,629          root     INFO: Id to store: 1413261127052582914
-2021-07-08 22:18:09,630          root     INFO: New article tracked: http://noticias.r7.com/brasil/mpf-move-acao-contra-daniel-silveira-por-reembolso-indevido-08072021
-2021-07-08 22:18:09,643          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-comprou-100-mi-de-doses-a-menos-do-covax-diz-francieli-08072021
-2021-07-08 22:18:09,656          root     INFO: New article tracked: http://noticias.r7.com/brasil/rejeicao-a-bolsonaro-sobe-a-52-mostra-pesquisa-xpipespe-08072021
-2021-07-08 22:18:09,667          root     INFO: New article tracked: http://noticias.r7.com/brasil/relator-e-vice-da-cpi-dizem-que-militares-nao-intimidarao-comissao-08072021
-2021-07-08 22:18:09,679          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-pede-que-bolsonaro-confirme-ou-negue-denuncia-de-luis-miranda-08072021
-2021-07-08 22:18:09,692          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-francieli-e-avisada-por-relator-que-nao-e-mais-investigada-08072021
-2021-07-08 22:18:09,704          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-omar-aziz-desviou-r-260-mi-no-amazonas-08072021
-2021-07-08 22:18:09,718          root     INFO: New article tracked: http://noticias.r7.com/brasil/servidora-diz-que-elcio-franco-vetou-prioridade-de-presos-na-vacinacao-08072021
-2021-07-08 22:18:09,730          root     INFO: New article tracked: http://noticias.r7.com/brasil/criminosos-usam-foto-de-pgr-para-pedir-dinheiro-por-whatsapp-08072021
-2021-07-08 22:18:09,741          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerios-devem-elaborar-protocolo-para-aulas-presenciais-08072021
-2021-07-08 22:18:09,753          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-brasil-tem-pressa-para-modernizar-economia-e-sociedade-08072021
-2021-07-08 22:18:09,765          root     INFO: New article tracked: http://noticias.r7.com/brasil/francieli-diz-que-falta-de-apoio-de-bolsonaro-prejudicou-vacinacao-08072021
-2021-07-08 22:18:09,777          root     INFO: New article tracked: http://noticias.r7.com/brasil/queiroga-toda-vez-que-houver-denuncia-incendiaria-eu-exonero-08072021
-2021-07-08 22:18:09,790          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputada-edna-macedo-visita-municipios-do-oeste-de-sao-paulo-08072021
-2021-07-08 22:18:09,802          root     INFO: New article tracked: http://noticias.r7.com/brasil/cpi-um-dia-apos-prisao-depoente-recusa-acordo-para-dizer-a-verdade-08072021
-2021-07-08 22:18:09,814          root     INFO: New article tracked: http://noticias.r7.com/brasil/estudio-news-de-sabado-discute-rumos-da-economia-criativa-08072021
-2021-07-08 22:18:09,939          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/cpi-quer-avancar-no-caso-coxavin-e-quebrar-sigilo-de-envolvidos-na-denuncia-de-propina-de-us-1-por-vacina.shtml
-2021-07-08 22:18:09,940          root     INFO: Finished script
+2021-07-08 22:33:35,880          root     INFO: Starting script
+2021-07-08 22:33:36,713          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-08 22:33:37,383          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-08 22:33:38,059          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-08 22:33:38,232          root     INFO: Parsing R7 - Brasil
+2021-07-08 22:33:41,586          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/07/bolsonaro-renova-desgaste-registrado-apos-demissao-de-moro.shtml
+2021-07-08 22:33:41,604          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/caguei-para-a-cpi-nao-vou-responder-nada-diz-bolsonaro-sobre-carta-de-senadores.shtml
+2021-07-08 22:33:41,621          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/a-batata-dele-comeca-a-assar-diz-presidente-do-pt-sobre-impeachment-de-bolsonaro-apos-datafolha.shtml
+2021-07-08 22:33:48,385          root     INFO: Removed http://noticias.r7.com/brasil/ministerios-devem-elaborar-protocolo-para-aulas-presenciais-08072021
+2021-07-08 22:33:48,391          root     INFO: Removed http://noticias.r7.com/brasil/servidora-diz-que-elcio-franco-vetou-prioridade-de-presos-na-vacinacao-08072021
+2021-07-08 22:33:48,396          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/ao-congresso-barroso-deve-defender-semipresidencialismo-e-apontar-riscos-de-fraude-com-volta-do-voto-impresso.shtml
+2021-07-08 22:33:48,401          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-diz-que-omar-aziz-desviou-r-260-mi-no-amazonas-08072021
+2021-07-08 22:33:48,406          root     INFO: Removed http://noticias.r7.com/brasil/criminosos-usam-foto-de-pgr-para-pedir-dinheiro-por-whatsapp-08072021
+2021-07-08 22:33:48,413          root     INFO: Removed http://noticias.r7.com/brasil/cpi-pede-que-bolsonaro-confirme-ou-negue-denuncia-de-luis-miranda-08072021
+2021-07-08 22:33:48,418          root     INFO: Removed http://noticias.r7.com/brasil/rejeicao-a-bolsonaro-sobe-a-52-mostra-pesquisa-xpipespe-08072021
+2021-07-08 22:33:48,423          root     INFO: Removed http://noticias.r7.com/brasil/cpi-um-dia-apos-prisao-depoente-recusa-acordo-para-dizer-a-verdade-08072021
+2021-07-08 22:33:48,429          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-brasil-tem-pressa-para-modernizar-economia-e-sociedade-08072021
+2021-07-08 22:33:48,434          root     INFO: Removed http://noticias.r7.com/brasil/queiroga-toda-vez-que-houver-denuncia-incendiaria-eu-exonero-08072021
+2021-07-08 22:33:48,440          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/mesmo-com-pressao-contraria-do-congresso-bolsonaro-segue-disposto-a-indicar-mendonca-ao-stf-dizem-aliados.shtml
+2021-07-08 22:33:48,445          root     INFO: Removed http://noticias.r7.com/brasil/mpf-move-acao-contra-daniel-silveira-por-reembolso-indevido-08072021
+2021-07-08 22:33:48,450          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/apesar-de-protestos-dirigentes-do-centrao-dizem-que-congresso-segue-sem-clima-para-analisar-impeachment.shtml
+2021-07-08 22:33:48,457          root     INFO: Removed http://noticias.r7.com/brasil/francieli-diz-que-falta-de-apoio-de-bolsonaro-prejudicou-vacinacao-08072021
+2021-07-08 22:33:48,462          root     INFO: Removed http://noticias.r7.com/brasil/relator-e-vice-da-cpi-dizem-que-militares-nao-intimidarao-comissao-08072021
+2021-07-08 22:33:48,474          root     INFO: Removed http://noticias.r7.com/brasil/deputada-edna-macedo-visita-municipios-do-oeste-de-sao-paulo-08072021
+2021-07-08 22:33:48,480          root     INFO: Removed http://noticias.r7.com/brasil/governo-comprou-100-mi-de-doses-a-menos-do-covax-diz-francieli-08072021
+2021-07-08 22:33:48,485          root     INFO: Removed http://noticias.r7.com/brasil/cpi-francieli-e-avisada-por-relator-que-nao-e-mais-investigada-08072021
+2021-07-08 22:33:48,504          root     INFO: Removed http://noticias.r7.com/brasil/estudio-news-de-sabado-discute-rumos-da-economia-criativa-08072021
+2021-07-08 22:33:48,505          root     INFO: Finished script
