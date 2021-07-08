@@ -1,17 +1,13 @@
-2021-07-08 22:47:06,408          root     INFO: Starting script
-2021-07-08 22:47:07,605          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-08 22:47:08,379          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-08 22:47:09,154          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-08 22:47:09,463          root     INFO: Parsing R7 - Brasil
-2021-07-08 22:47:09,636          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/07/bolsonaro-renova-desgaste-registrado-apos-demissao-de-moro.shtml
-2021-07-08 22:47:12,461          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/corregedor-do-ministerio-publico-orientou-procuradora-sobre-apuracao-contra-promotor-que-a-investigava-na-faroeste.shtml
-2021-07-08 22:47:12,542          root     INFO: Usando palavra de baixo calão, o presidente Jair Bolsonaro <del>(sem partido)</del> afirmou na noite desta quinta-feira (8) que não vai responder a uma carta do <del>presidente</del> <ins>comando</ins> da CPI da <del>Covid, Omar Aziz (PSD-MA), do vice-presidente da comissão, Randolfe Rodrigues (Rede-AP), e do relator Renan Calheiros (MDB-AL) provocando</del> <ins>Covid no Senado que provoca</ins> o mandatário a se manifestar sobre o depoimento do deputado Luis Miranda (DEM-DF) a respeito do caso Covaxin. Leia mais (07/08/2021 - 19h28)
-2021-07-08 22:47:14,484          root     INFO: Media ready with ids: 1413268466027614210
-2021-07-08 22:47:14,485          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-08 22:47:14,485          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/caguei-para-a-cpi-nao-vou-responder-nada-diz-bolsonaro-sobre-carta-de-senadores.shtml
-2021-07-08 22:47:14,496          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/caguei-para-a-cpi-nao-vou-responder-nada-diz-bolsonaro-sobre-carta-de-senadores.shtml
-2021-07-08 22:47:14,765          root     INFO: Replying to: 1413268467948662785
-2021-07-08 22:47:15,037          root     INFO: Id to store: 1413268468854661126
-2021-07-08 22:47:21,370          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/integrantes-da-cpi-temem-que-inquerito-sobre-prevaricacao-de-bolsonaro-de-tiro-no-pe-da-comissao.shtml
-2021-07-08 22:47:21,379          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/07/cada-fotograma-de-my-fair-lady.shtml
-2021-07-08 22:47:21,380          root     INFO: Finished script
+2021-07-08 22:58:03,828          root     INFO: Starting script
+2021-07-08 22:58:04,654          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-08 22:58:05,352          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-08 22:58:06,026          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-08 22:58:06,265          root     INFO: Parsing R7 - Brasil
+2021-07-08 22:58:09,796          root     INFO: O corregedor nacional do Ministério Público, Rinaldo Reis Lima, orientou a ex-procuradora-geral <ins>de Justiça</ins> da Bahia Ediene Lousado, investigada na Operação Faroeste, sobre a possibilidade de o órgão abrir uma apuração contra um promotor que atuava no caso. Leia mais (07/08/2021 - 19h32)
+2021-07-08 22:58:11,644          root     INFO: Media ready with ids: 1413271222142517259
+2021-07-08 22:58:11,645          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-08 22:58:11,645          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/corregedor-do-ministerio-publico-orientou-procuradora-sobre-apuracao-contra-promotor-que-a-investigava-na-faroeste.shtml
+2021-07-08 22:58:11,656          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/corregedor-do-ministerio-publico-orientou-procuradora-sobre-apuracao-contra-promotor-que-a-investigava-na-faroeste.shtml
+2021-07-08 22:58:11,845          root     INFO: Replying to: 1413271223967129600
+2021-07-08 22:58:12,112          root     INFO: Id to store: 1413271224759762945
+2021-07-08 22:58:18,781          root     INFO: Finished script
