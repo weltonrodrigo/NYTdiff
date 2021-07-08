@@ -1,15 +1,10 @@
-2021-07-08 19:58:18,088          root     INFO: Starting script
-2021-07-08 19:58:19,052          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-08 19:58:19,822          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-08 19:58:20,584          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-08 19:58:20,844          root     INFO: Parsing R7 - Brasil
-2021-07-08 19:58:23,813          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-rejeicao-a-bolsonaro-sobe-a-51-novo-recorde-do-presidente.shtml
-2021-07-08 19:58:23,998          root     INFO: O presidente Jair Bolsonaro <del>(sem partido)</del> fez nesta quinta-feira (8) novas ameaças em relação ao pleito do ano que vem, quando ele deve disputar a reeleição ao Palácio do Planalto. Leia mais (07/08/2021 - 13h19)
-2021-07-08 19:58:25,762          root     INFO: Media ready with ids: 1413225983142944778
-2021-07-08 19:58:25,762          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-08 19:58:25,762          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/ou-fazemos-eleicoes-limpas-no-brasil-ou-nao-temos-eleicoes-diz-bolsonaro-em-nova-ameaca.shtml
-2021-07-08 19:58:25,773          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/ou-fazemos-eleicoes-limpas-no-brasil-ou-nao-temos-eleicoes-diz-bolsonaro-em-nova-ameaca.shtml
-2021-07-08 19:58:26,065          root     INFO: Replying to: 1413225985042960386
-2021-07-08 19:58:26,349          root     INFO: Id to store: 1413225986037059588
-2021-07-08 19:58:32,216          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/07/implosao-bolsonarista-e-engodo-neolulista.shtml
-2021-07-08 19:58:32,217          root     INFO: Finished script
+2021-07-08 20:18:03,797          root     INFO: Starting script
+2021-07-08 20:18:04,640          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-08 20:18:05,320          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-08 20:18:06,007          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-08 20:18:06,290          root     INFO: Parsing R7 - Brasil
+2021-07-08 20:18:09,877          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/denuncias-minam-ultimo-bastiao-da-imagem-de-bolsonaro-mostra-datafolha.shtml
+2021-07-08 20:18:09,896          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/e-falsa-foto-de-schwarzenegger-com-camiseta-de-apoio-a-bolsonaro.shtml
+2021-07-08 20:18:17,135          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/ceara-registra-queda-na-ocorrencia-de-crimes-violentos-e-alta-na-apreensao-de-drogas.shtml
+2021-07-08 20:18:17,140          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/novo-instituto-de-eduardo-bolsonaro-busca-financiadores-e-se-espelha-na-direita-pro-trump.shtml
+2021-07-08 20:18:17,141          root     INFO: Finished script
