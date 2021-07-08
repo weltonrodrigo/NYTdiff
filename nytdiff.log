@@ -1,17 +1,22 @@
-2021-07-08 21:16:56,033          root     INFO: Starting script
-2021-07-08 21:16:56,825          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-08 21:16:57,464          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-08 21:16:58,116          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-08 21:16:58,380          root     INFO: Parsing R7 - Brasil
-2021-07-08 21:16:58,519          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2021/07/em-busca-do-coquetel-perdido-no-aniversario-de-150-anos-de-marcel-proust.shtml
-2021-07-08 21:17:01,112          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-maioria-acha-bolsonaro-desonesto-falso-incompetente-despreparado-indeciso-autoritario-e-pouco-inteligente.shtml
-2021-07-08 21:17:01,206          root     INFO: Datafolha: <del>Rejeição</del> <ins>Reprovação</ins> a Bolsonaro sobe a 51%, novo recorde do presidente
-2021-07-08 21:17:02,836          root     INFO: Media ready with ids: 1413245768077651974
-2021-07-08 21:17:02,836          root     INFO: Text to tweet: Modificação do Título
-2021-07-08 21:17:02,836          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-rejeicao-a-bolsonaro-sobe-a-51-novo-recorde-do-presidente.shtml
-2021-07-08 21:17:02,846          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-rejeicao-a-bolsonaro-sobe-a-51-novo-recorde-do-presidente.shtml
-2021-07-08 21:17:03,040          root     INFO: Replying to: 1413245769512009734
-2021-07-08 21:17:03,254          root     INFO: Id to store: 1413245770208272386
-2021-07-08 21:17:08,931          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/a-utopia-de-aprender-em-casa.shtml
-2021-07-08 21:17:08,935          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/elo-emocional-e-pre-campanha-movem-contatos-de-bolsonaro-com-apoiadores-dizem-analistas.shtml
-2021-07-08 21:17:08,936          root     INFO: Finished script
+2021-07-08 21:30:45,779          root     INFO: Starting script
+2021-07-08 21:30:46,737          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-08 21:30:47,521          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-08 21:30:48,306          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-08 21:30:48,577          root     INFO: Parsing R7 - Brasil
+2021-07-08 21:30:51,647          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/deputado-quer-que-braga-netto-explique-ameacas-das-forcas-armadas-a-parlamentares.shtml
+2021-07-08 21:30:51,662          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/aecio-rejeita-suspeita-sem-provas-de-bolsonaro-e-diz-nao-acreditar-em-fraude-nas-urnas-em-2014.shtml
+2021-07-08 21:30:51,794          root     INFO: Datafolha: <del>Rejeição</del> <ins>Reprovação</ins> a Bolsonaro sobe a 51%, novo recorde do presidente
+2021-07-08 21:30:53,677          root     INFO: Media ready with ids: 1413249252285898759
+2021-07-08 21:30:53,677          root     INFO: Text to tweet: Modificação do Título
+2021-07-08 21:30:53,677          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-rejeicao-a-bolsonaro-sobe-a-51-novo-recorde-do-presidente.shtml
+2021-07-08 21:30:53,687          root     INFO: Replying to: 1413245770208272386
+2021-07-08 21:30:53,949          root     INFO: Id to store: 1413249254399909888
+2021-07-08 21:30:53,957          root     INFO: A <del>rejeição</del> <ins>reprovação</ins> a Jair Bolsonaro (sem partido) subiu e atingiu 51%, o maior índice nos 13 levantamentos feitos pelo Datafolha desde que o presidente assumiu o governo, em 2019. Leia mais (07/08/2021 - 16h55)
+2021-07-08 21:30:55,665          root     INFO: Media ready with ids: 1413249261182062595
+2021-07-08 21:30:55,665          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-08 21:30:55,665          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-rejeicao-a-bolsonaro-sobe-a-51-novo-recorde-do-presidente.shtml
+2021-07-08 21:30:55,675          root     INFO: Replying to: 1413249254399909888
+2021-07-08 21:30:55,948          root     INFO: Id to store: 1413249262742294536
+2021-07-08 21:31:02,164          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/depoimento-de-ex-diretor-de-logistica-da-saude-pode-arrastar-davi-alcolumbre-para-cpi.shtml
+2021-07-08 21:31:02,169          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/dem-analisa-pesquisas-qualitativas-e-quer-lancar-ate-setembro-pre-candidatura-de-mandetta-a-presidencia.shtml
+2021-07-08 21:31:02,170          root     INFO: Finished script
