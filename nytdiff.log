@@ -1,38 +1,20 @@
-2021-07-08 00:57:06,975          root     INFO: Starting script
-2021-07-08 00:57:07,952          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-08 00:57:08,752          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-08 00:57:09,559          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-08 00:57:09,764          root     INFO: Parsing R7 - Brasil
-2021-07-08 00:57:09,936          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/cortes-de-verbas-na-ciencia-ameacam-o-futuro-do-pais.shtml
-2021-07-08 00:57:13,261          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/para-especialistas-senadores-nao-podem-mandar-prender-investigado-por-mentira-na-cpi.shtml
-2021-07-08 00:57:13,312          root     INFO: O ministro da Defesa, Braga Netto, e os comandantes das Forças Armadas divulgaram uma nota em que repudiam declarações feitas pelo presidente da CPI da Covid, senador Omar Aziz (PSD-AM), na sessão desta quarta-feira <del>(7).</del> <ins>(7) da comissão.</ins> Leia mais (07/07/2021 - 20h27)
-2021-07-08 00:57:15,129          root     INFO: Media ready with ids: 1412938796325343236
-2021-07-08 00:57:15,130          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-08 00:57:15,130          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/defesa-e-comandantes-reagem-a-fala-de-aziz-na-cpi-e-dizem-que-forcas-armadas-nao-aceitarao-ataque-leviano.shtml
-2021-07-08 00:57:15,143          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/defesa-e-comandantes-reagem-a-fala-de-aziz-na-cpi-e-dizem-que-forcas-armadas-nao-aceitarao-ataque-leviano.shtml
-2021-07-08 00:57:15,344          root     INFO: Replying to: 1412938798057545732
-2021-07-08 00:57:15,580          root     INFO: Id to store: 1412938798812602368
-2021-07-08 00:57:21,812          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-diretor-da-saude-roberto-dias-processa-luiz-dominguetti-07072021
-2021-07-08 00:57:21,826          root     INFO: New article tracked: http://noticias.r7.com/brasil/prisao-em-cpi-e-rara-entenda-o-que-diz-a-lei-sobre-falso-testemunho-07072021
-2021-07-08 00:57:21,839          root     INFO: New article tracked: http://noticias.r7.com/brasil/elcio-franco-passa-a-ser-um-dos-focos-na-investigacao-da-cpi-07072021
-2021-07-08 00:57:21,852          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-diz-que-agora-prisao-sera-o-destino-de-quem-brincar-na-cpi-07072021
-2021-07-08 00:57:21,870          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-pede-a-damares-inclusao-de-witzel-no-programa-de-protecao-07072021
-2021-07-08 00:57:21,885          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-anuncia-prisao-de-ex-diretor-da-saude-acusado-de-corrupcao-07072021
-2021-07-08 00:57:21,902          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-sem-menos-vagas-publicas-nao-e-possivel-elevar-salarios-07072021
-2021-07-08 00:57:21,916          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-ataca-barroso-e-diz-que-sem-voto-impresso-tera-problema-07072021
-2021-07-08 00:57:21,931          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-diretor-da-saude-tem-dossie-sobre-atuacao-da-casa-civil-diz-aziz-07072021
-2021-07-08 00:57:21,946          root     INFO: New article tracked: http://noticias.r7.com/brasil/dias-acredita-ser-perseguido-por-deputado-apos-negar-cargo-a-irmao-07072021
-2021-07-08 00:57:21,962          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-diretor-diz-que-teve-reunioes-com-pm-e-reverendo-por-vacinas-07072021
-2021-07-08 00:57:21,977          root     INFO: New article tracked: http://noticias.r7.com/brasil/instituto-butantan-afirma-que-nao-utilizou-insumos-falsificados-07072021
-2021-07-08 00:57:21,993          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-de-etica-aprova-6-meses-de-suspensao-a-daniel-silveira-07072021
-2021-07-08 00:57:22,011          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-afirma-ter-provas-de-superfaturamento-da-covaxin-07072021
-2021-07-08 00:57:22,139          root     INFO: Roberto Dias depõe à CPI da Covid nesta quarta e <del>contradisse Luis</del> <ins>contradiz Luís</ins> Ricardo Miranda, funcionário que <del>apontou</del> <ins>denunciou</ins> 'pressão anormal'
-2021-07-08 00:57:23,921          root     INFO: Media ready with ids: 1412938832928980992
-2021-07-08 00:57:23,921          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-08 00:57:23,922          root     INFO: Article id: http://noticias.r7.com/brasil/nunca-fiz-pressao-diz-ex-diretor-sobre-importacao-da-covaxin-07072021
-2021-07-08 00:57:23,933          root     INFO: Tweeting url: http://noticias.r7.com/brasil/nunca-fiz-pressao-diz-ex-diretor-sobre-importacao-da-covaxin-07072021
-2021-07-08 00:57:24,111          root     INFO: Replying to: 1412938834829053957
-2021-07-08 00:57:24,341          root     INFO: Id to store: 1412938835579768832
-2021-07-08 00:57:24,466          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/07/acuado-bolsonaro-inaugura-nova-fase-de-conspiracao-golpista.shtml
-2021-07-08 00:57:24,472          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/07/covardia-democratica.shtml
-2021-07-08 00:57:24,473          root     INFO: Finished script
+2021-07-08 01:52:42,251          root     INFO: Starting script
+2021-07-08 01:52:43,072          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-08 01:52:43,738          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-08 01:52:44,399          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-08 01:52:44,525          root     INFO: Parsing R7 - Brasil
+2021-07-08 01:52:54,432          root     INFO: Removed http://noticias.r7.com/brasil/aziz-pede-a-damares-inclusao-de-witzel-no-programa-de-protecao-07072021
+2021-07-08 01:52:54,438          root     INFO: Removed http://noticias.r7.com/brasil/instituto-butantan-afirma-que-nao-utilizou-insumos-falsificados-07072021
+2021-07-08 01:52:54,444          root     INFO: Removed http://noticias.r7.com/brasil/elcio-franco-passa-a-ser-um-dos-focos-na-investigacao-da-cpi-07072021
+2021-07-08 01:52:54,451          root     INFO: Removed http://noticias.r7.com/brasil/prisao-em-cpi-e-rara-entenda-o-que-diz-a-lei-sobre-falso-testemunho-07072021
+2021-07-08 01:52:54,456          root     INFO: Removed http://noticias.r7.com/brasil/renan-afirma-ter-provas-de-superfaturamento-da-covaxin-07072021
+2021-07-08 01:52:54,462          root     INFO: Removed http://noticias.r7.com/brasil/aziz-anuncia-prisao-de-ex-diretor-da-saude-acusado-de-corrupcao-07072021
+2021-07-08 01:52:54,467          root     INFO: Removed http://noticias.r7.com/brasil/ex-diretor-diz-que-teve-reunioes-com-pm-e-reverendo-por-vacinas-07072021
+2021-07-08 01:52:54,473          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-ataca-barroso-e-diz-que-sem-voto-impresso-tera-problema-07072021
+2021-07-08 01:52:54,478          root     INFO: Removed http://noticias.r7.com/brasil/aziz-diz-que-agora-prisao-sera-o-destino-de-quem-brincar-na-cpi-07072021
+2021-07-08 01:52:54,483          root     INFO: Removed http://noticias.r7.com/brasil/conselho-de-etica-aprova-6-meses-de-suspensao-a-daniel-silveira-07072021
+2021-07-08 01:52:54,488          root     INFO: Removed http://noticias.r7.com/brasil/dias-acredita-ser-perseguido-por-deputado-apos-negar-cargo-a-irmao-07072021
+2021-07-08 01:52:54,493          root     INFO: Removed http://noticias.r7.com/brasil/ex-diretor-da-saude-roberto-dias-processa-luiz-dominguetti-07072021
+2021-07-08 01:52:54,498          root     INFO: Removed http://noticias.r7.com/brasil/ex-diretor-da-saude-tem-dossie-sobre-atuacao-da-casa-civil-diz-aziz-07072021
+2021-07-08 01:52:54,504          root     INFO: Removed http://noticias.r7.com/brasil/guedes-sem-menos-vagas-publicas-nao-e-possivel-elevar-salarios-07072021
+2021-07-08 01:52:54,505          root     INFO: Finished script
