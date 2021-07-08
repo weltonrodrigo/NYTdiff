@@ -1,31 +1,38 @@
-2021-07-07 23:58:14,942          root     INFO: Starting script
-2021-07-07 23:58:15,730          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-07 23:58:16,375          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-07 23:58:17,020          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-07 23:58:17,206          root     INFO: Parsing R7 - Brasil
-2021-07-07 23:58:20,191          root     INFO: Após <del>pressão, líder do governo diz que Bolsonaro recua e mantém indicação</del> <ins>recuo</ins> de <del>aliado</del> <ins>Bolsonaro, Senado aprova ex-chefe de gabinete</ins> de Barros <del>a</del> <ins>para presidir</ins> ANS
-2021-07-07 23:58:21,889          root     INFO: Media ready with ids: 1412923977035550722
-2021-07-07 23:58:21,889          root     INFO: Text to tweet: Modificação do Título
-2021-07-07 23:58:21,889          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-pressao-lider-do-governo-diz-que-bolsonaro-recua-e-mantem-indicacao-de-aliado-de-barros-a-ans.shtml
-2021-07-07 23:58:21,900          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-pressao-lider-do-governo-diz-que-bolsonaro-recua-e-mantem-indicacao-de-aliado-de-barros-a-ans.shtml
-2021-07-07 23:58:22,089          root     INFO: Replying to: 1412923978511958021
-2021-07-07 23:58:22,299          root     INFO: Id to store: 1412923979191492611
-2021-07-07 23:58:22,306          root     INFO: <del>O líder</del> <ins>Após idas e vindas</ins> do <del>governo no Senado, Fernando Bezerra (MDB-PE), afirmou nesta quarta-feira (7) que o</del> presidente Jair <del>Bolsonaro (sem partido) recuou e decidiu manter a indicação</del> <ins>Bolsonaro, o plenário</ins> do <ins>Senado aprovou na noite desta quarta-feira (7) Paulo Roberto Vanderlei Rebello Filho,</ins> ex-chefe de gabinete <del>do líder</del> do governo na Câmara, Ricardo Barros (PP-PR), para <del>a presidência</del> <ins>o cargo de diretor-presidente</ins> da ANS (Agência Nacional de Saúde Suplementar). Leia mais (07/07/2021 - 20h08)
-2021-07-07 23:58:24,148          root     INFO: Media ready with ids: 1412923985910812672
-2021-07-07 23:58:24,148          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-07 23:58:24,148          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-pressao-lider-do-governo-diz-que-bolsonaro-recua-e-mantem-indicacao-de-aliado-de-barros-a-ans.shtml
-2021-07-07 23:58:24,161          root     INFO: Replying to: 1412923979191492611
-2021-07-07 23:58:24,368          root     INFO: Id to store: 1412923987869544450
-2021-07-07 23:58:24,531          root     INFO: <del>Presidente</del> <ins>Ex-diretor</ins> da <ins>Saúde pivô de denúncia de propina é preso sob acusação de mentir à</ins> CPI da Covid <del>determina prisão de ex-diretor acusado de pedir propina na gestão Bolsonaro</del>
-2021-07-07 23:58:26,180          root     INFO: Media ready with ids: 1412923995050086400
-2021-07-07 23:58:26,180          root     INFO: Text to tweet: Modificação do Título
-2021-07-07 23:58:26,180          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-da-cpi-da-covid-determina-prisao-de-ex-diretor-acusado-de-pedir-propina-na-gestao-bolsonaro.shtml
-2021-07-07 23:58:26,190          root     INFO: Replying to: 1412917144883499012
-2021-07-07 23:58:26,473          root     INFO: Id to store: 1412923996497133568
-2021-07-07 23:58:26,481          root     INFO: <del>O presidente</del> <ins>Presidente</ins> da CPI da Covid, <ins>o</ins> senador Omar Aziz <del>(PSD-AM),</del> <ins>(PSD-AM)</ins> determinou nesta quarta-feira (7) a <del>detenção</del> <ins>prisão</ins> do ex-diretor de <del>logística</del> <ins>Logística</ins> do Ministério da Saúde Roberto Ferreira <del>Dias.</del> <ins>Dias, exonerado do cargo do governo de Jair Bolsonaro na semana passada após denúncia de pedido de propina revelada pela Folha.</ins> Leia mais (07/07/2021 - 17h33)
-2021-07-07 23:58:28,208          root     INFO: Media ready with ids: 1412924003375849477
-2021-07-07 23:58:28,208          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-07 23:58:28,208          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-da-cpi-da-covid-determina-prisao-de-ex-diretor-acusado-de-pedir-propina-na-gestao-bolsonaro.shtml
-2021-07-07 23:58:28,218          root     INFO: Replying to: 1412923996497133568
-2021-07-07 23:58:28,464          root     INFO: Id to store: 1412924005007376387
-2021-07-07 23:58:34,327          root     INFO: Finished script
+2021-07-08 00:57:06,975          root     INFO: Starting script
+2021-07-08 00:57:07,952          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-08 00:57:08,752          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-08 00:57:09,559          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-08 00:57:09,764          root     INFO: Parsing R7 - Brasil
+2021-07-08 00:57:09,936          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/cortes-de-verbas-na-ciencia-ameacam-o-futuro-do-pais.shtml
+2021-07-08 00:57:13,261          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/para-especialistas-senadores-nao-podem-mandar-prender-investigado-por-mentira-na-cpi.shtml
+2021-07-08 00:57:13,312          root     INFO: O ministro da Defesa, Braga Netto, e os comandantes das Forças Armadas divulgaram uma nota em que repudiam declarações feitas pelo presidente da CPI da Covid, senador Omar Aziz (PSD-AM), na sessão desta quarta-feira <del>(7).</del> <ins>(7) da comissão.</ins> Leia mais (07/07/2021 - 20h27)
+2021-07-08 00:57:15,129          root     INFO: Media ready with ids: 1412938796325343236
+2021-07-08 00:57:15,130          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-08 00:57:15,130          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/defesa-e-comandantes-reagem-a-fala-de-aziz-na-cpi-e-dizem-que-forcas-armadas-nao-aceitarao-ataque-leviano.shtml
+2021-07-08 00:57:15,143          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/defesa-e-comandantes-reagem-a-fala-de-aziz-na-cpi-e-dizem-que-forcas-armadas-nao-aceitarao-ataque-leviano.shtml
+2021-07-08 00:57:15,344          root     INFO: Replying to: 1412938798057545732
+2021-07-08 00:57:15,580          root     INFO: Id to store: 1412938798812602368
+2021-07-08 00:57:21,812          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-diretor-da-saude-roberto-dias-processa-luiz-dominguetti-07072021
+2021-07-08 00:57:21,826          root     INFO: New article tracked: http://noticias.r7.com/brasil/prisao-em-cpi-e-rara-entenda-o-que-diz-a-lei-sobre-falso-testemunho-07072021
+2021-07-08 00:57:21,839          root     INFO: New article tracked: http://noticias.r7.com/brasil/elcio-franco-passa-a-ser-um-dos-focos-na-investigacao-da-cpi-07072021
+2021-07-08 00:57:21,852          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-diz-que-agora-prisao-sera-o-destino-de-quem-brincar-na-cpi-07072021
+2021-07-08 00:57:21,870          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-pede-a-damares-inclusao-de-witzel-no-programa-de-protecao-07072021
+2021-07-08 00:57:21,885          root     INFO: New article tracked: http://noticias.r7.com/brasil/aziz-anuncia-prisao-de-ex-diretor-da-saude-acusado-de-corrupcao-07072021
+2021-07-08 00:57:21,902          root     INFO: New article tracked: http://noticias.r7.com/brasil/guedes-sem-menos-vagas-publicas-nao-e-possivel-elevar-salarios-07072021
+2021-07-08 00:57:21,916          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-ataca-barroso-e-diz-que-sem-voto-impresso-tera-problema-07072021
+2021-07-08 00:57:21,931          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-diretor-da-saude-tem-dossie-sobre-atuacao-da-casa-civil-diz-aziz-07072021
+2021-07-08 00:57:21,946          root     INFO: New article tracked: http://noticias.r7.com/brasil/dias-acredita-ser-perseguido-por-deputado-apos-negar-cargo-a-irmao-07072021
+2021-07-08 00:57:21,962          root     INFO: New article tracked: http://noticias.r7.com/brasil/ex-diretor-diz-que-teve-reunioes-com-pm-e-reverendo-por-vacinas-07072021
+2021-07-08 00:57:21,977          root     INFO: New article tracked: http://noticias.r7.com/brasil/instituto-butantan-afirma-que-nao-utilizou-insumos-falsificados-07072021
+2021-07-08 00:57:21,993          root     INFO: New article tracked: http://noticias.r7.com/brasil/conselho-de-etica-aprova-6-meses-de-suspensao-a-daniel-silveira-07072021
+2021-07-08 00:57:22,011          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-afirma-ter-provas-de-superfaturamento-da-covaxin-07072021
+2021-07-08 00:57:22,139          root     INFO: Roberto Dias depõe à CPI da Covid nesta quarta e <del>contradisse Luis</del> <ins>contradiz Luís</ins> Ricardo Miranda, funcionário que <del>apontou</del> <ins>denunciou</ins> 'pressão anormal'
+2021-07-08 00:57:23,921          root     INFO: Media ready with ids: 1412938832928980992
+2021-07-08 00:57:23,921          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-08 00:57:23,922          root     INFO: Article id: http://noticias.r7.com/brasil/nunca-fiz-pressao-diz-ex-diretor-sobre-importacao-da-covaxin-07072021
+2021-07-08 00:57:23,933          root     INFO: Tweeting url: http://noticias.r7.com/brasil/nunca-fiz-pressao-diz-ex-diretor-sobre-importacao-da-covaxin-07072021
+2021-07-08 00:57:24,111          root     INFO: Replying to: 1412938834829053957
+2021-07-08 00:57:24,341          root     INFO: Id to store: 1412938835579768832
+2021-07-08 00:57:24,466          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/07/acuado-bolsonaro-inaugura-nova-fase-de-conspiracao-golpista.shtml
+2021-07-08 00:57:24,472          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/07/covardia-democratica.shtml
+2021-07-08 00:57:24,473          root     INFO: Finished script
