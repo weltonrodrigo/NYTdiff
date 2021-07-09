@@ -1,10 +1,19 @@
-2021-07-09 20:17:57,468          root     INFO: Starting script
-2021-07-09 20:17:58,286          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-09 20:17:58,948          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-09 20:17:59,612          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-09 20:17:59,873          root     INFO: Parsing R7 - Brasil
-2021-07-09 20:18:02,928          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/pacheco-diz-que-nao-aceitara-retrocesso-a-democracia-apos-manifestacao-de-militares-e-bolsonaro.shtml
-2021-07-09 20:18:02,941          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-56-reprovam-gestao-de-bolsonaro-contra-covid-e-46-o-culpam-por-situacao-atual-na-pandemia.shtml
-2021-07-09 20:18:09,098          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/camara-quer-censurar-divulgacao-de-pesquisas-eleitorais-e-exigir-taxa-de-acerto-de-resultados.shtml
-2021-07-09 20:18:09,104          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/senadores-veem-novos-indicios-de-falhas-em-compra-da-covaxin-ao-ouvir-servidora-na-cpi.shtml
-2021-07-09 20:18:09,105          root     INFO: Finished script
+2021-07-09 20:31:27,613          root     INFO: Starting script
+2021-07-09 20:31:28,577          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-09 20:31:29,354          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-09 20:31:30,151          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-09 20:31:30,401          root     INFO: Parsing R7 - Brasil
+2021-07-09 20:31:33,240          root     INFO: Pacheco diz que não aceitará retrocesso à democracia, após <del>manifestação</del> <ins>manifestações</ins> de militares e Bolsonaro
+2021-07-09 20:31:35,020          root     INFO: Media ready with ids: 1413596714502606853
+2021-07-09 20:31:35,020          root     INFO: Text to tweet: Modificação do Título
+2021-07-09 20:31:35,020          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/pacheco-diz-que-nao-aceitara-retrocesso-a-democracia-apos-manifestacao-de-militares-e-bolsonaro.shtml
+2021-07-09 20:31:35,031          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/pacheco-diz-que-nao-aceitara-retrocesso-a-democracia-apos-manifestacao-de-militares-e-bolsonaro.shtml
+2021-07-09 20:31:35,301          root     INFO: Replying to: 1413596716381704193
+2021-07-09 20:31:35,596          root     INFO: Id to store: 1413596717325459459
+2021-07-09 20:31:35,603          root     INFO: O presidente do Senado, Rodrigo Pacheco (DEM-MG), subiu o tom nesta sexta-feira (9) e afirmou que não aceitará retrocessos à democracia do país, em resposta às manifestações de militares <ins>sobre a CPI da Covid</ins> e às ameaças do presidente Jair Bolsonaro <del>(sem partido)</del> contra o processo <ins>eleitoral e</ins> democrático. Leia mais (07/09/2021 - 17h08)
+2021-07-09 20:31:37,428          root     INFO: Media ready with ids: 1413596724355112967
+2021-07-09 20:31:37,429          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-09 20:31:37,429          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/pacheco-diz-que-nao-aceitara-retrocesso-a-democracia-apos-manifestacao-de-militares-e-bolsonaro.shtml
+2021-07-09 20:31:37,439          root     INFO: Replying to: 1413596717325459459
+2021-07-09 20:31:37,754          root     INFO: Id to store: 1413596726267625472
+2021-07-09 20:31:43,539          root     INFO: Finished script
