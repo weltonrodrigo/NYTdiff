@@ -1,14 +1,8 @@
-2021-07-09 22:33:24,603          root     INFO: Starting script
-2021-07-09 22:33:25,550          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-09 22:33:26,324          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-09 22:33:27,099          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-09 22:33:27,396          root     INFO: Parsing R7 - Brasil
-2021-07-09 22:33:35,386          root     INFO: Removed http://noticias.r7.com/brasil/titular-da-cpi-senador-otto-alencar-testa-positivo-para-covid-19-09072021
-2021-07-09 22:33:35,392          root     INFO: Removed http://noticias.r7.com/brasil/em-evento-no-rs-bolsonaro-volta-a-dizer-que-quer-eleicoes-limpas-09072021
-2021-07-09 22:33:35,398          root     INFO: Removed http://noticias.r7.com/brasil/congresso-nao-admitira-atentado-a-sua-independencia-diz-pacheco-09072021
-2021-07-09 22:33:35,402          root     INFO: Removed http://noticias.r7.com/brasil/alexandre-de-moraes-reforca-que-ameaca-contra-eleicao-e-crime-09072021
-2021-07-09 22:33:35,408          root     INFO: Removed http://noticias.r7.com/brasil/consultor-contradiz-precisa-sobre-notas-fiscais-da-vacina-da-covaxin-09072021
-2021-07-09 22:33:35,413          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-chama-barroso-de-imbecil-e-faz-ameaca-as-eleicoes-09072021
-2021-07-09 22:33:35,419          root     INFO: Removed http://noticias.r7.com/brasil/mpf-pede-ajuda-juridica-a-india-em-investigacao-sobre-covaxin-09072021
-2021-07-09 22:33:35,424          root     INFO: Removed http://noticias.r7.com/brasil/impedir-eleicao-e-crime-de-responsabilidade-afirma-tse-09072021
-2021-07-09 22:33:35,425          root     INFO: Finished script
+2021-07-09 22:46:59,946          root     INFO: Starting script
+2021-07-09 22:47:00,763          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-09 22:47:01,420          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-09 22:47:02,079          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-09 22:47:02,387          root     INFO: Parsing R7 - Brasil
+2021-07-09 22:47:05,353          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/em-baixa-nas-pesquisas-bolsonaro-diz-que-tem-couro-grosso-e-aguenta-pressao.shtml
+2021-07-09 22:47:11,454          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/dominguetti-ja-falava-em-superfaturamento-de-vacinas-semanas-antes-de-suposto-pedido-de-propina.shtml
+2021-07-09 22:47:11,455          root     INFO: Finished script
