@@ -1,19 +1,8 @@
-2021-07-09 00:58:40,882          root     INFO: Starting script
-2021-07-09 00:58:41,698          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-09 00:58:42,354          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-09 00:58:43,014          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-09 00:58:43,182          root     INFO: Parsing R7 - Brasil
-2021-07-09 00:58:46,209          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/internado-em-sp-olavo-de-carvalho-tem-quadro-estavel-afirma-boletim-medico.shtml
-2021-07-09 00:58:46,225          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/tse-afasta-bolsonarista-de-comando-do-patriota-e-ameaca-planos-de-filiacao-do-presidente.shtml
-2021-07-09 00:58:51,808          root     INFO: New article tracked: http://noticias.r7.com/brasil/nove-em-10-escolas-nao-retomaram-atividades-presenciais-em-2020-08072021
-2021-07-09 00:58:51,821          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-diz-que-carta-da-cpi-e-um-absurdo-e-nao-merece-resposta-08072021
-2021-07-09 00:58:51,835          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-amplia-atuacao-das-forcas-armadas-no-mato-grosso-08072021
-2021-07-09 00:58:51,847          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-registra-no-1-semestre-seu-menor-crescimento-populacional-08072021
-2021-07-09 00:58:51,860          root     INFO: New article tracked: http://noticias.r7.com/brasil/deputado-quer-que-braga-netto-explique-nota-contra-cpi-da-covid-08072021
-2021-07-09 00:58:51,871          root     INFO: New article tracked: http://noticias.r7.com/brasil/pf-prende-garimpeiros-em-acao-contra-desmatamento-no-mt-08072021
-2021-07-09 00:58:51,883          root     INFO: New article tracked: http://noticias.r7.com/brasil/covaxin-lewandowski-suspende-quebra-dos-sigilos-de-servidor-08072021
-2021-07-09 00:58:51,896          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-inclui-gravidas-e-lactantes-no-grupo-prioritario-de-vacinacao-08072021
-2021-07-09 00:58:51,908          root     INFO: New article tracked: http://noticias.r7.com/brasil/coronavac-tem-bom-resultado-contra-variante-delta-diz-butantan-08072021
-2021-07-09 00:58:52,233          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2021/07/se-a-manifestacao-esta-vermelha-demais-para-o-seu-gosto-junte-uma-turma-e-va-vestindo-outra-cor.shtml
-2021-07-09 00:58:52,238          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/psol-e-republicanos-tem-onda-de-novos-filiados-apos-avanco-em-eleicoes-municipais.shtml
-2021-07-09 00:58:52,238          root     INFO: Finished script
+2021-07-09 02:02:14,468          root     INFO: Starting script
+2021-07-09 02:02:15,343          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-09 02:02:16,004          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-09 02:02:16,671          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-09 02:02:16,828          root     INFO: Parsing R7 - Brasil
+2021-07-09 02:02:16,981          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/eua-e-biden-sao-de-novo-arrastados-para-o-atoleiro-do-haiti.shtml
+2021-07-09 02:02:25,428          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/feitos-da-vacina.shtml
+2021-07-09 02:02:25,429          root     INFO: Finished script
