@@ -1,15 +1,6 @@
-2021-07-09 03:20:28,146          root     INFO: Starting script
-2021-07-09 03:20:29,097          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-09 03:20:29,873          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-09 03:20:30,653          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-09 03:20:30,918          root     INFO: Parsing R7 - Brasil
-2021-07-09 03:20:33,748          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/tucanos-da-prefeitura-de-sp-e-da-camara-criticam-atuacao-de-presidente-municipal-do-psdb.shtml
-2021-07-09 03:20:33,793          root     INFO: A mudança nos critérios para a distribuição de cerca de R$ 720 milhões do Fundo Nacional de Segurança Pública para os estados aumentou a porcentagem mínima do repasse, mas diminuiu os valores para alguns estados, entre eles São Paulo. O número de critérios para a distribuição saiu de 8 na portaria de 2019, na gestão de Sergio Moro, e foi para 24 no texto assinado por Anderson Torres. O percentual mínimo ficou em 3,5%, valor recebido por 15 estados. São Paulo ainda lidera o ranking dos que mais recebem, com 4,3%, contra os 6,6% recebido nos anos anteriores. Leia mais (07/08/2021 - 23h29)
-2021-07-09 03:20:35,744          root     INFO: Media ready with ids: 1413337257570967553
-2021-07-09 03:20:35,745          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-09 03:20:35,745          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/mudanca-em-criterios-de-distribuicao-do-fundo-de-seguranca-publica-diminui-valores-para-alguns-estados.shtml
-2021-07-09 03:20:35,755          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/mudanca-em-criterios-de-distribuicao-do-fundo-de-seguranca-publica-diminui-valores-para-alguns-estados.shtml
-2021-07-09 03:20:36,031          root     INFO: Replying to: 1413337259659743234
-2021-07-09 03:20:36,351          root     INFO: Id to store: 1413337260750221316
-2021-07-09 03:20:42,152          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/folha-volta-a-publicar-conteudo-no-facebook.shtml
-2021-07-09 03:20:42,153          root     INFO: Finished script
+2021-07-09 03:36:26,877          root     INFO: Starting script
+2021-07-09 03:36:27,705          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-09 03:36:28,373          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-09 03:36:29,039          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-09 03:36:29,198          root     INFO: Parsing R7 - Brasil
+2021-07-09 03:36:37,729          root     INFO: Finished script
