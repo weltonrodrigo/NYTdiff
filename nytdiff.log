@@ -1,6 +1,13 @@
-2021-07-09 10:35:51,404          root     INFO: Starting script
-2021-07-09 10:35:52,359          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-09 10:35:53,105          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-09 10:35:53,853          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-09 10:35:54,115          root     INFO: Parsing R7 - Brasil
-2021-07-09 10:36:09,745          root     INFO: Finished script
+2021-07-09 10:46:59,443          root     INFO: Starting script
+2021-07-09 10:47:00,294          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-09 10:47:00,993          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-09 10:47:01,703          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-09 10:47:01,828          root     INFO: Parsing R7 - Brasil
+2021-07-09 10:47:02,518          root     INFO: <del>Podemos estar diante do ponto de inflexão</del> <ins>Relação</ins> entre big tech chinês e <del>mercado americano</del> <ins>bolsa americana desanda</ins>
+2021-07-09 10:47:04,393          root     INFO: Media ready with ids: 1413449617602015244
+2021-07-09 10:47:04,394          root     INFO: Text to tweet: Modificação do Título
+2021-07-09 10:47:04,394          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/07/podemos-estar-diante-do-ponto-de-inflexao-entre-big-tech-chines-e-mercado-americano.shtml
+2021-07-09 10:47:04,405          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatiana-prazeres/2021/07/podemos-estar-diante-do-ponto-de-inflexao-entre-big-tech-chines-e-mercado-americano.shtml
+2021-07-09 10:47:04,635          root     INFO: Replying to: 1413449619313291270
+2021-07-09 10:47:04,919          root     INFO: Id to store: 1413449620236083209
+2021-07-09 10:47:16,285          root     INFO: Finished script
