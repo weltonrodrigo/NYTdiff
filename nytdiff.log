@@ -1,6 +1,16 @@
-2021-07-09 14:58:17,078          root     INFO: Starting script
-2021-07-09 14:58:17,867          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-09 14:58:18,511          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-09 14:58:19,156          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-09 14:58:19,284          root     INFO: Parsing R7 - Brasil
-2021-07-09 14:58:27,872          root     INFO: Finished script
+2021-07-09 15:22:51,190          root     INFO: Starting script
+2021-07-09 15:22:52,022          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-09 15:22:52,689          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-09 15:22:53,363          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-09 15:22:53,454          root     INFO: Parsing R7 - Brasil
+2021-07-09 15:22:53,606          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/hermano-vianna/2021/07/deveriamos-copiar-a-cidadania-de-todos-os-lugares-de-lina-bo-bardi.shtml
+2021-07-09 15:22:56,847          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-59-dizem-que-nao-votariam-em-bolsonaro-de-jeito-nenhum-em-2022.shtml
+2021-07-09 15:22:56,863          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-lula-amplia-vantagem-sobre-bolsonaro-para-2022-e-marca-58-a-31-no-2o-turno.shtml
+2021-07-09 15:22:56,884          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/de-novo-sem-provas-bolsonaro-repete-ameaca-e-diz-que-fraude-eleitoral-esta-no-tse.shtml
+2021-07-09 15:23:00,190          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/07/como-os-pandas-gigantes-escaparam-da-lista-de-animais-ameacados-de-extincao.shtml
+2021-07-09 15:23:03,949          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/abin-intensifica-monitoramento-de-protetos-contra-bolsonaro-e-pede-mais-informacoes-sobre-estados.shtml
+2021-07-09 15:23:03,956          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/campanha-em-arapiraca-al-pressiona-lira-por-analise-de-superpedido-de-impeachment.shtml
+2021-07-09 15:23:03,962          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/07/implosao-bolsonarista-e-engodo-neolulista.shtml
+2021-07-09 15:23:03,968          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/horas-antes-de-reduzir-areas-protegidas-governador-disse-que-seria-o-maior-retrocesso-ambiental-de-rondonia.shtml
+2021-07-09 15:23:03,974          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/ministerio-da-justica-define-novas-regras-para-repasse-de-r-720-milhoes-do-fundo-de-seguranca-a-estados.shtml
+2021-07-09 15:23:03,975          root     INFO: Finished script
