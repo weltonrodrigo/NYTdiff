@@ -1,17 +1,18 @@
-2021-07-10 19:27:02,845          root     INFO: Starting script
-2021-07-10 19:27:03,670          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-10 19:27:04,311          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-10 19:27:04,953          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-10 19:27:05,093          root     INFO: Parsing R7 - Brasil
-2021-07-10 19:27:13,307          root     INFO: New article tracked: http://noticias.r7.com/brasil/ha-indicios-de-crime-de-responsabilidade-diz-simone-tebet-10072021
-2021-07-10 19:27:13,322          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-o-que-barroso-quer-e-a-volta-da-fraude-eleitoral-10072021
-2021-07-10 19:27:13,334          root     INFO: New article tracked: http://noticias.r7.com/brasil/fux-amplia-prazo-para-governo-repassar-verba-de-internet-gratis-10072021
-2021-07-10 19:27:13,345          root     INFO: New article tracked: http://noticias.r7.com/brasil/correios-relator-preve-estabilidade-de-um-ano-e-meio-a-funcionarios-10072021
-2021-07-10 19:27:13,358          root     INFO: New article tracked: http://noticias.r7.com/brasil/entidades-repudiam-ataque-de-frederik-wassef-a-jornalista-10072021
-2021-07-10 19:27:13,370          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-seguira-elevando-tom-se-nao-encontrar-reacao-diz-cientista-10072021
-2021-07-10 19:27:13,381          root     INFO: New article tracked: http://noticias.r7.com/brasil/lira-diz-que-a-urna-e-grande-e-unica-juiza-de-qualquer-disputa-politica-10072021
-2021-07-10 19:27:13,393          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-e-apoiadores-fazem-motociata-em-porto-alegre-10072021
-2021-07-10 19:27:13,405          root     INFO: New article tracked: http://noticias.r7.com/brasil/lideres-de-oito-partidos-assinam-manifesto-em-favor-da-democracia-10072021
-2021-07-10 19:27:13,416          root     INFO: New article tracked: http://noticias.r7.com/brasil/brasil-acelera-vacinacao-e-supera-media-de-1-milhao-de-doses-diarias-10072021
-2021-07-10 19:27:13,427          root     INFO: New article tracked: http://noticias.r7.com/brasil/lula-tem-35-de-intencoes-de-voto-e-bolsonaro-33-mostra-pesquisa-10072021
-2021-07-10 19:27:13,678          root     INFO: Finished script
+2021-07-10 19:47:10,638          root     INFO: Starting script
+2021-07-10 19:47:11,520          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-10 19:47:12,190          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-10 19:47:12,873          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-10 19:47:13,021          root     INFO: Parsing R7 - Brasil
+2021-07-10 19:47:16,453          root     INFO: Lira <del>vê 'oportunismo' e</del> <ins>diz</ins> não <ins>ter compromisso com ruptura democrática e</ins> critica <del>falas golpistas</del> <ins>manifestação política</ins> de <del>Bolsonaro; oito partidos reagem às ameaças</del> <ins>militares</ins>
+2021-07-10 19:47:18,216          root     INFO: Media ready with ids: 1413947958979092480
+2021-07-10 19:47:18,217          root     INFO: Text to tweet: Modificação do Título
+2021-07-10 19:47:18,217          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/lira-ve-oportunismo-e-nao-critica-falas-golpistas-de-bolsonaro-oito-partidos-reagem-as-ameacas.shtml
+2021-07-10 19:47:18,227          root     INFO: Replying to: 1413934192124116993
+2021-07-10 19:47:18,445          root     INFO: Id to store: 1413947960417783808
+2021-07-10 19:47:18,454          root     INFO: Um dia depois de os presidentes do Senado, Rodrigo Pacheco (DEM-MG), e do TSE (Tribunal Superior Eleitoral), ministro Luís Roberto Barroso, reagirem às ameaças golpistas do presidente Jair Bolsonaro (sem <del>partido) ao processo eleitoral e democrático do país,</del> <ins>partido),</ins> o presidente da Câmara, Arthur Lira (PP-AL), <del>rompeu o silêncio, mas sem criticar a postura do aliado.</del> <ins>afirmou não ter compromisso com intentos antidemocráticos e criticou manifestações políticas de comandantes militares.</ins> Leia mais (07/10/2021 - 11h03)
+2021-07-10 19:47:23,287          root     INFO: Media ready with ids: 1413947980231630853
+2021-07-10 19:47:23,288          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-10 19:47:23,288          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/lira-ve-oportunismo-e-nao-critica-falas-golpistas-de-bolsonaro-oito-partidos-reagem-as-ameacas.shtml
+2021-07-10 19:47:23,300          root     INFO: Replying to: 1413947960417783808
+2021-07-10 19:47:23,511          root     INFO: Id to store: 1413947981682860034
+2021-07-10 19:47:30,059          root     INFO: Finished script
