@@ -1,19 +1,13 @@
-2021-07-10 18:52:25,813          root     INFO: Starting script
-2021-07-10 18:52:26,673          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-10 18:52:27,337          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-10 18:52:27,992          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-10 18:52:28,226          root     INFO: Parsing R7 - Brasil
-2021-07-10 18:52:31,677          root     INFO: Lira <del>vê 'oportunismo' e</del> <ins>diz</ins> não <del>critica falas golpistas</del> <ins>ter compromisso com ruptura democrática e crítica manifestação política</ins> de <del>Bolsonaro; oito partidos reagem às ameaças</del> <ins>militares</ins>
-2021-07-10 18:52:33,393          root     INFO: Media ready with ids: 1413934181546143751
-2021-07-10 18:52:33,394          root     INFO: Text to tweet: Modificação do Título
-2021-07-10 18:52:33,394          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/lira-ve-oportunismo-e-nao-critica-falas-golpistas-de-bolsonaro-oito-partidos-reagem-as-ameacas.shtml
-2021-07-10 18:52:33,405          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/lira-ve-oportunismo-e-nao-critica-falas-golpistas-de-bolsonaro-oito-partidos-reagem-as-ameacas.shtml
-2021-07-10 18:52:33,590          root     INFO: Replying to: 1413934182926061571
-2021-07-10 18:52:33,824          root     INFO: Id to store: 1413934183655919619
-2021-07-10 18:52:33,832          root     INFO: Um dia depois de os presidentes do Senado, Rodrigo Pacheco (DEM-MG), e do TSE (Tribunal Superior Eleitoral), ministro Luís Roberto Barroso, reagirem às ameaças golpistas do presidente Jair Bolsonaro (sem <del>partido) ao processo eleitoral e democrático do país,</del> <ins>partido),</ins> o presidente da Câmara, Arthur Lira (PP-AL), <del>rompeu o silêncio, mas sem criticar a postura do aliado.</del> <ins>afirmou não ter compromisso com intentos antidemocráticos e criticou manifestações políticas de comandantes militares.</ins> Leia mais (07/10/2021 - 11h03)
-2021-07-10 18:52:35,596          root     INFO: Media ready with ids: 1413934190475849733
-2021-07-10 18:52:35,597          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-10 18:52:35,597          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/lira-ve-oportunismo-e-nao-critica-falas-golpistas-de-bolsonaro-oito-partidos-reagem-as-ameacas.shtml
-2021-07-10 18:52:35,610          root     INFO: Replying to: 1413934183655919619
-2021-07-10 18:52:35,830          root     INFO: Id to store: 1413934192124116993
-2021-07-10 18:52:42,522          root     INFO: Finished script
+2021-07-10 18:57:59,926          root     INFO: Starting script
+2021-07-10 18:58:00,919          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-10 18:58:01,687          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-10 18:58:02,460          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-10 18:58:02,629          root     INFO: Parsing R7 - Brasil
+2021-07-10 18:58:10,495          root     INFO: Presidente do Senado tenta <del>abrandar</del> <ins>estabilizar</ins> crise entre Congresso e Forças Armadas após comentário de Omar Aziz na CPI da Covid
+2021-07-10 18:58:12,243          root     INFO: Media ready with ids: 1413935602584760325
+2021-07-10 18:58:12,244          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-10 18:58:12,244          root     INFO: Article id: http://noticias.r7.com/brasil/congresso-nao-admitira-atentado-a-sua-independencia-diz-pacheco-09072021
+2021-07-10 18:58:12,253          root     INFO: Tweeting url: http://noticias.r7.com/brasil/congresso-nao-admitira-atentado-a-sua-independencia-diz-pacheco-09072021
+2021-07-10 18:58:12,450          root     INFO: Replying to: 1413935604253999111
+2021-07-10 18:58:12,715          root     INFO: Id to store: 1413935604983865344
+2021-07-10 18:58:13,258          root     INFO: Finished script
