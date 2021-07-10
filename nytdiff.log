@@ -1,34 +1,14 @@
-2021-07-10 02:38:23,970          root     INFO: Starting script
-2021-07-10 02:38:24,778          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-10 02:38:25,433          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-10 02:38:26,098          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-10 02:38:26,262          root     INFO: Parsing R7 - Brasil
-2021-07-10 02:38:26,435          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/07/bolsonaro-ja-era.shtml
-2021-07-10 02:38:26,450          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/contra-o-eleitor.shtml
-2021-07-10 02:38:26,463          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2021/07/encontros-sigilosos-refletem-pressoes-de-biden-por-mudancas-no-oriente-medio.shtml
-2021-07-10 02:38:26,477          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/07/sem-jogos-de-soma-zero.shtml
-2021-07-10 02:38:26,490          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/brasil-tem-condicoes-de-criar-o-chamado-passaporte-da-vacina-sim.shtml
-2021-07-10 02:38:26,504          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/batalha-ingloria.shtml
-2021-07-10 02:38:26,516          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/07/impeachment-parece-descer-sobre-brasilia-mas-as-aparencias-enganam.shtml
-2021-07-10 02:38:26,531          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/brasil-tem-condicoes-de-criar-o-chamado-passaporte-da-vacina-nao.shtml
-2021-07-10 02:38:29,223          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/aliados-de-bolsonaro-minimizam-pesquisas-datafolha-e-apostam-em-economia-e-vacina-para-reacao-em-2022.shtml
-2021-07-10 02:38:29,236          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-veja-quais-segmentos-puxam-e-derrubam-lula-e-bolsonaro-na-corrida-eleitoral-para-2022.shtml
-2021-07-10 02:38:29,249          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2021/07/impeachment-parece-descer-sobre-brasilia-mas-as-aparencias-enganam.shtml
-2021-07-10 02:38:29,263          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/dominghetti-e-ong-de-reverendo-buscavam-intermediar-venda-de-vacinas-a-angola-honduras-e-paraguai.shtml
-2021-07-10 02:38:29,278          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/corte-interamericana-determina-que-brasil-proteja-monumento-de-niemeyer-sobre-reforma-agraria.shtml
-2021-07-10 02:38:29,291          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/eliziane-gama-e-simone-tebet-falarao-em-live-sobre-o-papel-das-mulheres-na-cpi-da-covid.shtml
-2021-07-10 02:38:35,423          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/07/preconceito-contra-os-feios-ganha-nome-e-pode-ser-alvo-ate-de-protecao-legal.shtml
-2021-07-10 02:38:35,428          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nabil-bonduki/2021/07/onde-a-cidade-deve-se-adensar-e-onde-deve-ser-protegida.shtml
-2021-07-10 02:38:35,432          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/renata-mendonca/2021/07/copa-america-e-eurocopa-comprovam-que-grama-do-vizinho-e-sempre-mais-verde.shtml
-2021-07-10 02:38:35,437          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/veny-santos/2021/07/como-o-conceito-de-responsavel-esta-atrelado-ao-racismo-estrutural.shtml
-2021-07-10 02:38:35,442          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/manuela-cantuaria/2021/07/cidadao-de-bem-envia-nudes-do-proprio-penis-para-repudiar-antibolsonaristas.shtml
-2021-07-10 02:38:35,447          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/07/a-encruzilhada-da-america-latina-para-alcancar-as-emissoes-zero-de-carbono.shtml
-2021-07-10 02:38:35,451          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/receita-acusa-ricardo-barros-de-simulacao-financeira-para-ocultar-r-22-milhoes.shtml
-2021-07-10 02:38:35,457          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/merkel-e-macron-voltam-a-procurar-xi-jinping-apesar-da-pressao-de-biden.shtml
-2021-07-10 02:38:35,461          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/grupo-da-covaxin-enganou-saude-em-compra-de-r-20-milhoes-na-gestao-barros-afirma-pasta.shtml
-2021-07-10 02:38:35,466          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/07/o-mandato-de-jair-bolsonaro-esta-em-perigo.shtml
-2021-07-10 02:38:35,471          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/empresario-da-covaxin-alegou-desconforto-e-escondeu-preco-de-vacina-a-gestao-bolsonaro.shtml
-2021-07-10 02:38:35,476          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/07/mendonca-e-lancado-ao-stf-com-missao-de-servir-a-um-unico-senhor.shtml
-2021-07-10 02:38:35,494          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2021/07/teletrabalho-e-reforma-do-rh-do-estado.shtml
-2021-07-10 02:38:35,504          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/pv-indica-apoio-a-candidatura-de-alckmin-ao-governo-de-sao-paulo.shtml
-2021-07-10 02:38:35,504          root     INFO: Finished script
+2021-07-10 02:50:19,310          root     INFO: Starting script
+2021-07-10 02:50:20,318          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-10 02:50:21,112          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-10 02:50:21,926          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-10 02:50:22,250          root     INFO: Parsing R7 - Brasil
+2021-07-10 02:50:22,405          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/07/propina-sem-colarinho.shtml
+2021-07-10 02:50:22,420          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/07/baixem-o-tom-fardados.shtml
+2021-07-10 02:50:25,486          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/ciro-gomes-e-lula-telefonam-para-presidente-da-cpi-apos-manifestacao-das-forcas-armadas.shtml
+2021-07-10 02:50:25,501          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/tensao-entre-bolsonaro-e-stf-deve-crescer-com-superinquerito-e-nova-apuracao-de-alexandre-de-moraes.shtml
+2021-07-10 02:50:32,179          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/prefeito-de-sp-propoe-a-bolsonaro-acerto-de-contas-bilionario-entre-divida-com-uniao-e-campo-de-marte.shtml
+2021-07-10 02:50:32,186          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/entidades-acionam-a-onu-contra-projeto-que-dificulta-demarcacao-de-terras-indigenas-no-brasil.shtml
+2021-07-10 02:50:32,191          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/o-juro-nao-e-zero.shtml
+2021-07-10 02:50:32,197          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/riscos-orcamentarios-em-cenarios-extremos.shtml
+2021-07-10 02:50:32,197          root     INFO: Finished script
