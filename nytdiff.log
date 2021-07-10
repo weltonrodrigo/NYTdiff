@@ -1,13 +1,8 @@
-2021-07-10 18:57:59,926          root     INFO: Starting script
-2021-07-10 18:58:00,919          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-10 18:58:01,687          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-10 18:58:02,460          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-10 18:58:02,629          root     INFO: Parsing R7 - Brasil
-2021-07-10 18:58:10,495          root     INFO: Presidente do Senado tenta <del>abrandar</del> <ins>estabilizar</ins> crise entre Congresso e Forças Armadas após comentário de Omar Aziz na CPI da Covid
-2021-07-10 18:58:12,243          root     INFO: Media ready with ids: 1413935602584760325
-2021-07-10 18:58:12,244          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-10 18:58:12,244          root     INFO: Article id: http://noticias.r7.com/brasil/congresso-nao-admitira-atentado-a-sua-independencia-diz-pacheco-09072021
-2021-07-10 18:58:12,253          root     INFO: Tweeting url: http://noticias.r7.com/brasil/congresso-nao-admitira-atentado-a-sua-independencia-diz-pacheco-09072021
-2021-07-10 18:58:12,450          root     INFO: Replying to: 1413935604253999111
-2021-07-10 18:58:12,715          root     INFO: Id to store: 1413935604983865344
-2021-07-10 18:58:13,258          root     INFO: Finished script
+2021-07-10 19:13:30,821          root     INFO: Starting script
+2021-07-10 19:13:32,023          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-10 19:13:32,783          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-10 19:13:33,566          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-10 19:13:33,784          root     INFO: Parsing R7 - Brasil
+2021-07-10 19:13:36,735          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/tema-da-corrupcao-deve-ficar-em-segundo-plano-na-campanha-eleitoral-de-lula.shtml
+2021-07-10 19:13:42,665          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-diligencias-sigilosas-cgu-contradiz-ministro-bolsonarista-e-investiga-suspeitas-de-corrupcao-na-compra-de-vacinas.shtml
+2021-07-10 19:13:42,666          root     INFO: Finished script
