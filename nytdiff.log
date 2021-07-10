@@ -1,6 +1,26 @@
-2021-07-10 10:47:04,707          root     INFO: Starting script
-2021-07-10 10:47:05,737          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-10 10:47:06,539          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-10 10:47:07,320          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-10 10:47:07,566          root     INFO: Parsing R7 - Brasil
-2021-07-10 10:47:15,752          root     INFO: Finished script
+2021-07-10 10:58:33,301          root     INFO: Starting script
+2021-07-10 10:58:34,208          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-10 10:58:34,897          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-10 10:58:35,573          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-10 10:58:35,845          root     INFO: Parsing R7 - Brasil
+2021-07-10 10:58:39,025          root     INFO: Aliados de Bolsonaro minimizam <del>pesquisas</del> <ins>pesquisa</ins> Datafolha e apostam em economia e vacina para reação em 2022
+2021-07-10 10:58:40,773          root     INFO: Media ready with ids: 1413814926435667968
+2021-07-10 10:58:40,773          root     INFO: Text to tweet: Modificação do Título
+2021-07-10 10:58:40,774          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/aliados-de-bolsonaro-minimizam-pesquisas-datafolha-e-apostam-em-economia-e-vacina-para-reacao-em-2022.shtml
+2021-07-10 10:58:40,785          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/aliados-de-bolsonaro-minimizam-pesquisas-datafolha-e-apostam-em-economia-e-vacina-para-reacao-em-2022.shtml
+2021-07-10 10:58:40,976          root     INFO: Replying to: 1413814927911948288
+2021-07-10 10:58:41,209          root     INFO: Id to store: 1413814928683814914
+2021-07-10 10:58:41,218          root     INFO: Aliados do presidente Jair Bolsonaro (sem partido) minimizaram nesta sexta-feira (9) a última rodada de <del>pesquisas</del> <ins>pesquisa do</ins> Datafolha. Segundo eles, o governo deve reagir em 2022, ano eleitoral, com avanço da vacinação e da economia. Leia mais (07/09/2021 - 23h15)
+2021-07-10 10:58:42,917          root     INFO: Media ready with ids: 1413814935419817985
+2021-07-10 10:58:42,918          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-10 10:58:42,918          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/aliados-de-bolsonaro-minimizam-pesquisas-datafolha-e-apostam-em-economia-e-vacina-para-reacao-em-2022.shtml
+2021-07-10 10:58:42,927          root     INFO: Replying to: 1413814928683814914
+2021-07-10 10:58:43,166          root     INFO: Id to store: 1413814936858398725
+2021-07-10 10:58:43,377          root     INFO: No fim da tarde desta sexta-feira (9), o advogado do presidente Jair Bolsonaro, Frederick Wassef, enviou uma mensagem para o Whatsapp desta colunista atacando-a pessoalmente e dizendo, entre outras coisas, para que ela se mudasse para a China. <del>"Faça lá o que você faz aqui no seu trabalho, para ver o que o maravilhoso sistema político que você tanto ama faria com você. Lá na China você desapareceria e não iriam nem encontrar o seu corpo."</del> Leia mais (07/09/2021 - 23h05)
+2021-07-10 10:58:45,104          root     INFO: Media ready with ids: 1413814944513073159
+2021-07-10 10:58:45,105          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-10 10:58:45,105          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/advogado-de-bolsonaro-ataca-colunista-do-uol.shtml
+2021-07-10 10:58:45,115          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/advogado-de-bolsonaro-ataca-colunista-do-uol.shtml
+2021-07-10 10:58:45,297          root     INFO: Replying to: 1413814946043940868
+2021-07-10 10:58:45,550          root     INFO: Id to store: 1413814946828279809
+2021-07-10 10:58:51,495          root     INFO: Finished script
