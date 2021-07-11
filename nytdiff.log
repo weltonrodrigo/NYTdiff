@@ -1,6 +1,15 @@
-2021-07-11 22:30:54,475          root     INFO: Starting script
-2021-07-11 22:30:55,617          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-11 22:30:56,381          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-11 22:30:57,143          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-11 22:30:57,391          root     INFO: Parsing R7 - Brasil
-2021-07-11 22:31:06,005          root     INFO: Finished script
+2021-07-11 22:47:16,268          root     INFO: Starting script
+2021-07-11 22:47:17,235          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-11 22:47:18,022          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-11 22:47:18,808          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-11 22:47:19,088          root     INFO: Parsing R7 - Brasil
+2021-07-11 22:47:19,316          root     INFO: Brasil tem milhares de <del>instituições,</del> <ins>museus,</ins> mas ainda <ins>nos faz</ins> falta um Tchan <del>Experience</del> <ins>Experience?</ins>
+2021-07-11 22:47:21,195          root     INFO: Media ready with ids: 1414355657243910151
+2021-07-11 22:47:21,195          root     INFO: Text to tweet: Modificação do Título
+2021-07-11 22:47:21,195          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bia-braune/2021/07/brasil-tem-milhares-de-instituicoes-mas-ainda-falta-um-tchan-experience.shtml
+2021-07-11 22:47:21,207          root     INFO: Replying to: 1414328224448978949
+2021-07-11 22:47:21,473          root     INFO: Id to store: 1414355659391389701
+2021-07-11 22:47:24,531          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/planalto-e-congresso-mantem-clima-tenso-apos-falas-golpistas-de-bolsonaro-sobre-eleicoes.shtml
+2021-07-11 22:47:30,485          root     INFO: New article tracked: http://noticias.r7.com/brasil/ministerio-registra-maior-apreensao-de-drogas-da-historia-do-pais-11072021
+2021-07-11 22:47:31,050          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/relator-do-voto-impresso-tenta-reverter-esvaziamento-do-projeto-apos-acao-de-partidos-e-de-ministros-do-stf.shtml
+2021-07-11 22:47:31,051          root     INFO: Finished script
