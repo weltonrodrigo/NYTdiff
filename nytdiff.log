@@ -1,21 +1,6 @@
-2021-07-12 22:47:04,166          root     INFO: Starting script
-2021-07-12 22:47:05,124          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-12 22:47:05,908          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-12 22:47:06,688          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-12 22:47:06,910          root     INFO: Parsing R7 - Brasil
-2021-07-12 22:47:07,134          root     INFO: Ex-embaixador Paulo Tarso Flecha de Lima morre aos 88 anos <del>em São Paulo</del>
-2021-07-12 22:47:08,781          root     INFO: Media ready with ids: 1414717993687334913
-2021-07-12 22:47:08,781          root     INFO: Text to tweet: Modificação do Título
-2021-07-12 22:47:08,782          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/ex-embaixador-paulo-tarso-flecha-de-lima-morre-aos-88-anos-em-sao-paulo.shtml
-2021-07-12 22:47:08,792          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/ex-embaixador-paulo-tarso-flecha-de-lima-morre-aos-88-anos-em-sao-paulo.shtml
-2021-07-12 22:47:09,028          root     INFO: Replying to: 1414717995159588867
-2021-07-12 22:47:09,326          root     INFO: Id to store: 1414717996094918656
-2021-07-12 22:47:09,335          root     INFO: O ex-embaixador Paulo Tarso Flecha de Lima, 88, morreu nesta segunda-feira (12) em decorrência de choque séptico. Ele estava internado no Hospital Sírio-Libanês, em <del>São Paulo.</del> <ins>Brasília.</ins> Leia mais (07/12/2021 - 19h13)
-2021-07-12 22:47:11,020          root     INFO: Media ready with ids: 1414718002973585411
-2021-07-12 22:47:11,021          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-12 22:47:11,021          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/ex-embaixador-paulo-tarso-flecha-de-lima-morre-aos-88-anos-em-sao-paulo.shtml
-2021-07-12 22:47:11,033          root     INFO: Replying to: 1414717996094918656
-2021-07-12 22:47:11,263          root     INFO: Id to store: 1414718004462559236
-2021-07-12 22:47:14,016          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/oposicao-aciona-ministerio-publico-militar-contra-militancia-politica-de-comandante-da-aeronautica.shtml
-2021-07-12 22:47:20,025          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/senador-da-cpi-da-covid-aciona-advocacia-do-senado-contra-braga-netto.shtml
-2021-07-12 22:47:20,027          root     INFO: Finished script
+2021-07-12 22:58:19,291          root     INFO: Starting script
+2021-07-12 22:58:20,110          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-12 22:58:20,788          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-12 22:58:21,467          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-12 22:58:21,659          root     INFO: Parsing R7 - Brasil
+2021-07-12 22:58:31,752          root     INFO: Finished script
