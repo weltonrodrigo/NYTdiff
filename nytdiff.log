@@ -1,6 +1,17 @@
-2021-07-12 22:58:19,291          root     INFO: Starting script
-2021-07-12 22:58:20,110          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-12 22:58:20,788          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-12 22:58:21,467          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-12 22:58:21,659          root     INFO: Parsing R7 - Brasil
-2021-07-12 22:58:31,752          root     INFO: Finished script
+2021-07-12 23:18:07,464          root     INFO: Starting script
+2021-07-12 23:18:08,249          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-12 23:18:08,893          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-12 23:18:09,538          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-12 23:18:09,746          root     INFO: Parsing R7 - Brasil
+2021-07-12 23:18:12,659          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/minuta-preve-distritao-em-2022-e-peso-maior-para-voto-em-mulher-no-fundo-partidario.shtml
+2021-07-12 23:18:12,673          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-cpi-da-covid-fica-mais-conhecida-e-37-veem-sua-atuacao-como-regular.shtml
+2021-07-12 23:18:12,746          root     INFO: Os advogados do coronel da reserva Marcelo Blanco enviaram ao STF um pedido de habeas corpus para que seu cliente possa ficar em silêncio durante sessão da CPI da Covid marcada para <del>quarta-feira (14).</del> <ins>quinta-feira (15).</ins> Leia mais (07/12/2021 - 19h21)
+2021-07-12 23:18:14,450          root     INFO: Media ready with ids: 1414725818832543746
+2021-07-12 23:18:14,450          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-12 23:18:14,451          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/militar-que-estava-em-suposto-jantar-de-propina-pede-ao-stf-direito-de-ficar-em-silencio-na-cpi-apos-prisao-de-ex-diretor.shtml
+2021-07-12 23:18:14,461          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/militar-que-estava-em-suposto-jantar-de-propina-pede-ao-stf-direito-de-ficar-em-silencio-na-cpi-apos-prisao-de-ex-diretor.shtml
+2021-07-12 23:18:14,678          root     INFO: Replying to: 1414725820418076676
+2021-07-12 23:18:14,931          root     INFO: Id to store: 1414725821223292934
+2021-07-12 23:18:20,730          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/negocio-suspeito-da-covaxin-envolveu-empresa-dos-emirados-arabes-mostra-documento.shtml
+2021-07-12 23:18:20,735          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/senadores-bancam-aziz-apos-prisao-na-cpi-enquanto-planalto-espera-que-grupo-majoritario-perca-forca.shtml
+2021-07-12 23:18:20,736          root     INFO: Finished script
