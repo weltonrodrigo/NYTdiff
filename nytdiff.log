@@ -1,19 +1,6 @@
-2021-07-12 11:14:41,515          root     INFO: Starting script
-2021-07-12 11:14:42,499          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-12 11:14:43,282          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-12 11:14:44,060          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-12 11:14:44,336          root     INFO: Parsing R7 - Brasil
-2021-07-12 11:14:44,882          root     INFO: <del>Em Washington,</del> <ins>Negócios do pintor amador</ins> Hunter Biden <del>segue tirando</del> <ins>seguem assombrando</ins> o <del>foco do</del> pai, Joe
-2021-07-12 11:14:46,623          root     INFO: Media ready with ids: 1414543753210118144
-2021-07-12 11:14:46,624          root     INFO: Text to tweet: Modificação do Título
-2021-07-12 11:14:46,624          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/em-washington-hunter-biden-segue-tirando-o-foco-do-pai-joe.shtml
-2021-07-12 11:14:46,640          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/em-washington-hunter-biden-segue-tirando-o-foco-do-pai-joe.shtml
-2021-07-12 11:14:46,934          root     INFO: Replying to: 1414543755068198923
-2021-07-12 11:14:47,243          root     INFO: Id to store: 1414543756016201728
-2021-07-12 11:14:47,253          root     INFO: Com foto do filho de Joe Biden sorrindo nos jardins da Casa Branca (abaixo) e editorial cobrando transparência, o Washington Post noticiou que o <ins>novo</ins> governo americano "se debate com a ética das pinturas caras de Hunter". Leia mais (07/11/2021 - 23h07)
-2021-07-12 11:14:49,014          root     INFO: Media ready with ids: 1414543763175788547
-2021-07-12 11:14:49,014          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-12 11:14:49,014          root     INFO: Article id: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/em-washington-hunter-biden-segue-tirando-o-foco-do-pai-joe.shtml
-2021-07-12 11:14:49,025          root     INFO: Replying to: 1414543756016201728
-2021-07-12 11:14:49,303          root     INFO: Id to store: 1414543764786384900
-2021-07-12 11:14:58,200          root     INFO: Finished script
+2021-07-12 11:24:56,255          root     INFO: Starting script
+2021-07-12 11:24:57,400          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-12 11:24:58,176          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-12 11:24:58,979          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-12 11:24:59,161          root     INFO: Parsing R7 - Brasil
+2021-07-12 11:25:08,160          root     INFO: Finished script
