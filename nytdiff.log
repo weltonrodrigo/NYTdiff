@@ -1,15 +1,6 @@
-2021-07-12 14:16:07,330          root     INFO: Starting script
-2021-07-12 14:16:08,118          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-12 14:16:08,761          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-12 14:16:09,407          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-12 14:16:09,646          root     INFO: Parsing R7 - Brasil
-2021-07-12 14:16:12,590          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/irmao-de-lider-do-gabinete-do-odio-de-bolsonaro-tem-cargo-na-prefeitura-de-campina-grande.shtml
-2021-07-12 14:16:12,637          root     INFO: Em meio à tensão entre os Poderes provocada por <ins>suas recentes</ins> declarações <del>golpistas de</del> <ins>golpistas, o presidente</ins> Jair Bolsonaro (sem <del>partido), o presidente da República</del> <ins>partido)</ins> disse nesta segunda-feira (12) que é alvo de boicote de "gente importante". <del>"Os problemas fazem parte. Sabia que ia ser difícil, mas esperava contar com mais gente importante do meu lado. Lamentavelmente, muita gente importante aí boicota", disse Bolsonaro a apoiadores na porta do Palácio da Alvorada. A interação foi gravada e transmitida por um canal de internet simpático ao presidente.</del> Leia mais (07/12/2021 - 10h47)
-2021-07-12 14:16:14,423          root     INFO: Media ready with ids: 1414589419835756548
-2021-07-12 14:16:14,424          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-12 14:16:14,424          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-falas-golpistas-bolsonaro-agora-se-diz-alvo-de-boicote-de-gente-importante.shtml
-2021-07-12 14:16:14,434          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-falas-golpistas-bolsonaro-agora-se-diz-alvo-de-boicote-de-gente-importante.shtml
-2021-07-12 14:16:14,640          root     INFO: Replying to: 1414589421500915715
-2021-07-12 14:16:14,887          root     INFO: Id to store: 1414589422281101320
-2021-07-12 14:16:20,853          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/denuncias-minam-ultimo-bastiao-da-imagem-de-bolsonaro-mostra-datafolha.shtml
-2021-07-12 14:16:20,854          root     INFO: Finished script
+2021-07-12 14:26:37,328          root     INFO: Starting script
+2021-07-12 14:26:38,120          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-12 14:26:38,765          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-12 14:26:39,411          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-12 14:26:39,560          root     INFO: Parsing R7 - Brasil
+2021-07-12 14:26:48,997          root     INFO: Finished script
