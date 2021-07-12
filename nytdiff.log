@@ -1,17 +1,8 @@
-2021-07-12 17:07:45,185          root     INFO: Starting script
-2021-07-12 17:07:46,044          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-12 17:07:46,717          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-12 17:07:47,400          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-12 17:07:47,634          root     INFO: Parsing R7 - Brasil
-2021-07-12 17:07:47,821          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2021/07/eurocopa-me-fez-vibrar-pela-italia-e-relembrar-o-gosto-da-minha-infancia.shtml
-2021-07-12 17:07:51,372          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-da-cpi-afirma-que-crime-de-responsabilidade-de-bolsonaro-esta-cada-vez-mais-claro.shtml
-2021-07-12 17:07:51,570          root     INFO: A Polícia Federal instaurou inquérito para investigar suspeita de prevaricação <del>de</del> <ins>do presidente</ins> Jair Bolsonaro na negociação do governo para a compra da vacina <ins>indiana</ins> Covaxin. Leia mais (07/12/2021 - 09h30)
-2021-07-12 17:07:53,326          root     INFO: Media ready with ids: 1414632616653897735
-2021-07-12 17:07:53,326          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-12 17:07:53,326          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/pf-abre-inquerito-para-investigar-se-bolsonaro-prevaricou-em-caso-de-suspeitas-da-covaxin.shtml
-2021-07-12 17:07:53,344          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/pf-abre-inquerito-para-investigar-se-bolsonaro-prevaricou-em-caso-de-suspeitas-da-covaxin.shtml
-2021-07-12 17:07:53,527          root     INFO: Replying to: 1414632618151264266
-2021-07-12 17:07:53,744          root     INFO: Id to store: 1414632618864390147
-2021-07-12 17:08:01,276          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-maioria-acha-bolsonaro-desonesto-falso-incompetente-despreparado-indeciso-autoritario-e-pouco-inteligente.shtml
-2021-07-12 17:08:01,286          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/gabriel-kanner/2021/07/setor-produtivo-se-posiciona-fortemente-contra-o-aumento-de-carga-tributaria.shtml
-2021-07-12 17:08:01,287          root     INFO: Finished script
+2021-07-12 17:35:04,084          root     INFO: Starting script
+2021-07-12 17:35:05,047          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-12 17:35:05,833          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-12 17:35:06,622          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-12 17:35:06,857          root     INFO: Parsing R7 - Brasil
+2021-07-12 17:35:10,005          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/novo-gabinete-da-presidencia-da-camara-ira-custar-r-1-milhao-veja-video-das-obras.shtml
+2021-07-12 17:35:16,726          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/aecio-rejeita-suspeita-sem-provas-de-bolsonaro-e-diz-nao-acreditar-em-fraude-nas-urnas-em-2014.shtml
+2021-07-12 17:35:16,727          root     INFO: Finished script
