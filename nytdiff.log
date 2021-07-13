@@ -1,9 +1,12 @@
-2021-07-13 12:30:43,851          root     INFO: Starting script
-2021-07-13 12:30:44,657          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-13 12:30:45,309          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-13 12:30:45,968          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-13 12:30:46,091          root     INFO: Parsing R7 - Brasil
-2021-07-13 12:30:54,717          root     INFO: New article tracked: http://noticias.r7.com/brasil/juiz-extingue-acao-da-lava-jato-contra-ex-tesoureiro-do-pt-13072021
-2021-07-13 12:30:54,733          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-oficializa-indicacao-de-andre-mendonca-ao-stf-13072021
-2021-07-13 12:30:54,802          root     INFO: New article tracked: http://noticias.r7.com/brasil/novas-denuncias-conduzem-elcio-franco-ao-centro-a-cpi-da-covid-13072021
-2021-07-13 12:30:55,243          root     INFO: Finished script
+2021-07-13 13:06:35,575          root     INFO: Starting script
+2021-07-13 13:06:36,436          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-13 13:06:37,084          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-13 13:06:37,734          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-13 13:06:37,830          root     INFO: Parsing R7 - Brasil
+2021-07-13 13:06:38,012          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/07/amazonia-soberania-e-direito-amazonico.shtml
+2021-07-13 13:06:41,132          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/corpo-de-miliciano-adriano-da-nobrega-ligado-a-familia-bolsonaro-e-exumado-e-passara-por-novos-exames.shtml
+2021-07-13 13:06:44,175          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/07/amazonia-soberania-e-direito-amazonico.shtml
+2021-07-13 13:06:47,703          root     INFO: Removed https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/ambiente/2021/05/testemunhas-dizem-a-pf-que-3000-cargas-de-madeira-sairam-do-para-para-o-exterior-sem-autorizacao-do-ibama.shtml
+2021-07-13 13:06:47,708          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2021/07/chora-menino.shtml
+2021-07-13 13:06:47,713          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/bolsonaro-revela-desprezo-pelo-judiciario-ao-atacar-barroso-diz-grupo-de-advogados.shtml
+2021-07-13 13:06:47,713          root     INFO: Finished script
