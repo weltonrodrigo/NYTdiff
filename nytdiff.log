@@ -1,15 +1,8 @@
-2021-07-13 16:29:30,812          root     INFO: Starting script
-2021-07-13 16:29:31,728          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-13 16:29:32,398          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-13 16:29:33,080          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-13 16:29:33,333          root     INFO: Parsing R7 - Brasil
-2021-07-13 16:29:33,491          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/paulkrugman/2021/07/o-duradouro-mito-dos-infernos-urbanos-nos-estados-unidos.shtml
-2021-07-13 16:29:36,493          root     INFO: O presidente Jair Bolsonaro (sem partido) confirmou a indicação do atual titular da AGU (Advocacia-Geral da União), André Mendonça, para a vaga do ministro Marco Aurélio Mello no STF (Supremo Tribunal Federal), que se <del>aposenta no dia 12 de julho, por conta da</del> <ins>aposentou aos 75 anos,</ins> idade <del>limita</del> <ins>limite</ins> para ocupar o cargo. Leia mais (07/13/2021 - 12h51)
-2021-07-13 16:29:38,212          root     INFO: Media ready with ids: 1414985378151469060
-2021-07-13 16:29:38,213          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-13 16:29:38,214          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/somente-um-presidente-teve-indicacao-para-ministro-do-stf-rejeitada-pelo-senado.shtml
-2021-07-13 16:29:38,225          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/somente-um-presidente-teve-indicacao-para-ministro-do-stf-rejeitada-pelo-senado.shtml
-2021-07-13 16:29:38,425          root     INFO: Replying to: 1414985379699118088
-2021-07-13 16:29:38,700          root     INFO: Id to store: 1414985380529573888
-2021-07-13 16:29:45,302          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2021/07/the-flight-attendant-com-kaley-cuoco-tem-misterio-e-sarcasmo-de-um-hitchcock.shtml
-2021-07-13 16:29:45,304          root     INFO: Finished script
+2021-07-13 17:06:04,347          root     INFO: Starting script
+2021-07-13 17:06:05,153          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-13 17:06:05,807          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-13 17:06:06,464          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-13 17:06:06,626          root     INFO: Parsing R7 - Brasil
+2021-07-13 17:06:06,780          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcelocoelho/2021/07/renovar-a-democracia-e-mais-urgente-do-que-lutar-por-sua-permanencia.shtml
+2021-07-13 17:06:16,517          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/eua-e-biden-sao-de-novo-arrastados-para-o-atoleiro-do-haiti.shtml
+2021-07-13 17:06:16,518          root     INFO: Finished script
