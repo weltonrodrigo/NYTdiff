@@ -1,17 +1,8 @@
-2021-07-13 23:31:31,594          root     INFO: Starting script
-2021-07-13 23:31:32,399          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-13 23:31:33,051          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-13 23:31:33,708          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-13 23:31:33,920          root     INFO: Parsing R7 - Brasil
-2021-07-13 23:31:34,094          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/no-exterior-lula-passa-a-atirar-contra-bolsonaro.shtml
-2021-07-13 23:31:37,140          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/nelsondesa/2021/07/no-exterior-lula-passa-a-atirar-contra-bolsonaro.shtml
-2021-07-13 23:31:37,192          root     INFO: Bolsonaro, Fux, Lira e Pacheco se reúnem nesta quarta <del>após</del> <ins>em meio a</ins> tensão entre os Poderes
-2021-07-13 23:31:38,969          root     INFO: Media ready with ids: 1415091580936105985
-2021-07-13 23:31:38,970          root     INFO: Text to tweet: Modificação do Título
-2021-07-13 23:31:38,970          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-fux-lira-e-pacheco-se-reunem-nesta-quarta-apos-tensao-entre-os-poderes.shtml
-2021-07-13 23:31:38,981          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-fux-lira-e-pacheco-se-reunem-nesta-quarta-apos-tensao-entre-os-poderes.shtml
-2021-07-13 23:31:39,161          root     INFO: Replying to: 1415091582542520324
-2021-07-13 23:31:39,428          root     INFO: Id to store: 1415091583251267586
-2021-07-13 23:31:46,179          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/aliados-de-bolsonaro-minimizam-pesquisas-datafolha-e-apostam-em-economia-e-vacina-para-reacao-em-2022.shtml
-2021-07-13 23:31:46,185          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2021/07/icone-da-lava-jato-vira-estrela-da-bolsa-em-2021.shtml
-2021-07-13 23:31:46,186          root     INFO: Finished script
+2021-07-13 23:47:06,370          root     INFO: Starting script
+2021-07-13 23:47:07,183          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-13 23:47:07,825          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-13 23:47:08,470          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-13 23:47:08,724          root     INFO: Parsing R7 - Brasil
+2021-07-13 23:47:11,571          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/urnas-brasileiras-nao-foram-hackeadas-nos-eua.shtml
+2021-07-13 23:47:17,463          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/tensao-entre-bolsonaro-e-stf-deve-crescer-com-superinquerito-e-nova-apuracao-de-alexandre-de-moraes.shtml
+2021-07-13 23:47:17,463          root     INFO: Finished script
