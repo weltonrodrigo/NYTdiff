@@ -1,6 +1,10 @@
-2021-07-13 15:41:04,672          root     INFO: Starting script
-2021-07-13 15:41:05,523          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-13 15:41:06,189          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-13 15:41:06,860          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-13 15:41:06,970          root     INFO: Parsing R7 - Brasil
-2021-07-13 15:41:15,445          root     INFO: Finished script
+2021-07-13 15:53:41,242          root     INFO: Starting script
+2021-07-13 15:53:42,113          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-13 15:53:42,757          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-13 15:53:43,406          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-13 15:53:43,681          root     INFO: Parsing R7 - Brasil
+2021-07-13 15:53:46,555          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/somente-um-presidente-teve-indicacao-para-ministro-do-stf-rejeitada-pelo-senado.shtml
+2021-07-13 15:53:46,569          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonarismo-de-braga-netto-e-alvo-de-criticas-de-militares-e-no-supremo.shtml
+2021-07-13 15:53:52,453          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/relator-da-cpi-renan-reage-a-forcas-armadas-e-diz-que-nao-podemos-ter-medo-de-quarteladas.shtml
+2021-07-13 15:53:52,457          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-56-reprovam-gestao-de-bolsonaro-contra-covid-e-46-o-culpam-por-situacao-atual-na-pandemia.shtml
+2021-07-13 15:53:52,458          root     INFO: Finished script
