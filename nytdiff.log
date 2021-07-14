@@ -1,15 +1,8 @@
-2021-07-13 23:57:59,062          root     INFO: Starting script
-2021-07-13 23:57:59,867          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-13 23:58:00,529          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-13 23:58:01,196          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-13 23:58:01,410          root     INFO: Parsing R7 - Brasil
-2021-07-13 23:58:04,779          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/relatorio-da-camara-afrouxa-cota-de-mulheres-e-coloca-na-constituicao-amarras-a-stf-e-tse.shtml
-2021-07-13 23:58:04,945          root     INFO: O presidente do STF (Supremo Tribunal Federal), Luiz Fux, acolheu parcialmente nesta terça-feira (13) uma demanda da CPI da Covid que dá fôlego para a comissão reagir à sistemática atitude de depoentes de permanecerem em <del>silêncio,</del> <ins>silêncio</ins> graças a decisões da Justiça. Leia mais (07/13/2021 - 18h37)
-2021-07-13 23:58:06,678          root     INFO: Media ready with ids: 1415098240316416007
-2021-07-13 23:58:06,679          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-13 23:58:06,679          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/cpi-da-covid-recorre-ao-stf-e-obtem-aval-para-agir-contra-silencio-sistematico-de-depoentes.shtml
-2021-07-13 23:58:06,688          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/cpi-da-covid-recorre-ao-stf-e-obtem-aval-para-agir-contra-silencio-sistematico-de-depoentes.shtml
-2021-07-13 23:58:06,915          root     INFO: Replying to: 1415098241977405442
-2021-07-13 23:58:07,159          root     INFO: Id to store: 1415098242807877646
-2021-07-13 23:58:13,452          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/ciro-gomes-e-lula-telefonam-para-presidente-da-cpi-apos-manifestacao-das-forcas-armadas.shtml
-2021-07-13 23:58:13,453          root     INFO: Finished script
+2021-07-14 00:54:40,132          root     INFO: Starting script
+2021-07-14 00:54:41,359          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-14 00:54:42,026          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-14 00:54:42,694          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-14 00:54:42,912          root     INFO: Parsing R7 - Brasil
+2021-07-14 00:54:46,423          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-crises-em-serie-bolsonaro-tem-que-lidar-com-mais-uma-a-de-soluco.shtml
+2021-07-14 00:54:53,371          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/pec-para-barrar-militares-da-ativa-em-cargos-politicos-deve-ser-entregue-com-as-assinaturas-necessarias-na-quarta-14.shtml
+2021-07-14 00:54:53,372          root     INFO: Finished script
