@@ -1,18 +1,8 @@
-2021-07-14 19:57:59,836          root     INFO: Starting script
-2021-07-14 19:58:00,650          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-14 19:58:01,298          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-14 19:58:01,964          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-14 19:58:02,116          root     INFO: Parsing R7 - Brasil
-2021-07-14 19:58:05,313          root     INFO: Com obstrução intestinal, Bolsonaro <del>será</del> <ins>é</ins> transferido a São Paulo para possível cirurgia de emergência
-2021-07-14 19:58:07,103          root     INFO: Media ready with ids: 1415400231433342977
-2021-07-14 19:58:07,103          root     INFO: Text to tweet: Modificação do Título
-2021-07-14 19:58:07,103          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-obstrucao-intestinal-bolsonaro-sera-transferido-a-sao-paulo-para-possivel-cirurgia-de-emergencia.shtml
-2021-07-14 19:58:07,112          root     INFO: Replying to: 1415397521254490118
-2021-07-14 19:58:07,325          root     INFO: Id to store: 1415400233459138560
-2021-07-14 19:58:07,332          root     INFO: O presidente Jair Bolsonaro <del>deverá ser</del> <ins>está sendo</ins> transferido para São Paulo, após seu médico constatar <ins>nesta quarta-feira (14)</ins> um quadro de obstrução intestinal. Na capital paulista, ele passará por novos exames para <del>veriticar</del> <ins>verificar</ins> se uma cirurgia de emergência será necessária. <ins>A informação foi confirmada por nota do Palácio do Planalto.</ins> Leia mais (07/14/2021 - 15h49)
-2021-07-14 19:58:09,058          root     INFO: Media ready with ids: 1415400240128069645
-2021-07-14 19:58:09,058          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-14 19:58:09,059          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-obstrucao-intestinal-bolsonaro-sera-transferido-a-sao-paulo-para-possivel-cirurgia-de-emergencia.shtml
-2021-07-14 19:58:09,072          root     INFO: Replying to: 1415400233459138560
-2021-07-14 19:58:09,289          root     INFO: Id to store: 1415400241680064519
-2021-07-14 19:58:14,992          root     INFO: Finished script
+2021-07-14 20:17:59,072          root     INFO: Starting script
+2021-07-14 20:17:59,931          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-14 20:18:00,602          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-14 20:18:01,273          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-14 20:18:01,490          root     INFO: Parsing R7 - Brasil
+2021-07-14 20:18:05,321          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/mais-de-30-subprocuradores-manifestam-apoio-a-investigacao-contra-bolsonaro-por-ameacas-a-eleicoes.shtml
+2021-07-14 20:18:13,116          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/janiodefreitas/2021/07/pacheco-precisou-ser-chamado-de-covarde-para-defender-o-senado.shtml
+2021-07-14 20:18:13,117          root     INFO: Finished script
