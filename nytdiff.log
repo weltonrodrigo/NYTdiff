@@ -1,8 +1,24 @@
-2021-07-14 22:46:59,733          root     INFO: Starting script
-2021-07-14 22:47:00,622          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-14 22:47:01,323          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-14 22:47:02,008          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-14 22:47:02,206          root     INFO: Parsing R7 - Brasil
-2021-07-14 22:47:02,372          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2021/07/dias-sem-compromissos-acabam-atropelados-pelo-whatsapp-e-pelos-emails.shtml
-2021-07-14 22:47:12,624          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/brasil-tem-condicoes-de-criar-o-chamado-passaporte-da-vacina-sim.shtml
-2021-07-14 22:47:12,626          root     INFO: Finished script
+2021-07-14 22:58:15,281          root     INFO: Starting script
+2021-07-14 22:58:16,087          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-14 22:58:16,750          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-14 22:58:17,411          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-14 22:58:17,655          root     INFO: Parsing R7 - Brasil
+2021-07-14 22:58:21,419          root     INFO: Com obstrução intestinal, Bolsonaro <del>será</del> <ins>é</ins> transferido a São Paulo para possível cirurgia de emergência
+2021-07-14 22:58:23,092          root     INFO: Media ready with ids: 1415445597683953664
+2021-07-14 22:58:23,093          root     INFO: Text to tweet: Modificação do Título
+2021-07-14 22:58:23,093          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-obstrucao-intestinal-bolsonaro-sera-transferido-a-sao-paulo-para-possivel-cirurgia-de-emergencia.shtml
+2021-07-14 22:58:23,103          root     INFO: Replying to: 1415435430523293703
+2021-07-14 22:58:23,357          root     INFO: Id to store: 1415445599143534596
+2021-07-14 22:58:23,365          root     INFO: <del>O presidente Jair Bolsonaro deverá ser transferido para São Paulo, após seu médico constatar um</del> <ins>Com</ins> quadro de obstrução <del>intestinal. Na capital paulista, ele passará por novos exames</del> <ins>intestinal, o presidente Jair Bolsonaro foi levado de Brasília</ins> para <del>veriticar se</del> <ins>São Paulo nesta quarta-feira (14). A equipe médica vai avaliar a necessidade de</ins> uma cirurgia de emergência <del>será necessária.</del> <ins>após a realização de exames mais detalhados.</ins> Leia mais (07/14/2021 - 15h49)
+2021-07-14 22:58:28,250          root     INFO: Media ready with ids: 1415445618676338689
+2021-07-14 22:58:28,250          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-14 22:58:28,250          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-obstrucao-intestinal-bolsonaro-sera-transferido-a-sao-paulo-para-possivel-cirurgia-de-emergencia.shtml
+2021-07-14 22:58:28,264          root     INFO: Replying to: 1415445599143534596
+2021-07-14 22:58:28,480          root     INFO: Id to store: 1415445620626792453
+2021-07-14 22:58:31,695          root     INFO: A União Europeia <del>anunciou</del> <ins>(UE) apresentou</ins> nesta <del>quarta</del> <ins>quarta-feira</ins> (14) um <ins>novo</ins> plano <del>extenso</del> para tentar reduzir a poluição gerada <del>no continente</del> <ins>pelo bloco</ins> e, assim, conter o aquecimento global. <del>As propostas preveem</del> <ins>O projeto prevê, entre outros pontos, o</ins> aumento do uso de energias <del>limpas, como</del> <ins>limpas -como</ins> solar e <del>do vento, estímulo ao avanço dos</del> <ins>eólica-, estímulos para o uso de</ins> carros elétricos e <ins>o</ins> veto à fabricação de automóveis <ins>movidos</ins> a combustão <del>até 2035, entre outras medidas.</del> <ins>a partir de 2035.</ins> Leia mais (07/14/2021 - 12h02)
+2021-07-14 22:58:33,459          root     INFO: Media ready with ids: 1415445640935522307
+2021-07-14 22:58:33,460          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-14 22:58:33,460          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/07/uniao-europeia-lanca-plano-ambicioso-contra-poluicao-que-inclui-vetar-carros-a-combustao-ate-2035.shtml
+2021-07-14 22:58:33,470          root     INFO: Replying to: 1415420299563175941
+2021-07-14 22:58:33,712          root     INFO: Id to store: 1415445642458157057
+2021-07-14 22:58:37,395          root     INFO: Finished script
