@@ -1,13 +1,14 @@
-2021-07-14 18:59:46,903          root     INFO: Starting script
-2021-07-14 18:59:47,711          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-14 18:59:48,365          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-14 18:59:49,024          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-14 18:59:49,298          root     INFO: Parsing R7 - Brasil
-2021-07-14 18:59:52,641          root     INFO: O presidente Jair Bolsonaro deverá ser transferido para São Paulo, após seu médico constatar um quadro de obstrução intestinal. Na capital paulista, ele passará por novos exames para veriticar se uma cirurgia de emergência será necessária. <ins>A informação foi confirmada por nota do Palácio do Planalto.</ins> Leia mais (07/14/2021 - 15h49)
-2021-07-14 18:59:54,503          root     INFO: Media ready with ids: 1415385582604361729
-2021-07-14 18:59:54,504          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-14 18:59:54,504          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-obstrucao-intestinal-bolsonaro-sera-transferido-a-sao-paulo-para-possivel-cirurgia-de-emergencia.shtml
-2021-07-14 18:59:54,514          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-obstrucao-intestinal-bolsonaro-sera-transferido-a-sao-paulo-para-possivel-cirurgia-de-emergencia.shtml
-2021-07-14 18:59:54,699          root     INFO: Replying to: 1415385584525266950
-2021-07-14 18:59:54,944          root     INFO: Id to store: 1415385585309585411
-2021-07-14 19:00:01,477          root     INFO: Finished script
+2021-07-14 19:14:08,088          root     INFO: Starting script
+2021-07-14 19:14:08,898          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-14 19:14:09,555          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-14 19:14:10,209          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-14 19:14:10,320          root     INFO: Parsing R7 - Brasil
+2021-07-14 19:14:13,594          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/presidente-da-oab-manifesta-apoio-a-pec-do-pazuello-que-barra-militares-da-ativa-no-governo.shtml
+2021-07-14 19:14:13,653          root     INFO: O presidente Jair Bolsonaro deverá ser transferido para São Paulo, após seu médico constatar <ins>nesta quarta-feira (14)</ins> um quadro de obstrução intestinal. Na capital paulista, ele passará por novos exames para <del>veriticar</del> <ins>verificar</ins> se uma cirurgia de emergência será necessária. <ins>A informação foi confirmada por nota do Palácio do Planalto.</ins> Leia mais (07/14/2021 - 15h49)
+2021-07-14 19:14:15,516          root     INFO: Media ready with ids: 1415389194206187520
+2021-07-14 19:14:15,517          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-14 19:14:15,518          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-obstrucao-intestinal-bolsonaro-sera-transferido-a-sao-paulo-para-possivel-cirurgia-de-emergencia.shtml
+2021-07-14 19:14:15,528          root     INFO: Replying to: 1415385585309585411
+2021-07-14 19:14:15,787          root     INFO: Id to store: 1415389195846176771
+2021-07-14 19:14:22,504          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/apos-reacao-contra-falas-golpistas-de-bolsonaro-presidente-do-senado-recebe-indiretas-de-colegas.shtml
+2021-07-14 19:14:22,505          root     INFO: Finished script
