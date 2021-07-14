@@ -1,16 +1,11 @@
-2021-07-14 13:29:30,481          root     INFO: Starting script
-2021-07-14 13:29:31,273          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-14 13:29:31,916          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-14 13:29:32,562          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-14 13:29:32,855          root     INFO: Parsing R7 - Brasil
-2021-07-14 13:29:41,446          root     INFO: New article tracked: http://noticias.r7.com/brasil/moraes-envia-provas-do-inquerito-das-fake-news-a-justica-eleitoral-14072021
-2021-07-14 13:29:41,466          root     INFO: New article tracked: http://noticias.r7.com/brasil/com-bolsonaro-internado-reuniao-dos-tres-poderes-e-cancelada-14072021
-2021-07-14 13:29:41,478          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sente-dores-e-e-internado-em-hospital-de-brasilia-14072021
-2021-07-14 13:29:41,603          root     INFO: Francisco Maximiano e Emanuela Medrades estiveram na negociação com o governo que hoje é investigada pela <del>Polícia Federal</del> <ins>PF</ins>
-2021-07-14 13:29:43,310          root     INFO: Media ready with ids: 1415302488853557255
-2021-07-14 13:29:43,311          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-14 13:29:43,311          root     INFO: Article id: http://noticias.r7.com/brasil/cpi-ouve-nesta-quarta-diretores-da-precisa-sobre-compra-da-covaxin-14072021
-2021-07-14 13:29:43,321          root     INFO: Tweeting url: http://noticias.r7.com/brasil/cpi-ouve-nesta-quarta-diretores-da-precisa-sobre-compra-da-covaxin-14072021
-2021-07-14 13:29:43,532          root     INFO: Replying to: 1415302490426314757
-2021-07-14 13:29:43,771          root     INFO: Id to store: 1415302491281973248
-2021-07-14 13:29:44,166          root     INFO: Finished script
+2021-07-14 13:47:05,565          root     INFO: Starting script
+2021-07-14 13:47:06,385          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-14 13:47:07,043          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-14 13:47:07,710          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-14 13:47:08,532          root     INFO: Parsing R7 - Brasil
+2021-07-14 13:47:11,604          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49946
+2021-07-14 13:47:17,728          root     INFO: Removed http://noticias.r7.com/brasil/com-bolsonaro-internado-reuniao-dos-tres-poderes-e-cancelada-14072021
+2021-07-14 13:47:17,734          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sente-dores-e-e-internado-em-hospital-de-brasilia-14072021
+2021-07-14 13:47:17,740          root     INFO: Removed http://noticias.r7.com/brasil/moraes-envia-provas-do-inquerito-das-fake-news-a-justica-eleitoral-14072021
+2021-07-14 13:47:17,745          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/alckmin-costura-coligacao-para-2022-e-pondera-sobre-palanque-nacional.shtml
+2021-07-14 13:47:17,746          root     INFO: Finished script
