@@ -1,20 +1,8 @@
-2021-07-14 21:47:01,689          root     INFO: Starting script
-2021-07-14 21:47:02,514          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-14 21:47:03,182          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-14 21:47:03,854          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-14 21:47:04,068          root     INFO: Parsing R7 - Brasil
-2021-07-14 21:47:07,349          root     INFO: O presidente do STF, Luiz Fux, concedeu liminar para que o coronel da reserva Marcelo Blanco, que participou do jantar em que supostamente o ex-diretor do Ministério da Saúde Roberto Dias pediu propina <del>para comprar</del> <ins>em negociação de</ins> vacinas, fique em silêncio em relação a questões que possam incriminá-lo durante a sessão da CPI da Covid que irá ouvi-lo. Leia mais (07/14/2021 - 18h20)
-2021-07-14 21:47:09,071          root     INFO: Media ready with ids: 1415427671081820162
-2021-07-14 21:47:09,072          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-14 21:47:09,072          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/fux-autoriza-militar-que-estava-em-suposto-jantar-de-propina-a-usar-silencio-em-cpi.shtml
-2021-07-14 21:47:09,083          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/fux-autoriza-militar-que-estava-em-suposto-jantar-de-propina-a-usar-silencio-em-cpi.shtml
-2021-07-14 21:47:09,281          root     INFO: Replying to: 1415427672587612160
-2021-07-14 21:47:09,575          root     INFO: Id to store: 1415427673292165127
-2021-07-14 21:47:09,632          root     INFO: Depois de ficar em silêncio no primeiro depoimento, na terça-feira (13), a diretora técnica da Precisa Medicamentos, Emanuela Medrades, depôs <del>à</del> <ins>na</ins> CPI da Covid-19 nesta quarta-feira (14). A empresa foi responsável por intermediar com o Ministério da Saúde a venda da vacina Covaxin, do laboratório indiano Bharat Biotech. Essa negociação é investigada pela comissão por suspeita de irregularidades e uma suposta pressão atípica, denunciada por <del>servidores</del> <ins>servidor</ins> da Saúde, para sua aprovação. Leia mais (07/14/2021 - 17h59)
-2021-07-14 21:47:11,418          root     INFO: Media ready with ids: 1415427680850399236
-2021-07-14 21:47:11,419          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-14 21:47:11,419          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/na-cpi-diretora-ligada-a-covaxin-se-contradiz-sobre-datas-de-envio-de-fatura-da-vacina-veja-checagem.shtml
-2021-07-14 21:47:11,429          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/na-cpi-diretora-ligada-a-covaxin-se-contradiz-sobre-datas-de-envio-de-fatura-da-vacina-veja-checagem.shtml
-2021-07-14 21:47:11,630          root     INFO: Replying to: 1415427682431639553
-2021-07-14 21:47:12,010          root     INFO: Id to store: 1415427683270467591
-2021-07-14 21:47:18,577          root     INFO: Finished script
+2021-07-14 21:58:13,929          root     INFO: Starting script
+2021-07-14 21:58:14,753          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-14 21:58:15,433          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-14 21:58:16,106          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-14 21:58:16,387          root     INFO: Parsing R7 - Brasil
+2021-07-14 21:58:20,140          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/obstrucao-intestinal-de-bolsonaro-pode-ser-resultado-de-cirurgias-anteriores-entenda.shtml
+2021-07-14 21:58:28,063          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-para-70-dos-brasileiros-ha-corrupcao-no-governo-de-jair-bolsonaro.shtml
+2021-07-14 21:58:28,064          root     INFO: Finished script
