@@ -1,15 +1,6 @@
-2021-07-14 17:05:38,569          root     INFO: Starting script
-2021-07-14 17:05:39,374          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-14 17:05:40,027          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-14 17:05:40,688          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-14 17:05:40,940          root     INFO: Parsing R7 - Brasil
-2021-07-14 17:05:44,114          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/pf-apreende-bolsa-de-dinheiro-durante-operacao-contra-delegado-apoiado-por-bolsonaro-em-2020.shtml
-2021-07-14 17:05:47,128          root     INFO: A União Europeia <del>anunciou</del> <ins>apresentou</ins> nesta <del>quarta</del> <ins>quarta-feira</ins> (14) <del>um</del> <ins>seu novo</ins> plano <del>extenso</del> para tentar reduzir a poluição gerada <del>no continente</del> <ins>pelo bloco</ins> e, assim, conter o aquecimento global. <del>As</del> <ins>Entre outras medidas, as</ins> propostas preveem aumento do uso de energias <del>limpas, como</del> <ins>limpas -como</ins> solar e <del>do vento, estímulo ao avanço dos</del> <ins>eólica -, estímulos para o uso de</ins> carros elétricos e veto à fabricação de automóveis a combustão <del>até 2035, entre outras medidas.</del> <ins>a partir de 2035.</ins> Leia mais (07/14/2021 - 12h02)
-2021-07-14 17:05:48,976          root     INFO: Media ready with ids: 1415356870273929226
-2021-07-14 17:05:48,976          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-14 17:05:48,976          root     INFO: Article id: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/07/uniao-europeia-lanca-plano-ambicioso-contra-poluicao-que-inclui-vetar-carros-a-combustao-ate-2035.shtml
-2021-07-14 17:05:48,987          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/ambiente/rss091/*https://www1.folha.uol.com.br/mundo/2021/07/uniao-europeia-lanca-plano-ambicioso-contra-poluicao-que-inclui-vetar-carros-a-combustao-ate-2035.shtml
-2021-07-14 17:05:49,212          root     INFO: Replying to: 1415356872459231237
-2021-07-14 17:05:49,439          root     INFO: Id to store: 1415356873159712775
-2021-07-14 17:05:52,989          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/corrupcao-na-pandemia-pode-ser-tarefa-para-anos-diz-dirigente-da-ocde.shtml
-2021-07-14 17:05:52,990          root     INFO: Finished script
+2021-07-14 17:27:45,830          root     INFO: Starting script
+2021-07-14 17:27:46,964          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-14 17:27:47,721          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-14 17:27:48,488          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-14 17:27:48,694          root     INFO: Parsing R7 - Brasil
+2021-07-14 17:27:58,034          root     INFO: Finished script
