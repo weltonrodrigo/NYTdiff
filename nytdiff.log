@@ -1,15 +1,6 @@
-2021-07-14 14:16:04,321          root     INFO: Starting script
-2021-07-14 14:16:05,387          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-14 14:16:06,032          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-14 14:16:06,675          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-14 14:16:06,809          root     INFO: Parsing R7 - Brasil
-2021-07-14 14:16:09,808          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/ex-governador-da-paraiba-e-denunciado-por-suposto-dano-de-r-215-milhoes-em-contratacoes-de-funcionarios.shtml
-2021-07-14 14:16:09,854          root     INFO: Juiz diz que urna eletrônica foi aprovada em testes com especialistas em <del>kackers</del> <ins>hackers</ins>
-2021-07-14 14:16:11,527          root     INFO: Media ready with ids: 1415314183579738112
-2021-07-14 14:16:11,528          root     INFO: Text to tweet: Modificação do Título
-2021-07-14 14:16:11,528          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49946
-2021-07-14 14:16:11,540          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49946
-2021-07-14 14:16:11,756          root     INFO: Replying to: 1415314185144127491
-2021-07-14 14:16:12,000          root     INFO: Id to store: 1415314185949523971
-2021-07-14 14:16:18,178          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/procurador-da-davati-foi-acusado-na-justica-de-vender-catracas-em-nome-empresa-que-nao-as-comercializava.shtml
-2021-07-14 14:16:18,178          root     INFO: Finished script
+2021-07-14 14:26:44,125          root     INFO: Starting script
+2021-07-14 14:26:44,974          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-14 14:26:45,634          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-14 14:26:46,288          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-14 14:26:46,416          root     INFO: Parsing R7 - Brasil
+2021-07-14 14:26:56,106          root     INFO: Finished script
