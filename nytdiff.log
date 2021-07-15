@@ -1,36 +1,28 @@
-2021-07-15 00:59:02,138          root     INFO: Starting script
-2021-07-15 00:59:02,964          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-15 00:59:03,634          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-15 00:59:04,302          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-15 00:59:04,589          root     INFO: Parsing R7 - Brasil
-2021-07-15 00:59:04,764          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/07/como-furar-o-bloqueio-liraras.shtml
-2021-07-15 00:59:08,142          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/07/como-furar-o-bloqueio-liraras.shtml
-2021-07-15 00:59:08,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-ficara-internado-em-sp-para-tratamento-clinico-informa-hospital-sem-confirmar-previsao-de-cirurgia.shtml
-2021-07-15 00:59:08,170          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/constituicao-brasileira-nao-permite-a-revogacao-de-mandato-politico-por-assinaturas.shtml
-2021-07-15 00:59:08,185          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49952
-2021-07-15 00:59:08,234          root     INFO: Presidente do Senado prorroga CPI da Covid por 90 <del>dias</del> <ins>dias, e comissão poderá atuar até novembro</ins>
-2021-07-15 00:59:10,075          root     INFO: Media ready with ids: 1415475993146544136
-2021-07-15 00:59:10,076          root     INFO: Text to tweet: Modificação do Título
-2021-07-15 00:59:10,076          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-do-senado-prorroga-cpi-da-covid-por-90-dias.shtml
-2021-07-15 00:59:10,089          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-do-senado-prorroga-cpi-da-covid-por-90-dias.shtml
-2021-07-15 00:59:10,302          root     INFO: Replying to: 1415475995277156353
-2021-07-15 00:59:10,547          root     INFO: Id to store: 1415475996078264327
-2021-07-15 00:59:10,557          root     INFO: O presidente do Senado, Rodrigo Pacheco (DEM-MG), autorizou nesta quarta-feira (14) a prorrogação da CPI da Covid por 90 dias. <ins>Com isso, a comissão poderá atuar até o mês de novembro.</ins> Leia mais (07/14/2021 - 20h54)
-2021-07-15 00:59:12,364          root     INFO: Media ready with ids: 1415476002839486464
-2021-07-15 00:59:12,365          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-15 00:59:12,365          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-do-senado-prorroga-cpi-da-covid-por-90-dias.shtml
-2021-07-15 00:59:12,377          root     INFO: Replying to: 1415475996078264327
-2021-07-15 00:59:12,626          root     INFO: Id to store: 1415476004676685827
-2021-07-15 00:59:12,741          root     INFO: <del>Há uma grande chance</del> <ins>Uma hipótese</ins> de <del>a</del> <ins>causa da</ins> obstrução intestinal diagnosticada no presidente Jair Bolsonaro <del>ter sido causada por</del> <ins>são as</ins> aderências (partes do intestino que ficam coladas) decorrentes do seu histórico de intervenções cirúrgicas após a facada que sofreu em setembro de 2018. Leia mais (07/14/2021 - 18h50)
-2021-07-15 00:59:14,496          root     INFO: Media ready with ids: 1415476012050157572
-2021-07-15 00:59:14,496          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-15 00:59:14,497          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/obstrucao-intestinal-de-bolsonaro-pode-ser-resultado-de-cirurgias-anteriores-entenda.shtml
-2021-07-15 00:59:14,508          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/obstrucao-intestinal-de-bolsonaro-pode-ser-resultado-de-cirurgias-anteriores-entenda.shtml
-2021-07-15 00:59:14,659          root     INFO: Replying to: 1415476013585379329
-2021-07-15 00:59:14,948          root     INFO: Id to store: 1415476014336167937
-2021-07-15 00:59:22,193          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/lideres-de-oposicao-rejeitam-sugestao-de-lira-de-discutir-semipresencialismo-no-brasil-para-2026.shtml
-2021-07-15 00:59:22,199          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/supremo-atropela-pgr-e-adota-medidas-controversas-para-enfrentar-bolsonarismo.shtml
-2021-07-15 00:59:22,205          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/cpi-da-covid-encara-entraves-para-ser-a-lava-jato-de-bolsonaro.shtml
-2021-07-15 00:59:22,210          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-maioria-diz-que-militar-da-ativa-nao-deve-ir-a-manifestacao-politica-nem-ter-cargo-no-governo.shtml
-2021-07-15 00:59:22,215          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/07/sem-jogos-de-soma-zero.shtml
-2021-07-15 00:59:22,216          root     INFO: Finished script
+2021-07-15 02:01:57,942          root     INFO: Starting script
+2021-07-15 02:01:58,902          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-15 02:01:59,687          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-15 02:02:00,475          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-15 02:02:00,690          root     INFO: Parsing R7 - Brasil
+2021-07-15 02:02:03,818          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/senado-aprova-minirreforma-eleitoral-que-dificulta-acesso-de-partidos-pequenos-ao-legislativo-e-preve-cota-de-30-para-mulheres.shtml
+2021-07-15 02:02:09,656          root     INFO: New article tracked: http://noticias.r7.com/brasil/fux-concede-ao-reverendo-amilton-direito-de-ficar-em-silencio-na-cpi-14072021
+2021-07-15 02:02:09,670          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-chega-a-sp-para-avaliar-necessidade-de-cirurgia-14072021
+2021-07-15 02:02:09,683          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-lanca-plataforma-para-reconhecimento-de-apatridas-14072021
+2021-07-15 02:02:09,696          root     INFO: New article tracked: http://noticias.r7.com/brasil/onyx-nega-irregularidade-e-diz-que-denuncia-contra-covaxin-e-fantasia-14072021
+2021-07-15 02:02:09,708          root     INFO: New article tracked: http://noticias.r7.com/brasil/cinco-ex-ministros-da-defesa-apoiam-veto-a-militares-no-governo-14072021
+2021-07-15 02:02:09,720          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-compartilha-foto-no-hospital-mais-um-desafio-14072021
+2021-07-15 02:02:09,733          root     INFO: New article tracked: http://noticias.r7.com/brasil/flavio-diz-que-familia-esta-tranquila-ate-o-momento-sobre-saude-do-pai-14072021
+2021-07-15 02:02:09,747          root     INFO: New article tracked: http://noticias.r7.com/brasil/renan-calheiros-e-flavio-bolsonaro-voltam-a-discutir-na-cpi-me-erra-14072021
+2021-07-15 02:02:09,759          root     INFO: New article tracked: http://noticias.r7.com/brasil/camara-aprova-que-time-mandante-negocie-transmissao-de-jogo-14072021
+2021-07-15 02:02:09,773          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-problema-foi-provocado-por-ataque-sofrido-em-2018-14072021
+2021-07-15 02:02:09,786          root     INFO: New article tracked: http://noticias.r7.com/brasil/vacinacao-reduz-ocupacao-de-utis-nos-estados-para-menos-de-90-14072021
+2021-07-15 02:02:09,799          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-preve-5g-em-algumas-capitais-ainda-em-2021-14072021
+2021-07-15 02:02:09,811          root     INFO: New article tracked: http://noticias.r7.com/brasil/presidente-posta-foto-internado-em-hospital-mais-um-desafio-14072021
+2021-07-15 02:02:09,824          root     INFO: New article tracked: http://noticias.r7.com/brasil/comissao-ouve-ministro-onyx-sobre-ameacas-a-deputado-acompanhe-14072021
+2021-07-15 02:02:09,837          root     INFO: New article tracked: http://noticias.r7.com/brasil/covid-brasil-tem-menor-taxa-de-transmissao-desde-novembro-14072021
+2021-07-15 02:02:09,851          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-sera-transferido-para-sp-para-avaliar-necessidade-de-cirurgia-14072021
+2021-07-15 02:02:09,864          root     INFO: New article tracked: http://noticias.r7.com/brasil/mourao-diz-que-problema-de-bolsonaro-tem-relacao-a-atentado-14072021
+2021-07-15 02:02:09,877          root     INFO: New article tracked: http://noticias.r7.com/brasil/governo-nao-pediu-alteracao-sobre-empresa-de-cingapura-diz-diretora-14072021
+2021-07-15 02:02:09,889          root     INFO: New article tracked: http://noticias.r7.com/brasil/apos-internacao-de-bolsonaro-luiz-fux-se-encontrara-com-arthur-lira-14072021
+2021-07-15 02:02:09,902          root     INFO: New article tracked: http://noticias.r7.com/brasil/bolsonaro-esta-bem-e-ficara-em-observacao-no-hospital-diz-ministro-14072021
+2021-07-15 02:02:09,918          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/auxiliares-de-fux-assinam-nota-contra-ataques-irresponsaveis-de-bolsonaro-a-barroso.shtml
+2021-07-15 02:02:09,919          root     INFO: Finished script
