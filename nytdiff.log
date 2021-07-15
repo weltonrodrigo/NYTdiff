@@ -1,20 +1,36 @@
-2021-07-14 23:58:14,107          root     INFO: Starting script
-2021-07-14 23:58:15,096          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-14 23:58:15,873          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-14 23:58:16,653          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-14 23:58:16,919          root     INFO: Parsing R7 - Brasil
-2021-07-14 23:58:19,906          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-do-senado-prorroga-cpi-da-covid-por-90-dias.shtml
-2021-07-14 23:58:20,159          root     INFO: <del>Com obstrução intestinal,</del> Bolsonaro <del>será transferido a</del> <ins>é internado com obstrução intestinal e pode passar por nova cirurgia em</ins> São Paulo <del>para possível cirurgia de emergência</del>
-2021-07-14 23:58:22,031          root     INFO: Media ready with ids: 1415460692233236480
-2021-07-14 23:58:22,031          root     INFO: Text to tweet: Modificação do Título
-2021-07-14 23:58:22,031          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-obstrucao-intestinal-bolsonaro-sera-transferido-a-sao-paulo-para-possivel-cirurgia-de-emergencia.shtml
-2021-07-14 23:58:22,041          root     INFO: Replying to: 1415445620626792453
-2021-07-14 23:58:22,349          root     INFO: Id to store: 1415460694426853376
-2021-07-14 23:58:22,357          root     INFO: <del>O presidente Jair Bolsonaro deverá ser transferido para São Paulo, após seu médico constatar um</del> <ins>Com</ins> quadro de obstrução <del>intestinal. Na capital paulista, ele passará por novos exames</del> <ins>intestinal, o presidente Jair Bolsonaro foi levado de Brasília</ins> para <del>veriticar se</del> <ins>São Paulo nesta quarta-feira (14). A equipe médica vai avaliar a necessidade de</ins> uma cirurgia de emergência <del>será necessária.</del> <ins>após a realização de exames mais detalhados.</ins> Leia mais (07/14/2021 - 15h49)
-2021-07-14 23:58:24,097          root     INFO: Media ready with ids: 1415460701271994369
-2021-07-14 23:58:24,097          root     INFO: Text to tweet: Modificação da Descrição
-2021-07-14 23:58:24,098          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/com-obstrucao-intestinal-bolsonaro-sera-transferido-a-sao-paulo-para-possivel-cirurgia-de-emergencia.shtml
-2021-07-14 23:58:24,108          root     INFO: Replying to: 1415460694426853376
-2021-07-14 23:58:24,424          root     INFO: Id to store: 1415460702928707587
-2021-07-14 23:58:30,245          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/planalto-e-congresso-mantem-clima-tenso-apos-falas-golpistas-de-bolsonaro-sobre-eleicoes.shtml
-2021-07-14 23:58:30,246          root     INFO: Finished script
+2021-07-15 00:59:02,138          root     INFO: Starting script
+2021-07-15 00:59:02,964          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-15 00:59:03,634          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-15 00:59:04,302          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-15 00:59:04,589          root     INFO: Parsing R7 - Brasil
+2021-07-15 00:59:04,764          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/07/como-furar-o-bloqueio-liraras.shtml
+2021-07-15 00:59:08,142          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2021/07/como-furar-o-bloqueio-liraras.shtml
+2021-07-15 00:59:08,156          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/bolsonaro-ficara-internado-em-sp-para-tratamento-clinico-informa-hospital-sem-confirmar-previsao-de-cirurgia.shtml
+2021-07-15 00:59:08,170          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/constituicao-brasileira-nao-permite-a-revogacao-de-mandato-politico-por-assinaturas.shtml
+2021-07-15 00:59:08,185          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://blogdofred.blogfolha.uol.com.br/?p=49952
+2021-07-15 00:59:08,234          root     INFO: Presidente do Senado prorroga CPI da Covid por 90 <del>dias</del> <ins>dias, e comissão poderá atuar até novembro</ins>
+2021-07-15 00:59:10,075          root     INFO: Media ready with ids: 1415475993146544136
+2021-07-15 00:59:10,076          root     INFO: Text to tweet: Modificação do Título
+2021-07-15 00:59:10,076          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-do-senado-prorroga-cpi-da-covid-por-90-dias.shtml
+2021-07-15 00:59:10,089          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-do-senado-prorroga-cpi-da-covid-por-90-dias.shtml
+2021-07-15 00:59:10,302          root     INFO: Replying to: 1415475995277156353
+2021-07-15 00:59:10,547          root     INFO: Id to store: 1415475996078264327
+2021-07-15 00:59:10,557          root     INFO: O presidente do Senado, Rodrigo Pacheco (DEM-MG), autorizou nesta quarta-feira (14) a prorrogação da CPI da Covid por 90 dias. <ins>Com isso, a comissão poderá atuar até o mês de novembro.</ins> Leia mais (07/14/2021 - 20h54)
+2021-07-15 00:59:12,364          root     INFO: Media ready with ids: 1415476002839486464
+2021-07-15 00:59:12,365          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-15 00:59:12,365          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/presidente-do-senado-prorroga-cpi-da-covid-por-90-dias.shtml
+2021-07-15 00:59:12,377          root     INFO: Replying to: 1415475996078264327
+2021-07-15 00:59:12,626          root     INFO: Id to store: 1415476004676685827
+2021-07-15 00:59:12,741          root     INFO: <del>Há uma grande chance</del> <ins>Uma hipótese</ins> de <del>a</del> <ins>causa da</ins> obstrução intestinal diagnosticada no presidente Jair Bolsonaro <del>ter sido causada por</del> <ins>são as</ins> aderências (partes do intestino que ficam coladas) decorrentes do seu histórico de intervenções cirúrgicas após a facada que sofreu em setembro de 2018. Leia mais (07/14/2021 - 18h50)
+2021-07-15 00:59:14,496          root     INFO: Media ready with ids: 1415476012050157572
+2021-07-15 00:59:14,496          root     INFO: Text to tweet: Modificação da Descrição
+2021-07-15 00:59:14,497          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/obstrucao-intestinal-de-bolsonaro-pode-ser-resultado-de-cirurgias-anteriores-entenda.shtml
+2021-07-15 00:59:14,508          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/obstrucao-intestinal-de-bolsonaro-pode-ser-resultado-de-cirurgias-anteriores-entenda.shtml
+2021-07-15 00:59:14,659          root     INFO: Replying to: 1415476013585379329
+2021-07-15 00:59:14,948          root     INFO: Id to store: 1415476014336167937
+2021-07-15 00:59:22,193          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/lideres-de-oposicao-rejeitam-sugestao-de-lira-de-discutir-semipresencialismo-no-brasil-para-2026.shtml
+2021-07-15 00:59:22,199          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/supremo-atropela-pgr-e-adota-medidas-controversas-para-enfrentar-bolsonarismo.shtml
+2021-07-15 00:59:22,205          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/cpi-da-covid-encara-entraves-para-ser-a-lava-jato-de-bolsonaro.shtml
+2021-07-15 00:59:22,210          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/datafolha-maioria-diz-que-militar-da-ativa-nao-deve-ir-a-manifestacao-politica-nem-ter-cargo-no-governo.shtml
+2021-07-15 00:59:22,215          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/tabata-amaral/2021/07/sem-jogos-de-soma-zero.shtml
+2021-07-15 00:59:22,216          root     INFO: Finished script
