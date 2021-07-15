@@ -1,51 +1,28 @@
-2021-07-15 02:28:54,440          root     INFO: Starting script
-2021-07-15 02:28:55,380          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-15 02:28:56,159          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-15 02:28:56,965          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-15 02:28:57,213          root     INFO: Parsing R7 - Brasil
-2021-07-15 02:28:57,363          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/solange-srour/2021/07/o-salario-nos-eua-e-o-pib-do-brasil.shtml
-2021-07-15 02:28:57,381          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2021/07/em-vez-de-martir-bolsonaro-e-o-mestre-da-bagunca-na-saude-e-na-doenca.shtml
-2021-07-15 02:28:57,397          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/quais-sao-os-planos-do-brasil-para-a-neutralidade-de-carbono-em-2050.shtml
-2021-07-15 02:28:57,413          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/vacinas-em-alta.shtml
-2021-07-15 02:28:57,426          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2021/07/no-limite-controle-fiscal-agropecuario-pode-afetar-exportacoes.shtml
-2021-07-15 02:28:57,440          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/josimarmelo/2021/07/de-volta-para-casa.shtml
-2021-07-15 02:28:57,452          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/politica-sem-panaceia.shtml
-2021-07-15 02:28:57,463          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2021/07/a-morte-do-tesao-e-outras-sequelas-sexuais-da-pandemia.shtml
-2021-07-15 02:28:57,474          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/07/preocupacao-de-militares-com-imagem-no-governo-bolsonaro-ficou-no-passado.shtml
-2021-07-15 02:28:57,485          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2021/07/estimular-extremismo-e-o-modelo-de-negocio-do-facebook.shtml
-2021-07-15 02:28:57,496          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/ao-regular-visitas-por-videochamadas-cremesp-extrapola-seu-poder.shtml
-2021-07-15 02:28:59,934          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/policiais-cearenses-monitoravam-residencia-e-prenderam-dj-ivis-em-acao-que-durou-10-minutos.shtml
-2021-07-15 02:28:59,947          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/militar-que-estava-em-suposto-jantar-da-propina-dira-a-cpi-que-estava-iniciando-consultoria-ao-mercado-privado.shtml
-2021-07-15 02:28:59,958          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/apos-flores-de-nora-de-portinari-omar-aziz-recebe-mais-presentes-e-usa-raio-x-para-seguranca.shtml
-2021-07-15 02:28:59,970          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/plataformas-se-queixam-de-pedidos-vagos-de-informacao-pela-cpi-da-covid.shtml
-2021-07-15 02:28:59,982          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/governo-bolsonaro-aceitou-garantia-fora-das-regras-e-do-prazo-previstos-em-contrato-na-compra-da-covaxin.shtml
-2021-07-15 02:28:59,998          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/bruno-boghossian/2021/07/preocupacao-de-militares-com-imagem-no-governo-bolsonaro-ficou-no-passado.shtml
-2021-07-15 02:29:00,010          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/deputado-cobra-informacoes-sobre-internacao-de-olavo-de-carvalho-no-hospital-das-clinicas-da-usp.shtml
-2021-07-15 02:29:00,022          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2021/07/campanha-lula-livre-sera-rebatizada-como-lula-livre-brasil-livre.shtml
-2021-07-15 02:29:00,067          root     INFO: Senado aprova minirreforma eleitoral que dificulta acesso de partidos pequenos <del>ao Legislativo</del> e prevê cota de 30% para mulheres
-2021-07-15 02:29:01,821          root     INFO: Media ready with ids: 1415498608225439749
-2021-07-15 02:29:01,822          root     INFO: Text to tweet: Modificação do Título
-2021-07-15 02:29:01,822          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/senado-aprova-minirreforma-eleitoral-que-dificulta-acesso-de-partidos-pequenos-ao-legislativo-e-preve-cota-de-30-para-mulheres.shtml
-2021-07-15 02:29:01,833          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/senado-aprova-minirreforma-eleitoral-que-dificulta-acesso-de-partidos-pequenos-ao-legislativo-e-preve-cota-de-30-para-mulheres.shtml
-2021-07-15 02:29:02,112          root     INFO: Replying to: 1415498610121265153
-2021-07-15 02:29:02,389          root     INFO: Id to store: 1415498611069267968
-2021-07-15 02:29:08,163          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/perto-do-stf-mendonca-virou-o-terrivelmente-evangelico-de-bolsonaro-apos-pregacao-de-reverendo.shtml
-2021-07-15 02:29:08,167          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/07/o-que-significa-a-desistencia-da-candidatura-de-luciano-huck.shtml
-2021-07-15 02:29:08,172          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jaimespitzcovsky/2021/07/encontros-sigilosos-refletem-pressoes-de-biden-por-mudancas-no-oriente-medio.shtml
-2021-07-15 02:29:08,176          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/catarina-rochamonte/2021/07/impeachment-pela-direita.shtml
-2021-07-15 02:29:08,181          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/alem-de-barrar-impeachment-lira-da-espaco-a-projetos-da-agenda-bolsonarista.shtml
-2021-07-15 02:29:08,186          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/apuracoes-e-autuacoes-contra-fundos-de-pensao-tem-queda-drastica-no-governo-bolsonaro.shtml
-2021-07-15 02:29:08,191          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2021/07/bolsonaro-ja-era.shtml
-2021-07-15 02:29:08,196          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/prefeito-de-sp-pode-driblar-crise-ideologica-e-de-fake-news-da-camara-com-parecer-de-2020.shtml
-2021-07-15 02:29:08,201          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/latinoamerica21/2021/07/argentina-renegocia-divida-antes-das-eleicoes-parlamentares.shtml
-2021-07-15 02:29:08,205          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/governo-bolsonaro-deixa-em-segundo-plano-propaganda-sobre-combate-a-corrupcao-nas-redes-sociais.shtml
-2021-07-15 02:29:08,210          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2021/07/industria-da-motocicleta-acredita-em-crescimento-no-segundo-semestre.shtml
-2021-07-15 02:29:08,215          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/opiniao/2021/07/contra-o-eleitor.shtml
-2021-07-15 02:29:08,220          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/vice-presidencia-juridica-da-cbf-vai-enviar-reportagens-de-suposto-assedio-de-caboclo-para-conmenbol-e-fifa.shtml
-2021-07-15 02:29:08,224          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2021/07/que-comam-plastico.shtml
-2021-07-15 02:29:08,230          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2021/07/doi-codi-e-o-rei-leao.shtml
-2021-07-15 02:29:08,235          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/jucakfouri/2021/07/corintianos-e-flamenguistas-nao-querem-saber-de-eurocopa.shtml
-2021-07-15 02:29:08,239          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/cristina-serra/2021/07/baixem-o-tom-fardados.shtml
-2021-07-15 02:29:08,243          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2021/07/propina-sem-colarinho.shtml
-2021-07-15 02:29:08,247          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2021/07/a-pandemia-e-a-janela-de-atencao.shtml
-2021-07-15 02:29:08,248          root     INFO: Finished script
+2021-07-15 02:50:14,602          root     INFO: Starting script
+2021-07-15 02:50:15,430          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-15 02:50:16,100          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-15 02:50:16,773          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-15 02:50:17,066          root     INFO: Parsing R7 - Brasil
+2021-07-15 02:50:17,250          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2021/07/subsubs-com-estafe.shtml
+2021-07-15 02:50:26,954          root     INFO: Removed http://noticias.r7.com/brasil/flavio-diz-que-familia-esta-tranquila-ate-o-momento-sobre-saude-do-pai-14072021
+2021-07-15 02:50:26,960          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-problema-foi-provocado-por-ataque-sofrido-em-2018-14072021
+2021-07-15 02:50:26,968          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-sera-transferido-para-sp-para-avaliar-necessidade-de-cirurgia-14072021
+2021-07-15 02:50:26,975          root     INFO: Removed http://noticias.r7.com/brasil/fux-concede-ao-reverendo-amilton-direito-de-ficar-em-silencio-na-cpi-14072021
+2021-07-15 02:50:26,981          root     INFO: Removed http://noticias.r7.com/brasil/onyx-nega-irregularidade-e-diz-que-denuncia-contra-covaxin-e-fantasia-14072021
+2021-07-15 02:50:26,987          root     INFO: Removed http://noticias.r7.com/brasil/covid-brasil-tem-menor-taxa-de-transmissao-desde-novembro-14072021
+2021-07-15 02:50:26,995          root     INFO: Removed http://noticias.r7.com/brasil/renan-calheiros-e-flavio-bolsonaro-voltam-a-discutir-na-cpi-me-erra-14072021
+2021-07-15 02:50:27,002          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-compartilha-foto-no-hospital-mais-um-desafio-14072021
+2021-07-15 02:50:27,008          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-esta-bem-e-ficara-em-observacao-no-hospital-diz-ministro-14072021
+2021-07-15 02:50:27,015          root     INFO: Removed https://redir.folha.com.br/redir/online/opiniao/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2021/07/venezuela-das-milicias-ficou-mais-perto-apos-nota-das-forcas-armadas-contra-presidente-da-cpi.shtml
+2021-07-15 02:50:27,022          root     INFO: Removed http://noticias.r7.com/brasil/comissao-ouve-ministro-onyx-sobre-ameacas-a-deputado-acompanhe-14072021
+2021-07-15 02:50:27,028          root     INFO: Removed http://noticias.r7.com/brasil/cinco-ex-ministros-da-defesa-apoiam-veto-a-militares-no-governo-14072021
+2021-07-15 02:50:27,036          root     INFO: Removed http://noticias.r7.com/brasil/mourao-diz-que-problema-de-bolsonaro-tem-relacao-a-atentado-14072021
+2021-07-15 02:50:27,042          root     INFO: Removed http://noticias.r7.com/brasil/presidente-posta-foto-internado-em-hospital-mais-um-desafio-14072021
+2021-07-15 02:50:27,049          root     INFO: Removed http://noticias.r7.com/brasil/apos-internacao-de-bolsonaro-luiz-fux-se-encontrara-com-arthur-lira-14072021
+2021-07-15 02:50:27,056          root     INFO: Removed http://noticias.r7.com/brasil/governo-nao-pediu-alteracao-sobre-empresa-de-cingapura-diz-diretora-14072021
+2021-07-15 02:50:27,064          root     INFO: Removed http://noticias.r7.com/brasil/bolsonaro-chega-a-sp-para-avaliar-necessidade-de-cirurgia-14072021
+2021-07-15 02:50:27,069          root     INFO: Removed http://noticias.r7.com/brasil/vacinacao-reduz-ocupacao-de-utis-nos-estados-para-menos-de-90-14072021
+2021-07-15 02:50:27,075          root     INFO: Removed http://noticias.r7.com/brasil/governo-lanca-plataforma-para-reconhecimento-de-apatridas-14072021
+2021-07-15 02:50:27,081          root     INFO: Removed http://noticias.r7.com/brasil/governo-preve-5g-em-algumas-capitais-ainda-em-2021-14072021
+2021-07-15 02:50:27,086          root     INFO: Removed http://noticias.r7.com/brasil/camara-aprova-que-time-mandante-negocie-transmissao-de-jogo-14072021
+2021-07-15 02:50:27,087          root     INFO: Finished script
