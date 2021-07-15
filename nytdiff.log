@@ -1,8 +1,15 @@
-2021-07-15 13:26:30,593          root     INFO: Starting script
-2021-07-15 13:26:31,562          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
-2021-07-15 13:26:32,362          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
-2021-07-15 13:26:33,166          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
-2021-07-15 13:26:33,370          root     INFO: Parsing R7 - Brasil
-2021-07-15 13:26:36,836          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/foi-retirado-um-litro-de-liquido-do-estomago-diz-eduardo-sobre-bolsonaro.shtml
-2021-07-15 13:26:44,052          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/apos-falas-golpistas-bolsonaro-agora-se-diz-alvo-de-boicote-de-gente-importante.shtml
-2021-07-15 13:26:44,053          root     INFO: Finished script
+2021-07-15 13:47:16,544          root     INFO: Starting script
+2021-07-15 13:47:17,407          root     INFO: Parsing Folha de S.Paulo - Opinião - Principal
+2021-07-15 13:47:18,078          root     INFO: Parsing Folha de S.Paulo - Poder - Principal
+2021-07-15 13:47:18,754          root     INFO: Parsing Folha de S.Paulo - Ambiente - Principal
+2021-07-15 13:47:19,039          root     INFO: Parsing R7 - Brasil
+2021-07-15 13:47:22,774          root     INFO: New article tracked: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/ministerio-da-justica-multa-banco-safra-em-r-24-milhoes-por-explorar-hipervulnerabilidade-de-idosos.shtml
+2021-07-15 13:47:22,867          root     INFO: Relator <del>no Congresso</del> infla fundo eleitoral para 2022, e verba pode <del>chegar a quase</del> <ins>atingir</ins> R$ 6 bilhões
+2021-07-15 13:47:24,901          root     INFO: Media ready with ids: 1415669329064906753
+2021-07-15 13:47:24,902          root     INFO: Text to tweet: Modificação do Título
+2021-07-15 13:47:24,902          root     INFO: Article id: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/relator-no-congresso-infla-fundo-eleitoral-para-2022-e-verba-pode-chegar-a-quase-r-6-bilhoes.shtml
+2021-07-15 13:47:24,916          root     INFO: Tweeting url: https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2021/07/relator-no-congresso-infla-fundo-eleitoral-para-2022-e-verba-pode-chegar-a-quase-r-6-bilhoes.shtml
+2021-07-15 13:47:25,179          root     INFO: Replying to: 1415669331128557581
+2021-07-15 13:47:25,499          root     INFO: Id to store: 1415669332198117379
+2021-07-15 13:47:33,367          root     INFO: Removed https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2021/07/irmao-de-lider-do-gabinete-do-odio-de-bolsonaro-tem-cargo-na-prefeitura-de-campina-grande.shtml
+2021-07-15 13:47:33,368          root     INFO: Finished script
